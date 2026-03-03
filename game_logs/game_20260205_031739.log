@@ -1,0 +1,546 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (5): Kazakus, Mosh'Ogg Announcer, Vex Crow, Dollmaster Dorian, Mini-Mage
+  Field: Skaterbot[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Dalaran Librarian[2/3] -> Skaterbot
+[Turn 3, Step 6] Opponent: 카드 플레이 - Kabal Chemist (코스트: 4)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Kabal Chemist
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/5
+  Hand (8): Kazakus, Mosh'Ogg Announcer, Vex Crow, Dollmaster Dorian, Mini-Mage, Evasive Feywing, Silver Hand Regent, Daring Fire-Eater
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Dalaran Librarian[2/2], Kabal Chemist[3/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Kabal Chemist
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/7
+  Hand (9): Kazakus, Mosh'Ogg Announcer, Vex Crow, Dollmaster Dorian, Mini-Mage, Silver Hand Regent, Daring Fire-Eater, Defender of Argus, Stubborn Gastropod
+  Field: Evasive Feywing[5/4]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (9)
+  Field: Dalaran Librarian[2/2], Kabal Chemist[3/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(98) → 18로 보정
+[Turn 8, Step 18] Agent: 공격 - Silver Hand Regent[3/3] -> Dalaran Librarian
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Silver Hand Regent
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/8
+  Hand (8): Molten Giant, Kazakus, Mosh'Ogg Announcer, Vex Crow, Dollmaster Dorian, Mini-Mage, Daring Fire-Eater, Defender of Argus
+  Field: Evasive Feywing[5/4], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (10)
+  Field: Kabal Chemist[3/1]
+[Turn 8, Step 20] Agent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 8, Step 21] Agent: 선택 - Superior Potion
+[Turn 8, Step 21] Agent: 선택 - Shadow Oil
+[Turn 8, Step 21] Agent: 선택 - Heart of Fire
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(72) → 15로 보정
+[Turn 9, Step 22] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(55) → 4로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 9, Step 24] Agent: 공격 - Kazakus[3/3] -> Kabal Chemist
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/9
+  Hand (8): Molten Giant, Mosh'Ogg Announcer, Vex Crow, Dollmaster Dorian, Daring Fire-Eater, Defender of Argus, Kazakus Potion, Gyrocopter
+  Field: Evasive Feywing[5/4], Stubborn Gastropod[1/2], Mini-Mage[4/1]
+Opponent: Rexxar HP: 28, Mana: 9/9
+  Hand (10)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Gelbin Mekkatorque (코스트: 6)
+[Turn 9, Step 26] Opponent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(96) → 28로 보정
+[Turn 10, Step 27] Agent: 공격 - Stubborn Gastropod[2/3] -> Emboldener 3000
+[Turn 10, Step 28] Agent: 카드 플레이 - Vex Crow (코스트: 4)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(51) → 11로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Gelbin Mekkatorque
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (8): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Daring Fire-Eater, Defender of Argus, Kazakus Potion, Gyrocopter, Silithid Swarmer
+  Field: Evasive Feywing[5/4], Stubborn Gastropod[2/3], Mini-Mage[4/1], Vex Crow[3/3]
+Opponent: Rexxar HP: 27, Mana: 0/10
+  Hand (8)
+  Field: Gelbin Mekkatorque[6/5], Gormok the Impaler[4/4]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(15) → 5로 보정
+[Turn 10, Step 30] Agent: 공격 - Evasive Feywing[5/4] -> Gelbin Mekkatorque
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 10, Step 31] Agent: 공격 - Mini-Mage[4/1] -> Gormok the Impaler
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(69) → 12로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (8): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Daring Fire-Eater, Defender of Argus, Kazakus Potion, Gyrocopter, Snowflipper Penguin
+  Field: Stubborn Gastropod[2/3], Vex Crow[3/3], Silithid Swarmer[3/5]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Stranglethorn Tiger (코스트: 5)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Toxic Arrow -> Stranglethorn Tiger (코스트: 2)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Potion of Madness -> Stubborn Gastropod (코스트: 1)
+[Turn 10, Step 35] Opponent: 공격 - Stubborn Gastropod[2/3] -> Silithid Swarmer
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(88) → 16로 보정
+[Turn 10, Step 36] Agent: 공격 - Vex Crow[3/3] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(89) → 9로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Daring Fire-Eater (코스트: 1)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(61) → 7로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Daring Fire-Eater
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (7): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Defender of Argus, Kazakus Potion, Snowflipper Penguin, Holomancer
+  Field: Vex Crow[3/3], Gyrocopter[4/5]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (6)
+  Field: Stranglethorn Tiger[5/3], Parachute Brigand[2/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Oblivitron (코스트: 6)
+[Turn 10, Step 40] Opponent: 공격 - Parachute Brigand[2/2] -> Vex Crow
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 10, Step 42] Agent: 카드 플레이 - Kazakus Potion -> Gyrocopter (코스트: 10)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 43] Agent: 공격 - Vex Crow[3/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Stranglethorn Tiger[5/3] -> Haunted Creeper
+[Turn 10, Step 44] Opponent: 공격 - Oblivitron[3/4] -> Vex Crow
+[Turn 10, Step 44] Opponent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (10): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Defender of Argus, Holomancer, Corridor Creeper, Despicable Dreadlord, Imprisoned Antaen, Imprisoned Homunculus, Spiritsinger Umbra
+  Field: Spectral Spider[1/1], Spectral Spider[1/1], Snowflipper Penguin[1/1]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (6)
+  Field: Stranglethorn Tiger[5/2], Oblivitron[3/1], Venture Co. Mercenary[7/6]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Oblivitron
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(78) → 8로 보정
+[Turn 10, Step 47] Agent: 공격 - Snowflipper Penguin[1/1] -> Safeguard
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 48] Agent: 공격 - Spectral Spider[1/1] -> Safeguard
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Defender of Argus (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (8): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Holomancer, Corridor Creeper, Despicable Dreadlord, Imprisoned Antaen, Imprisoned Homunculus
+  Field: Spectral Spider[1/1], Spiritsinger Umbra[4/5], Defender of Argus[2/3]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (5)
+  Field: Stranglethorn Tiger[5/2], Safeguard[4/3], Vault Safe[0/5], Venture Co. Mercenary[7/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Grim Necromancer (코스트: 7)
+[Turn 10, Step 50] Opponent: 공격 - Venture Co. Mercenary[7/6] -> Spiritsinger Umbra
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(89) → 17로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Grim Necromancer
+[Turn 10, Step 52] Agent: 공격 - Defender of Argus[2/3] -> Vault Safe
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Corridor Creeper (코스트: 0)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Holomancer (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (7): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Despicable Dreadlord, Imprisoned Antaen, Imprisoned Homunculus, Transfer Student
+  Field: Spectral Spider[1/1], Defender of Argus[2/3], Corridor Creeper[2/5], Holomancer[3/3]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (5)
+  Field: Stranglethorn Tiger[5/2], Safeguard[4/3], Vault Safe[0/3], Venture Co. Mercenary[7/2], Skeleton[1/1], Grim Necromancer[2/3], Skeleton[1/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 55] Agent: 공격 - Spectral Spider[1/1] -> Safeguard
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 공격 - Stranglethorn Tiger[5/2] -> Corridor Creeper
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(61) → 13로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Grim Necromancer
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Imprisoned Antaen (코스트: 6)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/10
+  Hand (6): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Despicable Dreadlord, Imprisoned Homunculus, Cloakscale Chemist
+  Field: Defender of Argus[2/3], Holomancer[3/3], Transfer Student[2/2], Imprisoned Antaen[10/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (6)
+  Field: Safeguard[4/2], Vault Safe[0/3], Venture Co. Mercenary[7/2], Skeleton[1/1], Grim Necromancer[2/2], Skeleton[1/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Imprisoned Homunculus (코스트: 1)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - E.M.P. Operative -> Vault Safe (코스트: 8)
+[Turn 10, Step 61] Opponent: 공격 - Venture Co. Mercenary[7/2] -> Holomancer
+[Turn 10, Step 61] Opponent: 공격 - Safeguard[4/2] -> E.M.P. Operative
+[Turn 10, Step 61] Opponent: 공격 - Skeleton[1/1] -> Defender of Argus
+[Turn 10, Step 61] Opponent: 공격 - Grim Necromancer[2/2] -> Defender of Argus
+[Turn 10, Step 61] Opponent: 영웅 능력 사용
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(30) → 4로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 10, Step 64] Agent: 공격 - Transfer Student[2/2] -> Safeguard
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (4): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian, Despicable Dreadlord
+  Field: Imprisoned Antaen[10/6], Imprisoned Homunculus[2/5], Cloakscale Chemist[1/2], Jungle Panther[4/2]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (6)
+  Field: Vault Safe[0/5], Skeleton[1/1], E.M.P. Operative[3/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Faceless Behemoth (코스트: 10)
+[Turn 10, Step 65] Opponent: 공격 - Skeleton[1/1] -> Jaina Proudmoore
+[Turn 10, Step 65] Opponent: 공격 - E.M.P. Operative[3/3] -> Jaina Proudmoore
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Despicable Dreadlord (코스트: 5)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(53) → 8로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Cloakscale Chemist
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Toxfin (코스트: 1)
+[Turn 10, Step 69] Agent: 공격 - Jungle Panther[4/2] -> Vault Safe
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (3): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian
+  Field: Imprisoned Antaen[10/6], Imprisoned Homunculus[2/5], Cloakscale Chemist[1/2], Jungle Panther[4/2], Despicable Dreadlord[4/5], Toxfin[1/2]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (6)
+  Field: Faceless Behemoth[10/8]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 70] Agent: 공격 - Cloakscale Chemist[1/2] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 10, Step 71] Opponent: 공격 - Faceless Behemoth[10/7] -> Imprisoned Homunculus
+[Turn 10, Step 71] Opponent: 카드 플레이 - Headhunter's Hatchet (코스트: 2)
+[Turn 10, Step 71] Opponent: 공격 - Rexxar[2/18] -> Cloakscale Chemist
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 카드 플레이 - Corpse Raiser -> Jungle Panther (코스트: 5)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(62) → 4로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(61) → 10로 보정
+[Turn 10, Step 74] Agent: 공격 - Despicable Dreadlord[4/5] -> Faceless Behemoth
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (3): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian
+  Field: Imprisoned Antaen[10/6], Jungle Panther[4/2], Toxfin[1/2], Corpse Raiser[3/3]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (4)
+  Field: Faceless Behemoth[10/1], Stormwatcher[4/8], Mogu Cultist[1/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 10, Step 75] Agent: 공격 - Toxfin[1/2] -> Mogu Cultist
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 공격 - Rexxar[2/16] -> Jaina Proudmoore
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Toxfin
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 10, Step 79] Agent: 공격 - Corpse Raiser[3/3] -> Stormwatcher
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/10
+  Hand (3): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian
+  Field: Imprisoned Antaen[10/6], Jungle Panther[4/2], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (5)
+  Field: Faceless Behemoth[10/1], Stormwatcher[4/5]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 80] Agent: 공격 - Jungle Panther[4/2] -> Faceless Behemoth
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 10, Step 81] Agent: 공격 - Imprisoned Antaen[10/6] -> Stormwatcher
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 영웅 능력 사용
+[Turn 10, Step 82] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 82] Opponent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(40) → 10로 보정
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Cyclopian Horror
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/10
+  Hand (3): Molten Giant, Mosh'Ogg Announcer, Dollmaster Dorian
+  Field: Imprisoned Antaen[10/2], Azerite Elemental[2/7], Jungle Panther[4/2], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 16, Mana: 3/10
+  Hand (4)
+  Field: Cyclopian Horror[3/5], Small-Time Buccaneer[1/1]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(93) → 8로 보정
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Azerite Elemental
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 88] Agent: 공격 - Jungle Panther[4/2] -> Cyclopian Horror
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 89] Agent: 공격 - Imprisoned Antaen[10/2] -> Cyclopian Horror
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (3): Coldlight Oracle, Molten Giant, Dollmaster Dorian
+  Field: Azerite Elemental[2/6], Splitting Festeroot[4/4], Mosh'Ogg Announcer[6/5]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (5)
+  Field: Small-Time Buccaneer[1/1]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 카드 플레이 - Anubisath Warbringer (코스트: 9)
+[Turn 10, Step 90] Opponent: 공격 - Small-Time Buccaneer[1/1] -> Jaina Proudmoore
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(79) → 16로 보정
+[Turn 10, Step 91] Agent: 공격 - Splitting Festeroot[4/4] -> Small-Time Buccaneer
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 92] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 93] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 94] Agent: 영웅 능력 사용 -> Azerite Elemental
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (4): Molten Giant, Mortuary Machine, Shieldbearer, Arcane Giant
+  Field: Azerite Elemental[2/5], Splitting Festeroot[4/3], Mosh'Ogg Announcer[6/5], Dollmaster Dorian[2/6], Coldlight Oracle[2/2]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (7)
+  Field: Anubisath Warbringer[9/6]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(68) → 20로 보정
+[Turn 10, Step 96] Agent: 공격 - Dollmaster Dorian[2/6] -> Rexxar
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 10, Step 97] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(82) → 4로 보정
+[Turn 10, Step 98] Agent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 10, Step 99] Agent: 공격 - Splitting Festeroot[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (4): Molten Giant, Mortuary Machine, Shieldbearer, Arcane Giant
+  Field: Azerite Elemental[2/5], Splitting Festeroot[4/3], Mosh'Ogg Announcer[6/5], Dollmaster Dorian[2/6], Coldlight Oracle[2/2], Gilnean Royal Guard[3/8]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (8)
+  Field: Anubisath Warbringer[9/6]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 100] Agent: 공격 - Mosh'Ogg Announcer[6/5] -> Anubisath Warbringer
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 101] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 101] Opponent: 턴 종료
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 10, Step 102] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 10, Step 103] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 104] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 104] Opponent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 10, Step 104] Opponent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 10, Step 104] Opponent: 영웅 능력 사용
+[Turn 10, Step 104] Opponent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 10, Step 104] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (3): Molten Giant, Mortuary Machine, Arcane Giant
+  Field: Azerite Elemental[2/5], Splitting Festeroot[4/3], Dollmaster Dorian[2/6], Coldlight Oracle[2/2], Gilnean Royal Guard[3/8], Shieldbearer[0/4]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (6)
+  Field: Shieldbearer[3/7], Undertaker[4/5], Mogor's Champion[11/8]
+[Turn 10, Step 105] Agent: 공격 - Dollmaster Dorian[2/6] -> Shieldbearer
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(72) → 15로 보정
+[Turn 10, Step 106] Agent: 공격 - Azerite Elemental[2/5] -> Shieldbearer
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 107] Agent: 영웅 능력 사용 -> Dollmaster Dorian
+[Turn 10, Step 108] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 108] Agent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 10, Step 109] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 109] Agent: 공격 - Splitting Festeroot[4/3] -> Shieldbearer
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 3/10
+  Hand (2): Molten Giant, Arcane Giant
+  Field: Azerite Elemental[2/2], Splitting Sapling[2/2], Dollmaster Dorian[2/2], Coldlight Oracle[2/2], Gilnean Royal Guard[3/8], Shieldbearer[0/4], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (6)
+  Field: Undertaker[4/5], Mogor's Champion[11/8]
+[Turn 10, Step 110] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 110] Agent: 공격 - Gilnean Royal Guard[3/8] -> Rexxar
+[Turn 10, Step 111] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 111] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 111] Opponent: 영웅 능력 사용
+[Turn 10, Step 111] Opponent: 턴 종료
+[Turn 10, Step 112] Agent: 공격 - Gilnean Royal Guard[3/8] -> Undertaker
+[Turn 10, Step 113] Agent: 유효하지 않은 액션 인덱스(77) → 23로 보정
+[Turn 10, Step 113] Agent: 공격 - Coldlight Oracle[2/2] -> Mogor's Champion
+[Turn 10, Step 114] Agent: 영웅 능력 사용 -> Gilnean Royal Guard
+
+--- Game State (Turn 10, Step 115) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (2): Molten Giant, Arcane Giant
+  Field: Azerite Elemental[2/2], Splitting Sapling[2/2], Dollmaster Dorian[2/2], Gilnean Royal Guard[3/7], Shieldbearer[0/4], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 3, Mana: 8/10
+  Hand (6)
+  Field: Undertaker[4/2], Mogor's Champion[11/6]
+[Turn 10, Step 115] Agent: 유효하지 않은 액션 인덱스(51) → 9로 보정
+[Turn 10, Step 115] Agent: 공격 - Dollmaster Dorian[2/2] -> Undertaker
+[Turn 10, Step 116] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 10, Step 116] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+[Turn 10, Step 117] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 117] Agent: 공격 - Azerite Elemental[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 118) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (2): Molten Giant, Arcane Giant
+  Field: Azerite Elemental[2/2], Splitting Sapling[2/2], Gilnean Royal Guard[3/7], Shieldbearer[0/4], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (6)
+  Field: Mogor's Champion[11/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

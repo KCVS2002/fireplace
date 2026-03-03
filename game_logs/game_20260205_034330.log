@@ -1,0 +1,265 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Apexis Smuggler (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (5): Alexstrasza, Desert Hare, Doppelgangster, Violet Wurm, Doomsayer
+  Field: Apexis Smuggler[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Apexis Smuggler[2/3] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 3, Step 8] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/4
+  Hand (6): Alexstrasza, Doppelgangster, Violet Wurm, Doomsayer, Worgen Abomination, Imprisoned Observer
+  Field: Apexis Smuggler[2/3], Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+  Field: Jeweled Macaw[1/1], Infested Goblin[2/3]
+[Turn 4, Step 10] Agent: 공격 - Apexis Smuggler[2/3] -> Infested Goblin
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Infested Goblin[2/1] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 공격 - Jeweled Macaw[1/1] -> Desert Hare
+[Turn 4, Step 11] Opponent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 4, Step 11] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Desert Hare[1/1] -> Infested Goblin
+[Turn 5, Step 13] Agent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Apexis Smuggler
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/5
+  Hand (9): Alexstrasza, Doppelgangster, Violet Wurm, Worgen Abomination, Imprisoned Observer, Tome of Intellect, Silver Hand Regent, Bilefin Tidehunter, Angry Chicken
+  Field: Desert Hare[1/1], Doomsayer[0/7]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (10)
+  Field: Coldlight Oracle[2/2], Fishflinger[3/2]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 5, Step 15] Opponent: 카드 플레이 - Void Ripper (코스트: 3)
+[Turn 5, Step 15] Opponent: 공격 - Coldlight Oracle[2/2] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Desert Hare
+[Turn 6, Step 17] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 6, Step 18] Agent: 카드 플레이 - Tome of Intellect (코스트: 1)
+[Turn 6, Step 19] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (8): Silithid Swarmer, Alexstrasza, Doppelgangster, Violet Wurm, Worgen Abomination, Imprisoned Observer, Silver Hand Regent, Magic Trick
+  Field: Bilefin Tidehunter[2/1], Ooze[1/1], Angry Chicken[1/1]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (8)
+  Field: Coldlight Oracle[2/2], Fishflinger[3/2], Brann Bronzebeard[2/4], Void Ripper[3/3]
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 공격 - Brann Bronzebeard[2/4] -> Ooze
+[Turn 6, Step 20] Opponent: 공격 - Void Ripper[3/3] -> Bilefin Tidehunter
+[Turn 6, Step 20] Opponent: 공격 - Fishflinger[3/2] -> Jaina Proudmoore
+[Turn 6, Step 20] Opponent: 카드 플레이 - Primalfin Champion (코스트: 2)
+[Turn 6, Step 20] Opponent: 공격 - Coldlight Oracle[2/2] -> Jaina Proudmoore
+[Turn 6, Step 20] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 6, Step 20] Opponent: 영웅 능력 사용
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Void Ripper
+[Turn 7, Step 23] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 7, Step 24] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/7
+  Hand (7): Alexstrasza, Doppelgangster, Violet Wurm, Worgen Abomination, Imprisoned Observer, Silver Hand Regent, Drakkari Trickster
+  Field: Angry Chicken[1/1], Silithid Swarmer[3/5]
+Opponent: Rexxar HP: 26, Mana: 1/7
+  Hand (7)
+  Field: Coldlight Oracle[2/2], Fishflinger[3/2], Brann Bronzebeard[2/3], Primalfin Champion[1/2], Soup Vendor[1/4]
+[Turn 7, Step 25] Agent: 선택 - Splitting Image
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 공격 - Coldlight Oracle[2/2] -> Jaina Proudmoore
+[Turn 7, Step 25] Opponent: 공격 - Fishflinger[3/2] -> Silithid Swarmer
+[Turn 7, Step 25] Opponent: 공격 - Soup Vendor[1/4] -> Angry Chicken
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Coldlight Oracle
+[Turn 8, Step 27] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 8, Step 28] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 공격 - Soup Vendor[1/3] -> Jaina Proudmoore
+[Turn 8, Step 29] Opponent: 공격 - Coldlight Oracle[2/1] -> Arcane Amplifier
+[Turn 8, Step 29] Opponent: 공격 - Primalfin Champion[1/2] -> Jaina Proudmoore
+[Turn 8, Step 29] Opponent: 공격 - Brann Bronzebeard[2/3] -> Jaina Proudmoore
+[Turn 8, Step 29] Opponent: 카드 플레이 - Necrotic Geist (코스트: 6)
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 9/9
+  Hand (8): Deep Freeze, Alexstrasza, Doppelgangster, Violet Wurm, Worgen Abomination, Imprisoned Observer, Silver Hand Regent, Drakkari Trickster
+  Field: Silithid Swarmer[3/2], Arcane Amplifier[2/3], Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 26, Mana: 3/9
+  Hand (8)
+  Field: Brann Bronzebeard[2/3], Primalfin Champion[1/2], Soup Vendor[1/3], Necrotic Geist[5/3]
+[Turn 9, Step 30] Agent: 카드 플레이 - Deep Freeze -> Brann Bronzebeard (코스트: 8)
+[Turn 9, Step 31] Agent: 공격 - Arcane Amplifier[2/3] -> Brann Bronzebeard
+[Turn 9, Step 32] Agent: 공격 - Arcane Amplifier[2/5] -> Brann Bronzebeard
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 공격 - Primalfin Champion[1/2] -> Arcane Amplifier
+[Turn 9, Step 33] Opponent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 9, Step 33] Opponent: 공격 - Soup Vendor[1/3] -> Water Elemental
+[Turn 9, Step 33] Opponent: 공격 - Necrotic Geist[5/3] -> Water Elemental
+[Turn 9, Step 33] Opponent: 카드 플레이 - Lord of the Arena (코스트: 6)
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Doppelgangster (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 5/10
+  Hand (7): Alexstrasza, Violet Wurm, Worgen Abomination, Imprisoned Observer, Silver Hand Regent, Drakkari Trickster, Mortuary Machine
+  Field: Silithid Swarmer[3/2], Arcane Amplifier[2/1], Arcane Amplifier[2/2], Water Elemental[3/6], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (7)
+  Field: Baron Rivendare[1/7], Lord of the Arena[6/5]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Arcane Amplifier
+[Turn 10, Step 36] Agent: 공격 - Water Elemental[3/6] -> Lord of the Arena
+[Turn 10, Step 37] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 38] Agent: 공격 - Arcane Amplifier[2/1] -> Lord of the Arena
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 39] Opponent: 공격 - Baron Rivendare[1/7] -> Silithid Swarmer
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (7): Alexstrasza, Violet Wurm, Worgen Abomination, Silver Hand Regent, Drakkari Trickster, Mortuary Machine, Hailbringer
+  Field: Silithid Swarmer[3/1], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (5)
+  Field: Baron Rivendare[1/4], Grand Archivist[4/7], Scarab[1/1], Scarab[1/1]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 10, Step 41] Agent: 공격 - Doppelgangster[2/2] -> Scarab
+[Turn 10, Step 42] Agent: 공격 - Doppelgangster[2/1] -> Scarab
+[Turn 10, Step 43] Agent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Grand Archivist[4/7] -> Mortuary Machine
+[Turn 10, Step 44] Opponent: 공격 - Baron Rivendare[1/4] -> Doppelgangster
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (7): Alexstrasza, Violet Wurm, Worgen Abomination, Silver Hand Regent, Drakkari Trickster, Hailbringer, Spellbook Binder
+  Field: Silithid Swarmer[3/1], Doppelgangster[2/1], Doppelgangster[2/1], Imprisoned Observer[4/5], Mortuary Machine[8/4]
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (4)
+  Field: Fire Hawk[7/1], Hoard Pillager[4/1]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Imprisoned Observer
+[Turn 10, Step 46] Agent: 공격 - Doppelgangster[2/1] -> Fire Hawk
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Baku the Mooneater (코스트: 9)
+[Turn 10, Step 47] Opponent: 공격 - Hoard Pillager[4/1] -> Silithid Swarmer
+[Turn 10, Step 47] Opponent: 공격 - Fire Hawk[1/1] -> Imprisoned Observer
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 10, Step 49] Agent: 공격 - Doppelgangster[2/1] -> Baku the Mooneater
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 7/10
+  Hand (8): Alexstrasza, Violet Wurm, Worgen Abomination, Silver Hand Regent, Hailbringer, Spellbook Binder, Mad Hatter, Loatheb
+  Field: Imprisoned Observer[4/3], Mortuary Machine[8/4], Drakkari Trickster[3/4]
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (5)
+  Field: Baku the Mooneater[7/6]
+[Turn 10, Step 50] Agent: 공격 - Mortuary Machine[8/4] -> Rexxar
+[Turn 10, Step 51] Agent: 공격 - Imprisoned Observer[4/3] -> Baku the Mooneater
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Drakkari Trickster
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 53] Opponent: 공격 - Baku the Mooneater[7/2] -> Drakkari Trickster
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Baku the Mooneater
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (9): Alexstrasza, Violet Wurm, Worgen Abomination, Silver Hand Regent, Hailbringer, Spellbook Binder, Mad Hatter, Loatheb, Skycap'n Kragg
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (4)
+  Field: Evasive Drakonid[7/7], Mana Addict[1/3]
+[Turn 10, Step 55] Agent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 56] Agent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 공격 - Evasive Drakonid[7/7] -> Spellbook Binder
+[Turn 10, Step 57] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 10, Step 57] Opponent: 공격 - Mana Addict[1/3] -> Loatheb
+[Turn 10, Step 57] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Evasive Drakonid[7/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (8): Alexstrasza, Violet Wurm, Worgen Abomination, Silver Hand Regent, Hailbringer, Mad Hatter, Skycap'n Kragg, Pyromaniac
+  Field: Loatheb[5/4]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (4)
+  Field: Evasive Drakonid[7/4], Walnut Sprite[3/3], Walnut Sprite[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

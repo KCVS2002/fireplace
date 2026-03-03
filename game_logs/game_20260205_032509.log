@@ -1,0 +1,230 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Timber Wolf (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Ice Walker
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Mad Bomber[3/2] -> Ice Walker
+[Turn 3, Step 4] Opponent: 카드 플레이 - Crackling Razormaw (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Transfer Student, Millhouse Manastorm, Sharkfin Fan, Chromaggus, Violet Illusionist, Bittertide Hydra
+Opponent: Rexxar HP: 28, Mana: 1/3
+  Hand (4)
+  Field: Mad Bomber[3/1], Crackling Razormaw[3/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(88) → 7로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Mad Bomber
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 공격 - Crackling Razormaw[3/2] -> Millhouse Manastorm
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 5, Step 8] Agent: 공격 - Millhouse Manastorm[4/1] -> Rexxar
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/5
+  Hand (5): Transfer Student, Sharkfin Fan, Chromaggus, Violet Illusionist, Bittertide Hydra
+  Field: Millhouse Manastorm[4/1], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 24, Mana: 4/4
+  Hand (5)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Phantom Militia
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 6, Step 14] Agent: 공격 - Violet Illusionist[4/3] -> Phantom Militia
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/6
+  Hand (4): Sharkfin Fan, Chromaggus, Bittertide Hydra, Skaterbot
+  Field: Millhouse Manastorm[4/1], Golakka Crawler[2/3], Violet Illusionist[4/1], Transfer Student[2/2]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (4)
+  Field: Volatile Elemental[1/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 6, Step 15] Agent: 공격 - Millhouse Manastorm[4/1] -> Rexxar
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 6, Step 16] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 6, Step 17] Agent: 공격 - Golakka Crawler[2/3] -> Rexxar
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Wing Blast -> Transfer Student (코스트: 4)
+[Turn 6, Step 18] Opponent: 공격 - Volatile Elemental[1/1] -> Golakka Crawler
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(16) → 5로 보정
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Millhouse Manastorm
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/7
+  Hand (4): Chromaggus, Bittertide Hydra, Skaterbot, Arcane Giant
+  Field: Violet Illusionist[4/1], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 18, Mana: 2/6
+  Hand (4)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Sharkfin Fan
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 8, Step 23] Agent: 공격 - Violet Illusionist[4/1] -> Rexxar
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 8, Step 24] Agent: 공격 - Sharkfin Fan[2/1] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/8
+  Hand (4): Chromaggus, Bittertide Hydra, Skaterbot, Arcane Giant
+  Field: Violet Illusionist[4/1], Sharkfin Fan[2/1], Doomsayer[0/7]
+Opponent: Rexxar HP: 12, Mana: 7/7
+  Hand (5)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Bittertide Hydra (코스트: 5)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Piloted Reaper (코스트: 4)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (4): Chromaggus, Arcane Giant, Tournament Medic, Core Hound
+  Field: Bittertide Hydra[8/8], Skaterbot[1/1]
+Opponent: Rexxar HP: 12, Mana: 5/9
+  Hand (5)
+  Field: Piloted Reaper[4/3]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 31] Agent: 공격 - Bittertide Hydra[8/8] -> Piloted Reaper
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 32] Agent: 공격 - Skaterbot[1/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Chromaggus (코스트: 8)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Arcane Giant, Tournament Medic, Core Hound, Volcanic Potion, Volcanic Potion
+  Field: Bittertide Hydra[8/4], Skaterbot[1/1], Chromaggus[6/8]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (5)
+  Field: Core Hound[9/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(63) → 12로 보정
+[Turn 10, Step 35] Agent: 공격 - Bittertide Hydra[8/4] -> Core Hound
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(96) → 8로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Chromaggus
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 37] Agent: 공격 - Skaterbot[1/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (6): Arcane Giant, Tournament Medic, Volcanic Potion, Volcanic Potion, Aberrant Berserker, Aberrant Berserker
+  Field: Skaterbot[1/1], Chromaggus[6/7], Core Hound[9/5]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(39) → 6로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Tournament Medic
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 10, Step 43] Agent: 공격 - Chromaggus[6/7] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Dinotamer Brann (코스트: 7)
+[Turn 10, Step 44] Opponent: 공격 - King Krush[8/8] -> Tournament Medic
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (6): Arcane Giant, Volcanic Potion, Volcanic Potion, Aberrant Berserker, Frigid Snobold, Frigid Snobold
+  Field: Skaterbot[1/1], Chromaggus[6/7], Core Hound[9/5], Aberrant Berserker[3/5]
+Opponent: Rexxar HP: 3, Mana: 3/10
+  Hand (6)
+  Field: Dinotamer Brann[2/4], King Krush[8/7]
+[Turn 10, Step 45] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(39) → 18로 보정
+[Turn 10, Step 46] Agent: 공격 - Aberrant Berserker[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/10
+  Hand (5): Arcane Giant, Volcanic Potion, Aberrant Berserker, Frigid Snobold, Frigid Snobold
+  Field: Chromaggus[6/5], Core Hound[9/3], Aberrant Berserker[5/3]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (6)
+  Field: Dinotamer Brann[2/2], King Krush[8/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

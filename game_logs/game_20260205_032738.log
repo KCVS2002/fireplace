@@ -1,0 +1,407 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Acherus Veteran (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Argent Watchman (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (7): Blazing Battlemage, Force-Tank MAX, Master Jouster, The Coin, Toothy Chest, Toxic Sewer Ooze, The Skeleton Knight
+  Field: Argent Watchman[2/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+  Field: Acherus Veteran[2/1]
+[Turn 3, Step 5] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Force-Tank MAX, Master Jouster, Toothy Chest, Toxic Sewer Ooze, The Skeleton Knight, Ancient Mage, Sen'jin Shieldmasta
+  Field: Argent Watchman[2/4], Blazing Battlemage[2/2]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Acherus Veteran[2/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 5, Step 11] Agent: 공격 - Blazing Battlemage[2/2] -> Acherus Veteran
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(17) → 8로 보정
+[Turn 6, Step 14] Agent: 공격 - Ancient Mage[2/5] -> Daring Reporter
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/6
+  Hand (6): Force-Tank MAX, Master Jouster, Toothy Chest, Toxic Sewer Ooze, The Skeleton Knight, Sen'jin Shieldmasta
+  Field: Argent Watchman[2/4], Ancient Mage[2/1], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (7)
+  Field: Daring Reporter[4/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(70) → 10로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Ancient Mage
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(13) → 5로 보정
+[Turn 7, Step 17] Agent: 공격 - Chillwind Yeti[4/5] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (7): Force-Tank MAX, Master Jouster, Toothy Chest, Toxic Sewer Ooze, The Skeleton Knight, Sen'jin Shieldmasta, Helpless Hatchling
+  Field: Argent Watchman[2/4], Chillwind Yeti[4/5], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 26, Mana: 8/8
+  Hand (8)
+  Field: Daring Reporter[6/4], Dragonmaw Sky Stalker[5/6]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Dragonmaw Sky Stalker
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 8, Step 22] Agent: 공격 - Violet Illusionist[4/3] -> Daring Reporter
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 8, Step 23] Opponent: 공격 - Dragonmaw Sky Stalker[5/5] -> Sen'jin Shieldmasta
+[Turn 8, Step 23] Opponent: 카드 플레이 - Hot Air Balloon (코스트: 1)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 공격 - Chillwind Yeti[4/5] -> Locust
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (7): Force-Tank MAX, Master Jouster, Toothy Chest, Toxic Sewer Ooze, The Skeleton Knight, Helpless Hatchling, Sneaky Devil
+  Field: Argent Watchman[2/4], Chillwind Yeti[4/4]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (7)
+  Field: Dragonmaw Sky Stalker[5/2], Grand Archivist[4/7], Hot Air Balloon[1/2], Locust[1/1], Locust[1/1], Locust[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(62) → 8로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - The Skeleton Knight (코스트: 6)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Sneaky Devil (코스트: 4)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Locust
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (6): Force-Tank MAX, Master Jouster, Toothy Chest, Toxic Sewer Ooze, Helpless Hatchling, Amani Berserker
+  Field: Argent Watchman[3/4], Chillwind Yeti[5/4], The Skeleton Knight[8/4], Sneaky Devil[2/2]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (8)
+  Field: Dragonmaw Sky Stalker[5/2], Grand Archivist[4/7], Hot Air Balloon[1/3], Locust[1/1], Locust[1/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 10, Step 31] Agent: 공격 - Chillwind Yeti[5/4] -> Grand Archivist
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(59) → 9로 보정
+[Turn 10, Step 32] Agent: 공격 - The Skeleton Knight[8/4] -> Locust
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Wild Bloodstinger (코스트: 6)
+[Turn 10, Step 34] Opponent: 공격 - Grand Archivist[4/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (4): Master Jouster, Toxic Sewer Ooze, Amani Berserker, Gruul
+  Field: Argent Watchman[3/4], The Skeleton Knight[8/3], Sneaky Devil[2/2], Helpless Hatchling[2/1], Toothy Chest[4/4], Force-Tank MAX[8/7]
+Opponent: Rexxar HP: 26, Mana: 4/10
+  Hand (8)
+  Field: Dragonmaw Sky Stalker[5/2], Grand Archivist[4/2], Hot Air Balloon[1/4], Locust[1/1], Wild Bloodstinger[6/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(71) → 23로 보정
+[Turn 10, Step 35] Agent: 공격 - The Skeleton Knight[8/3] -> Wild Bloodstinger
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Toothy Chest
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 10, Step 37] Agent: 공격 - Sneaky Devil[2/2] -> Dragonmaw Sky Stalker
+[Turn 10, Step 38] Agent: 공격 - Helpless Hatchling[1/1] -> Locust
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (4): Master Jouster, Toxic Sewer Ooze, Gruul, The Skeleton Knight
+  Field: Argent Watchman[2/4], Toothy Chest[4/3], Force-Tank MAX[7/7], Amani Berserker[2/3]
+Opponent: Rexxar HP: 26, Mana: 4/10
+  Hand (8)
+  Field: Dragonrider[3/4], Grand Archivist[4/2], Hot Air Balloon[1/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Toothy Chest[4/3] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - The Skeleton Knight (코스트: 6)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Priestess of Elune (코스트: 6)
+[Turn 10, Step 42] Opponent: 공격 - Grand Archivist[4/2] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 42] Opponent: 공격 - Hot Air Balloon[1/5] -> Argent Watchman
+[Turn 10, Step 42] Opponent: 공격 - Dragonrider[3/4] -> Toothy Chest
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(82) → 22로 보정
+[Turn 10, Step 43] Agent: 공격 - Amani Berserker[2/3] -> Hot Air Balloon
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Amani Berserker
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (4): Master Jouster, Toxic Sewer Ooze, Gruul, Pyros
+  Field: Argent Watchman[2/3], Force-Tank MAX[7/7], Amani Berserker[5/1], The Skeleton Knight[7/4]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (7)
+  Field: Grand Archivist[4/2], Hot Air Balloon[1/1], Priestess of Elune[5/4], Crowd Favorite[4/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 46] Agent: 공격 - The Skeleton Knight[7/4] -> Priestess of Elune
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Master Jouster (코스트: 6)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 48] Agent: 공격 - Force-Tank MAX[7/7] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Witchwood Grizzly (코스트: 5)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 10, Step 49] Opponent: 공격 - Hot Air Balloon[1/2] -> Master Jouster
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (3): Toxic Sewer Ooze, Gruul, Arcane Servant
+  Field: Argent Watchman[2/3], Force-Tank MAX[7/7], Amani Berserker[5/1], Pyros[2/2], Master Jouster[5/6]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (6)
+  Field: Grand Archivist[4/2], Crowd Favorite[6/6], Witchwood Grizzly[3/11], Arcane Golem[4/4]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Grand Archivist
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 51] Agent: 공격 - Master Jouster[5/6] -> Witchwood Grizzly
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 52] Agent: 공격 - Pyros[2/2] -> Witchwood Grizzly
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(13) → 6로 보정
+[Turn 10, Step 53] Agent: 공격 - Amani Berserker[5/1] -> Witchwood Grizzly
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(84) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 6/10
+  Hand (3): Toxic Sewer Ooze, Gruul, Pyros
+  Field: Argent Watchman[2/3], Force-Tank MAX[7/7], Master Jouster[5/3], Arcane Servant[2/3]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (6)
+  Field: Grand Archivist[4/1], Crowd Favorite[6/6], Arcane Golem[4/4]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(98) → 18로 보정
+[Turn 10, Step 57] Agent: 공격 - Arcane Servant[2/3] -> Arcane Golem
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 58] Agent: 공격 - Force-Tank MAX[7/7] -> Arcane Golem
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (5): Toxic Sewer Ooze, Gruul, Pyros, Seaforium Bomber, Cult Master
+  Field: Argent Watchman[2/3], Force-Tank MAX[7/3], Master Jouster[5/3]
+Opponent: Rexxar HP: 19, Mana: 5/10
+  Hand (7)
+  Field: Grand Archivist[4/1], Crowd Favorite[7/7], Cult Master[4/2], Captain Greenskin[5/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(59) → 9로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Grand Archivist
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(14) → 3로 보정
+[Turn 10, Step 62] Agent: 공격 - Force-Tank MAX[7/3] -> Rexxar
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 63] Agent: 공격 - Master Jouster[5/3] -> Crowd Favorite
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Cult Master (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (3): Gruul, Pyros, Seaforium Bomber
+  Field: Argent Watchman[2/3], Force-Tank MAX[7/3], Toxic Sewer Ooze[4/3], Cult Master[4/2]
+Opponent: Rexxar HP: 12, Mana: 5/10
+  Hand (8)
+  Field: Crowd Favorite[7/2], Cult Master[4/2], Captain Greenskin[5/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Crowd Favorite[7/2] -> Force-Tank MAX
+[Turn 10, Step 65] Opponent: 공격 - Cult Master[4/2] -> Argent Watchman
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Moat Lurker -> Cult Master (코스트: 6)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 68] Agent: 공격 - Toxic Sewer Ooze[4/3] -> Captain Greenskin
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Gruul (코스트: 8)
+[Turn 10, Step 69] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (6): Gruul, Pyros, Seaforium Bomber, Venomancer, Troggzor the Earthinator, Lost Tallstrider
+  Field: Moat Lurker[3/3]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (8)
+  Field: Gruul[8/8], Goldshire Footman[1/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(35) → 9로 보정
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Moat Lurker
+[Turn 10, Step 71] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 72] Agent: 공격 - Moat Lurker[3/2] -> Goldshire Footman
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 영웅 능력 사용
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Gruul (코스트: 8)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (5): Pyros, Seaforium Bomber, Venomancer, Troggzor the Earthinator, Jeweled Scarab
+  Field: Moat Lurker[3/1], Lost Tallstrider[5/4], Gruul[7/7]
+Opponent: Rexxar HP: 12, Mana: 8/10
+  Hand (9)
+  Field: Gruul[10/10]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(58) → 10로 보정
+[Turn 10, Step 75] Agent: 공격 - Lost Tallstrider[5/4] -> Rexxar
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 77] Agent: 공격 - Moat Lurker[3/1] -> Gruul
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 공격 - Gruul[11/8] -> Lost Tallstrider
+[Turn 10, Step 78] Opponent: 영웅 능력 사용
+[Turn 10, Step 78] Opponent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 10, Step 78] Opponent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 10, Step 78] Opponent: 턴 종료
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(85) → 16로 보정
+[Turn 10, Step 79] Agent: 공격 - Cult Master[4/2] -> Gruul
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (7): Pyros, Seaforium Bomber, Venomancer, Troggzor the Earthinator, Jeweled Scarab, Mukla, Tyrant of the Vale, Mecha'thun
+  Field: Gruul[9/9]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (8)
+  Field: Fight Promoter[4/4], Scorp-o-matic[1/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(42) → 10로 보정
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Gruul
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 82] Agent: 공격 - Gruul[9/8] -> Fight Promoter
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Pyros (코스트: 6)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 4/10
+  Hand (6): Venomancer, Troggzor the Earthinator, Jeweled Scarab, Mukla, Tyrant of the Vale, Mecha'thun, Primordial Glyph
+  Field: Gruul[11/6], Seaforium Bomber[5/5], Pyros[6/6]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (9)
+  Field: Scorp-o-matic[1/2]
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Gruul
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 10, Step 86] Agent: 공격 - Seaforium Bomber[5/5] -> Rexxar
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 10, Step 88] Agent: 선택 - Duplicate
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 88] Agent: 공격 - Gruul[11/5] -> Rexxar
+
+--- Game State (Turn 10, Step 89) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (6): Venomancer, Troggzor the Earthinator, Jeweled Scarab, Mukla, Tyrant of the Vale, Mecha'thun, Duplicate
+  Field: Gruul[11/5], Seaforium Bomber[5/5], Pyros[6/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+  Field: Scorp-o-matic[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

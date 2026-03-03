@@ -1,0 +1,246 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Secretkeeper[1/2] -> Gravelsnout Knight
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (5): Volatile Elemental, Hogger, Witchwood Piper, Acherus Veteran, Goblin Bomb
+  Field: Gravelsnout Knight[2/2], Hench-Clan Hogsteed[2/1]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (8)
+[Turn 4, Step 5] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+[Turn 4, Step 6] Agent: 공격 - Gravelsnout Knight[2/2] -> Rexxar
+[Turn 4, Step 7] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Rexxar
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (6): Volatile Elemental, Hogger, Acherus Veteran, Goblin Bomb, Blackwald Pixie, Bone Wraith
+  Field: Gravelsnout Knight[2/2], Hench-Clan Hogsteed[2/1], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (9)
+[Turn 5, Step 10] Agent: 카드 플레이 - Acherus Veteran -> Gravelsnout Knight (코스트: 1)
+[Turn 5, Step 11] Agent: 공격 - Gravelsnout Knight[3/2] -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 5, Step 12] Opponent: 선택 - Dalaran Librarian
+[Turn 5, Step 12] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 6, Step 13] Opponent: 카드 플레이 - The Beast Within -> Hungry Crab (코스트: 1)
+[Turn 6, Step 13] Opponent: 공격 - Acolyte of Pain[1/3] -> Hench-Clan Hogsteed
+[Turn 6, Step 13] Opponent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Bone Wraith (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/7
+  Hand (6): Volatile Elemental, Hogger, Goblin Bomb, Blackwald Pixie, Oondasta, Mechanical Whelp
+  Field: Hench-Clan Squire[1/1], Witchwood Piper[3/3], Acherus Veteran[2/1], Bone Wraith[2/5]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (5)
+  Field: Acolyte of Pain[1/1], Fire Hawk[7/3], Gurubashi Offering[0/2], Tentacle of N'Zoth[1/1]
+[Turn 7, Step 15] Agent: 공격 - Witchwood Piper[3/3] -> Acolyte of Pain
+[Turn 7, Step 16] Agent: 공격 - Hench-Clan Squire[1/1] -> Fire Hawk
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Witchwood Piper
+[Turn 7, Step 18] Agent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 7, Step 19] Agent: 공격 - Acherus Veteran[2/1] -> Gurubashi Offering
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/7
+  Hand (5): Volatile Elemental, Hogger, Blackwald Pixie, Oondasta, Mechanical Whelp
+  Field: Witchwood Piper[3/1], Acherus Veteran[2/1], Bone Wraith[2/5], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (6)
+  Field: Fire Hawk[7/2], Tentacle of N'Zoth[1/1]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Waste Warden -> Witchwood Piper (코스트: 5)
+[Turn 7, Step 20] Opponent: 공격 - Tentacle of N'Zoth[1/1] -> Bone Wraith
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Bone Wraith
+[Turn 8, Step 23] Agent: 공격 - Bone Wraith[2/2] -> Waste Warden
+[Turn 8, Step 24] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/8
+  Hand (4): Hogger, Oondasta, Mechanical Whelp, Molten Giant
+  Field: Bone Wraith[2/1], Goblin Bomb[0/1], Volatile Elemental[1/1], Blackwald Pixie[3/4]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Fire Hawk[7/1]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 공격 - Fire Hawk[7/1] -> Bone Wraith
+[Turn 8, Step 25] Opponent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 9, Step 27] Agent: 공격 - Blackwald Pixie[3/4] -> Eccentric Scribe
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Hogger[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Oondasta, Mechanical Whelp, Molten Giant, Griftah, Explosive Runes
+  Field: Goblin Bomb[0/1], Volatile Elemental[1/1], Hogger[4/4], Gnoll[2/2]
+Opponent: Rexxar HP: 19, Mana: 3/9
+  Hand (6)
+  Field: Eccentric Scribe[6/1], Drakonid Crusher[6/6]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Gnoll
+[Turn 10, Step 31] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+[Turn 10, Step 32] Agent: 공격 - Gnoll[2/1] -> Rexxar
+[Turn 10, Step 33] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Earthen Ring Farseer -> Rexxar (코스트: 3)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 10, Step 34] Opponent: 공격 - Eccentric Scribe[6/1] -> Gnoll
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Oondasta, Molten Giant, Griftah, Explosive Runes, Lone Champion
+  Field: Goblin Bomb[0/1], Volatile Elemental[1/1], Hogger[4/4], Gnoll[2/2], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 19, Mana: 5/10
+  Hand (5)
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Drakonid Crusher[6/6], Earthen Ring Farseer[3/3], Wild Pyromancer[3/2]
+[Turn 10, Step 35] Agent: 공격 - Volatile Elemental[1/1] -> Vengeful Scroll
+[Turn 10, Step 36] Agent: 카드 플레이 - Oondasta (코스트: 9)
+[Turn 10, Step 37] Agent: 공격 - Hogger[4/4] -> Vengeful Scroll
+[Turn 10, Step 38] Agent: 공격 - Oondasta[7/7] -> Drakonid Crusher
+[Turn 10, Step 39] Agent: 공격 - Gnoll[2/2] -> Earthen Ring Farseer
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (4): Molten Giant, Griftah, Explosive Runes, Lone Champion
+  Field: Goblin Bomb[0/1], Hogger[4/3], Mechanical Whelp[2/2], Oondasta[7/1]
+Opponent: Rexxar HP: 19, Mana: 5/10
+  Hand (5)
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Earthen Ring Farseer[3/1]
+[Turn 10, Step 40] Agent: 공격 - Mechanical Whelp[2/2] -> Vengeful Scroll
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Earthen Ring Farseer[3/1] -> Gnoll
+[Turn 10, Step 41] Opponent: 카드 플레이 - Gurubashi Berserker (코스트: 5)
+[Turn 10, Step 41] Opponent: 공격 - Vengeful Scroll[1/1] -> Jaina Proudmoore
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Oondasta[7/1] -> Gurubashi Berserker
+[Turn 10, Step 43] Agent: 공격 - Mechanical Whelp[2/1] -> Magic Carpet
+[Turn 10, Step 44] Agent: 카드 플레이 - Griftah (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (4): Molten Giant, Explosive Runes, Lone Champion, Coldwraith
+  Field: Goblin Bomb[0/1], Hogger[4/3], Mechanical Dragon[7/7], Griftah[4/5]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (4)
+  Field: Vengeful Scroll[1/1], Magic Carpet[1/4]
+[Turn 10, Step 45] Agent: 선택 - Night Howler
+[Turn 10, Step 45] Agent: 선택 - Amani War Bear
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Swarm of Locusts (코스트: 6)
+[Turn 10, Step 45] Opponent: 공격 - Vengeful Scroll[1/1] -> Gnoll
+[Turn 10, Step 45] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 10, Step 45] Opponent: 공격 - Locust[1/1] -> Gnoll
+[Turn 10, Step 45] Opponent: 공격 - Locust[1/1] -> Griftah
+[Turn 10, Step 45] Opponent: 공격 - Magic Carpet[1/4] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 공격 - Zealous Initiate[2/1] -> Mechanical Dragon
+[Turn 10, Step 45] Opponent: 공격 - Locust[2/2] -> Mechanical Dragon
+[Turn 10, Step 45] Opponent: 공격 - Locust[1/1] -> Mechanical Dragon
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Hogger
+[Turn 10, Step 47] Agent: 공격 - Hogger[4/2] -> Magic Carpet
+[Turn 10, Step 48] Agent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 10, Step 49] Agent: 공격 - Griftah[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (5): Molten Giant, Explosive Runes, Coldwraith, Amani War Bear, Bull Dozer
+  Field: Goblin Bomb[0/1], Hogger[4/1], Mechanical Dragon[7/2], Griftah[4/4], Lone Champion[2/4]
+Opponent: Rexxar HP: 15, Mana: 3/10
+  Hand (4)
+  Field: Locust[1/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 10, Step 51] Agent: 공격 - Mechanical Dragon[7/2] -> Locust
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Jeweled Scarab (코스트: 2)
+[Turn 10, Step 52] Opponent: 선택 - Fel Orc Soulfiend
+[Turn 10, Step 52] Opponent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Lone Champion[2/4] -> Rexxar
+[Turn 10, Step 54] Agent: 카드 플레이 - Amani War Bear (코스트: 7)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 3/10
+  Hand (4): Molten Giant, Coldwraith, Bull Dozer, Recruiter
+  Field: Goblin Bomb[0/1], Hogger[4/1], Gnoll[2/2], Mechanical Dragon[7/1], Griftah[4/4], Lone Champion[2/4], Amani War Bear[5/7]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (3)
+  Field: Jeweled Scarab[1/1], Night Howler[3/4]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Amani War Bear
+[Turn 10, Step 56] Agent: 공격 - Hogger[4/1] -> Rexxar
+[Turn 10, Step 57] Agent: 공격 - Gnoll[2/2] -> Rexxar
+[Turn 10, Step 58] Agent: 공격 - Griftah[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (4): Molten Giant, Coldwraith, Bull Dozer, Recruiter
+  Field: Goblin Bomb[0/1], Hogger[4/1], Gnoll[2/2], Mechanical Dragon[7/1], Griftah[4/4], Lone Champion[2/4], Amani War Bear[5/6]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (3)
+  Field: Jeweled Scarab[1/1], Night Howler[3/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

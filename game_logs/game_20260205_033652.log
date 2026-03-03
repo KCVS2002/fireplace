@@ -1,0 +1,182 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 2] Opponent: 턴 종료
+[Turn 4, Step 3] Agent: 카드 플레이 - Spellbender (코스트: 3)
+[Turn 4, Step 4] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (7): Kodorider, Licensed Adventurer, Soup Vendor, Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Volcanic Drake
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (9)
+[Turn 5, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 6] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 카드 플레이 - Hozen Healer -> Licensed Adventurer (코스트: 4)
+[Turn 5, Step 7] Opponent: 카드 플레이 - Helboar (코스트: 1)
+[Turn 5, Step 7] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 7] Opponent: 카드 플레이 - Clear the Way (코스트: 1)
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 공격 - Licensed Adventurer[3/2] -> Hozen Healer
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Helboar
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/6
+  Hand (7): Kodorider, Soup Vendor, Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Volcanic Drake, Azerite Elemental
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: Hozen Healer[2/3]
+[Turn 6, Step 10] Agent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 7, Step 13] Agent: 공격 - Soup Vendor[1/4] -> Hozen Healer
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 공격 - Hozen Healer[2/2] -> Jaina Proudmoore
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/8
+  Hand (7): Kodorider, Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Azerite Elemental, Temple Berserker, Conjured Mirage
+  Field: Soup Vendor[1/2], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (8)
+  Field: Hozen Healer[2/2]
+[Turn 8, Step 15] Agent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 8, Step 16] Agent: 공격 - Volcanic Drake[6/4] -> Rexxar
+[Turn 8, Step 17] Agent: 공격 - Soup Vendor[1/2] -> Rexxar
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Hozen Healer
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 9/9
+  Hand (7): Kodorider, Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Temple Berserker, Conjured Mirage, Mana Cyclone
+  Field: Soup Vendor[1/2], Volcanic Drake[6/4], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 23, Mana: 8/8
+  Hand (9)
+  Field: Hozen Healer[2/1]
+[Turn 9, Step 20] Agent: 카드 플레이 - Kodorider (코스트: 6)
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 10, Step 23] Agent: 공격 - Kodorider[3/5] -> Hozen Healer
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Azerite Elemental
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/10
+  Hand (6): Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Temple Berserker, Conjured Mirage, Whirlwind Tempest
+  Field: Soup Vendor[1/2], Volcanic Drake[6/4], Azerite Elemental[2/6], Kodorider[3/3], War Kodo[3/5], Mana Cyclone[2/2]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (10)
+[Turn 10, Step 25] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 10, Step 26] Agent: 공격 - Soup Vendor[1/2] -> Rexxar
+[Turn 10, Step 27] Agent: 공격 - Azerite Elemental[2/6] -> Rexxar
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - Duskhaven Hunter (코스트: 3)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Cobra Shot -> Duskhaven Hunter (코스트: 5)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Azerite Elemental[2/6] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (6): Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Conjured Mirage, Whirlwind Tempest, Gentle Megasaur
+  Field: Soup Vendor[1/2], Volcanic Drake[6/4], Azerite Elemental[2/6], Kodorider[3/3], War Kodo[3/5], Mana Cyclone[2/2], Temple Berserker[1/2]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (7)
+  Field: Questing Explorer[2/3]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Questing Explorer
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Gurubashi Berserker (코스트: 5)
+[Turn 10, Step 31] Opponent: 공격 - Questing Explorer[2/2] -> Kodorider
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - War Kodo[3/5] -> Lost Tallstrider
+[Turn 10, Step 33] Agent: 공격 - Mana Cyclone[2/2] -> Lost Tallstrider
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (7): Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Conjured Mirage, Whirlwind Tempest, Gentle Megasaur, Primordial Glyph
+  Field: Soup Vendor[1/2], Volcanic Drake[6/4], Azerite Elemental[2/6], Kodorider[3/1], War Kodo[3/5], Temple Berserker[1/2]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (6)
+  Field: Gurubashi Berserker[2/7]
+[Turn 10, Step 35] Agent: 카드 플레이 - Whirlwind Tempest (코스트: 8)
+[Turn 10, Step 36] Agent: 공격 - Kodorider[3/1] -> Rexxar
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Gurubashi Berserker[2/7] -> Kodorider
+[Turn 10, Step 37] Opponent: 카드 플레이 - Dragonbane (코스트: 4)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 공격 - Temple Berserker[1/2] -> Gurubashi Berserker
+[Turn 10, Step 39] Agent: 공격 - Soup Vendor[1/2] -> Gurubashi Berserker
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (7): Ragnaros the Firelord, Nerubian Unraveler, Gentle Megasaur, Conjured Mirage, Gentle Megasaur, Primordial Glyph, Feral Gibberer
+  Field: Volcanic Drake[6/4], Azerite Elemental[2/6], War Kodo[3/5], Temple Berserker[3/1], Whirlwind Tempest[6/6]
+Opponent: Rexxar HP: 15, Mana: 6/10
+  Hand (6)
+  Field: Gurubashi Berserker[11/2], Dragonbane[3/5]
+[Turn 10, Step 40] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Temple Berserker
+[Turn 10, Step 42] Agent: 공격 - Volcanic Drake[6/4] -> Dragonbane
+[Turn 10, Step 43] Agent: 공격 - War Kodo[3/5] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Azerite Elemental[2/6] -> Gurubashi Berserker
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (6): Nerubian Unraveler, Gentle Megasaur, Conjured Mirage, Gentle Megasaur, Primordial Glyph, Feral Gibberer
+  Field: Volcanic Drake[6/1], War Kodo[3/5], Whirlwind Tempest[6/6], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (6)
+[Turn 10, Step 45] Agent: 공격 - Whirlwind Tempest[6/6] -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (6): Nerubian Unraveler, Gentle Megasaur, Conjured Mirage, Gentle Megasaur, Primordial Glyph, Feral Gibberer
+  Field: Volcanic Drake[6/1], War Kodo[3/5], Whirlwind Tempest[6/6], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,286 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Youthful Brewmaster (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Ysera, Mayor Noggenfogger, Lord of the Arena, Igneous Elemental, Kobold Lackey
+  Field: Dragon Egg[0/2], EVIL Cable Rat[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Youthful Brewmaster[3/2]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 공격 - Youthful Brewmaster[3/2] -> EVIL Cable Rat
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Eerie Statue (코스트: 4)
+[Turn 3, Step 7] Opponent: 공격 - Youthful Brewmaster[3/1] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 공격 - Igneous Elemental[2/3] -> Rexxar
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/4
+  Hand (6): Ysera, Mayor Noggenfogger, Lord of the Arena, Kobold Lackey, Cursed Disciple, SN1P-SN4P
+  Field: Dragon Egg[0/2], Igneous Elemental[2/3]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (5)
+  Field: Youthful Brewmaster[3/1], Eerie Statue[7/7]
+[Turn 4, Step 10] Agent: 카드 플레이 - Kobold Lackey -> Jaina Proudmoore (코스트: 1)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Kobold Lackey[1/1] -> Youthful Brewmaster
+[Turn 5, Step 13] Agent: 공격 - Igneous Elemental[2/3] -> Eerie Statue
+[Turn 5, Step 14] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/5
+  Hand (7): Ysera, Mayor Noggenfogger, Lord of the Arena, SN1P-SN4P, Shieldbearer, Flame Elemental, Flame Elemental
+  Field: Dragon Egg[0/2], Cursed Disciple[5/1]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (6)
+  Field: Eerie Statue[7/5]
+[Turn 5, Step 15] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 공격 - Cursed Disciple[5/1] -> Mojomaster Zihi
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Shieldbearer
+[Turn 6, Step 19] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/6
+  Hand (7): Ysera, Mayor Noggenfogger, Lord of the Arena, Flame Elemental, Flame Elemental, Skelemancer, SN1P-SN4P
+  Field: Dragon Egg[0/2], Cursed Revenant[5/1], Shieldbearer[0/3], SN1P-SN4P[2/3]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (6)
+  Field: Eerie Statue[7/5]
+[Turn 6, Step 20] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 카드 플레이 - Alleycat (코스트: 1)
+[Turn 6, Step 21] Opponent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 공격 - Flame Elemental[1/2] -> Tabbycat
+[Turn 7, Step 23] Agent: 공격 - Cursed Revenant[5/1] -> Alleycat
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Flame Elemental
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/7
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Lord of the Arena, Flame Elemental, Skelemancer
+  Field: Dragon Egg[0/2], Shieldbearer[0/3], SN1P-SN4P[2/3]
+Opponent: Rexxar HP: 27, Mana: 1/6
+  Hand (5)
+  Field: Eerie Statue[7/5], Evasive Feywing[5/4]
+[Turn 7, Step 25] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 7, Step 26] Agent: 공격 - SN1P-SN4P[2/3] -> Rexxar
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 카드 플레이 - Ironforge Rifleman -> Jaina Proudmoore (코스트: 3)
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 공격 - SN1P-SN4P[2/3] -> Ironforge Rifleman
+[Turn 8, Step 29] Agent: 영웅 능력 사용 -> Flame Elemental
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/8
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Lord of the Arena, Skelemancer, Harbinger Celestia
+  Field: Dragon Egg[0/2], Shieldbearer[0/3], SN1P-SN4P[2/1], Flame Elemental[1/1]
+Opponent: Rexxar HP: 25, Mana: 4/7
+  Hand (5)
+  Field: Eerie Statue[7/5], Evasive Feywing[5/4]
+[Turn 8, Step 30] Agent: 카드 플레이 - Lord of the Arena (코스트: 6)
+[Turn 8, Step 31] Agent: 공격 - Flame Elemental[1/1] -> Rexxar
+[Turn 8, Step 32] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 32] Opponent: 영웅 능력 사용
+[Turn 8, Step 32] Opponent: 턴 종료
+[Turn 9, Step 33] Agent: 공격 - SN1P-SN4P[2/1] -> Rexxar
+[Turn 9, Step 34] Agent: 공격 - Flame Elemental[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/9
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Skelemancer, Harbinger Celestia, Grimestreet Informant
+  Field: Dragon Egg[0/2], Shieldbearer[0/3], SN1P-SN4P[2/1], Flame Elemental[1/1], Lord of the Arena[6/5]
+Opponent: Rexxar HP: 21, Mana: 6/8
+  Hand (6)
+  Field: Eerie Statue[7/5], Evasive Feywing[5/4]
+[Turn 9, Step 35] Agent: 공격 - Lord of the Arena[6/5] -> Rexxar
+[Turn 9, Step 36] Agent: 영웅 능력 사용 -> Eerie Statue
+[Turn 9, Step 37] Agent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 9, Step 38] Agent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 9, Step 39] Agent: 선택 - Nine Lives
+[Turn 9, Step 39] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 39] Opponent: 카드 플레이 - Kobold Apprentice (코스트: 3)
+[Turn 9, Step 39] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 9, Step 39] Opponent: 공격 - Evasive Feywing[5/4] -> Lord of the Arena
+[Turn 9, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Harbinger Celestia, Nine Lives, Exotic Mountseller
+  Field: Dragon Egg[0/1], Shieldbearer[0/3], SN1P-SN4P[2/1], Flame Elemental[1/1], Skelemancer[2/1], Grimestreet Informant[1/1]
+Opponent: Rexxar HP: 15, Mana: 0/9
+  Hand (5)
+  Field: Eerie Statue[7/4], Kobold Apprentice[2/1], Xavius[7/5]
+[Turn 10, Step 40] Agent: 공격 - Skelemancer[2/1] -> Eerie Statue
+[Turn 10, Step 41] Agent: 공격 - Grimestreet Informant[1/1] -> Kobold Apprentice
+[Turn 10, Step 42] Agent: 공격 - SN1P-SN4P[2/1] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Flame Elemental[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Eerie Statue
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Harbinger Celestia, Nine Lives, Exotic Mountseller
+  Field: Dragon Egg[0/1], Shieldbearer[0/3], SN1P-SN4P[2/1], Flame Elemental[1/1]
+Opponent: Rexxar HP: 12, Mana: 0/9
+  Hand (5)
+  Field: Eerie Statue[7/1], Xavius[7/5]
+[Turn 10, Step 45] Agent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 10, Step 46] Agent: 카드 플레이 - Nine Lives (코스트: 3)
+[Turn 10, Step 47] Agent: 선택 - Cursed Disciple
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Ironforge Rifleman -> SN1P-SN4P (코스트: 3)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Flame Elemental[1/1] -> Xavian Satyr
+[Turn 10, Step 49] Agent: 공격 - Ironforge Rifleman[2/2] -> Eerie Statue
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Exotic Mountseller, Cursed Disciple, Dragonslayer
+  Field: Dragon Egg[0/1], Shieldbearer[0/3], Microbot[1/1], Microbot[1/1], Cursed Revenant[5/1]
+Opponent: Rexxar HP: 12, Mana: 7/10
+  Hand (5)
+  Field: Xavius[7/5], Ironforge Rifleman[2/2]
+[Turn 10, Step 50] Agent: 공격 - Cursed Revenant[5/1] -> Ironforge Rifleman
+[Turn 10, Step 51] Agent: 공격 - Microbot[1/1] -> Xavius
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Shieldbearer
+[Turn 10, Step 53] Agent: 카드 플레이 - Exotic Mountseller (코스트: 7)
+[Turn 10, Step 54] Agent: 공격 - Microbot[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (5): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Cursed Disciple, Dragonslayer
+  Field: Dragon Egg[0/1], Shieldbearer[0/2], Microbot[1/1], Exotic Mountseller[5/8]
+Opponent: Rexxar HP: 11, Mana: 7/10
+  Hand (5)
+  Field: Xavius[7/4]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Barrens Stablehand (코스트: 7)
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 공격 - Xavius[7/4] -> Shieldbearer
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Exotic Mountseller[5/8] -> Giant Sand Worm
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Giant Sand Worm
+[Turn 10, Step 58] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+[Turn 10, Step 59] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (4): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Corpse Raiser
+  Field: Dragon Egg[0/1], Microbot[1/1], Cursed Disciple[5/1], Dragonslayer[4/3]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (5)
+  Field: Xavius[7/4], Xavian Satyr[2/1], Barrens Stablehand[4/4], Giant Sand Worm[8/2]
+[Turn 10, Step 60] Agent: 공격 - Microbot[1/1] -> Rexxar
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Furnacefire Colossus (코스트: 6)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Microbot[1/1] -> Furnacefire Colossus
+[Turn 10, Step 63] Agent: 공격 - Dragonslayer[4/3] -> Xavius
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Xavian Satyr
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (5): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Corpse Raiser, Wasteland Scorpid
+  Field: Dragon Egg[0/1], Cursed Disciple[5/1]
+Opponent: Rexxar HP: 10, Mana: 4/10
+  Hand (5)
+  Field: Xavian Satyr[2/1], Barrens Stablehand[4/4], Giant Sand Worm[8/2], Furnacefire Colossus[6/5]
+[Turn 10, Step 65] Agent: 카드 플레이 - Corpse Raiser -> Dragon Egg (코스트: 5)
+[Turn 10, Step 66] Agent: 공격 - Cursed Disciple[5/1] -> Rexxar
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 영웅 능력 사용
+[Turn 10, Step 67] Opponent: 공격 - Xavian Satyr[2/1] -> Cursed Disciple
+[Turn 10, Step 67] Opponent: 공격 - Barrens Stablehand[4/4] -> Jaina Proudmoore
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 공격 - Cursed Revenant[5/1] -> Barrens Stablehand
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Furnacefire Colossus
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (5): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Wasteland Scorpid, Gadgetzan Auctioneer
+  Field: Dragon Egg[0/1], Corpse Raiser[3/3]
+Opponent: Rexxar HP: 5, Mana: 8/10
+  Hand (6)
+  Field: Giant Sand Worm[8/2], Furnacefire Colossus[6/4]
+[Turn 10, Step 70] Agent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 10, Step 71] Agent: 공격 - Corpse Raiser[3/3] -> Rexxar
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 10, Step 72] Opponent: 영웅 능력 사용
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 공격 - Corpse Raiser[3/3] -> Giant Sand Worm
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Wasteland Scorpid
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (5): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Gadgetzan Auctioneer, Shade of Naxxramas
+  Field: Dragon Egg[0/1], Wasteland Scorpid[3/8]
+Opponent: Rexxar HP: 2, Mana: 3/10
+  Hand (6)
+  Field: Furnacefire Colossus[6/4], Djinni of Zephyrs[4/6]
+[Turn 10, Step 75] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 10, Step 76] Agent: 공격 - Wasteland Scorpid[3/8] -> Rexxar
+
+--- Game State (Turn 10, Step 77) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (4): Anubisath Warbringer, Ysera, Mayor Noggenfogger, Shade of Naxxramas
+  Field: Dragon Egg[0/1], Wasteland Scorpid[3/8], Gadgetzan Auctioneer[4/4]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (6)
+  Field: Furnacefire Colossus[6/4], Djinni of Zephyrs[4/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

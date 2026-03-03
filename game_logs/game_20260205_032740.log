@@ -1,0 +1,338 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 2, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 공격 - Gadgetzan Jouster[1/2] -> Jaina Proudmoore
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/4
+  Hand (6): Faceless Summoner, Nerub'ar Weblord, Regeneratin' Thug, Vex Crow, Pterrordax Hatchling, Archmage Arugal
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Gadgetzan Jouster[1/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(8) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(19) → 7로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Arcane Artificer (코스트: 1)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Gadgetzan Jouster[1/2] -> Nerub'ar Weblord
+[Turn 5, Step 9] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 4)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (6): Faceless Summoner, Regeneratin' Thug, Vex Crow, Pterrordax Hatchling, Archmage Arugal, Troll Batrider
+  Field: Nerub'ar Weblord[1/3], Arcane Artificer[1/2]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (7)
+  Field: Gadgetzan Jouster[1/1], Nerubian Prophet[4/4]
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Nerub'ar Weblord
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Archmage Arugal (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 6, Step 12] Agent: 공격 - Arcane Artificer[1/2] -> Nerubian Prophet
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 6, Step 13] Agent: 공격 - Nerub'ar Weblord[1/2] -> Rexxar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Nerubian Prophet[4/3] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 카드 플레이 - Ramkahen Wildtamer (코스트: 5)
+[Turn 6, Step 14] Opponent: 공격 - Gadgetzan Jouster[1/1] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/7
+  Hand (6): Faceless Summoner, Regeneratin' Thug, Vex Crow, Pterrordax Hatchling, Troll Batrider, Dozing Marksman
+  Field: Nerub'ar Weblord[1/2], Archmage Arugal[2/2]
+Opponent: Rexxar HP: 28, Mana: 1/6
+  Hand (8)
+  Field: Gadgetzan Jouster[1/1], Nerubian Prophet[4/3], Ramkahen Wildtamer[4/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(72) → 9로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Nerub'ar Weblord
+[Turn 7, Step 16] Agent: 공격 - Nerub'ar Weblord[1/1] -> Ramkahen Wildtamer
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Gadgetzan Jouster[1/1] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 7, Step 17] Opponent: 공격 - Rexxar[1/28] -> Archmage Arugal
+[Turn 7, Step 17] Opponent: 공격 - Nerubian Prophet[4/3] -> Archmage Arugal
+[Turn 7, Step 17] Opponent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 7, Step 17] Opponent: 공격 - Ramkahen Wildtamer[4/2] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 공격 - Ramkahen Wildtamer[4/2] -> Jaina Proudmoore
+[Turn 8, Step 18] Opponent: 공격 - Rexxar[1/26] -> Jaina Proudmoore
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 9, Step 19] Agent: 영웅 능력 사용 -> Ramkahen Wildtamer
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 7/9
+  Hand (8): Faceless Summoner, Regeneratin' Thug, Vex Crow, Pterrordax Hatchling, Troll Batrider, Dozing Marksman, Violet Teacher, Arcane Giant
+Opponent: Rexxar HP: 26, Mana: 8/8
+  Hand (8)
+  Field: Gadgetzan Jouster[1/1], Nerubian Prophet[4/1], Ramkahen Wildtamer[4/1], Locust[1/1], Giant Wasp[2/2], Locust[1/1]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+[Turn 9, Step 21] Agent: 선택 - Flaming Claws
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Dozing Marksman (코스트: 2)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 공격 - Locust[1/1] -> Dozing Marksman
+[Turn 9, Step 22] Opponent: 공격 - Rexxar[1/26] -> Pterrordax Hatchling
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(84) → 22로 보정
+[Turn 10, Step 23] Agent: 공격 - Pterrordax Hatchling[5/1] -> Locust
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Locust
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (7): Faceless Summoner, Regeneratin' Thug, Vex Crow, Troll Batrider, Violet Teacher, Arcane Giant, Potion Vendor
+  Field: Dozing Marksman[4/3]
+Opponent: Rexxar HP: 21, Mana: 9/9
+  Hand (9)
+  Field: Gadgetzan Jouster[1/1], Nerubian Prophet[4/1], Ramkahen Wildtamer[4/1], Locust[1/1], Giant Wasp[2/2]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 26] Agent: 공격 - Dozing Marksman[4/3] -> Locust
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - Venomizer (코스트: 2)
+[Turn 10, Step 28] Opponent: 공격 - Nerubian Prophet[4/1] -> Infested Goblin
+[Turn 10, Step 28] Opponent: 공격 - Giant Wasp[2/2] -> Potion Vendor
+[Turn 10, Step 28] Opponent: 카드 플레이 - Explorer's Hat -> Venomizer (코스트: 2)
+[Turn 10, Step 28] Opponent: 공격 - Ramkahen Wildtamer[4/1] -> Faceless Summoner
+[Turn 10, Step 28] Opponent: 영웅 능력 사용
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(33) → 14로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Venomizer
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (8): Regeneratin' Thug, Vex Crow, Troll Batrider, Violet Teacher, Arcane Giant, Scarab, Scarab, Faceless Summoner
+  Field: Dozing Marksman[0/4], Faceless Summoner[5/1]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (8)
+  Field: Gadgetzan Jouster[1/1], Giant Wasp[2/1], Venomizer[3/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Desert Camel (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(80) → 18로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Glacial Shard
+[Turn 10, Step 32] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Exploding Bloatbat (코스트: 4)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (8): Vex Crow, Troll Batrider, Violet Teacher, Arcane Giant, Scarab, Faceless Summoner, Anomalus, Salty Dog
+  Field: Dozing Marksman[0/4], Faceless Summoner[5/1], Scarab[1/1], Regeneratin' Thug[3/5]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (7)
+  Field: Gadgetzan Jouster[1/1], Giant Wasp[2/1], Venomizer[3/2], Desert Camel[2/4], Mogu Cultist[1/1], Exploding Bloatbat[2/1]
+[Turn 10, Step 35] Agent: 공격 - Faceless Summoner[5/1] -> Mogu Cultist
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(86) → 26로 보정
+[Turn 10, Step 36] Agent: 공격 - Regeneratin' Thug[3/5] -> Giant Wasp
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(75) → 12로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Venomizer
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(84) → 7로 보정
+[Turn 10, Step 39] Agent: 공격 - Scarab[1/1] -> Gadgetzan Jouster
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 7/10
+  Hand (7): Vex Crow, Troll Batrider, Violet Teacher, Arcane Giant, Faceless Summoner, Anomalus, Salty Dog
+  Field: Dozing Marksman[0/4], Scarab[1/1]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (10)
+  Field: Venomizer[3/1], Desert Camel[2/4], Exploding Bloatbat[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Demolisher (코스트: 3)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Evasive Chimaera (코스트: 2)
+[Turn 10, Step 41] Opponent: 공격 - Exploding Bloatbat[2/1] -> Scarab
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(56) → 6로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Sharp Fork (코스트: 3)
+[Turn 10, Step 43] Agent: 공격 - Dozing Marksman[4/2] -> Desert Camel
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(94) → 18로 보정
+[Turn 10, Step 44] Agent: 공격 - Jaina Proudmoore[3/9] -> Evasive Chimaera
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 7/10
+  Hand (7): Vex Crow, Troll Batrider, Violet Teacher, Arcane Giant, Anomalus, Salty Dog, Blatant Decoy
+  Field: Faceless Summoner[5/3]
+Opponent: Rexxar HP: 21, Mana: 5/10
+  Hand (10)
+  Field: Venomizer[3/1], Demolisher[1/4]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Demolisher
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 46] Agent: 공격 - Faceless Summoner[5/3] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Vex Crow (코스트: 4)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Demolisher[1/3] -> Vex Crow
+[Turn 10, Step 48] Opponent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (8): Troll Batrider, Violet Teacher, Arcane Giant, Anomalus, Salty Dog, Blatant Decoy, Unpowered Mauler, Faceless Lurker
+  Field: Faceless Summoner[5/3]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (10)
+  Field: Venomizer[3/1], Maexxna[2/8]
+[Turn 10, Step 50] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Faceless Lurker (코스트: 5)
+[Turn 10, Step 52] Agent: 공격 - Jaina Proudmoore[3/7] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Exploding Bloatbat (코스트: 4)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(38) → 11로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Maexxna
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (7): Sludge Belcher, Troll Batrider, Arcane Giant, Anomalus, Salty Dog, Blatant Decoy, Unpowered Mauler
+  Field: Faceless Summoner[5/3], Violet Teacher[3/5], Faceless Lurker[3/6]
+Opponent: Rexxar HP: 13, Mana: 6/10
+  Hand (9)
+  Field: Venomizer[3/1], Maexxna[2/7], Exploding Bloatbat[2/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(44) → 6로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(52) → 1로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Faceless Lurker
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 6/10
+  Hand (5): Troll Batrider, Arcane Giant, Anomalus, Salty Dog, Blatant Decoy
+  Field: Faceless Summoner[5/3], Violet Teacher[3/5], Faceless Lurker[3/5], Unpowered Mauler[2/4], Sludge Belcher[3/5], Temple Berserker[1/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (10)
+  Field: Venomizer[3/1], Maexxna[2/7], Exploding Bloatbat[2/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(91) → 11로 보정
+[Turn 10, Step 60] Agent: 공격 - Violet Teacher[3/5] -> Exploding Bloatbat
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 10, Step 61] Agent: 공격 - Faceless Summoner[5/1] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 62] Agent: 공격 - Faceless Lurker[3/3] -> Maexxna
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 63] Agent: 공격 - Sludge Belcher[3/3] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Blatant Decoy (코스트: 6)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 0/10
+  Hand (4): Troll Batrider, Arcane Giant, Anomalus, Salty Dog
+  Field: Faceless Summoner[5/1], Violet Teacher[3/1], Unpowered Mauler[2/2], Sludge Belcher[3/3], Temple Berserker[3/1], Blatant Decoy[5/5]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (10)
+  Field: Venomizer[3/1], Maexxna[2/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(78) → 18로 보정
+[Turn 10, Step 66] Agent: 공격 - Violet Teacher[3/1] -> Rexxar
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(37) → 10로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Violet Teacher
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(90) → 5로 보정
+[Turn 10, Step 68] Agent: 공격 - Faceless Summoner[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 69) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (5): Troll Batrider, Arcane Giant, Anomalus, Salty Dog, Garrison Commander
+  Field: Faceless Summoner[5/1], Unpowered Mauler[2/2], Sludge Belcher[3/3], Temple Berserker[3/1], Blatant Decoy[5/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Venomizer[3/1], Maexxna[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

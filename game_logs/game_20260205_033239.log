@@ -1,0 +1,446 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 공격 - Dirty Rat[2/6] -> Murloc Raider
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(33) → 6로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (6): Flame Ward, Cult Master, Skaterbot, Supreme Abyssal, Frost Elemental, Gadgetzan Jouster
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Dirty Rat[2/4], Swamp Dragon Egg[0/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 4, Step 7] Agent: 공격 - Skaterbot[1/1] -> Dirty Rat
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Dirty Rat[2/3] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Gadgetzan Jouster
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/5
+  Hand (5): Flame Ward, Cult Master, Supreme Abyssal, Frost Elemental, Ogre Brute
+  Field: Gadgetzan Jouster[1/1]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+  Field: Dirty Rat[2/3], Swamp Dragon Egg[0/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Flame Ward (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 5, Step 11] Agent: 공격 - Gadgetzan Jouster[1/1] -> Dirty Rat
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Dirty Rat[2/2] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/7
+  Hand (5): Supreme Abyssal, Frost Elemental, Ogre Brute, Troll Batrider, Ironbeak Owl
+  Field: Cult Master[4/2]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (8)
+  Field: Sunborne Val'kyr[5/4]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Sunborne Val'kyr
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(32) → 11로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(22) → 6로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/8
+  Hand (4): Supreme Abyssal, Frost Elemental, Ogre Brute, Ironbeak Owl
+  Field: Cult Master[4/2], Troll Batrider[3/3], Fencing Coach[2/2]
+Opponent: Rexxar HP: 30, Mana: 3/7
+  Hand (8)
+  Field: Lifedrinker[3/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Ironbeak Owl -> Cult Master (코스트: 3)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 8, Step 21] Agent: 공격 - Troll Batrider[3/3] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 8, Step 22] Agent: 공격 - Cult Master[4/2] -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(92) → 14로 보정
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Troll Batrider
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/9
+  Hand (4): Supreme Abyssal, Frost Elemental, Ogre Brute, Mojomaster Zihi
+  Field: Cult Master[4/2], Troll Batrider[3/2], Fencing Coach[2/2], Ironbeak Owl[2/1]
+Opponent: Rexxar HP: 23, Mana: 8/8
+  Hand (9)
+  Field: Lifedrinker[3/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(67) → 13로 보정
+[Turn 9, Step 25] Agent: 공격 - Troll Batrider[3/2] -> Lifedrinker
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(39) → 6로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 9, Step 27] Agent: 공격 - Cult Master[4/2] -> Rexxar
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Ironbeak Owl
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (4): Supreme Abyssal, Frost Elemental, Mojomaster Zihi, Rocket Augmerchant
+  Field: Cult Master[4/2], Fencing Coach[2/2], Ogre Brute[4/4]
+Opponent: Rexxar HP: 19, Mana: 4/9
+  Hand (9)
+  Field: Azerite Elemental[2/7]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Giant Sand Worm (코스트: 8)
+[Turn 10, Step 30] Opponent: 공격 - Azerite Elemental[2/7] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(48) → 16로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(39) → 14로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Rocket Augmerchant -> Giant Sand Worm (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 10, Step 33] Agent: 공격 - Ogre Brute[4/4] -> Giant Sand Worm
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Frost Elemental -> Fencing Coach (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 1/10
+  Hand (3): Supreme Abyssal, Mojomaster Zihi, Young Priestess
+  Field: Cult Master[4/2], Fencing Coach[2/2], Ogre Brute[4/2], Rocket Augmerchant[2/1], Frost Elemental[5/5]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (9)
+  Field: Giant Sand Worm[8/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Cult Master[4/2] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(89) → 25로 보정
+[Turn 10, Step 38] Agent: 공격 - Rocket Augmerchant[2/1] -> Flame Juggler
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(72) → 16로 보정
+[Turn 10, Step 39] Agent: 공격 - Fencing Coach[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (3): Supreme Abyssal, Mojomaster Zihi, Splitting Festeroot
+  Field: Cult Master[4/2], Fencing Coach[2/2], Ogre Brute[4/1], Frost Elemental[5/6], Young Priestess[2/1]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (9)
+  Field: Giant Sand Worm[8/4], Flame Juggler[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(38) → 13로 보정
+[Turn 10, Step 40] Agent: 공격 - Cult Master[4/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(96) → 8로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Ogre Brute
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 10, Step 42] Agent: 공격 - Frost Elemental[5/6] -> Flame Juggler
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 44] Agent: 공격 - Young Priestess[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (2): Supreme Abyssal, Mojomaster Zihi
+  Field: Cult Master[4/2], Fencing Coach[2/2], Frost Elemental[5/4], Young Priestess[2/1], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (9)
+  Field: Giant Sand Worm[8/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Giant Sand Worm[8/4] -> Young Priestess
+[Turn 10, Step 45] Opponent: 공격 - Giant Sand Worm[8/2] -> Frost Elemental
+[Turn 10, Step 45] Opponent: 카드 플레이 - Zixor, Apex Predator (코스트: 3)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 10, Step 45] Opponent: 선택 - Dagger Mastery
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(52) → 12로 보정
+[Turn 10, Step 46] Agent: 공격 - Cult Master[4/2] -> Zixor, Apex Predator
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 5, Step 48] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 5, Step 48] Agent: 공격 - Splitting Festeroot[4/5] -> Sir Finley Mrrgglton
+[Turn 5, Step 49] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 5, Step 49] Agent: 영웅 능력 사용 -> Mojomaster Zihi
+
+--- Game State (Turn 5, Step 50) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 2/5
+  Hand (2): Supreme Abyssal, Tome of Intellect
+  Field: Fencing Coach[2/2], Splitting Festeroot[4/4], Mojomaster Zihi[5/4]
+Opponent: Rexxar HP: 7, Mana: 5/5
+  Hand (8)
+[Turn 5, Step 50] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 5, Step 50] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 50] Opponent: 턴 종료
+[Turn 6, Step 51] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 6, Step 51] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 52] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 6, Step 52] Agent: 공격 - Fencing Coach[2/2] -> Rexxar
+[Turn 6, Step 53] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 6, Step 53] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 53] Opponent: 카드 플레이 - Reno Jackson (코스트: 6)
+[Turn 6, Step 53] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 6, Step 53] Opponent: 턴 종료
+[Turn 7, Step 54] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 7, Step 54] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 7, Step 55) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 4/7
+  Hand (3): Supreme Abyssal, Tome of Intellect, Fen Creeper
+  Field: Fencing Coach[2/2], Splitting Festeroot[4/4], Mojomaster Zihi[5/4]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (8)
+  Field: Reno Jackson[4/6], Tentacle of N'Zoth[1/1]
+[Turn 7, Step 55] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 7, Step 55] Agent: 공격 - Mojomaster Zihi[5/4] -> Tentacle of N'Zoth
+[Turn 7, Step 56] Agent: 유효하지 않은 액션 인덱스(22) → 10로 보정
+[Turn 7, Step 56] Agent: 공격 - Splitting Festeroot[4/3] -> Rexxar
+[Turn 7, Step 57] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 7, Step 57] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 58] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 58] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 58] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 7, Step 58] Opponent: 턴 종료
+[Turn 8, Step 59] Agent: 영웅 능력 사용 -> Genzo, the Shark
+
+--- Game State (Turn 8, Step 60) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 6/8
+  Hand (4): Supreme Abyssal, Tome of Intellect, Fen Creeper, Body Wrapper
+  Field: Fencing Coach[2/1], Splitting Festeroot[4/3], Mojomaster Zihi[5/2]
+Opponent: Rexxar HP: 26, Mana: 4/8
+  Hand (8)
+  Field: Reno Jackson[4/5], Genzo, the Shark[5/3]
+[Turn 8, Step 60] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 8, Step 60] Agent: 카드 플레이 - Tome of Intellect (코스트: 1)
+[Turn 8, Step 61] Agent: 유효하지 않은 액션 인덱스(45) → 6로 보정
+[Turn 8, Step 61] Agent: 공격 - Fencing Coach[2/1] -> Genzo, the Shark
+[Turn 8, Step 62] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 8, Step 63] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 8, Step 63] Agent: 공격 - Splitting Festeroot[4/3] -> Reno Jackson
+[Turn 8, Step 64] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 8, Step 64] Agent: 공격 - Mojomaster Zihi[5/2] -> Reno Jackson
+
+--- Game State (Turn 8, Step 65) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/8
+  Hand (3): Supreme Abyssal, Body Wrapper, Lesser Ruby Spellstone
+  Field: Splitting Sapling[2/2], Splitting Sapling[2/2], Fen Creeper[3/6]
+Opponent: Rexxar HP: 26, Mana: 4/8
+  Hand (8)
+  Field: Genzo, the Shark[5/1]
+[Turn 8, Step 65] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 8, Step 65] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 65] Opponent: 턴 종료
+[Turn 9, Step 66] Agent: 유효하지 않은 액션 인덱스(38) → 4로 보정
+[Turn 9, Step 66] Agent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 9, Step 67] Agent: 유효하지 않은 액션 인덱스(43) → 9로 보정
+[Turn 9, Step 67] Agent: 영웅 능력 사용 -> Sewer Crawler
+[Turn 9, Step 68] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 9, Step 68] Agent: 공격 - Splitting Sapling[2/2] -> Genzo, the Shark
+[Turn 9, Step 69] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 9, Step 69] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+
+--- Game State (Turn 9, Step 70) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/9
+  Hand (2): Supreme Abyssal, Lesser Ruby Spellstone
+  Field: Woodchip[1/1], Woodchip[1/1], Splitting Sapling[2/2], Fen Creeper[3/6], Giant Rat[2/3], Body Wrapper[4/4]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (9)
+[Turn 9, Step 70] Agent: 선택 - Gadgetzan Jouster
+[Turn 9, Step 70] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 9, Step 70] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Fen Creeper
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 10, Step 72] Agent: 공격 - Body Wrapper[4/4] -> Rexxar
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 73] Agent: 공격 - Giant Rat[2/3] -> Rexxar
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(37) → 5로 보정
+[Turn 10, Step 74] Agent: 공격 - Woodchip[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (3): Supreme Abyssal, Lesser Ruby Spellstone, Corridor Creeper
+  Field: Woodchip[1/1], Woodchip[1/1], Splitting Sapling[2/2], Fen Creeper[3/5], Giant Rat[2/3], Body Wrapper[4/4]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(51) → 2로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 76] Agent: 공격 - Fen Creeper[3/5] -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 77] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (3): Supreme Abyssal, Corridor Creeper, Sharkfin Fan
+  Field: Woodchip[1/1], Woodchip[1/1], Splitting Sapling[2/2], Fen Creeper[3/5], Giant Rat[2/3], Body Wrapper[4/4]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(48) → 12로 보정
+[Turn 10, Step 80] Agent: 공격 - Woodchip[1/1] -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(21) → 4로 보정
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 82] Agent: 공격 - Fen Creeper[3/5] -> Rexxar
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 84] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (2): Corridor Creeper, Sharkfin Fan
+  Field: Woodchip[1/1], Woodchip[1/1], Splitting Sapling[2/2], Fen Creeper[3/5], Giant Rat[2/3], Body Wrapper[4/4], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 10, Step 85] Opponent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(22) → 3로 보정
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Fen Creeper
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 카드 플레이 - Phase Stalker (코스트: 2)
+[Turn 10, Step 87] Opponent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 10, Step 87] Opponent: 공격 - Huge Toad[3/2] -> Fen Creeper
+[Turn 10, Step 87] Opponent: 카드 플레이 - Deathaxe Punisher (코스트: 4)
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(90) → 21로 보정
+[Turn 10, Step 88] Agent: 공격 - Body Wrapper[4/4] -> Psych-o-Tron
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 89] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 2/10
+  Hand (3): Corridor Creeper, Sharkfin Fan, Lost Tallstrider
+  Field: Woodchip[1/1], Splitting Sapling[2/2], Fen Creeper[3/1], Giant Rat[2/3], Body Wrapper[4/1], Supreme Abyssal[12/12], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (6)
+  Field: Psych-o-Tron[3/4], Phase Stalker[2/3], Aberrant Berserker[3/5], Deathaxe Punisher[3/3]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(46) → 8로 보정
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Supreme Abyssal
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(29) → 5로 보정
+[Turn 10, Step 91] Agent: 공격 - Supreme Abyssal[12/11] -> Psych-o-Tron
+[Turn 10, Step 92] Agent: 공격 - Woodchip[1/1] -> Rexxar
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(15) → 2로 보정
+[Turn 10, Step 93] Agent: 공격 - Splitting Sapling[2/2] -> Phase Stalker
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 10, Step 94] Agent: 공격 - Giant Rat[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (3): Corridor Creeper, Sharkfin Fan, Lost Tallstrider
+  Field: Woodchip[1/1], Woodchip[1/1], Fen Creeper[3/1], Giant Rat[2/3], Body Wrapper[4/1], Supreme Abyssal[12/8], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (6)
+  Field: Phase Stalker[2/1], Aberrant Berserker[3/5], Deathaxe Punisher[3/3]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 10, Step 95] Agent: 공격 - Fen Creeper[3/1] -> Rexxar
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 96] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 96] Opponent: 공격 - Phase Stalker[2/1] -> Fen Creeper
+[Turn 10, Step 96] Opponent: 턴 종료
+[Turn 10, Step 97] Agent: 공격 - Arcane Devourer[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 98) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (4): Corridor Creeper, Sharkfin Fan, Lost Tallstrider, Bloodsail Raider
+  Field: Woodchip[1/1], Woodchip[1/1], Giant Rat[2/3], Body Wrapper[4/1], Supreme Abyssal[12/8], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+  Field: Aberrant Berserker[3/5], Deathaxe Punisher[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

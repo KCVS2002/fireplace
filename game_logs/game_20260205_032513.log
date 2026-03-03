@@ -1,0 +1,313 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 4, Step 4] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (6): Finja, the Flying Star, Masked Contender, Whizbang the Wonderful, Astromancer, Old Murk-Eye, Windfury Harpy
+  Field: Astromancer Solarian[3/2]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Dire Mole[1/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Astromancer Solarian
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Whizbang the Wonderful (코스트: 4)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 5, Step 8] Agent: 공격 - Astromancer Solarian[3/1] -> Dire Mole
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (7): Finja, the Flying Star, Masked Contender, Astromancer, Old Murk-Eye, Windfury Harpy, Bad Luck Albatross, Summoning Stone
+  Field: Whizbang the Wonderful[4/5]
+Opponent: Rexxar HP: 30, Mana: 1/5
+  Hand (7)
+  Field: Half-Time Scavenger[3/5]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Finja, the Flying Star (코스트: 5)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 6, Step 11] Agent: 공격 - Whizbang the Wonderful[4/5] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Mind Control Tech (코스트: 3)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Astromancer (코스트: 7)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 7, Step 14] Agent: 공격 - Finja, the Flying Star[2/4] -> Mind Control Tech
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/7
+  Hand (6): Masked Contender, Old Murk-Eye, Windfury Harpy, Bad Luck Albatross, Summoning Stone, Keening Banshee
+  Field: Whizbang the Wonderful[4/5], Finja, the Flying Star[2/1], Astromancer[5/5], Mech-Bear-Cat[7/6]
+Opponent: Rexxar HP: 26, Mana: 3/6
+  Hand (7)
+  Field: Half-Time Scavenger[3/5], Mind Control Tech[3/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 7, Step 15] Agent: 공격 - Whizbang the Wonderful[4/5] -> Mind Control Tech
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Gadgetzan Socialite -> Rexxar (코스트: 2)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 8, Step 18] Opponent: 카드 플레이 - Scavenging Hyena (코스트: 2)
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 카드 플레이 - Windfury Harpy (코스트: 6)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/9
+  Hand (6): Masked Contender, Old Murk-Eye, Bad Luck Albatross, Summoning Stone, Keening Banshee, Tomb Lurker
+  Field: Whizbang the Wonderful[4/2], Finja, the Flying Star[2/1], Astromancer[5/5], Mech-Bear-Cat[7/6], Gadgetzan Socialite[2/2], Windfury Harpy[4/5]
+Opponent: Rexxar HP: 28, Mana: 0/8
+  Hand (7)
+  Field: Half-Time Scavenger[3/5], Volcanic Drake[6/4], Scavenging Hyena[2/2]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(41) → 14로 보정
+[Turn 9, Step 20] Agent: 공격 - Whizbang the Wonderful[4/2] -> Scavenging Hyena
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(32) → 14로 보정
+[Turn 9, Step 21] Agent: 공격 - Mech-Bear-Cat[7/6] -> Rexxar
+[Turn 9, Step 22] Agent: 공격 - Finja, the Flying Star[2/1] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Volcanic Drake
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 9, Step 24] Agent: 공격 - Gadgetzan Socialite[2/2] -> Volcanic Drake
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/9
+  Hand (6): Masked Contender, Old Murk-Eye, Bad Luck Albatross, Summoning Stone, Keening Banshee, Tomb Lurker
+  Field: Finja, the Flying Star[2/1], Astromancer[5/5], Mech-Bear-Cat[7/6], Windfury Harpy[4/5]
+Opponent: Rexxar HP: 19, Mana: 0/8
+  Hand (7)
+  Field: Half-Time Scavenger[3/5], Volcanic Drake[6/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 9, Step 25] Agent: 공격 - Astromancer[5/5] -> Volcanic Drake
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 영웅 능력 사용
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Windfury Harpy
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 10, Step 28] Agent: 공격 - Windfury Harpy[4/4] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(75) → 9로 보정
+[Turn 10, Step 29] Agent: 공격 - Mech-Bear-Cat[7/6] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (7): Masked Contender, Old Murk-Eye, Bad Luck Albatross, Summoning Stone, Keening Banshee, Tomb Lurker, Solarian Prime
+  Field: Finja, the Flying Star[2/1], Mech-Bear-Cat[7/6], Windfury Harpy[4/4]
+Opponent: Rexxar HP: 8, Mana: 7/9
+  Hand (8)
+  Field: Half-Time Scavenger[3/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Bad Luck Albatross (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(62) → 8로 보정
+[Turn 10, Step 34] Agent: 공격 - Old Murk-Eye[3/4] -> Thunder Lizard
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/10
+  Hand (6): Masked Contender, Summoning Stone, Keening Banshee, Tomb Lurker, Solarian Prime, Mimiron's Head
+  Field: Finja, the Flying Star[2/1], Mech-Bear-Cat[7/6], Windfury Harpy[4/4], Old Murk-Eye[3/1], Bad Luck Albatross[4/3]
+Opponent: Rexxar HP: 8, Mana: 7/10
+  Hand (8)
+  Field: Half-Time Scavenger[3/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 10, Step 35] Agent: 공격 - Finja, the Flying Star[2/1] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 공격 - Half-Time Scavenger[3/5] -> Bad Luck Albatross
+[Turn 10, Step 36] Opponent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(65) → 7로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Beaming Sidekick -> Finja, the Flying Star (코스트: 1)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(41) → 15로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Saronite Chain Gang
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(44) → 14로 보정
+[Turn 10, Step 39] Agent: 공격 - Old Murk-Eye[3/1] -> Saronite Chain Gang
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/10
+  Hand (6): Masked Contender, Summoning Stone, Keening Banshee, Tomb Lurker, Solarian Prime, Mimiron's Head
+  Field: Finja, the Flying Star[2/3], Mech-Bear-Cat[7/6], Windfury Harpy[4/4], Beaming Sidekick[1/2]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (6)
+  Field: Half-Time Scavenger[3/1], Saronite Chain Gang[2/3], Escaped Manasaber[3/6], Young Priestess[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(27) → 7로 보정
+[Turn 10, Step 40] Agent: 공격 - Finja, the Flying Star[2/3] -> Saronite Chain Gang
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(35) → 8로 보정
+[Turn 10, Step 41] Agent: 공격 - Windfury Harpy[4/4] -> Saronite Chain Gang
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 42] Agent: 공격 - Windfury Harpy[4/2] -> Half-Time Scavenger
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Tomb Lurker (코스트: 5)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 10, Step 44] Opponent: 공격 - Young Priestess[2/1] -> Mech-Bear-Cat
+[Turn 10, Step 44] Opponent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (8): Masked Contender, Summoning Stone, Keening Banshee, Solarian Prime, Mimiron's Head, Bad Luck Albatross, Whirling Blades, Wasteland Scorpid
+  Field: Finja, the Flying Star[2/1], Mech-Bear-Cat[7/4], Beaming Sidekick[1/2], Tomb Lurker[5/3]
+Opponent: Rexxar HP: 6, Mana: 3/10
+  Hand (5)
+  Field: Escaped Manasaber[3/6], Fel Orc Soulfiend[3/7], Eater of Secrets[2/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(39) → 5로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 10, Step 46] Agent: 카드 플레이 - Whirling Blades -> Tomb Lurker (코스트: 1)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(96) → 21로 보정
+[Turn 10, Step 47] Agent: 공격 - Beaming Sidekick[1/2] -> Eater of Secrets
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(96) → 12로 보정
+[Turn 10, Step 48] Agent: 공격 - Finja, the Flying Star[2/1] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(29) → 11로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Mimiron's Head
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (6): Masked Contender, Summoning Stone, Keening Banshee, Solarian Prime, Bad Luck Albatross, Wasteland Scorpid
+  Field: Finja, the Flying Star[2/1], Mech-Bear-Cat[7/4], Tomb Lurker[6/3], Mimiron's Head[4/4]
+Opponent: Rexxar HP: 4, Mana: 3/10
+  Hand (5)
+  Field: Escaped Manasaber[3/6], Fel Orc Soulfiend[3/7], Eater of Secrets[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 10, Step 50] Opponent: 공격 - Escaped Manasaber[3/6] -> Mimiron's Head
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 52] Agent: 공격 - Mech-Bear-Cat[7/4] -> Annoy-o-Tron
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Keening Banshee (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Eater of Secrets[2/3] -> Finja, the Flying Star
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (8): Masked Contender, Summoning Stone, Solarian Prime, Bad Luck Albatross, Wasteland Scorpid, Reno Jackson, Time Rewinder, Shieldbearer
+  Field: Mech-Bear-Cat[7/3], Tomb Lurker[6/3], Mimiron's Head[4/1], Keening Banshee[5/5]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (6)
+  Field: Escaped Manasaber[3/2], Fel Orc Soulfiend[3/3], Eater of Secrets[2/1], Annoy-o-Tron[1/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(30) → 4로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Bad Luck Albatross (코스트: 4)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(67) → 17로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Mimiron's Head
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Masked Contender (코스트: 3)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Time Rewinder -> Keening Banshee (코스트: 1)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 59] Agent: 공격 - Mech-Bear-Cat[7/3] -> Annoy-o-Tron
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/10
+  Hand (7): Summoning Stone, Solarian Prime, Wasteland Scorpid, Reno Jackson, Shieldbearer, Keening Banshee, Finicky Cloakfield
+  Field: Mech-Bear-Cat[7/2], Tomb Lurker[6/3], Bad Luck Albatross[4/3], Masked Contender[2/4]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (6)
+  Field: Escaped Manasaber[3/2], Fel Orc Soulfiend[3/3], Eater of Secrets[2/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 공격 - Mech-Bear-Cat[7/2] -> Eater of Secrets
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(62) → 30로 보정
+[Turn 10, Step 62] Agent: 공격 - Masked Contender[2/4] -> Escaped Manasaber
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(42) → 17로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Tomb Lurker
+[Turn 10, Step 64] Agent: 카드 플레이 - Whirling Blades -> Fel Orc Soulfiend (코스트: 1)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/10
+  Hand (8): Summoning Stone, Solarian Prime, Wasteland Scorpid, Reno Jackson, Shieldbearer, Keening Banshee, Finicky Cloakfield, Sunstruck Henchman
+  Field: Tomb Lurker[6/2], Bad Luck Albatross[4/3], Masked Contender[2/1]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (7)
+  Field: Fel Orc Soulfiend[4/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Finicky Cloakfield -> Bad Luck Albatross (코스트: 1)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 67] Agent: 공격 - Tomb Lurker[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (6): Summoning Stone, Solarian Prime, Wasteland Scorpid, Reno Jackson, Shieldbearer, Keening Banshee
+  Field: Tomb Lurker[6/2], Bad Luck Albatross[4/3], Masked Contender[2/1], Sunstruck Henchman[6/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+  Field: Fel Orc Soulfiend[4/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

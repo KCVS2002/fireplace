@@ -1,0 +1,247 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Ice Lance -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Trogg Beastrager (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Trogg Beastrager[3/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 카드 플레이 - Flare (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Trogg Beastrager
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Trogg Beastrager[3/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (6): Fire Hawk, Zephrys the Great, Volcanic Drake, Mischief Maker, Gnomish Inventor, Spellweaver
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Trogg Beastrager[3/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Zephrys the Great (코스트: 2)
+[Turn 5, Step 8] Agent: 선택 - Voidwalker
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 영웅 능력 사용
+[Turn 5, Step 8] Opponent: 공격 - Trogg Beastrager[3/1] -> Jaina Proudmoore
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/6
+  Hand (6): Fire Hawk, Gnomish Inventor, Spellweaver, Lock and Load, Voidwalker, Pit Fighter
+  Field: Mischief Maker[3/3], Zephrys the Great[3/2], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 30, Mana: 3/5
+  Hand (8)
+  Field: Trogg Beastrager[3/1]
+[Turn 6, Step 10] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 10] Opponent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 6, Step 10] Opponent: 턴 종료
+[Turn 7, Step 11] Agent: 공격 - Mischief Maker[3/3] -> Trogg Beastrager
+[Turn 7, Step 12] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 12] Opponent: 턴 종료
+[Turn 8, Step 13] Agent: 영웅 능력 사용 -> Zephrys the Great
+[Turn 8, Step 14] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 14] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 8, Step 14] Opponent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 8, Step 14] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 8, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 9/9
+  Hand (9): Eccentric Scribe, Fire Hawk, Gnomish Inventor, Spellweaver, Lock and Load, Voidwalker, Pit Fighter, Captured Jormungar, Master of Ceremonies
+  Field: Zephrys the Great[3/1], Volcanic Drake[6/3]
+Opponent: Rexxar HP: 30, Mana: 0/8
+  Hand (7)
+  Field: Archmage[4/7], Cloakscale Chemist[1/2], Devoted Maniac[2/2], Flame Juggler[2/3]
+[Turn 9, Step 15] Agent: 카드 플레이 - Voidwalker (코스트: 1)
+[Turn 9, Step 16] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 9, Step 17] Agent: 공격 - Zephrys the Great[3/1] -> Archmage
+[Turn 9, Step 18] Agent: 공격 - Volcanic Drake[6/3] -> Devoted Maniac
+[Turn 9, Step 19] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 19] Opponent: 공격 - Archmage[4/4] -> Voidwalker
+[Turn 9, Step 19] Opponent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 9, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (8): Eccentric Scribe, Gnomish Inventor, Spellweaver, Lock and Load, Pit Fighter, Captured Jormungar, Master of Ceremonies, Weaponized Piñata
+  Field: Volcanic Drake[6/1], Fire Hawk[8/3]
+Opponent: Rexxar HP: 30, Mana: 3/9
+  Hand (8)
+  Field: Archmage[4/3], Cloakscale Chemist[1/2], Flame Juggler[2/3], Grand Crusader[5/5]
+[Turn 10, Step 20] Agent: 공격 - Volcanic Drake[6/1] -> Grand Crusader
+[Turn 10, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 22] Agent: 공격 - Fire Hawk[8/3] -> Rexxar
+[Turn 10, Step 23] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 23] Opponent: 공격 - Archmage[4/3] -> Jaina Proudmoore
+[Turn 10, Step 23] Opponent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 10, Step 23] Opponent: 영웅 능력 사용
+[Turn 10, Step 23] Opponent: 카드 플레이 - Moroes (코스트: 3)
+[Turn 10, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 6/10
+  Hand (8): Eccentric Scribe, Gnomish Inventor, Spellweaver, Lock and Load, Pit Fighter, Captured Jormungar, Master of Ceremonies, Weaponized Piñata
+  Field: Fire Hawk[8/3], Backroom Bouncer[4/4]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (7)
+  Field: Archmage[4/3], Cloakscale Chemist[1/2], Flame Juggler[2/3], Devoted Maniac[2/2], Moroes[1/1], Steward[1/1]
+[Turn 10, Step 25] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 10, Step 26] Agent: 공격 - Fire Hawk[8/3] -> Steward
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Backroom Bouncer
+[Turn 10, Step 29] Agent: 공격 - Backroom Bouncer[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (8): Eccentric Scribe, Gnomish Inventor, Spellweaver, Lock and Load, Captured Jormungar, Master of Ceremonies, Weaponized Piñata, Beaming Sidekick
+  Field: Fire Hawk[8/2], Backroom Bouncer[4/3], Pit Fighter[5/6]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (8)
+  Field: Archmage[4/3], Cloakscale Chemist[1/2], Flame Juggler[2/3], Devoted Maniac[2/2], Moroes[1/1], Steward[1/1]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 공격 - Cloakscale Chemist[1/2] -> Fire Hawk
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Beaming Sidekick -> Pit Fighter (코스트: 1)
+[Turn 10, Step 32] Agent: 공격 - Fire Hawk[8/1] -> Flame Juggler
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Beaming Sidekick
+[Turn 10, Step 34] Agent: 카드 플레이 - Spellweaver (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (7): Psych-o-Tron, Eccentric Scribe, Gnomish Inventor, Lock and Load, Captured Jormungar, Master of Ceremonies, Weaponized Piñata
+  Field: Backroom Bouncer[5/3], Pit Fighter[5/8], Beaming Sidekick[1/1], Spellweaver[4/4]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (9)
+  Field: Archmage[4/3], Cloakscale Chemist[1/2], Devoted Maniac[2/2], Moroes[1/1], Steward[1/1], Steward[1/1]
+[Turn 10, Step 35] Agent: 공격 - Pit Fighter[5/8] -> Cloakscale Chemist
+[Turn 10, Step 36] Agent: 공격 - Backroom Bouncer[5/3] -> Steward
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 공격 - Spellweaver[4/4] -> Archmage
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (8): Psych-o-Tron, Eccentric Scribe, Gnomish Inventor, Lock and Load, Captured Jormungar, Master of Ceremonies, Weaponized Piñata, Soup Vendor
+  Field: Backroom Bouncer[6/2], Pit Fighter[5/7], Beaming Sidekick[1/1]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Devoted Maniac[2/2], Moroes[1/1], Steward[1/1], Steward[1/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 10, Step 41] Agent: 공격 - Pit Fighter[5/7] -> Devoted Maniac
+[Turn 10, Step 42] Agent: 공격 - Backroom Bouncer[6/2] -> Steward
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Eccentric Scribe
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (8): Psych-o-Tron, Gnomish Inventor, Lock and Load, Captured Jormungar, Master of Ceremonies, Weaponized Piñata, Soup Vendor, Heroic Innkeeper
+  Field: Backroom Bouncer[6/1], Pit Fighter[5/5], Beaming Sidekick[1/1], Eccentric Scribe[6/3]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Moroes[1/1], Steward[1/1], Steward[1/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Heroic Innkeeper (코스트: 8)
+[Turn 10, Step 46] Agent: 공격 - Beaming Sidekick[1/1] -> Steward
+[Turn 10, Step 47] Agent: 공격 - Eccentric Scribe[6/3] -> Steward
+[Turn 10, Step 48] Agent: 공격 - Backroom Bouncer[7/1] -> Rexxar
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 10, Step 49] Opponent: 공격 - Moroes[1/1] -> Heroic Innkeeper
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (8): Psych-o-Tron, Gnomish Inventor, Lock and Load, Captured Jormungar, Master of Ceremonies, Weaponized Piñata, Soup Vendor, Booty Bay Bodyguard
+  Field: Backroom Bouncer[7/1], Pit Fighter[5/5], Eccentric Scribe[6/2], Heroic Innkeeper[12/11]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (9)
+  Field: Twilight Summoner[1/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 51] Agent: 공격 - Heroic Innkeeper[12/11] -> Twilight Summoner
+[Turn 10, Step 52] Agent: 공격 - Backroom Bouncer[7/1] -> Faceless Destroyer
+[Turn 10, Step 53] Agent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 10, Step 54] Agent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 0/10
+  Hand (5): Psych-o-Tron, Gnomish Inventor, Captured Jormungar, Weaponized Piñata, Soup Vendor
+  Field: Pit Fighter[5/5], Eccentric Scribe[6/2], Heroic Innkeeper[12/10], Booty Bay Bodyguard[5/4], Master of Ceremonies[4/2]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (9)
+[Turn 10, Step 55] Agent: 공격 - Pit Fighter[5/5] -> Rexxar
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Master of Ceremonies
+[Turn 10, Step 58] Agent: 공격 - Booty Bay Bodyguard[5/4] -> Haunted Creeper
+[Turn 10, Step 59] Agent: 카드 플레이 - Captured Jormungar (코스트: 7)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (5): Psych-o-Tron, Gnomish Inventor, Weaponized Piñata, Soup Vendor, Conjurer's Calling
+  Field: Pit Fighter[5/5], Eccentric Scribe[6/2], Heroic Innkeeper[12/10], Booty Bay Bodyguard[5/3], Master of Ceremonies[4/1], Captured Jormungar[5/9]
+Opponent: Rexxar HP: 6, Mana: 8/10
+  Hand (9)
+  Field: Spectral Spider[1/1], Spectral Spider[1/1]
+[Turn 10, Step 60] Agent: 공격 - Pit Fighter[5/5] -> Spectral Spider
+[Turn 10, Step 61] Agent: 공격 - Heroic Innkeeper[12/10] -> Spectral Spider
+[Turn 10, Step 62] Agent: 공격 - Eccentric Scribe[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (5): Psych-o-Tron, Gnomish Inventor, Weaponized Piñata, Soup Vendor, Conjurer's Calling
+  Field: Pit Fighter[5/4], Eccentric Scribe[6/2], Heroic Innkeeper[12/9], Booty Bay Bodyguard[5/3], Master of Ceremonies[4/1], Captured Jormungar[5/9]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

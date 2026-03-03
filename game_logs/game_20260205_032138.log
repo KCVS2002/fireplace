@@ -1,0 +1,238 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/2
+  Hand (5): Abomination, Ice Rager, Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Vicious Scalehide[1/3]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 2, Step 5] Opponent: 공격 - Vicious Scalehide[1/3] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Vicious Scalehide
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Toxicologist
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Toxicologist[2/1] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (8): Abomination, Ice Rager, Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor, Golden Scarab, Coppertail Imposter, Silver Hand Regent
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (6)
+  Field: Vicious Scalehide[1/2], Toxicologist[2/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Toxicologist
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 공격 - Ice Rager[5/2] -> Goblin Bomb
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(72) → 12로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Ice Rager
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/6
+  Hand (8): Abomination, Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor, Golden Scarab, Coppertail Imposter, Silver Hand Regent, Counterspell
+  Field: Ice Rager[5/1]
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (5)
+  Field: Vicious Scalehide[1/2], Whirliglider[2/1], Leper Gnome[1/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 6, Step 16] Agent: 선택 - Kezan Mystic
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Leper Gnome[1/1] -> Golden Scarab
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(53) → 7로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 7, Step 18] Agent: 공격 - Ice Rager[5/1] -> Whirliglider
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/7
+  Hand (7): Dragonmaw Scorcher, Abomination, Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor, Counterspell, Kezan Mystic
+  Field: Golden Scarab[2/1], Coppertail Imposter[4/4], Silver Hand Regent[3/3]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (6)
+  Field: Vicious Scalehide[1/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 7, Step 20] Agent: 공격 - Golden Scarab[2/1] -> Rexxar
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Vicious Scalehide[1/2] -> Golden Scarab
+[Turn 7, Step 21] Opponent: 카드 플레이 - Corpse Widow (코스트: 5)
+[Turn 7, Step 21] Opponent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Silver Hand Regent
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 8, Step 24] Agent: 공격 - Coppertail Imposter[4/4] -> Echoing Ooze
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/8
+  Hand (7): Dragonmaw Scorcher, Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor, Counterspell, Kezan Mystic, Ogre Brute
+  Field: Coppertail Imposter[4/3], Silver Hand Regent[3/2], Silver Hand Recruit[1/1], Abomination[4/4]
+Opponent: Rexxar HP: 29, Mana: 1/8
+  Hand (5)
+  Field: Corpse Widow[4/6], Echoing Ooze[1/2]
+[Turn 8, Step 25] Agent: 공격 - Silver Hand Regent[3/2] -> Rexxar
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 영웅 능력 사용
+[Turn 9, Step 28] Opponent: 카드 플레이 - Dancing Swords (코스트: 1)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Counterspell (코스트: 3)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (7): Coldarra Drake, Sylvanas Windrunner, Faceless Corruptor, Kezan Mystic, Ogre Brute, Goblin Sapper, North Sea Kraken
+  Field: Coppertail Imposter[4/2], Silver Hand Regent[3/1], Abomination[4/3], Dragonmaw Scorcher[3/6]
+Opponent: Rexxar HP: 26, Mana: 7/10
+  Hand (6)
+  Field: Corpse Widow[4/5], Echoing Ooze[1/1], Dancing Swords[4/4]
+[Turn 10, Step 30] Agent: 공격 - Coppertail Imposter[4/2] -> Dancing Swords
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Faceless Corruptor -> Abomination (코스트: 5)
+[Turn 10, Step 32] Agent: 카드 플레이 - Forbidden Flame -> Faceless Corruptor (코스트: 0)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(41) → 8로 보정
+[Turn 10, Step 33] Agent: 공격 - Dragonmaw Scorcher[3/6] -> Echoing Ooze
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 34] Agent: 공격 - Silver Hand Regent[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (6): Coldarra Drake, Sylvanas Windrunner, Kezan Mystic, Ogre Brute, Goblin Sapper, North Sea Kraken
+  Field: Silver Hand Regent[3/1], Faceless Corruptor[4/4], Dragonmaw Scorcher[3/5], Faceless Corruptor[4/2]
+Opponent: Rexxar HP: 23, Mana: 7/10
+  Hand (6)
+  Field: Corpse Widow[4/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Faceless Corruptor[4/2] -> Corpse Widow
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Faceless Corruptor[4/4] -> Corpse Widow
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 10, Step 38] Agent: 공격 - Dragonmaw Scorcher[3/5] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(26) → 9로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - North Sea Kraken -> Rexxar (코스트: 9)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (6): Hozen Healer, Coldarra Drake, Sylvanas Windrunner, Kezan Mystic, Ogre Brute, Goblin Sapper
+  Field: Silver Hand Regent[3/1], Dragonmaw Scorcher[3/5], North Sea Kraken[9/7]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Silver Hand Regent[3/1] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Dark Iron Dwarf -> North Sea Kraken (코스트: 4)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 카드 플레이 - Hozen Healer -> North Sea Kraken (코스트: 4)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(58) → 18로 보정
+[Turn 10, Step 43] Agent: 공격 - North Sea Kraken[9/7] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (6): Coldarra Drake, Sylvanas Windrunner, Kezan Mystic, Ogre Brute, Goblin Sapper, Twilight Geomancer
+  Field: Silver Hand Regent[3/1], Silver Hand Recruit[1/1], Dragonmaw Scorcher[3/5], North Sea Kraken[9/7], Hozen Healer[2/6]
+Opponent: Rexxar HP: 3, Mana: 6/10
+  Hand (7)
+  Field: Dark Iron Dwarf[4/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Goblin Sapper (코스트: 3)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Dark Iron Dwarf[4/4] -> North Sea Kraken
+[Turn 10, Step 46] Opponent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(46) → 18로 보정
+[Turn 10, Step 47] Agent: 공격 - Silver Hand Recruit[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(95) → 17로 보정
+[Turn 10, Step 48] Agent: 공격 - Silver Hand Regent[3/1] -> Silver Vanguard
+[Turn 10, Step 49] Agent: 공격 - North Sea Kraken[9/3] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Zul'Drak Ritualist, Coldarra Drake, Sylvanas Windrunner, Kezan Mystic, Ogre Brute, Twilight Geomancer
+  Field: Silver Hand Recruit[1/1], Dragonmaw Scorcher[3/5], North Sea Kraken[9/3], Hozen Healer[2/6], Goblin Sapper[6/4]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (7)
+  Field: Batterhead[3/12]
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Zul'Drak Ritualist, Coldarra Drake, Sylvanas Windrunner, Kezan Mystic, Ogre Brute, Twilight Geomancer
+  Field: Silver Hand Recruit[1/1], Dragonmaw Scorcher[3/5], North Sea Kraken[9/3], Hozen Healer[2/6], Goblin Sapper[6/4]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (7)
+  Field: Batterhead[3/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

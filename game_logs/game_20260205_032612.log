@@ -1,0 +1,303 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Faithful Lumi (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Dirty Rat
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 2, Step 3] Agent: 공격 - Zayle, Shadow Cloak[3/2] -> Dirty Rat
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 공격 - Dirty Rat[2/2] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (4): Goboglide Tech, Hozen Healer, Sleepy Dragon, Corrupted Seer
+  Field: Faithful Lumi[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Dirty Rat[2/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Dirty Rat[2/2] -> Goboglide Tech
+[Turn 3, Step 6] Opponent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(35) → 9로 보정
+[Turn 4, Step 7] Agent: 공격 - Faithful Lumi[1/1] -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(74) → 8로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Spellward Jeweler
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 4, Step 9] Agent: 공격 - Goboglide Tech[4/2] -> Spellward Jeweler
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/4
+  Hand (4): Hozen Healer, Sleepy Dragon, Corrupted Seer, Antique Healbot
+  Field: Faithful Lumi[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Hozen Healer -> Sen'jin Shieldmasta (코스트: 4)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 5, Step 12] Opponent: 공격 - Sen'jin Shieldmasta[3/5] -> Faithful Lumi
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(39) → 6로 보정
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Mana Wraith (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/6
+  Hand (4): Sleepy Dragon, Corrupted Seer, Antique Healbot, Bomb Lobber
+  Field: Hozen Healer[2/6], Mana Wraith[2/2]
+Opponent: Rexxar HP: 28, Mana: 1/5
+  Hand (5)
+  Field: Sen'jin Shieldmasta[3/4], Ancient Mage[2/5]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 6, Step 15] Agent: 공격 - Hozen Healer[2/6] -> Sen'jin Shieldmasta
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(18) → 6로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Sen'jin Shieldmasta
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 7, Step 18] Agent: 공격 - Hozen Healer[2/3] -> Sen'jin Shieldmasta
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 7, Step 19] Agent: 공격 - Mana Wraith[2/2] -> Ancient Mage
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/7
+  Hand (5): Sleepy Dragon, Corrupted Seer, Antique Healbot, Bomb Lobber, Primordial Drake
+Opponent: Rexxar HP: 28, Mana: 6/6
+  Hand (6)
+  Field: Ancient Mage[2/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 카드 플레이 - Ancient Brewmaster -> Ancient Mage (코스트: 4)
+[Turn 7, Step 20] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(53) → 3로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Faceless Lurker (코스트: 5)
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(16) → 3로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Antique Healbot (코스트: 5)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/9
+  Hand (5): Sleepy Dragon, Corrupted Seer, Primordial Drake, Khartut Defender, Aluneth
+  Field: Bomb Lobber[3/3], Antique Healbot[3/3]
+Opponent: Rexxar HP: 28, Mana: 1/8
+  Hand (6)
+  Field: Ancient Brewmaster[5/4], Faceless Lurker[3/6]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 9, Step 25] Agent: 공격 - Bomb Lobber[3/3] -> Faceless Lurker
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Ancient Brewmaster
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 공격 - Ancient Brewmaster[5/3] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 공격 - Ancient Brewmaster[5/3] -> Antique Healbot
+[Turn 10, Step 28] Opponent: 카드 플레이 - Bomb Squad (코스트: 5)
+[Turn 10, Step 28] Opponent: 영웅 능력 사용
+[Turn 10, Step 28] Opponent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 10, Step 28] Opponent: 선택 - King's Elekk
+[Turn 10, Step 28] Opponent: 공격 - Faceless Lurker[3/3] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 6)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 4/10
+  Hand (6): Sleepy Dragon, Corrupted Seer, Primordial Drake, Khartut Defender, Aluneth, Volatile Elemental
+  Field: Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (7)
+  Field: Faceless Lurker[3/3], Bomb Squad[2/2], Grimestreet Informant[1/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Sylvanas Windrunner
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (6): Sleepy Dragon, Primordial Drake, Khartut Defender, Aluneth, Volatile Elemental, The Voraxx
+  Field: Sylvanas Windrunner[5/2], Corrupted Seer[2/3], Bronze Gatekeeper[1/5]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (9)
+  Field: Faceless Lurker[3/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 10, Step 36] Agent: 공격 - Bronze Gatekeeper[1/5] -> Faceless Lurker
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 39] Agent: 공격 - Corrupted Seer[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (4): Sleepy Dragon, Primordial Drake, Aluneth, The Voraxx
+  Field: Sylvanas Windrunner[5/2], Corrupted Seer[2/3], Bronze Gatekeeper[1/2], Khartut Defender[3/4], Volatile Elemental[1/1]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Sylvanas Windrunner[5/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Volatile Elemental[1/1] -> King's Elekk
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(27) → 11로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Khartut Defender
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(33) → 6로 보정
+[Turn 10, Step 44] Agent: 공격 - Corrupted Seer[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (5): Sleepy Dragon, Primordial Drake, Aluneth, The Voraxx, Grimscale Oracle
+  Field: Sylvanas Windrunner[5/2], Corrupted Seer[2/3], Bronze Gatekeeper[1/2], Khartut Defender[3/3]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 45] Agent: 공격 - Khartut Defender[3/3] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 46] Agent: 공격 - Sylvanas Windrunner[5/2] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Primordial Drake (코스트: 8)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Swarm of Locusts (코스트: 6)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(65) → 12로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Blowgill Sniper -> Locust (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (4): Sleepy Dragon, Aluneth, The Voraxx, Grimscale Oracle
+  Field: Corrupted Seer[2/1], Khartut Defender[3/1], Primordial Drake[4/6], Blowgill Sniper[2/1]
+Opponent: Rexxar HP: 5, Mana: 4/10
+  Hand (9)
+  Field: Locust[1/1], Locust[1/1], Locust[1/1], Locust[1/1], Locust[1/1], Locust[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(99) → 25로 보정
+[Turn 10, Step 50] Agent: 공격 - Khartut Defender[3/1] -> Locust
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(46) → 19로 보정
+[Turn 10, Step 51] Agent: 공격 - Corrupted Seer[2/1] -> Locust
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(33) → 15로 보정
+[Turn 10, Step 52] Agent: 공격 - Primordial Drake[4/6] -> Locust
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(12) → 1로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (2): Sleepy Dragon, Aluneth
+  Field: Khartut Defender[3/1], Primordial Drake[4/5], Blowgill Sniper[3/1], The Voraxx[3/3], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 5, Mana: 4/10
+  Hand (9)
+  Field: Locust[1/1], Locust[1/1], Locust[1/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(67) → 27로 보정
+[Turn 10, Step 57] Agent: 공격 - Blowgill Sniper[3/1] -> Locust
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(60) → 2로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Aluneth (코스트: 6)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(69) → 17로 보정
+[Turn 10, Step 59] Agent: 공격 - Primordial Drake[4/5] -> Grim Patron
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (2): Sleepy Dragon, Darkmire Moonkin
+  Field: Khartut Defender[3/1], Primordial Drake[4/2], The Voraxx[3/3], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (9)
+  Field: Locust[1/1], Locust[1/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Locust
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 61] Agent: 공격 - The Voraxx[3/3] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 62] Agent: 공격 - Grimscale Oracle[1/1] -> Locust
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 63] Agent: 공격 - Khartut Defender[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 2/10
+  Hand (2): Sleepy Dragon, Darkmire Moonkin
+  Field: Khartut Defender[3/1], Primordial Drake[4/2], The Voraxx[3/3]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

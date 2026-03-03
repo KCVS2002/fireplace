@@ -1,0 +1,242 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Ethereal Augmerchant -> Snowflipper Penguin (코스트: 1)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Ethereal Augmerchant
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (5): Arcane Dynamo, Lotus Agents, Rustsworn Initiate, Beckoner of Evil, Stonesplinter Trogg
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Beckoner of Evil (코스트: 2)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Timber Wolf (코스트: 1)
+[Turn 4, Step 7] Opponent: 카드 플레이 - Gadgetzan Socialite -> Beckoner of Evil (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Timber Wolf
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/5
+  Hand (5): Ancient Brewmaster, Arcane Dynamo, Lotus Agents, Rustsworn Initiate, Mana Wyrm
+  Field: Beckoner of Evil[2/3], Stonesplinter Trogg[2/3]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (5)
+  Field: Gadgetzan Socialite[2/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 5, Step 10] Agent: 공격 - Beckoner of Evil[2/3] -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(36) → 16로 보정
+[Turn 6, Step 12] Agent: 공격 - Beckoner of Evil[2/3] -> Meat Wagon
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Ancient Brewmaster -> Stonesplinter Trogg (코스트: 4)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(36) → 3로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Swamp Leech (코스트: 1)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/6
+  Hand (5): Arcane Dynamo, Lotus Agents, Rustsworn Initiate, Mana Wyrm, Stonesplinter Trogg
+  Field: Beckoner of Evil[2/2], Ancient Brewmaster[5/4], Swamp Leech[2/1]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (5)
+  Field: Gadgetzan Socialite[2/2], Meat Wagon[1/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(44) → 21로 보정
+[Turn 7, Step 16] Agent: 공격 - Swamp Leech[2/1] -> Gadgetzan Socialite
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 7, Step 18] Agent: 선택 - Blizzard
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 7, Step 18] Agent: 공격 - Ancient Brewmaster[5/4] -> Meat Wagon
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 7, Step 19] Opponent: 공격 - Ruststeed Raider[5/8] -> Arcane Dynamo
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/8
+  Hand (7): Lotus Agents, Rustsworn Initiate, Mana Wyrm, Stonesplinter Trogg, Sylvanas Windrunner, Blizzard, Hakkar, the Soulflayer
+  Field: Beckoner of Evil[2/2], Ancient Brewmaster[5/3]
+Opponent: Rexxar HP: 27, Mana: 2/7
+  Hand (6)
+  Field: Desert Obelisk[0/5], Ruststeed Raider[1/5]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Beckoner of Evil
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 6)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Mana Wyrm (코스트: 2)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(45) → 11로 보정
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Ruststeed Raider
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/9
+  Hand (6): Lotus Agents, Rustsworn Initiate, Stonesplinter Trogg, Blizzard, Hakkar, the Soulflayer, Devoted Maniac
+  Field: Beckoner of Evil[2/1], Ancient Brewmaster[5/3], Sylvanas Windrunner[5/5], Mana Wyrm[1/3]
+Opponent: Rexxar HP: 27, Mana: 8/8
+  Hand (7)
+  Field: Desert Obelisk[0/5], Ruststeed Raider[1/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Lotus Agents (코스트: 5)
+[Turn 9, Step 26] Agent: 선택 - Rockbiter Weapon
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 9, Step 26] Agent: 공격 - Sylvanas Windrunner[5/5] -> Ruststeed Raider
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 9, Step 27] Agent: 공격 - Ancient Brewmaster[5/3] -> Desert Obelisk
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 9, Step 28] Agent: 공격 - Beckoner of Evil[2/1] -> Rexxar
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (7): Rustsworn Initiate, Stonesplinter Trogg, Blizzard, Hakkar, the Soulflayer, Devoted Maniac, Rockbiter Weapon, Breath of Sindragosa
+  Field: Beckoner of Evil[2/1], Ancient Brewmaster[5/3], Sylvanas Windrunner[5/4], Mana Wyrm[1/3], Lotus Agents[5/3]
+Opponent: Rexxar HP: 25, Mana: 9/9
+  Hand (8)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(91) → 19로 보정
+[Turn 10, Step 31] Agent: 공격 - Beckoner of Evil[2/1] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(44) → 21로 보정
+[Turn 10, Step 32] Agent: 공격 - Mana Wyrm[1/3] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(31) → 9로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Rockbiter Weapon -> Lotus Agents (코스트: 2)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/10
+  Hand (4): Rustsworn Initiate, Blizzard, Hakkar, the Soulflayer, Breath of Sindragosa
+  Field: Beckoner of Evil[2/1], Ancient Brewmaster[5/3], Sylvanas Windrunner[5/4], Mana Wyrm[2/3], Lotus Agents[8/3], Devoted Maniac[2/2], Stonesplinter Trogg[2/3]
+Opponent: Rexxar HP: 22, Mana: 9/9
+  Hand (8)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 10, Step 36] Agent: 공격 - Lotus Agents[8/3] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Ancient Brewmaster[5/3] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(47) → 13로 보정
+[Turn 10, Step 39] Agent: 공격 - Beckoner of Evil[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (5): Rustsworn Initiate, Blizzard, Hakkar, the Soulflayer, Breath of Sindragosa, Necrotic Geist
+  Field: Beckoner of Evil[2/1], Ancient Brewmaster[5/3], Sylvanas Windrunner[5/4], Mana Wyrm[2/3], Lotus Agents[5/3], Devoted Maniac[2/2], Stonesplinter Trogg[2/3]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (7)
+  Field: Shimmering Courser[3/3], Ancient Mage[2/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(42) → 11로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Stonesplinter Trogg
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 10, Step 41] Agent: 공격 - Sylvanas Windrunner[5/4] -> Ancient Mage
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(76) → 11로 보정
+[Turn 10, Step 42] Agent: 공격 - Stonesplinter Trogg[2/2] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(40) → 5로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (6): Puzzle Box of Yogg-Saron, Rustsworn Initiate, Blizzard, Hakkar, the Soulflayer, Breath of Sindragosa, Necrotic Geist
+  Field: Beckoner of Evil[2/1], Ancient Brewmaster[5/3], Sylvanas Windrunner[5/2], Mana Wyrm[2/3], Lotus Agents[5/3], Devoted Maniac[2/2], Stonesplinter Trogg[2/2]
+Opponent: Rexxar HP: 4, Mana: 4/10
+  Hand (7)
+  Field: Shimmering Courser[3/3], Savannah Highmane[6/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 10, Step 45] Agent: 공격 - Beckoner of Evil[2/1] -> Savannah Highmane
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(90) → 21로 보정
+[Turn 10, Step 46] Agent: 공격 - Stonesplinter Trogg[2/2] -> Shimmering Courser
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(49) → 9로 보정
+[Turn 10, Step 47] Agent: 공격 - Sylvanas Windrunner[5/2] -> Shimmering Courser
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(13) → 5로 보정
+[Turn 10, Step 48] Agent: 공격 - Mana Wyrm[2/3] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Blizzard (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/10
+  Hand (5): Puzzle Box of Yogg-Saron, Rustsworn Initiate, Hakkar, the Soulflayer, Breath of Sindragosa, Necrotic Geist
+  Field: Ancient Brewmaster[5/3], Mana Wyrm[3/3], Lotus Agents[5/3], Devoted Maniac[2/2], Savannah Highmane[6/5]
+Opponent: Rexxar HP: 2, Mana: 4/10
+  Hand (7)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (4): Puzzle Box of Yogg-Saron, Hakkar, the Soulflayer, Breath of Sindragosa, Necrotic Geist
+  Field: Ancient Brewmaster[5/3], Mana Wyrm[3/3], Lotus Agents[5/3], Devoted Maniac[2/2], Savannah Highmane[6/5], Rustsworn Initiate[2/2]
+Opponent: Rexxar HP: 0, Mana: 4/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

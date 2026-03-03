@@ -1,0 +1,288 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 공격 - Duskboar[4/1] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (5): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, The Darkness
+  Field: Duskboar[4/1]
+Opponent: Rexxar HP: 26, Mana: 0/2
+  Hand (5)
+  Field: Murloc Tidecaller[1/2]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 3, Step 5] Opponent: 공격 - Murloc Tidecaller[1/2] -> Duskboar
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 공격 - Mana Wraith[2/2] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 카드 플레이 - Runic Egg (코스트: 2)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Runic Egg
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 영웅 능력 사용
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - The Darkness (코스트: 5)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/6
+  Hand (7): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, Thunder Lizard, Goboglide Tech, Ghastly Conjurer
+  Field: The Darkness[20/20]
+Opponent: Rexxar HP: 26, Mana: 3/5
+  Hand (6)
+  Field: Mana Wraith[2/2], Runic Egg[0/1]
+[Turn 6, Step 10] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 10] Opponent: 턴 종료
+[Turn 7, Step 11] Agent: 카드 플레이 - Thunder Lizard (코스트: 4)
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Runic Egg
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 카드 플레이 - Flying Machine (코스트: 4)
+[Turn 7, Step 13] Opponent: 영웅 능력 사용
+[Turn 7, Step 13] Opponent: 공격 - Mana Wraith[2/2] -> Jaina Proudmoore
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 카드 플레이 - Kazakus (코스트: 5)
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/8
+  Hand (7): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Ghastly Conjurer, Mad Scientist
+  Field: The Darkness[20/20], Thunder Lizard[3/3], Kazakus[3/3]
+Opponent: Rexxar HP: 26, Mana: 1/7
+  Hand (8)
+  Field: Mana Wraith[2/2], Flying Machine[1/4]
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 16] Agent: 공격 - Thunder Lizard[3/3] -> Rexxar
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 2)
+[Turn 8, Step 17] Opponent: 선택 - Shapeshift
+[Turn 8, Step 17] Opponent: 카드 플레이 - Zul'Drak Ritualist (코스트: 5)
+[Turn 8, Step 17] Opponent: 공격 - Flying Machine[1/4] -> Kazakus
+[Turn 8, Step 17] Opponent: 공격 - Mana Wraith[2/2] -> Thunder Lizard
+[Turn 8, Step 17] Opponent: 공격 - Flying Machine[1/1] -> Risky Skipper
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 카드 플레이 - Ghastly Conjurer (코스트: 4)
+[Turn 9, Step 19] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/9
+  Hand (7): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Mad Scientist, Aya Blackpaw
+  Field: The Darkness[20/20], Imprisoned Sungill[2/1], Ghastly Conjurer[2/6], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 22, Mana: 1/8
+  Hand (7)
+  Field: Zul'Drak Ritualist[3/4]
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 9, Step 21] Opponent: 공격 - Zul'Drak Ritualist[3/4] -> Mirror Image
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 영웅 능력 사용 -> Zul'Drak Ritualist
+[Turn 10, Step 23] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 10, Step 24] Agent: 공격 - Ghastly Conjurer[2/6] -> Zul'Drak Ritualist
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 7/10
+  Hand (7): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Mad Scientist, Aya Blackpaw
+  Field: The Darkness[20/20], Imprisoned Sungill[2/1], Sungill Streamrunner[1/1], Sungill Streamrunner[1/1], Ghastly Conjurer[2/3], Mirror Image[0/2], Crystallizer[1/3]
+Opponent: Rexxar HP: 22, Mana: 5/9
+  Hand (7)
+  Field: Zul'Drak Ritualist[3/1], Blackwater Pirate[2/5]
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 카드 플레이 - Doomcaller (코스트: 8)
+[Turn 10, Step 25] Opponent: 영웅 능력 사용
+[Turn 10, Step 25] Opponent: 공격 - Rexxar[1/22] -> Mirror Image
+[Turn 10, Step 25] Opponent: 공격 - Blackwater Pirate[2/5] -> Mirror Image
+[Turn 10, Step 25] Opponent: 공격 - Zul'Drak Ritualist[3/1] -> Crystallizer
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Sungill Streamrunner
+[Turn 10, Step 27] Agent: 공격 - Imprisoned Sungill[2/1] -> Rexxar
+[Turn 10, Step 28] Agent: 공격 - Sungill Streamrunner[1/1] -> Rexxar
+[Turn 10, Step 29] Agent: 공격 - Ghastly Conjurer[2/3] -> Doomcaller
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (8): Feugen, The Lich King, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Mad Scientist, Aya Blackpaw, Cobalt Spellkin
+  Field: The Darkness[20/20], Imprisoned Sungill[2/1], Sungill Streamrunner[1/1]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (7)
+  Field: Blackwater Pirate[2/5], Doomcaller[7/7]
+[Turn 10, Step 30] Agent: 카드 플레이 - The Lich King (코스트: 8)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Corrosive Sludge (코스트: 5)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - The Lich King[8/8] -> Blackwater Pirate
+[Turn 10, Step 33] Agent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 2/10
+  Hand (8): Feugen, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Mad Scientist, Aya Blackpaw, Cobalt Spellkin, Army of the Dead
+  Field: The Darkness[20/20], Imprisoned Sungill[2/1], Sungill Streamrunner[1/1], The Lich King[8/6], Ancient Harbinger[4/6]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (6)
+  Field: Doomcaller[7/7], Corrosive Sludge[5/5], Thrallmar Farseer[2/3]
+[Turn 10, Step 35] Agent: 공격 - Sungill Streamrunner[1/1] -> Thrallmar Farseer
+[Turn 10, Step 36] Agent: 공격 - Imprisoned Sungill[2/1] -> Thrallmar Farseer
+[Turn 10, Step 37] Agent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Doomcaller[7/7] -> The Lich King
+[Turn 10, Step 38] Opponent: 공격 - Corrosive Sludge[5/5] -> Jaina Proudmoore
+[Turn 10, Step 38] Opponent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Swamp King Dred (코스트: 7)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Living Monument (코스트: 10)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (9): Feugen, Big Bad Archmage, Grotesque Dragonhawk, Goboglide Tech, Aya Blackpaw, Cobalt Spellkin, Army of the Dead, Death Grip, Goblin Blastmage
+  Field: The Darkness[20/20], Ancient Harbinger[4/6], Mad Scientist[2/2], Living Monument[10/1]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (4)
+  Field: Corrosive Sludge[5/5], Dragon Breeder[2/3], Grimscale Oracle[1/1]
+[Turn 10, Step 40] Agent: 공격 - Ancient Harbinger[4/6] -> Corrosive Sludge
+[Turn 10, Step 41] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 10, Step 42] Opponent: 공격 - Grimscale Oracle[1/1] -> Living Monument
+[Turn 10, Step 42] Opponent: 영웅 능력 사용
+[Turn 10, Step 42] Opponent: 공격 - Corrosive Sludge[5/1] -> Mad Scientist
+[Turn 10, Step 42] Opponent: 공격 - Rexxar[1/17] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 공격 - Dragon Breeder[2/3] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Feugen (코스트: 5)
+[Turn 10, Step 44] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 2/10
+  Hand (8): Big Bad Archmage, Grotesque Dragonhawk, Aya Blackpaw, Cobalt Spellkin, Army of the Dead, Death Grip, Goblin Blastmage, Wild Pyromancer
+  Field: The Darkness[20/20], Ancient Harbinger[4/1], Feugen[4/7], Goboglide Tech[3/3]
+Opponent: Rexxar HP: 17, Mana: 3/10
+  Hand (4)
+  Field: Dragon Breeder[2/3], Grimscale Oracle[1/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Death Grip (코스트: 2)
+[Turn 10, Step 46] Agent: 공격 - Ancient Harbinger[4/1] -> Dragon Breeder
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 공격 - Grimscale Oracle[1/1] -> Feugen
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 10, Step 49] Agent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (7): Big Bad Archmage, Grotesque Dragonhawk, Cobalt Spellkin, Army of the Dead, Goblin Blastmage, Wild Pyromancer, Wasteland Scorpid
+  Field: The Darkness[20/20], Feugen[4/6], Goboglide Tech[3/3], Thrallmar Farseer[2/3], Aya Blackpaw[5/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (5)
+[Turn 10, Step 50] Agent: 공격 - Feugen[4/6] -> Rexxar
+[Turn 10, Step 51] Agent: 공격 - Goboglide Tech[3/3] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Infested Tauren (코스트: 4)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 카드 플레이 - Goblin Blastmage (코스트: 4)
+[Turn 10, Step 54] Agent: 공격 - Jade Golem[1/1] -> Infested Tauren
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 6/10
+  Hand (7): Big Bad Archmage, Grotesque Dragonhawk, Cobalt Spellkin, Army of the Dead, Wild Pyromancer, Wasteland Scorpid, Potion Vendor
+  Field: The Darkness[20/20], Feugen[4/6], Goboglide Tech[3/3], Thrallmar Farseer[2/3], Aya Blackpaw[5/3], Goblin Blastmage[5/4]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (4)
+  Field: Wargear[5/5], Infested Tauren[2/2]
+[Turn 10, Step 55] Agent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Wargear[5/5] -> Thrallmar Farseer
+[Turn 10, Step 56] Opponent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 10, Step 56] Opponent: 공격 - Infested Tauren[2/2] -> Cobalt Spellkin
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Feugen[4/6] -> Skulking Geist
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Skulking Geist
+[Turn 10, Step 59] Agent: 공격 - Aya Blackpaw[5/3] -> Slime
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (7): Big Bad Archmage, Grotesque Dragonhawk, Army of the Dead, Wild Pyromancer, Wasteland Scorpid, Potion Vendor, Hench-Clan Hag
+  Field: The Darkness[20/20], Feugen[4/2], Goboglide Tech[3/3], Aya Blackpaw[5/1], Goblin Blastmage[5/4], Cobalt Spellkin[3/3]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (3)
+  Field: Wargear[5/3], Skulking Geist[4/1], Piloted Shredder[4/3]
+[Turn 10, Step 60] Agent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 10, Step 61] Agent: 공격 - Cobalt Spellkin[3/3] -> Piloted Shredder
+[Turn 10, Step 62] Agent: 공격 - Goboglide Tech[3/3] -> Wargear
+[Turn 10, Step 63] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 64] Agent: 공격 - Goblin Blastmage[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (5): Big Bad Archmage, Army of the Dead, Wild Pyromancer, Wasteland Scorpid, Hench-Clan Hag
+  Field: The Darkness[20/20], Feugen[4/4], Aya Blackpaw[5/3], Goblin Blastmage[5/4], Grotesque Dragonhawk[5/5], Potion Vendor[1/1]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (3)
+  Field: Skulking Geist[4/1], Mo'arg Artificer[2/4]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Mo'arg Artificer[2/4] -> Feugen
+[Turn 10, Step 65] Opponent: 공격 - Skulking Geist[4/1] -> Grotesque Dragonhawk
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Goblin Blastmage
+[Turn 10, Step 67] Agent: 공격 - The Darkness[20/20] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (6): Big Bad Archmage, Army of the Dead, Wild Pyromancer, Wasteland Scorpid, Hench-Clan Hag, Exotic Mountseller
+  Field: The Darkness[20/20], Aya Blackpaw[5/3], Goblin Blastmage[5/3], Grotesque Dragonhawk[5/1], Potion Vendor[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (4)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

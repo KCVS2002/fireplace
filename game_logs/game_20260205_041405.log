@@ -1,0 +1,160 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Arcane Anomaly[2/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Mad Scientist[2/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+[Turn 3, Step 4] Opponent: 선택 - Rocky Carapace
+[Turn 3, Step 4] Opponent: 공격 - Arcane Anomaly[2/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (7): Replicating Menace, Faceless Behemoth, Frenzied Felwing, Archmage, Hungry Ettin, Boompistol Bully, Violet Spellsword
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Arcane Anomaly[2/2], Mad Scientist[2/2], Pterrordax Hatchling[2/5]
+[Turn 4, Step 5] Agent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 공격 - Arcane Anomaly[2/2] -> Replicating Menace
+[Turn 4, Step 6] Opponent: 공격 - Mad Scientist[2/2] -> Microbot
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 공격 - Pterrordax Hatchling[2/5] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+[Turn 5, Step 8] Agent: 공격 - Microbot[1/1] -> Rexxar
+[Turn 5, Step 9] Agent: 공격 - Microbot[1/1] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/5
+  Hand (6): Faceless Behemoth, Archmage, Hungry Ettin, Boompistol Bully, Violet Spellsword, Dragonhawk Rider
+  Field: Microbot[1/1], Microbot[1/1], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (5)
+  Field: Mad Scientist[2/1], Pterrordax Hatchling[2/5]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Mad Scientist[2/1] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 카드 플레이 - Tundra Rhino (코스트: 5)
+[Turn 5, Step 10] Opponent: 공격 - Tundra Rhino[2/5] -> Microbot
+[Turn 5, Step 10] Opponent: 공격 - Pterrordax Hatchling[2/5] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 6, Step 12] Agent: 공격 - Microbot[1/1] -> Rexxar
+[Turn 6, Step 13] Agent: 공격 - Frenzied Felwing[3/2] -> Rexxar
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Rotnest Drake (코스트: 5)
+[Turn 6, Step 14] Opponent: 공격 - Tundra Rhino[2/4] -> Microbot
+[Turn 6, Step 14] Opponent: 공격 - Mad Scientist[2/1] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 공격 - Pterrordax Hatchling[2/5] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 7/7
+  Hand (7): Blood Knight, Faceless Behemoth, Hungry Ettin, Boompistol Bully, Violet Spellsword, Dragonhawk Rider, Y'Shaarj, Rage Unbound
+  Field: Frenzied Felwing[3/2], Archmage[4/7]
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (5)
+  Field: Mad Scientist[2/1], Pterrordax Hatchling[2/5], Tundra Rhino[2/3], Rotnest Drake[6/5]
+[Turn 7, Step 15] Agent: 공격 - Archmage[4/7] -> Pterrordax Hatchling
+[Turn 7, Step 16] Agent: 카드 플레이 - Blood Knight (코스트: 3)
+[Turn 7, Step 17] Agent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 7, Step 18] Agent: 공격 - Frenzied Felwing[3/2] -> Rexxar
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 공격 - Tundra Rhino[2/3] -> Violet Spellsword
+[Turn 7, Step 19] Opponent: 공격 - Rotnest Drake[6/5] -> Violet Spellsword
+[Turn 7, Step 19] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 7, Step 19] Opponent: 공격 - Pterrordax Hatchling[2/1] -> Frenzied Felwing
+[Turn 7, Step 19] Opponent: 공격 - Mukla's Champion[4/3] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 카드 플레이 - Hunter's Mark -> Rotnest Drake (코스트: 2)
+[Turn 7, Step 19] Opponent: 공격 - Mad Scientist[2/1] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/8
+  Hand (6): Faceless Behemoth, Hungry Ettin, Boompistol Bully, Dragonhawk Rider, Y'Shaarj, Rage Unbound, Twilight Geomancer
+  Field: Archmage[4/5], Blood Knight[3/3]
+Opponent: Rexxar HP: 21, Mana: 0/7
+  Hand (4)
+  Field: Mad Scientist[2/1], Tundra Rhino[2/2], Rotnest Drake[6/1], Mukla's Champion[4/3]
+[Turn 8, Step 20] Agent: 공격 - Blood Knight[3/3] -> Rotnest Drake
+[Turn 8, Step 21] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 8, Step 22] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 8, Step 23] Agent: 공격 - Archmage[4/5] -> Frostwolf Grunt
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 8, Step 24] Opponent: 공격 - Mukla's Champion[4/3] -> Twilight Geomancer
+[Turn 8, Step 24] Opponent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 8, Step 24] Opponent: 공격 - Mad Scientist[2/1] -> Hungry Ettin
+[Turn 8, Step 24] Opponent: 공격 - Tundra Rhino[2/2] -> Hungry Ettin
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 9/9
+  Hand (5): Faceless Behemoth, Boompistol Bully, Dragonhawk Rider, Y'Shaarj, Rage Unbound, Azalina Soulthief
+  Field: Archmage[4/3], Hungry Ettin[4/6]
+Opponent: Rexxar HP: 21, Mana: 0/8
+  Hand (3)
+  Field: Mukla's Champion[4/2], Seaforium Bomber[5/5], Blistering Rot[1/2], Living Rot[1/2]
+[Turn 9, Step 25] Agent: 공격 - Hungry Ettin[4/6] -> Living Rot
+[Turn 9, Step 26] Agent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 9, Step 27] Agent: 카드 플레이 - Dragonhawk Rider (코스트: 3)
+[Turn 9, Step 28] Agent: 공격 - Archmage[4/3] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 9, Step 29] Opponent: 공격 - Blistering Rot[1/2] -> Hungry Ettin
+[Turn 9, Step 29] Opponent: 영웅 능력 사용
+[Turn 9, Step 29] Opponent: 공격 - Mukla's Champion[5/3] -> Hungry Ettin
+[Turn 9, Step 29] Opponent: 공격 - Seaforium Bomber[6/6] -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/9
+  Hand (3): Faceless Behemoth, Y'Shaarj, Rage Unbound, Azalina Soulthief
+  Field: Archmage[4/3], Boompistol Bully[5/5], Dragonhawk Rider[3/3]
+Opponent: Rexxar HP: 17, Mana: 3/9
+  Hand (3)
+  Field: Seaforium Bomber[6/6], Grave Shambler[5/5]
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/9
+  Hand (3): Faceless Behemoth, Y'Shaarj, Rage Unbound, Azalina Soulthief
+  Field: Archmage[4/3], Boompistol Bully[5/5], Dragonhawk Rider[3/3]
+Opponent: Rexxar HP: 17, Mana: 3/9
+  Hand (3)
+  Field: Seaforium Bomber[6/6], Grave Shambler[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

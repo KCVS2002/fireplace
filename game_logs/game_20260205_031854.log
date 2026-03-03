@@ -1,0 +1,334 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (5): Sunreaver Warmage, Sathrovarr, Knife Juggler, Star Aligner, Cobalt Scalebane
+  Field: Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(53) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(84) → 3로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Knife Juggler (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Knife Juggler
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/5
+  Hand (6): Mechanical Whelp, Arcane Nullifier X-21, Sunreaver Warmage, Sathrovarr, Star Aligner, Cobalt Scalebane
+  Field: Young Dragonhawk[1/1], Knife Juggler[2/1]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Cobalt Scalebane (코스트: 5)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 6, Step 12] Agent: 공격 - Knife Juggler[2/1] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 6, Step 13] Opponent: 공격 - Frostwolf Warlord[4/4] -> Knife Juggler
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(29) → 10로 보정
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Frostwolf Warlord
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/7
+  Hand (7): Mechanical Whelp, Arcane Nullifier X-21, Sunreaver Warmage, Sathrovarr, Star Aligner, Dancing Swords, Nightmare Amalgam
+  Field: Young Dragonhawk[4/1], Cobalt Scalebane[5/5]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (8)
+  Field: Frostwolf Warlord[4/1], Aberrant Berserker[3/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(17) → 6로 보정
+[Turn 7, Step 15] Agent: 공격 - Young Dragonhawk[4/1] -> Frostwolf Warlord
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Dancing Swords (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 7, Step 17] Agent: 공격 - Cobalt Scalebane[5/5] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Aberrant Berserker[3/5] -> Cobalt Scalebane
+[Turn 7, Step 18] Opponent: 카드 플레이 - Necrotic Geist (코스트: 6)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Cobalt Scalebane[5/2] -> Necrotic Geist
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/8
+  Hand (7): Mechanical Whelp, Arcane Nullifier X-21, Sunreaver Warmage, Sathrovarr, Star Aligner, Nightmare Amalgam, Grimscale Oracle
+  Field: Dancing Swords[7/4]
+Opponent: Rexxar HP: 20, Mana: 1/7
+  Hand (8)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Dancing Swords
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Gazlowe (코스트: 6)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/9
+  Hand (6): Mechanical Whelp, Sunreaver Warmage, Sathrovarr, Star Aligner, Nightmare Amalgam, Scrapyard Colossus
+  Field: Dancing Swords[7/3], Arcane Nullifier X-21[2/5], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 20, Mana: 2/8
+  Hand (8)
+  Field: Gazlowe[3/6]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(24) → 3로 보정
+[Turn 9, Step 26] Agent: 공격 - Arcane Nullifier X-21[2/5] -> Rexxar
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 9, Step 27] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Grimscale Oracle
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Sunreaver Warmage, Sathrovarr, Star Aligner, Nightmare Amalgam, Scrapyard Colossus, Mistress of Mixtures
+  Field: Dancing Swords[7/3], Arcane Nullifier X-21[2/5], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (9)
+  Field: Gazlowe[3/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 30] Agent: 공격 - Mechanical Whelp[2/2] -> Gazlowe
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 10, Step 31] Agent: 공격 - Dancing Swords[7/3] -> Gazlowe
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Mechanical Dragon[7/7] -> Bronze Gatekeeper
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (6): Sunreaver Warmage, Sathrovarr, Star Aligner, Scrapyard Colossus, Mistress of Mixtures, Shrieking Shroom
+  Field: Arcane Nullifier X-21[2/5], Mechanical Dragon[7/6], Nightmare Amalgam[3/4]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (7)
+  Field: Eydis Darkbane[3/4], Rustsworn Initiate[2/2]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(60) → 5로 보정
+[Turn 10, Step 36] Agent: 공격 - Arcane Nullifier X-21[2/5] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(60) → 10로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 카드 플레이 - Star Aligner (코스트: 7)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (6): Sunreaver Warmage, Sathrovarr, Scrapyard Colossus, Mistress of Mixtures, Shrieking Shroom, Wrathion
+  Field: Arcane Nullifier X-21[2/5], Mechanical Dragon[7/6], Nightmare Amalgam[3/4], Star Aligner[7/7]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (8)
+  Field: Eydis Darkbane[3/4], Rustsworn Initiate[2/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(52) → 8로 보정
+[Turn 10, Step 40] Agent: 공격 - Nightmare Amalgam[3/4] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(31) → 7로 보정
+[Turn 10, Step 41] Agent: 공격 - Mechanical Dragon[7/6] -> Rustsworn Initiate
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 10, Step 42] Opponent: 선택 - Young Dragonhawk
+[Turn 10, Step 42] Opponent: 선택 - Argent Commander
+[Turn 10, Step 42] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 42] Opponent: 공격 - Eydis Darkbane[3/4] -> Arcane Nullifier X-21
+[Turn 10, Step 42] Opponent: 공격 - Impcaster[1/1] -> Arcane Nullifier X-21
+[Turn 10, Step 42] Opponent: 카드 플레이 - Shieldbreaker -> Arcane Nullifier X-21 (코스트: 2)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(41) → 14로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Arcane Nullifier X-21
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(79) → 9로 보정
+[Turn 10, Step 44] Agent: 공격 - Star Aligner[7/7] -> Animated Shield
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (8): Sunreaver Warmage, Sathrovarr, Scrapyard Colossus, Mistress of Mixtures, Shrieking Shroom, Wrathion, Young Dragonhawk, Ethereal Arcanist
+  Field: Mechanical Dragon[7/4], Nightmare Amalgam[3/4], Star Aligner[7/7]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (7)
+  Field: Eydis Darkbane[3/2], Griftah[4/5], Arcanosmith[3/2], Shieldbreaker[2/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(19) → 2로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(46) → 14로 보정
+[Turn 10, Step 46] Agent: 공격 - Nightmare Amalgam[3/4] -> Arcanosmith
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 10, Step 47] Agent: 공격 - Mechanical Dragon[7/4] -> Griftah
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(11) → 5로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Ethereal Arcanist (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/10
+  Hand (5): Sunreaver Warmage, Sathrovarr, Scrapyard Colossus, Shrieking Shroom, Wrathion
+  Field: Nightmare Amalgam[3/1], Star Aligner[7/7], Mistress of Mixtures[2/2], Ethereal Arcanist[3/3], Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (7)
+  Field: Eydis Darkbane[3/2], Shieldbreaker[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(69) → 34로 보정
+[Turn 10, Step 51] Agent: 공격 - Young Dragonhawk[1/1] -> Shieldbreaker
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(33) → 8로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 10, Step 53] Agent: 공격 - Mistress of Mixtures[2/2] -> Eydis Darkbane
+[Turn 10, Step 54] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/10
+  Hand (4): Dragonslayer, Sathrovarr, Scrapyard Colossus, Wrathion
+  Field: Nightmare Amalgam[3/1], Star Aligner[7/7], Ethereal Arcanist[3/3], Shrieking Shroom[1/2], Sunreaver Warmage[4/4]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(65) → 10로 보정
+[Turn 10, Step 55] Agent: 공격 - Ethereal Arcanist[3/3] -> Rexxar
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(50) → 18로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Swashburglar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (6): Dragonslayer, Sathrovarr, Scrapyard Colossus, Wrathion, Wretched Tiller, Scalerider
+  Field: Nightmare Amalgam[3/1], Star Aligner[7/7], Ethereal Arcanist[3/3], Shrieking Shroom[1/2], Emerald Hive Queen[2/3], Sunreaver Warmage[4/4]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (9)
+  Field: Argent Commander[4/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(65) → 13로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 10, Step 61] Agent: 공격 - Sunreaver Warmage[4/4] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 10, Step 62] Agent: 공격 - Nightmare Amalgam[3/1] -> Argent Commander
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 63] Agent: 공격 - Shrieking Shroom[1/2] -> Argent Commander
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 10, Step 64] Agent: 공격 - Emerald Hive Queen[2/2] -> Argent Commander
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (6): Dragonslayer, Sathrovarr, Scrapyard Colossus, Wrathion, Wretched Tiller, Scalerider
+  Field: Star Aligner[7/7], Ethereal Arcanist[3/3], Sunreaver Warmage[4/4]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 65] Agent: 공격 - Ethereal Arcanist[3/3] -> Rexxar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 카드 플레이 - Armored Warhorse (코스트: 4)
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(95) → 20로 보정
+[Turn 10, Step 68] Agent: 공격 - Ethereal Arcanist[3/3] -> Armored Warhorse
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (6): Dragonslayer, Sathrovarr, Scrapyard Colossus, Wrathion, Scalerider, Street Trickster
+  Field: Star Aligner[7/7], Sunreaver Warmage[4/4], Wretched Tiller[1/1]
+Opponent: Rexxar HP: 5, Mana: 6/10
+  Hand (9)
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(31) → 5로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Scrapyard Colossus (코스트: 10)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 72] Agent: 공격 - Star Aligner[7/7] -> Rexxar
+
+--- Game State (Turn 10, Step 73) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (6): Dragonslayer, Sathrovarr, Wrathion, Scalerider, Street Trickster, Mojomaster Zihi
+  Field: Star Aligner[7/7], Sunreaver Warmage[4/4], Wretched Tiller[1/1], Scrapyard Colossus[7/7]
+Opponent: Rexxar HP: 0, Mana: 4/10
+  Hand (8)
+  Field: Spitting Camel[2/4], Naga Corsair[5/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

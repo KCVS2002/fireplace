@@ -1,0 +1,185 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/2
+  Hand (4): Ravencaller, Ancient of Blossoms, Bilefin Tidehunter, Cairne Bloodhoof
+  Field: Neferset Ritualist[2/3], Dragon Egg[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 4, Step 8] Agent: 카드 플레이 - Shadowbomber (코스트: 1)
+[Turn 4, Step 9] Agent: 공격 - Neferset Ritualist[2/3] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/4
+  Hand (6): Ancient of Blossoms, Bilefin Tidehunter, Cairne Bloodhoof, Gnomish Inventor, Leeroy Jenkins, Depth Charge
+  Field: Neferset Ritualist[2/3], Dragon Egg[0/2], Ravencaller[2/1], Shadowbomber[2/1]
+Opponent: Rexxar HP: 25, Mana: 2/4
+  Hand (6)
+  Field: Tasty Flyfish[2/2]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Houndmaster (코스트: 4)
+[Turn 4, Step 10] Opponent: 공격 - Tasty Flyfish[2/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 공격 - Ravencaller[2/1] -> Tasty Flyfish
+[Turn 5, Step 12] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 5, Step 13] Agent: 선택 - Deck of Wonders
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 공격 - Houndmaster[4/3] -> Jaina Proudmoore
+[Turn 5, Step 13] Opponent: 카드 플레이 - Masked Contender (코스트: 3)
+[Turn 5, Step 13] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/6
+  Hand (7): Ancient of Blossoms, Bilefin Tidehunter, Cairne Bloodhoof, Gnomish Inventor, Leeroy Jenkins, Depth Charge, Deck of Wonders
+  Field: Neferset Ritualist[2/3], Dragon Egg[0/2], Shadowbomber[2/1], Snapjaw Shellfighter[3/8]
+Opponent: Rexxar HP: 25, Mana: 1/6
+  Hand (5)
+  Field: Houndmaster[4/3], Masked Contender[2/4]
+[Turn 6, Step 15] Agent: 공격 - Neferset Ritualist[2/3] -> Masked Contender
+[Turn 6, Step 16] Agent: 공격 - Shadowbomber[2/1] -> Houndmaster
+[Turn 6, Step 17] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Masked Contender[2/2] -> Shadowbomber
+[Turn 6, Step 18] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 6, Step 18] Opponent: 공격 - Houndmaster[4/1] -> Depth Charge
+[Turn 6, Step 18] Opponent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Cairne Bloodhoof (코스트: 6)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/7
+  Hand (6): Ancient of Blossoms, Bilefin Tidehunter, Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner
+  Field: Black Whelp[2/1], Cairne Bloodhoof[4/5]
+Opponent: Rexxar HP: 25, Mana: 1/7
+  Hand (4)
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Disciple of C'Thun -> Cairne Bloodhoof (코스트: 3)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 공격 - Cairne Bloodhoof[4/3] -> Rexxar
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Disciple of C'Thun[2/1] -> Jaina Proudmoore
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 공격 - Black Whelp[2/1] -> Disciple of C'Thun
+[Turn 9, Step 24] Agent: 공격 - Cairne Bloodhoof[4/3] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 9/9
+  Hand (8): Ancient of Blossoms, Bilefin Tidehunter, Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner, Nat Pagle, Trogg Gloomeater
+  Field: Cairne Bloodhoof[4/3]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (5)
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 26] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 9, Step 27] Agent: 카드 플레이 - Trogg Gloomeater (코스트: 5)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Trogg Gloomeater[1/5] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (8): Ancient of Blossoms, Bilefin Tidehunter, Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner, Cloud Prince, Meat Wagon
+  Field: Cairne Bloodhoof[4/3], Nat Pagle[0/4], Trogg Gloomeater[1/5]
+Opponent: Rexxar HP: 15, Mana: 7/10
+  Hand (5)
+  Field: Living Dragonbreath[3/4]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 31] Agent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 10, Step 32] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 10, Step 33] Agent: 공격 - Cairne Bloodhoof[4/3] -> Living Dragonbreath
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (7): Anomalus, Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner, Cloud Prince, Meat Wagon
+  Field: Baine Bloodhoof[4/5], Nat Pagle[0/4], Trogg Gloomeater[1/5], Ancient of Blossoms[3/8], Bilefin Tidehunter[2/1], Ooze[1/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 35] Agent: 카드 플레이 - Anomalus (코스트: 8)
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Trogg Gloomeater
+[Turn 10, Step 37] Agent: 공격 - Trogg Gloomeater[1/4] -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Bilefin Tidehunter[2/1] -> Rexxar
+[Turn 10, Step 39] Agent: 공격 - Ooze[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (6): Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner, Cloud Prince, Meat Wagon
+  Field: Baine Bloodhoof[4/5], Nat Pagle[0/4], Trogg Gloomeater[1/4], Ancient of Blossoms[3/8], Bilefin Tidehunter[2/1], Ooze[1/1], Anomalus[8/6]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 40] Agent: 공격 - Ancient of Blossoms[3/8] -> Rexxar
+[Turn 10, Step 41] Agent: 공격 - Baine Bloodhoof[4/5] -> Rexxar
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Ooze[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Ooze
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (7): Gnomish Inventor, Leeroy Jenkins, Deck of Wonders, Defias Cleaner, Cloud Prince, Meat Wagon, Avian Watcher
+  Field: Baine Bloodhoof[4/5], Nat Pagle[0/4], Trogg Gloomeater[1/4], Ancient of Blossoms[3/8], Bilefin Tidehunter[2/1], Anomalus[8/6]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 카드 플레이 - Deck of Wonders (코스트: 3)
+[Turn 10, Step 46] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+[Turn 10, Step 47] Agent: 공격 - Trogg Gloomeater[1/4] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Baine Bloodhoof[4/5] -> Rexxar
+
+--- Game State (Turn 10, Step 49) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (5): Gnomish Inventor, Leeroy Jenkins, Defias Cleaner, Meat Wagon, Avian Watcher
+  Field: Baine Bloodhoof[4/5], Nat Pagle[0/4], Trogg Gloomeater[1/4], Ancient of Blossoms[3/8], Bilefin Tidehunter[2/1], Anomalus[8/6], Cloud Prince[4/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

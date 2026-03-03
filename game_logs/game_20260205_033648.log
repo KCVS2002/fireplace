@@ -1,0 +1,519 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (7): Troll Batrider, Ice Block, Underbelly Ooze, Holomancer, The Coin, Bilefin Tidehunter, Darnassus Aspirant
+  Field: Tainted Zealot[1/1], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (6)
+  Field: Tanglefur Mystic[3/4]
+[Turn 3, Step 5] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Agent: 공격 - Tainted Zealot[1/1] -> Tanglefur Mystic
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Imprisoned Observer
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/5
+  Hand (8): Troll Batrider, Ice Block, Underbelly Ooze, Holomancer, Bilefin Tidehunter, Darnassus Aspirant, Spellweaver, Khartut Defender
+  Field: Tainted Zealot[1/1], Imprisoned Observer[4/4]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Tanglefur Mystic[3/1]
+[Turn 5, Step 10] Agent: 카드 플레이 - Ice Block (코스트: 3)
+[Turn 5, Step 11] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 5, Step 12] Opponent: 공격 - Tanglefur Mystic[3/1] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Tanglefur Mystic[3/1] -> Khartut Defender
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (8): Wind-up Burglebot, Troll Batrider, Underbelly Ooze, Holomancer, Bilefin Tidehunter, Darnassus Aspirant, Spellweaver, Burly Rockjaw Trogg
+  Field: Tainted Zealot[1/1], Imprisoned Observer[4/4], Khartut Defender[3/1]
+Opponent: Rexxar HP: 29, Mana: 5/7
+  Hand (7)
+  Field: Upgradeable Framebot[1/5], Ancient Mage[2/5]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Ancient Mage
+[Turn 7, Step 16] Agent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 7, Step 17] Agent: 공격 - Khartut Defender[3/1] -> Rexxar
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Rat Pack (코스트: 3)
+[Turn 7, Step 18] Opponent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Spellbook Binder
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/8
+  Hand (8): Wind-up Burglebot, Troll Batrider, Underbelly Ooze, Bilefin Tidehunter, Darnassus Aspirant, Spellweaver, Burly Rockjaw Trogg, Upgradeable Framebot
+  Field: Tainted Zealot[1/1], Imprisoned Observer[4/4], Khartut Defender[3/1], Holomancer[3/3], Rat Pack[1/1]
+Opponent: Rexxar HP: 26, Mana: 3/8
+  Hand (6)
+  Field: Upgradeable Framebot[1/5], Ancient Mage[2/4], Rat Pack[2/2], Spellbook Binder[3/2]
+[Turn 8, Step 20] Agent: 공격 - Imprisoned Observer[4/4] -> Upgradeable Framebot
+[Turn 8, Step 21] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 8, Step 22] Agent: 공격 - Khartut Defender[3/1] -> Ancient Mage
+[Turn 8, Step 23] Agent: 공격 - Holomancer[3/3] -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Rat Pack[1/1] -> Ancient Mage
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/8
+  Hand (7): Wind-up Burglebot, Troll Batrider, Underbelly Ooze, Darnassus Aspirant, Spellweaver, Burly Rockjaw Trogg, Upgradeable Framebot
+  Field: Tainted Zealot[1/1], Imprisoned Observer[4/3], Khartut Defender[3/1], Holomancer[3/3], Rat Pack[2/2], Bilefin Tidehunter[2/1], Ooze[1/1]
+Opponent: Rexxar HP: 23, Mana: 3/8
+  Hand (6)
+  Field: Upgradeable Framebot[1/1], Rat Pack[2/2], Spellbook Binder[3/2]
+[Turn 8, Step 25] Agent: 공격 - Tainted Zealot[1/1] -> Spellbook Binder
+[Turn 8, Step 26] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 공격 - Rat Pack[2/2] -> Khartut Defender
+[Turn 8, Step 27] Opponent: 카드 플레이 - Linecracker (코스트: 7)
+[Turn 8, Step 27] Opponent: 공격 - Upgradeable Framebot[1/1] -> Ooze
+[Turn 8, Step 27] Opponent: 공격 - Spellbook Binder[3/1] -> Jaina Proudmoore
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 공격 - Imprisoned Observer[4/3] -> Linecracker
+[Turn 9, Step 29] Agent: 공격 - Bilefin Tidehunter[2/1] -> Spellbook Binder
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (7): Wind-up Burglebot, Troll Batrider, Underbelly Ooze, Darnassus Aspirant, Spellweaver, Upgradeable Framebot, Hobgoblin
+  Field: Holomancer[3/3], Linecracker[1/1], Rat Pack[2/2], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 23, Mana: 2/9
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Linecracker[5/6]
+[Turn 9, Step 30] Agent: 카드 플레이 - Wind-up Burglebot (코스트: 6)
+[Turn 9, Step 31] Agent: 공격 - Holomancer[3/3] -> Linecracker
+[Turn 9, Step 32] Agent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 9, Step 33] Agent: 공격 - Burly Rockjaw Trogg[3/5] -> Rat Pack
+[Turn 9, Step 34] Agent: 공격 - Linecracker[1/1] -> Rat Pack
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/9
+  Hand (5): Troll Batrider, Underbelly Ooze, Darnassus Aspirant, Spellweaver, Hobgoblin
+  Field: Rat Pack[2/2], Burly Rockjaw Trogg[3/3], Wind-up Burglebot[5/5], Upgradeable Framebot[1/5]
+Opponent: Rexxar HP: 23, Mana: 2/9
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Linecracker[5/3]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Burly Rockjaw Trogg[3/3] -> Ancient Harbinger
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 38] Agent: 공격 - Wind-up Burglebot[5/5] -> Linecracker
+[Turn 10, Step 39] Agent: 공격 - Rat Pack[2/1] -> Ancient Harbinger
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Troll Batrider, Underbelly Ooze, Darnassus Aspirant, Spellweaver, Hobgoblin, Moat Lurker
+  Field: Rat Pack[2/2], Rat Pack[2/2], Upgradeable Framebot[1/5]
+Opponent: Rexxar HP: 23, Mana: 4/10
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Ancient Harbinger[4/1]
+[Turn 10, Step 40] Agent: 공격 - Upgradeable Framebot[1/5] -> Rexxar
+[Turn 10, Step 41] Agent: 카드 플레이 - Moat Lurker -> Ancient Harbinger (코스트: 6)
+[Turn 10, Step 42] Agent: 카드 플레이 - Darnassus Aspirant (코스트: 2)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 43] Opponent: 카드 플레이 - Dendrologist (코스트: 2)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Upgradeable Framebot[1/5], Moat Lurker[3/3], Darnassus Aspirant[2/3]
+Opponent: Rexxar HP: 22, Mana: 6/10
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Dendrologist[2/3]
+[Turn 10, Step 45] Agent: 공격 - Rat Pack[2/2] -> Dendrologist
+[Turn 10, Step 46] Agent: 공격 - Darnassus Aspirant[2/3] -> Rat Pack
+[Turn 10, Step 47] Agent: 공격 - Upgradeable Framebot[1/5] -> Rat Pack
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Darnassus Aspirant
+[Turn 10, Step 49] Agent: 공격 - Moat Lurker[3/3] -> Rat Pack
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (5): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Upgradeable Framebot[1/3], Moat Lurker[3/1]
+Opponent: Rexxar HP: 22, Mana: 6/10
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Dendrologist[2/1]
+[Turn 10, Step 50] Agent: 공격 - Rat Pack[2/2] -> Dendrologist
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Rat Pack[2/1] -> Rat Pack
+[Turn 10, Step 51] Opponent: 공격 - Rat Pack[2/2] -> Moat Lurker
+[Turn 10, Step 51] Opponent: 공격 - Rat Pack[2/1] -> Rat Pack
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 53] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (6): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Upgradeable Framebot[1/3]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (7)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Ancient Harbinger[4/6]
+[Turn 10, Step 55] Agent: 공격 - Rat Pack[2/1] -> Rexxar
+[Turn 10, Step 56] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 57] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 58] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Upgradeable Framebot
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 59] Opponent: 공격 - Ancient Harbinger[4/6] -> Rat Pack
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 59] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 59] Opponent: 영웅 능력 사용
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Upgradeable Framebot[1/1]
+Opponent: Rexxar HP: 20, Mana: 8/10
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Ancient Harbinger[4/4]
+[Turn 10, Step 60] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 61] Agent: 공격 - Upgradeable Framebot[1/1] -> Rat Pack
+[Turn 10, Step 62] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 63] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 64] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 18, Mana: 8/10
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Ancient Harbinger[4/4]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 66] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 67] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Ancient Harbinger[4/4]
+[Turn 10, Step 70] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 71] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 72] Agent: 공격 - Rat Pack[2/2] -> Ancient Harbinger
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 74] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (8): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Ancient Harbinger[4/2]
+[Turn 10, Step 75] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 76] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/1] -> Rat Pack
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 79] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (9): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Ancient Harbinger[4/2]
+[Turn 10, Step 80] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 81] Opponent: 공격 - Ancient Harbinger[4/2] -> Rat Pack
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 83] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 84] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 85] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 87] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 88] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 89] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 90] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 90] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 90] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 90] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 92] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 93] Agent: 공격 - Rat Pack[2/1] -> Rat Pack
+[Turn 10, Step 94] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 95] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 96] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 97] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 98] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 99] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 99] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 99] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 99] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 99] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 100] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 101] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 102] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 103] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 104] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 105] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 106] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 107] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 108] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 108] Opponent: 영웅 능력 사용
+[Turn 10, Step 108] Opponent: 턴 종료
+[Turn 10, Step 109] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 110] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 111] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 112] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 113] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 114] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 115) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 115] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 116] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 117] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 117] Opponent: 턴 종료
+[Turn 10, Step 118] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 119] Agent: 공격 - Rat Pack[2/1] -> Rat Pack
+
+--- Game State (Turn 10, Step 120) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 120] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 121] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 122] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 123] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 124] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 125) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 125] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 126] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 126] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 126] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 126] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 126] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 126] Opponent: 턴 종료
+[Turn 10, Step 127] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 128] Agent: 공격 - Rat Pack[2/1] -> Rat Pack
+[Turn 10, Step 129] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 130) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 130] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 131] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 132] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 133] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 134] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 135) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 135] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 135] Opponent: 턴 종료
+[Turn 10, Step 136] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 137] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 138] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 139] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 140) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 140] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 141] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 142] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 143] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 144] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 144] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 144] Opponent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 144] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 145) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 145] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+[Turn 10, Step 146] Agent: 공격 - Rat Pack[2/2] -> Rat Pack
+[Turn 10, Step 147] Agent: 공격 - Rat Pack[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 148) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (10): Troll Batrider, Underbelly Ooze, Spellweaver, Hobgoblin, Shieldbreaker, Tuskarr Fisherman, Flesheating Ghoul, Arena Fanatic, Shimmering Tempest, Mad Scientist
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

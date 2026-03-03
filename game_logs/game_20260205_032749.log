@@ -1,0 +1,187 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(21) → 5로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - History Buff (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Open the Waygate, Fallen Hero, Licensed Adventurer, The Darkness
+  Field: Tournament Attendee[2/1], History Buff[3/4]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 3, Step 5] Agent: 공격 - Tournament Attendee[2/1] -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Fallen Hero (코스트: 2)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Transfer Student
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Imprisoned Felmaw (코스트: 2)
+[Turn 4, Step 9] Opponent: 영웅 능력 사용
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (5): Open the Waygate, Licensed Adventurer, The Darkness, Kirin Tor Tricaster, Camouflaged Dirigible
+  Field: Tournament Attendee[2/1], History Buff[3/4], Fallen Hero[3/2]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (6)
+  Field: Imprisoned Felmaw[5/4]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(66) → 9로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Tournament Attendee
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 6, Step 14] Agent: 공격 - Fallen Hero[3/2] -> Thunder Lizard
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/6
+  Hand (5): Licensed Adventurer, The Darkness, Kirin Tor Tricaster, Camouflaged Dirigible, Mortuary Machine
+  Field: History Buff[3/4]
+Opponent: Rexxar HP: 27, Mana: 2/5
+  Hand (6)
+  Field: Imprisoned Felmaw[5/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 6, Step 15] Agent: 공격 - History Buff[3/4] -> Rexxar
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 6, Step 16] Opponent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - The Darkness (코스트: 4)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Imprisoned Felmaw
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 7, Step 19] Opponent: 영웅 능력 사용
+[Turn 7, Step 19] Opponent: 공격 - Young Dragonhawk[1/1] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 공격 - Clockwork Automaton[4/4] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 공격 - Young Dragonhawk[1/1] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/8
+  Hand (6): Licensed Adventurer, Kirin Tor Tricaster, Camouflaged Dirigible, Mortuary Machine, Argent Commander, Fungal Enchanter
+  Field: The Darkness[20/20]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (5)
+  Field: Clockwork Automaton[4/4], Young Dragonhawk[1/1], Baron Rivendare[1/7]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Baron Rivendare
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 공격 - Clockwork Automaton[4/4] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 8, Step 21] Opponent: 공격 - Young Dragonhawk[1/1] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 공격 - Baron Rivendare[1/6] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 공격 - Young Dragonhawk[1/1] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Kooky Chemist -> Clockwork Automaton (코스트: 4)
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Kooky Chemist
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(84) → 3로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Camouflaged Dirigible (코스트: 6)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (7): Licensed Adventurer, Kirin Tor Tricaster, Mortuary Machine, Argent Commander, Fungal Enchanter, Piloted Shredder, Puddlestomper
+  Field: The Darkness[20/20], Camouflaged Dirigible[6/6]
+Opponent: Rexxar HP: 24, Mana: 5/9
+  Hand (5)
+  Field: Clockwork Automaton[4/4], Young Dragonhawk[1/1], Baron Rivendare[1/6], Grotesque Dragonhawk[5/5], Kooky Chemist[4/3]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+[Turn 10, Step 27] Opponent: 공격 - Clockwork Automaton[4/4] -> Jaina Proudmoore
+[Turn 10, Step 27] Opponent: 카드 플레이 - Frozen Shadoweaver -> Jaina Proudmoore (코스트: 3)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(60) → 25로 보정
+[Turn 10, Step 28] Agent: 공격 - Camouflaged Dirigible[6/6] -> Spiked Hogrider
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(74) → 24로 보정
+[Turn 10, Step 29] Agent: 공격 - Licensed Adventurer[4/3] -> Frozen Shadoweaver
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (7): Kirin Tor Tricaster, Mortuary Machine, Argent Commander, Fungal Enchanter, Piloted Shredder, Puddlestomper, Puddlestomper
+  Field: The Darkness[20/20], Camouflaged Dirigible[6/1]
+Opponent: Rexxar HP: 24, Mana: 2/10
+  Hand (4)
+  Field: Clockwork Automaton[4/4], Young Dragonhawk[1/1], Baron Rivendare[1/6], Grotesque Dragonhawk[5/5], Kooky Chemist[4/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(38) → 17로 보정
+[Turn 10, Step 31] Agent: 공격 - Argent Commander[4/2] -> Young Dragonhawk
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Kirin Tor Tricaster (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Corrosive Breath -> Kooky Chemist (코스트: 2)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 34) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): Mortuary Machine, Fungal Enchanter, Piloted Shredder, Puddlestomper, Puddlestomper
+  Field: The Darkness[20/20], Camouflaged Dirigible[6/1], Argent Commander[4/2], Kirin Tor Tricaster[3/3]
+Opponent: Rexxar HP: 24, Mana: 6/10
+  Hand (4)
+  Field: Clockwork Automaton[4/4], Baron Rivendare[1/6], Grotesque Dragonhawk[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

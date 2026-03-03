@@ -1,0 +1,454 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Kobold Monk, Neferset Ritualist, Silver Vanguard, Mad Scientist, Archivist Elysiana, Silver Hand Regent
+  Field: Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (8)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 4, Step 7] Agent: 공격 - Annoy-o-Tron[1/1] -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(28) → 6로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/5
+  Hand (6): Kobold Monk, Neferset Ritualist, Silver Vanguard, Archivist Elysiana, Silver Hand Regent, Temple Berserker
+  Field: Annoy-o-Tron[1/1], Mad Scientist[2/2]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (9)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 5, Step 11] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Freezing Trap (코스트: 2)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(86) → 6로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/7
+  Hand (6): Kobold Monk, Neferset Ritualist, Silver Vanguard, Archivist Elysiana, Silver Hand Regent, Crowd Roaster
+  Field: Annoy-o-Tron[1/1], Mad Scientist[2/2], Temple Berserker[1/2], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 26, Mana: 3/6
+  Hand (8)
+  Field: Goldshire Footman[1/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(21) → 7로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Mad Scientist
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 7, Step 16] Agent: 공격 - Annoy-o-Tron[1/1] -> Goldshire Footman
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 7, Step 17] Agent: 공격 - Temple Berserker[1/2] -> Goldshire Footman
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 7, Step 18] Agent: 공격 - Mad Scientist[2/1] -> Goldshire Footman
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (6): Kobold Monk, Silver Vanguard, Archivist Elysiana, Silver Hand Regent, Crowd Roaster, Annoy-o-Tron
+  Field: Temple Berserker[3/1], Witch's Cauldron[0/4], Neferset Ritualist[2/3]
+Opponent: Rexxar HP: 26, Mana: 3/6
+  Hand (8)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 4)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(23) → 10로 보정
+[Turn 8, Step 22] Agent: 공격 - Temple Berserker[3/1] -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Witch's Cauldron
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 8, Step 24] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/8
+  Hand (6): Kobold Monk, Silver Vanguard, Archivist Elysiana, Silver Hand Regent, Crowd Roaster, Disguised Wanderer
+  Field: Temple Berserker[3/1], Witch's Cauldron[0/3], Neferset Ritualist[2/3], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 22, Mana: 5/7
+  Hand (9)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Blackwing Corruptor (코스트: 5)
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(77) → 11로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Temple Berserker
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/10
+  Hand (6): Kobold Monk, Silver Vanguard, Archivist Elysiana, Crowd Roaster, Recurring Villain, Twilight Guardian
+  Field: Temple Berserker[3/1], Witch's Cauldron[0/3], Neferset Ritualist[2/3], Annoy-o-Tron[1/2], Silver Hand Regent[3/3], Disguised Wanderer[3/3]
+Opponent: Rexxar HP: 22, Mana: 4/9
+  Hand (9)
+  Field: Blackwing Corruptor[5/4]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Disguised Wanderer[3/3] -> Violet Illusionist
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Silver Hand Regent
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 33] Agent: 공격 - Neferset Ritualist[2/3] -> Blackwing Corruptor
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(25) → 12로 보정
+[Turn 10, Step 34] Agent: 공격 - Silver Hand Regent[3/2] -> Blackwing Corruptor
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (7): Kobold Monk, Silver Vanguard, Archivist Elysiana, Crowd Roaster, Recurring Villain, Twilight Guardian, Justicar Trueheart
+  Field: Temple Berserker[3/1], Witch's Cauldron[0/3], Annoy-o-Tron[1/2], Silver Hand Recruit[1/1], Rustsworn Inquisitor[9/1]
+Opponent: Rexxar HP: 22, Mana: 7/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(89) → 8로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(64) → 13로 보정
+[Turn 10, Step 38] Agent: 공격 - Rustsworn Inquisitor[9/1] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 39] Agent: 공격 - Annoy-o-Tron[1/2] -> Kvaldir Raider
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (7): Silver Vanguard, Archivist Elysiana, Crowd Roaster, Recurring Villain, Twilight Guardian, Justicar Trueheart, Ravencaller
+  Field: Temple Berserker[3/1], Witch's Cauldron[0/3], Silver Hand Recruit[1/1], Rustsworn Inquisitor[9/1], Kobold Monk[3/6]
+Opponent: Rexxar HP: 13, Mana: 5/10
+  Hand (9)
+  Field: Kvaldir Raider[4/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(49) → 7로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Temple Berserker
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Siamat (코스트: 7)
+[Turn 10, Step 43] Opponent: 선택 - Siamat's Heart
+[Turn 10, Step 43] Opponent: 선택 - Siamat's Speed
+[Turn 10, Step 43] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(63) → 13로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (8): Silver Vanguard, Archivist Elysiana, Crowd Roaster, Recurring Villain, Justicar Trueheart, Ravencaller, Colossus of the Moon, Shade of Naxxramas
+  Field: Witch's Cauldron[0/2], Rustsworn Inquisitor[9/1], Kobold Monk[3/5], Twilight Guardian[3/6]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (7)
+  Field: Kvaldir Raider[4/3], Siamat[6/6], Mad Bomber[3/2], Swamp Dragon Egg[0/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(38) → 12로 보정
+[Turn 10, Step 45] Agent: 공격 - Twilight Guardian[3/6] -> Siamat
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Crowd Roaster -> Kvaldir Raider (코스트: 7)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(99) → 11로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Witch's Cauldron
+[Turn 10, Step 49] Agent: 공격 - Crowd Roaster[7/4] -> Siamat
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (8): Silver Vanguard, Archivist Elysiana, Recurring Villain, Justicar Trueheart, Ravencaller, Colossus of the Moon, Shade of Naxxramas, Lesser Ruby Spellstone
+  Field: Witch's Cauldron[0/1], Rustsworn Inquisitor[9/1], Kobold Monk[3/5]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+  Field: Kvaldir Raider[4/3], Mad Bomber[3/2], Swamp Dragon Egg[0/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 10, Step 50] Agent: 공격 - Kobold Monk[3/5] -> Swamp Dragon Egg
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 52] Agent: 공격 - Rustsworn Inquisitor[9/1] -> Kvaldir Raider
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (6): Silver Vanguard, Archivist Elysiana, Recurring Villain, Justicar Trueheart, Ravencaller, Colossus of the Moon
+  Field: Kobold Monk[3/3]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Tortollan Primalist (코스트: 8)
+[Turn 10, Step 55] Opponent: 선택 - Scrap Shot
+[Turn 10, Step 55] Opponent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 55] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(48) → 12로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Acidic Swamp Ooze
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 10, Step 58] Opponent: 공격 - Acidic Swamp Ooze[3/1] -> Ravencaller
+[Turn 10, Step 58] Opponent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Wandering Monster (코스트: 2)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(42) → 12로 보정
+[Turn 10, Step 59] Agent: 공격 - Kobold Monk[3/3] -> Tentacle of N'Zoth
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (9): Silver Vanguard, Archivist Elysiana, Recurring Villain, Justicar Trueheart, Colossus of the Moon, Wretched Tiller, Argent Squire, Depth Charge, Licensed Adventurer
+  Field: Kobold Monk[3/1]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (4)
+  Field: Tortollan Primalist[5/3], Chillwind Yeti[4/4], Mindbreaker[2/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 10, Step 60] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(60) → 9로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(43) → 7로 보정
+[Turn 10, Step 63] Agent: 공격 - Kobold Monk[3/1] -> Tortollan Primalist
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (7): Archivist Elysiana, Recurring Villain, Justicar Trueheart, Colossus of the Moon, Argent Squire, Depth Charge, Glacial Mysteries
+  Field: Licensed Adventurer[3/2], Wretched Tiller[1/1], Silver Vanguard[3/3]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (6)
+  Field: Chillwind Yeti[4/4], Mindbreaker[2/4], Barista Lynchen[4/5], Cobalt Spellkin[3/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Silver Vanguard[3/3] -> Mindbreaker
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(35) → 16로 보정
+[Turn 10, Step 67] Agent: 공격 - Wretched Tiller[1/1] -> Mindbreaker
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(38) → 18로 보정
+[Turn 10, Step 68] Agent: 공격 - Licensed Adventurer[3/2] -> Barista Lynchen
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Barista Lynchen
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (8): Archivist Elysiana, Recurring Villain, Justicar Trueheart, Colossus of the Moon, Argent Squire, Depth Charge, Glacial Mysteries, Sunreaver Warmage
+  Field: Silver Vanguard[3/1]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (7)
+  Field: Chillwind Yeti[4/4], Barista Lynchen[4/1], Cobalt Spellkin[3/5]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Barista Lynchen[4/1] -> Silver Vanguard
+[Turn 10, Step 70] Opponent: 공격 - Chillwind Yeti[4/4] -> Naga Sea Witch
+[Turn 10, Step 70] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 카드 플레이 - Depth Charge (코스트: 5)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 72] Agent: 공격 - Naga Sea Witch[5/1] -> Cobalt Spellkin
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(25) → 7로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Cobalt Spellkin
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Cobalt Spellkin[3/4] -> Depth Charge
+[Turn 10, Step 74] Opponent: 카드 플레이 - Rapid Fire -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (9): Archivist Elysiana, Recurring Villain, Justicar Trueheart, Colossus of the Moon, Argent Squire, Glacial Mysteries, Sunreaver Warmage, Alarm-o-Bot, Waterboy
+Opponent: Rexxar HP: 7, Mana: 9/10
+  Hand (10)
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Glacial Mysteries (코스트: 8)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(6) → 1로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Stampede (코스트: 1)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(33) → 7로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Waterboy (코스트: 2)
+[Turn 10, Step 79] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/10
+  Hand (6): Archivist Elysiana, Recurring Villain, Justicar Trueheart, Colossus of the Moon, Sunreaver Warmage, Salty Dog
+  Field: Argent Squire[1/1], Waterboy[2/1], Alarm-o-Bot[0/3]
+Opponent: Rexxar HP: 7, Mana: 9/10
+  Hand (9)
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Recurring Villain (코스트: 5)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Alarm-o-Bot
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 82] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/10
+  Hand (5): Archivist Elysiana, Justicar Trueheart, Colossus of the Moon, Sunreaver Warmage, Arfus
+  Field: Argent Squire[1/1], Waterboy[2/1], Salty Dog[7/4], Recurring Villain[3/6], Alarm-o-Bot[0/3]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Blackwald Pixie[3/3]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Waterboy
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 86] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(74) → 8로 보정
+[Turn 10, Step 88] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 카드 플레이 - Clear the Way (코스트: 1)
+[Turn 10, Step 89] Opponent: 카드 플레이 - Rapid Fire -> Argent Squire (코스트: 1)
+[Turn 10, Step 89] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 10, Step 89] Opponent: 공격 - Blackwald Pixie[3/3] -> Arfus
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (8): Archivist Elysiana, Justicar Trueheart, Colossus of the Moon, Sunreaver Warmage, Alarm-o-Bot, Red Mana Wyrm, Death Coil, Spider Tank
+  Field: Salty Dog[7/4], Recurring Villain[3/6]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (7)
+  Field: Blackwald Pixie[3/1], War Golem[7/7]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(69) → 17로 보정
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Blackwald Pixie
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(52) → 7로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Death Coil -> Recurring Villain (코스트: 2)
+[Turn 10, Step 92] Agent: 공격 - Recurring Villain[3/6] -> War Golem
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 공격 - War Golem[7/4] -> Jaina Proudmoore
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 10, Step 94] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (7): Molten Reflection, Archivist Elysiana, Justicar Trueheart, Colossus of the Moon, Sunreaver Warmage, Red Mana Wyrm, Spider Tank
+  Field: Salty Dog[7/4], Alarm-o-Bot[0/3]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (8)
+  Field: War Golem[7/4]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 10, Step 95] Agent: 영웅 능력 사용 -> Alarm-o-Bot
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(30) → 6로 보정
+[Turn 10, Step 96] Agent: 공격 - Salty Dog[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 97) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (7): Molten Reflection, Archivist Elysiana, Justicar Trueheart, Colossus of the Moon, Sunreaver Warmage, Red Mana Wyrm, Spider Tank
+  Field: Salty Dog[7/4], Alarm-o-Bot[0/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: War Golem[7/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

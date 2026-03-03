@@ -1,0 +1,311 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(24) → 3로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Dune Sculptor (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (6): Novice Engineer, Zealous Initiate, The Black Knight, The Coin, Gnomeregan Infantry, Brainstormer
+  Field: Master Swordsmith[1/3], Dune Sculptor[3/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(58) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 3, Step 7] Agent: 공격 - Master Swordsmith[1/3] -> Rexxar
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(50) → 14로 보정
+[Turn 4, Step 9] Agent: 공격 - Dune Sculptor[3/3] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Novice Engineer, The Black Knight, Gnomeregan Infantry, Brainstormer, Animated Armor, Crowd Favorite
+  Field: Master Swordsmith[1/3], Dune Sculptor[3/3], Zealous Initiate[2/1]
+Opponent: Rexxar HP: 26, Mana: 1/4
+  Hand (5)
+  Field: Violet Illusionist[4/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 4, Step 10] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(28) → 3로 보정
+[Turn 4, Step 12] Agent: 공격 - Zealous Initiate[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(31) → 9로 보정
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Master Swordsmith
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/5
+  Hand (7): The Black Knight, Gnomeregan Infantry, Brainstormer, Animated Armor, Crowd Favorite, Backstreet Leper, Gilblin Stalker
+  Field: Master Swordsmith[1/2], Dune Sculptor[3/3], Zealous Initiate[3/1], Novice Engineer[1/1]
+Opponent: Rexxar HP: 23, Mana: 5/5
+  Hand (6)
+  Field: Violet Illusionist[4/3]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 5, Step 15] Agent: 공격 - Master Swordsmith[1/2] -> Rexxar
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(39) → 15로 보정
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Novice Engineer
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 6, Step 18] Agent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 6, Step 19] Agent: 카드 플레이 - Scorp-o-matic -> Master Swordsmith (코스트: 2)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (6): The Black Knight, Gnomeregan Infantry, Brainstormer, Animated Armor, Crowd Favorite, Backstreet Leper
+  Field: Dune Sculptor[3/3], Zealous Initiate[3/1], Gilblin Stalker[2/3], Scorp-o-matic[1/2]
+Opponent: Rexxar HP: 22, Mana: 6/6
+  Hand (7)
+  Field: Violet Illusionist[4/3]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 6, Step 20] Agent: 공격 - Zealous Initiate[3/1] -> Violet Illusionist
+[Turn 6, Step 21] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(34) → 10로 보정
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Dune Sculptor
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(27) → 11로 보정
+[Turn 7, Step 23] Agent: 공격 - Gilblin Stalker[2/3] -> Violet Illusionist
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(64) → 12로 보정
+[Turn 7, Step 24] Agent: 공격 - Scorp-o-matic[1/2] -> Backstreet Leper
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/7
+  Hand (7): The Black Knight, Gnomeregan Infantry, Brainstormer, Animated Armor, Crowd Favorite, Backstreet Leper, Green Jelly
+  Field: Dune Sculptor[4/3]
+Opponent: Rexxar HP: 22, Mana: 4/7
+  Hand (7)
+  Field: Violet Illusionist[3/1]
+[Turn 7, Step 25] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 7, Step 25] Agent: 카드 플레이 - Brainstormer (코스트: 3)
+[Turn 7, Step 26] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 공격 - Violet Illusionist[3/1] -> Brainstormer
+[Turn 7, Step 26] Opponent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 7, Step 26] Opponent: 카드 플레이 - Quick Shot -> Dune Sculptor (코스트: 2)
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 8, Step 27] Agent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 28] Agent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 9/9
+  Hand (6): The Black Knight, Animated Armor, Crowd Favorite, Green Jelly, Stranglethorn Tiger, Stegodon
+  Field: Backstreet Leper[3/1], Gnomeregan Infantry[1/4]
+Opponent: Rexxar HP: 22, Mana: 9/9
+  Hand (7)
+  Field: Pumpkin Peasant[4/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(15) → 4로 보정
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Backstreet Leper
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 9, Step 32] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 카드 플레이 - Scavenging Hyena (코스트: 2)
+[Turn 9, Step 33] Opponent: 카드 플레이 - Fiery Bat (코스트: 1)
+[Turn 9, Step 33] Opponent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Scavenging Hyena
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (6): Animated Armor, Crowd Favorite, Green Jelly, Stranglethorn Tiger, Stegodon, Acherus Veteran
+  Field: Gnomeregan Infantry[1/4], The Black Knight[4/5]
+Opponent: Rexxar HP: 19, Mana: 6/10
+  Hand (5)
+  Field: Pumpkin Peasant[4/2], Scavenging Hyena[2/1], Fiery Bat[2/1], Tournament Attendee[2/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Green Jelly (코스트: 5)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Acherus Veteran -> Green Jelly (코스트: 1)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Gnomeregan Infantry[1/4] -> Tournament Attendee
+[Turn 10, Step 38] Agent: 공격 - The Black Knight[4/5] -> Scavenging Hyena
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Ticket Scalper (코스트: 4)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Animated Armor, Crowd Favorite, Stranglethorn Tiger, Stegodon, Mana Addict
+  Field: Gnomeregan Infantry[1/2], The Black Knight[4/3], Green Jelly[4/3], Green Ooze[1/2], Acherus Veteran[2/1]
+Opponent: Rexxar HP: 19, Mana: 4/10
+  Hand (5)
+  Field: Pumpkin Peasant[4/2], Fiery Bat[2/1], Ticket Scalper[5/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(97) → 25로 보정
+[Turn 10, Step 40] Agent: 공격 - Green Jelly[4/3] -> Pumpkin Peasant
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(39) → 13로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Mana Addict
+[Turn 10, Step 43] Agent: 공격 - Acherus Veteran[2/1] -> Ticket Scalper
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (3): Crowd Favorite, Stranglethorn Tiger, Stegodon
+  Field: Gnomeregan Infantry[1/2], The Black Knight[4/3], Green Ooze[1/2], Mana Addict[1/2], Animated Armor[4/4]
+Opponent: Rexxar HP: 23, Mana: 4/10
+  Hand (5)
+  Field: Fiery Bat[2/1], Ticket Scalper[5/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 10, Step 45] Agent: 공격 - Green Ooze[1/2] -> Ticket Scalper
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 10, Step 46] Opponent: 공격 - Fiery Bat[2/1] -> Gnomeregan Infantry
+[Turn 10, Step 46] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 0)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(97) → 13로 보정
+[Turn 10, Step 48] Agent: 공격 - Animated Armor[4/4] -> Nerubian Prophet
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 49] Agent: 공격 - The Black Knight[4/2] -> Devilsaur Egg
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (4): Crowd Favorite, Stranglethorn Tiger, Stegodon, Phantom Freebooter
+  Field: The Black Knight[4/2], Mana Addict[1/2]
+Opponent: Rexxar HP: 23, Mana: 5/10
+  Hand (4)
+  Field: Devilsaur[5/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Mana Addict[1/2] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Silvermoon Guardian (코스트: 4)
+[Turn 10, Step 52] Opponent: 공격 - Devilsaur[5/5] -> Mana Addict
+[Turn 10, Step 52] Opponent: 카드 플레이 - Defias Cleaner (코스트: 6)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Defias Cleaner[5/7] -> Crowd Favorite
+[Turn 10, Step 53] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 53] Opponent: 공격 - Silvermoon Guardian[3/3] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 10, Step 53] Opponent: 공격 - Devilsaur[5/4] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(75) → 21로 보정
+[Turn 10, Step 54] Agent: 공격 - The Black Knight[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (5): Arfus, Stranglethorn Tiger, Stegodon, Phantom Freebooter, Ice Lance
+  Field: The Black Knight[4/2]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (2)
+  Field: Devilsaur[5/4], Silvermoon Guardian[3/3], Defias Cleaner[5/3], Injured Blademaster[4/3], Red Mana Wyrm[2/6]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(76) → 13로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(68) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Ice Lance -> Devilsaur (코스트: 1)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 영웅 능력 사용
+[Turn 10, Step 58] Opponent: 공격 - Red Mana Wyrm[2/6] -> Stegodon
+[Turn 10, Step 58] Opponent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 10, Step 58] Opponent: 공격 - Defias Cleaner[5/3] -> Stegodon
+[Turn 10, Step 58] Opponent: 공격 - Injured Blademaster[4/3] -> Jaina Proudmoore
+[Turn 10, Step 58] Opponent: 공격 - Silvermoon Guardian[3/3] -> Jaina Proudmoore
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Serpent Egg
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (4): Arfus, Stranglethorn Tiger, Phantom Freebooter, Elemental Allies
+  Field: The Black Knight[4/2]
+Opponent: Rexxar HP: 18, Mana: 2/10
+  Hand (1)
+  Field: Devilsaur[5/4], Silvermoon Guardian[3/3], Defias Cleaner[5/1], Injured Blademaster[4/3], Red Mana Wyrm[2/4], Serpent Egg[0/2], Escaped Manasaber[3/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 영웅 능력 사용
+[Turn 10, Step 60] Opponent: 공격 - Devilsaur[5/4] -> The Black Knight
+[Turn 10, Step 60] Opponent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 60] Opponent: 공격 - Injured Blademaster[4/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 61) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (4): Arfus, Stranglethorn Tiger, Phantom Freebooter, Elemental Allies
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (1)
+  Field: Silvermoon Guardian[3/3], Defias Cleaner[5/1], Injured Blademaster[4/3], Red Mana Wyrm[2/4], Serpent Egg[0/2], Escaped Manasaber[3/5], Batterhead[3/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

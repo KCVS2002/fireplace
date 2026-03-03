@@ -1,0 +1,250 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Disciple of C'Thun -> Rexxar (코스트: 3)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 3, Step 4] Agent: 공격 - Zayle, Shadow Cloak[3/2] -> Disciple of C'Thun
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (7): Night Howler, Worgen Abomination, Justicar Trueheart, The Coin, Reno Jackson, Spellzerker, Ethereal Conjurer
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Acherus Veteran (코스트: 1)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(11) → 4로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (10): King Phaoris, Night Howler, Worgen Abomination, Justicar Trueheart, The Coin, Reno Jackson, Spellzerker, Ethereal Conjurer, Doomcaller, Toothy Chest
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (6)
+  Field: Acherus Veteran[2/1], Dragonslayer[4/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(98) → 13로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Toothy Chest
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 7, Step 14] Agent: 공격 - Toothy Chest[4/3] -> Acherus Veteran
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (10): King Phaoris, Night Howler, Worgen Abomination, Justicar Trueheart, The Coin, Reno Jackson, Spellzerker, Ethereal Conjurer, Doomcaller, Arfus
+  Field: Toothy Chest[4/1]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (7)
+  Field: Dragonslayer[4/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Arfus (코스트: 4)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(95) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Heroic Innkeeper (코스트: 8)
+[Turn 7, Step 17] Opponent: 공격 - Dragonslayer[4/3] -> Toothy Chest
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(40) → 12로 보정
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Heroic Innkeeper
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Justicar Trueheart (코스트: 6)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (8): King Phaoris, Night Howler, Worgen Abomination, Reno Jackson, Spellzerker, Ethereal Conjurer, Doomcaller, Mossy Horror
+  Field: Arfus[2/2], Justicar Trueheart[6/3]
+Opponent: Rexxar HP: 27, Mana: 0/8
+  Hand (7)
+  Field: Heroic Innkeeper[6/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(37) → 5로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 5)
+[Turn 9, Step 22] Agent: 선택 - Flame Lance
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(97) → 9로 보정
+[Turn 9, Step 22] Agent: 공격 - Arfus[2/2] -> Heroic Innkeeper
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Spellzerker (코스트: 2)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (10): King Phaoris, Night Howler, Worgen Abomination, Reno Jackson, Doomcaller, Mossy Horror, Azerite Elemental, Flame Lance, Anti-Magic Shell, Tentacled Menace
+  Field: Justicar Trueheart[6/3], Ethereal Conjurer[6/3], Spellzerker[2/3]
+Opponent: Rexxar HP: 27, Mana: 8/10
+  Hand (9)
+  Field: Heroic Innkeeper[6/3], King's Elekk[3/2]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 카드 플레이 - Cheaty Anklebiter -> Jaina Proudmoore (코스트: 2)
+[Turn 10, Step 25] Opponent: 공격 - King's Elekk[3/2] -> Justicar Trueheart
+[Turn 10, Step 25] Opponent: 영웅 능력 사용
+[Turn 10, Step 25] Opponent: 카드 플레이 - Scavenging Hyena (코스트: 2)
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Flame Lance -> Heroic Innkeeper (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(18) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 28] Agent: 공격 - Spellzerker[2/3] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 29] Agent: 공격 - Ethereal Conjurer[6/3] -> Scavenging Hyena
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (8): King Phaoris, Worgen Abomination, Reno Jackson, Doomcaller, Mossy Horror, Azerite Elemental, Anti-Magic Shell, Tentacled Menace
+  Field: Ethereal Conjurer[6/1], Spellzerker[2/3], Night Howler[3/4]
+Opponent: Rexxar HP: 26, Mana: 4/10
+  Hand (8)
+  Field: Cheaty Anklebiter[2/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - King Phaoris (코스트: 10)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 32] Agent: 공격 - Spellzerker[2/3] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 10, Step 33] Agent: 공격 - Night Howler[3/4] -> Cheaty Anklebiter
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (9): Worgen Abomination, Reno Jackson, Doomcaller, Mossy Horror, Azerite Elemental, Anti-Magic Shell, Tentacled Menace, Ironfur Grizzly, Archmage Vargoth
+  Field: Ethereal Conjurer[6/1], Spellzerker[2/3], Night Howler[5/2], King Phaoris[5/5], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (8)
+  Field: Chief Inspector[4/6], Meat Wagon[1/4]
+[Turn 10, Step 35] Agent: 공격 - Spellzerker[2/3] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(83) → 21로 보정
+[Turn 10, Step 36] Agent: 공격 - Ethereal Conjurer[6/1] -> Meat Wagon
+[Turn 10, Step 37] Agent: 카드 플레이 - Ironfur Grizzly (코스트: 3)
+[Turn 10, Step 38] Agent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(94) → 3로 보정
+[Turn 10, Step 39] Agent: 공격 - King Phaoris[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (7): Worgen Abomination, Reno Jackson, Doomcaller, Azerite Elemental, Anti-Magic Shell, Tentacled Menace, Archmage Vargoth
+  Field: Night Howler[5/2], King Phaoris[5/5], Witchwood Piper[3/3], Ironfur Grizzly[3/3], Mossy Horror[2/7]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (8)
+  Field: Chief Inspector[4/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 40] Agent: 공격 - Night Howler[5/2] -> Chief Inspector
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Validated Doomsayer (코스트: 5)
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Witchwood Piper
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 10, Step 44] Agent: 공격 - Ironfur Grizzly[3/3] -> Chief Inspector
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (7): Worgen Abomination, Reno Jackson, Doomcaller, Azerite Elemental, Anti-Magic Shell, Tentacled Menace, Archmage Vargoth
+  Field: King Phaoris[5/5], Witchwood Piper[3/1], Mossy Horror[2/7], Validated Doomsayer[0/7]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 10, Step 45] Agent: 공격 - Mossy Horror[2/7] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 46] Agent: 공격 - Witchwood Piper[3/1] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(59) → 14로 보정
+[Turn 10, Step 49] Agent: 공격 - Validated Doomsayer[7/7] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (7): Khartut Defender, Worgen Abomination, Reno Jackson, Doomcaller, Anti-Magic Shell, Tentacled Menace, Archmage Vargoth
+  Field: King Phaoris[5/5], Witchwood Piper[3/1], Mossy Horror[2/7], Validated Doomsayer[7/7], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - King Phaoris[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 3/10
+  Hand (7): Khartut Defender, Worgen Abomination, Reno Jackson, Doomcaller, Anti-Magic Shell, Tentacled Menace, Archmage Vargoth
+  Field: King Phaoris[5/5], Witchwood Piper[3/1], Mossy Horror[2/7], Validated Doomsayer[7/7], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

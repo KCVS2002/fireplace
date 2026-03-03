@@ -1,0 +1,517 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Dart Trap (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Grand Lackey Erkh, Crazed Alchemist, Boneguard Lieutenant, Toxfin, Bonfire Elemental, Tainted Zealot, Malygos
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Toxfin (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Boneguard Lieutenant
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (7): Grand Lackey Erkh, Crazed Alchemist, Bonfire Elemental, Tainted Zealot, Malygos, Jeeves, Dalaran Aspirant
+  Field: Toxfin[1/2]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (6)
+  Field: Defender of Argus[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(66) → 10로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Toxfin
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Crazed Alchemist -> Toxfin (코스트: 2)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Defender of Argus[2/3] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 카드 플레이 - Blingtron 3000 (코스트: 5)
+[Turn 5, Step 12] Opponent: 공격 - Rexxar[3/29] -> Toxfin
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 6, Step 13] Agent: 공격 - Jaina Proudmoore[5/28] -> Blingtron 3000
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(60) → 8로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/6
+  Hand (7): Grand Lackey Erkh, Bonfire Elemental, Tainted Zealot, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti
+  Field: Crazed Alchemist[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/6
+  Hand (6)
+  Field: Defender of Argus[2/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 6, Step 16] Agent: 공격 - Crazed Alchemist[2/2] -> Defender of Argus
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Felsoul Inquisitor
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Fungal Enchanter (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/7
+  Hand (6): Grand Lackey Erkh, Bonfire Elemental, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti
+  Field: Tainted Zealot[1/1], Fungal Enchanter[3/3]
+Opponent: Rexxar HP: 27, Mana: 3/7
+  Hand (6)
+  Field: Defender of Argus[2/1], Felsoul Inquisitor[1/5]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 7, Step 20] Agent: 공격 - Jaina Proudmoore[5/30] -> Felsoul Inquisitor
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 7, Step 21] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Grand Lackey Erkh (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/8
+  Hand (6): Bonfire Elemental, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti, Raid Leader
+  Field: Tainted Zealot[1/1], Fungal Enchanter[3/3], Grand Lackey Erkh[2/3]
+Opponent: Rexxar HP: 26, Mana: 8/8
+  Hand (7)
+  Field: Defender of Argus[2/1]
+[Turn 8, Step 25] Agent: 공격 - Fungal Enchanter[3/3] -> Defender of Argus
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Hozen Healer -> Grand Lackey Erkh (코스트: 4)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 9, Step 29] Agent: 공격 - Grand Lackey Erkh[2/3] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/9
+  Hand (6): Bonfire Elemental, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti, Raid Leader
+  Field: Tainted Zealot[1/1], Fungal Enchanter[3/1], Grand Lackey Erkh[2/3], Hozen Healer[2/6]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (8)
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 9, Step 30] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Omega Defender (코스트: 4)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 9, Step 31] Opponent: 공격 - Rexxar[3/22] -> Hozen Healer
+[Turn 9, Step 31] Opponent: 카드 플레이 - Beaming Sidekick -> Omega Defender (코스트: 1)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(37) → 12로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Grand Lackey Erkh
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(80) → 5로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 10, Step 34] Agent: 공격 - Tainted Zealot[2/1] -> Unpowered Steambot
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/10
+  Hand (6): Bonfire Elemental, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti, Djinni of Zephyrs
+  Field: Tainted Zealot[2/1], Fungal Enchanter[4/1], Grand Lackey Erkh[3/2], Hozen Healer[3/3], Raid Leader[2/2]
+Opponent: Rexxar HP: 20, Mana: 1/10
+  Hand (6)
+  Field: Omega Defender[12/8], Unpowered Steambot[0/7], Beaming Sidekick[1/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(41) → 6로 보정
+[Turn 10, Step 36] Agent: 공격 - Hozen Healer[3/3] -> Unpowered Steambot
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 37] Agent: 공격 - Grand Lackey Erkh[3/2] -> Unpowered Steambot
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Omega Defender[12/8] -> Grand Lackey Erkh
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Beaming Sidekick
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (6): Crowd Favorite, Bonfire Elemental, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti
+  Field: Tainted Zealot[2/1], Fungal Enchanter[4/1], Hozen Healer[3/3], Raid Leader[2/2], Djinni of Zephyrs[5/6]
+Opponent: Rexxar HP: 20, Mana: 4/10
+  Hand (6)
+  Field: Omega Defender[12/5], Unpowered Steambot[0/1], Beaming Sidekick[1/1], Half-Time Scavenger[3/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 40] Agent: 공격 - Tainted Zealot[2/1] -> Unpowered Steambot
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Bonfire Elemental (코스트: 5)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 42] Agent: 공격 - Raid Leader[2/2] -> Omega Defender
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 10, Step 43] Agent: 공격 - Fungal Enchanter[3/1] -> Omega Defender
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Djinni of Zephyrs[4/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/10
+  Hand (6): Crowd Favorite, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti, Stargazer Luna
+  Field: Tainted Zealot[1/1], Hozen Healer[2/3], Djinni of Zephyrs[4/6], Bonfire Elemental[5/5]
+Opponent: Rexxar HP: 16, Mana: 4/10
+  Hand (6)
+  Field: Beaming Sidekick[1/1], Half-Time Scavenger[3/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Hozen Healer[2/3] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Beaming Sidekick[1/1] -> Tainted Zealot
+[Turn 10, Step 46] Opponent: 카드 플레이 - Moroes (코스트: 3)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 공격 - Half-Time Scavenger[3/5] -> Bonfire Elemental
+[Turn 10, Step 46] Opponent: 카드 플레이 - Scalerider (코스트: 3)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Tainted Zealot
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 10, Step 49] Agent: 공격 - Hozen Healer[2/3] -> Ooze
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/10
+  Hand (6): Crowd Favorite, Malygos, Jeeves, Dalaran Aspirant, Mechanical Yeti, Stargazer Luna
+  Field: Hozen Healer[2/2], Djinni of Zephyrs[4/6], Bonfire Elemental[5/2], Ice Rager[5/2]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (4)
+  Field: Moroes[1/1], Steward[1/1], Scalerider[3/3], Bilefin Tidehunter[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(25) → 11로 보정
+[Turn 10, Step 50] Agent: 공격 - Bonfire Elemental[5/2] -> Steward
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Moroes[1/1] -> Bonfire Elemental
+[Turn 10, Step 51] Opponent: 공격 - Bilefin Tidehunter[2/1] -> Jaina Proudmoore
+[Turn 10, Step 51] Opponent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 10, Step 51] Opponent: 공격 - Scalerider[3/3] -> Hozen Healer
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(97) → 5로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(31) → 11로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (5): Crowd Favorite, Malygos, Dalaran Aspirant, Mechanical Yeti, Stargazer Luna
+  Field: Djinni of Zephyrs[4/6], Ice Rager[5/2], Master Chest[0/8], Jeeves[1/4], Emerald Hive Queen[2/2]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (4)
+  Field: Scalerider[3/1], Bilefin Tidehunter[2/1], Marin the Fox[6/6]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(89) → 8로 보정
+[Turn 10, Step 55] Agent: 공격 - Ice Rager[5/2] -> Marin the Fox
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 56] Agent: 공격 - Djinni of Zephyrs[4/6] -> Marin the Fox
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 공격 - Bilefin Tidehunter[2/1] -> Jaina Proudmoore
+[Turn 10, Step 57] Opponent: 공격 - Scalerider[3/1] -> Jaina Proudmoore
+[Turn 10, Step 57] Opponent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Effigy (코스트: 3)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 7/10
+  Hand (6): Crowd Favorite, Malygos, Dalaran Aspirant, Mechanical Yeti, Stargazer Luna, Zoobot
+  Field: Master Chest[0/8], Jeeves[1/4], Emerald Hive Queen[2/2]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (5)
+  Field: Scalerider[3/1], Bilefin Tidehunter[2/1], Troggzor the Earthinator[6/6], Burly Rockjaw Trogg[3/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Dalaran Aspirant (코스트: 6)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 61] Agent: 공격 - Jeeves[1/4] -> Bilefin Tidehunter
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 62] Agent: 공격 - Emerald Hive Queen[2/2] -> Burly Rockjaw Trogg
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 63] Opponent: 선택 - Emperor Thaurissan
+[Turn 10, Step 63] Opponent: 선택 - The Skeleton Knight
+[Turn 10, Step 63] Opponent: 선택 - Venomancer
+[Turn 10, Step 63] Opponent: 선택 - The Skeleton Knight
+[Turn 10, Step 63] Opponent: 선택 - Salty Dog
+[Turn 10, Step 63] Opponent: 공격 - Scalerider[3/1] -> Dalaran Aspirant
+[Turn 10, Step 63] Opponent: 공격 - Burly Rockjaw Trogg[3/3] -> Jeeves
+[Turn 10, Step 63] Opponent: 공격 - Troggzor the Earthinator[6/6] -> Jaina Proudmoore
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(64) → 18로 보정
+[Turn 10, Step 64] Agent: 공격 - Dalaran Aspirant[3/2] -> Archivist Elysiana
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (6): Crowd Favorite, Malygos, Mechanical Yeti, Stargazer Luna, Zoobot, Old Murk-Eye
+  Field: Master Chest[0/8], Scargil[4/4]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (5)
+  Field: Troggzor the Earthinator[6/6], Burly Rockjaw Trogg[3/2], Archivist Elysiana[7/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(65) → 11로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Burly Rockjaw Trogg
+[Turn 10, Step 66] Agent: 공격 - Scargil[4/4] -> Archivist Elysiana
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 공격 - Troggzor the Earthinator[6/6] -> Jaina Proudmoore
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 2/10
+  Hand (6): Crowd Favorite, Malygos, Stargazer Luna, Zoobot, Old Murk-Eye, Sharkfin Fan
+  Field: Master Chest[0/8], Mechanical Yeti[4/5], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (6)
+  Field: Troggzor the Earthinator[6/6], Burly Rockjaw Trogg[3/1]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Burly Rockjaw Trogg[3/1] -> Master Chest
+[Turn 10, Step 70] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Master Chest
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(43) → 13로 보정
+[Turn 10, Step 72] Agent: 공격 - Witchwood Piper[3/3] -> Burly Rockjaw Trogg
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 73] Agent: 공격 - Mechanical Yeti[4/5] -> Burly Rockjaw Trogg
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 4/10
+  Hand (6): Crowd Favorite, Malygos, Stargazer Luna, Zoobot, Sharkfin Fan, Lil' Exorcist
+  Field: Master Chest[0/4], Mechanical Yeti[4/2], Old Murk-Eye[2/4]
+Opponent: Rexxar HP: 14, Mana: 3/10
+  Hand (5)
+  Field: Troggzor the Earthinator[6/6], Salty Dog[7/4]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(14) → 5로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 76] Agent: 공격 - Old Murk-Eye[2/4] -> Troggzor the Earthinator
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 77] Opponent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 공격 - Mechanical Yeti[4/2] -> Rexxar
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (5): Crowd Favorite, Malygos, Stargazer Luna, Zoobot, Harrison Jones
+  Field: Master Chest[0/4], Mechanical Yeti[4/2], Lil' Exorcist[2/3], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 10, Mana: 0/10
+  Hand (4)
+  Field: Troggzor the Earthinator[6/4], Salty Dog[7/4], Sated Threshadon[5/7], Hench-Clan Thug[3/3]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 10, Step 80] Agent: 공격 - Lil' Exorcist[2/3] -> Hench-Clan Thug
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Mechanical Yeti
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (4): Crowd Favorite, Malygos, Harrison Jones, Rolling Fireball
+  Field: Master Chest[0/4], Mechanical Yeti[4/1], Sharkfin Fan[2/2], Stargazer Luna[2/4], Zoobot[3/3]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (5)
+  Field: Troggzor the Earthinator[6/4], Salty Dog[7/4], Sated Threshadon[5/7], Hench-Clan Thug[3/1]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(80) → 36로 보정
+[Turn 10, Step 85] Agent: 공격 - Stargazer Luna[2/4] -> Salty Dog
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(67) → 30로 보정
+[Turn 10, Step 86] Agent: 공격 - Sharkfin Fan[2/2] -> Sated Threshadon
+[Turn 10, Step 87] Agent: 공격 - Mechanical Yeti[4/1] -> Troggzor the Earthinator
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(28) → 3로 보정
+[Turn 10, Step 88] Agent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(68) → 16로 보정
+[Turn 10, Step 89] Agent: 영웅 능력 사용 -> Master Chest
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 3/10
+  Hand (4): Crowd Favorite, Malygos, Rolling Fireball, Whirling Blades
+  Field: Master Chest[0/3], Zoobot[3/3], Harrison Jones[5/4]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (6)
+  Field: Salty Dog[7/2], Sated Threshadon[5/5], Hench-Clan Thug[3/1]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 90] Agent: 카드 플레이 - Whirling Blades -> Hench-Clan Thug (코스트: 1)
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 91] Agent: 공격 - Zoobot[3/3] -> Rexxar
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 92] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 92] Opponent: 턴 종료
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(95) → 17로 보정
+[Turn 10, Step 93] Agent: 영웅 능력 사용 -> Harrison Jones
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(55) → 4로 보정
+[Turn 10, Step 94] Agent: 카드 플레이 - Rolling Fireball -> Salty Dog (코스트: 5)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 3/10
+  Hand (3): Blowtorch Saboteur, Crowd Favorite, Malygos
+  Field: Master Chest[0/3], Zoobot[3/3], Harrison Jones[5/3]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (7)
+  Field: Primalfin[1/1], Primalfin[1/1], Primalfin[1/1]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 10, Step 95] Agent: 공격 - Harrison Jones[5/3] -> Primalfin
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 96] Agent: 공격 - Zoobot[3/3] -> Primalfin
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 97] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 97] Opponent: 턴 종료
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 98] Agent: 영웅 능력 사용 -> Master Chest
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 99] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 99] Opponent: 카드 플레이 - Emperor Thaurissan (코스트: 6)
+[Turn 10, Step 99] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (5): Blowtorch Saboteur, Crowd Favorite, Malygos, Ragnaros the Firelord, Learn Draconic
+  Field: Master Chest[0/2], Zoobot[3/2], Harrison Jones[5/2]
+Opponent: Rexxar HP: 7, Mana: 4/10
+  Hand (8)
+  Field: Primalfin[1/1], Emperor Thaurissan[5/5]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(40) → 2로 보정
+[Turn 10, Step 100] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(18) → 1로 보정
+[Turn 10, Step 101] Agent: 카드 플레이 - Blowtorch Saboteur (코스트: 3)
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(54) → 3로 보정
+[Turn 10, Step 102] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 103] Agent: 유효하지 않은 액션 인덱스(15) → 7로 보정
+[Turn 10, Step 103] Agent: 공격 - Harrison Jones[5/2] -> Emperor Thaurissan
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 104] Agent: 공격 - Zoobot[3/2] -> Primalfin
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 1/10
+  Hand (3): Malygos, Ragnaros the Firelord, Learn Draconic
+  Field: Master Chest[0/2], Zoobot[3/1], Crowd Favorite[5/5], Blowtorch Saboteur[3/4]
+Opponent: Rexxar HP: 6, Mana: 4/10
+  Hand (8)
+[Turn 10, Step 105] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 105] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 106] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 106] Opponent: 카드 플레이 - Whirling Blades -> Master Chest (코스트: 0)
+[Turn 10, Step 106] Opponent: 턴 종료
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 107] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 10, Step 108] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 108] Agent: 공격 - Zoobot[3/1] -> Rexxar
+[Turn 10, Step 109] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 109] Agent: 카드 플레이 - Magic Dart Frog (코스트: 2)
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (1): Malygos
+  Field: Master Chest[1/2], Zoobot[3/1], Crowd Favorite[5/5], Blowtorch Saboteur[3/4], Ragnaros the Firelord[8/8], Magic Dart Frog[1/3]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 110] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 10, Step 110] Agent: 공격 - Crowd Favorite[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 111) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (1): Malygos
+  Field: Master Chest[1/2], Zoobot[3/1], Crowd Favorite[5/5], Blowtorch Saboteur[3/4], Ragnaros the Firelord[8/8], Magic Dart Frog[1/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,494 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Da Undatakah, Amani Berserker, Fallen Sun Cleric, Masked Contender, Twilight Flamecaller
+  Field: Mogu Cultist[1/1]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (4)
+  Field: Infectious Sporeling[1/2]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Zola the Gorgon -> Infectious Sporeling (코스트: 3)
+[Turn 2, Step 5] Opponent: 공격 - Infectious Sporeling[1/2] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 3, Step 7] Agent: 공격 - Mogu Cultist[1/1] -> Infectious Sporeling
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 3, Step 8] Agent: 공격 - Infectious Sporeling[1/2] -> Zola the Gorgon
+[Turn 3, Step 9] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Da Undatakah, Amani Berserker, Fallen Sun Cleric, Masked Contender, Twilight Flamecaller, Belligerent Gnome, Conjured Mirage
+  Field: Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (5)
+  Field: Infectious Sporeling[1/2], Pumpkin Peasant[4/2]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 11] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(26) → 11로 보정
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 5, Step 14] Agent: 카드 플레이 - Fallen Sun Cleric -> Infectious Sporeling (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/5
+  Hand (7): Hogger, Da Undatakah, Amani Berserker, Masked Contender, Twilight Flamecaller, Belligerent Gnome, Conjured Mirage
+  Field: Infectious Sporeling[2/2], Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (6)
+  Field: Infectious Sporeling[1/1], Pumpkin Peasant[4/2]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 5, Step 15] Agent: 공격 - Infectious Sporeling[2/2] -> Pumpkin Peasant
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Explorer's Hat -> Infectious Sporeling (코스트: 2)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(21) → 7로 보정
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 6, Step 19] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/6
+  Hand (7): Hogger, Da Undatakah, Amani Berserker, Masked Contender, Twilight Flamecaller, Conjured Mirage, Grand Crusader
+  Field: Fallen Sun Cleric[2/1], Belligerent Gnome[2/4]
+Opponent: Rexxar HP: 28, Mana: 4/6
+  Hand (6)
+  Field: Infectious Sporeling[2/1], Infectious Sporeling[1/2]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 6, Step 20] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+[Turn 6, Step 21] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 영웅 능력 사용
+[Turn 6, Step 21] Opponent: 카드 플레이 - Bomb Squad -> Belligerent Gnome (코스트: 5)
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(79) → 13로 보정
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Bomb Squad
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(49) → 10로 보정
+[Turn 7, Step 23] Agent: 공격 - Amani Berserker[2/3] -> Infectious Sporeling
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 7, Step 24] Agent: 카드 플레이 - Twilight Flamecaller (코스트: 3)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/7
+  Hand (6): Hogger, Da Undatakah, Masked Contender, Conjured Mirage, Grand Crusader, Galvanizer
+  Field: Fallen Sun Cleric[2/1], Infectious Sporeling[1/2], Twilight Flamecaller[2/2]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (7)
+  Field: Infectious Sporeling[1/1]
+[Turn 7, Step 25] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 공격 - Infectious Sporeling[1/1] -> Jaina Proudmoore
+[Turn 7, Step 25] Opponent: 영웅 능력 사용
+[Turn 7, Step 25] Opponent: 카드 플레이 - Explorer's Hat -> Fallen Sun Cleric (코스트: 2)
+[Turn 7, Step 25] Opponent: 카드 플레이 - Frozen Shadoweaver -> Fallen Sun Cleric (코스트: 3)
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Infectious Sporeling
+[Turn 8, Step 26] Opponent: 공격 - Infectious Sporeling[1/1] -> Fallen Sun Cleric
+[Turn 8, Step 26] Opponent: 카드 플레이 - Deathspeaker -> Infectious Sporeling (코스트: 3)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Teron Gorefiend (코스트: 3)
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(46) → 8로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Beaming Sidekick -> Twilight Flamecaller (코스트: 1)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Grand Crusader (코스트: 6)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/9
+  Hand (7): Hogger, Da Undatakah, Masked Contender, Conjured Mirage, Galvanizer, Furious Ettin, Glow-Tron
+  Field: Infectious Sporeling[1/1], Twilight Flamecaller[2/4], Beaming Sidekick[1/2], Grand Crusader[5/5]
+Opponent: Rexxar HP: 23, Mana: 0/9
+  Hand (4)
+  Field: Teron Gorefiend[3/4], Infectious Sporeling[1/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 9, Step 30] Opponent: 공격 - Teron Gorefiend[3/4] -> Grand Crusader
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(68) → 26로 보정
+[Turn 10, Step 31] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(57) → 14로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(84) → 22로 보정
+[Turn 10, Step 33] Agent: 공격 - Beaming Sidekick[1/2] -> Infectious Sporeling
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(36) → 10로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (7): North Sea Kraken, Hogger, Da Undatakah, Masked Contender, Galvanizer, Furious Ettin, Glow-Tron
+  Field: Infectious Sporeling[1/1], Twilight Flamecaller[2/4], Infectious Sporeling[1/2], Grand Crusader[5/2], Conjured Mirage[3/10]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (5)
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/1], Infectious Sporeling[2/3], Deathspeaker[3/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 35] Agent: 공격 - Twilight Flamecaller[2/4] -> Deathspeaker
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(96) → 12로 보정
+[Turn 10, Step 38] Agent: 공격 - Infectious Sporeling[1/1] -> Deathspeaker
+[Turn 10, Step 39] Agent: 공격 - Grand Crusader[5/2] -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (8): North Sea Kraken, Hogger, Da Undatakah, Masked Contender, Galvanizer, Furious Ettin, Glow-Tron, Golden Scarab
+  Field: Twilight Flamecaller[2/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (6)
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[2/3], Infectious Sporeling[1/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(42) → 10로 보정
+[Turn 10, Step 40] Agent: 공격 - Twilight Flamecaller[2/1] -> Infectious Sporeling
+[Turn 10, Step 41] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Da Undatakah (코스트: 8)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(53) → 11로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Masked Contender (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/10
+  Hand (7): North Sea Kraken, Hogger, Galvanizer, Furious Ettin, Glow-Tron, Golden Scarab, Conjured Mirage
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Da Undatakah[8/5], Masked Contender[2/4]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (7)
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[2/1], Infectious Sporeling[1/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(73) → 7로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Infectious Sporeling[2/1] -> Infectious Sporeling
+[Turn 10, Step 46] Opponent: 공격 - Infectious Sporeling[1/1] -> Masked Contender
+[Turn 10, Step 46] Opponent: 카드 플레이 - Timber Wolf (코스트: 1)
+[Turn 10, Step 46] Opponent: 공격 - Infectious Sporeling[1/2] -> Da Undatakah
+[Turn 10, Step 46] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Spellshifter (코스트: 2)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(59) → 11로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(63) → 27로 보정
+[Turn 10, Step 48] Agent: 공격 - Infectious Sporeling[1/2] -> Spellshifter
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Hogger
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/10
+  Hand (7): North Sea Kraken, Galvanizer, Furious Ettin, Glow-Tron, Golden Scarab, Conjured Mirage, Gruul
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Hogger[4/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (5)
+  Field: Timber Wolf[1/1], Dollmaster Dorian[2/6], Infectious Sporeling[1/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(80) → 4로 보정
+[Turn 10, Step 50] Agent: 공격 - Infectious Sporeling[1/2] -> Timber Wolf
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 10, Step 51] Agent: 공격 - Infectious Sporeling[1/2] -> Dollmaster Dorian
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(84) → 7로 보정
+[Turn 10, Step 52] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 53] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): North Sea Kraken, Galvanizer, Furious Ettin, Glow-Tron, Golden Scarab, Conjured Mirage, Gruul, Former Champ
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Hogger[4/3], Gnoll[2/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (6)
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - North Sea Kraken -> Infectious Sporeling (코스트: 9)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 10, Step 56] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(38) → 5로 보정
+[Turn 10, Step 57] Agent: 공격 - Hogger[4/3] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 58] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Glow-Tron (코스트: 1)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (6): Galvanizer, Furious Ettin, Golden Scarab, Conjured Mirage, Gruul, Former Champ
+  Field: Infectious Sporeling[1/1], Hogger[4/3], Gnoll[2/2], North Sea Kraken[9/7], Glow-Tron[1/3]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (6)
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(71) → 3로 보정
+[Turn 10, Step 60] Agent: 공격 - Gnoll[2/2] -> Infectious Sporeling
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Swamp King Dred (코스트: 7)
+[Turn 10, Step 61] Opponent: 공격 - Infectious Sporeling[1/2] -> Gnoll
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(44) → 15로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Swamp King Dred
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 10, Step 63] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 63] Opponent: 공격 - Swamp King Dred[9/8] -> Gnoll
+[Turn 10, Step 63] Opponent: 영웅 능력 사용
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 공격 - Infectious Sporeling[1/2] -> Ebon Dragonsmith
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Bloodworm, Galvanizer, Furious Ettin, Golden Scarab, Conjured Mirage, Gruul, Former Champ, Flesheating Ghoul
+  Field: Infectious Sporeling[1/1], Hogger[4/3], Infectious Sporeling[1/2], North Sea Kraken[9/7], Glow-Tron[1/3]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (5)
+  Field: Swamp King Dred[9/6], Infectious Sporeling[1/2], Blackwater Pirate[2/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(96) → 18로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(30) → 1로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 10, Step 68] Agent: 공격 - North Sea Kraken[9/7] -> Swamp King Dred
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 10, Step 69] Agent: 공격 - Hogger[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/10
+  Hand (6): Furious Ettin, Golden Scarab, Conjured Mirage, Gruul, Former Champ, Flesheating Ghoul
+  Field: Infectious Sporeling[1/1], Hogger[4/3], Infectious Sporeling[1/2], Glow-Tron[1/3]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (5)
+  Field: Infectious Sporeling[1/1], Blackwater Pirate[2/5]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 70] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 71] Agent: 공격 - Glow-Tron[1/3] -> Blackwater Pirate
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 72] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 영웅 능력 사용
+[Turn 10, Step 73] Opponent: 카드 플레이 - Bog Creeper (코스트: 5)
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(96) → 4로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Gruul (코스트: 8)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/10
+  Hand (6): Furious Ettin, Golden Scarab, Conjured Mirage, Former Champ, Flesheating Ghoul, Grook Fu Master
+  Field: Infectious Sporeling[1/1], Hogger[4/3], Gnoll[2/2], Infectious Sporeling[1/1], Glow-Tron[1/1], Gruul[7/7]
+Opponent: Rexxar HP: 11, Mana: 3/10
+  Hand (5)
+  Field: Infectious Sporeling[1/2], Blackwater Pirate[2/4], Bog Creeper[6/8]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(54) → 3로 보정
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 76] Agent: 공격 - Hogger[4/3] -> Bog Creeper
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 77] Agent: 공격 - Gnoll[2/2] -> Bog Creeper
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 10, Step 78] Agent: 공격 - Glow-Tron[1/1] -> Bog Creeper
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Furious Ettin, Golden Scarab, Conjured Mirage, Former Champ, Flesheating Ghoul, Grook Fu Master, Windfury Harpy
+  Field: Infectious Sporeling[1/1], Gruul[9/9]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+  Field: Infectious Sporeling[1/2], Blackwater Pirate[2/4], Bog Creeper[6/1]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(52) → 1로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Furious Ettin (코스트: 7)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 81] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 81] Opponent: 공격 - Blackwater Pirate[2/4] -> Furious Ettin
+[Turn 10, Step 81] Opponent: 공격 - Bog Creeper[6/1] -> Furious Ettin
+[Turn 10, Step 81] Opponent: 공격 - Infectious Sporeling[1/2] -> Furious Ettin
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 82] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 10, Step 83] Agent: 선택 - Arena Fanatic
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 10, Step 84] Agent: 공격 - Infectious Sporeling[1/2] -> Eater of Secrets
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/10
+  Hand (6): Night Howler, Former Champ, Flesheating Ghoul, Grook Fu Master, Windfury Harpy, Arena Fanatic
+  Field: Infectious Sporeling[1/1], Gruul[11/11], Golden Scarab[2/2], Conjured Mirage[3/10]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (5)
+  Field: Infectious Sporeling[1/2], The Beast[9/7]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(73) → 16로 보정
+[Turn 10, Step 85] Agent: 공격 - Conjured Mirage[3/10] -> Rexxar
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 86] Agent: 공격 - Infectious Sporeling[1/1] -> The Beast
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 87] Agent: 영웅 능력 사용 -> Conjured Mirage
+[Turn 10, Step 88] Agent: 공격 - Gruul[11/11] -> Infectious Sporeling
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 카드 플레이 - Zixor, Apex Predator (코스트: 3)
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Night Howler, Former Champ, Flesheating Ghoul, Grook Fu Master, Windfury Harpy, Arena Fanatic, Shimmering Tempest
+  Field: Infectious Sporeling[1/2], Golden Scarab[2/2]
+Opponent: Rexxar HP: 8, Mana: 7/10
+  Hand (5)
+  Field: Infectious Sporeling[1/2], Zixor, Apex Predator[2/4]
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Golden Scarab
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 92] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 93] Agent: 공격 - Golden Scarab[2/1] -> Infectious Sporeling
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 94] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 94] Opponent: 공격 - Zixor, Apex Predator[2/4] -> Jaina Proudmoore
+[Turn 10, Step 94] Opponent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 10, Step 94] Opponent: 카드 플레이 - The Skeleton Knight (코스트: 6)
+[Turn 10, Step 94] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (7): Night Howler, Flesheating Ghoul, Grook Fu Master, Windfury Harpy, Arena Fanatic, Shimmering Tempest, Skydiving Instructor
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Former Champ[1/1], Hotshot[5/5]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (4)
+  Field: Zixor, Apex Predator[2/4], Blubber Baron[1/1], The Skeleton Knight[7/4]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(56) → 23로 보정
+[Turn 10, Step 95] Agent: 공격 - Infectious Sporeling[1/2] -> Blubber Baron
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(73) → 15로 보정
+[Turn 10, Step 96] Agent: 영웅 능력 사용 -> The Skeleton Knight
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 97] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 98] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(36) → 8로 보정
+[Turn 10, Step 99] Agent: 공격 - Former Champ[1/1] -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/10
+  Hand (6): Night Howler, Grook Fu Master, Windfury Harpy, Arena Fanatic, Shimmering Tempest, Skydiving Instructor
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Hotshot[5/5], Flesheating Ghoul[2/3]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (4)
+  Field: Zixor, Apex Predator[2/4], Infectious Sporeling[1/1], The Skeleton Knight[7/3]
+[Turn 10, Step 100] Agent: 공격 - Hotshot[5/5] -> The Skeleton Knight
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(9) → 3로 보정
+[Turn 10, Step 101] Agent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 102] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 102] Opponent: 턴 종료
+[Turn 10, Step 103] Agent: 유효하지 않은 액션 인덱스(73) → 11로 보정
+[Turn 10, Step 103] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(30) → 11로 보정
+[Turn 10, Step 104] Agent: 공격 - Infectious Sporeling[1/2] -> Zixor, Apex Predator
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (6): Night Howler, Grook Fu Master, Windfury Harpy, Shimmering Tempest, Skydiving Instructor, Rumbletusk Shaker
+  Field: Infectious Sporeling[1/1], Flesheating Ghoul[6/3], Arena Fanatic[2/3]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (5)
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1]
+[Turn 10, Step 105] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 105] Agent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 106] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 107] Agent: 공격 - Arena Fanatic[2/3] -> Infectious Sporeling
+[Turn 10, Step 108] Agent: 공격 - Flesheating Ghoul[8/3] -> Rexxar
+
+--- Game State (Turn 10, Step 109) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/10
+  Hand (5): Night Howler, Windfury Harpy, Shimmering Tempest, Skydiving Instructor, Rumbletusk Shaker
+  Field: Flesheating Ghoul[8/3], Infectious Sporeling[1/2], Grook Fu Master[4/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+  Field: Infectious Sporeling[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,448 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Dalaran Mage (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (6): Grizzled Wizard, Thrallmar Farseer, Sightless Ranger, Violet Warden, Bloodsail Raider, Cabalist's Tome
+  Field: Murloc Tidecaller[1/2]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Dalaran Mage[1/4]
+[Turn 3, Step 5] Agent: 공격 - Murloc Tidecaller[1/2] -> Dalaran Mage
+[Turn 3, Step 6] Agent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 9] Agent: 공격 - Bloodsail Raider[2/3] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (6): Grizzled Wizard, Thrallmar Farseer, Sightless Ranger, Violet Warden, Cabalist's Tome, Scorp-o-matic
+  Field: Murloc Tidecaller[1/1], Bloodsail Raider[2/3]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+  Field: Dalaran Mage[1/3]
+[Turn 4, Step 10] Agent: 카드 플레이 - Scorp-o-matic -> Murloc Tidecaller (코스트: 2)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 4, Step 11] Opponent: 공격 - Dalaran Mage[1/3] -> Bloodsail Raider
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 공격 - Scorp-o-matic[1/2] -> Dalaran Mage
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (5): Grizzled Wizard, Sightless Ranger, Violet Warden, Cabalist's Tome, Shimmering Tempest
+  Field: Bloodsail Raider[2/2], Scorp-o-matic[1/1], Thrallmar Farseer[2/3]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (6)
+  Field: Recruiter[5/4]
+[Turn 5, Step 15] Agent: 공격 - Bloodsail Raider[2/2] -> Recruiter
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Call Pet (코스트: 2)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 공격 - Thrallmar Farseer[2/3] -> Recruiter
+[Turn 6, Step 18] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 6, Step 19] Agent: 공격 - Scorp-o-matic[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/6
+  Hand (8): Grizzled Wizard, Sightless Ranger, Violet Warden, Shimmering Tempest, Supreme Abyssal, Tome of Intellect, Magic Trick, Volcanic Potion
+  Field: Scorp-o-matic[1/1]
+Opponent: Rexxar HP: 27, Mana: 4/6
+  Hand (7)
+[Turn 6, Step 20] Agent: 카드 플레이 - Tome of Intellect (코스트: 1)
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 7, Step 23] Agent: 선택 - Shifting Scroll
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Runic Egg
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/8
+  Hand (10): Grizzled Wizard, Sightless Ranger, Violet Warden, Shimmering Tempest, Supreme Abyssal, Volcanic Potion, Elemental Allies, Jeeves, Arcane Missiles, Clockwork Knight
+  Field: Scorp-o-matic[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/8
+  Hand (6)
+  Field: Darkscale Healer[4/5], Murloc Tinyfin[1/1], Runic Egg[0/1]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Fireworks Tech (코스트: 2)
+[Turn 8, Step 25] Opponent: 공격 - Darkscale Healer[4/5] -> Scorp-o-matic
+[Turn 8, Step 25] Opponent: 카드 플레이 - Master Jouster (코스트: 6)
+[Turn 8, Step 25] Opponent: 공격 - Murloc Tinyfin[1/1] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Darkscale Healer
+[Turn 9, Step 27] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 9, Step 28] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 9, Step 29] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (7): Grizzled Wizard, Sightless Ranger, Violet Warden, Shimmering Tempest, Supreme Abyssal, Jeeves, Clockwork Knight
+Opponent: Rexxar HP: 29, Mana: 0/9
+  Hand (5)
+  Field: Darkscale Healer[4/1], Master Jouster[5/4], Dire Mole[1/1]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 32] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Illuminator[2/4] -> Dire Mole
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (8): Grizzled Wizard, Sightless Ranger, Violet Warden, Shimmering Tempest, Supreme Abyssal, Jeeves, Clockwork Knight, Phantom Militia
+  Field: Illuminator[2/3]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (7)
+  Field: Darkscale Healer[4/1], Master Jouster[5/4]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Illuminator
+[Turn 10, Step 36] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 37] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 38] Agent: 카드 플레이 - Shimmering Tempest (코스트: 2)
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (7): Grizzled Wizard, Sightless Ranger, Violet Warden, Supreme Abyssal, Jeeves, Clockwork Knight, Youthful Brewmaster
+  Field: Illuminator[2/2], Phantom Militia[2/4], Phantom Militia[2/4], Shimmering Tempest[2/1]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (8)
+  Field: Darkscale Healer[4/1], Master Jouster[5/4]
+[Turn 10, Step 40] Agent: 카드 플레이 - Youthful Brewmaster -> Phantom Militia (코스트: 2)
+[Turn 10, Step 41] Agent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Shimmering Tempest
+[Turn 10, Step 43] Agent: 공격 - Sightless Ranger[3/4] -> Master Jouster
+[Turn 10, Step 44] Agent: 공격 - Illuminator[2/2] -> Master Jouster
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/10
+  Hand (7): Grizzled Wizard, Violet Warden, Supreme Abyssal, Jeeves, Clockwork Knight, Phantom Militia, Simulacrum
+  Field: Phantom Militia[2/4], Youthful Brewmaster[3/2]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (8)
+  Field: Darkscale Healer[4/1]
+[Turn 10, Step 45] Agent: 공격 - Phantom Militia[2/4] -> Darkscale Healer
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 10, Step 49] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/10
+  Hand (7): Violet Warden, Supreme Abyssal, Jeeves, Phantom Militia, Simulacrum, Scaled Nightmare, Arcane Watcher
+  Field: Youthful Brewmaster[3/2], EVIL Cable Rat[1/1], Clockwork Knight[5/5], Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: EVIL Cable Rat[1/1]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 50] Opponent: 공격 - Argent Commander[4/2] -> Clockwork Knight
+[Turn 10, Step 50] Opponent: 공격 - EVIL Cable Rat[1/1] -> Youthful Brewmaster
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 공격 - Youthful Brewmaster[3/1] -> Lifedrinker
+[Turn 10, Step 52] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 10, Step 53] Agent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 10, Step 54] Agent: 공격 - Clockwork Knight[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (7): Duplicate, Violet Warden, Supreme Abyssal, Phantom Militia, Scaled Nightmare, Arcane Watcher, Phantom Militia
+  Field: EVIL Cable Rat[1/1], Clockwork Knight[5/1], Grizzled Wizard[3/2], Jeeves[1/4]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (8)
+  Field: Argent Commander[4/2]
+[Turn 10, Step 55] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Witchy Lackey -> Dragonling Mechanic (코스트: 1)
+[Turn 10, Step 56] Opponent: 공격 - Argent Commander[4/2] -> Phantom Militia
+[Turn 10, Step 56] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Jeeves
+[Turn 10, Step 58] Agent: 공격 - Grizzled Wizard[3/2] -> Rexxar
+[Turn 10, Step 59] Agent: 공격 - EVIL Cable Rat[1/1] -> Brave Archer
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (7): Duplicate, Violet Warden, Supreme Abyssal, Phantom Militia, Scaled Nightmare, Arcane Watcher, Candletaker
+  Field: Clockwork Knight[5/1], Grizzled Wizard[3/2], Jeeves[1/3]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (6)
+  Field: Finja, the Flying Star[2/4], Mechanical Dragonling[2/1], Witchy Lackey[1/1]
+[Turn 10, Step 60] Agent: 공격 - Jeeves[1/3] -> Mechanical Dragonling
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Witchy Lackey
+[Turn 10, Step 64] Agent: 공격 - Grizzled Wizard[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (7): Duplicate, Violet Warden, Phantom Militia, Scaled Nightmare, Arcane Watcher, Candletaker, Deck of Wonders
+  Field: Clockwork Knight[5/1], Grizzled Wizard[3/2], Jeeves[1/1], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (7)
+  Field: Finja, the Flying Star[2/4]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 65] Opponent: 공격 - Finja, the Flying Star[2/4] -> Jeeves
+[Turn 10, Step 65] Opponent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 10, Step 65] Opponent: 영웅 능력 사용
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Finja, the Flying Star
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 영웅 능력 사용
+[Turn 10, Step 67] Opponent: 공격 - Finja, the Flying Star[2/2] -> Clockwork Knight
+[Turn 10, Step 67] Opponent: 공격 - Scarab[1/1] -> Jaina Proudmoore
+[Turn 10, Step 67] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 10, Step 67] Opponent: 공격 - Wrapped Golem[7/5] -> Supreme Abyssal
+[Turn 10, Step 67] Opponent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 10, Step 67] Opponent: 공격 - Blazing Battlemage[2/2] -> Supreme Abyssal
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 69] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (8): Silver Hand Regent, Duplicate, Violet Warden, Scaled Nightmare, Candletaker, Deck of Wonders, Simulacrum, Phantom Militia
+  Field: Grizzled Wizard[3/2], Supreme Abyssal[12/3], Phantom Militia[2/4], Arcane Watcher[5/6]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (5)
+  Field: Wrapped Golem[7/1], Scarab[1/1], Scarab[1/1], Cloakscale Chemist[1/2], Saronite Chain Gang[2/3], Saronite Chain Gang[2/3]
+[Turn 10, Step 70] Agent: 공격 - Grizzled Wizard[3/2] -> Saronite Chain Gang
+[Turn 10, Step 71] Agent: 공격 - Phantom Militia[2/4] -> Scarab
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Arcane Watcher
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 카드 플레이 - Candletaker (코스트: 3)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (7): Silver Hand Regent, Duplicate, Violet Warden, Scaled Nightmare, Deck of Wonders, Simulacrum, Avian Watcher
+  Field: Supreme Abyssal[12/3], Phantom Militia[2/3], Arcane Watcher[5/5], Candletaker[3/2]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (6)
+  Field: Wrapped Golem[7/1], Scarab[1/1], Scarab[1/1], Cloakscale Chemist[1/2], Saronite Chain Gang[2/3]
+[Turn 10, Step 75] Agent: 공격 - Phantom Militia[2/3] -> Scarab
+[Turn 10, Step 76] Agent: 공격 - Arcane Watcher[5/5] -> Scarab
+[Turn 10, Step 77] Agent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (7): Silver Hand Regent, Duplicate, Violet Warden, Scaled Nightmare, Deck of Wonders, Simulacrum, Wrapped Golem
+  Field: Supreme Abyssal[12/3], Phantom Militia[2/2], Arcane Watcher[5/4], Candletaker[3/2], Avian Watcher[3/6]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (7)
+  Field: Wrapped Golem[7/1], Scarab[1/1], Cloakscale Chemist[1/2], Saronite Chain Gang[2/3]
+[Turn 10, Step 80] Agent: 공격 - Phantom Militia[2/2] -> Scarab
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 82] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 83] Agent: 공격 - Candletaker[3/2] -> Saronite Chain Gang
+[Turn 10, Step 84] Agent: 공격 - Arcane Watcher[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (6): Duplicate, Violet Warden, Scaled Nightmare, Deck of Wonders, Simulacrum, Wrapped Golem
+  Field: Supreme Abyssal[12/3], Phantom Militia[2/1], Arcane Watcher[5/4], Candletaker[3/1], Avian Watcher[3/6], Silver Hand Regent[3/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (7)
+  Field: Wrapped Golem[7/1], Cloakscale Chemist[1/2]
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 87] Agent: 공격 - Avian Watcher[3/6] -> Scarab
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 공격 - Wrapped Golem[7/1] -> Phantom Militia
+[Turn 10, Step 88] Opponent: 카드 플레이 - Baron Geddon (코스트: 7)
+[Turn 10, Step 88] Opponent: 공격 - Cloakscale Chemist[1/2] -> Candletaker
+[Turn 10, Step 88] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 10, Step 88] Opponent: 공격 - Wolfrider[3/1] -> Avian Watcher
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 공격 - Silver Hand Regent[3/1] -> Baron Geddon
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (8): Am'gam Rager, Duplicate, Violet Warden, Scaled Nightmare, Deck of Wonders, Simulacrum, Wrapped Golem, Grook Fu Master
+  Field: Supreme Abyssal[12/1], Arcane Watcher[5/2]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (7)
+  Field: Baron Geddon[7/2]
+[Turn 10, Step 90] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 10, Step 91] Agent: 영웅 능력 사용 -> Arcane Watcher
+[Turn 10, Step 92] Agent: 공격 - Arcane Watcher[5/1] -> Baron Geddon
+[Turn 10, Step 93] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 10, Step 94] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 94] Opponent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 10, Step 94] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (8): Am'gam Rager, Duplicate, Violet Warden, Scaled Nightmare, Wrapped Golem, Grook Fu Master, Duplicate, Gluttonous Ooze
+  Field: Supreme Abyssal[12/1]
+Opponent: Rexxar HP: 11, Mana: 7/10
+  Hand (7)
+  Field: Hench-Clan Sneak[3/3]
+[Turn 10, Step 95] Agent: 영웅 능력 사용 -> Supreme Abyssal
+[Turn 10, Step 96] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 96] Opponent: 공격 - Hench-Clan Sneak[3/3] -> Jaina Proudmoore
+[Turn 10, Step 96] Opponent: 카드 플레이 - Lord of the Arena (코스트: 6)
+[Turn 10, Step 96] Opponent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 10, Step 96] Opponent: 턴 종료
+[Turn 10, Step 97] Agent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 10, Step 98] Agent: 카드 플레이 - Summoning Stone (코스트: 5)
+[Turn 10, Step 99] Agent: 영웅 능력 사용 -> Lord of the Arena
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (8): Am'gam Rager, Duplicate, Violet Warden, Scaled Nightmare, Wrapped Golem, Grook Fu Master, Duplicate, Hench-Clan Sneak
+  Field: Gluttonous Ooze[3/3], Summoning Stone[0/6]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (6)
+  Field: Hench-Clan Sneak[3/3], Lord of the Arena[6/4], Pumpkin Peasant[2/4]
+[Turn 10, Step 100] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 100] Opponent: 공격 - Hench-Clan Sneak[3/3] -> Gluttonous Ooze
+[Turn 10, Step 100] Opponent: 턴 종료
+[Turn 10, Step 101] Agent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 10, Step 102] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+[Turn 10, Step 103] Agent: 영웅 능력 사용 -> Zoobot
+[Turn 10, Step 104] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 104] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (8): Duplicate, Violet Warden, Scaled Nightmare, Wrapped Golem, Grook Fu Master, Duplicate, Hench-Clan Sneak, The Coin
+  Field: Summoning Stone[0/6], Am'gam Rager[1/5], Am'gam Rager[1/5]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (6)
+  Field: Pumpkin Peasant[2/3]
+[Turn 10, Step 105] Agent: 공격 - Am'gam Rager[1/5] -> Rexxar
+[Turn 10, Step 106] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 106] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 10, Step 106] Opponent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 10, Step 106] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 10, Step 106] Opponent: 공격 - Pumpkin Peasant[2/3] -> Am'gam Rager
+[Turn 10, Step 106] Opponent: 턴 종료
+[Turn 10, Step 107] Agent: 공격 - Am'gam Rager[1/5] -> Amalgam
+[Turn 10, Step 108] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 108] Opponent: 공격 - Emperor Cobra[2/3] -> Am'gam Rager
+[Turn 10, Step 108] Opponent: 공격 - Grimestreet Smuggler[2/4] -> Summoning Stone
+[Turn 10, Step 108] Opponent: 공격 - Hench-Clan Hag[3/3] -> Jaina Proudmoore
+[Turn 10, Step 108] Opponent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 108] Opponent: 공격 - Amalgam[1/1] -> Jaina Proudmoore
+[Turn 10, Step 108] Opponent: 턴 종료
+[Turn 10, Step 109] Agent: 공격 - Am'gam Rager[1/4] -> Pumpkin Peasant
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (8): Duplicate, Violet Warden, Scaled Nightmare, Wrapped Golem, Grook Fu Master, Duplicate, Hench-Clan Sneak, The Coin
+  Field: Summoning Stone[0/4], Am'gam Rager[1/2]
+Opponent: Rexxar HP: 3, Mana: 2/10
+  Hand (2)
+  Field: Pumpkin Peasant[2/1], Grimestreet Smuggler[2/4], Hench-Clan Hag[3/3], Amalgam[1/1], Emperor Cobra[2/2], Supreme Abyssal[12/12]
+[Turn 10, Step 110] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 111] Agent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 10, Step 112] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 113) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 7/10
+  Hand (6): Duplicate, Violet Warden, Scaled Nightmare, Wrapped Golem, Grook Fu Master, Duplicate
+  Field: Summoning Stone[0/4], Target Dummy[0/2], Am'gam Rager[1/2], Hench-Clan Sneak[3/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (2)
+  Field: Pumpkin Peasant[2/1], Grimestreet Smuggler[2/4], Hench-Clan Hag[3/3], Amalgam[1/1], Emperor Cobra[2/2], Supreme Abyssal[12/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

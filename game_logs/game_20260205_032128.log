@@ -1,0 +1,275 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Puzzle Box of Yogg-Saron, Light's Champion, Nightmare Amalgam, Injured Blademaster, Oasis Snapjaw, Hungry Ettin, Sunfury Protector
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Bloodsail Raider[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Light's Champion (코스트: 3)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Bloodsail Raider[2/3] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 4, Step 8] Agent: 공격 - Light's Champion[4/3] -> Augmented Elekk
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Puzzle Box of Yogg-Saron, Injured Blademaster, Oasis Snapjaw, Hungry Ettin, Sunfury Protector, Wrathion, Venomancer
+  Field: Nightmare Amalgam[3/4]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (6)
+  Field: Bloodsail Raider[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 5, Step 11] Agent: 공격 - Nightmare Amalgam[3/4] -> Bloodsail Raider
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Kodorider (코스트: 6)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/7
+  Hand (8): Puzzle Box of Yogg-Saron, Injured Blademaster, Oasis Snapjaw, Sunfury Protector, Wrathion, Venomancer, Dragoncaller Alanna, Parachute Brigand
+  Field: Nightmare Amalgam[3/2], Hungry Ettin[4/10]
+Opponent: Rexxar HP: 28, Mana: 1/7
+  Hand (7)
+  Field: Kodorider[3/5], Stonesplinter Trogg[2/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 7, Step 15] Agent: 공격 - Nightmare Amalgam[3/2] -> Stonesplinter Trogg
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 7, Step 16] Opponent: 공격 - Kodorider[3/7] -> Hungry Ettin
+[Turn 7, Step 16] Opponent: 카드 플레이 - Zola the Gorgon -> Kodorider (코스트: 3)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(28) → 10로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Kodorider
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 9/9
+  Hand (9): Puzzle Box of Yogg-Saron, Injured Blademaster, Oasis Snapjaw, Sunfury Protector, Wrathion, Venomancer, Dragoncaller Alanna, Parachute Brigand, Saboteur
+  Field: Hungry Ettin[4/7], Anubisath Sentinel[4/4]
+Opponent: Rexxar HP: 28, Mana: 7/9
+  Hand (7)
+  Field: Kodorider[3/2], Sunborne Val'kyr[5/4], Zola the Gorgon[2/2], Volatile Elemental[1/1]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(95) → 14로 보정
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Zola the Gorgon
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 9, Step 21] Agent: 공격 - Hungry Ettin[4/7] -> Sunborne Val'kyr
+[Turn 9, Step 22] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Kodorider (코스트: 6)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 9, Step 24] Opponent: 선택 - Demon Claws
+[Turn 9, Step 24] Opponent: 영웅 능력 사용
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (8): Puzzle Box of Yogg-Saron, Injured Blademaster, Oasis Snapjaw, Wrathion, Venomancer, Dragoncaller Alanna, Saboteur, Tar Creeper
+  Field: Hungry Ettin[4/2], Anubisath Sentinel[4/4], Parachute Brigand[2/2], Sunfury Protector[2/3]
+Opponent: Rexxar HP: 28, Mana: 2/10
+  Hand (6)
+  Field: Kodorider[3/2], War Kodo[3/5], Zola the Gorgon[2/1], Volatile Elemental[1/1], Kodorider[3/5], War Kodo[3/5], Sir Finley Mrrgglton[1/3]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(72) → 18로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용 -> Kodorider
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(99) → 21로 보정
+[Turn 10, Step 26] Agent: 공격 - Anubisath Sentinel[4/4] -> War Kodo
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(51) → 20로 보정
+[Turn 10, Step 27] Agent: 공격 - Parachute Brigand[2/2] -> Kodorider
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(68) → 22로 보정
+[Turn 10, Step 28] Agent: 공격 - Sunfury Protector[2/3] -> Sir Finley Mrrgglton
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 10, Step 29] Agent: 공격 - Hungry Ettin[4/2] -> War Kodo
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (8): Puzzle Box of Yogg-Saron, Injured Blademaster, Oasis Snapjaw, Wrathion, Venomancer, Dragoncaller Alanna, Saboteur, Tar Creeper
+  Field: Anubisath Sentinel[4/1], Sunfury Protector[2/2]
+Opponent: Rexxar HP: 28, Mana: 2/10
+  Hand (6)
+  Field: Kodorider[3/2], War Kodo[3/5], Zola the Gorgon[2/1], Volatile Elemental[1/1], Kodorider[3/2], Sir Finley Mrrgglton[1/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Deranged Doctor (코스트: 8)
+[Turn 10, Step 31] Opponent: 공격 - Kodorider[3/2] -> Anubisath Sentinel
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(37) → 4로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Venomancer (코스트: 5)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Zola the Gorgon
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(86) → 11로 보정
+[Turn 10, Step 34] Agent: 공격 - Injured Blademaster[4/3] -> War Kodo
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/10
+  Hand (7): Puzzle Box of Yogg-Saron, Oasis Snapjaw, Wrathion, Dragoncaller Alanna, Saboteur, Tar Creeper, Defender of Argus
+  Field: Sunfury Protector[5/5], Venomancer[2/5]
+Opponent: Rexxar HP: 28, Mana: 2/10
+  Hand (6)
+  Field: Kodorider[3/2], War Kodo[3/1], Volatile Elemental[1/1], Sir Finley Mrrgglton[1/1], Deranged Doctor[8/8]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(24) → 6로 보정
+[Turn 10, Step 35] Agent: 공격 - Sunfury Protector[5/5] -> Volatile Elemental
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(4) → 1로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 10, Step 37] Opponent: 공격 - Kodorider[3/2] -> Sunfury Protector
+[Turn 10, Step 37] Opponent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Venomancer
+[Turn 10, Step 39] Agent: 카드 플레이 - Defender of Argus (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/10
+  Hand (6): Simulacrum, Puzzle Box of Yogg-Saron, Oasis Snapjaw, Wrathion, Dragoncaller Alanna, Tar Creeper
+  Field: Sunfury Protector[5/1], Venomancer[2/1], Saboteur[5/4], Defender of Argus[2/3]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (5)
+  Field: War Kodo[3/1], Sir Finley Mrrgglton[1/1], Deranged Doctor[8/8], Zombie Chow[2/3], The Boogeymonster[6/7]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(87) → 21로 보정
+[Turn 10, Step 40] Agent: 공격 - Saboteur[5/4] -> The Boogeymonster
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Sunfury Protector[5/1] -> War Kodo
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 43] Agent: 공격 - Venomancer[2/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - The Boogeymonster[6/2] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 공격 - Sir Finley Mrrgglton[1/1] -> Defender of Argus
+[Turn 10, Step 44] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Piranha Launcher (코스트: 5)
+[Turn 10, Step 44] Opponent: 공격 - Deranged Doctor[8/8] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (7): Puzzle Box of Yogg-Saron, Oasis Snapjaw, Wrathion, Dragoncaller Alanna, Tar Creeper, Tar Creeper, Camouflaged Dirigible
+  Field: Venomancer[2/1], Defender of Argus[2/2]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (4)
+  Field: Deranged Doctor[8/8], Zombie Chow[2/3], The Boogeymonster[6/2], Bonechewer Brawler[2/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(53) → 17로 보정
+[Turn 10, Step 45] Agent: 공격 - Defender of Argus[2/2] -> Bonechewer Brawler
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(27) → 11로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Venomancer
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Rexxar[2/26] -> Wrathion
+[Turn 10, Step 48] Opponent: 공격 - The Boogeymonster[6/2] -> Wrathion
+[Turn 10, Step 48] Opponent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 10, Step 48] Opponent: 선택 - Nozdormu
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 공격 - Deranged Doctor[8/8] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 6/10
+  Hand (7): Frostwolf Warlord, Puzzle Box of Yogg-Saron, Dragoncaller Alanna, Tar Creeper, Tar Creeper, Camouflaged Dirigible, Fishflinger
+  Field: Oasis Snapjaw[2/7]
+Opponent: Rexxar HP: 22, Mana: 4/10
+  Hand (4)
+  Field: Deranged Doctor[8/8], Zombie Chow[2/3], Bonechewer Brawler[4/1], Piranha[1/1], Chromatic Egg[0/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(35) → 7로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Deranged Doctor[8/8] -> Tar Creeper
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 공격 - Rexxar[3/21] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 53) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (6): Frostwolf Warlord, Puzzle Box of Yogg-Saron, Dragoncaller Alanna, Tar Creeper, Camouflaged Dirigible, Fishflinger
+  Field: Oasis Snapjaw[2/7]
+Opponent: Rexxar HP: 21, Mana: 9/10
+  Hand (5)
+  Field: Deranged Doctor[8/5], Zombie Chow[2/3], Bonechewer Brawler[4/1], Piranha[1/1], Chromatic Egg[0/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

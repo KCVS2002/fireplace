@@ -1,0 +1,212 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Clear the Way (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Brave Archer
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (7): Shimmering Tempest, Sen'jin Shieldmasta, Grizzled Wizard, Master Oakheart, Mini-Mage, Dragonqueen Alexstrasza, Volcanic Drake
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(94) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Shimmering Tempest (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Shimmering Tempest
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - King's Elekk[3/2] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (8): Sen'jin Shieldmasta, Master Oakheart, Mini-Mage, Dragonqueen Alexstrasza, Volcanic Drake, Mirror Image, Research Project, Desert Hare
+  Field: Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 30, Mana: 1/5
+  Hand (5)
+  Field: King's Elekk[3/2], SI:7 Infiltrator[5/4]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 공격 - SI:7 Infiltrator[5/4] -> Grizzled Wizard
+[Turn 6, Step 12] Opponent: 공격 - King's Elekk[3/2] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(47) → 8로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> King's Elekk
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/7
+  Hand (7): Splitting Festeroot, Sen'jin Shieldmasta, Master Oakheart, Dragonqueen Alexstrasza, Volcanic Drake, Research Project, Desert Hare
+  Field: Mini-Mage[4/1], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 30, Mana: 2/6
+  Hand (5)
+  Field: King's Elekk[3/1], SI:7 Infiltrator[5/1], Unstable Ghoul[1/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 공격 - Unstable Ghoul[1/3] -> Mirror Image
+[Turn 7, Step 15] Opponent: 카드 플레이 - Unleash the Hounds (코스트: 3)
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(60) → 16로 보정
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 8, Step 19] Agent: 공격 - Mini-Mage[4/1] -> Unstable Ghoul
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/8
+  Hand (8): Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Volcanic Drake, Desert Hare, Hemet Nesingwary, Soup Vendor, Defender of Argus
+  Field: Sen'jin Shieldmasta[3/4]
+Opponent: Rexxar HP: 30, Mana: 4/7
+  Hand (7)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Volcanic Drake (코스트: 0)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 9, Step 23] Agent: 공격 - Sen'jin Shieldmasta[3/4] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (8): Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Desert Hare, Hemet Nesingwary, Soup Vendor, Untamed Beastmaster, Netherspite Historian
+  Field: Sen'jin Shieldmasta[3/4], Volcanic Drake[7/5], Defender of Argus[2/3]
+Opponent: Rexxar HP: 27, Mana: 9/9
+  Hand (8)
+  Field: Grotesque Dragonhawk[5/5]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(73) → 10로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Hemet Nesingwary -> Grotesque Dragonhawk (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 10, Step 27] Agent: 공격 - Sen'jin Shieldmasta[3/4] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 10, Step 29] Agent: 공격 - Defender of Argus[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (6): Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Desert Hare, Soup Vendor, Netherspite Historian
+  Field: Sen'jin Shieldmasta[3/4], Volcanic Drake[7/5], Defender of Argus[2/3], Hemet Nesingwary[6/3], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 21, Mana: 9/9
+  Hand (8)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Burrowing Scorpid -> Volcanic Drake (코스트: 4)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(51) → 25로 보정
+[Turn 10, Step 31] Agent: 공격 - Untamed Beastmaster[3/4] -> Burrowing Scorpid
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(83) → 11로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Volcanic Drake
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Netherspite Historian (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (5): Animated Avalanche, Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Desert Hare
+  Field: Sen'jin Shieldmasta[3/4], Volcanic Drake[7/2], Defender of Argus[2/3], Hemet Nesingwary[6/3], Soup Vendor[1/4], Netherspite Historian[1/3]
+Opponent: Rexxar HP: 21, Mana: 6/10
+  Hand (8)
+[Turn 10, Step 35] Agent: 선택 - Book Wyrm
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 35] Agent: 공격 - Volcanic Drake[7/2] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Sen'jin Shieldmasta[3/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Hemet Nesingwary[6/3] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Animated Avalanche, Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Book Wyrm, Gorillabot A-3
+  Field: Sen'jin Shieldmasta[3/4], Volcanic Drake[7/2], Defender of Argus[2/3], Hemet Nesingwary[6/3], Soup Vendor[1/4], Netherspite Historian[1/3], Desert Hare[1/1]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(49) → 15로 보정
+[Turn 10, Step 40] Agent: 공격 - Netherspite Historian[1/3] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(62) → 14로 보정
+[Turn 10, Step 41] Agent: 공격 - Soup Vendor[1/4] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 10, Step 43] Agent: 공격 - Hemet Nesingwary[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 44) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (6): Animated Avalanche, Splitting Festeroot, Master Oakheart, Dragonqueen Alexstrasza, Book Wyrm, Gorillabot A-3
+  Field: Sen'jin Shieldmasta[3/4], Volcanic Drake[7/2], Defender of Argus[2/3], Hemet Nesingwary[6/3], Soup Vendor[1/4], Netherspite Historian[1/3], Desert Hare[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

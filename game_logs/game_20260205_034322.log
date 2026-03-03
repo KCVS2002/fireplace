@@ -1,0 +1,188 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Shimmering Tempest (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Mana Reservoir (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Spiteful Summoner, Dread Corsair, C'Thun's Chosen, Splitting Image, Coldlight Oracle
+  Field: Shimmering Tempest[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+  Field: Mana Reservoir[0/6]
+[Turn 2, Step 5] Agent: 공격 - Shimmering Tempest[2/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 3, Step 8] Opponent: 카드 플레이 - Shieldbreaker (코스트: 2)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/4
+  Hand (5): Spiteful Summoner, Dread Corsair, C'Thun's Chosen, Coldlight Oracle, Trogg Gloomeater
+  Field: Shimmering Tempest[2/1], Swamp Dragon Egg[0/3]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (3)
+  Field: Mana Reservoir[0/6], Duskboar[4/1], Shieldbreaker[2/1]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Mana Reservoir
+[Turn 4, Step 11] Agent: 공격 - Shimmering Tempest[2/1] -> Shieldbreaker
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 공격 - Duskboar[4/1] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 영웅 능력 사용
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 공격 - Duskboar[4/1] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 카드 플레이 - Vilebrood Skitterer (코스트: 5)
+[Turn 5, Step 14] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Swamp Dragon Egg
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/6
+  Hand (9): Sky Gen'ral Kragg, Spiteful Summoner, Dread Corsair, C'Thun's Chosen, Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Zombie Chow, Twilight Whelp
+  Field: Swamp Dragon Egg[0/3]
+Opponent: Rexxar HP: 27, Mana: 1/6
+  Hand (4)
+  Field: Mana Reservoir[0/5], Duskboar[4/1], Vilebrood Skitterer[1/3]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 6, Step 15] Opponent: 공격 - Bluegill Warrior[2/1] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 공격 - Duskboar[4/1] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Bluegill Warrior
+[Turn 7, Step 17] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 7, Step 18] Opponent: 공격 - Duskboar[4/1] -> Sky Gen'ral Kragg
+[Turn 7, Step 18] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Swamp Dragon Egg
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Kodorider (코스트: 6)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/8
+  Hand (9): Spiteful Summoner, Dread Corsair, C'Thun's Chosen, Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Zombie Chow, Twilight Whelp, Ebon Dragonsmith
+  Field: Kodorider[3/5]
+Opponent: Rexxar HP: 27, Mana: 1/8
+  Hand (4)
+  Field: Mana Reservoir[0/3], Vilebrood Skitterer[1/3], Worgen Abomination[6/6]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Kodorider
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 23] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 9, Step 24] Agent: 공격 - Kodorider[3/2] -> Gnoll
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/9
+  Hand (9): Spiteful Summoner, Dread Corsair, Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Zombie Chow, Twilight Whelp, Ebon Dragonsmith, Burgly Bully
+  Field: War Kodo[3/5], War Kodo[3/5], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 27, Mana: 3/9
+  Hand (4)
+  Field: Mana Reservoir[0/1], Vilebrood Skitterer[1/3], Worgen Abomination[6/6], Hogger[4/4]
+[Turn 9, Step 25] Agent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 9, Step 26] Agent: 공격 - War Kodo[3/5] -> Worgen Abomination
+[Turn 9, Step 27] Agent: 카드 플레이 - Twilight Whelp (코스트: 1)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 9, Step 28] Opponent: 공격 - Hogger[4/4] -> War Kodo
+[Turn 9, Step 28] Opponent: 공격 - Worgen Abomination[6/3] -> Zombie Chow
+[Turn 9, Step 28] Opponent: 공격 - Vilebrood Skitterer[1/3] -> C'Thun's Chosen
+[Turn 9, Step 28] Opponent: 영웅 능력 사용
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Spiteful Summoner (코스트: 6)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 4/10
+  Hand (7): Dread Corsair, Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Ebon Dragonsmith, Burgly Bully, Da Undatakah
+  Field: C'Thun's Chosen[4/2], Twilight Whelp[2/3], Spiteful Summoner[4/4]
+Opponent: Rexxar HP: 30, Mana: 5/10
+  Hand (5)
+  Field: Worgen Abomination[6/1], Gnoll[2/2], Happy Ghoul[3/3]
+[Turn 10, Step 30] Agent: 카드 플레이 - Dread Corsair (코스트: 4)
+[Turn 10, Step 31] Agent: 공격 - Twilight Whelp[2/3] -> Gnoll
+[Turn 10, Step 32] Agent: 공격 - C'Thun's Chosen[4/2] -> Happy Ghoul
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Annoy-o-Module (코스트: 4)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Eaglehorn Bow (코스트: 3)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 5/10
+  Hand (6): Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Ebon Dragonsmith, Da Undatakah, Waterboy
+  Field: Spiteful Summoner[4/4], Dread Corsair[3/3], Burgly Bully[4/6]
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (4)
+  Field: Worgen Abomination[6/1], Annoy-o-Module[2/4]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Burgly Bully
+[Turn 10, Step 36] Agent: 공격 - Dread Corsair[3/3] -> Annoy-o-Module
+[Turn 10, Step 37] Agent: 공격 - Spiteful Summoner[4/4] -> Annoy-o-Module
+[Turn 10, Step 38] Agent: 카드 플레이 - Waterboy (코스트: 2)
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Genn Greymane (코스트: 6)
+[Turn 10, Step 39] Opponent: 공격 - Worgen Abomination[6/1] -> Dread Corsair
+[Turn 10, Step 39] Opponent: 공격 - Rexxar[3/30] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (5): Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Ebon Dragonsmith, Da Undatakah
+  Field: Spiteful Summoner[4/2], Burgly Bully[4/5], Waterboy[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/10
+  Hand (3)
+  Field: Lifedrinker[3/3], Genn Greymane[6/5]
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (5): Coldlight Oracle, Trogg Gloomeater, Deep Freeze, Ebon Dragonsmith, Da Undatakah
+  Field: Spiteful Summoner[4/2], Burgly Bully[4/5], Waterboy[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/10
+  Hand (3)
+  Field: Lifedrinker[3/3], Genn Greymane[6/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

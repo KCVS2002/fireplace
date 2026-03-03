@@ -1,0 +1,312 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Dozing Marksman (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 3, Step 4] Opponent: 카드 플레이 - Wisp (코스트: 0)
+[Turn 3, Step 4] Opponent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 3, Step 4] Opponent: 공격 - Springpaw[1/1] -> Dozing Marksman
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (6): Reno the Relicologist, Zoobot, Kronx Dragonhoof, Stargazer Luna, Corpse Raiser, Burrowing Scorpid
+  Field: Dozing Marksman[4/3]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Murloc Tidehunter[2/1], Murloc Scout[1/1], Wisp[1/1], Springpaw[1/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(52) → 8로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Burrowing Scorpid -> Wisp (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 4, Step 6] Agent: 공격 - Dozing Marksman[4/3] -> Springpaw
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 공격 - Murloc Tidehunter[2/1] -> Dozing Marksman
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Murloc Scout
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 5, Step 9] Agent: 공격 - Burrowing Scorpid[5/2] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (6): Reno the Relicologist, Zoobot, Kronx Dragonhoof, Stargazer Luna, Corpse Raiser, Anomalus
+  Field: Burrowing Scorpid[5/2]
+Opponent: Rexxar HP: 25, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Zoobot
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 6, Step 14] Agent: 공격 - Burrowing Scorpid[6/3] -> Frostwolf Grunt
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/6
+  Hand (5): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Anomalus, Faceless Lurker
+  Field: Burrowing Scorpid[6/1], Zoobot[3/2], Stargazer Luna[2/4]
+Opponent: Rexxar HP: 25, Mana: 1/5
+  Hand (4)
+  Field: Lynx[1/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(75) → 15로 보정
+[Turn 7, Step 16] Agent: 공격 - Burrowing Scorpid[6/1] -> Lynx
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Serpent Ward (코스트: 2)
+[Turn 7, Step 17] Opponent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 7, Step 17] Opponent: 영웅 능력 사용
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Stargazer Luna
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 8, Step 19] Agent: 공격 - Stargazer Luna[2/3] -> Saboteur
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (7): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Anomalus, Faceless Lurker, Fel Reaver, Acherus Veteran
+  Field: Zoobot[3/2]
+Opponent: Rexxar HP: 25, Mana: 0/7
+  Hand (4)
+  Field: Serpent Ward[0/2], Saboteur[4/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 8, Step 20] Agent: 공격 - Zoobot[3/2] -> Serpent Ward
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 8, Step 21] Opponent: 공격 - Saboteur[4/1] -> Zoobot
+[Turn 8, Step 21] Opponent: 영웅 능력 사용
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(20) → 8로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 9, Step 23] Opponent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 9, Step 23] Opponent: 공격 - Tanaris Hogchopper[4/4] -> Jaina Proudmoore
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 카드 플레이 - Faceless Lurker (코스트: 5)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/10
+  Hand (7): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Anomalus, Fel Reaver, Acherus Veteran, Naga Corsair
+  Field: Arcane Devourer[5/5], Faceless Lurker[3/6]
+Opponent: Rexxar HP: 25, Mana: 4/9
+  Hand (3)
+  Field: Tanaris Hogchopper[4/4], Sewer Crawler[1/1], Giant Rat[2/3], Mad Scientist[2/2]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Acherus Veteran -> Faceless Lurker (코스트: 1)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Acidmaw (코스트: 7)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Sewer Crawler
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(68) → 18로 보정
+[Turn 10, Step 29] Agent: 공격 - Faceless Lurker[4/6] -> Mad Scientist
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (7): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Anomalus, Fel Reaver, Naga Corsair, Lost Tallstrider
+  Field: Arcane Devourer[5/5], Acherus Veteran[2/1]
+Opponent: Rexxar HP: 24, Mana: 3/10
+  Hand (3)
+  Field: Tanaris Hogchopper[4/4], Giant Rat[2/3], Acidmaw[4/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(22) → 5로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Anomalus (코스트: 8)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Tanaris Hogchopper[4/4] -> Acherus Veteran
+[Turn 10, Step 31] Opponent: 공격 - Acidmaw[4/2] -> Arcane Devourer
+[Turn 10, Step 31] Opponent: 영웅 능력 사용
+[Turn 10, Step 31] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 10, Step 31] Opponent: 공격 - Giant Rat[2/3] -> Anomalus
+[Turn 10, Step 31] Opponent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Marsh Drake
+[Turn 10, Step 33] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 34] Agent: 공격 - Anomalus[8/4] -> Secretkeeper
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/10
+  Hand (6): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Fel Reaver, Naga Corsair, Lost Tallstrider
+  Field: Anomalus[8/3], Drakeslayer[2/1], Gorillabot A-3[3/4]
+Opponent: Rexxar HP: 24, Mana: 4/10
+  Hand (2)
+  Field: Marsh Drake[5/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Marsh Drake[5/3] -> Anomalus
+[Turn 10, Step 35] Opponent: 카드 플레이 - Scarlet Webweaver (코스트: 6)
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Fel Reaver (코스트: 5)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 카드 플레이 - Fire Plume Phoenix -> Rexxar (코스트: 4)
+[Turn 10, Step 38] Opponent: 공격 - Scarlet Webweaver[5/5] -> Naga Corsair
+[Turn 10, Step 38] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 6/10
+  Hand (5): Mad Summoner, Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Polluted Hoarder
+  Field: Fel Reaver[8/8], Lost Tallstrider[5/4]
+Opponent: Rexxar HP: 22, Mana: 3/10
+  Hand (1)
+  Field: Fire Plume Phoenix[3/3], Zombie Chow[2/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 10, Step 41] Agent: 공격 - Fel Reaver[8/8] -> Fire Plume Phoenix
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - King Krush (코스트: 9)
+[Turn 10, Step 42] Opponent: 공격 - King Krush[8/8] -> Imp
+[Turn 10, Step 42] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(65) → 26로 보정
+[Turn 10, Step 43] Agent: 공격 - Lost Tallstrider[5/4] -> King Krush
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(93) → 25로 보정
+[Turn 10, Step 44] Agent: 공격 - Imp[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (5): Reno the Relicologist, Kronx Dragonhoof, Corpse Raiser, Polluted Hoarder, Plated Beetle
+  Field: Fel Reaver[8/5], Imp[1/1], Imp[1/1], Mad Summoner[4/4], Imp[1/1]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (1)
+  Field: Zombie Chow[2/3], King Krush[8/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(68) → 6로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Corpse Raiser -> Imp (코스트: 5)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(88) → 13로 보정
+[Turn 10, Step 46] Agent: 공격 - Fel Reaver[8/5] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(52) → 8로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Imp
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(13) → 5로 보정
+[Turn 10, Step 48] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 49] Agent: 공격 - Mad Summoner[4/4] -> King Krush
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (4): Reno the Relicologist, Kronx Dragonhoof, Polluted Hoarder, Plated Beetle
+  Field: Fel Reaver[8/5], Imp[1/1], Imp[1/1], Corpse Raiser[3/3]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (1)
+  Field: Zombie Chow[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Plated Beetle (코스트: 2)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(97) → 5로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(82) → 7로 보정
+[Turn 10, Step 53] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(29) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 4/10
+  Hand (3): Reno the Relicologist, Kronx Dragonhoof, The Black Knight
+  Field: Fel Reaver[8/5], Imp[1/1], Imp[1/1], Corpse Raiser[3/3], Plated Beetle[2/3], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (2)
+  Field: Zombie Chow[2/3]
+[Turn 10, Step 55] Agent: 공격 - Fel Reaver[8/5] -> Zombie Chow
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(92) → 16로 보정
+[Turn 10, Step 57] Agent: 공격 - Corpse Raiser[3/3] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(34) → 16로 보정
+[Turn 10, Step 58] Agent: 공격 - Plated Beetle[2/3] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(84) → 16로 보정
+[Turn 10, Step 59] Agent: 공격 - Polluted Hoarder[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (4): Reno the Relicologist, Kronx Dragonhoof, The Black Knight, Mind Control Tech
+  Field: Fel Reaver[8/3], Imp[1/1], Imp[1/1], Corpse Raiser[3/3], Plated Beetle[2/3], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (3)
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Fel Reaver
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 62] Agent: 공격 - Fel Reaver[8/2] -> Rexxar
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 2/10
+  Hand (3): Reno the Relicologist, Kronx Dragonhoof, Mind Control Tech
+  Field: Fel Reaver[8/2], Imp[1/1], Imp[1/1], Corpse Raiser[3/3], Plated Beetle[2/3], Polluted Hoarder[4/2], The Black Knight[4/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (3)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

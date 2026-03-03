@@ -1,0 +1,212 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Arcane Anomaly
+[Turn 2, Step 3] Agent: 공격 - Swamp Leech[2/1] -> Gravelsnout Knight
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 2, Step 4] Opponent: 공격 - Gravelsnout Knight[2/1] -> Jeweled Scarab
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Master Oakheart, Evasive Wyrm, Tasty Flyfish, Argent Commander
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Dirty Rat[2/6]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Dirty Rat
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Dirty Rat[2/5] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Dirty Rat
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 공격 - Dirty Rat[2/4] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (5): Master Oakheart, Evasive Wyrm, Argent Commander, Summoning Stone, Shimmering Courser
+  Field: Tasty Flyfish[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (5)
+  Field: Dirty Rat[2/4]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Tasty Flyfish
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 공격 - Dirty Rat[2/4] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 카드 플레이 - Scavenger's Ingenuity (코스트: 2)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 공격 - Dirty Rat[2/4] -> Tasty Flyfish
+[Turn 6, Step 12] Opponent: 카드 플레이 - Snipe (코스트: 2)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Alleycat (코스트: 1)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Alleycat
+[Turn 7, Step 14] Agent: 카드 플레이 - Zealous Initiate (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/7
+  Hand (6): Master Oakheart, Evasive Wyrm, Argent Commander, Summoning Stone, Shimmering Courser, Eccentric Scribe
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (5)
+  Field: Dirty Rat[2/2], Alleycat[3/2], Tabbycat[1/1]
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Tabbycat
+[Turn 8, Step 17] Agent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 8, Step 18] Agent: 공격 - Evasive Wyrm[7/5] -> Dirty Rat
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): Master Oakheart, Argent Commander, Summoning Stone, Shimmering Courser, Eccentric Scribe, Moroes, Pompous Thespian
+  Field: Evasive Wyrm[7/5]
+Opponent: Rexxar HP: 30, Mana: 8/8
+  Hand (7)
+  Field: Alleycat[3/2]
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Alleycat
+[Turn 9, Step 21] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 24] Agent: 카드 플레이 - Moroes (코스트: 3)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/10
+  Hand (6): Master Oakheart, Argent Commander, Summoning Stone, Shimmering Courser, Pompous Thespian, Barnes
+  Field: Evasive Wyrm[7/5], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Moroes[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/9
+  Hand (7)
+  Field: Alleycat[3/1], Ragnaros the Firelord[8/8]
+[Turn 10, Step 25] Agent: 공격 - Vengeful Scroll[1/1] -> Ragnaros the Firelord
+[Turn 10, Step 26] Agent: 공격 - Vengeful Scroll[1/1] -> Alleycat
+[Turn 10, Step 27] Agent: 공격 - Evasive Wyrm[7/5] -> Ragnaros the Firelord
+[Turn 10, Step 28] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+[Turn 10, Step 29] Agent: 공격 - Vengeful Scroll[1/1] -> Ironfur Grizzly
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/10
+  Hand (6): Master Oakheart, Argent Commander, Summoning Stone, Shimmering Courser, Pompous Thespian, Barnes
+  Field: Vengeful Scroll[1/1], Moroes[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/9
+  Hand (7)
+  Field: Ironfur Grizzly[3/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Earthen Ring Farseer -> Ancient Harbinger (코스트: 3)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Guardian Augmerchant -> Pit Fighter (코스트: 1)
+[Turn 10, Step 31] Opponent: 공격 - Ironfur Grizzly[3/2] -> Steward
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 33] Agent: 카드 플레이 - Pompous Thespian (코스트: 2)
+[Turn 10, Step 34] Agent: 카드 플레이 - Shimmering Courser (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (4): Master Oakheart, Argent Commander, Summoning Stone, Worgen Abomination
+  Field: Vengeful Scroll[1/1], Moroes[1/1], Barnes[3/4], Pompous Thespian[3/2], Shimmering Courser[3/3]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (5)
+  Field: Ironfur Grizzly[3/1], Ancient Harbinger[4/6], Earthen Ring Farseer[3/3], Guardian Augmerchant[2/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Steward[1/1] -> Ancient Harbinger
+[Turn 10, Step 37] Agent: 공격 - Pompous Thespian[3/2] -> Earthen Ring Farseer
+[Turn 10, Step 38] Agent: 공격 - Vengeful Scroll[1/1] -> Ancient Harbinger
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Worgen Abomination[6/6] -> Barnes
+[Turn 10, Step 39] Opponent: 공격 - Guardian Augmerchant[2/1] -> Steward
+[Turn 10, Step 39] Opponent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 공격 - Ancient Harbinger[4/4] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (6): Master Oakheart, Argent Commander, Summoning Stone, Worgen Abomination, Silithid Swarmer, Saboteur
+  Field: Moroes[1/1], Shimmering Courser[3/3]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (4)
+  Field: Ancient Harbinger[4/2], Worgen Abomination[6/3], Twilight Drake[4/6], Lone Champion[2/4]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 공격 - Shimmering Courser[3/3] -> Rexxar
+[Turn 10, Step 42] Agent: 공격 - Moroes[1/1] -> Rexxar
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Lone Champion[2/4] -> Moroes
+[Turn 10, Step 43] Opponent: 공격 - Ancient Harbinger[4/2] -> Shimmering Courser
+[Turn 10, Step 43] Opponent: 공격 - Worgen Abomination[6/3] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 공격 - Twilight Drake[4/6] -> Steward
+[Turn 10, Step 43] Opponent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Dr. Boom (코스트: 1)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Pit Crocolisk -> Lone Champion (코스트: 8)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 2/10
+  Hand (6): Master Oakheart, Argent Commander, Summoning Stone, Worgen Abomination, Silithid Swarmer, Saboteur
+  Field: Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (5)
+  Field: Worgen Abomination[6/3], Twilight Drake[4/3], Jepetto Joybuzz[6/6], Boom Bot[1/1], Dr. Boom[1/1], Boom Bot[1/1]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Twilight Drake
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Jepetto Joybuzz[6/6] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (6): Master Oakheart, Argent Commander, Summoning Stone, Worgen Abomination, Silithid Swarmer, Saboteur
+  Field: Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (6)
+  Field: Worgen Abomination[6/3], Twilight Drake[4/2], Jepetto Joybuzz[6/6], Boom Bot[1/1], Dr. Boom[1/1], Boom Bot[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

@@ -1,0 +1,382 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Hunting Mastiff
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Kronx Dragonhoof, Kobold Geomancer, The Boogeymonster, Supreme Abyssal, Astral Rift, Boneguard Lieutenant, Gadgetzan Socialite
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 카드 플레이 - Gadgetzan Socialite -> Rexxar (코스트: 2)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 공격 - Gadgetzan Socialite[2/2] -> Wing Commander
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Goblin Prank -> Wing Commander (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/5
+  Hand (7): Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, Astral Rift, Boneguard Lieutenant, King Phaoris, The Voraxx
+  Field: Kobold Geomancer[2/2]
+Opponent: Rexxar HP: 30, Mana: 3/5
+  Hand (5)
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Call Pet (코스트: 2)
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 12] Agent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 6, Step 13] Agent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 6, Step 14] Agent: 공격 - Kobold Geomancer[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/6
+  Hand (6): Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, Astral Rift, King Phaoris, The Voraxx
+  Field: Kobold Geomancer[2/2], Boneguard Lieutenant[3/2], Swamp Dragon Egg[0/3]
+Opponent: Rexxar HP: 27, Mana: 2/6
+  Hand (6)
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Boneguard Lieutenant[3/2] -> Burly Rockjaw Trogg
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Swamp Dragon Egg
+[Turn 7, Step 18] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 7, Step 19] Agent: 공격 - Kobold Geomancer[2/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (6): Vulpera Scoundrel, Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, Astral Rift, King Phaoris
+  Field: Kobold Geomancer[2/2], Swamp Dragon Egg[0/2], The Voraxx[3/3]
+Opponent: Rexxar HP: 25, Mana: 1/7
+  Hand (6)
+  Field: Burly Rockjaw Trogg[3/2]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 공격 - The Voraxx[3/3] -> Silver Vanguard
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Beastmaster Leoroxx
+[Turn 8, Step 23] Agent: 공격 - Kobold Geomancer[2/2] -> Burly Rockjaw Trogg
+[Turn 8, Step 24] Agent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/8
+  Hand (6): Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, Astral Rift, King Phaoris, Frost Nova
+  Field: Swamp Dragon Egg[0/2], Vulpera Scoundrel[2/3]
+Opponent: Rexxar HP: 25, Mana: 1/8
+  Hand (6)
+  Field: Beastmaster Leoroxx[5/4]
+[Turn 8, Step 25] Agent: 선택 - Scorch
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Astral Rift (코스트: 2)
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Beastmaster Leoroxx
+[Turn 9, Step 28] Agent: 공격 - Vulpera Scoundrel[2/3] -> Beastmaster Leoroxx
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (10): Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, King Phaoris, Frost Nova, Scorch, Ironfur Grizzly, Unearthed Raptor, Wrathguard, Blizzard
+  Field: Swamp Dragon Egg[0/2]
+Opponent: Rexxar HP: 25, Mana: 3/10
+  Hand (7)
+  Field: Beastmaster Leoroxx[5/1], Bonechewer Vanguard[4/10]
+[Turn 10, Step 30] Agent: 카드 플레이 - Blizzard (코스트: 6)
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 카드 플레이 - Wrathguard (코스트: 2)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Sathrovarr -> Lightwarden (코스트: 9)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Sathrovarr
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (9): Kronx Dragonhoof, The Boogeymonster, Supreme Abyssal, King Phaoris, Frost Nova, Scorch, Ironfur Grizzly, Unearthed Raptor, Deranged Doctor
+  Field: Swamp Dragon Egg[0/2], Wrathguard[4/3]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (7)
+  Field: Bonechewer Vanguard[4/8], Lightwarden[1/2], Sathrovarr[5/4], Lightwarden[1/2]
+[Turn 10, Step 35] Agent: 카드 플레이 - Scorch -> Lightwarden (코스트: 4)
+[Turn 10, Step 36] Agent: 카드 플레이 - Ironfur Grizzly (코스트: 3)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Flying Machine (코스트: 3)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Duskhaven Hunter (코스트: 3)
+[Turn 10, Step 37] Opponent: 공격 - Bonechewer Vanguard[5/8] -> Ironfur Grizzly
+[Turn 10, Step 37] Opponent: 공격 - Lightwarden[1/2] -> Swamp Dragon Egg
+[Turn 10, Step 37] Opponent: 공격 - Rexxar[2/25] -> Swamp Dragon Egg
+[Turn 10, Step 37] Opponent: 공격 - Sathrovarr[5/4] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Lightwarden
+[Turn 10, Step 39] Agent: 카드 플레이 - Kronx Dragonhoof (코스트: 6)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (8): Blackwing Technician, The Boogeymonster, Supreme Abyssal, King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake
+  Field: Wrathguard[4/3], Kronx Dragonhoof[6/6]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (4)
+  Field: Bonechewer Vanguard[5/5], Lightwarden[1/2], Sathrovarr[5/4], Flying Machine[1/4], Lightwarden[1/1], Duskhaven Hunter[5/2]
+[Turn 10, Step 40] Agent: 공격 - Wrathguard[4/3] -> Bonechewer Vanguard
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 공격 - Rexxar[2/25] -> Jaina Proudmoore
+[Turn 10, Step 41] Opponent: 공격 - Lightwarden[1/2] -> Kronx Dragonhoof
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 10, Step 43] Agent: 공격 - Kronx Dragonhoof[6/5] -> Bonechewer Vanguard
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Lightwarden
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/10
+  Hand (8): Blackwing Technician, Supreme Abyssal, King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Ethereal Conjurer
+  Field: The Boogeymonster[6/7]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (5)
+  Field: Sathrovarr[5/4], Flying Machine[1/4], Duskhaven Hunter[5/2]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Sathrovarr[5/4] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 카드 플레이 - Chromaggus (코스트: 8)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 47] Agent: 공격 - The Boogeymonster[6/7] -> Chromaggus
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 6/10
+  Hand (9): Blackwing Technician, Supreme Abyssal, King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Ethereal Conjurer, Spellbender
+  Field: The Boogeymonster[6/1], Sen'jin Shieldmasta[3/5]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (7)
+  Field: Sathrovarr[5/4], Flying Machine[1/4], Duskhaven Hunter[5/2], Chromaggus[6/2]
+[Turn 10, Step 50] Agent: 공격 - The Boogeymonster[6/1] -> Chromaggus
+[Turn 10, Step 51] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 5)
+[Turn 10, Step 52] Agent: 선택 - Counterspell
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 10, Step 54] Agent: 공격 - Sen'jin Shieldmasta[3/5] -> Flying Machine
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 7/10
+  Hand (9): Supreme Abyssal, King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Spellbender, Counterspell, Nightblade
+  Field: Sen'jin Shieldmasta[3/4], Ethereal Conjurer[6/3], Blackwing Technician[3/5]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Sathrovarr[5/4], Flying Machine[1/1], Duskhaven Hunter[5/2]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Blackwing Technician
+[Turn 10, Step 56] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 10, Step 57] Agent: 공격 - Ethereal Conjurer[6/3] -> Rexxar
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Gazlowe (코스트: 6)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 10, Step 58] Opponent: 공격 - Duskhaven Hunter[5/2] -> Sen'jin Shieldmasta
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (9): Supreme Abyssal, King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Spellbender, Nightblade, Rocket Augmerchant
+  Field: Ethereal Conjurer[6/3], Blackwing Technician[3/4]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (7)
+  Field: Sathrovarr[5/4], Flying Machine[1/1], Gazlowe[3/6], Wailing Soul[3/5]
+[Turn 10, Step 60] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 61] Agent: 공격 - Blackwing Technician[3/4] -> Rexxar
+[Turn 10, Step 62] Agent: 공격 - Ethereal Conjurer[6/3] -> Gazlowe
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 카드 플레이 - Rocket Augmerchant -> Blackwing Technician (코스트: 1)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 9/10
+  Hand (8): King Phaoris, Frost Nova, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Spellbender, Nightblade, Mecharoo
+  Field: Blackwing Technician[3/3], Supreme Abyssal[12/12], Rocket Augmerchant[2/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+  Field: Sathrovarr[5/4], Flying Machine[1/1], Wailing Soul[3/5]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Wailing Soul
+[Turn 10, Step 66] Agent: 공격 - Blackwing Technician[3/3] -> Flying Machine
+[Turn 10, Step 67] Agent: 카드 플레이 - Frost Nova (코스트: 3)
+[Turn 10, Step 68] Agent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 10, Step 69] Agent: 카드 플레이 - Spellbender (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 0/10
+  Hand (5): King Phaoris, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Nightblade
+  Field: Blackwing Technician[3/2], Supreme Abyssal[12/12], Rocket Augmerchant[2/1], Mecharoo[1/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+  Field: Sathrovarr[5/4], Wailing Soul[3/4]
+[Turn 10, Step 70] Agent: 공격 - Supreme Abyssal[12/12] -> Wailing Soul
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 공격 - Sathrovarr[5/4] -> Blackwing Technician
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 공격 - Desert Hare[1/1] -> Lone Champion
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (6): King Phaoris, Unearthed Raptor, Deranged Doctor, Emberscale Drake, Nightblade, Frost Giant
+  Field: Supreme Abyssal[12/9], Rocket Augmerchant[2/1], Mecharoo[1/1], Desert Hare[1/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (7)
+  Field: Sathrovarr[5/1], Lightwarden[1/2], Lone Champion[2/4], Former Champ[1/1], Hotshot[5/5]
+[Turn 10, Step 75] Agent: 카드 플레이 - Unearthed Raptor -> Mecharoo (코스트: 3)
+[Turn 10, Step 76] Agent: 공격 - Supreme Abyssal[12/9] -> Lightwarden
+[Turn 10, Step 77] Agent: 공격 - Rocket Augmerchant[2/1] -> Lone Champion
+[Turn 10, Step 78] Agent: 공격 - Mecharoo[1/1] -> Sathrovarr
+[Turn 10, Step 79] Agent: 카드 플레이 - Frost Giant (코스트: 0)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 7/10
+  Hand (4): King Phaoris, Deranged Doctor, Emberscale Drake, Nightblade
+  Field: Supreme Abyssal[12/8], Jo-E Bot[1/1], Desert Hare[1/1], Desert Hare[1/1], Unearthed Raptor[3/4], Frost Giant[8/8]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (7)
+  Field: Lone Champion[2/2], Former Champ[1/1], Hotshot[5/5]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Hotshot
+[Turn 10, Step 81] Agent: 카드 플레이 - Nightblade (코스트: 5)
+[Turn 10, Step 82] Agent: 공격 - Desert Hare[1/1] -> Hotshot
+[Turn 10, Step 83] Agent: 공격 - Desert Hare[1/1] -> Hotshot
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 공격 - Lone Champion[2/2] -> Jo-E Bot
+[Turn 10, Step 84] Opponent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 10, Step 84] Opponent: 공격 - Former Champ[1/1] -> Supreme Abyssal
+[Turn 10, Step 84] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (4): King Phaoris, Deranged Doctor, Emberscale Drake, Core Hound
+  Field: Supreme Abyssal[12/7], Unearthed Raptor[3/4], Frost Giant[8/8], Nightblade[4/4]
+Opponent: Rexxar HP: 13, Mana: 5/10
+  Hand (7)
+  Field: Lone Champion[2/1], Hotshot[5/2], Sandbinder[2/4], Wretched Tiller[1/1]
+[Turn 10, Step 85] Agent: 공격 - Unearthed Raptor[3/4] -> Rexxar
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Lone Champion
+[Turn 10, Step 87] Agent: 공격 - Nightblade[4/4] -> Wretched Tiller
+[Turn 10, Step 88] Agent: 공격 - Frost Giant[8/8] -> Sandbinder
+[Turn 10, Step 89] Agent: 공격 - Supreme Abyssal[12/7] -> Hotshot
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (4): King Phaoris, Deranged Doctor, Emberscale Drake, Core Hound
+  Field: Supreme Abyssal[12/2], Unearthed Raptor[3/4], Frost Giant[8/6], Nightblade[4/3]
+Opponent: Rexxar HP: 10, Mana: 5/10
+  Hand (7)
+[Turn 10, Step 90] Agent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 10, Step 91] Opponent: 영웅 능력 사용
+[Turn 10, Step 91] Opponent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Core Hound
+[Turn 10, Step 93] Agent: 공격 - Frost Giant[8/6] -> Wax Elemental
+[Turn 10, Step 94] Agent: 공격 - Supreme Abyssal[12/2] -> Wax Elemental
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (4): King Phaoris, Deranged Doctor, Emberscale Drake, Deathaxe Punisher
+  Field: Supreme Abyssal[12/2], Unearthed Raptor[3/4], Frost Giant[8/6], Nightblade[4/3], Core Hound[9/4]
+Opponent: Rexxar HP: 10, Mana: 4/10
+  Hand (6)
+  Field: Dread Raven[6/4]
+[Turn 10, Step 95] Agent: 카드 플레이 - Deranged Doctor (코스트: 8)
+[Turn 10, Step 96] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 96] Opponent: 공격 - Dread Raven[6/4] -> Unearthed Raptor
+[Turn 10, Step 96] Opponent: 턴 종료
+[Turn 10, Step 97] Agent: 공격 - Nightblade[4/3] -> Dread Raven
+[Turn 10, Step 98] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 99] Agent: 공격 - Deranged Doctor[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (4): King Phaoris, Emberscale Drake, Deathaxe Punisher, Big Bad Archmage
+  Field: Supreme Abyssal[12/2], Jo-E Bot[1/1], Frost Giant[8/6], Core Hound[9/4], Deranged Doctor[8/8]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 100] Agent: 공격 - Jo-E Bot[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 101) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (4): King Phaoris, Emberscale Drake, Deathaxe Punisher, Big Bad Archmage
+  Field: Supreme Abyssal[12/2], Jo-E Bot[1/1], Frost Giant[8/6], Core Hound[9/4], Deranged Doctor[8/8]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

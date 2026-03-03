@@ -1,0 +1,219 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Drakkari Trickster, Hogger, Corrupted Healbot, Counterspell, History Buff, Frigid Snobold
+  Field: Spitting Camel[2/4]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Ravasaur Runt[2/2]
+[Turn 4, Step 5] Agent: 공격 - Spitting Camel[2/4] -> Rexxar
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 5, Step 9] Agent: 공격 - Spitting Camel[2/4] -> Ravasaur Runt
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (6): Drakkari Trickster, Hogger, Corrupted Healbot, Counterspell, Frigid Snobold, Tainted Zealot
+  Field: Spitting Camel[2/2], History Buff[3/4]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 공격 - Tainted Zealot[1/1] -> Blubber Baron
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Temple Berserker
+[Turn 6, Step 14] Agent: 공격 - Spitting Camel[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/6
+  Hand (6): Drakkari Trickster, Hogger, Corrupted Healbot, Counterspell, Frigid Snobold, Tanglefur Mystic
+  Field: Spitting Camel[2/2], History Buff[3/4]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (6)
+  Field: Temple Berserker[3/1], Blubber Baron[2/1]
+[Turn 6, Step 15] Agent: 카드 플레이 - Frigid Snobold (코스트: 4)
+[Turn 6, Step 16] Agent: 공격 - History Buff[3/4] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 공격 - Frigid Snobold[2/5] -> Blubber Baron
+[Turn 7, Step 19] Agent: 카드 플레이 - Blood Knight (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/7
+  Hand (5): Drakkari Trickster, Hogger, Corrupted Healbot, Counterspell, Tanglefur Mystic
+  Field: Spitting Camel[2/2], History Buff[3/4], Frigid Snobold[2/3], Blood Knight[3/3]
+Opponent: Rexxar HP: 22, Mana: 2/6
+  Hand (6)
+  Field: Temple Berserker[3/1], Sunfury Protector[2/3]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Spitting Camel
+[Turn 7, Step 21] Agent: 공격 - History Buff[3/4] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Spitting Camel[2/1] -> Temple Berserker
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Linecracker (코스트: 7)
+[Turn 7, Step 23] Opponent: 공격 - Sunfury Protector[2/3] -> Jaina Proudmoore
+[Turn 7, Step 23] Opponent: 공격 - Temple Berserker[3/1] -> History Buff
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - History Buff[3/1] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (6): Griftah, Drakkari Trickster, Hogger, Corrupted Healbot, Counterspell, Tanglefur Mystic
+  Field: History Buff[3/1], Frigid Snobold[2/3], Blood Knight[3/3]
+Opponent: Rexxar HP: 16, Mana: 0/7
+  Hand (6)
+  Field: Sunfury Protector[2/3], Linecracker[5/10]
+[Turn 8, Step 25] Agent: 공격 - Blood Knight[3/3] -> Sunfury Protector
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Blood Knight
+[Turn 8, Step 27] Agent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 8, Step 28] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 8, Step 29] Agent: 공격 - Frigid Snobold[2/3] -> Linecracker
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (5): Griftah, Hogger, Corrupted Healbot, Tanglefur Mystic, Effigy
+  Field: History Buff[3/1], Drakkari Trickster[3/4]
+Opponent: Rexxar HP: 16, Mana: 0/7
+  Hand (7)
+  Field: Linecracker[5/8]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 공격 - Drakkari Trickster[3/4] -> Rexxar
+[Turn 9, Step 32] Agent: 카드 플레이 - Effigy (코스트: 3)
+[Turn 9, Step 33] Agent: 카드 플레이 - Corrupted Healbot (코스트: 5)
+[Turn 9, Step 34] Agent: 공격 - History Buff[3/1] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/9
+  Hand (4): Griftah, Hogger, Tanglefur Mystic, Hippogryph
+  Field: History Buff[3/1], Drakkari Trickster[3/4], Corrupted Healbot[7/7]
+Opponent: Rexxar HP: 10, Mana: 8/8
+  Hand (8)
+  Field: Linecracker[5/8]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 9, Step 35] Opponent: 카드 플레이 - Cobra Shot -> History Buff (코스트: 5)
+[Turn 9, Step 35] Opponent: 공격 - Linecracker[5/8] -> History Buff
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Linecracker
+[Turn 10, Step 37] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 10, Step 38] Agent: 공격 - Drakkari Trickster[3/4] -> Rexxar
+[Turn 10, Step 39] Agent: 공격 - Moroes[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/10
+  Hand (5): Griftah, Hogger, Hippogryph, Faceless Summoner, Nerub'ar Weblord
+  Field: Drakkari Trickster[3/4], Corrupted Healbot[7/7], Moroes[1/1], Tanglefur Mystic[4/5]
+Opponent: Rexxar HP: 6, Mana: 0/9
+  Hand (8)
+  Field: Linecracker[10/4], Phantom Freebooter[3/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Raptor Hatchling (코스트: 1)
+[Turn 10, Step 41] Opponent: 공격 - Phantom Freebooter[3/3] -> Hippogryph
+[Turn 10, Step 41] Opponent: 공격 - Linecracker[10/4] -> Hippogryph
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Drakkari Trickster[3/4] -> Bloodworm
+[Turn 10, Step 43] Agent: 공격 - Moroes[1/1] -> Phantom Freebooter
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (5): Griftah, Hogger, Faceless Summoner, Nerub'ar Weblord, Reckless Rocketeer
+  Field: Corrupted Healbot[7/7], Steward[1/1], Tanglefur Mystic[4/5]
+Opponent: Rexxar HP: 10, Mana: 0/10
+  Hand (6)
+  Field: Linecracker[20/2], Ancient Mage[2/5], Bloodworm[4/1], Raptor Hatchling[2/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Stampeding Kodo (코스트: 5)
+[Turn 10, Step 46] Opponent: 공격 - Raptor Hatchling[2/1] -> Gnoll
+[Turn 10, Step 46] Opponent: 공격 - Linecracker[20/2] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 공격 - Bloodworm[4/1] -> Tanglefur Mystic
+[Turn 10, Step 46] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 10, Step 46] Opponent: 공격 - Ancient Mage[2/5] -> Corrupted Healbot
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Volcanic Drake (코스트: 1)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Tanglefur Mystic[4/1] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Hogger[5/5] -> Rexxar
+[Turn 10, Step 49] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (4): Griftah, Faceless Summoner, Nerub'ar Weblord, Reckless Rocketeer
+  Field: Corrupted Healbot[7/5], Tanglefur Mystic[4/1], Hogger[5/5], Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (4)
+  Field: Linecracker[20/2], Stampeding Kodo[3/5], Ancient Watcher[4/5], Volcanic Drake[6/4]
+[Turn 10, Step 50] Agent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 10, Step 51] Agent: 공격 - Corrupted Healbot[7/5] -> Ancient Watcher
+[Turn 10, Step 52] Agent: 공격 - Reckless Rocketeer[5/2] -> Linecracker
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Argent Protector -> Psych-o-Tron (코스트: 2)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 10, Step 53] Opponent: 공격 - Volcanic Drake[6/4] -> Gnoll
+[Turn 10, Step 53] Opponent: 공격 - Stampeding Kodo[3/5] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (3): Griftah, Faceless Summoner, Nerub'ar Weblord
+  Field: Corrupted Healbot[7/1], Tanglefur Mystic[4/1], Hogger[5/5], Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (2)
+  Field: Stampeding Kodo[3/5], Volcanic Drake[6/2], Psych-o-Tron[3/4], Argent Protector[2/2], Hench-Clan Sneak[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

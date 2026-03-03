@@ -1,0 +1,296 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(95) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Fire Fly (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 2, Step 2] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/3
+  Hand (5): Fungal Enchanter, Stoneskin Basilisk, Teron Gorefiend, Dragoncaster, Blackwing Technician
+  Field: Potion Vendor[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+  Field: Fire Fly[1/2], Flame Elemental[1/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(32) → 6로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 3, Step 6] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 영웅 능력 사용
+[Turn 3, Step 7] Opponent: 공격 - Flame Elemental[1/2] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 공격 - Fire Fly[1/2] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Stoneskin Basilisk (코스트: 3)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 4, Step 9] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/4
+  Hand (5): Fungal Enchanter, Teron Gorefiend, Dragoncaster, Blackwing Technician, Lost Tallstrider
+  Field: Potion Vendor[1/1], Stoneskin Basilisk[1/1]
+Opponent: Rexxar HP: 26, Mana: 1/3
+  Hand (6)
+  Field: Fire Fly[1/2], Flame Elemental[1/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Flame Elemental[1/2] -> Potion Vendor
+[Turn 4, Step 10] Opponent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 4, Step 10] Opponent: 공격 - Fire Fly[1/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Fungal Enchanter (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Fire Fly
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(66) → 10로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Proud Defender
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/6
+  Hand (6): Teron Gorefiend, Dragoncaster, Blackwing Technician, Lost Tallstrider, Mana Addict, Countess Ashmore
+  Field: Stoneskin Basilisk[1/1], Fungal Enchanter[3/3]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (7)
+  Field: Fire Fly[1/1], Flame Elemental[1/1], Proud Defender[2/5]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 6, Step 16] Agent: 공격 - Fungal Enchanter[3/3] -> Proud Defender
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 6, Step 17] Agent: 공격 - Stoneskin Basilisk[1/1] -> Proud Defender
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(67) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 6, Step 18] Opponent: 공격 - Fire Fly[1/1] -> Mana Addict
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(36) → 13로 보정
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Coldlight Seer
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/7
+  Hand (6): Teron Gorefiend, Dragoncaster, Blackwing Technician, Lost Tallstrider, Countess Ashmore, Grimscale Oracle
+  Field: Stoneskin Basilisk[1/1], Fungal Enchanter[3/1], Mana Addict[1/2]
+Opponent: Rexxar HP: 26, Mana: 3/6
+  Hand (7)
+  Field: Flame Elemental[1/1], Coldlight Seer[2/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 7, Step 20] Agent: 공격 - Stoneskin Basilisk[1/1] -> Flame Elemental
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 7, Step 21] Opponent: 공격 - Coldlight Seer[2/2] -> Fungal Enchanter
+[Turn 7, Step 21] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 2)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(35) → 12로 보정
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(36) → 8로 보정
+[Turn 8, Step 23] Agent: 공격 - Hellfire Warder[1/3] -> Rexxar
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Nerubian Prophet[4/4] -> Hellfire Warder
+[Turn 8, Step 24] Opponent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 8, Step 24] Opponent: 영웅 능력 사용
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 9/9
+  Hand (8): Teron Gorefiend, Dragoncaster, Blackwing Technician, Lost Tallstrider, Countess Ashmore, Grimscale Oracle, Nerub'ar Weblord, Sindragosa
+  Field: Mana Addict[1/2], Hellfire Warder[1/2], Hellfire Warder[1/3]
+Opponent: Rexxar HP: 25, Mana: 4/8
+  Hand (6)
+  Field: Magtheridon[12/12], Nerubian Prophet[4/3], Unpowered Mauler[2/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(72) → 22로 보정
+[Turn 9, Step 25] Agent: 공격 - Hellfire Warder[1/3] -> Rexxar
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(78) → 12로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(49) → 7로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 9, Step 29] Agent: 공격 - Mana Addict[1/2] -> Nerubian Prophet
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/9
+  Hand (6): Teron Gorefiend, Dragoncaster, Blackwing Technician, Countess Ashmore, Grimscale Oracle, Sindragosa
+  Field: Hellfire Warder[1/2], Hellfire Warder[1/2], Nerub'ar Weblord[1/4], Lost Tallstrider[5/4]
+Opponent: Rexxar HP: 24, Mana: 4/8
+  Hand (6)
+  Field: Magtheridon[12/12], Nerubian Prophet[4/2], Unpowered Mauler[2/4]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 9, Step 30] Agent: 공격 - Hellfire Warder[1/2] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 9, Step 31] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(75) → 13로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Nerub'ar Weblord
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Nerubian Prophet[4/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Leatherclad Hogleader (코스트: 8)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Azure Drake, Teron Gorefiend, Dragoncaster, Blackwing Technician, Countess Ashmore, Sindragosa, Batterhead
+  Field: Hellfire Warder[1/2], Hellfire Warder[1/2], Nerub'ar Weblord[1/3], Lost Tallstrider[5/4], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 23, Mana: 2/10
+  Hand (7)
+  Field: Magtheridon[12/12], Nerubian Prophet[4/2], Unpowered Mauler[2/4], Leatherclad Hogleader[6/6]
+[Turn 10, Step 35] Agent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(92) → 22로 보정
+[Turn 10, Step 36] Agent: 공격 - Nerub'ar Weblord[1/3] -> Unpowered Mauler
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Leatherclad Hogleader
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Azure Drake (코스트: 7)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (7): Teron Gorefiend, Dragoncaster, Blackwing Technician, Countess Ashmore, Sindragosa, Serpent Ward, Stonehill Defender
+  Field: Hellfire Warder[1/2], Hellfire Warder[1/2], Nerub'ar Weblord[1/1], Lost Tallstrider[5/4], Grimscale Oracle[1/1], Batterhead[3/12], Azure Drake[4/4]
+Opponent: Rexxar HP: 23, Mana: 8/10
+  Hand (8)
+  Field: Magtheridon[12/12], Nerubian Prophet[4/2], Unpowered Mauler[2/3], Leatherclad Hogleader[6/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(49) → 24로 보정
+[Turn 10, Step 40] Agent: 공격 - Batterhead[3/12] -> Leatherclad Hogleader
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 공격 - Nerubian Prophet[4/2] -> Lost Tallstrider
+[Turn 10, Step 41] Opponent: 공격 - Leatherclad Hogleader[6/2] -> Hellfire Warder
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Azure Drake[4/4] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(46) → 16로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Batterhead
+[Turn 10, Step 44] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (8): Teron Gorefiend, Dragoncaster, Blackwing Technician, Countess Ashmore, Sindragosa, Serpent Ward, Stonehill Defender, Ogre Brute
+  Field: Hellfire Warder[1/2], Nerub'ar Weblord[1/1], Grimscale Oracle[1/1], Batterhead[3/5], Azure Drake[4/4]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (9)
+  Field: Magtheridon[12/12], Unpowered Mauler[2/3], Leatherclad Hogleader[6/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(28) → 13로 보정
+[Turn 10, Step 45] Agent: 공격 - Batterhead[3/5] -> Unpowered Mauler
+[Turn 10, Step 46] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 47] Agent: 공격 - Batterhead[3/3] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 48] Agent: 공격 - Nerub'ar Weblord[1/1] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Blackwing Technician (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (6): Teron Gorefiend, Dragoncaster, Countess Ashmore, Sindragosa, Serpent Ward, Stonehill Defender
+  Field: Hellfire Warder[1/2], Nerub'ar Weblord[1/1], Grimscale Oracle[1/1], Batterhead[3/3], Azure Drake[4/4], Ogre Brute[4/4], Blackwing Technician[3/5]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (9)
+  Field: Magtheridon[12/12], Leatherclad Hogleader[6/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 50] Agent: 공격 - Hellfire Warder[1/2] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Fossilized Devilsaur (코스트: 10)
+[Turn 10, Step 51] Opponent: 공격 - Leatherclad Hogleader[6/1] -> Nerub'ar Weblord
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(93) → 6로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Serpent Ward (코스트: 2)
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(40) → 1로 보정
+[Turn 10, Step 54] Agent: 공격 - Hellfire Warder[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (6): Hippogryph, Teron Gorefiend, Dragoncaster, Countess Ashmore, Sindragosa, Stonehill Defender
+  Field: Hellfire Warder[1/1], Grimscale Oracle[1/1], Batterhead[3/3], Azure Drake[4/4], Ogre Brute[4/4], Blackwing Technician[3/5], Serpent Ward[0/2]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (9)
+  Field: Magtheridon[12/12], Fossilized Devilsaur[8/8]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 10, Step 55] Agent: 공격 - Grimscale Oracle[1/1] -> Fossilized Devilsaur
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 56] Agent: 공격 - Ogre Brute[4/4] -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 57] Agent: 공격 - Azure Drake[4/4] -> Fossilized Devilsaur
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 10, Step 59] Agent: 공격 - Blackwing Technician[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (5): Teron Gorefiend, Dragoncaster, Countess Ashmore, Sindragosa, Stonehill Defender
+  Field: Hellfire Warder[1/1], Batterhead[3/3], Ogre Brute[4/4], Blackwing Technician[3/5], Serpent Ward[0/2], Hippogryph[2/6]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (9)
+  Field: Magtheridon[12/12], Fossilized Devilsaur[8/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 60] Agent: 공격 - Batterhead[3/3] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 10, Step 61] Agent: 공격 - Hippogryph[2/6] -> Fossilized Devilsaur
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (5): Teron Gorefiend, Dragoncaster, Countess Ashmore, Sindragosa, Stonehill Defender
+  Field: Hellfire Warder[1/1], Batterhead[3/3], Ogre Brute[4/4], Blackwing Technician[3/5], Serpent Ward[0/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (9)
+  Field: Magtheridon[12/12], Fossilized Devilsaur[8/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,355 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 4, Step 4] Agent: 카드 플레이 - Piloted Shredder (코스트: 4)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (8): Bolf Ramshield, Blingtron 3000, Mogu'shan Warden, Scarlet Crusader, Moat Lurker, The Coin, Archivist Elysiana, Dragonhatcher
+  Field: Piloted Shredder[4/3]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 5, Step 7] Agent: 공격 - Piloted Shredder[4/3] -> Rexxar
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(12) → 4로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/5
+  Hand (7): Bolf Ramshield, Blingtron 3000, Mogu'shan Warden, Moat Lurker, Archivist Elysiana, Dragonhatcher, Tunnel Blaster
+  Field: Piloted Shredder[4/3], Scarlet Crusader[3/1]
+Opponent: Rexxar HP: 26, Mana: 2/5
+  Hand (7)
+  Field: Toxic Sewer Ooze[4/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 5, Step 10] Opponent: 공격 - Toxic Sewer Ooze[4/3] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(39) → 19로 보정
+[Turn 6, Step 11] Agent: 공격 - Scarlet Crusader[3/1] -> Bomb Lobber
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Moat Lurker -> Piloted Shredder (코스트: 6)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 공격 - Radiant Elemental[2/3] -> Toxic Sewer Ooze
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (8): Bolf Ramshield, Blingtron 3000, Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Void Ripper
+  Field: Moat Lurker[3/3]
+Opponent: Rexxar HP: 26, Mana: 7/7
+  Hand (8)
+  Field: Toxic Sewer Ooze[4/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Blingtron 3000 (코스트: 5)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 7, Step 17] Opponent: 공격 - Leeroy Jenkins[6/2] -> Moat Lurker
+[Turn 7, Step 17] Opponent: 공격 - Toxic Sewer Ooze[4/1] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 공격 - Rexxar[3/26] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 선택 - Revenge of the Wild
+[Turn 7, Step 17] Opponent: 영웅 능력 사용
+[Turn 7, Step 17] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Blingtron 3000
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 9/9
+  Hand (9): Bolf Ramshield, Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Void Ripper, Boulderfist Ogre, Transmogrifier
+  Field: Piloted Shredder[4/3], Blingtron 3000[3/3], Whelp[1/1], Whelp[1/1]
+Opponent: Rexxar HP: 26, Mana: 6/9
+  Hand (7)
+  Field: Toxic Sewer Ooze[4/1], Wretched Tiller[1/1], Fire Hawk[9/3]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(50) → 11로 보정
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 공격 - Whelp[1/1] -> Wretched Tiller
+[Turn 10, Step 23] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 6/10
+  Hand (9): Bolf Ramshield, Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Void Ripper, Boulderfist Ogre, Light's Champion
+  Field: Piloted Shredder[4/3], Blingtron 3000[3/3], Whelp[1/1], Transmogrifier[2/3]
+Opponent: Rexxar HP: 25, Mana: 5/10
+  Hand (7)
+  Field: Toxic Sewer Ooze[4/1], Fire Hawk[9/3], Red Mana Wyrm[2/6]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 26] Agent: 공격 - Piloted Shredder[4/3] -> Toxic Sewer Ooze
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 27] Agent: 공격 - Blingtron 3000[3/3] -> Red Mana Wyrm
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(25) → 4로 보정
+[Turn 10, Step 28] Agent: 공격 - Jaina Proudmoore[2/12] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Stoneskin Basilisk (코스트: 3)
+[Turn 10, Step 29] Opponent: 카드 플레이 - Blood Knight (코스트: 3)
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (9): Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Void Ripper, Boulderfist Ogre, Light's Champion, Brightwing
+  Field: Shotbot[2/2], Blingtron 3000[3/1], Whelp[1/1], Transmogrifier[2/3], Bolf Ramshield[3/9]
+Opponent: Rexxar HP: 23, Mana: 4/10
+  Hand (6)
+  Field: Fire Hawk[9/3], Red Mana Wyrm[2/3], Stoneskin Basilisk[1/1], Blood Knight[6/6]
+[Turn 10, Step 30] Agent: 공격 - Jaina Proudmoore[2/12] -> Blood Knight
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(52) → 6로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Void Ripper (코스트: 3)
+[Turn 10, Step 32] Agent: 공격 - Transmogrifier[3/2] -> Stoneskin Basilisk
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(73) → 9로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Whelp
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Brightwing (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 2/10
+  Hand (8): Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Boulderfist Ogre, Light's Champion, Sathrovarr
+  Field: Shotbot[2/2], Blingtron 3000[1/3], Bolf Ramshield[3/3], Void Ripper[3/3], Brightwing[3/2]
+Opponent: Rexxar HP: 23, Mana: 4/10
+  Hand (6)
+  Field: Fire Hawk[3/9], Red Mana Wyrm[3/2], Blood Knight[4/6]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(74) → 9로 보정
+[Turn 10, Step 35] Agent: 공격 - Bolf Ramshield[3/3] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 10, Step 36] Agent: 공격 - Blingtron 3000[1/3] -> Red Mana Wyrm
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 37] Agent: 공격 - Shotbot[2/2] -> Blood Knight
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Shotbot[2/1] -> Shrieking Shroom
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (9): Squirming Tentacle, Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Mosh'Ogg Enforcer, Boulderfist Ogre, Light's Champion, Sathrovarr
+  Field: Bolf Ramshield[3/3], Void Ripper[3/3], Brightwing[3/2]
+Opponent: Rexxar HP: 20, Mana: 7/10
+  Hand (6)
+  Field: Fire Hawk[3/9], Red Mana Wyrm[3/1], Blood Knight[4/4], Imprisoned Sungill[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(60) → 28로 보정
+[Turn 10, Step 40] Agent: 공격 - Brightwing[3/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(42) → 14로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Fire Hawk
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Mosh'Ogg Enforcer (코스트: 8)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 43] Agent: 공격 - Bolf Ramshield[3/3] -> Fire Hawk
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Void Ripper[3/3] -> Blood Knight
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (8): Squirming Tentacle, Mogu'shan Warden, Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr
+  Field: Brightwing[3/2], Mosh'Ogg Enforcer[2/14]
+Opponent: Rexxar HP: 17, Mana: 7/10
+  Hand (6)
+  Field: Fire Hawk[3/5], Red Mana Wyrm[3/1], Blood Knight[4/1], Imprisoned Sungill[2/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Rexxar[3/17] -> Mosh'Ogg Enforcer
+[Turn 10, Step 45] Opponent: 선택 - Tracking
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(40) → 10로 보정
+[Turn 10, Step 47] Agent: 공격 - Brightwing[3/2] -> Blood Knight
+[Turn 10, Step 48] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (7): Archivist Elysiana, Dragonhatcher, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stargazer Luna
+  Field: Mosh'Ogg Enforcer[2/14], Mogu'shan Warden[1/7], Squirming Tentacle[2/4]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (8)
+  Field: Fire Hawk[3/5], Red Mana Wyrm[3/1], Imprisoned Sungill[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Mosh'Ogg Enforcer[2/14] -> Red Mana Wyrm
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Moat Lurker -> Imprisoned Sungill (코스트: 6)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Helboar (코스트: 1)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 10, Step 51] Opponent: 공격 - Rexxar[3/15] -> Mosh'Ogg Enforcer
+[Turn 10, Step 51] Opponent: 선택 - Bestial Wrath
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(64) → 12로 보정
+[Turn 10, Step 53] Agent: 공격 - Mogu'shan Warden[1/7] -> Helboar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 54] Agent: 공격 - Mosh'Ogg Enforcer[2/8] -> Sungill Streamrunner
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (7): Archivist Elysiana, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stargazer Luna, Rustsworn Cultist
+  Field: Mosh'Ogg Enforcer[2/7], Mogu'shan Warden[1/5], Dragonhatcher[2/4]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: Fire Hawk[3/5], Sungill Streamrunner[1/1], Moat Lurker[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Fire Hawk[3/5] -> Mosh'Ogg Enforcer
+[Turn 10, Step 55] Opponent: 카드 플레이 - Shu'ma (코스트: 7)
+[Turn 10, Step 55] Opponent: 공격 - Moat Lurker[3/3] -> Mosh'Ogg Enforcer
+[Turn 10, Step 55] Opponent: 공격 - Sungill Streamrunner[1/1] -> Mogu'shan Warden
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Mosh'Ogg Enforcer[2/1] -> Rexxar
+[Turn 10, Step 57] Agent: 공격 - Dragonhatcher[2/4] -> Shu'ma
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(69) → 28로 보정
+[Turn 10, Step 58] Agent: 공격 - Mogu'shan Warden[1/4] -> Tentacle
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Bonemare -> Shu'ma (코스트: 8)
+[Turn 10, Step 59] Opponent: 공격 - Moat Lurker[3/1] -> Mosh'Ogg Enforcer
+[Turn 10, Step 59] Opponent: 공격 - Tentacle[1/1] -> Mogu'shan Warden
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (9): Venture Co. Mercenary, Archivist Elysiana, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stargazer Luna, Rustsworn Cultist, Stormwind Knight
+  Field: Mogu'shan Warden[1/2], Dragonhatcher[2/3], Crowd Roaster[7/4]
+Opponent: Rexxar HP: 11, Mana: 2/10
+  Hand (6)
+  Field: Fire Hawk[3/3], Imprisoned Sungill[2/1], Shu'ma[5/9], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Bonemare[5/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(95) → 17로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Crowd Roaster
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(39) → 6로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 10, Step 62] Agent: 공격 - Dragonhatcher[2/3] -> Shu'ma
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(91) → 15로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Guardian Augmerchant -> Shu'ma (코스트: 1)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 9/10
+  Hand (8): Venture Co. Mercenary, Archivist Elysiana, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stargazer Luna, Stormwind Knight
+  Field: Mogu'shan Warden[1/2], Crowd Roaster[7/3], Rustsworn Cultist[3/3], Rusted Devil[1/1], Guardian Augmerchant[2/1]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (7)
+  Field: Fire Hawk[3/3], Imprisoned Sungill[2/1], Shu'ma[5/6], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Bonemare[5/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Tentacle[1/1] -> Mogu'shan Warden
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(77) → 11로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(68) → 14로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Bonemare
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 69] Agent: 공격 - Rustsworn Cultist[3/3] -> Shu'ma
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/10
+  Hand (8): Venture Co. Mercenary, Archivist Elysiana, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stormwind Knight, Validated Doomsayer
+  Field: Mogu'shan Warden[1/1], Crowd Roaster[7/3], Rusted Devil[1/1], Guardian Augmerchant[2/1], Stargazer Luna[2/4], Explosive Sheep[1/1]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (8)
+  Field: Fire Hawk[3/3], Imprisoned Sungill[2/1], Shu'ma[5/6], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Bonemare[5/4]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Tentacle[1/1] -> Mogu'shan Warden
+[Turn 10, Step 70] Opponent: 공격 - Bonemare[5/4] -> Stargazer Luna
+[Turn 10, Step 70] Opponent: 카드 플레이 - Sea Giant (코스트: 0)
+[Turn 10, Step 70] Opponent: 공격 - Imprisoned Sungill[2/1] -> Rusted Devil
+[Turn 10, Step 70] Opponent: 공격 - Fire Hawk[3/3] -> Jaina Proudmoore
+[Turn 10, Step 70] Opponent: 카드 플레이 - Infested Tauren (코스트: 4)
+[Turn 10, Step 70] Opponent: 공격 - Shu'ma[5/6] -> Jaina Proudmoore
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 72) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (9): Venture Co. Mercenary, Archivist Elysiana, Tunnel Blaster, Boulderfist Ogre, Light's Champion, Sathrovarr, Stormwind Knight, Validated Doomsayer, Djinni of Zephyrs
+  Field: Crowd Roaster[7/3], Guardian Augmerchant[2/1], Explosive Sheep[1/1], Rusted Devil[1/1]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (7)
+  Field: Fire Hawk[3/3], Shu'ma[5/6], Tentacle[1/1], Tentacle[1/1], Bonemare[5/2], Sea Giant[8/8], Infested Tauren[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

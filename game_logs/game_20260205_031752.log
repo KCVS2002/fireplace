@@ -1,0 +1,244 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Halazzi, the Lynx
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Elven Archer -> Rexxar (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/3
+  Hand (7): Big Game Hunter, Ice Lance, C'Thun's Chosen, Necrotic Geist, The Coin, Onyxia, Wargear
+  Field: Elven Archer[1/1]
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (5)
+  Field: Whirliglider[2/1], Goblin Bomb[0/1]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Elven Archer
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Ice Lance -> Whirliglider (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/4
+  Hand (6): Big Game Hunter, C'Thun's Chosen, Necrotic Geist, Onyxia, Wargear, Spellbreaker
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: Whirliglider[2/1], Goblin Bomb[0/1], Questing Explorer[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Whirliglider[2/1] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 카드 플레이 - Streetwise Investigator (코스트: 5)
+[Turn 4, Step 10] Opponent: 공격 - Questing Explorer[2/3] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(44) → 14로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Streetwise Investigator
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(81) → 12로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (7): Sideshow Spelleater, Big Game Hunter, C'Thun's Chosen, Necrotic Geist, Onyxia, Wargear, Spellbreaker
+  Field: Living Dragonbreath[3/4]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (6)
+  Field: Whirliglider[2/1], Goblin Bomb[0/1], Questing Explorer[2/3], Streetwise Investigator[4/5]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Spellbreaker -> Whirliglider (코스트: 4)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 6, Step 16] Agent: 공격 - Living Dragonbreath[3/4] -> Rexxar
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Acherus Veteran -> Living Dragonbreath (코스트: 1)
+[Turn 7, Step 19] Agent: 공격 - Spellbreaker[4/3] -> Goblin Bomb
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/7
+  Hand (6): Sideshow Spelleater, Big Game Hunter, C'Thun's Chosen, Necrotic Geist, Onyxia, Wargear
+  Field: Living Dragonbreath[4/4], Spellbreaker[4/3], Acherus Veteran[2/1]
+Opponent: Rexxar HP: 24, Mana: 7/7
+  Hand (7)
+  Field: Whirliglider[2/1], Questing Explorer[2/3], Streetwise Investigator[4/5]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 7, Step 21] Agent: 공격 - Living Dragonbreath[4/4] -> Whirliglider
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Flare (코스트: 2)
+[Turn 7, Step 22] Opponent: 공격 - Streetwise Investigator[4/5] -> Wargear
+[Turn 7, Step 22] Opponent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(65) → 11로 보정
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Acherus Veteran
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/8
+  Hand (6): Sideshow Spelleater, Big Game Hunter, C'Thun's Chosen, Necrotic Geist, Onyxia, Muck Hunter
+  Field: Living Dragonbreath[4/2], Spellbreaker[4/3], Wargear[5/1], Volatile Elemental[1/1]
+Opponent: Rexxar HP: 24, Mana: 0/8
+  Hand (8)
+  Field: Questing Explorer[2/3], Utgarde Grapplesniper[5/5]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 8, Step 25] Agent: 공격 - Living Dragonbreath[4/2] -> Rexxar
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 8, Step 26] Agent: 공격 - Wargear[5/1] -> Questing Explorer
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 8, Step 27] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 8, Step 28] Opponent: 공격 - Utgarde Grapplesniper[5/5] -> Jaina Proudmoore
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Necrotic Geist (코스트: 6)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/9
+  Hand (5): Azure Drake, Sideshow Spelleater, Big Game Hunter, Onyxia, Muck Hunter
+  Field: Living Dragonbreath[4/2], Spellbreaker[4/3], Volatile Elemental[1/1], C'Thun's Chosen[4/2], Necrotic Geist[5/3]
+Opponent: Rexxar HP: 20, Mana: 7/9
+  Hand (8)
+  Field: Utgarde Grapplesniper[5/5], Haunted Creeper[1/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(77) → 11로 보정
+[Turn 9, Step 30] Agent: 공격 - Living Dragonbreath[4/2] -> Utgarde Grapplesniper
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Volatile Elemental
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 9, Step 32] Agent: 공격 - Spellbreaker[4/3] -> Spectral Spider
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 9, Step 33] Agent: 공격 - C'Thun's Chosen[4/2] -> Spectral Spider
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 공격 - Utgarde Grapplesniper[5/1] -> Necrotic Geist
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (6): Azure Drake, Sideshow Spelleater, Big Game Hunter, Onyxia, Muck Hunter, Wyrmguard
+  Field: Spellbreaker[4/2], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 공격 - Spellbreaker[4/2] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 10, Step 36] Agent: 공격 - C'Thun's Chosen[4/2] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - C'Thun's Chosen[4/2] -> Amalgam
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Azure Drake, Sideshow Spelleater, Big Game Hunter, Onyxia, Muck Hunter, Wyrmguard, Vicious Fledgling
+  Field: Spellbreaker[4/2], C'Thun's Chosen[4/1]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (9)
+  Field: Hench-Clan Hag[3/3], Amalgam[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Sideshow Spelleater (코스트: 6)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 10, Step 41] Opponent: 공격 - Amalgam[1/1] -> Sideshow Spelleater
+[Turn 10, Step 41] Opponent: 공격 - Hench-Clan Hag[3/3] -> Sideshow Spelleater
+[Turn 10, Step 41] Opponent: 카드 플레이 - Crackling Razormaw (코스트: 2)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(48) → 6로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(47) → 9로 보정
+[Turn 10, Step 43] Agent: 공격 - Spellbreaker[4/2] -> Crackling Razormaw
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 10, Step 44] Agent: 공격 - Sideshow Spelleater[6/1] -> Rummaging Kobold
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 7/10
+  Hand (6): Azure Drake, Big Game Hunter, Onyxia, Muck Hunter, Wyrmguard, Apexis Smuggler
+  Field: C'Thun's Chosen[4/1], Vicious Fledgling[3/3]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (7)
+  Field: Dragonmaw Poacher[4/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Big Game Hunter (코스트: 5)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 47] Agent: 공격 - C'Thun's Chosen[4/1] -> Dragonmaw Poacher
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Azure Drake (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (6): Onyxia, Muck Hunter, Wyrmguard, Apexis Smuggler, Cyclopian Horror, Witchwood Grizzly
+  Field: Vicious Fledgling[3/3], Big Game Hunter[4/2], Azure Drake[4/4]
+Opponent: Rexxar HP: 10, Mana: 8/10
+  Hand (7)
+  Field: Questing Explorer[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Apexis Smuggler (코스트: 2)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 10, Step 51] Opponent: 공격 - Questing Explorer[2/3] -> Big Game Hunter
+[Turn 10, Step 51] Opponent: 카드 플레이 - Knuckles (코스트: 5)
+[Turn 10, Step 51] Opponent: 턴 종료

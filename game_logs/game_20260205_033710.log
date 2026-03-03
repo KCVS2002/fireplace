@@ -1,0 +1,409 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 3, Step 2] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 2] Opponent: 영웅 능력 사용
+[Turn 3, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 2] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 3, Step 2] Opponent: 턴 종료
+[Turn 4, Step 3] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 4, Step 3] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 4, Step 4] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 4] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 4, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Recombobulator, Goblin Bomb, Anubisath Sentinel, Jar Dealer, Flamestrike, Pyros, Darkspeaker
+  Field: Violet Teacher[3/5]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (6)
+  Field: Brann Bronzebeard[2/4]
+[Turn 5, Step 5] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 5, Step 5] Agent: 공격 - Violet Teacher[3/5] -> Brann Bronzebeard
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(12) → 1로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Recombobulator -> Violet Teacher (코스트: 2)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 카드 플레이 - Hunter's Mark -> Goblin Bomb (코스트: 2)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (5): Anubisath Sentinel, Flamestrike, Pyros, Darkspeaker, Deathwing, Dragonlord
+  Field: Jinyu Waterspeaker[3/6], Recombobulator[3/2], Goblin Bomb[0/1], Jar Dealer[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/5
+  Hand (6)
+  Field: Brann Bronzebeard[2/1]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Darkspeaker -> Jinyu Waterspeaker (코스트: 5)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 6, Step 11] Agent: 공격 - Jinyu Waterspeaker[3/6] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 6, Step 12] Agent: 공격 - Jar Dealer[1/1] -> Brann Bronzebeard
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Junkbot (코스트: 5)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(32) → 13로 보정
+[Turn 7, Step 14] Agent: 공격 - Jinyu Waterspeaker[3/6] -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (6): Anubisath Sentinel, Flamestrike, Pyros, Deathwing, Dragonlord, Weasel Tunneler, Silvermoon Guardian
+  Field: Jinyu Waterspeaker[3/6], Recombobulator[3/2], Goblin Bomb[0/1], Darkspeaker[3/6]
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (6)
+  Field: Junkbot[1/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(44) → 10로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 7, Step 16] Agent: 공격 - Darkspeaker[3/6] -> Junkbot
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Trogg Gloomeater (코스트: 5)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(69) → 15로 보정
+[Turn 8, Step 19] Agent: 공격 - Recombobulator[3/2] -> Trogg Gloomeater
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (6): Anubisath Sentinel, Flamestrike, Deathwing, Dragonlord, Weasel Tunneler, Silvermoon Guardian, Lowly Squire
+  Field: Jinyu Waterspeaker[3/6], Darkspeaker[3/5], Pyros[2/2]
+Opponent: Rexxar HP: 22, Mana: 2/7
+  Hand (6)
+  Field: Junkbot[1/2], Trogg Gloomeater[1/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Jinyu Waterspeaker
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Silvermoon Guardian (코스트: 4)
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Lotus Agents (코스트: 5)
+[Turn 8, Step 22] Opponent: 선택 - Moorabi
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(84) → 18로 보정
+[Turn 9, Step 23] Agent: 공격 - Jinyu Waterspeaker[3/5] -> Trogg Gloomeater
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Junkbot
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/9
+  Hand (6): Anubisath Sentinel, Flamestrike, Deathwing, Dragonlord, Weasel Tunneler, Lowly Squire, Manic Soulcaster
+  Field: Darkspeaker[3/5], Pyros[2/2], Silvermoon Guardian[3/3]
+Opponent: Rexxar HP: 22, Mana: 3/8
+  Hand (7)
+  Field: Junkbot[1/1], Lotus Agents[5/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(80) → 12로 보정
+[Turn 9, Step 25] Agent: 공격 - Pyros[2/2] -> Junkbot
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Manic Soulcaster -> Pyros (코스트: 3)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Cauldron Elemental (코스트: 8)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/10
+  Hand (4): Anubisath Sentinel, Flamestrike, Deathwing, Dragonlord, Weasel Tunneler
+  Field: Darkspeaker[3/5], Pyros[2/1], Silvermoon Guardian[3/3], Manic Soulcaster[3/4], Lowly Squire[1/2], SI:7 Infiltrator[5/4]
+Opponent: Rexxar HP: 22, Mana: 1/9
+  Hand (7)
+  Field: Lotus Agents[5/3], Cauldron Elemental[7/7]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Cauldron Elemental
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Lotus Agents[5/3] -> SI:7 Infiltrator
+[Turn 10, Step 31] Opponent: 카드 플레이 - Refreshment Vendor (코스트: 4)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+[Turn 10, Step 31] Opponent: 공격 - Cauldron Elemental[7/6] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 영웅 능력 사용
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(56) → 20로 보정
+[Turn 10, Step 32] Agent: 공격 - Pyros[2/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Flamestrike (코스트: 7)
+[Turn 10, Step 34] Agent: 공격 - Lowly Squire[2/2] -> Hoarding Dragon
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (6): Anubisath Sentinel, Deathwing, Dragonlord, Weasel Tunneler, Argent Commander, The Coin, The Coin
+  Field: Darkspeaker[3/5], Pyros[2/1], Silvermoon Guardian[3/3], Manic Soulcaster[3/4]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (6)
+  Field: Cauldron Elemental[7/2], Refreshment Vendor[3/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(28) → 7로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Pyros
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 37] Agent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 38] Agent: 공격 - Darkspeaker[3/5] -> Cauldron Elemental
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 2/10
+  Hand (4): Anubisath Sentinel, Deathwing, Dragonlord, Argent Commander, Pyros
+  Field: Silvermoon Guardian[3/3], Manic Soulcaster[3/4], Weasel Tunneler[1/1]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (6)
+  Field: Refreshment Vendor[3/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Manic Soulcaster[3/4] -> Refreshment Vendor
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Voodoo Doctor -> Silvermoon Guardian (코스트: 1)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 카드 플레이 - Moorabi (코스트: 6)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(93) → 15로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Voodoo Doctor
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Forbidden Flame -> Weasel Tunneler (코스트: 0)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (3): Anubisath Sentinel, Deathwing, Dragonlord, Pyros
+  Field: Silvermoon Guardian[3/3], Manic Soulcaster[3/1], Argent Commander[4/2]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (5)
+  Field: Moorabi[4/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 45] Agent: 공격 - Argent Commander[4/2] -> Moorabi
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Silvermoon Guardian[3/3] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(42) → 15로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Argent Commander
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(45) → 7로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Earthen Ring Farseer -> Argent Commander (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 6/10
+  Hand (3): Anubisath Sentinel, Deathwing, Dragonlord, Pyros
+  Field: Silvermoon Guardian[3/3], Manic Soulcaster[3/1], Argent Commander[4/2], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (4)
+  Field: Al'ar[7/3], Generous Mummy[5/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Anubisath Sentinel (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 51] Agent: 공격 - Manic Soulcaster[3/1] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Argent Commander[4/2] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(71) → 3로 보정
+[Turn 10, Step 53] Agent: 공격 - Silvermoon Guardian[3/3] -> Generous Mummy
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Ironbeak Owl -> Anubisath Sentinel (코스트: 3)
+[Turn 10, Step 54] Opponent: 공격 - Al'ar[7/3] -> Argent Commander
+[Turn 10, Step 54] Opponent: 공격 - Generous Mummy[5/1] -> Anubisath Sentinel
+[Turn 10, Step 54] Opponent: 영웅 능력 사용
+[Turn 10, Step 54] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (3): Deathwing, Dragonlord, Pyros, Sylvanas Windrunner
+  Field: Silvermoon Guardian[3/3], Manic Soulcaster[3/1], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (3)
+  Field: Ashes of Al'ar[0/3], Generous Mummy[5/1], Ironbeak Owl[2/1], Mukla's Champion[4/3]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Manic Soulcaster
+[Turn 10, Step 56] Agent: 공격 - Silvermoon Guardian[3/3] -> Ashes of Al'ar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 5)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 58] Agent: 공격 - Earthen Ring Farseer[3/3] -> Mukla's Champion
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Arcane Giant (코스트: 9)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (3): Deathwing, Dragonlord, Pyros, Crowd Favorite
+  Field: Silvermoon Guardian[3/3], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (3)
+  Field: Generous Mummy[5/1], Ironbeak Owl[2/1], Arcane Giant[8/8]
+[Turn 10, Step 60] Agent: 카드 플레이 - Crowd Favorite (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Generous Mummy
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 62] Agent: 공격 - Sylvanas Windrunner[5/5] -> Ironbeak Owl
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Silvermoon Guardian
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (3): Deathwing, Dragonlord, Pyros, Dread Raven
+  Field: Silvermoon Guardian[3/2], Sylvanas Windrunner[5/3], Crowd Favorite[4/4]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (4)
+  Field: Arcane Giant[8/8]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 10, Step 66] Agent: 공격 - Crowd Favorite[4/4] -> Arcane Giant
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 67] Agent: 공격 - Silvermoon Guardian[3/2] -> Arcane Giant
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(64) → 12로 보정
+[Turn 10, Step 69] Agent: 공격 - Dread Raven[6/4] -> Arcane Giant
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (3): Deathwing, Dragonlord, Pyros, Underbelly Ooze
+  Field: Sylvanas Windrunner[5/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (5)
+[Turn 10, Step 70] Agent: 공격 - Sylvanas Windrunner[5/3] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Sylvanas Windrunner
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 10, Step 73] Opponent: 영웅 능력 사용
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 10, Step 74] Agent: 공격 - Underbelly Ooze[3/5] -> Wasteland Scorpid
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (3): Deathwing, Dragonlord, Pyros, Terrorguard Escapee
+  Field: Sylvanas Windrunner[5/2], Underbelly Ooze[3/2]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (5)
+  Field: Wasteland Scorpid[3/6]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(12) → 1로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Deathwing, Dragonlord (코스트: 10)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 76] Agent: 공격 - Sylvanas Windrunner[5/2] -> Wasteland Scorpid
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 10, Step 77] Opponent: 카드 플레이 - Ticking Abomination (코스트: 4)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Pyros (코스트: 6)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(81) → 5로 보정
+[Turn 10, Step 79] Agent: 영웅 능력 사용 -> Deathwing, Dragonlord
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (2): Hogger, Terrorguard Escapee
+  Field: Underbelly Ooze[3/2], Deathwing, Dragonlord[12/11], Wasteland Scorpid[3/9], Pyros[6/6]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (4)
+  Field: Savannah Highmane[6/5], Ticking Abomination[5/6]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 80] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 80] Opponent: 카드 플레이 - Blood Knight (코스트: 3)
+[Turn 10, Step 80] Opponent: 공격 - Ticking Abomination[5/6] -> Deathwing, Dragonlord
+[Turn 10, Step 80] Opponent: 카드 플레이 - Mogor the Ogre (코스트: 6)
+[Turn 10, Step 80] Opponent: 턴 종료
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(35) → 6로 보정
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Underbelly Ooze
+[Turn 10, Step 82] Agent: 공격 - Deathwing, Dragonlord[12/6] -> Mogor the Ogre
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(74) → 9로 보정
+[Turn 10, Step 83] Agent: 공격 - Wasteland Scorpid[3/9] -> Hyena
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Hogger (코스트: 6)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (2): Terrorguard Escapee, Golakka Crawler
+  Field: Underbelly Ooze[3/1], Underbelly Ooze[3/1], Wasteland Scorpid[3/7], Pyros[6/6], Hogger[4/4]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (3)
+  Field: Hyena[2/2]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 85] Agent: 공격 - Pyros[6/6] -> Rexxar
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 86] Agent: 공격 - Underbelly Ooze[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 87) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (2): Terrorguard Escapee, Golakka Crawler
+  Field: Underbelly Ooze[3/1], Underbelly Ooze[3/1], Wasteland Scorpid[3/7], Pyros[6/6], Hogger[4/4]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (3)
+  Field: Hyena[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

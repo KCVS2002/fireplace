@@ -1,0 +1,178 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Faceless Manipulator, Toothy Chest, Shattered Sun Cleric, Cursed Disciple, Deathaxe Punisher, The Beast
+  Field: Scarab Egg[0/2]
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Shattered Sun Cleric -> Scarab Egg (코스트: 3)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 4, Step 6] Agent: 공격 - Scarab Egg[1/3] -> Rexxar
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Scavenging Hyena (코스트: 2)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(61) → 4로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Toothy Chest (코스트: 3)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/6
+  Hand (6): Faceless Manipulator, Cursed Disciple, Deathaxe Punisher, The Beast, Leatherclad Hogleader, Gravelsnout Knight
+  Field: Scarab Egg[1/3], Shattered Sun Cleric[3/2], Toothy Chest[0/4]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (8)
+  Field: Scavenging Hyena[2/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Toothy Chest
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 6, Step 11] Agent: 공격 - Scarab Egg[1/3] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 공격 - Scavenging Hyena[2/2] -> Scarab Egg
+[Turn 7, Step 13] Opponent: 카드 플레이 - Spellbreaker -> Scavenging Hyena (코스트: 4)
+[Turn 7, Step 13] Opponent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 유효하지 않은 액션 인덱스(58) → 24로 보정
+[Turn 8, Step 14] Agent: 공격 - Scarab Egg[1/1] -> Spellbreaker
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (8): Splitting Festeroot, Faceless Manipulator, Cursed Disciple, Deathaxe Punisher, The Beast, Leatherclad Hogleader, Gravelsnout Knight, Bomb Lobber
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Shattered Sun Cleric[3/2], Toothy Chest[4/3]
+Opponent: Rexxar HP: 27, Mana: 2/7
+  Hand (8)
+  Field: Scavenging Hyena[2/1], Spellbreaker[4/2], Small-Time Buccaneer[1/1]
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(80) → 12로 보정
+[Turn 8, Step 15] Agent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Small-Time Buccaneer
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 8, Step 17] Agent: 공격 - Shattered Sun Cleric[3/2] -> Scavenging Hyena
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 영웅 능력 사용
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(94) → 30로 보정
+[Turn 9, Step 19] Agent: 공격 - The Beast[9/7] -> Rexxar
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/9
+  Hand (8): Splitting Festeroot, Faceless Manipulator, Cursed Disciple, Deathaxe Punisher, Leatherclad Hogleader, Gravelsnout Knight, Bomb Lobber, Azalina Soulthief
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Toothy Chest[4/3], The Beast[9/7]
+Opponent: Rexxar HP: 18, Mana: 6/8
+  Hand (9)
+  Field: Spellbreaker[4/2]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(39) → 9로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Deathaxe Punisher (코스트: 4)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Faceless Manipulator -> Scarab (코스트: 5)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 9, Step 22] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 9, Step 23] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 9, Step 24] Agent: 공격 - Scarab[1/1] -> Spellbreaker
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/9
+  Hand (6): Splitting Festeroot, Cursed Disciple, Leatherclad Hogleader, Gravelsnout Knight, Bomb Lobber, Azalina Soulthief
+  Field: Scarab[1/1], Scarab[1/1], Toothy Chest[4/3], The Beast[9/7], Deathaxe Punisher[3/3], Scarab[1/1]
+Opponent: Rexxar HP: 16, Mana: 6/8
+  Hand (9)
+  Field: Spellbreaker[4/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 9, Step 25] Agent: 공격 - Toothy Chest[4/3] -> Rexxar
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(97) → 10로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Toothy Chest
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 10, Step 28] Agent: 공격 - Deathaxe Punisher[3/3] -> Spellbreaker
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 10, Step 29] Agent: 공격 - The Beast[9/7] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (7): Splitting Festeroot, Cursed Disciple, Leatherclad Hogleader, Gravelsnout Knight, Bomb Lobber, Azalina Soulthief, Stormwatcher
+  Field: Scarab[1/1], Scarab[1/1], Toothy Chest[4/2], The Beast[9/7], Scarab[1/1]
+Opponent: Rexxar HP: 3, Mana: 9/9
+  Hand (10)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 32] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 33] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(59) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Toothy Chest[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (5): Splitting Festeroot, Leatherclad Hogleader, Bomb Lobber, Azalina Soulthief, Stormwatcher
+  Field: Scarab[1/1], Scarab[1/1], Toothy Chest[4/2], The Beast[9/7], Scarab[1/1], Cursed Disciple[5/1], Gravelsnout Knight[2/3]
+Opponent: Rexxar HP: 0, Mana: 9/9
+  Hand (10)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (5): Splitting Festeroot, Leatherclad Hogleader, Bomb Lobber, Azalina Soulthief, Stormwatcher
+  Field: Scarab[1/1], Scarab[1/1], Toothy Chest[4/2], The Beast[9/7], Scarab[1/1], Cursed Disciple[5/1], Gravelsnout Knight[2/3]
+Opponent: Rexxar HP: 0, Mana: 9/9
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

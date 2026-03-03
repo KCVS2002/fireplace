@@ -1,0 +1,170 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 카드 플레이 - Captain's Parrot (코스트: 2)
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/2
+  Hand (5): Bolf Ramshield, Fossilized Devilsaur, Grave Shambler, Bronze Gatekeeper, Kalecgos
+  Field: Target Dummy[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Captain's Parrot[1/1]
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Ramkahen Wildtamer (코스트: 3)
+[Turn 2, Step 6] Opponent: 공격 - Captain's Parrot[1/1] -> Target Dummy
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 3, Step 8] Opponent: 공격 - Captain's Parrot[1/1] -> Target Dummy
+[Turn 3, Step 8] Opponent: 공격 - Ramkahen Wildtamer[4/3] -> Bronze Gatekeeper
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Grave Shambler (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (5): Bolf Ramshield, Fossilized Devilsaur, Kalecgos, Mogor's Champion, Hippogryph
+  Field: Bronze Gatekeeper[1/1], Grave Shambler[4/4]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (4)
+  Field: Captain's Parrot[1/1], Ramkahen Wildtamer[4/2], Parachute Brigand[2/2]
+[Turn 4, Step 10] Agent: 공격 - Bronze Gatekeeper[1/1] -> Rexxar
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 4, Step 11] Opponent: 공격 - Captain's Parrot[1/1] -> Bronze Gatekeeper
+[Turn 4, Step 11] Opponent: 공격 - Ramkahen Wildtamer[4/2] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 공격 - Parachute Brigand[2/2] -> Grave Shambler
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 5, Step 13] Agent: 공격 - Grave Shambler[4/2] -> Rexxar
+[Turn 5, Step 14] Agent: 공격 - Hippogryph[2/6] -> Ramkahen Wildtamer
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/5
+  Hand (5): Bolf Ramshield, Fossilized Devilsaur, Kalecgos, Mogor's Champion, Rustsworn Cultist
+  Field: Grave Shambler[4/2], Hippogryph[2/2]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (4)
+  Field: Anubisath Sentinel[4/4]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 영웅 능력 사용
+[Turn 5, Step 15] Opponent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 5, Step 15] Opponent: 공격 - Anubisath Sentinel[4/4] -> Hippogryph
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 18] Agent: 공격 - Grave Shambler[4/2] -> Rexxar
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 6, Step 19] Opponent: 공격 - Grimestreet Smuggler[2/4] -> Grave Shambler
+[Turn 6, Step 19] Opponent: 공격 - Anubisath Sentinel[4/2] -> Jaina Proudmoore
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 7/7
+  Hand (6): Bolf Ramshield, Fossilized Devilsaur, Kalecgos, Mogor's Champion, Rustsworn Cultist, Deathaxe Punisher
+  Field: Hoarding Dragon[5/6]
+Opponent: Rexxar HP: 21, Mana: 1/7
+  Hand (4)
+  Field: Anubisath Sentinel[4/2], Skulking Geist[4/6]
+[Turn 7, Step 20] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 7, Step 21] Agent: 공격 - Hoarding Dragon[5/6] -> Rexxar
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 공격 - Skulking Geist[4/6] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 7, Step 22] Opponent: 공격 - Anubisath Sentinel[4/2] -> Bolf Ramshield
+[Turn 7, Step 22] Opponent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 카드 플레이 - Fossilized Devilsaur (코스트: 8)
+[Turn 8, Step 24] Agent: 공격 - Hoarding Dragon[5/6] -> Ooze
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/8
+  Hand (5): Kalecgos, Mogor's Champion, Rustsworn Cultist, Deathaxe Punisher, Grotesque Dragonhawk
+  Field: Hoarding Dragon[5/5], Bolf Ramshield[3/1], Fossilized Devilsaur[8/8]
+Opponent: Rexxar HP: 16, Mana: 0/8
+  Hand (3)
+  Field: Skulking Geist[7/9], Mossy Horror[2/7], Bilefin Tidehunter[2/1]
+[Turn 8, Step 25] Agent: 공격 - Bolf Ramshield[3/1] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Bilefin Tidehunter[2/1] -> Hoarding Dragon
+[Turn 8, Step 26] Opponent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 8, Step 26] Opponent: 공격 - Skulking Geist[7/9] -> Fossilized Devilsaur
+[Turn 8, Step 26] Opponent: 카드 플레이 - Professor Putricide (코스트: 4)
+[Turn 8, Step 26] Opponent: 공격 - Mossy Horror[2/7] -> Bolf Ramshield
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Fossilized Devilsaur[8/1] -> Mossy Horror
+[Turn 9, Step 28] Agent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/9
+  Hand (5): Kalecgos, Rustsworn Cultist, Deathaxe Punisher, Grotesque Dragonhawk, Violet Teacher
+  Field: Hoarding Dragon[5/3], Mogor's Champion[8/5]
+Opponent: Rexxar HP: 13, Mana: 0/9
+  Hand (2)
+  Field: Skulking Geist[7/1], Rummaging Kobold[2/4], Professor Putricide[5/4]
+[Turn 9, Step 30] Agent: 공격 - Hoarding Dragon[5/3] -> Rexxar
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 공격 - Skulking Geist[7/1] -> Jaina Proudmoore
+[Turn 9, Step 31] Opponent: 카드 플레이 - Magma Rager (코스트: 3)
+[Turn 9, Step 31] Opponent: 공격 - Professor Putricide[5/4] -> Mogor's Champion
+[Turn 9, Step 31] Opponent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 9, Step 31] Opponent: 영웅 능력 사용
+[Turn 9, Step 31] Opponent: 공격 - Rummaging Kobold[2/4] -> Hoarding Dragon
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Kalecgos (코스트: 10)
+[Turn 10, Step 33] Agent: 선택 - Deep Freeze
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Magma Rager[5/1] -> Kalecgos
+[Turn 10, Step 33] Opponent: 카드 플레이 - Big Bad Archmage (코스트: 10)
+[Turn 10, Step 33] Opponent: 공격 - Skulking Geist[7/1] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 34) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (6): Rustsworn Cultist, Deathaxe Punisher, Grotesque Dragonhawk, Violet Teacher, Drakkari Trickster, Deep Freeze
+  Field: Hoarding Dragon[5/1], Kalecgos[4/7]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (1)
+  Field: Skulking Geist[7/1], Dalaran Crusader[5/4], Big Bad Archmage[6/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

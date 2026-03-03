@@ -1,0 +1,179 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Arcane Explosion (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (3): Meteor, Wing Commander, Arcane Anomaly
+  Field: Soot Spewer[3/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Soot Spewer
+[Turn 4, Step 7] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 4, Step 8] Agent: 공격 - Soot Spewer[3/2] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (4): Meteor, Wing Commander, Splitting Festeroot, Gorillabot A-3
+  Field: Soot Spewer[3/2], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (7)
+  Field: Master Swordsmith[1/3]
+[Turn 5, Step 10] Agent: 공격 - Arcane Anomaly[2/1] -> Rexxar
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 12] Agent: 공격 - Soot Spewer[3/2] -> Master Swordsmith
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 5, Step 13] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Millhouse Manastorm
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/6
+  Hand (5): Madam Goya, Meteor, Wing Commander, Splitting Festeroot, Gorillabot A-3
+  Field: Soot Spewer[3/1], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 25, Mana: 1/5
+  Hand (6)
+  Field: Millhouse Manastorm[4/3], Ancient Watcher[4/5]
+[Turn 6, Step 15] Agent: 카드 플레이 - Meteor -> Soot Spewer (코스트: 0)
+[Turn 6, Step 16] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Fallen Sun Cleric -> Millhouse Manastorm (코스트: 2)
+[Turn 6, Step 17] Opponent: 공격 - Millhouse Manastorm[5/4] -> Jaina Proudmoore
+[Turn 6, Step 17] Opponent: 카드 플레이 - Kooky Chemist -> Fallen Sun Cleric (코스트: 4)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Millhouse Manastorm
+[Turn 7, Step 19] Agent: 공격 - Gorillabot A-3[3/4] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/7
+  Hand (4): Madam Goya, Wing Commander, Splitting Festeroot, Meteorologist
+  Field: Gorillabot A-3[3/4]
+Opponent: Rexxar HP: 22, Mana: 0/6
+  Hand (5)
+  Field: Millhouse Manastorm[5/3], Ancient Watcher[4/5], Fallen Sun Cleric[1/2], Kooky Chemist[4/4]
+[Turn 7, Step 20] Agent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Spellshifter (코스트: 2)
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 공격 - Millhouse Manastorm[5/3] -> Gorillabot A-3
+[Turn 7, Step 21] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 7, Step 21] Opponent: 공격 - Fallen Sun Cleric[1/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 공격 - Kooky Chemist[4/4] -> Wing Commander
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 공격 - Wing Commander[2/1] -> Kooky Chemist
+[Turn 8, Step 23] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/8
+  Hand (3): Madam Goya, Splitting Festeroot, Volcanic Drake
+  Field: Meteorologist[3/3]
+Opponent: Rexxar HP: 22, Mana: 0/7
+  Hand (7)
+  Field: Ancient Watcher[4/5]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 8, Step 25] Opponent: 선택 - Dragonqueen Alexstrasza
+[Turn 8, Step 25] Opponent: 카드 플레이 - Bearshark (코스트: 3)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Madam Goya -> Meteorologist (코스트: 6)
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Madam Goya
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 9, Step 28] Opponent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 9, Step 28] Opponent: 공격 - Evasive Wyrm[5/3] -> Blood of The Ancient One
+[Turn 9, Step 28] Opponent: 공격 - Primordial Explorer[2/3] -> Blood of The Ancient One
+[Turn 9, Step 28] Opponent: 공격 - Bearshark[4/3] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Madam Goya
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (4): Splitting Festeroot, Volcanic Drake, Stalagg, Parachute Brigand
+  Field: Madam Goya[4/1]
+Opponent: Rexxar HP: 22, Mana: 0/9
+  Hand (6)
+  Field: Ancient Watcher[4/5], Bearshark[4/3], Cave Hydra[2/4], Evasive Wyrm[5/3]
+[Turn 10, Step 30] Agent: 공격 - Madam Goya[4/1] -> Ancient Watcher
+[Turn 10, Step 31] Agent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 10, Step 32] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 33] Opponent: 공격 - Evasive Wyrm[5/3] -> Patches the Pirate
+[Turn 10, Step 33] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 10, Step 33] Opponent: 공격 - Bearshark[4/3] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 공격 - Cave Hydra[2/4] -> Stalagg
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 2/10
+  Hand (2): Volcanic Drake, Flamestrike
+  Field: Stalagg[7/2], Parachute Brigand[2/2], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (4)
+  Field: Ancient Watcher[4/1], Bearshark[4/3], Evasive Wyrm[5/2], Tainted Zealot[1/1], Booty Bay Bodyguard[5/4], Wretched Tiller[1/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Stalagg
+[Turn 10, Step 36] Agent: 공격 - Stalagg[7/1] -> Booty Bay Bodyguard
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Tainted Zealot[1/1] -> Splitting Festeroot
+[Turn 10, Step 37] Opponent: 공격 - Wretched Tiller[1/1] -> Parachute Brigand
+[Turn 10, Step 37] Opponent: 카드 플레이 - Dragonqueen Alexstrasza (코스트: 9)
+[Turn 10, Step 37] Opponent: 공격 - Evasive Wyrm[5/2] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 공격 - Bearshark[4/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 38) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (2): Volcanic Drake, Flamestrike
+  Field: Parachute Brigand[2/1], Splitting Festeroot[4/3]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (6)
+  Field: Ancient Watcher[4/1], Bearshark[4/3], Evasive Wyrm[5/2], Tainted Zealot[1/1], Dragonqueen Alexstrasza[8/8]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

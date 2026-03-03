@@ -1,0 +1,386 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Swamp Leech
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (7): Stonesplinter Trogg, Ethereal Augmerchant, Infested Goblin, Dalaran Librarian, Eater of Secrets, Baron Rivendare, Babbling Book
+Opponent: Rexxar HP: 30, Mana: 2/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(51) → 7로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(73) → 8로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Unstable Portal (코스트: 2)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Ethereal Augmerchant -> Ogre Magi (코스트: 1)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (8): Stonesplinter Trogg, Infested Goblin, Dalaran Librarian, Eater of Secrets, Baron Rivendare, Bone Drake, Ancient of Blossoms, Servant of Yogg-Saron
+  Field: Babbling Book[1/1], Ethereal Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Ogre Magi[4/3]
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Ogre Magi
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 6, Step 11] Agent: 공격 - Ethereal Augmerchant[2/1] -> Ogre Magi
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 영웅 능력 사용
+[Turn 7, Step 13] Opponent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 7, Step 13] Opponent: 카드 플레이 - Webspinner (코스트: 1)
+[Turn 7, Step 13] Opponent: 카드 플레이 - Dozing Marksman (코스트: 2)
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 8, Step 14] Agent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/8
+  Hand (9): Stonesplinter Trogg, Infested Goblin, Eater of Secrets, Baron Rivendare, Bone Drake, Ancient of Blossoms, Servant of Yogg-Saron, Colossus of the Moon, Barista Lynchen
+  Field: Babbling Book[1/1], Dalaran Librarian[2/3]
+Opponent: Rexxar HP: 30, Mana: 2/7
+  Hand (6)
+  Field: Snowflipper Penguin[1/1], Webspinner[1/1], Dozing Marksman[0/4]
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(32) → 12로 보정
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Snowflipper Penguin
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 8, Step 16] Agent: 공격 - Babbling Book[1/1] -> Dozing Marksman
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Ancient of Blossoms (코스트: 3)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 공격 - Dozing Marksman[4/3] -> Ancient of Blossoms
+[Turn 8, Step 18] Opponent: 영웅 능력 사용
+[Turn 8, Step 18] Opponent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(45) → 7로 보정
+[Turn 9, Step 19] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/9
+  Hand (10): Stonesplinter Trogg, Infested Goblin, Eater of Secrets, Baron Rivendare, Bone Drake, Servant of Yogg-Saron, Colossus of the Moon, Questing Adventurer, Eater of Secrets, Servant of Yogg-Saron
+  Field: Babbling Book[1/1], Dalaran Librarian[2/3], Ancient of Blossoms[3/4], Barista Lynchen[4/5]
+Opponent: Rexxar HP: 30, Mana: 2/8
+  Hand (6)
+  Field: Webspinner[1/1], Twilight Guardian[3/6]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 공격 - Webspinner[1/1] -> Ancient of Blossoms
+[Turn 9, Step 22] Opponent: 카드 플레이 - Chittering Tunneler (코스트: 3)
+[Turn 9, Step 22] Opponent: 선택 - Hunter's Pack
+[Turn 9, Step 22] Opponent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 9, Step 22] Opponent: 공격 - Twilight Guardian[3/6] -> Ancient of Blossoms
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(38) → 14로 보정
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Dalaran Librarian
+[Turn 10, Step 24] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/10
+  Hand (9): Infested Goblin, Eater of Secrets, Baron Rivendare, Bone Drake, Servant of Yogg-Saron, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron, Flame Ward
+  Field: Babbling Book[1/1], Dalaran Librarian[2/2], Barista Lynchen[4/5], Stonesplinter Trogg[2/3], Eater of Secrets[2/4]
+Opponent: Rexxar HP: 26, Mana: 1/9
+  Hand (7)
+  Field: Twilight Guardian[3/3], Chittering Tunneler[3/3], Captain Greenskin[5/4]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(58) → 8로 보정
+[Turn 10, Step 25] Agent: 공격 - Barista Lynchen[4/5] -> Twilight Guardian
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(42) → 12로 보정
+[Turn 10, Step 26] Agent: 공격 - Stonesplinter Trogg[2/3] -> Rexxar
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 10, Step 27] Agent: 공격 - Dalaran Librarian[2/2] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Flame Ward (코스트: 3)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 29] Agent: 공격 - Babbling Book[1/1] -> Chittering Tunneler
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/10
+  Hand (8): Infested Goblin, Eater of Secrets, Baron Rivendare, Bone Drake, Servant of Yogg-Saron, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron
+  Field: Dalaran Librarian[2/2], Barista Lynchen[4/2], Stonesplinter Trogg[2/3], Eater of Secrets[2/4]
+Opponent: Rexxar HP: 22, Mana: 1/9
+  Hand (7)
+  Field: Chittering Tunneler[3/2], Captain Greenskin[5/4]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 공격 - Captain Greenskin[5/4] -> Eater of Secrets
+[Turn 10, Step 30] Opponent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 30] Opponent: 공격 - Chittering Tunneler[3/2] -> Dalaran Librarian
+[Turn 10, Step 30] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(62) → 5로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Servant of Yogg-Saron (코스트: 5)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 15로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Servant of Yogg-Saron
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Cyclopian Horror[3/5] -> Infested Goblin
+[Turn 10, Step 34] Opponent: 카드 플레이 - Cloaked Huntress (코스트: 3)
+[Turn 10, Step 34] Opponent: 공격 - Twilight Drake[4/8] -> Barista Lynchen
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (10): Eater of Secrets, Baron Rivendare, Bone Drake, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron, Tomb Spider, Avian Watcher, Scarab, Scarab
+  Field: Stonesplinter Trogg[2/3], Servant of Yogg-Saron[5/3]
+Opponent: Rexxar HP: 22, Mana: 7/10
+  Hand (6)
+  Field: Captain Greenskin[5/2], Twilight Drake[4/4], Cyclopian Horror[3/3], Cloaked Huntress[3/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(52) → 10로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 36] Agent: 카드 플레이 - Bone Drake (코스트: 6)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Primordial Drake (코스트: 8)
+[Turn 10, Step 37] Opponent: 공격 - Cloaked Huntress[3/2] -> Servant of Yogg-Saron
+[Turn 10, Step 37] Opponent: 공격 - Cyclopian Horror[3/1] -> Bone Drake
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(55) → 13로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Amber Watcher -> Primordial Drake (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(96) → 11로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 3/10
+  Hand (9): Eater of Secrets, Baron Rivendare, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron, Tomb Spider, Avian Watcher, Scarab, Faceless Shambler
+  Field: Stonesplinter Trogg[2/1], Amber Watcher[4/6]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (6)
+  Field: Twilight Drake[4/2], Primordial Drake[4/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Faceless Corruptor -> Primordial Drake (코스트: 5)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(62) → 24로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Faceless Corruptor
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (10): Eater of Secrets, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron, Tomb Spider, Avian Watcher, Scarab, Faceless Shambler, Jan'alai, the Dragonhawk, Ray of Frost
+  Field: Stonesplinter Trogg[2/1], Amber Watcher[4/6], Baron Rivendare[1/7]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+  Field: Twilight Drake[4/2], Faceless Corruptor[4/3], Faceless Corruptor[4/4]
+[Turn 10, Step 45] Agent: 공격 - Amber Watcher[4/6] -> Faceless Corruptor
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(59) → 15로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Ray of Frost -> Baron Rivendare (코스트: 1)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(50) → 12로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Ray of Frost -> Twilight Drake (코스트: 1)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 49] Agent: 선택 - Violet Wurm
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Hunter's Pack (코스트: 3)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (10): Eater of Secrets, Colossus of the Moon, Questing Adventurer, Servant of Yogg-Saron, Avian Watcher, Scarab, Faceless Shambler, Jan'alai, the Dragonhawk, Violet Wurm, Barrens Stablehand
+  Field: Stonesplinter Trogg[3/1], Amber Watcher[4/2], Baron Rivendare[1/7], Tomb Spider[3/3]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (10)
+  Field: Twilight Drake[4/2], Faceless Corruptor[4/3], Arcane Golem[4/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Questing Adventurer (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(99) → 23로 보정
+[Turn 10, Step 51] Agent: 공격 - Stonesplinter Trogg[3/1] -> Twilight Drake
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(68) → 12로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 53] Agent: 공격 - Baron Rivendare[1/7] -> Arcane Golem
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Avian Watcher (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (8): Eater of Secrets, Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Jan'alai, the Dragonhawk, Violet Wurm, Barrens Stablehand
+  Field: Amber Watcher[4/2], Baron Rivendare[1/3], Tomb Spider[3/3], Questing Adventurer[3/3], Avian Watcher[4/7]
+Opponent: Rexxar HP: 20, Mana: 4/10
+  Hand (10)
+  Field: Faceless Corruptor[4/3], Arcane Golem[4/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 55] Agent: 공격 - Tomb Spider[3/3] -> Arcane Golem
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 10, Step 56] Agent: 공격 - Amber Watcher[4/2] -> Faceless Corruptor
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Darkspeaker (코스트: 5)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (10): Eater of Secrets, Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Jan'alai, the Dragonhawk, Violet Wurm, Barrens Stablehand, Shatter, Ornery Tortoise
+  Field: Baron Rivendare[1/3], Questing Adventurer[3/3], Avian Watcher[4/7]
+Opponent: Rexxar HP: 20, Mana: 1/10
+  Hand (7)
+  Field: Darkspeaker[3/6], Soup Vendor[1/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(70) → 14로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Baron Rivendare
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(58) → 18로 보정
+[Turn 10, Step 61] Agent: 공격 - Avian Watcher[4/7] -> Darkspeaker
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(83) → 7로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Jan'alai, the Dragonhawk (코스트: 7)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(25) → 5로 보정
+[Turn 10, Step 63] Agent: 공격 - Baron Rivendare[1/2] -> Emperor Cobra
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 64] Agent: 공격 - Questing Adventurer[4/4] -> Soup Vendor
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (9): Eater of Secrets, Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Violet Wurm, Barrens Stablehand, Shatter, Ornery Tortoise
+  Field: Questing Adventurer[4/3], Avian Watcher[4/4], Jan'alai, the Dragonhawk[4/4], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 20, Mana: 1/10
+  Hand (7)
+  Field: Darkspeaker[3/2], Emperor Cobra[2/2]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 65] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 10, Step 65] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 카드 플레이 - Barrens Stablehand (코스트: 7)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 68] Agent: 공격 - Questing Adventurer[6/5] -> Rexxar
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 10, Step 69] Agent: 공격 - Jan'alai, the Dragonhawk[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (8): Eater of Secrets, Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Violet Wurm, Shatter, Fight Promoter
+  Field: Questing Adventurer[6/5], Avian Watcher[4/4], Jan'alai, the Dragonhawk[4/4], Ragnaros the Firelord[8/8], Barrens Stablehand[4/4], Webspinner[1/1], Ornery Tortoise[3/5]
+Opponent: Rexxar HP: 10, Mana: 3/10
+  Hand (5)
+  Field: Emperor Cobra[2/2], Hunting Mastiff[2/1]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Furious Ettin (코스트: 7)
+[Turn 10, Step 70] Opponent: 공격 - Rexxar[1/10] -> Avian Watcher
+[Turn 10, Step 70] Opponent: 영웅 능력 사용
+[Turn 10, Step 70] Opponent: 공격 - Hunting Mastiff[2/1] -> Avian Watcher
+[Turn 10, Step 70] Opponent: 공격 - Locust[1/1] -> Avian Watcher
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Questing Adventurer[6/5] -> Furious Ettin
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(46) → 21로 보정
+[Turn 10, Step 72] Agent: 공격 - Jan'alai, the Dragonhawk[4/4] -> Furious Ettin
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(60) → 18로 보정
+[Turn 10, Step 73] Agent: 공격 - Barrens Stablehand[4/4] -> Rexxar
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(56) → 16로 보정
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Webspinner
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (10): Eater of Secrets, Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Violet Wurm, Shatter, Fight Promoter, Corpsetaker, Grizzled Guardian
+  Field: Ragnaros the Firelord[8/8], Barrens Stablehand[4/4], Ornery Tortoise[3/5]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (5)
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 10, Step 77] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 78) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (8): Colossus of the Moon, Servant of Yogg-Saron, Scarab, Faceless Shambler, Violet Wurm, Shatter, Fight Promoter, Grizzled Guardian
+  Field: Ragnaros the Firelord[8/8], Barrens Stablehand[4/4], Ornery Tortoise[3/5], Eater of Secrets[3/5], Corpsetaker[3/3]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (5)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

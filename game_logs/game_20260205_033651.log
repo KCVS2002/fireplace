@@ -1,0 +1,264 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 2, Step 2] Opponent: 선택 - Mystery Choice!
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 3, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (6): Burly Rockjaw Trogg, Cloakscale Chemist, Dragoncaller Alanna, Nefarian, Midnight Drake, Malygos, Aspect of Magic
+  Field: Magic Carpet[1/6]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (6)
+  Field: Vulpera Scoundrel[2/3]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Midnight Drake (코스트: 4)
+[Turn 4, Step 7] Agent: 공격 - Magic Carpet[1/6] -> Vulpera Scoundrel
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 4, Step 8] Opponent: 공격 - Vulpera Scoundrel[2/2] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Midnight Drake
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/5
+  Hand (7): Burly Rockjaw Trogg, Cloakscale Chemist, Dragoncaller Alanna, Nefarian, Malygos, Aspect of Magic, Anubisath Warbringer, Imprisoned Vilefiend
+  Field: Magic Carpet[1/4], Midnight Drake[7/3]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (7)
+  Field: Vulpera Scoundrel[2/2], Illuminator[2/4]
+[Turn 5, Step 10] Agent: 공격 - Magic Carpet[1/4] -> Vulpera Scoundrel
+[Turn 5, Step 11] Agent: 공격 - Midnight Drake[7/3] -> Vulpera Scoundrel
+[Turn 5, Step 12] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/6
+  Hand (6): Cloakscale Chemist, Dragoncaller Alanna, Nefarian, Malygos, Aspect of Magic, Anubisath Warbringer, Volatile Elemental
+  Field: Magic Carpet[1/2], Midnight Drake[7/1], Imprisoned Vilefiend[3/5], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 30, Mana: 3/6
+  Hand (7)
+  Field: Illuminator[2/4], Wolfrider[3/1]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Midnight Drake
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Wolfrider[3/1] -> Burly Rockjaw Trogg
+[Turn 6, Step 16] Opponent: 카드 플레이 - Traveling Healer -> Burly Rockjaw Trogg (코스트: 4)
+[Turn 6, Step 16] Opponent: 영웅 능력 사용
+[Turn 6, Step 16] Opponent: 카드 플레이 - Sand Breath -> Magic Carpet (코스트: 1)
+[Turn 6, Step 16] Opponent: 공격 - Illuminator[2/4] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Magic Carpet
+[Turn 7, Step 18] Agent: 공격 - Burly Rockjaw Trogg[5/5] -> Illuminator
+[Turn 7, Step 19] Agent: 공격 - Magic Carpet[2/3] -> Traveling Healer
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/7
+  Hand (7): Cloakscale Chemist, Dragoncaller Alanna, Nefarian, Malygos, Aspect of Magic, Anubisath Warbringer, Volatile Elemental, Blazecaller
+  Field: Imprisoned Vilefiend[3/5], Burly Rockjaw Trogg[5/3]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (6)
+  Field: Traveling Healer[3/2]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Imprisoned Vilefiend
+[Turn 8, Step 23] Agent: 공격 - Imprisoned Vilefiend[3/4] -> Traveling Healer
+[Turn 8, Step 24] Agent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/8
+  Hand (6): Dragoncaller Alanna, Nefarian, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi
+  Field: Imprisoned Vilefiend[3/1], Burly Rockjaw Trogg[5/3], Volatile Elemental[1/1], Cloakscale Chemist[1/2]
+Opponent: Rexxar HP: 30, Mana: 7/8
+  Hand (6)
+  Field: Gurubashi Chicken[1/1]
+[Turn 8, Step 25] Agent: 공격 - Burly Rockjaw Trogg[5/3] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Nefarian (코스트: 9)
+[Turn 9, Step 28] Agent: 공격 - Cloakscale Chemist[1/2] -> Gurubashi Chicken
+[Turn 9, Step 29] Agent: 공격 - Imprisoned Vilefiend[3/1] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/9
+  Hand (8): Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, Mirror Entity, The Beast Within, Goblin Prank
+  Field: Imprisoned Vilefiend[3/1], Burly Rockjaw Trogg[5/3], Volatile Elemental[1/1], Cloakscale Chemist[1/2], Nefarian[8/8]
+Opponent: Rexxar HP: 22, Mana: 9/9
+  Hand (7)
+[Turn 9, Step 30] Agent: 공격 - Burly Rockjaw Trogg[5/3] -> Rexxar
+[Turn 9, Step 31] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Patches the Pirate
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/10
+  Hand (8): Bomb Lobber, Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Goblin Prank
+  Field: Imprisoned Vilefiend[3/1], Burly Rockjaw Trogg[5/3], Volatile Elemental[1/1], Cloakscale Chemist[1/2], Nefarian[8/8]
+Opponent: Rexxar HP: 16, Mana: 9/10
+  Hand (7)
+[Turn 10, Step 35] Agent: 카드 플레이 - Goblin Prank -> Imprisoned Vilefiend (코스트: 2)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 10, Step 38] Agent: 공격 - Cloakscale Chemist[1/2] -> Rexxar
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Burly Rockjaw Trogg
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (7): Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer
+  Field: Burly Rockjaw Trogg[5/2], Volatile Elemental[1/1], Cloakscale Chemist[1/2], Nefarian[8/8], Bomb Lobber[3/3]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 10, Step 40] Opponent: 카드 플레이 - On the Hunt -> Rexxar (코스트: 1)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 카드 플레이 - Darkspeaker -> Bomb Lobber (코스트: 5)
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 43] Agent: 공격 - Drakkari Enchanter[1/5] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Burly Rockjaw Trogg[7/2] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (7): Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer
+  Field: Burly Rockjaw Trogg[7/2], Volatile Elemental[1/1], Cloakscale Chemist[1/2], Nefarian[8/8], Bomb Lobber[3/6], Drakkari Enchanter[1/5], Darkspeaker[3/3]
+Opponent: Rexxar HP: 6, Mana: 6/10
+  Hand (7)
+  Field: Drakkari Enchanter[1/5], Mastiff[1/1]
+[Turn 10, Step 45] Agent: 공격 - Cloakscale Chemist[1/2] -> Drakkari Enchanter
+[Turn 10, Step 46] Agent: 공격 - Nefarian[8/8] -> Mastiff
+[Turn 10, Step 47] Agent: 공격 - Bomb Lobber[3/6] -> Rexxar
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Carnivorous Cube -> Drakkari Enchanter (코스트: 5)
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 공격 - Elven Archer[1/1] -> Jar Dealer
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (8): Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer, Felfin Navigator
+  Field: Burly Rockjaw Trogg[9/2], Volatile Elemental[1/1], Cloakscale Chemist[1/1], Nefarian[8/7], Bomb Lobber[3/6], Drakkari Enchanter[1/5], Darkspeaker[3/3]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (5)
+  Field: Carnivorous Cube[4/6], Gravelsnout Knight[2/3]
+[Turn 10, Step 50] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 10, Step 51] Agent: 공격 - Nefarian[8/7] -> Gravelsnout Knight
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Carnivorous Cube[4/6] -> Drakkari Enchanter
+[Turn 10, Step 52] Opponent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Northshire Cleric (코스트: 1)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Alleycat (코스트: 1)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Carnivorous Cube[4/5] -> Nefarian
+[Turn 10, Step 53] Opponent: 공격 - Tabbycat[1/1] -> Drakkari Enchanter
+[Turn 10, Step 53] Opponent: 공격 - Coldlight Oracle[2/2] -> Bomb Lobber
+[Turn 10, Step 53] Opponent: 카드 플레이 - Beastmaster Leoroxx (코스트: 8)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (9): Dragoncaller Alanna, Malygos, Aspect of Magic, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer, Felfin Navigator, Bloodsail Raider
+  Field: Burly Rockjaw Trogg[9/2], Volatile Elemental[1/1], Cloakscale Chemist[1/1], Nefarian[8/1], Bomb Lobber[3/4], Darkspeaker[3/3], Terrorguard Escapee[3/7]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (4)
+  Field: Drakkari Enchanter[1/5], Drakkari Enchanter[1/5], Northshire Cleric[1/3], Alleycat[1/1], Beastmaster Leoroxx[5/5], Dread Raven[8/6]
+[Turn 10, Step 55] Agent: 공격 - Cloakscale Chemist[1/1] -> Dread Raven
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Bomb Lobber
+[Turn 10, Step 57] Agent: 공격 - Darkspeaker[3/3] -> Dread Raven
+[Turn 10, Step 58] Agent: 공격 - Burly Rockjaw Trogg[9/2] -> Dread Raven
+[Turn 10, Step 59] Agent: 카드 플레이 - Malygos, Aspect of Magic (코스트: 5)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (8): Dragoncaller Alanna, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer, Felfin Navigator, Bloodsail Raider
+  Field: Volatile Elemental[1/1], Nefarian[8/1], Bomb Lobber[3/3], Terrorguard Escapee[3/7], Malygos, Aspect of Magic[2/8]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (4)
+  Field: Drakkari Enchanter[1/5], Drakkari Enchanter[1/5], Northshire Cleric[1/3], Alleycat[1/1], Beastmaster Leoroxx[5/5]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Drakkari Enchanter[1/5] -> Nefarian
+[Turn 10, Step 60] Opponent: 공격 - Beastmaster Leoroxx[5/5] -> Malygos, Aspect of Magic
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Volatile Elemental
+[Turn 10, Step 62] Agent: 카드 플레이 - Safeguard (코스트: 6)
+[Turn 10, Step 63] Agent: 공격 - Malygos, Aspect of Magic[2/3] -> Alleycat
+[Turn 10, Step 64] Agent: 공격 - Bomb Lobber[3/3] -> Drakkari Enchanter
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (8): Dragoncaller Alanna, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer, Felfin Navigator, Bloodsail Raider
+  Field: Bomb Lobber[3/2], Terrorguard Escapee[3/7], Malygos, Aspect of Magic[2/2], Safeguard[4/5]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (5)
+  Field: Drakkari Enchanter[1/2], Beastmaster Leoroxx[5/3]
+[Turn 10, Step 65] Agent: 공격 - Terrorguard Escapee[3/7] -> Rexxar
+
+--- Game State (Turn 10, Step 66) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (8): Dragoncaller Alanna, Anubisath Warbringer, Blazecaller, Mojomaster Zihi, The Beast Within, Skelemancer, Felfin Navigator, Bloodsail Raider
+  Field: Bomb Lobber[3/2], Terrorguard Escapee[3/7], Malygos, Aspect of Magic[2/2], Safeguard[4/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+  Field: Drakkari Enchanter[1/2], Beastmaster Leoroxx[5/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

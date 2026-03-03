@@ -1,0 +1,104 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Manic Soulcaster (코스트: 3)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (6): Flamewaker, Nesting Roc, Dire Wolf Alpha, Faceless Shambler, Sunreaver Warmage, Wyrmguard
+  Field: Manic Soulcaster[3/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (8)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 4, Step 5] Agent: 공격 - Manic Soulcaster[3/4] -> Rexxar
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(25) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Dire Wolf Alpha (코스트: 2)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 8] Opponent: 카드 플레이 - Sunreaver Spy (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/5
+  Hand (6): Flamewaker, Nesting Roc, Faceless Shambler, Sunreaver Warmage, Wyrmguard, Bug Collector
+  Field: Manic Soulcaster[4/4], Dire Wolf Alpha[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (7)
+  Field: Sunreaver Spy[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 5, Step 10] Agent: 공격 - Manic Soulcaster[4/4] -> Sunreaver Spy
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Faceless Shambler -> Locust (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (5): Flamewaker, Nesting Roc, Sunreaver Warmage, Wyrmguard, Burgly Bully
+  Field: Manic Soulcaster[4/2], Dire Wolf Alpha[2/2], Bug Collector[3/1], Locust[1/1], Faceless Shambler[1/1]
+Opponent: Rexxar HP: 26, Mana: 1/5
+  Hand (7)
+  Field: Elise Starseeker[3/5]
+[Turn 6, Step 15] Agent: 공격 - Bug Collector[3/1] -> Elise Starseeker
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 6, Step 16] Agent: 공격 - Locust[2/1] -> Rexxar
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 6, Step 17] Agent: 공격 - Manic Soulcaster[4/2] -> Elise Starseeker
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(44) → 6로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/7
+  Hand (5): Flamewaker, Nesting Roc, Sunreaver Warmage, Wyrmguard, Burgly Bully
+  Field: Dire Wolf Alpha[2/2], Locust[2/1], Faceless Shambler[1/1], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 24, Mana: 3/6
+  Hand (7)
+  Field: Blubber Baron[3/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(83) → 17로 보정
+[Turn 8, Step 21] Agent: 공격 - Locust[2/1] -> Blubber Baron

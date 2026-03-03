@@ -1,0 +1,349 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 3, Step 4] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Rustsworn Initiate, Hungry Ettin, Prince Valanar, The Beast, Chef Nomi, Mayor Noggenfogger, Snowchugger
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (6)
+  Field: Dragonslayer[4/3]
+[Turn 4, Step 5] Agent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Goblin Prank -> Dragonslayer (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 9] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (6): Hungry Ettin, Prince Valanar, The Beast, Chef Nomi, Mayor Noggenfogger, Tournament Attendee
+  Field: Rustsworn Initiate[2/2], Snowchugger[2/3]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 13] Agent: 공격 - Tournament Attendee[2/1] -> Rexxar
+[Turn 6, Step 14] Agent: 카드 플레이 - Prince Valanar (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/6
+  Hand (5): Hungry Ettin, The Beast, Chef Nomi, Mayor Noggenfogger, Crowd Roaster
+  Field: Rustsworn Initiate[2/2], Snowchugger[2/3], Tournament Attendee[2/1], Prince Valanar[4/4]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (7)
+[Turn 6, Step 15] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+[Turn 6, Step 16] Agent: 공격 - Rustsworn Initiate[2/2] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 19] Agent: 공격 - Tournament Attendee[2/1] -> Bonechewer Brawler
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/7
+  Hand (6): Hungry Ettin, The Beast, Chef Nomi, Mayor Noggenfogger, Crowd Roaster, Scaleworm
+  Field: Rustsworn Initiate[2/2], Snowchugger[2/3], Prince Valanar[4/4]
+Opponent: Rexxar HP: 22, Mana: 2/6
+  Hand (6)
+  Field: Puddlestomper[3/2], Bonechewer Brawler[4/1]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Crowd Roaster -> Bonechewer Brawler (코스트: 7)
+[Turn 8, Step 22] Agent: 공격 - Snowchugger[2/3] -> Bonechewer Brawler
+[Turn 8, Step 23] Agent: 공격 - Rustsworn Initiate[2/2] -> Rexxar
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Gyrocopter[4/5] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 8, Step 24] Opponent: 공격 - Puddlestomper[3/2] -> Crowd Roaster
+[Turn 8, Step 24] Opponent: 공격 - Gyrocopter[4/5] -> Prince Valanar
+[Turn 8, Step 24] Opponent: 영웅 능력 사용
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/9
+  Hand (7): Unpowered Steambot, Hungry Ettin, The Beast, Chef Nomi, Mayor Noggenfogger, Scaleworm, Nat Pagle
+  Field: Rustsworn Initiate[2/2], Crowd Roaster[7/1], Shadowy Figure[2/2]
+Opponent: Rexxar HP: 20, Mana: 0/8
+  Hand (6)
+  Field: Gyrocopter[4/1], Hungry Ettin[4/10]
+[Turn 9, Step 25] Agent: 카드 플레이 - Scaleworm (코스트: 4)
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Scaleworm
+[Turn 9, Step 27] Agent: 공격 - Shadowy Figure[2/2] -> Hungry Ettin
+[Turn 9, Step 28] Agent: 공격 - Crowd Roaster[7/1] -> Hungry Ettin
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 공격 - Hungry Ettin[4/1] -> Jaina Proudmoore
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Unpowered Steambot, Hungry Ettin, The Beast, Chef Nomi, Mayor Noggenfogger, Nat Pagle, Ancient Mage
+  Field: Rustsworn Initiate[2/2], Scaleworm[4/3]
+Opponent: Rexxar HP: 20, Mana: 9/9
+  Hand (7)
+  Field: Gyrocopter[4/1], Hungry Ettin[4/1]
+[Turn 10, Step 30] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 10, Step 31] Agent: 공격 - Rustsworn Initiate[2/2] -> Hungry Ettin
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 33] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 34] Agent: 공격 - Scaleworm[4/3] -> Mana Wyrm
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/10
+  Hand (5): Unpowered Steambot, The Beast, Chef Nomi, Mayor Noggenfogger, Ancient Mage
+  Field: Impcaster[1/1], Scaleworm[4/2], Hungry Ettin[4/10], Nat Pagle[0/4]
+Opponent: Rexxar HP: 20, Mana: 9/9
+  Hand (7)
+  Field: Gyrocopter[4/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 37] Agent: 공격 - Scaleworm[4/2] -> Gyrocopter
+[Turn 10, Step 38] Agent: 공격 - Hungry Ettin[4/10] -> Rexxar
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (7): The Beast, Chef Nomi, Mayor Noggenfogger, Ancient Mage, Zola the Gorgon, Mukla's Champion, Replicating Menace
+  Field: Impcaster[1/1], Hungry Ettin[4/10], Nat Pagle[0/4], Unpowered Steambot[0/9]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (7)
+  Field: Darkmire Moonkin[2/8], Fel Orc Soulfiend[3/7]
+[Turn 10, Step 40] Agent: 공격 - Impcaster[1/1] -> Darkmire Moonkin
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 10, Step 43] Agent: 공격 - Hungry Ettin[4/10] -> Darkmire Moonkin
+[Turn 10, Step 44] Agent: 카드 플레이 - Zola the Gorgon -> Unpowered Steambot (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (6): The Beast, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot
+  Field: Hungry Ettin[4/8], Nat Pagle[0/4], Unpowered Steambot[0/9], Ancient Mage[2/5], Zola the Gorgon[2/2]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (7)
+  Field: Darkmire Moonkin[2/3], Fel Orc Soulfiend[3/7]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Leper Gnome[1/1] -> Hench-Clan Hogsteed
+[Turn 10, Step 49] Agent: 공격 - Ancient Mage[2/5] -> Hench-Clan Squire
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (9): Tanglefur Mystic, The Beast, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot, Candletaker, Desert Hare
+  Field: Hungry Ettin[4/8], Nat Pagle[0/4], Unpowered Steambot[0/9], Ancient Mage[2/4], Zola the Gorgon[2/2]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (8)
+  Field: Darkmire Moonkin[2/3], Fel Orc Soulfiend[3/3]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Darkmire Moonkin
+[Turn 10, Step 51] Agent: 공격 - Hungry Ettin[4/8] -> Fel Orc Soulfiend
+[Turn 10, Step 52] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 10, Step 53] Agent: 공격 - Zola the Gorgon[2/2] -> Rexxar
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (9): Tanglefur Mystic, The Beast, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot, Candletaker, Celestial Emissary
+  Field: Hungry Ettin[4/5], Nat Pagle[0/4], Unpowered Steambot[0/9], Ancient Mage[2/4], Zola the Gorgon[2/2], Desert Hare[1/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (9)
+  Field: Darkmire Moonkin[2/2]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Ancient Mage
+[Turn 10, Step 56] Agent: 공격 - Desert Hare[1/1] -> Darkmire Moonkin
+[Turn 10, Step 57] Agent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 58] Agent: 공격 - Zola the Gorgon[2/2] -> Rexxar
+[Turn 10, Step 59] Agent: 공격 - Hungry Ettin[4/5] -> Darkmire Moonkin
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 2/10
+  Hand (8): Tanglefur Mystic, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot, Candletaker, Celestial Emissary
+  Field: Hungry Ettin[4/3], Nat Pagle[0/4], Unpowered Steambot[0/9], Ancient Mage[2/3], Zola the Gorgon[2/2], Desert Hare[1/1], The Beast[9/7]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 60] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Mountain Giant (코스트: 4)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Zola the Gorgon[2/2] -> Rexxar
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Mountain Giant
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Molten Giant (코스트: 0)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Stonehill Defender (코스트: 3)
+[Turn 10, Step 64] Opponent: 선택 - Sky Gen'ral Kragg
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (10): Tanglefur Mystic, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot, Candletaker, Celestial Emissary, Ice Rager, Kvaldir Raider
+  Field: Hungry Ettin[4/3], Nat Pagle[0/4], Unpowered Steambot[0/9], Ancient Mage[2/3], Zola the Gorgon[2/2], Desert Hare[1/1], The Beast[9/7]
+Opponent: Rexxar HP: 6, Mana: 2/10
+  Hand (5)
+  Field: Seaforium Bomber[5/5], Mountain Giant[8/7], Molten Giant[8/8], Cogmaster[1/2], Lil' Exorcist[3/4], Zombie Chow[2/3], Stonehill Defender[1/4]
+[Turn 10, Step 65] Agent: 공격 - Hungry Ettin[4/3] -> Stonehill Defender
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 67] Agent: 공격 - The Beast[9/7] -> Lil' Exorcist
+[Turn 10, Step 68] Agent: 공격 - Ancient Mage[2/3] -> Seaforium Bomber
+[Turn 10, Step 69] Agent: 공격 - Zola the Gorgon[2/2] -> Cogmaster
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (10): Tanglefur Mystic, Chef Nomi, Mayor Noggenfogger, Mukla's Champion, Replicating Menace, Unpowered Steambot, Candletaker, Celestial Emissary, Ice Rager, Kvaldir Raider
+  Field: Hungry Ettin[4/2], Nat Pagle[0/4], Unpowered Steambot[0/9], Zola the Gorgon[2/1], Desert Hare[1/1], The Beast[9/4]
+Opponent: Rexxar HP: 6, Mana: 2/10
+  Hand (5)
+  Field: Seaforium Bomber[5/3], Mountain Giant[8/7], Molten Giant[8/8], Zombie Chow[2/3]
+[Turn 10, Step 70] Agent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 10, Step 71] Agent: 공격 - Desert Hare[1/1] -> Zombie Chow
+[Turn 10, Step 72] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 공격 - Hungry Ettin[4/2] -> Zombie Chow
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (10): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Unpowered Steambot, Candletaker, Celestial Emissary, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Netherwind Portal
+  Field: Nat Pagle[0/4], Unpowered Steambot[0/9], Zola the Gorgon[2/1], The Beast[9/4], Mukla's Champion[4/3], Tanglefur Mystic[3/4]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (7)
+  Field: Seaforium Bomber[5/3], Mountain Giant[8/7], Molten Giant[8/8]
+[Turn 10, Step 75] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 76] Agent: 공격 - Tanglefur Mystic[3/4] -> Molten Giant
+[Turn 10, Step 77] Agent: 공격 - The Beast[9/4] -> Seaforium Bomber
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Unpowered Steambot
+[Turn 10, Step 79] Agent: 카드 플레이 - Candletaker (코스트: 3)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (8): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Celestial Emissary, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Netherwind Portal
+  Field: Nat Pagle[1/5], Unpowered Steambot[1/9], Zola the Gorgon[3/2], Mukla's Champion[5/4], Unpowered Steambot[1/10], Candletaker[3/2]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (7)
+  Field: Mountain Giant[8/7], Molten Giant[8/5], Finkle Einhorn[3/3]
+[Turn 10, Step 80] Agent: 공격 - Unpowered Steambot[1/9] -> Molten Giant
+[Turn 10, Step 81] Agent: 공격 - Nat Pagle[1/5] -> Molten Giant
+[Turn 10, Step 82] Agent: 공격 - Zola the Gorgon[3/2] -> Molten Giant
+[Turn 10, Step 83] Agent: 공격 - Mukla's Champion[5/4] -> Rexxar
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 영웅 능력 사용
+[Turn 10, Step 84] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (9): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Celestial Emissary, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Netherwind Portal, Primordial Glyph
+  Field: Unpowered Steambot[1/1], Mukla's Champion[5/4], Unpowered Steambot[1/10], Candletaker[3/2]
+Opponent: Rexxar HP: 1, Mana: 6/10
+  Hand (7)
+  Field: Mountain Giant[8/7], Finkle Einhorn[3/3], Questing Explorer[2/3]
+[Turn 10, Step 85] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Celestial Emissary
+[Turn 10, Step 87] Agent: 공격 - Unpowered Steambot[2/11] -> Finkle Einhorn
+[Turn 10, Step 88] Agent: 카드 플레이 - Netherwind Portal (코스트: 3)
+[Turn 10, Step 89] Agent: 공격 - Mukla's Champion[6/5] -> Finkle Einhorn
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (7): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Primordial Glyph
+  Field: Unpowered Steambot[2/2], Mukla's Champion[6/2], Unpowered Steambot[2/8], Candletaker[4/3]
+Opponent: Rexxar HP: 1, Mana: 6/10
+  Hand (7)
+  Field: Mountain Giant[8/7], Questing Explorer[2/3]
+[Turn 10, Step 90] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 10, Step 91] Agent: 선택 - Meteor
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 91] Opponent: 공격 - Mountain Giant[8/7] -> Unpowered Steambot
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 공격 - Unpowered Steambot[2/8] -> Questing Explorer
+[Turn 10, Step 93] Agent: 카드 플레이 - Meteor -> Questing Explorer (코스트: 4)
+[Turn 10, Step 94] Agent: 영웅 능력 사용 -> Mukla's Champion
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 4/10
+  Hand (7): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Stormwind Knight
+  Field: Mukla's Champion[7/2], Unpowered Steambot[3/7], Candletaker[5/4]
+Opponent: Rexxar HP: 1, Mana: 4/10
+  Hand (7)
+  Field: Mountain Giant[8/2], Xavius[7/2]
+[Turn 10, Step 95] Agent: 공격 - Mukla's Champion[7/2] -> Rexxar
+
+--- Game State (Turn 10, Step 96) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 4/10
+  Hand (7): Chef Nomi, Mayor Noggenfogger, Replicating Menace, Ice Rager, Kvaldir Raider, Sir Finley of the Sands, Stormwind Knight
+  Field: Mukla's Champion[7/2], Unpowered Steambot[3/7], Candletaker[5/4]
+Opponent: Rexxar HP: 0, Mana: 4/10
+  Hand (7)
+  Field: Mountain Giant[8/2], Xavius[7/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

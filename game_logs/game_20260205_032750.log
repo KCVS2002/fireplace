@@ -1,0 +1,377 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/3
+  Hand (7): Clockwork Knight, Happy Ghoul, Forbidden Flame, Murloc Tidehunter, North Sea Kraken, Wasteland Scorpid, Cursed Disciple
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Forbidden Flame -> Cursed Disciple (코스트: 0)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 4, Step 8] Opponent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 공격 - Cursed Disciple[5/1] -> Clockwork Gnome
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (7): Clockwork Knight, Happy Ghoul, Murloc Tidehunter, North Sea Kraken, Wasteland Scorpid, Research Project, Flamewaker
+  Field: Cursed Revenant[5/1]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (6)
+  Field: Explosive Sheep[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Cursed Revenant
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 공격 - Explosive Sheep[1/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 카드 플레이 - Spiteful Summoner (코스트: 6)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(93) → 13로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(86) → 6로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/7
+  Hand (8): Clockwork Knight, Happy Ghoul, Murloc Tidehunter, North Sea Kraken, Wasteland Scorpid, Research Project, Flamewaker, Gnomish Experimenter
+  Field: Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 29, Mana: 2/7
+  Hand (5)
+  Field: Explosive Sheep[1/1], Spiteful Summoner[4/4], Garrison Commander[2/2], Overconfident Orc[3/6], Stonesplinter Trogg[3/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(71) → 21로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Overconfident Orc
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(37) → 9로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Faceless Manipulator -> Garrison Commander (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (10): Clockwork Knight, Happy Ghoul, Murloc Tidehunter, North Sea Kraken, Wasteland Scorpid, Flamewaker, Gnomish Experimenter, Unexpected Results, Tortollan Primalist, Arcanosaur
+  Field: Mirror Image[0/2], Mirror Image[0/2], Garrison Commander[2/2]
+Opponent: Rexxar HP: 29, Mana: 9/9
+  Hand (9)
+  Field: Explosive Sheep[1/1], Spiteful Summoner[4/4], Garrison Commander[2/2], Overconfident Orc[1/5], Stonesplinter Trogg[4/3]
+[Turn 9, Step 20] Agent: 카드 플레이 - Flamewaker (코스트: 3)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(20) → 1로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 9, Step 22] Agent: 공격 - Garrison Commander[2/2] -> Overconfident Orc
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(43) → 7로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - North Sea Kraken -> Garrison Commander (코스트: 9)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/10
+  Hand (8): Happy Ghoul, Murloc Tidehunter, Wasteland Scorpid, Gnomish Experimenter, Unexpected Results, Tortollan Primalist, Arcanosaur, Babbling Book
+  Field: Mirror Image[0/2], Mirror Image[0/2], Garrison Commander[2/1], Flamewaker[2/4], Clockwork Knight[5/5], North Sea Kraken[9/7]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (10)
+  Field: Explosive Sheep[1/1], Spiteful Summoner[4/4], Overconfident Orc[1/3], Stonesplinter Trogg[4/3]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 공격 - Spiteful Summoner[4/4] -> Mirror Image
+[Turn 10, Step 25] Opponent: 영웅 능력 사용
+[Turn 10, Step 25] Opponent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 25] Opponent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 10, Step 25] Opponent: 공격 - Overconfident Orc[1/3] -> Mirror Image
+[Turn 10, Step 25] Opponent: 공격 - Explosive Sheep[1/1] -> Mirror Image
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(68) → 16로 보정
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(51) → 12로 보정
+[Turn 10, Step 27] Agent: 공격 - North Sea Kraken[9/7] -> Overconfident Orc
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(59) → 15로 보정
+[Turn 10, Step 28] Agent: 공격 - Flamewaker[2/4] -> Ogre Brute
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(42) → 10로 보정
+[Turn 10, Step 29] Agent: 공격 - Clockwork Knight[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (9): Happy Ghoul, Murloc Tidehunter, Wasteland Scorpid, Gnomish Experimenter, Unexpected Results, Tortollan Primalist, Arcanosaur, Babbling Book, Rustsworn Initiate
+  Field: Clockwork Knight[5/5], North Sea Kraken[9/6]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (8)
+  Field: Explosive Sheep[1/1], Spiteful Summoner[4/4], Stonesplinter Trogg[4/3], Holomancer[3/3], Ogre Brute[4/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(27) → 7로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Devastate -> North Sea Kraken (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(62) → 8로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (7): Happy Ghoul, Murloc Tidehunter, Wasteland Scorpid, Gnomish Experimenter, Unexpected Results, Tortollan Primalist, Arcanosaur
+  Field: Clockwork Knight[5/5], North Sea Kraken[9/2], Babbling Book[1/1], Rustsworn Initiate[2/2], Gilblin Stalker[2/3]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (9)
+  Field: Explosive Sheep[1/1], Spiteful Summoner[4/4], Stonesplinter Trogg[5/3], Holomancer[3/3], Rustsworn Initiate[1/1], Babbling Book[1/1], Ogre Brute[4/2]
+[Turn 10, Step 35] Agent: 공격 - North Sea Kraken[9/2] -> Rustsworn Initiate
+[Turn 10, Step 36] Agent: 공격 - Babbling Book[1/1] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(63) → 25로 보정
+[Turn 10, Step 37] Agent: 공격 - Clockwork Knight[5/5] -> Stonesplinter Trogg
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Armor Plating -> Babbling Book (코스트: 1)
+[Turn 10, Step 38] Opponent: 공격 - Explosive Sheep[1/1] -> North Sea Kraken
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(98) → 14로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Impcaster
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (8): Happy Ghoul, Murloc Tidehunter, Wasteland Scorpid, Gnomish Experimenter, Unexpected Results, Tortollan Primalist, Arcanosaur, Shieldbreaker
+  Field: Gilblin Stalker[2/1]
+Opponent: Rexxar HP: 23, Mana: 6/10
+  Hand (8)
+  Field: Spiteful Summoner[4/2], Holomancer[3/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 41] Agent: 공격 - Gilblin Stalker[2/1] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Happy Ghoul[1/1] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (6): Wasteland Scorpid, Gnomish Experimenter, Tortollan Primalist, Arcanosaur, Shieldbreaker, Worgen Infiltrator
+  Field: Gilblin Stalker[2/1], Happy Ghoul[3/3], Echoing Ooze[1/2], Sharkfin Fan[2/2], Murloc Tidehunter[2/1], Murloc Scout[1/1]
+Opponent: Rexxar HP: 21, Mana: 2/10
+  Hand (7)
+  Field: Spiteful Summoner[4/2], Holomancer[3/1], Murloc Tidehunter[1/1], Happy Ghoul[1/1], Night Howler[3/4], Twilight Summoner[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(84) → 21로 보정
+[Turn 10, Step 45] Agent: 공격 - Gilblin Stalker[2/1] -> Rexxar
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 47] Agent: 공격 - Happy Ghoul[3/3] -> Twilight Summoner
+[Turn 10, Step 48] Agent: 공격 - Sharkfin Fan[2/2] -> Spiteful Summoner
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(38) → 13로 보정
+[Turn 10, Step 49] Agent: 공격 - Murloc Tidehunter[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (6): Wasteland Scorpid, Gnomish Experimenter, Tortollan Primalist, Arcanosaur, Shieldbreaker, Worgen Infiltrator
+  Field: Gilblin Stalker[2/1], Happy Ghoul[3/2], Echoing Ooze[1/2], Murloc Tidehunter[2/1], Murloc Scout[1/1]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (7)
+  Field: Holomancer[3/1], Murloc Tidehunter[1/1], Happy Ghoul[1/1], Night Howler[3/4], Faceless Destroyer[5/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(36) → 17로 보정
+[Turn 10, Step 50] Agent: 공격 - Murloc Scout[1/1] -> Night Howler
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(94) → 3로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Tortollan Primalist (코스트: 8)
+[Turn 10, Step 52] Agent: 선택 - Font of Power
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Echoing Ooze[1/2] -> Holomancer
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Faceless Destroyer[5/5] -> Murloc Tidehunter
+[Turn 10, Step 53] Opponent: 공격 - Happy Ghoul[1/1] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 공격 - Night Howler[5/3] -> Happy Ghoul
+[Turn 10, Step 53] Opponent: 공격 - Murloc Tidehunter[1/1] -> Tortollan Primalist
+[Turn 10, Step 53] Opponent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 9/10
+  Hand (6): Wasteland Scorpid, Gnomish Experimenter, Arcanosaur, Shieldbreaker, Arcane Keysmith, Candletaker
+  Field: Gilblin Stalker[2/1], Tortollan Primalist[5/3], Huntress[1/1], Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 17, Mana: 4/10
+  Hand (6)
+  Field: Tortollan Primalist[1/1], Happy Ghoul[1/1], Faceless Destroyer[5/3], Grimestreet Smuggler[2/4], Terrorguard Escapee[3/7]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(63) → 27로 보정
+[Turn 10, Step 55] Agent: 공격 - Tortollan Primalist[5/3] -> Faceless Destroyer
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(89) → 11로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Tortollan Primalist
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 10, Step 57] Agent: 공격 - Huntress[1/1] -> Terrorguard Escapee
+[Turn 10, Step 58] Agent: 공격 - Gilblin Stalker[2/1] -> Rexxar
+[Turn 10, Step 59] Agent: 카드 플레이 - Candletaker (코스트: 3)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 4/10
+  Hand (5): Wasteland Scorpid, Gnomish Experimenter, Arcanosaur, Shieldbreaker, Arcane Keysmith
+  Field: Gilblin Stalker[2/1], Worgen Infiltrator[2/1], Candletaker[3/2]
+Opponent: Rexxar HP: 15, Mana: 4/10
+  Hand (6)
+  Field: Happy Ghoul[1/1], Grimestreet Smuggler[2/4], Terrorguard Escapee[3/6]
+[Turn 10, Step 60] Agent: 카드 플레이 - Gnomish Experimenter (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Chicken (코스트: 1)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Happy Ghoul[1/1] -> Gnomish Experimenter
+[Turn 10, Step 62] Opponent: 공격 - Terrorguard Escapee[3/6] -> Gnomish Experimenter
+[Turn 10, Step 62] Opponent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Arcanosaur (코스트: 6)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(68) → 20로 보정
+[Turn 10, Step 64] Agent: 공격 - Candletaker[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 4/10
+  Hand (4): Wasteland Scorpid, Shieldbreaker, Arcane Keysmith, Clockwork Automaton
+  Field: Gilblin Stalker[2/1], Worgen Infiltrator[2/1], Candletaker[3/2], Arcanosaur[3/3]
+Opponent: Rexxar HP: 12, Mana: 2/10
+  Hand (6)
+  Field: Grimestreet Smuggler[2/4], Terrorguard Escapee[3/3], Ragnaros the Firelord[8/8]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 10, Step 65] Agent: 공격 - Worgen Infiltrator[2/1] -> Ragnaros the Firelord
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(55) → 10로 보정
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Arcanosaur
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 10, Step 67] Agent: 공격 - Gilblin Stalker[2/1] -> Ragnaros the Firelord
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(28) → 3로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Arcane Keysmith (코스트: 4)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 6/10
+  Hand (4): Wasteland Scorpid, Shieldbreaker, Clockwork Automaton, Meteor
+  Field: Candletaker[3/2], Arcanosaur[3/2], Arcane Keysmith[2/2]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (7)
+  Field: Grimestreet Smuggler[2/4], Terrorguard Escapee[3/3], Ragnaros the Firelord[8/4]
+[Turn 10, Step 70] Agent: 선택 - Ice Barrier
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(73) → 23로 보정
+[Turn 10, Step 70] Agent: 공격 - Arcanosaur[3/2] -> Terrorguard Escapee
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(26) → 10로 보정
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Candletaker
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 72] Agent: 공격 - Candletaker[3/1] -> Ragnaros the Firelord
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 공격 - Grimestreet Smuggler[2/4] -> Jaina Proudmoore
+[Turn 10, Step 73] Opponent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 10, Step 73] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(47) → 11로 보정
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (5): Wrapped Golem, Wasteland Scorpid, Shieldbreaker, Clockwork Automaton, Meteor
+  Field: Arcane Keysmith[2/2]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (6)
+  Field: Grimestreet Smuggler[2/4], Ragnaros the Firelord[8/1], Bonechewer Vanguard[4/10], Kobold Sandtrooper[2/1]
+[Turn 10, Step 75] Agent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Shieldbreaker -> Bonechewer Vanguard (코스트: 2)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(86) → 9로 보정
+[Turn 10, Step 79] Agent: 공격 - Scarab[1/1] -> Bonechewer Vanguard
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 1/10
+  Hand (3): Clockwork Automaton, Meteor, Mana Wraith
+  Field: Wrapped Golem[7/5], Wasteland Scorpid[3/9], Shieldbreaker[2/1]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (7)
+  Field: Grimestreet Smuggler[2/4], Ragnaros the Firelord[8/1], Bonechewer Vanguard[4/9], Kobold Sandtrooper[2/1]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 80] Agent: 공격 - Wrapped Golem[7/5] -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 카드 플레이 - Deathwing (코스트: 10)
+[Turn 10, Step 81] Opponent: 턴 종료

@@ -1,0 +1,135 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Questing Explorer (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Deathspeaker, Chillwind Yeti, Soup Vendor, Dragonhatcher
+  Field: Mirror Image[0/2], Mirror Image[0/2], Questing Explorer[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Imprisoned Vilefiend[3/5]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Primalfin Lookout (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Deathspeaker -> Mirror Image (코스트: 3)
+[Turn 3, Step 7] Agent: 공격 - Questing Explorer[2/3] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Mirror Image
+[Turn 3, Step 8] Opponent: 공격 - Primalfin Lookout[3/2] -> Mirror Image
+[Turn 3, Step 8] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (4): Soup Vendor, Dragonhatcher, Primalfin Lookout, Dragonmaw Sky Stalker
+  Field: Questing Explorer[2/3], Deathspeaker[2/4], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (4)
+  Field: Imprisoned Vilefiend[3/5], Primalfin Lookout[3/2]
+[Turn 4, Step 10] Agent: 공격 - Questing Explorer[2/3] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Deathspeaker[2/4] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Deathspeaker
+[Turn 4, Step 12] Opponent: 공격 - Primalfin Lookout[3/2] -> Questing Explorer
+[Turn 4, Step 12] Opponent: 카드 플레이 - Cobra Shot -> Imprisoned Vilefiend (코스트: 5)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 5, Step 14] Agent: 카드 플레이 - Primalfin Lookout (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/5
+  Hand (3): Dragonhatcher, Dragonmaw Sky Stalker, Explosive Runes
+  Field: Deathspeaker[2/1], Chillwind Yeti[4/5], Soup Vendor[1/4], Primalfin Lookout[3/2]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (4)
+[Turn 5, Step 15] Agent: 공격 - Deathspeaker[2/1] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Chillwind Yeti[4/5] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 5, Step 17] Opponent: 공격 - Leeroy Jenkins[6/2] -> Jaina Proudmoore
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 6, Step 19] Agent: 공격 - Deathspeaker[2/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/6
+  Hand (3): Dragonhatcher, Explosive Runes, Mojomaster Zihi
+  Field: Deathspeaker[2/1], Whelp[1/1], Whelp[1/1], Chillwind Yeti[4/5], Soup Vendor[1/4], Primalfin Lookout[3/2], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 16, Mana: 1/6
+  Hand (4)
+  Field: Leeroy Jenkins[6/2]
+[Turn 6, Step 20] Agent: 공격 - Whelp[1/1] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Whelp[1/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Chillwind Yeti[4/5] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Soup Vendor[1/4] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Primalfin Lookout[3/2] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/6
+  Hand (3): Dragonhatcher, Explosive Runes, Mojomaster Zihi
+  Field: Deathspeaker[2/1], Whelp[1/1], Whelp[1/1], Chillwind Yeti[4/5], Soup Vendor[1/4], Primalfin Lookout[3/2], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 6, Mana: 1/6
+  Hand (4)
+  Field: Leeroy Jenkins[6/2]
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 공격 - Leeroy Jenkins[6/2] -> Jaina Proudmoore
+[Turn 6, Step 25] Opponent: 카드 플레이 - Molten Giant (코스트: 0)
+[Turn 6, Step 25] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 6, Step 25] Opponent: 카드 플레이 - Rapid Fire -> Soup Vendor (코스트: 1)
+[Turn 6, Step 25] Opponent: 카드 플레이 - Rapid Fire -> Jaina Proudmoore (코스트: 1)
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 7, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 28] Agent: 공격 - Deathspeaker[2/1] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Whelp[1/1] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 2/7
+  Hand (3): Dragonhatcher, Mojomaster Zihi, Skeram Cultist
+  Field: Deathspeaker[2/1], Whelp[1/1], Whelp[1/1], Chillwind Yeti[4/5], Soup Vendor[1/3], Primalfin Lookout[3/2], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 3, Mana: 0/7
+  Hand (4)
+  Field: Leeroy Jenkins[6/2], Molten Giant[8/8], Cobalt Spellkin[3/5]
+[Turn 7, Step 30] Agent: 공격 - Whelp[1/1] -> Rexxar
+[Turn 7, Step 31] Agent: 공격 - Chillwind Yeti[4/5] -> Rexxar
+
+--- Game State (Turn 7, Step 32) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 2/7
+  Hand (3): Dragonhatcher, Mojomaster Zihi, Skeram Cultist
+  Field: Deathspeaker[2/1], Whelp[1/1], Whelp[1/1], Chillwind Yeti[4/5], Soup Vendor[1/3], Primalfin Lookout[3/2], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 0, Mana: 0/7
+  Hand (4)
+  Field: Leeroy Jenkins[6/2], Molten Giant[8/8], Cobalt Spellkin[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

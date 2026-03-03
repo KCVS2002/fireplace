@@ -1,0 +1,258 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Glacial Shard -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(73) → 7로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Glacial Shard
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/2
+  Hand (5): Open the Waygate, Junkbot, Hungry Ettin, Wretched Tiller, Gilblin Stalker
+  Field: Lightwarden[1/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Cloaked Huntress (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Lightwarden
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Cloaked Huntress
+[Turn 4, Step 9] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/4
+  Hand (6): Junkbot, Hungry Ettin, Wretched Tiller, Gilblin Stalker, Snap Freeze, Foe Reaper 4000
+  Field: Lightwarden[1/1]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (5)
+  Field: Cloaked Huntress[3/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 4, Step 10] Agent: 공격 - Lightwarden[1/1] -> Rexxar
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(40) → 1로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Junkbot (코스트: 5)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (6): Wretched Tiller, Gilblin Stalker, Snap Freeze, Foe Reaper 4000, Kezan Mystic, EVIL Cable Rat
+  Field: Lightwarden[1/1], Junkbot[1/5], Hungry Ettin[4/10]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Cloaked Huntress[3/3], Golakka Crawler[2/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 6, Step 15] Agent: 공격 - Lightwarden[1/1] -> Cloaked Huntress
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(84) → 18로 보정
+[Turn 7, Step 17] Agent: 공격 - Junkbot[1/5] -> Golakka Crawler
+[Turn 7, Step 18] Agent: 카드 플레이 - Snap Freeze -> Hungry Ettin (코스트: 2)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Cloaked Huntress
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/7
+  Hand (6): Wretched Tiller, Gilblin Stalker, Foe Reaper 4000, Kezan Mystic, EVIL Cable Rat, Toxicologist
+  Field: Junkbot[1/3], Hungry Ettin[4/10]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (8)
+  Field: Cloaked Huntress[3/1], Golakka Crawler[2/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 7, Step 21] Agent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Faceless Manipulator -> Junkbot (코스트: 5)
+[Turn 7, Step 22] Opponent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(96) → 12로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Golakka Crawler
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 8, Step 24] Agent: 공격 - EVIL Cable Rat[1/1] -> Gnomeregan Infantry
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/8
+  Hand (6): Gilblin Stalker, Foe Reaper 4000, Kezan Mystic, Toxicologist, Draconic Lackey, Golden Scarab
+  Field: Junkbot[1/3], Hungry Ettin[4/10], Wretched Tiller[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/8
+  Hand (7)
+  Field: Cloaked Huntress[3/1], Golakka Crawler[2/1], Junkbot[1/3], Gnomeregan Infantry[1/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 8, Step 26] Agent: 공격 - Wretched Tiller[1/1] -> Gnomeregan Infantry
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 8, Step 27] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 8, Step 28] Agent: 선택 - Magtheridon
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 8, Step 28] Agent: 공격 - Hungry Ettin[4/10] -> Gnomeregan Infantry
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 8, Step 29] Agent: 공격 - Junkbot[1/3] -> Golakka Crawler
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/8
+  Hand (5): Gilblin Stalker, Foe Reaper 4000, Kezan Mystic, Draconic Lackey, Magtheridon
+  Field: Junkbot[1/1], Hungry Ettin[4/9], Toxicologist[2/2], Golden Scarab[2/2]
+Opponent: Rexxar HP: 27, Mana: 0/8
+  Hand (7)
+  Field: Cloaked Huntress[3/1], Junkbot[1/3]
+[Turn 8, Step 30] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 8, Step 30] Agent: 카드 플레이 - Draconic Lackey (코스트: 1)
+[Turn 8, Step 31] Agent: 선택 - Malygos, Aspect of Magic
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 카드 플레이 - Bomb Squad -> Golden Scarab (코스트: 5)
+[Turn 8, Step 31] Opponent: 공격 - Cloaked Huntress[3/1] -> Hungry Ettin
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(75) → 21로 보정
+[Turn 9, Step 32] Agent: 공격 - Toxicologist[2/2] -> Rexxar
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 9, Step 33] Agent: 영웅 능력 사용 -> Draconic Lackey
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 9, Step 34] Agent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/9
+  Hand (5): Foe Reaper 4000, Kezan Mystic, Magtheridon, Malygos, Aspect of Magic, Coppertail Imposter
+  Field: Junkbot[1/1], Hungry Ettin[4/6], Toxicologist[2/2], Gilblin Stalker[2/3]
+Opponent: Rexxar HP: 25, Mana: 4/9
+  Hand (7)
+  Field: Junkbot[1/3], Bomb Squad[2/2]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(36) → 3로 보정
+[Turn 9, Step 35] Agent: 카드 플레이 - Malygos, Aspect of Magic (코스트: 5)
+[Turn 9, Step 36] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 9, Step 36] Agent: 공격 - Junkbot[1/1] -> Bomb Squad
+[Turn 9, Step 37] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(86) → 8로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Hungry Ettin
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/10
+  Hand (4): Foe Reaper 4000, Kezan Mystic, Magtheridon, Gadgetzan Auctioneer
+  Field: Hungry Ettin[4/5], Toxicologist[2/2], Gilblin Stalker[2/3], Malygos, Aspect of Magic[2/8], Coppertail Imposter[4/4]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Junkbot[1/3], Bomb Squad[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 40] Agent: 공격 - Hungry Ettin[4/5] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 41] Agent: 공격 - Gilblin Stalker[2/3] -> Junkbot
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(98) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Malygos, Aspect of Magic[2/8] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 44] Agent: 공격 - Toxicologist[2/2] -> Hellfire Warder
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/10
+  Hand (3): Foe Reaper 4000, Kezan Mystic, Gadgetzan Auctioneer
+  Field: Hungry Ettin[4/5], Toxicologist[2/1], Gilblin Stalker[2/2], Malygos, Aspect of Magic[2/8], Coppertail Imposter[4/4], Magtheridon[12/12]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (8)
+  Field: Junkbot[1/1], Bomb Squad[2/1], Hellfire Warder[1/3], Hellfire Warder[1/3], Hellfire Warder[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Junkbot[1/1] -> Hungry Ettin
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(98) → 16로 보정
+[Turn 10, Step 46] Agent: 공격 - Hungry Ettin[4/4] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(45) → 9로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Bomb Squad
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(62) → 20로 보정
+[Turn 10, Step 48] Agent: 공격 - Coppertail Imposter[4/4] -> Hellfire Warder
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/10
+  Hand (3): Foe Reaper 4000, Kezan Mystic, Gadgetzan Auctioneer
+  Field: Hungry Ettin[4/4], Toxicologist[2/1], Gilblin Stalker[2/2], Malygos, Aspect of Magic[2/8], Coppertail Imposter[4/3], Magtheridon[12/12], Coppertail Imposter[4/4]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (9)
+  Field: Hellfire Warder[1/3], Hellfire Warder[1/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 50] Agent: 공격 - Gilblin Stalker[2/2] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Malygos, Aspect of Magic[2/8] -> Hellfire Warder
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Toxicologist[2/1] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Hellfire Warder
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (4): Foe Reaper 4000, Kezan Mystic, Gadgetzan Auctioneer, Deep Freeze
+  Field: Hungry Ettin[4/4], Toxicologist[2/1], Gilblin Stalker[2/2], Malygos, Aspect of Magic[2/7], Coppertail Imposter[4/3], Magtheridon[12/12], Coppertail Imposter[4/4]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (10)
+  Field: Hellfire Warder[1/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 55] Agent: 공격 - Hungry Ettin[4/4] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(38) → 12로 보정
+[Turn 10, Step 56] Agent: 공격 - Coppertail Imposter[4/4] -> Hellfire Warder
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 57] Agent: 공격 - Toxicologist[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 58) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (4): Foe Reaper 4000, Kezan Mystic, Gadgetzan Auctioneer, Deep Freeze
+  Field: Hungry Ettin[4/4], Toxicologist[2/1], Gilblin Stalker[2/2], Malygos, Aspect of Magic[2/7], Coppertail Imposter[4/3], Magtheridon[12/12], Coppertail Imposter[4/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

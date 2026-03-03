@@ -1,0 +1,310 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Faithful Lumi (코스트: 1)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 3, Step 4] Agent: 공격 - Faithful Lumi[1/1] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/3
+  Hand (5): Rumbletusk Shaker, Nat, the Darkfisher, Flame Juggler, Kooky Chemist, SI:7 Infiltrator
+  Field: Faithful Lumi[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Voodoo Doctor -> Rexxar (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 4, Step 7] Agent: 공격 - Faithful Lumi[1/1] -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): Rumbletusk Shaker, Flame Juggler, Kooky Chemist, SI:7 Infiltrator, Hemet, Jungle Hunter, Desert Obelisk
+  Field: Faithful Lumi[1/1], Nat, the Darkfisher[2/4]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (7)
+  Field: Voodoo Doctor[2/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(77) → 9로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 5, Step 11] Agent: 공격 - Faithful Lumi[1/1] -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Metaltooth Leaper (코스트: 3)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 5, Step 12] Opponent: 공격 - Voodoo Doctor[2/1] -> Faithful Lumi
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(84) → 8로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Desert Obelisk (코스트: 5)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/7
+  Hand (7): Rumbletusk Shaker, Flame Juggler, Kooky Chemist, SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Acidic Swamp Ooze
+  Field: Nat, the Darkfisher[2/4], Desert Obelisk[0/5]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (7)
+  Field: Metaltooth Leaper[3/3], Skaterbot[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 7, Step 16] Agent: 공격 - Nat, the Darkfisher[2/4] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 공격 - Nat, the Darkfisher[2/4] -> Skaterbot
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/8
+  Hand (7): Flame Juggler, Kooky Chemist, SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Acidic Swamp Ooze, Wrapped Golem
+  Field: Nat, the Darkfisher[2/3], Desert Obelisk[0/5], Rumbletusk Shaker[3/2]
+Opponent: Rexxar HP: 24, Mana: 7/7
+  Hand (8)
+  Field: Metaltooth Leaper[3/3]
+[Turn 8, Step 20] Agent: 카드 플레이 - Kooky Chemist -> Rumbletusk Shaker (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Furious Ettin (코스트: 7)
+[Turn 8, Step 21] Opponent: 공격 - Metaltooth Leaper[3/3] -> Kooky Chemist
+[Turn 8, Step 21] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 공격 - Furious Ettin[5/8] -> Nat, the Darkfisher
+[Turn 9, Step 23] Opponent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 9, Step 23] Opponent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 9, Step 23] Opponent: 공격 - Mecharoo[1/1] -> Desert Obelisk
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Stonesplinter Trogg
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (7): SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Acidic Swamp Ooze, Wrapped Golem, Second-Rate Bruiser, Disciple of C'Thun
+  Field: Desert Obelisk[0/4], Rumbletusk Shaker[2/3], Kooky Chemist[4/1], Flame Juggler[2/3]
+Opponent: Rexxar HP: 24, Mana: 7/9
+  Hand (8)
+  Field: Furious Ettin[5/6], Mecharoo[1/1], Stonesplinter Trogg[2/2], Murloc Tinyfin[1/1]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Disciple of C'Thun -> Rexxar (코스트: 3)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 27] Agent: 공격 - Rumbletusk Shaker[2/3] -> Furious Ettin
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 공격 - Murloc Tinyfin[1/1] -> Disciple of C'Thun
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 29] Opponent: 공격 - Furious Ettin[5/4] -> Acidic Swamp Ooze
+[Turn 10, Step 29] Opponent: 공격 - Stonesplinter Trogg[2/2] -> Jaina Proudmoore
+[Turn 10, Step 29] Opponent: 공격 - Mecharoo[1/1] -> Jaina Proudmoore
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Wrapped Golem, Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard
+  Field: Desert Obelisk[0/4], Rumbletusk Breaker[3/2], Kooky Chemist[4/1], Flame Juggler[2/3]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (9)
+  Field: Furious Ettin[5/1], Mecharoo[1/1], Stonesplinter Trogg[2/2], Nozdormu[8/8]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(33) → 12로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Furious Ettin
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(23) → 4로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Rumbletusk Breaker[3/2] -> Hyldnir Frostrider
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Gazlowe (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (6): SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard
+  Field: Desert Obelisk[0/4], Kooky Chemist[4/1], Flame Juggler[2/3], Wrapped Golem[7/5], Scarab[1/1], Gazlowe[3/6]
+Opponent: Rexxar HP: 22, Mana: 7/10
+  Hand (9)
+  Field: Mecharoo[1/1], Stonesplinter Trogg[2/2], Nozdormu[8/8], Hyldnir Frostrider[4/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Scarab
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Kooky Chemist[4/1] -> Mecharoo
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 37] Agent: 공격 - Flame Juggler[2/3] -> Jo-E Bot
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 38] Agent: 공격 - Wrapped Golem[7/5] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): SI:7 Infiltrator, Hemet, Jungle Hunter, Lost Tallstrider, Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard, Sorcerer's Apprentice
+  Field: Desert Obelisk[0/4], Flame Juggler[2/2], Wrapped Golem[7/5], Scarab[1/1], Gazlowe[3/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+  Field: Stonesplinter Trogg[2/2], Nozdormu[8/8], Hyldnir Frostrider[4/1]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(49) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(92) → 12로 보정
+[Turn 10, Step 42] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 10, Step 43] Agent: 공격 - Gazlowe[3/6] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(58) → 10로 보정
+[Turn 10, Step 44] Agent: 공격 - Wrapped Golem[7/5] -> Nozdormu
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (6): SI:7 Infiltrator, Hemet, Jungle Hunter, Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard, Sorcerer's Apprentice
+  Field: Desert Obelisk[0/4], Flame Juggler[2/2], Wrapped Golem[7/1], Scarab[1/1], Gazlowe[3/6], Lost Tallstrider[5/4]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Stonesplinter Trogg[2/2], Nozdormu[8/1], Hyldnir Frostrider[4/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Flame Juggler[2/2] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(64) → 19로 보정
+[Turn 10, Step 48] Agent: 공격 - Flame Juggler[2/2] -> Illuminator
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(65) → 16로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Nozdormu
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (6): Hemet, Jungle Hunter, Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard, Sorcerer's Apprentice, Carnivorous Cube
+  Field: Desert Obelisk[0/4], Wrapped Golem[7/1], Scarab[1/1], Gazlowe[3/6], Lost Tallstrider[5/4], SI:7 Infiltrator[5/4]
+Opponent: Rexxar HP: 9, Mana: 5/10
+  Hand (8)
+  Field: Stonesplinter Trogg[2/2], Hyldnir Frostrider[4/1], Illuminator[2/2], Imprisoned Vilefiend[3/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(63) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Hemet, Jungle Hunter (코스트: 6)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Wrapped Golem[7/1] -> Stonesplinter Trogg
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Colossus of the Moon (코스트: 10)
+[Turn 10, Step 52] Opponent: 공격 - Hyldnir Frostrider[4/1] -> Scarab
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(94) → 30로 보정
+[Turn 10, Step 53] Agent: 공격 - Hemet, Jungle Hunter[6/6] -> Illuminator
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(31) → 6로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Carnivorous Cube -> Gazlowe (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (5): Second-Rate Bruiser, Hakkar, the Soulflayer, Blizzard, Sorcerer's Apprentice, Lord of the Arena
+  Field: Desert Obelisk[0/4], Lost Tallstrider[5/4], SI:7 Infiltrator[5/4], Hemet, Jungle Hunter[6/4], Carnivorous Cube[4/6]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (8)
+  Field: Imprisoned Vilefiend[3/5], Colossus of the Moon[10/10]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(53) → 8로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Hemet, Jungle Hunter
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 10, Step 56] Opponent: 공격 - Colossus of the Moon[10/10] -> SI:7 Infiltrator
+[Turn 10, Step 56] Opponent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 56] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Desert Obelisk
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 58] Agent: 공격 - Lost Tallstrider[5/4] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Blizzard (코스트: 6)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 2/10
+  Hand (5): Second-Rate Bruiser, Hakkar, the Soulflayer, Sorcerer's Apprentice, Lord of the Arena, Skeram Cultist
+  Field: Desert Obelisk[0/1], Lost Tallstrider[5/4], Hemet, Jungle Hunter[6/3], Carnivorous Cube[4/6]
+Opponent: Rexxar HP: 3, Mana: 1/10
+  Hand (7)
+  Field: Imprisoned Vilefiend[3/3], Colossus of the Moon[10/8], Mosh'Ogg Announcer[6/3], Lost Tallstrider[5/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(65) → 7로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Imprisoned Vilefiend
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 63] Agent: 공격 - Lost Tallstrider[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (5): Second-Rate Bruiser, Hakkar, the Soulflayer, Sorcerer's Apprentice, Lord of the Arena, Skeram Cultist
+  Field: Desert Obelisk[0/1], Lost Tallstrider[5/4], Hemet, Jungle Hunter[6/3], Carnivorous Cube[4/6], Stormwatcher[4/8]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Imprisoned Vilefiend[3/2], Colossus of the Moon[10/8], Mosh'Ogg Announcer[6/3], Lost Tallstrider[5/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

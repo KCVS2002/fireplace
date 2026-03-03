@@ -1,0 +1,262 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 2, Step 3] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 2, Step 4] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (2): Deck of Wonders, Naga Sand Witch
+  Field: Jar Dealer[1/1], Clockwork Gnome[2/1], Emerald Reaver[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/1
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 7] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 3, Step 8] Agent: 공격 - Clockwork Gnome[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Emerald Reaver[2/1] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/3
+  Hand (3): Deck of Wonders, Naga Sand Witch, Doppelgangster
+  Field: Jar Dealer[1/1], Clockwork Gnome[2/1], Emerald Reaver[2/1]
+Opponent: Rexxar HP: 23, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 공격 - Clockwork Gnome[2/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Emerald Reaver[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 4, Step 14] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/4
+  Hand (3): Deck of Wonders, Naga Sand Witch, Doppelgangster
+  Field: Jar Dealer[1/1], Clockwork Gnome[2/1], Emerald Reaver[2/1]
+Opponent: Rexxar HP: 18, Mana: 1/3
+  Hand (6)
+  Field: Bloodsail Raider[2/3]
+[Turn 4, Step 15] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 15] Opponent: 공격 - Bloodsail Raider[2/3] -> Clockwork Gnome
+[Turn 4, Step 15] Opponent: 카드 플레이 - Maiev Shadowsong -> Jar Dealer (코스트: 4)
+[Turn 4, Step 15] Opponent: 턴 종료
+[Turn 5, Step 16] Agent: 공격 - Emerald Reaver[2/1] -> Maiev Shadowsong
+[Turn 5, Step 17] Agent: 영웅 능력 사용 -> Maiev Shadowsong
+[Turn 5, Step 18] Agent: 카드 플레이 - Armor Plating -> Bloodsail Raider (코스트: 1)
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 5, Step 19] Opponent: 공격 - Bloodsail Raider[2/2] -> Jaina Proudmoore
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (5): Deck of Wonders, Naga Sand Witch, Doppelgangster, Dragonslayer, Rusty Recycler
+  Field: Jar Dealer[1/1]
+Opponent: Rexxar HP: 18, Mana: 1/5
+  Hand (6)
+  Field: Bloodsail Raider[2/2], Blackwater Pirate[2/5]
+[Turn 6, Step 20] Agent: 영웅 능력 사용 -> Blackwater Pirate
+[Turn 6, Step 21] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 영웅 능력 사용
+[Turn 6, Step 22] Opponent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 6, Step 22] Opponent: 공격 - Bloodsail Raider[2/2] -> Jar Dealer
+[Turn 6, Step 22] Opponent: 공격 - Blackwater Pirate[2/4] -> Jaina Proudmoore
+[Turn 6, Step 22] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 공격 - Dragonslayer[4/3] -> Bloodsail Raider
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Dragonslayer
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/7
+  Hand (6): Deck of Wonders, Naga Sand Witch, Doppelgangster, Rusty Recycler, Shadowhoof Slayer, Tunnel Blaster
+Opponent: Rexxar HP: 18, Mana: 0/6
+  Hand (6)
+  Field: Blackwater Pirate[2/4], Igneous Elemental[2/3], Jeweled Macaw[1/1]
+[Turn 7, Step 25] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 공격 - Igneous Elemental[2/3] -> Jaina Proudmoore
+[Turn 7, Step 26] Opponent: 카드 플레이 - Feugen (코스트: 5)
+[Turn 7, Step 26] Opponent: 영웅 능력 사용
+[Turn 7, Step 26] Opponent: 공격 - Blackwater Pirate[2/4] -> Jaina Proudmoore
+[Turn 7, Step 26] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 영웅 능력 사용 -> Igneous Elemental
+[Turn 8, Step 28] Agent: 카드 플레이 - Naga Sand Witch (코스트: 5)
+[Turn 8, Step 29] Agent: 카드 플레이 - Shadowhoof Slayer (코스트: 1)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/8
+  Hand (4): Doppelgangster, Rusty Recycler, Tunnel Blaster, Malygos, Aspect of Magic
+  Field: Naga Sand Witch[5/5], Shadowhoof Slayer[2/1]
+Opponent: Rexxar HP: 18, Mana: 0/7
+  Hand (6)
+  Field: Blackwater Pirate[2/4], Igneous Elemental[2/2], Jeweled Macaw[1/1], Feugen[4/7]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 8, Step 30] Opponent: 공격 - Igneous Elemental[2/2] -> Shadowhoof Slayer
+[Turn 8, Step 30] Opponent: 공격 - Feugen[4/7] -> Naga Sand Witch
+[Turn 8, Step 30] Opponent: 영웅 능력 사용
+[Turn 8, Step 30] Opponent: 공격 - Blackwater Pirate[2/4] -> Jaina Proudmoore
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 공격 - Naga Sand Witch[5/1] -> Jeweled Macaw
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> The Beast
+[Turn 9, Step 33] Agent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 공격 - Feugen[4/2] -> Doppelgangster
+[Turn 9, Step 34] Opponent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 9, Step 34] Opponent: 공격 - The Beast[9/6] -> Doppelgangster
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (5): Rusty Recycler, Tunnel Blaster, Malygos, Aspect of Magic, Replicating Menace, Pyroblast
+  Field: Doppelgangster[2/2]
+Opponent: Rexxar HP: 18, Mana: 6/9
+  Hand (8)
+  Field: Blackwater Pirate[2/4], The Beast[9/4], Scarlet Crusader[3/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 10, Step 36] Agent: 카드 플레이 - Rusty Recycler (코스트: 5)
+[Turn 10, Step 37] Agent: 공격 - Doppelgangster[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Scarlet Crusader[3/1] -> Rusty Recycler
+[Turn 10, Step 38] Opponent: 카드 플레이 - Burly Shovelfist (코스트: 9)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 38] Opponent: 공격 - The Beast[9/4] -> Rusty Recycler
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Doppelgangster[2/1] -> Burly Shovelfist
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (5): Tunnel Blaster, Malygos, Aspect of Magic, Replicating Menace, Pyroblast, Counterspell
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (7)
+  Field: Blackwater Pirate[2/4], The Beast[9/2], Scarlet Crusader[3/1], Burly Shovelfist[9/7], Flame Elemental[1/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Scarlet Crusader
+[Turn 10, Step 41] Agent: 카드 플레이 - Tunnel Blaster (코스트: 7)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Flame Elemental[1/2] -> Tunnel Blaster
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Tunnel Blaster
+[Turn 10, Step 44] Agent: 카드 플레이 - Malygos, Aspect of Magic (코스트: 5)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (4): Replicating Menace, Pyroblast, Counterspell, Archmage Arugal
+  Field: Tunnel Blaster[3/5], Malygos, Aspect of Magic[2/8]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+  Field: Blackwater Pirate[2/4], The Beast[9/2], Burly Shovelfist[9/7]
+[Turn 10, Step 45] Agent: 카드 플레이 - Archmage Arugal (코스트: 2)
+[Turn 10, Step 46] Agent: 공격 - Tunnel Blaster[3/5] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Kobold Apprentice (코스트: 3)
+[Turn 10, Step 47] Opponent: 공격 - The Beast[9/2] -> Tunnel Blaster
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Malygos, Aspect of Magic[2/4] -> Burly Shovelfist
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Burly Shovelfist
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (4): Replicating Menace, Pyroblast, Counterspell, Flamewaker
+Opponent: Rexxar HP: 13, Mana: 7/10
+  Hand (8)
+  Field: Blackwater Pirate[2/1], Burly Shovelfist[9/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 10, Step 51] Agent: 카드 플레이 - Flamewaker (코스트: 3)
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Blackwater Pirate[2/1] -> Flamewaker
+[Turn 10, Step 52] Opponent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 10, Step 52] Opponent: 공격 - Burly Shovelfist[9/1] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Flamewaker[2/2] -> Temple Berserker
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Temple Berserker
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (3): Pyroblast, Counterspell, Terrorguard Escapee
+  Field: Replicating Menace[3/1]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: Burly Shovelfist[9/1], Arena Fanatic[2/3], Polluted Hoarder[5/3], Temple Berserker[3/1]
+[Turn 10, Step 55] Agent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 10, Step 56] Agent: 공격 - Replicating Menace[3/1] -> Rexxar
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 57] Opponent: 공격 - Polluted Hoarder[5/3] -> Terrorguard Escapee
+[Turn 10, Step 57] Opponent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 10, Step 57] Opponent: 공격 - Arena Fanatic[2/3] -> Terrorguard Escapee
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Huntress
+[Turn 10, Step 59] Agent: 공격 - Replicating Menace[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (3): Pyroblast, Counterspell, Master Oakheart
+  Field: Replicating Menace[3/1]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (6)
+  Field: Burly Shovelfist[9/1], Temple Berserker[3/1], The Beast[9/7], Spiritsinger Umbra[4/5]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Burly Shovelfist[9/1] -> Replicating Menace
+[Turn 10, Step 60] Opponent: 공격 - Temple Berserker[3/1] -> Microbot
+[Turn 10, Step 60] Opponent: 카드 플레이 - Dreadscale (코스트: 3)
+[Turn 10, Step 60] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 60] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 61) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (3): Pyroblast, Counterspell, Master Oakheart
+  Field: Microbot[1/1], Microbot[1/1]
+Opponent: Rexxar HP: 7, Mana: 4/10
+  Hand (5)
+  Field: The Beast[9/7], Spiritsinger Umbra[4/5], Dreadscale[4/2], Flame Elemental[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

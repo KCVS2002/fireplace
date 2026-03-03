@@ -1,0 +1,387 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Murloc Raider
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (7): Mistress of Mixtures, Splitting Festeroot, Mad Scientist, Dragonslayer, Fel Orc Soulfiend, Amani War Bear, Argent Horserider
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Zayle, Shadow Cloak[3/2]
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 영웅 능력 사용
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 5, Step 7] Agent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 영웅 능력 사용
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/6
+  Hand (6): Splitting Festeroot, Dragonslayer, Amani War Bear, Argent Horserider, Supreme Abyssal, Guild Recruiter
+  Field: Mad Scientist[2/2], Fel Orc Soulfiend[3/5], Mistress of Mixtures[2/2]
+Opponent: Rexxar HP: 29, Mana: 3/5
+  Hand (7)
+  Field: Zayle, Shadow Cloak[3/2]
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 6, Step 12] Agent: 공격 - Fel Orc Soulfiend[3/5] -> Zayle, Shadow Cloak
+[Turn 6, Step 13] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (6): Splitting Festeroot, Amani War Bear, Argent Horserider, Supreme Abyssal, Guild Recruiter, Wrathion
+  Field: Mad Scientist[2/2], Mistress of Mixtures[2/2], Dragonslayer[4/3]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (6)
+  Field: Dragon Breeder[2/3], Imprisoned Vilefiend[3/5]
+[Turn 7, Step 15] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 7, Step 16] Agent: 공격 - Dragonslayer[4/3] -> Dragon Breeder
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 18] Agent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 7, Step 19] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/7
+  Hand (5): Splitting Festeroot, Amani War Bear, Supreme Abyssal, Guild Recruiter, Wrathion
+  Field: Mad Scientist[2/2], Mistress of Mixtures[2/2], Dragonslayer[4/1], Argent Horserider[2/1]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (6)
+  Field: Imprisoned Vilefiend[3/5]
+[Turn 7, Step 20] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 카드 플레이 - Spellbreaker -> Mad Scientist (코스트: 4)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+[Turn 8, Step 23] Agent: 공격 - Dragonslayer[4/1] -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Mad Scientist[2/2] -> Spellbreaker
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (5): Amani War Bear, Supreme Abyssal, Guild Recruiter, Wrathion, Streetwise Investigator
+  Field: Mistress of Mixtures[2/2], Dragonslayer[4/1], Argent Horserider[2/1], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 17, Mana: 1/7
+  Hand (6)
+  Field: Imprisoned Vilefiend[3/5], Spellbreaker[4/1]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 공격 - Dragonslayer[4/1] -> Rexxar
+[Turn 9, Step 27] Agent: 공격 - Splitting Festeroot[4/4] -> Imprisoned Vilefiend
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Mistress of Mixtures
+[Turn 9, Step 29] Agent: 공격 - Mistress of Mixtures[2/1] -> Imprisoned Vilefiend
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (6): Amani War Bear, Supreme Abyssal, Guild Recruiter, Wrathion, Streetwise Investigator, Stargazer Luna
+  Field: Dragonslayer[4/1], Argent Horserider[2/1], Splitting Festeroot[4/1]
+Opponent: Rexxar HP: 17, Mana: 8/8
+  Hand (7)
+  Field: Spellbreaker[4/1]
+[Turn 9, Step 30] Agent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Wrathion
+[Turn 10, Step 33] Agent: 카드 플레이 - Deranged Doctor (코스트: 8)
+[Turn 10, Step 34] Agent: 공격 - Wrathion[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (6): Amani War Bear, Supreme Abyssal, Guild Recruiter, Streetwise Investigator, Stargazer Luna, Kalecgos
+  Field: Dragonslayer[4/1], Argent Horserider[2/1], Splitting Festeroot[4/1], Wrathion[4/4], Deranged Doctor[8/8]
+Opponent: Rexxar HP: 13, Mana: 9/9
+  Hand (8)
+  Field: Spellbreaker[4/1]
+[Turn 10, Step 35] Agent: 공격 - Argent Horserider[2/1] -> Spellbreaker
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Core Rager (코스트: 4)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Wrathion[4/4] -> Core Rager
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Pumpkin Peasant
+[Turn 10, Step 39] Agent: 공격 - Dragonslayer[4/1] -> Arcane Watcher
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (7): Amani War Bear, Supreme Abyssal, Guild Recruiter, Streetwise Investigator, Stargazer Luna, Kalecgos, Elemental Evocation
+  Field: Argent Horserider[2/1], Splitting Festeroot[4/1], Deranged Doctor[8/8]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: Arcane Watcher[5/2], Pumpkin Peasant[2/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 10, Step 41] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Deranged Doctor[8/8] -> Arcane Watcher
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Stargazer Luna
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (6): Amani War Bear, Supreme Abyssal, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound
+  Field: Argent Horserider[2/1], Splitting Festeroot[4/1], Deranged Doctor[8/3], Guild Recruiter[2/4], Hozen Healer[2/6], Stargazer Luna[2/3]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (7)
+  Field: Pumpkin Peasant[2/3]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Zilliax (코스트: 5)
+[Turn 10, Step 45] Opponent: 공격 - Zilliax[3/2] -> Hozen Healer
+[Turn 10, Step 45] Opponent: 공격 - Pumpkin Peasant[2/3] -> Stargazer Luna
+[Turn 10, Step 45] Opponent: 카드 플레이 - Swift Messenger (코스트: 4)
+[Turn 10, Step 45] Opponent: 공격 - Swift Messenger[6/2] -> Splitting Festeroot
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Pumpkin Peasant
+[Turn 10, Step 47] Agent: 공격 - Guild Recruiter[2/4] -> Zilliax
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Wild Bloodstinger (코스트: 6)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (8): Amani War Bear, Supreme Abyssal, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound, Felfin Navigator, Violet Illusionist
+  Field: Argent Horserider[2/1], Splitting Sapling[2/2], Splitting Sapling[2/2], Deranged Doctor[8/3], Guild Recruiter[2/1], Hozen Healer[2/3], Stargazer Luna[2/1]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (5)
+  Field: Mechwarper[2/3], Wild Bloodstinger[6/5]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Splitting Sapling
+[Turn 10, Step 51] Agent: 공격 - Splitting Sapling[2/1] -> Wild Bloodstinger
+[Turn 10, Step 52] Agent: 공격 - Hozen Healer[2/3] -> Wild Bloodstinger
+[Turn 10, Step 53] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 54] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (7): Amani War Bear, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound, Felfin Navigator, Violet Illusionist
+  Field: Argent Horserider[2/1], Splitting Sapling[2/2], Woodchip[1/1], Deranged Doctor[8/3], Guild Recruiter[2/1], Stargazer Luna[2/1], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (5)
+  Field: Mechwarper[2/3], Wild Bloodstinger[6/1]
+[Turn 10, Step 55] Agent: 공격 - Guild Recruiter[2/1] -> Rexxar
+[Turn 10, Step 56] Agent: 공격 - Stargazer Luna[2/1] -> Mechwarper
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 57] Opponent: 공격 - Wild Bloodstinger[6/1] -> Guild Recruiter
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 공격 - Mechwarper[2/1] -> Woodchip
+[Turn 10, Step 57] Opponent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Deranged Doctor[8/3] -> Maexxna
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (9): Amani War Bear, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound, Felfin Navigator, Violet Illusionist, Dalaran Librarian, Twilight Geomancer
+  Field: Argent Horserider[2/1], Splitting Sapling[2/2], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (5)
+  Field: Acidic Swamp Ooze[3/2]
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 61] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+[Turn 10, Step 62] Agent: 공격 - Argent Horserider[2/1] -> Acidic Swamp Ooze
+[Turn 10, Step 63] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - King Togwaggle (코스트: 8)
+[Turn 10, Step 64] Opponent: 영웅 능력 사용
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (10): Amani War Bear, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound, Felfin Navigator, Violet Illusionist, Dalaran Librarian, King's Ransom, Anubisath Sentinel
+  Field: Splitting Sapling[2/2], Supreme Abyssal[12/12], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (5)
+  Field: King Togwaggle[5/5]
+[Turn 10, Step 65] Agent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 67] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 10, Step 68] Agent: 공격 - Splitting Sapling[2/2] -> King Togwaggle
+[Turn 10, Step 69] Agent: 공격 - Twilight Geomancer[1/4] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (8): Amani War Bear, Streetwise Investigator, Kalecgos, Elemental Evocation, Y'Shaarj, Rage Unbound, Felfin Navigator, King's Ransom, Anubisath Sentinel
+  Field: Woodchip[1/1], Woodchip[1/1], Supreme Abyssal[12/12], Twilight Geomancer[1/4], Dalaran Librarian[2/3], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (5)
+  Field: King Togwaggle[5/3]
+[Turn 10, Step 70] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+[Turn 10, Step 71] Agent: 공격 - Supreme Abyssal[12/12] -> King Togwaggle
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Archmage Vargoth (코스트: 4)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Bloodscalp Strategist (코스트: 3)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Supreme Abyssal
+[Turn 10, Step 74] Agent: 공격 - Woodchip[1/1] -> Duskboar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (8): Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, Felfin Navigator, King's Ransom, Anubisath Sentinel, Southsea Deckhand
+  Field: Woodchip[1/1], Supreme Abyssal[12/6], Twilight Geomancer[1/4], Dalaran Librarian[2/3], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (2)
+  Field: Archmage Vargoth[2/6], Tentacle of N'Zoth[1/1], Bloodscalp Strategist[2/4]
+[Turn 10, Step 75] Agent: 공격 - Supreme Abyssal[12/6] -> Bloodscalp Strategist
+[Turn 10, Step 76] Agent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 10, Step 77] Opponent: 공격 - Tentacle of N'Zoth[1/1] -> Dalaran Librarian
+[Turn 10, Step 77] Opponent: 공격 - Archmage Vargoth[2/5] -> Violet Illusionist
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 공격 - Twilight Geomancer[1/3] -> Mogu'shan Warden
+[Turn 10, Step 79] Agent: 영웅 능력 사용 -> Archmage Vargoth
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (8): Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, Felfin Navigator, King's Ransom, Anubisath Sentinel
+  Field: Supreme Abyssal[12/3], Twilight Geomancer[1/2], Dalaran Librarian[2/1]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (2)
+  Field: Mogu'shan Warden[1/5]
+[Turn 10, Step 80] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Mogu'shan Warden[1/5] -> Supreme Abyssal
+[Turn 10, Step 81] Opponent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 공격 - Twilight Geomancer[1/2] -> Rexxar
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 공격 - Mini-Mage[4/1] -> Felfin Navigator
+[Turn 10, Step 83] Opponent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 10, Step 83] Opponent: 영웅 능력 사용
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 영웅 능력 사용 -> Twilight Geomancer
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (9): Piloted Shredder, Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, King's Ransom, Anubisath Sentinel, Faceless Rager
+  Field: Supreme Abyssal[12/2], Twilight Geomancer[1/1], Dalaran Librarian[2/1]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (2)
+  Field: Captured Jormungar[5/9]
+[Turn 10, Step 85] Agent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 10, Step 86] Agent: 카드 플레이 - Faceless Rager -> Supreme Abyssal (코스트: 3)
+[Turn 10, Step 87] Agent: 공격 - Supreme Abyssal[12/2] -> Captured Jormungar
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 카드 플레이 - Arfus (코스트: 4)
+[Turn 10, Step 88] Opponent: 카드 플레이 - Mana Bind (코스트: 3)
+[Turn 10, Step 88] Opponent: 영웅 능력 사용
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 공격 - Dalaran Librarian[2/1] -> Arfus
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, King's Ransom, Anubisath Sentinel, Rustsworn Cultist
+  Field: Twilight Geomancer[1/1], Piloted Shredder[4/3], Faceless Rager[5/2]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (2)
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Faceless Rager
+[Turn 10, Step 91] Agent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 10, Step 92] Agent: 공격 - Piloted Shredder[4/3] -> Rexxar
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/10
+  Hand (7): Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, River Crocolisk, Kalecgos, Y'Shaarj, Rage Unbound, King's Ransom
+  Field: Twilight Geomancer[1/1], Piloted Shredder[4/3], Faceless Rager[5/1], Anubisath Sentinel[4/4], Rustsworn Cultist[3/3]
+Opponent: Rexxar HP: 7, Mana: 7/10
+  Hand (2)
+  Field: Mischief Maker[3/3]
+[Turn 10, Step 95] Agent: 공격 - Twilight Geomancer[1/1] -> Rexxar
+[Turn 10, Step 96] Agent: 영웅 능력 사용 -> Piloted Shredder
+[Turn 10, Step 97] Agent: 공격 - Faceless Rager[5/1] -> Rexxar
+[Turn 10, Step 98] Agent: 공격 - Anubisath Sentinel[4/4] -> Mischief Maker
+[Turn 10, Step 99] Agent: 카드 플레이 - River Crocolisk (코스트: 2)
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (6): Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, King's Ransom
+  Field: Twilight Geomancer[1/1], Piloted Shredder[4/2], Faceless Rager[5/1], Anubisath Sentinel[4/1], Rustsworn Cultist[3/3], River Crocolisk[2/3]
+Opponent: Rexxar HP: 1, Mana: 7/10
+  Hand (2)
+[Turn 10, Step 100] Agent: 공격 - Piloted Shredder[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 101) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (6): Mosh'Ogg Announcer, Amani War Bear, Streetwise Investigator, Kalecgos, Y'Shaarj, Rage Unbound, King's Ransom
+  Field: Twilight Geomancer[1/1], Piloted Shredder[4/2], Faceless Rager[5/1], Anubisath Sentinel[4/1], Rustsworn Cultist[3/3], River Crocolisk[2/3]
+Opponent: Rexxar HP: 0, Mana: 7/10
+  Hand (2)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

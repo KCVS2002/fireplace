@@ -1,0 +1,499 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (7): Open the Waygate, Sewer Crawler, Sharkfin Fan, The Coin, Master Oakheart, King Phaoris, Aya Blackpaw
+Opponent: Rexxar HP: 26, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(9) → 3로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (6): Sewer Crawler, Sharkfin Fan, Master Oakheart, King Phaoris, Aya Blackpaw, Lesser Ruby Spellstone
+  Field: Acolyte of Pain[1/3]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (8)
+[Turn 5, Step 10] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Acolyte of Pain[1/3] -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 영웅 능력 사용
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/6
+  Hand (6): Sharkfin Fan, Master Oakheart, King Phaoris, Aya Blackpaw, Explosive Runes, Faithful Lumi
+  Field: Acolyte of Pain[1/3], Sewer Crawler[1/1], Giant Rat[2/3]
+Opponent: Rexxar HP: 25, Mana: 4/6
+  Hand (9)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 6, Step 15] Agent: 공격 - Sewer Crawler[1/1] -> Rexxar
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 6, Step 16] Agent: 카드 플레이 - Faithful Lumi (코스트: 1)
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 6, Step 18] Opponent: 영웅 능력 사용
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(61) → 13로 보정
+[Turn 7, Step 19] Agent: 공격 - Giant Rat[2/3] -> Sludge Belcher
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (5): Master Oakheart, King Phaoris, Aya Blackpaw, Explosive Runes, Force-Tank MAX
+  Field: Acolyte of Pain[1/3], Sewer Crawler[1/1], Faithful Lumi[1/1], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 24, Mana: 0/7
+  Hand (9)
+  Field: Sludge Belcher[3/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Sharkfin Fan
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 7, Step 21] Agent: 공격 - Acolyte of Pain[1/3] -> Sludge Belcher
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 7, Step 22] Agent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(37) → 4로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Vaporize (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/8
+  Hand (5): Master Oakheart, King Phaoris, Aya Blackpaw, Explosive Runes, Force-Tank MAX
+  Field: Murmy[1/1]
+Opponent: Rexxar HP: 24, Mana: 3/8
+  Hand (9)
+  Field: Sludge Belcher[3/1], Dragonmaw Scorcher[3/6]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 8, Step 27] Opponent: 카드 플레이 - Halazzi, the Lynx (코스트: 5)
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Murmy
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 공격 - Dragonmaw Scorcher[4/7] -> Jaina Proudmoore
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (6): Master Oakheart, King Phaoris, Aya Blackpaw, Force-Tank MAX, Burly Rockjaw Trogg, Unpowered Steambot
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (10)
+  Field: Sludge Belcher[3/1], Halazzi, the Lynx[3/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Halazzi, the Lynx
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Master Oakheart (코스트: 9)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Aya Blackpaw[5/3] -> Sludge Belcher
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/10
+  Hand (5): King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg, Unpowered Steambot, Infectious Sporeling
+  Field: Jade Golem[2/2], Jade Golem[1/1], Master Oakheart[5/5], Boisterous Bard[3/2], Pompous Thespian[3/2], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 20, Mana: 9/10
+  Hand (9)
+  Field: Putrid Slime[1/2], Halazzi, the Lynx[3/1], Lynx[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Diving Gryphon (코스트: 3)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 38] Agent: 공격 - Boisterous Bard[3/2] -> Putrid Slime
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(60) → 18로 보정
+[Turn 10, Step 39] Agent: 공격 - Infectious Sporeling[1/2] -> Halazzi, the Lynx
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (5): King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg, Unpowered Steambot, Grim Patron
+  Field: Jade Golem[2/2], Jade Golem[1/1], Master Oakheart[5/5], Boisterous Bard[3/1], Pompous Thespian[3/2], Goblin Bomb[0/1]
+Opponent: Rexxar HP: 20, Mana: 7/10
+  Hand (10)
+  Field: Infectious Sporeling[1/2], Lynx[1/1], Diving Gryphon[4/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(90) → 5로 보정
+[Turn 10, Step 41] Agent: 공격 - Jade Golem[1/1] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(28) → 2로 보정
+[Turn 10, Step 42] Agent: 공격 - Jade Golem[2/2] -> Infectious Sporeling
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 10, Step 43] Agent: 공격 - Master Oakheart[5/5] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 10, Step 44] Opponent: 선택 - Naga Sea Witch
+[Turn 10, Step 44] Opponent: 카드 플레이 - Big-Time Racketeer (코스트: 6)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 10, Step 44] Opponent: 공격 - Lynx[1/1] -> Unpowered Steambot
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 공격 - Diving Gryphon[4/1] -> Pompous Thespian
+[Turn 10, Step 44] Opponent: 공격 - Lynx[1/1] -> Unpowered Steambot
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Stormwatcher, King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg, Grim Patron
+  Field: Infectious Sporeling[1/2], Jade Golem[1/1], Master Oakheart[5/5], Boisterous Bard[3/1], Goblin Bomb[0/1], Unpowered Steambot[0/7]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (8)
+  Field: Lynx[1/1], Big-Time Racketeer[1/1], "Little Friend"[6/6], Lynx[1/1]
+[Turn 10, Step 45] Agent: 공격 - Jade Golem[1/1] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(88) → 22로 보정
+[Turn 10, Step 46] Agent: 공격 - Infectious Sporeling[1/2] -> Lynx
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Big-Time Racketeer
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 10, Step 49] Agent: 공격 - Boisterous Bard[3/1] -> "Little Friend"
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (4): King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg, Grim Patron
+  Field: Infectious Sporeling[1/1], Jade Golem[1/1], Master Oakheart[5/5], Goblin Bomb[0/1], Unpowered Steambot[0/7], Stormwatcher[4/8]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (8)
+  Field: Lynx[1/1], "Little Friend"[6/3], Infectious Sporeling[1/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Corpse Widow (코스트: 5)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Zilliax (코스트: 5)
+[Turn 10, Step 50] Opponent: 공격 - Lynx[1/1] -> Unpowered Steambot
+[Turn 10, Step 50] Opponent: 공격 - Zilliax[3/2] -> Unpowered Steambot
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(63) → 17로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Corpse Widow
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 10, Step 52] Agent: 공격 - Master Oakheart[5/5] -> Zilliax
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 54] Agent: 공격 - Stormwatcher[4/8] -> Zilliax
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (4): Chief Inspector, King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg
+  Field: Infectious Sporeling[1/1], Jade Golem[1/1], Master Oakheart[5/2], Goblin Bomb[0/1], Unpowered Steambot[0/3], Stormwatcher[4/5], Grim Patron[3/3]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (7)
+  Field: Lynx[1/1], "Little Friend"[6/3], Infectious Sporeling[1/2], Corpse Widow[4/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(30) → 14로 보정
+[Turn 10, Step 55] Agent: 공격 - Stormwatcher[4/5] -> Infectious Sporeling
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 10, Step 56] Agent: 공격 - Jade Golem[1/1] -> Lynx
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 57] Agent: 공격 - Infectious Sporeling[1/1] -> Corpse Widow
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Infectious Sporeling[1/2] -> Unpowered Steambot
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(94) → 13로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (5): Chief Inspector, King Phaoris, Force-Tank MAX, Burly Rockjaw Trogg, Effigy
+  Field: Master Oakheart[5/2], Goblin Bomb[0/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: "Little Friend"[6/3], Infectious Sporeling[1/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(79) → 11로 보정
+[Turn 10, Step 60] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 61] Agent: 카드 플레이 - Force-Tank MAX (코스트: 8)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 10, Step 62] Agent: 공격 - Master Oakheart[5/2] -> Infectious Sporeling
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 63] Agent: 공격 - Grim Patron[3/3] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 6)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Fungalmancer, Chief Inspector, King Phaoris, Burly Rockjaw Trogg, Effigy
+  Field: Infectious Sporeling[1/2], Goblin Bomb[0/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 18, Mana: 4/10
+  Hand (8)
+  Field: "Little Friend"[6/3], Infectious Sporeling[1/1], Nerubian Prophet[4/4]
+[Turn 10, Step 65] Agent: 공격 - Infectious Sporeling[1/2] -> "Little Friend"
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(50) → 19로 보정
+[Turn 10, Step 67] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(91) → 10로 보정
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Force-Tank MAX
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 69] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (4): Fungalmancer, King Phaoris, Burly Rockjaw Trogg, Effigy
+  Field: Infectious Sporeling[1/1], Goblin Bomb[0/1], Infectious Sporeling[1/2], Grim Patron[3/3], Force-Tank MAX[7/7], Chief Inspector[4/6]
+Opponent: Rexxar HP: 17, Mana: 4/10
+  Hand (8)
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/2], Nerubian Prophet[4/4]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Infectious Sporeling[1/2] -> Force-Tank MAX
+[Turn 10, Step 70] Opponent: 공격 - Infectious Sporeling[1/2] -> Goblin Bomb
+[Turn 10, Step 70] Opponent: 공격 - Nerubian Prophet[4/4] -> Infectious Sporeling
+[Turn 10, Step 70] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 공격 - Infectious Sporeling[1/2] -> Jaina Proudmoore
+[Turn 10, Step 73] Opponent: 공격 - Sunstruck Henchman[6/5] -> Chief Inspector
+[Turn 10, Step 73] Opponent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(54) → 17로 보정
+[Turn 10, Step 74] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (6): Fungalmancer, King Phaoris, Burly Rockjaw Trogg, Effigy, Arcanologist, Eldritch Horror
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Sunstruck Henchman[6/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(56) → 25로 보정
+[Turn 10, Step 76] Agent: 공격 - Grim Patron[3/3] -> Infectious Sporeling
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Sunstruck Henchman
+[Turn 10, Step 78] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Effigy (코스트: 3)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (4): Fungalmancer, King Phaoris, Arcanologist, Eldritch Horror
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/2], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 80] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 81] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 10, Step 82] Opponent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 10, Step 82] Opponent: 카드 플레이 - Hunter's Pack (코스트: 3)
+[Turn 10, Step 82] Opponent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(59) → 18로 보정
+[Turn 10, Step 83] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 84] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (5): Fungalmancer, King Phaoris, Arcanologist, Eldritch Horror, Wasteland Scorpid
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/2], Burly Rockjaw Trogg[5/5]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (10)
+  Field: Infectious Sporeling[1/2], Dragonmaw Poacher[4/4], Nightmare Amalgam[3/4]
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 86] Agent: 공격 - Grim Patron[3/3] -> Infectious Sporeling
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 87] Agent: 공격 - Infectious Sporeling[1/2] -> Nightmare Amalgam
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 88] Agent: 공격 - Burly Rockjaw Trogg[5/5] -> Infectious Sporeling
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 89] Agent: 카드 플레이 - Arcanologist (코스트: 2)
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/10
+  Hand (4): Fungalmancer, King Phaoris, Eldritch Horror, Wasteland Scorpid
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Arcanologist[2/3]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (10)
+  Field: Dragonmaw Poacher[4/4]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 90] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(34) → 9로 보정
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(41) → 11로 보정
+[Turn 10, Step 93] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(59) → 7로 보정
+[Turn 10, Step 94] Agent: 공격 - Grim Patron[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (5): Fungalmancer, King Phaoris, Eldritch Horror, Wasteland Scorpid, Y'Shaarj, Rage Unbound
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/2], Infectious Sporeling[1/1], Arcanologist[2/3]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Dragonmaw Poacher[4/4]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(98) → 23로 보정
+[Turn 10, Step 96] Agent: 공격 - Arcanologist[2/3] -> Rexxar
+[Turn 10, Step 97] Agent: 공격 - Infectious Sporeling[1/2] -> Dragonmaw Poacher
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 카드 플레이 - Ticking Abomination (코스트: 4)
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(89) → 17로 보정
+[Turn 10, Step 99] Agent: 영웅 능력 사용 -> Ticking Abomination
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (7): Fungalmancer, King Phaoris, Eldritch Horror, Wasteland Scorpid, Y'Shaarj, Rage Unbound, Frigid Snobold, Tortollan Pilgrim
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Grim Patron[3/3], Infectious Sporeling[1/1], Arcanologist[2/3]
+Opponent: Rexxar HP: 5, Mana: 6/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2], Ticking Abomination[5/5]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 10, Step 100] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 101] Agent: 카드 플레이 - Tortollan Pilgrim (코스트: 8)
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(24) → 8로 보정
+[Turn 10, Step 102] Agent: 공격 - Grim Patron[3/3] -> Infectious Sporeling
+[Turn 10, Step 103] Agent: 유효하지 않은 액션 인덱스(62) → 8로 보정
+[Turn 10, Step 103] Agent: 공격 - Arcanologist[2/3] -> Ticking Abomination
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 104] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (6): Fungalmancer, King Phaoris, Eldritch Horror, Wasteland Scorpid, Y'Shaarj, Rage Unbound, Frigid Snobold
+  Field: Infectious Sporeling[1/1], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/1], Tortollan Pilgrim[5/5]
+Opponent: Rexxar HP: 3, Mana: 6/10
+  Hand (9)
+  Field: Ticking Abomination[5/3]
+[Turn 10, Step 105] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 105] Agent: 공격 - Infectious Sporeling[1/1] -> Ticking Abomination
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 10, Step 106] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 107] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 107] Opponent: 턴 종료
+[Turn 10, Step 108] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 10, Step 108] Agent: 카드 플레이 - Eldritch Horror (코스트: 8)
+[Turn 10, Step 109] Agent: 유효하지 않은 액션 인덱스(58) → 18로 보정
+[Turn 10, Step 109] Agent: 공격 - Tortollan Pilgrim[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (5): Fungalmancer, King Phaoris, Wasteland Scorpid, Y'Shaarj, Rage Unbound, Frigid Snobold
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/1], Tortollan Pilgrim[5/5], Eldritch Horror[6/10]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Infectious Sporeling[1/2]
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (5): Fungalmancer, King Phaoris, Wasteland Scorpid, Y'Shaarj, Rage Unbound, Frigid Snobold
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Infectious Sporeling[1/1], Tortollan Pilgrim[5/5], Eldritch Horror[6/10]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Infectious Sporeling[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

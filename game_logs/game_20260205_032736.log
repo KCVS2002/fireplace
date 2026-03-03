@@ -1,0 +1,468 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 1, Step 3] Opponent: 공격 - Leper Gnome[1/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 카드 플레이 - Guardian Augmerchant -> Leper Gnome (코스트: 1)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Validated Doomsayer, Evil Heckler, Wretched Tiller, Frenzied Felwing, Echoing Ooze, Meteorologist, Hungry Ettin
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (3)
+  Field: Wretched Tiller[1/1], Guardian Augmerchant[2/1]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(75) → 9로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Wretched Tiller
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (8): Validated Doomsayer, Evil Heckler, Frenzied Felwing, Echoing Ooze, Meteorologist, Hungry Ettin, Polymorph: Boar, Junkbot
+  Field: Wretched Tiller[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (4)
+  Field: Guardian Augmerchant[2/1], Ice Cream Peddler[3/5]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(74) → 6로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Polymorph: Boar -> Wretched Tiller (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Boar[4/2] -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (6): Validated Doomsayer, Evil Heckler, Frenzied Felwing, Meteorologist, Junkbot, Genzo, the Shark
+  Field: Boar[4/2], Echoing Ooze[1/2], Echoing Ooze[1/2], Hungry Ettin[4/10]
+Opponent: Rexxar HP: 25, Mana: 6/6
+  Hand (5)
+  Field: Guardian Augmerchant[2/1], Ice Cream Peddler[3/5], Felstalker[4/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Ice Cream Peddler[3/5] -> Hungry Ettin
+[Turn 6, Step 15] Opponent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 6, Step 15] Opponent: 공격 - Guardian Augmerchant[2/1] -> Hungry Ettin
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Fire Plume Phoenix -> Felstalker (코스트: 4)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Felstalker[4/1] -> Hungry Ettin
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Junkbot (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/8
+  Hand (6): Validated Doomsayer, Evil Heckler, Frenzied Felwing, Meteorologist, Genzo, the Shark, Drakonid Crusher
+  Field: Boar[4/2], Echoing Ooze[1/2], Echoing Ooze[1/2], Hungry Ettin[4/1], Fire Plume Phoenix[3/3], Junkbot[1/5]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (6)
+  Field: Ice Cream Peddler[3/1], Skyfin[3/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(46) → 14로 보정
+[Turn 8, Step 20] Agent: 공격 - Fire Plume Phoenix[3/3] -> Ice Cream Peddler
+[Turn 8, Step 21] Agent: 공격 - Echoing Ooze[1/2] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(11) → 4로 보정
+[Turn 8, Step 22] Agent: 공격 - Echoing Ooze[1/2] -> Skyfin
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 8, Step 23] Agent: 공격 - Hungry Ettin[4/1] -> Skyfin
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 8, Step 24] Agent: 공격 - Boar[4/2] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/8
+  Hand (6): Validated Doomsayer, Evil Heckler, Frenzied Felwing, Meteorologist, Genzo, the Shark, Drakonid Crusher
+  Field: Boar[4/2], Echoing Ooze[1/2], Junkbot[1/5]
+Opponent: Rexxar HP: 19, Mana: 8/8
+  Hand (6)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Validated Doomsayer (코스트: 5)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Boar
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 9, Step 29] Agent: 공격 - Junkbot[1/5] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/9
+  Hand (5): Evil Heckler, Frenzied Felwing, Meteorologist, Genzo, the Shark, Drakonid Crusher
+  Field: Boar[4/1], Echoing Ooze[1/2], Junkbot[1/5], Validated Doomsayer[0/7], Frostwolf Grunt[2/2]
+Opponent: Rexxar HP: 18, Mana: 9/9
+  Hand (7)
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 9, Step 30] Agent: 공격 - Echoing Ooze[1/2] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Hogger, Doom of Elwynn (코스트: 7)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(62) → 12로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Validated Doomsayer
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(42) → 8로 보정
+[Turn 10, Step 33] Agent: 공격 - Boar[4/1] -> Hogger, Doom of Elwynn
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(37) → 4로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (5): Evil Heckler, Frenzied Felwing, Meteorologist, Drakonid Crusher, Corrupted Healbot
+  Field: Echoing Ooze[1/2], Junkbot[1/5], Validated Doomsayer[7/6], Frostwolf Grunt[2/2], Genzo, the Shark[5/4]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (6)
+  Field: Hogger, Doom of Elwynn[6/2], Gnoll[2/2], Hogger, Doom of Elwynn[3/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 35] Agent: 공격 - Junkbot[1/5] -> Gnoll
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 10, Step 36] Agent: 공격 - Frostwolf Grunt[2/2] -> Gnoll
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 38] Agent: 공격 - Echoing Ooze[1/2] -> Rexxar
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Kabal Chemist (코스트: 4)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Pint-Size Potion (코스트: 1)
+[Turn 10, Step 39] Opponent: 공격 - Hogger, Doom of Elwynn[3/3] -> Genzo, the Shark
+[Turn 10, Step 39] Opponent: 공격 - Hogger, Doom of Elwynn[6/2] -> Genzo, the Shark
+[Turn 10, Step 39] Opponent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Evil Heckler, Meteorologist, Drakonid Crusher, Corrupted Healbot, Safeguard
+  Field: Echoing Ooze[1/2], Junkbot[1/3], Validated Doomsayer[7/6], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (5)
+  Field: Gnoll[2/2], Hogger, Doom of Elwynn[3/1], Gnoll[2/2], Kabal Chemist[3/3], Baron Rivendare[1/7]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(36) → 11로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Hogger, Doom of Elwynn
+[Turn 10, Step 41] Agent: 카드 플레이 - Evil Heckler (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 10, Step 42] Agent: 공격 - Junkbot[1/3] -> Gnoll
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Frenzied Felwing[3/2] -> Gnoll
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Mosh'Ogg Enforcer (코스트: 8)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Mountain Giant, Meteorologist, Drakonid Crusher, Corrupted Healbot, Safeguard
+  Field: Echoing Ooze[1/2], Junkbot[1/1], Validated Doomsayer[7/6], Evil Heckler[5/4]
+Opponent: Rexxar HP: 16, Mana: 2/10
+  Hand (5)
+  Field: Gnoll[2/1], Gnoll[2/2], Kabal Chemist[3/3], Baron Rivendare[1/7], Mosh'Ogg Enforcer[2/14]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(68) → 10로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Validated Doomsayer
+[Turn 10, Step 46] Agent: 카드 플레이 - Safeguard (코스트: 6)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(70) → 5로 보정
+[Turn 10, Step 47] Agent: 공격 - Junkbot[1/1] -> Gnoll
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 10, Step 48] Agent: 공격 - Echoing Ooze[1/2] -> Gnoll
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 49] Agent: 공격 - Evil Heckler[5/4] -> Gnoll
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (4): Mountain Giant, Meteorologist, Drakonid Crusher, Corrupted Healbot
+  Field: Validated Doomsayer[7/5], Evil Heckler[5/2], Safeguard[4/5]
+Opponent: Rexxar HP: 16, Mana: 2/10
+  Hand (5)
+  Field: Kabal Chemist[3/3], Baron Rivendare[1/7], Mosh'Ogg Enforcer[2/14]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 공격 - Mosh'Ogg Enforcer[2/14] -> Safeguard
+[Turn 10, Step 50] Opponent: 공격 - Kabal Chemist[3/3] -> Safeguard
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Mountain Giant (코스트: 8)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 10, Step 53] Opponent: 공격 - Baron Rivendare[1/7] -> Evil Heckler
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (6): Meteorologist, Drakonid Crusher, Corrupted Healbot, Deathwing, Mecha'thun, Chillmaw
+  Field: Validated Doomsayer[7/5], Evil Heckler[5/1], Vault Safe[0/3], Mountain Giant[8/8]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+  Field: Baron Rivendare[1/2], Mosh'Ogg Enforcer[2/14], Core Hound[9/5], Mad Bomber[3/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Corrupted Healbot (코스트: 5)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(53) → 8로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Mountain Giant
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 57] Agent: 공격 - Validated Doomsayer[7/5] -> Mosh'Ogg Enforcer
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Evil Heckler[5/1] -> Mosh'Ogg Enforcer
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 59] Agent: 공격 - Mountain Giant[8/7] -> Mosh'Ogg Enforcer
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (5): Meteorologist, Drakonid Crusher, Deathwing, Mecha'thun, Chillmaw
+  Field: Validated Doomsayer[7/3], Vault Safe[0/3], Mountain Giant[8/5], Corrupted Healbot[6/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+  Field: Baron Rivendare[1/2], Core Hound[9/5], Mad Bomber[3/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Core Hound[9/5] -> Vault Safe
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Corrupted Healbot
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Venomizer (코스트: 2)
+[Turn 10, Step 62] Opponent: 공격 - Baron Rivendare[1/2] -> Corrupted Healbot
+[Turn 10, Step 62] Opponent: 카드 플레이 - Master's Call (코스트: 3)
+[Turn 10, Step 62] Opponent: 선택 - Cheaty Anklebiter
+[Turn 10, Step 62] Opponent: 공격 - Mad Bomber[3/2] -> Corrupted Healbot
+[Turn 10, Step 62] Opponent: 카드 플레이 - Tentacled Menace (코스트: 5)
+[Turn 10, Step 62] Opponent: 공격 - Core Hound[9/5] -> Mountain Giant
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 공격 - Corrupted Healbot[6/1] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 64] Agent: 공격 - Validated Doomsayer[7/3] -> Venomizer
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Meteorologist, Drakonid Crusher, Deathwing, Mecha'thun, Chillmaw, Transmogrifier, Foe Reaper 4000, Young Priestess
+  Field: Corrupted Healbot[6/1]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (7)
+  Field: Tentacled Menace[6/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Cheaty Anklebiter -> Corrupted Healbot (코스트: 2)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Feugen (코스트: 5)
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (7): Meteorologist, Drakonid Crusher, Deathwing, Mecha'thun, Transmogrifier, Foe Reaper 4000, Pyromaniac
+  Field: Chillmaw[6/7], Ravasaur Runt[2/2], Young Priestess[2/1]
+Opponent: Rexxar HP: 18, Mana: 5/10
+  Hand (7)
+  Field: Tentacled Menace[6/5], Cheaty Anklebiter[2/1], Feugen[4/7]
+[Turn 10, Step 70] Agent: 공격 - Chillmaw[6/7] -> Cheaty Anklebiter
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(81) → 18로 보정
+[Turn 10, Step 71] Agent: 공격 - Young Priestess[2/1] -> Rexxar
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(45) → 9로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 10, Step 73] Agent: 공격 - Ravasaur Runt[2/2] -> Tentacled Menace
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (6): Meteorologist, Drakonid Crusher, Deathwing, Mecha'thun, Foe Reaper 4000, Pyromaniac
+  Field: Chillmaw[6/5], Young Priestess[2/1], Transmogrifier[2/3]
+Opponent: Rexxar HP: 17, Mana: 5/10
+  Hand (7)
+  Field: Tentacled Menace[6/3], Feugen[4/7]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 공격 - Tentacled Menace[6/2] -> Chillmaw
+[Turn 10, Step 76] Opponent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 10, Step 76] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 10, Step 76] Opponent: 영웅 능력 사용
+[Turn 10, Step 76] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(82) → 14로 보정
+[Turn 10, Step 77] Agent: 공격 - Transmogrifier[2/1] -> Ornery Tortoise
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - King Togwaggle (코스트: 8)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (5): Drakonid Crusher, Deathwing, Mecha'thun, Foe Reaper 4000, Pyromaniac
+  Field: King Togwaggle[5/5]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (6)
+  Field: Ornery Tortoise[3/3], Toxic Sewer Ooze[4/3], Boneguard Lieutenant[3/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 80] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 80] Opponent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 80] Opponent: 카드 플레이 - Hungry Dragon (코스트: 4)
+[Turn 10, Step 80] Opponent: 턴 종료
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 10, Step 83] Agent: 공격 - King Togwaggle[5/5] -> Toxic Sewer Ooze
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Beaming Sidekick -> Drakonid Crusher (코스트: 1)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (4): Deathwing, Mecha'thun, Foe Reaper 4000, Pyromaniac
+  Field: King Togwaggle[5/1], Shadowbomber[2/1], Drakonid Crusher[9/11], Beaming Sidekick[1/2]
+Opponent: Rexxar HP: 11, Mana: 2/10
+  Hand (5)
+  Field: Ornery Tortoise[3/3], Boneguard Lieutenant[3/2], Burrowing Scorpid[5/2], Hungry Dragon[5/6]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 85] Agent: 공격 - Shadowbomber[2/1] -> Boneguard Lieutenant
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 10, Step 86] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 86] Opponent: 공격 - Hungry Dragon[5/6] -> Jaina Proudmoore
+[Turn 10, Step 86] Opponent: 공격 - Burrowing Scorpid[5/2] -> Beaming Sidekick
+[Turn 10, Step 86] Opponent: 턴 종료
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Mecha'thun (코스트: 10)
+[Turn 10, Step 88] Agent: 공격 - King Togwaggle[5/1] -> Hungry Dragon
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 89] Agent: 공격 - Drakonid Crusher[9/11] -> Ornery Tortoise
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/10
+  Hand (4): Deathwing, Foe Reaper 4000, Pyromaniac, Dwarven Sharpshooter
+  Field: Drakonid Crusher[9/8], Mecha'thun[10/10]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+  Field: Burrowing Scorpid[5/1], Hungry Dragon[5/1]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 10, Step 90] Opponent: 공격 - Hungry Dragon[5/1] -> Jaina Proudmoore
+[Turn 10, Step 90] Opponent: 영웅 능력 사용
+[Turn 10, Step 90] Opponent: 공격 - Burrowing Scorpid[5/1] -> Mecha'thun
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 영웅 능력 사용 -> Boom Bot
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 92] Agent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 93] Agent: 공격 - Drakonid Crusher[9/6] -> Rexxar
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 94] Agent: 공격 - Mecha'thun[10/5] -> Dr. Boom
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 0/10
+  Hand (4): Deathwing, Pyromaniac, Dwarven Sharpshooter, Blackwing Technician
+  Field: Drakonid Crusher[9/6], Foe Reaper 4000[6/9]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (6)
+  Field: Hungry Dragon[5/1], Boom Bot[1/1]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 카드 플레이 - Dwarven Sharpshooter (코스트: 1)
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 10, Step 97] Agent: 영웅 능력 사용 -> Dwarven Sharpshooter
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 98] Agent: 공격 - Drakonid Crusher[9/6] -> Rexxar
+
+--- Game State (Turn 10, Step 99) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 7/10
+  Hand (3): Deathwing, Pyromaniac, Blackwing Technician
+  Field: Drakonid Crusher[9/6], Foe Reaper 4000[6/9], Dwarven Sharpshooter[1/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+  Field: Hungry Dragon[5/1], Boom Bot[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

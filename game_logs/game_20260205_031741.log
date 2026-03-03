@@ -1,0 +1,422 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (7): Unpowered Mauler, Sightless Ranger, Undertaker, Puddlestomper, The Coin, Brightwing, Portal Overfiend
+  Field: Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Unpowered Mauler
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Fungal Enchanter (코스트: 3)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (9): Unpowered Mauler, Sightless Ranger, Undertaker, Puddlestomper, Brightwing, Portal Overfiend, Arena Patron, Mountain Giant, Pantry Spider
+  Field: Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 30, Mana: 3/6
+  Hand (7)
+  Field: Unpowered Mauler[2/4], Fungal Enchanter[3/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Fungal Enchanter
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Mountain Giant (코스트: 4)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(52) → 14로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Fungal Enchanter
+[Turn 7, Step 14] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/7
+  Hand (8): Unpowered Mauler, Sightless Ranger, Undertaker, Brightwing, Portal Overfiend, Arena Patron, Pantry Spider, Raven Familiar
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/8], Puddlestomper[3/2]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (8)
+  Field: Unpowered Mauler[2/4], Fungal Enchanter[3/1]
+[Turn 7, Step 15] Agent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(10) → 4로 보정
+[Turn 7, Step 16] Agent: 공격 - Mountain Giant[8/8] -> Unpowered Mauler
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 7, Step 18] Opponent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(86) → 22로 보정
+[Turn 8, Step 19] Agent: 공격 - Puddlestomper[3/2] -> Evasive Wyrm
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (7): Yogg-Saron, Hope's End, Unpowered Mauler, Sightless Ranger, Brightwing, Portal Overfiend, Arena Patron, Pantry Spider
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/6], Undertaker[1/2], Raven Familiar[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/8
+  Hand (7)
+  Field: Fungal Enchanter[3/1], Evasive Wyrm[5/3], Serpent Egg[0/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 8, Step 22] Agent: 공격 - Undertaker[1/2] -> Evasive Wyrm
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 8, Step 23] Agent: 공격 - Mountain Giant[8/6] -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Sightless Ranger[3/4] -> Fungal Enchanter
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/8
+  Hand (5): Yogg-Saron, Hope's End, Brightwing, Portal Overfiend, Arena Patron, Pantry Spider
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/6], Raven Familiar[2/2], Unpowered Mauler[2/4], Bat[1/1], Sightless Ranger[3/1], Bat[1/1]
+Opponent: Rexxar HP: 22, Mana: 0/8
+  Hand (7)
+  Field: Evasive Wyrm[5/2], Serpent Egg[0/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 8, Step 25] Agent: 공격 - Raven Familiar[2/2] -> Evasive Wyrm
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Portal Overfiend (코스트: 6)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(19) → 6로 보정
+[Turn 9, Step 29] Agent: 공격 - Bat[1/1] -> Sightless Ranger
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/9
+  Hand (5): Yogg-Saron, Hope's End, Brightwing, Arena Patron, Pantry Spider, Master Swordsmith
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/6], Unpowered Mauler[2/4], Sightless Ranger[3/1], Bat[1/1], Portal Overfiend[5/6]
+Opponent: Rexxar HP: 22, Mana: 4/9
+  Hand (7)
+  Field: Serpent Egg[0/3], Sightless Ranger[3/3]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 영웅 능력 사용
+[Turn 9, Step 30] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 9, Step 30] Opponent: 공격 - Sightless Ranger[3/3] -> Jaina Proudmoore
+[Turn 9, Step 30] Opponent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(91) → 13로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Sightless Ranger
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(99) → 15로 보정
+[Turn 10, Step 32] Agent: 공격 - Bat[1/1] -> Tainted Zealot
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(71) → 7로 보정
+[Turn 10, Step 33] Agent: 공격 - Mountain Giant[8/6] -> Serpent Egg
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(38) → 5로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 4/10
+  Hand (5): Yogg-Saron, Hope's End, Brightwing, Arena Patron, Pantry Spider, Master Swordsmith
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/6], Unpowered Mauler[2/4], Portal Overfiend[5/6], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (6)
+  Field: Sea Serpent[3/4], Sightless Ranger[3/3], Loatheb[5/5], Tainted Zealot[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Pantry Spider (코스트: 3)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Portal Overfiend[5/6] -> Sea Serpent
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(82) → 16로 보정
+[Turn 10, Step 38] Agent: 공격 - Mountain Giant[8/6] -> Tainted Zealot
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (5): Don Han'Cho, Yogg-Saron, Hope's End, Brightwing, Arena Patron, Master Swordsmith
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/5], Unpowered Mauler[2/4], Portal Overfiend[5/3], Sky Gen'ral Kragg[2/3], Pantry Spider[1/3], Cellar Spider[1/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (7)
+  Field: Sightless Ranger[3/3], Loatheb[5/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(49) → 10로 보정
+[Turn 10, Step 40] Agent: 공격 - Cellar Spider[1/3] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(85) → 5로 보정
+[Turn 10, Step 41] Agent: 공격 - Sky Gen'ral Kragg[2/3] -> Sightless Ranger
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(84) → 7로 보정
+[Turn 10, Step 42] Agent: 공격 - Portal Overfiend[5/3] -> Loatheb
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Pantry Spider[1/3] -> Sightless Ranger
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/10
+  Hand (4): Don Han'Cho, Yogg-Saron, Hope's End, Brightwing, Arena Patron
+  Field: Unpowered Mauler[2/4], Mountain Giant[8/5], Unpowered Mauler[2/4], Cellar Spider[1/3], Master Swordsmith[1/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(52) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Don Han'Cho (코스트: 7)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 48] Opponent: 카드 플레이 - The Beast Within -> Lifedrinker (코스트: 1)
+[Turn 10, Step 48] Opponent: 공격 - Mogu'shan Warden[1/7] -> Cellar Spider
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Cellar Spider
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (5): Yogg-Saron, Hope's End, Arena Patron, Armagedillo, Secretkeeper, Blatant Decoy
+  Field: Unpowered Mauler[3/4], Mountain Giant[8/1], Unpowered Mauler[2/4], Cellar Spider[1/1], Master Swordsmith[1/3], Brightwing[3/2], Don Han'Cho[6/6]
+Opponent: Rexxar HP: 23, Mana: 3/10
+  Hand (4)
+  Field: Shieldbearer[0/4], Mogu'shan Warden[1/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 50] Agent: 공격 - Don Han'Cho[6/6] -> Shieldbearer
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Mogu'shan Warden[1/6] -> Don Han'Cho
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+[Turn 10, Step 51] Opponent: 카드 플레이 - Portal Overfiend (코스트: 6)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(75) → 12로 보정
+[Turn 10, Step 52] Agent: 공격 - Mountain Giant[8/1] -> Portal Overfiend
+[Turn 10, Step 53] Agent: 공격 - Master Swordsmith[1/3] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (6): Yogg-Saron, Hope's End, Arena Patron, Armagedillo, Secretkeeper, Blatant Decoy, Replicating Menace
+  Field: Unpowered Mauler[4/2], Unpowered Mauler[2/2], Master Swordsmith[1/1], Don Han'Cho[6/3]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (4)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Arena Patron (코스트: 5)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(56) → 14로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Grotesque Dragonhawk
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 59] Agent: 공격 - Don Han'Cho[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 4/10
+  Hand (5): Yogg-Saron, Hope's End, Armagedillo, Secretkeeper, Blatant Decoy, Replicating Menace
+  Field: Unpowered Mauler[4/2], Unpowered Mauler[3/2], Master Swordsmith[1/1], Don Han'Cho[6/3], Arena Patron[3/3], Maiden of the Lake[2/6]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (4)
+  Field: Grotesque Dragonhawk[5/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(41) → 6로 보정
+[Turn 10, Step 60] Agent: 공격 - Arena Patron[3/3] -> Grotesque Dragonhawk
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Don Han'Cho[6/3] -> Grotesque Dragonhawk
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(69) → 15로 보정
+[Turn 10, Step 63] Agent: 공격 - Master Swordsmith[1/1] -> Felhound
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 공격 - Felhound[2/1] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 카드 플레이 - Faceless Behemoth (코스트: 10)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (7): Yogg-Saron, Hope's End, Armagedillo, Secretkeeper, Blatant Decoy, Replicating Menace, Blazing Battlemage, Chef Nomi
+  Field: Unpowered Mauler[4/2], Unpowered Mauler[4/2], Maiden of the Lake[2/6], Felhound[2/2], Felhound[2/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (5)
+  Field: Felhound[2/1], Faceless Behemoth[10/10]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 공격 - Faceless Behemoth[10/10] -> Unpowered Mauler
+[Turn 10, Step 67] Opponent: 공격 - Felhound[2/1] -> Felhound
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Armagedillo (코스트: 6)
+[Turn 10, Step 69] Agent: 공격 - Felhound[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 4/10
+  Hand (6): SN1P-SN4P, Yogg-Saron, Hope's End, Secretkeeper, Blatant Decoy, Replicating Menace, Chef Nomi
+  Field: Unpowered Mauler[4/2], Maiden of the Lake[2/6], Felhound[2/2], Blazing Battlemage[2/2], Armagedillo[9/12]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (6)
+  Field: Faceless Behemoth[10/6]
+[Turn 10, Step 70] Agent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(44) → 14로 보정
+[Turn 10, Step 71] Agent: 공격 - Blazing Battlemage[2/2] -> Faceless Behemoth
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(86) → 22로 보정
+[Turn 10, Step 74] Agent: 공격 - Maiden of the Lake[2/6] -> Felhound
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (6): SN1P-SN4P, Yogg-Saron, Hope's End, Blatant Decoy, Replicating Menace, Chef Nomi, Shattered Sun Cleric
+  Field: Unpowered Mauler[4/2], Maiden of the Lake[2/4], Felhound[2/2], Armagedillo[9/12], Secretkeeper[1/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (7)
+  Field: Faceless Behemoth[10/4]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 76] Agent: 공격 - Felhound[2/2] -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(81) → 9로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Shattered Sun Cleric -> SN1P-SN4P (코스트: 3)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(20) → 5로 보정
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Faceless Behemoth
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 카드 플레이 - Refreshment Vendor (코스트: 4)
+[Turn 10, Step 79] Opponent: 카드 플레이 - Deathspeaker -> Refreshment Vendor (코스트: 3)
+[Turn 10, Step 79] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (5): Yogg-Saron, Hope's End, Blatant Decoy, Replicating Menace, Chef Nomi, Gnomeregan Infantry
+  Field: Unpowered Mauler[4/2], Maiden of the Lake[2/4], Felhound[2/2], Armagedillo[9/12], Secretkeeper[1/2], SN1P-SN4P[3/4], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (5)
+  Field: Faceless Behemoth[10/3], Refreshment Vendor[3/5], Deathspeaker[2/4], Millhouse Manastorm[4/4]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(63) → 19로 보정
+[Turn 10, Step 80] Agent: 공격 - Felhound[2/2] -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(73) → 34로 보정
+[Turn 10, Step 81] Agent: 공격 - Shattered Sun Cleric[3/2] -> Rexxar
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 10, Step 82] Agent: 공격 - Maiden of the Lake[2/4] -> Faceless Behemoth
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Faceless Behemoth
+[Turn 10, Step 84] Agent: 공격 - SN1P-SN4P[3/4] -> Refreshment Vendor
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (5): Yogg-Saron, Hope's End, Blatant Decoy, Replicating Menace, Chef Nomi, Gnomeregan Infantry
+  Field: Unpowered Mauler[4/2], Felhound[2/2], Armagedillo[9/12], Secretkeeper[1/2], SN1P-SN4P[3/1], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (5)
+  Field: Refreshment Vendor[3/2], Deathspeaker[2/4], Millhouse Manastorm[4/4]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 85] Agent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 86] Agent: 공격 - Armagedillo[9/12] -> Millhouse Manastorm
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 10, Step 87] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(69) → 32로 보정
+[Turn 10, Step 89] Agent: 공격 - Shattered Sun Cleric[3/2] -> Felhound
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (5): Yogg-Saron, Hope's End, Replicating Menace, Chef Nomi, Gnomeregan Infantry, Happy Ghoul
+  Field: Unpowered Mauler[4/2], Felhound[2/2], Armagedillo[9/8], Secretkeeper[1/2], SN1P-SN4P[3/1], Blatant Decoy[5/5]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (6)
+  Field: Refreshment Vendor[3/2], Deathspeaker[2/4]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(50) → 19로 보정
+[Turn 10, Step 90] Agent: 공격 - Armagedillo[9/8] -> Rexxar
+
+--- Game State (Turn 10, Step 91) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (5): Yogg-Saron, Hope's End, Replicating Menace, Chef Nomi, Gnomeregan Infantry, Happy Ghoul
+  Field: Unpowered Mauler[4/2], Felhound[2/2], Armagedillo[9/8], Secretkeeper[1/2], SN1P-SN4P[3/1], Blatant Decoy[5/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (6)
+  Field: Refreshment Vendor[3/2], Deathspeaker[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

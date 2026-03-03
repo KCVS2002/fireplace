@@ -1,0 +1,311 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Beast Within -> Dire Mole (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (7): Goboglide Tech, Neferset Ritualist, Kabal Crystal Runner, Anubisath Sentinel, Shield of Galakrond, Vaporize, Overconfident Orc
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (5)
+  Field: Dire Mole[2/4]
+[Turn 4, Step 5] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Dalaran Mage (코스트: 3)
+[Turn 4, Step 6] Opponent: 공격 - Dire Mole[2/4] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 5, Step 8] Agent: 공격 - Goboglide Tech[3/3] -> Dalaran Mage
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Piloted Reaper (코스트: 4)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (7): Neferset Ritualist, Kabal Crystal Runner, Shield of Galakrond, Vaporize, Overconfident Orc, Night Prowler, Mayor Noggenfogger
+  Field: Goboglide Tech[3/2], Anubisath Sentinel[4/4]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Dire Mole[2/4], Dalaran Mage[1/1], Piloted Reaper[4/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(81) → 15로 보정
+[Turn 6, Step 10] Agent: 공격 - Goboglide Tech[3/2] -> Dire Mole
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Dalaran Mage
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(6) → 2로 보정
+[Turn 6, Step 13] Agent: 공격 - Anubisath Sentinel[4/4] -> Dire Mole
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Voodoo Doll -> Anubisath Sentinel (코스트: 3)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 6, Step 14] Opponent: 공격 - Piloted Reaper[4/3] -> Neferset Ritualist
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (7): Tol'vir Stoneshaper, Kabal Crystal Runner, Shield of Galakrond, Vaporize, Overconfident Orc, Night Prowler, Mayor Noggenfogger
+  Field: Anubisath Sentinel[4/2]
+Opponent: Rexxar HP: 29, Mana: 0/6
+  Hand (4)
+  Field: Piloted Reaper[4/1], Voodoo Doll[1/1], Jungle Panther[4/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(44) → 14로 보정
+[Turn 7, Step 15] Agent: 공격 - Anubisath Sentinel[4/2] -> Voodoo Doll
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Piloted Reaper
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Jungle Panther[4/2] -> Overconfident Orc
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Pit Crocolisk -> Overconfident Orc (코스트: 8)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (6): Tol'vir Stoneshaper, Kabal Crystal Runner, Shield of Galakrond, Vaporize, Night Prowler, Mayor Noggenfogger
+  Field: Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (4)
+  Field: Cloakscale Chemist[1/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 9, Step 22] Opponent: 공격 - Cloakscale Chemist[1/2] -> Shield of Galakrond
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(71) → 14로 보정
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Pit Crocolisk
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Arcane Breath -> Khartut Defender (코스트: 1)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/10
+  Hand (6): Tol'vir Stoneshaper, Kabal Crystal Runner, Vaporize, Night Prowler, Mayor Noggenfogger, Grimestreet Smuggler
+  Field: Pit Crocolisk[5/5], Shield of Galakrond[4/4]
+Opponent: Rexxar HP: 29, Mana: 3/9
+  Hand (5)
+  Field: Cloakscale Chemist[1/2], Khartut Defender[3/2]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(23) → 7로 보정
+[Turn 10, Step 25] Agent: 공격 - Shield of Galakrond[4/4] -> Khartut Defender
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Vaporize (코스트: 3)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Grimestreet Smuggler
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Tol'vir Stoneshaper, Kabal Crystal Runner, Night Prowler, Mayor Noggenfogger, Thrallmar Farseer
+  Field: Pit Crocolisk[5/5], Shield of Galakrond[4/1], Grimestreet Smuggler[2/3]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (6)
+  Field: Cloakscale Chemist[1/2], Khartut Defender[3/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Cheaty Anklebiter -> Cloakscale Chemist (코스트: 2)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 10, Step 30] Opponent: 공격 - Cloakscale Chemist[1/1] -> Shield of Galakrond
+[Turn 10, Step 30] Opponent: 공격 - Amani War Bear[5/7] -> Pit Crocolisk
+[Turn 10, Step 30] Opponent: 공격 - Khartut Defender[3/1] -> Grimestreet Smuggler
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Amani War Bear
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Kabal Crystal Runner (코스트: 4)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Cheaty Anklebiter[2/1] -> Night Prowler
+[Turn 10, Step 34] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer, Hungry Ettin, Ethereal Augmerchant
+  Field: Night Prowler[3/1], Kabal Crystal Runner[5/5]
+Opponent: Rexxar HP: 30, Mana: 8/10
+  Hand (5)
+  Field: Amani War Bear[5/1], Transmogrifier[2/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(45) → 11로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Amani War Bear
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 10, Step 37] Agent: 공격 - Kabal Crystal Runner[5/5] -> Transmogrifier
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(53) → 4로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Ethereal Augmerchant -> Dwarven Archaeologist (코스트: 1)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (4): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer, Quicksand Elemental
+  Field: Night Prowler[3/1], Kabal Crystal Runner[5/3], Hungry Ettin[4/10], Ethereal Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (6)
+  Field: Dwarven Archaeologist[2/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(56) → 18로 보정
+[Turn 10, Step 41] Agent: 공격 - Ethereal Augmerchant[2/1] -> Dwarven Archaeologist
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(18) → 5로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Night Prowler
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Kabal Crystal Runner (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (3): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer
+  Field: Kabal Crystal Runner[5/3], Hungry Ettin[4/10], Ethereal Augmerchant[2/1], Quicksand Elemental[3/2], Kabal Crystal Runner[5/5]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(54) → 12로 보정
+[Turn 10, Step 45] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Waste Warden -> Quicksand Elemental (코스트: 5)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Kabal Crystal Runner
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Reversing Switch -> Hungry Ettin (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (3): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer
+  Field: Kabal Crystal Runner[5/3], Hungry Ettin[10/4], Ethereal Augmerchant[2/1], Kabal Crystal Runner[5/4], Toshley[5/7]
+Opponent: Rexxar HP: 28, Mana: 2/10
+  Hand (6)
+  Field: Humongous Razorleaf[4/8], Waste Warden[3/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 50] Agent: 공격 - Kabal Crystal Runner[5/4] -> Humongous Razorleaf
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Kabal Crystal Runner[5/3] -> Waste Warden
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Hungry Ettin[10/4] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(73) → 5로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (4): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer, Baron Geddon
+  Field: Hungry Ettin[10/4], Ethereal Augmerchant[2/1], Toshley[5/7]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (7)
+  Field: Humongous Razorleaf[4/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 10, Step 55] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Baron Geddon (코스트: 7)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 57] Agent: 공격 - Toshley[5/7] -> Humongous Razorleaf
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Hungry Ettin[10/4] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 59] Opponent: 영웅 능력 사용
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Tol'vir Stoneshaper, Mayor Noggenfogger, Thrallmar Farseer, Target Dummy
+  Field: Hungry Ettin[10/2], Toshley[5/1], Baron Geddon[7/5]
+Opponent: Rexxar HP: 4, Mana: 5/10
+  Hand (7)
+  Field: Hyldnir Frostrider[4/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(75) → 7로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Hungry Ettin
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(43) → 7로 보정
+[Turn 10, Step 62] Agent: 공격 - Baron Geddon[7/5] -> Rexxar
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (3): Tol'vir Stoneshaper, Mayor Noggenfogger, Target Dummy
+  Field: Hungry Ettin[10/1], Toshley[5/1], Baron Geddon[7/5], Thrallmar Farseer[2/3]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (7)
+  Field: Hyldnir Frostrider[4/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

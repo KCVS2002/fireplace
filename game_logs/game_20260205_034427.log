@@ -1,0 +1,193 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Shieldbreaker -> Wax Elemental (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (5): Oasis Snapjaw, Polluted Hoarder, Rabble Bouncer, Spellweaver, Old Murk-Eye
+  Field: Swamp Dragon Egg[0/3], Shieldbreaker[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Wax Elemental[0/2], Spellward Jeweler[3/4]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 6] Agent: 공격 - Shieldbreaker[2/1] -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 4, Step 7] Opponent: 공격 - Spellward Jeweler[3/4] -> Swamp Dragon Egg
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Spellward Jeweler
+[Turn 5, Step 9] Agent: 공격 - Shieldbreaker[2/1] -> Spellward Jeweler
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (7): Oasis Snapjaw, Polluted Hoarder, Rabble Bouncer, Spellweaver, Old Murk-Eye, Twilight Drake, Gormok the Impaler
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Wax Elemental[0/2], Spellward Jeweler[3/1], Toxic Sewer Ooze[4/3]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Darkspeaker -> Toxic Sewer Ooze (코스트: 5)
+[Turn 5, Step 10] Opponent: 공격 - Toxic Sewer Ooze[3/6] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - High Priest Thekal (코스트: 3)
+[Turn 6, Step 12] Agent: 카드 플레이 - Rabble Bouncer (코스트: 3)
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Arena Patron (코스트: 5)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 5/7
+  Hand (7): Oasis Snapjaw, Polluted Hoarder, Spellweaver, Old Murk-Eye, Twilight Drake, Gormok the Impaler, Vulpera Scoundrel
+  Field: High Priest Thekal[3/4], Rabble Bouncer[2/7]
+Opponent: Rexxar HP: 27, Mana: 1/6
+  Hand (5)
+  Field: Wax Elemental[0/2], Spellward Jeweler[3/1], Toxic Sewer Ooze[3/6], Darkspeaker[4/3], Arena Patron[3/3]
+[Turn 7, Step 15] Agent: 공격 - High Priest Thekal[3/4] -> Darkspeaker
+[Turn 7, Step 16] Agent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 7, Step 17] Agent: 공격 - Rabble Bouncer[2/7] -> Wax Elemental
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Ironforge Rifleman -> Gormok the Impaler (코스트: 3)
+[Turn 7, Step 18] Opponent: 영웅 능력 사용
+[Turn 7, Step 18] Opponent: 공격 - Arena Patron[3/3] -> Rabble Bouncer
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Rabble Bouncer[2/4] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/8
+  Hand (7): Boompistol Bully, Oasis Snapjaw, Polluted Hoarder, Spellweaver, Old Murk-Eye, Twilight Drake, Vulpera Scoundrel
+  Field: Rabble Bouncer[2/4], Gormok the Impaler[4/3]
+Opponent: Rexxar HP: 25, Mana: 2/7
+  Hand (5)
+  Field: Spellward Jeweler[3/1], Toxic Sewer Ooze[3/6], Arena Patron[3/1], Ironforge Rifleman[2/2]
+[Turn 8, Step 20] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 8, Step 21] Agent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+[Turn 8, Step 22] Agent: 공격 - Gormok the Impaler[4/3] -> Rexxar
+[Turn 8, Step 23] Agent: 공격 - Old Murk-Eye[2/4] -> Spellward Jeweler
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Kathrena Winterwisp (코스트: 8)
+[Turn 8, Step 24] Opponent: 공격 - Arena Patron[3/1] -> Rabble Bouncer
+[Turn 8, Step 24] Opponent: 공격 - Ironforge Rifleman[2/2] -> Rabble Bouncer
+[Turn 8, Step 24] Opponent: 공격 - Toxic Sewer Ooze[3/6] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 9/9
+  Hand (6): Boompistol Bully, Polluted Hoarder, Spellweaver, Twilight Drake, Vulpera Scoundrel, Armored Warhorse
+  Field: Gormok the Impaler[4/3], Old Murk-Eye[2/1], Oasis Snapjaw[2/7]
+Opponent: Rexxar HP: 21, Mana: 0/8
+  Hand (5)
+  Field: Toxic Sewer Ooze[3/6], Kathrena Winterwisp[6/6], Ravasaur Runt[2/2]
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Old Murk-Eye
+[Turn 9, Step 26] Agent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 9, Step 27] Agent: 공격 - Gormok the Impaler[4/3] -> Kathrena Winterwisp
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 공격 - Kathrena Winterwisp[6/2] -> Twilight Drake
+[Turn 9, Step 28] Opponent: 공격 - Toxic Sewer Ooze[3/6] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 9, Step 28] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Oasis Snapjaw[2/7] -> Phantom Freebooter
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (6): Boompistol Bully, Polluted Hoarder, Spellweaver, Vulpera Scoundrel, Armored Warhorse, Inkmaster Solia
+  Field: Oasis Snapjaw[2/4]
+Opponent: Rexxar HP: 21, Mana: 3/9
+  Hand (4)
+  Field: Toxic Sewer Ooze[3/6], Kindly Grandmother[1/1], Ravasaur Runt[2/2], Whirliglider[2/1], Goblin Bomb[0/2], Phantom Freebooter[3/1]
+[Turn 10, Step 30] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Phantom Freebooter
+[Turn 10, Step 32] Agent: 카드 플레이 - Armored Warhorse (코스트: 4)
+[Turn 10, Step 33] Agent: 공격 - Armored Warhorse[5/3] -> Rexxar
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Ravasaur Runt[2/2] -> Polluted Hoarder
+[Turn 10, Step 34] Opponent: 공격 - Toxic Sewer Ooze[3/6] -> Armored Warhorse
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 공격 - Whirliglider[2/1] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Wyrmguard (코스트: 7)
+[Turn 10, Step 34] Opponent: 공격 - Kindly Grandmother[1/1] -> Oasis Snapjaw
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (6): Boompistol Bully, Spellweaver, Vulpera Scoundrel, Inkmaster Solia, Wickerflame Burnbristle, Explodinator
+  Field: Oasis Snapjaw[2/3]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (4)
+  Field: Toxic Sewer Ooze[3/1], Big Bad Wolf[3/2], Whirliglider[2/1], Goblin Bomb[0/2], Wyrmguard[3/11]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Big Bad Wolf[3/2] -> Oasis Snapjaw
+[Turn 10, Step 35] Opponent: 공격 - Toxic Sewer Ooze[3/1] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 공격 - Wyrmguard[3/11] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Whirliglider
+[Turn 10, Step 38] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Toxic Sewer Ooze[3/1] -> Boompistol Bully
+[Turn 10, Step 39] Opponent: 카드 플레이 - Zoobot (코스트: 8)
+[Turn 10, Step 39] Opponent: 공격 - Wyrmguard[3/11] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 공격 - Red Mana Wyrm[2/6] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): Spellweaver, Vulpera Scoundrel, Inkmaster Solia, Wickerflame Burnbristle, Explodinator
+  Field: Boompistol Bully[5/2], Doomed Apprentice[3/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (4)
+  Field: Goblin Bomb[0/2], Wyrmguard[3/11], Red Mana Wyrm[2/6], Zoobot[3/3]
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): Spellweaver, Vulpera Scoundrel, Inkmaster Solia, Wickerflame Burnbristle, Explodinator
+  Field: Boompistol Bully[5/2], Doomed Apprentice[3/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (4)
+  Field: Goblin Bomb[0/2], Wyrmguard[3/11], Red Mana Wyrm[2/6], Zoobot[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

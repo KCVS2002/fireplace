@@ -1,0 +1,352 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Argent Squire[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Imp Master (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Argent Squire[1/1] -> Imp Master
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/4
+  Hand (6): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando, Ice Cream Peddler
+  Field: Imp Master[1/3], Imp[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Argent Squire[1/1]
+[Turn 4, Step 5] Agent: 공격 - Imp[1/1] -> Argent Squire
+[Turn 4, Step 6] Agent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 4, Step 7] Agent: 공격 - Imp Master[1/3] -> Rexxar
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Twisted Worgen (코스트: 2)
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 공격 - Imp Master[1/2] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/5
+  Hand (6): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando, Clockwork Gnome
+  Field: Imp Master[1/2], Imp[1/1], Ice Cream Peddler[3/5]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (6)
+  Field: Twisted Worgen[3/1]
+[Turn 5, Step 10] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 5, Step 11] Agent: 공격 - Ice Cream Peddler[3/5] -> Rexxar
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 공격 - Twisted Worgen[3/1] -> Ice Cream Peddler
+[Turn 5, Step 14] Opponent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/6
+  Hand (6): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando, Blistering Rot
+  Field: Imp Master[1/1], Imp[1/1], Imp[1/1], Ice Cream Peddler[3/2], Clockwork Gnome[2/1]
+Opponent: Rexxar HP: 24, Mana: 2/5
+  Hand (6)
+  Field: Phantom Militia[2/4]
+[Turn 6, Step 15] Agent: 공격 - Ice Cream Peddler[3/2] -> Phantom Militia
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Imp
+[Turn 6, Step 17] Agent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 6, Step 18] Agent: 공격 - Imp Master[1/1] -> Phantom Militia
+[Turn 6, Step 19] Agent: 공격 - Imp[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/6
+  Hand (5): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando
+  Field: Imp[1/1], Clockwork Gnome[2/1], Blistering Rot[1/2]
+Opponent: Rexxar HP: 23, Mana: 2/5
+  Hand (6)
+[Turn 6, Step 20] Agent: 공격 - Clockwork Gnome[2/1] -> Rexxar
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 영웅 능력 사용
+[Turn 6, Step 21] Opponent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 공격 - Living Rot[1/2] -> Baron Rivendare
+[Turn 7, Step 23] Agent: 공격 - Blistering Rot[1/2] -> Rexxar
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Clockwork Gnome
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/7
+  Hand (7): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando, Magtheridon, Time Rewinder
+  Field: Imp[1/1], Blistering Rot[1/2], Living Rot[1/1]
+Opponent: Rexxar HP: 20, Mana: 0/6
+  Hand (6)
+  Field: Baron Rivendare[1/6]
+[Turn 7, Step 25] Agent: 공격 - Imp[1/1] -> Baron Rivendare
+[Turn 7, Step 26] Agent: 카드 플레이 - Time Rewinder -> Blistering Rot (코스트: 1)
+[Turn 7, Step 27] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 7, Step 28] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 28] Opponent: 영웅 능력 사용
+[Turn 7, Step 28] Opponent: 공격 - Hellfire Warder[1/3] -> Jaina Proudmoore
+[Turn 7, Step 28] Opponent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 7, Step 28] Opponent: 공격 - Hellfire Warder[1/3] -> Living Rot
+[Turn 7, Step 28] Opponent: 공격 - Hellfire Warder[1/3] -> Jaina Proudmoore
+[Turn 7, Step 28] Opponent: 턴 종료
+[Turn 8, Step 29] Agent: 영웅 능력 사용 -> Baron Rivendare
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/8
+  Hand (7): Sunreaver Warmage, Amani War Bear, Big Ol' Whelp, Subject 9, Stormpike Commando, Blistering Rot, Arch-Thief Rafaam
+  Field: Magtheridon[12/12]
+Opponent: Rexxar HP: 20, Mana: 1/7
+  Hand (6)
+  Field: Baron Rivendare[1/4], Hellfire Warder[1/3], Hellfire Warder[1/3], Hellfire Warder[1/2], Rumbletusk Shaker[3/2]
+[Turn 8, Step 30] Agent: 카드 플레이 - Stormpike Commando -> Rumbletusk Shaker (코스트: 5)
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 8, Step 31] Opponent: 선택 - Faerie Dragon
+[Turn 8, Step 31] Opponent: 공격 - Hellfire Warder[1/3] -> Stormpike Commando
+[Turn 8, Step 31] Opponent: 공격 - Hellfire Warder[1/2] -> Jaina Proudmoore
+[Turn 8, Step 31] Opponent: 공격 - Baron Rivendare[1/4] -> Stormpike Commando
+[Turn 8, Step 31] Opponent: 공격 - Hellfire Warder[1/3] -> Jaina Proudmoore
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 9, Step 33] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 공격 - Rumbletusk Breaker[3/2] -> Sunreaver Warmage
+[Turn 9, Step 34] Opponent: 공격 - Rumbletusk Breaker[3/2] -> Sunreaver Warmage
+[Turn 9, Step 34] Opponent: 카드 플레이 - Southsea Captain (코스트: 3)
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (7): Amani War Bear, Big Ol' Whelp, Subject 9, Blistering Rot, Arch-Thief Rafaam, Rumbletusk Shaker, Sludge Belcher
+  Field: Magtheridon[12/12]
+Opponent: Rexxar HP: 20, Mana: 6/9
+  Hand (6)
+  Field: Hellfire Warder[1/2], Hellfire Warder[1/2], Chromatic Egg[0/3], Southsea Captain[3/3]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 10, Step 36] Agent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 10, Step 37] Agent: 공격 - Amani War Bear[5/7] -> Hellfire Warder
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Elven Archer -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 38] Opponent: 공격 - Hellfire Warder[1/2] -> Amani War Bear
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 공격 - Southsea Captain[3/3] -> Amani War Bear
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Amani War Bear[5/2] -> Chromatic Egg
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (7): Big Ol' Whelp, Subject 9, Blistering Rot, Arch-Thief Rafaam, Rumbletusk Shaker, Sludge Belcher, Grimestreet Smuggler
+  Field: Magtheridon[12/12], Amani War Bear[5/2]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (7)
+  Field: Countess Ashmore[6/6], Elven Archer[1/1], Faerie Dragon[3/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Amani War Bear
+[Turn 10, Step 41] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 5)
+[Turn 10, Step 42] Agent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Blackwing Corruptor -> Blistering Rot (코스트: 5)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Vryghoul (코스트: 3)
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 공격 - Countess Ashmore[6/6] -> Amani War Bear
+[Turn 10, Step 43] Opponent: 공격 - Elven Archer[1/1] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 공격 - Living Rot[1/2] -> Vryghoul
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (7): Subject 9, Arch-Thief Rafaam, Rumbletusk Shaker, Sludge Belcher, Grimestreet Smuggler, Volcanic Drake, Spellweaver
+  Field: Magtheridon[12/12], Big Ol' Whelp[5/5]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Countess Ashmore[6/1], Elven Archer[1/1], Faerie Dragon[3/2], Blackwing Corruptor[5/4], Ghoul[2/2]
+[Turn 10, Step 45] Agent: 공격 - Big Ol' Whelp[5/5] -> Rexxar
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 10, Step 47] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 48] Agent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Faerie Dragon[3/2] -> Subject 9
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (6): Arch-Thief Rafaam, Rumbletusk Shaker, Sludge Belcher, Volcanic Drake, Spellweaver, Chromatic Egg
+  Field: Magtheridon[12/12], Big Ol' Whelp[5/5], Subject 9[4/1], Grimestreet Smuggler[2/4]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (7)
+  Field: Elven Archer[1/1], Blackwing Corruptor[5/4], Ghoul[2/2]
+[Turn 10, Step 50] Agent: 공격 - Grimestreet Smuggler[2/4] -> Elven Archer
+[Turn 10, Step 51] Agent: 공격 - Big Ol' Whelp[5/5] -> Blackwing Corruptor
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Subject 9
+[Turn 10, Step 53] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 10, Step 54] Agent: 카드 플레이 - Volcanic Drake (코스트: 2)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (4): Arch-Thief Rafaam, Sludge Belcher, Spellweaver, Chromatic Egg
+  Field: Magtheridon[12/12], Grimestreet Smuggler[2/3], Rumbletusk Shaker[3/2], Volcanic Drake[7/5]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (7)
+  Field: Ghoul[2/2]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Scrapyard Colossus (코스트: 10)
+[Turn 10, Step 55] Opponent: 공격 - Ghoul[2/2] -> Volcanic Drake
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Volcanic Drake
+[Turn 10, Step 57] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 58] Agent: 공격 - Grimestreet Smuggler[2/3] -> Scrapyard Colossus
+[Turn 10, Step 59] Agent: 공격 - Rumbletusk Shaker[3/2] -> Scrapyard Colossus
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/10
+  Hand (4): Arch-Thief Rafaam, Spellweaver, Chromatic Egg, Backroom Bouncer
+  Field: Magtheridon[12/12], Rumbletusk Breaker[3/2], Volcanic Drake[7/2], Sludge Belcher[3/5]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (7)
+  Field: Scrapyard Colossus[7/2]
+[Turn 10, Step 60] Agent: 공격 - Volcanic Drake[7/2] -> Scrapyard Colossus
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Ironforge Rifleman -> Rexxar (코스트: 3)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 10, Step 61] Opponent: 공격 - Felcracked Colossus[7/7] -> Sludge Belcher
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Putrid Slime[1/2] -> Felcracked Colossus
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Ironforge Rifleman
+[Turn 10, Step 64] Agent: 카드 플레이 - Spellweaver (코스트: 6)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (4): Arch-Thief Rafaam, Chromatic Egg, Backroom Bouncer, Gelbin Mekkatorque
+  Field: Magtheridon[12/12], Rumbletusk Breaker[3/2], Spellweaver[4/4]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (5)
+  Field: Felcracked Colossus[7/3], Ironforge Rifleman[2/1], Violet Spellsword[2/6], Rummaging Kobold[1/3]
+[Turn 10, Step 65] Agent: 공격 - Rumbletusk Breaker[3/2] -> Felcracked Colossus
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 공격 - Ironforge Rifleman[2/1] -> Jaina Proudmoore
+[Turn 10, Step 66] Opponent: 공격 - Violet Spellsword[2/6] -> Spellweaver
+[Turn 10, Step 66] Opponent: 카드 플레이 - Deathwing (코스트: 10)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 카드 플레이 - Arch-Thief Rafaam (코스트: 9)
+[Turn 10, Step 68] Agent: 선택 - Lantern of Power
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 카드 플레이 - Arch-Thief Rafaam (코스트: 9)
+[Turn 10, Step 68] Opponent: 선택 - Timepiece of Horror
+[Turn 10, Step 68] Opponent: 공격 - Deathwing[12/12] -> Arch-Thief Rafaam
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Deathwing
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (6): Chromatic Egg, Backroom Bouncer, Gelbin Mekkatorque, Big-Time Racketeer, Lantern of Power, Faceless Rager
+  Field: Magtheridon[12/12]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (1)
+  Field: Deathwing[12/4], Arch-Thief Rafaam[7/8]
+[Turn 10, Step 70] Agent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 10, Step 71] Agent: 선택 - Malygos
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 73] Agent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+[Turn 10, Step 74] Agent: 카드 플레이 - Faceless Rager -> Chromatic Egg (코스트: 3)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 1/10
+  Hand (4): Gelbin Mekkatorque, Big-Time Racketeer, Lantern of Power, Ice Rager
+  Field: Magtheridon[12/12], Chromatic Egg[0/3], Backroom Bouncer[4/4], Faceless Rager[5/3]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (2)
+  Field: Deathwing[12/4], Arch-Thief Rafaam[7/8]
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 공격 - Faceless Rager[5/3] -> Deathwing
+[Turn 10, Step 77] Agent: 공격 - Backroom Bouncer[5/4] -> Rexxar
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 79] Agent: 카드 플레이 - Gelbin Mekkatorque (코스트: 6)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (4): Big-Time Racketeer, Lantern of Power, Ice Rager, Incanter's Flow
+  Field: Magtheridon[12/12], Chromatic Egg[0/3], Backroom Bouncer[5/4], Gelbin Mekkatorque[6/6], Homing Chicken[0/1]
+Opponent: Rexxar HP: 7, Mana: 5/10
+  Hand (2)
+  Field: Arch-Thief Rafaam[7/8], Djinni of Zephyrs[4/6]
+[Turn 10, Step 80] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Arch-Thief Rafaam[7/8] -> Homing Chicken
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Gelbin Mekkatorque
+[Turn 10, Step 83] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 84] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 1/10
+  Hand (2): Big-Time Racketeer, Lantern of Power
+  Field: Magtheridon[12/12], Chromatic Egg[0/3], Backroom Bouncer[6/4], Gelbin Mekkatorque[6/5], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Ice Rager[5/2]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (3)
+  Field: Arch-Thief Rafaam[7/8], Djinni of Zephyrs[4/6]
+[Turn 10, Step 85] Agent: 공격 - Backroom Bouncer[6/4] -> Rexxar
+[Turn 10, Step 86] Agent: 공격 - Gelbin Mekkatorque[6/5] -> Rexxar
+
+--- Game State (Turn 10, Step 87) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 1/10
+  Hand (2): Big-Time Racketeer, Lantern of Power
+  Field: Magtheridon[12/12], Chromatic Egg[0/3], Backroom Bouncer[6/4], Gelbin Mekkatorque[6/5], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Ice Rager[5/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (3)
+  Field: Arch-Thief Rafaam[7/8], Djinni of Zephyrs[4/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

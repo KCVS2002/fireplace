@@ -1,0 +1,323 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(53) → 17로 보정
+[Turn 3, Step 3] Agent: 공격 - Ooze[1/1] -> Rockpool Hunter
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Cogmaster[1/2] -> Bilefin Tidehunter
+[Turn 3, Step 4] Opponent: 공격 - Rockpool Hunter[2/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Medivh's Valet, Arcane Golem, Astromancer Solarian, Research Project, Faithful Lumi, Explosive Runes
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Rockpool Hunter[2/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Faithful Lumi (코스트: 1)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(28) → 9로 보정
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Rockpool Hunter
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/6
+  Hand (6): Medivh's Valet, Astromancer Solarian, Research Project, Explosive Runes, Incanter's Flow, Curio Collector
+  Field: Arcane Golem[4/4], Faithful Lumi[1/1]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (6)
+  Field: Rockpool Hunter[2/1], Friendly Bartender[2/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 6, Step 10] Agent: 공격 - Arcane Golem[4/4] -> Rockpool Hunter
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(36) → 2로 보정
+[Turn 7, Step 12] Agent: 카드 플레이 - Medivh's Valet (코스트: 2)
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(44) → 10로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Faithful Lumi
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/7
+  Hand (5): Astromancer Solarian, Research Project, Explosive Runes, Incanter's Flow, Curio Collector
+  Field: Arcane Golem[4/2], Medivh's Valet[2/3], Am'gam Rager[1/5]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (7)
+  Field: Friendly Bartender[2/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 7, Step 15] Opponent: 공격 - Friendly Bartender[2/3] -> Am'gam Rager
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(43) → 20로 보정
+[Turn 8, Step 16] Agent: 공격 - Am'gam Rager[1/3] -> Rexxar
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 6)
+[Turn 8, Step 18] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 8, Step 19] Agent: 공격 - Medivh's Valet[2/3] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/8
+  Hand (4): Astromancer Solarian, Research Project, Explosive Runes, Curio Collector
+  Field: Arcane Golem[4/2], Medivh's Valet[2/3], Am'gam Rager[1/3], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 27, Mana: 4/8
+  Hand (7)
+  Field: Friendly Bartender[2/2], Tournament Medic[1/8]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 8, Step 20] Agent: 공격 - Arcane Golem[4/2] -> Tournament Medic
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 공격 - Friendly Bartender[2/2] -> Arcane Golem
+[Turn 8, Step 21] Opponent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 8, Step 21] Opponent: 선택 - Chromaggus
+[Turn 8, Step 21] Opponent: 선택 - Ravasaur Runt
+[Turn 8, Step 21] Opponent: 선택 - Jungle Panther
+[Turn 8, Step 21] Opponent: 선택 - Loatheb
+[Turn 8, Step 21] Opponent: 선택 - Deathspeaker
+[Turn 8, Step 21] Opponent: 공격 - Tournament Medic[1/4] -> Am'gam Rager
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Archivist Elysiana
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(24) → 9로 보정
+[Turn 9, Step 23] Agent: 공격 - Am'gam Rager[1/2] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 9, Step 24] Agent: 공격 - Medivh's Valet[2/3] -> Archivist Elysiana
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/9
+  Hand (5): Astromancer Solarian, Research Project, Explosive Runes, Curio Collector, Bone Drake
+  Field: Am'gam Rager[1/2], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (7)
+  Field: Tournament Medic[1/3], Archivist Elysiana[7/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Curio Collector (코스트: 5)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 9, Step 26] Agent: 공격 - Sylvanas Windrunner[5/5] -> Tournament Medic
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Faceless Rager -> Archivist Elysiana (코스트: 3)
+[Turn 9, Step 27] Opponent: 공격 - Archivist Elysiana[7/4] -> Sylvanas Windrunner
+[Turn 9, Step 27] Opponent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 9, Step 27] Opponent: 영웅 능력 사용
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(88) → 16로 보정
+[Turn 10, Step 28] Agent: 공격 - Curio Collector[4/4] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(49) → 15로 보정
+[Turn 10, Step 29] Agent: 공격 - Am'gam Rager[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Astromancer Solarian, Research Project, Explosive Runes, Bone Drake, Pyroblast
+  Field: Am'gam Rager[1/2], Curio Collector[4/4], Faceless Rager[5/4]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (6)
+  Field: Harbinger Celestia[5/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(63) → 15로 보정
+[Turn 10, Step 30] Agent: 공격 - Faceless Rager[5/4] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Harbinger Celestia[5/6] -> Faceless Rager
+[Turn 10, Step 32] Opponent: 카드 플레이 - Chromaggus (코스트: 8)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(80) → 11로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (4): Research Project, Bone Drake, Pyroblast, Emerald Reaver
+  Field: Am'gam Rager[1/2], Curio Collector[4/4], Astromancer Solarian[3/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (6)
+  Field: Astromancer Solarian[3/2], Chromaggus[6/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(30) → 6로 보정
+[Turn 10, Step 36] Agent: 공격 - Curio Collector[4/4] -> Astromancer Solarian
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(64) → 12로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Bone Drake (코스트: 6)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (3): Research Project, Pyroblast, Silver Hand Regent
+  Field: Am'gam Rager[1/2], Curio Collector[4/1], Astromancer Solarian[3/2], Emerald Reaver[2/1], Bone Drake[6/5]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (8)
+  Field: Chromaggus[6/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 40] Agent: 공격 - Am'gam Rager[1/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 41] Agent: 공격 - Curio Collector[4/1] -> Chromaggus
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Hogger (코스트: 6)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (4): Pyroblast, Silver Hand Regent, Shallow Gravedigger, Dalaran Aspirant
+  Field: Am'gam Rager[1/2], Astromancer Solarian[3/2], Emerald Reaver[2/1], Bone Drake[6/5], Hogger[4/4]
+Opponent: Rexxar HP: 13, Mana: 3/10
+  Hand (9)
+  Field: Loatheb[5/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Astromancer Solarian
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 46] Agent: 공격 - Am'gam Rager[1/2] -> Loatheb
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 47] Agent: 공격 - Emerald Reaver[2/1] -> Loatheb
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 48] Agent: 공격 - Astromancer Solarian[3/1] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(4) → 1로 보정
+[Turn 10, Step 49] Agent: 공격 - Bone Drake[6/5] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (4): Pyroblast, Silver Hand Regent, Shallow Gravedigger, Dalaran Aspirant
+  Field: Astromancer Solarian[3/1], Bone Drake[6/5], Hogger[4/4]
+Opponent: Rexxar HP: 4, Mana: 3/10
+  Hand (9)
+  Field: Loatheb[5/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Disguised Wanderer
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(40) → 19로 보정
+[Turn 10, Step 52] Agent: 공격 - Gnoll[2/2] -> Loatheb
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 10, Step 53] Agent: 공격 - Bone Drake[6/5] -> Loatheb
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (5): Pyroblast, Silver Hand Regent, Dalaran Aspirant, Archmage Antonidas, Deathwing
+  Field: Astromancer Solarian[3/1], Hogger[4/4], Shallow Gravedigger[3/1]
+Opponent: Rexxar HP: 4, Mana: 1/10
+  Hand (8)
+  Field: Loatheb[5/3], Disguised Wanderer[3/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 56] Agent: 공격 - Astromancer Solarian[3/1] -> Loatheb
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Diving Gryphon (코스트: 3)
+[Turn 10, Step 57] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 공격 - Diving Gryphon[4/1] -> Gnoll
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(51) → 9로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Shallow Gravedigger
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Pyroblast, Dalaran Aspirant, Archmage Antonidas, Deathwing, Candletaker, Igneous Elemental, Flamestrike
+  Field: Hogger[4/4], Gnoll[2/2], Silver Hand Regent[3/3], Silver Hand Recruit[1/1]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (8)
+  Field: Disguised Wanderer[3/2], Loatheb[5/5]
+[Turn 10, Step 60] Agent: 카드 플레이 - Candletaker (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(70) → 18로 보정
+[Turn 10, Step 61] Agent: 공격 - Gnoll[2/2] -> Disguised Wanderer
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(55) → 11로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Candletaker
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(94) → 10로 보정
+[Turn 10, Step 63] Agent: 공격 - Silver Hand Recruit[1/1] -> Rustsworn Inquisitor
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 64] Agent: 공격 - Hogger[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (6): Pyroblast, Dalaran Aspirant, Archmage Antonidas, Deathwing, Igneous Elemental, Flamestrike
+  Field: Hogger[4/4], Silver Hand Regent[3/3], Silver Hand Recruit[1/1], Candletaker[3/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Loatheb[5/5]
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (6): Pyroblast, Dalaran Aspirant, Archmage Antonidas, Deathwing, Igneous Elemental, Flamestrike
+  Field: Hogger[4/4], Silver Hand Regent[3/3], Silver Hand Recruit[1/1], Candletaker[3/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Loatheb[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

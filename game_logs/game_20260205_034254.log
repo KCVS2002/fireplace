@@ -1,0 +1,294 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Voodoo Doctor -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Voodoo Doctor
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Blazing Battlemage
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (5): Nat Pagle, Violet Teacher, Batterhead, Drakkari Trickster, Eccentric Scribe
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Blazing Battlemage[2/1]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Unleash the Hounds (코스트: 3)
+[Turn 4, Step 7] Opponent: 공격 - Blazing Battlemage[2/1] -> Drakkari Trickster
+[Turn 4, Step 7] Opponent: 공격 - Annoy-o-Tron[1/2] -> Drakkari Trickster
+[Turn 4, Step 7] Opponent: 공격 - Hound[1/1] -> Jaina Proudmoore
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 5, Step 9] Agent: 공격 - Drakkari Trickster[3/1] -> Annoy-o-Tron
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/5
+  Hand (6): Nat Pagle, Batterhead, Eccentric Scribe, Duplicate, Don Han'Cho, Transmogrifier
+  Field: Violet Teacher[3/5]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (6)
+  Field: Hound[1/1]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 공격 - Hound[1/1] -> Violet Teacher
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 카드 플레이 - Don Han'Cho (코스트: 7)
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 카드 플레이 - Evil Heckler (코스트: 4)
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (7): Lifedrinker, Nat Pagle, Batterhead, Eccentric Scribe, Duplicate, Transmogrifier, Arena Treasure Chest
+  Field: Violet Teacher[3/4], Don Han'Cho[5/6]
+Opponent: Rexxar HP: 30, Mana: 3/7
+  Hand (8)
+  Field: Evil Heckler[5/4]
+[Turn 8, Step 15] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Evil Heckler
+[Turn 8, Step 17] Agent: 공격 - Don Han'Cho[5/6] -> Evil Heckler
+[Turn 8, Step 18] Agent: 공격 - Violet Teacher[3/4] -> Rexxar
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 8, Step 19] Opponent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (7): Lifedrinker, Nat Pagle, Batterhead, Duplicate, Transmogrifier, Arena Treasure Chest, Bull Dozer
+  Field: Violet Teacher[3/4], Don Han'Cho[5/1], Eccentric Scribe[11/9]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (7)
+  Field: Mojomaster Zihi[5/5], Southsea Deckhand[2/1]
+[Turn 6, Step 20] Agent: 카드 플레이 - Duplicate (코스트: 3)
+[Turn 6, Step 21] Agent: 공격 - Eccentric Scribe[11/9] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Violet Teacher[3/4] -> Mojomaster Zihi
+[Turn 6, Step 23] Agent: 영웅 능력 사용 -> Don Han'Cho
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 공격 - Mojomaster Zihi[5/2] -> Jaina Proudmoore
+[Turn 6, Step 24] Opponent: 공격 - Southsea Deckhand[2/1] -> Jaina Proudmoore
+[Turn 6, Step 24] Opponent: 카드 플레이 - Mukla, Tyrant of the Vale (코스트: 6)
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (7): Lifedrinker, Nat Pagle, Batterhead, Transmogrifier, Arena Treasure Chest, Bull Dozer, Ancient Mysteries
+  Field: Violet Apprentice[1/1], Eccentric Scribe[11/9]
+Opponent: Rexxar HP: 16, Mana: 0/6
+  Hand (9)
+  Field: Mojomaster Zihi[5/2], Southsea Deckhand[2/1], Mukla, Tyrant of the Vale[5/5]
+[Turn 7, Step 25] Agent: 공격 - Eccentric Scribe[11/9] -> Mojomaster Zihi
+[Turn 7, Step 26] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 카드 플레이 - Bananas -> Mukla, Tyrant of the Vale (코스트: 1)
+[Turn 7, Step 27] Opponent: 공격 - Southsea Deckhand[2/1] -> Arena Treasure Chest
+[Turn 7, Step 27] Opponent: 카드 플레이 - Faceless Manipulator -> Southsea Deckhand (코스트: 5)
+[Turn 7, Step 27] Opponent: 카드 플레이 - Bananas -> Eccentric Scribe (코스트: 1)
+[Turn 7, Step 27] Opponent: 공격 - Mukla, Tyrant of the Vale[6/6] -> Arena Treasure Chest
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 공격 - Violet Apprentice[1/1] -> Southsea Deckhand
+[Turn 8, Step 29] Agent: 영웅 능력 사용 -> Mukla, Tyrant of the Vale
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/8
+  Hand (10): Elise Starseeker, Lifedrinker, Nat Pagle, Batterhead, Transmogrifier, Bull Dozer, Ancient Mysteries, Arena Treasure Chest, Arena Treasure Chest, Kaboom Bot
+  Field: Eccentric Scribe[12/5]
+Opponent: Rexxar HP: 16, Mana: 0/7
+  Hand (7)
+  Field: Mukla, Tyrant of the Vale[6/5], Southsea Deckhand[2/1]
+[Turn 8, Step 30] Agent: 공격 - Eccentric Scribe[12/5] -> Mukla, Tyrant of the Vale
+[Turn 8, Step 31] Agent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 8, Step 32] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 8, Step 33] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 33] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 8, Step 33] Opponent: 공격 - Southsea Deckhand[2/1] -> Jaina Proudmoore
+[Turn 8, Step 33] Opponent: 턴 종료
+[Turn 9, Step 34] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (9): Lifedrinker, Batterhead, Bull Dozer, Ancient Mysteries, Arena Treasure Chest, Arena Treasure Chest, Kaboom Bot, Map to the Golden Monkey, Dire Mole
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Elise Starseeker[3/5], Nat Pagle[0/4], Transmogrifier[2/3]
+Opponent: Rexxar HP: 16, Mana: 4/8
+  Hand (7)
+  Field: Southsea Deckhand[2/1], Dragonmaw Poacher[4/4]
+[Turn 9, Step 35] Agent: 공격 - Elise Starseeker[3/5] -> Dragonmaw Poacher
+[Turn 9, Step 36] Agent: 공격 - Vengeful Scroll[1/1] -> Dragonmaw Poacher
+[Turn 9, Step 37] Agent: 공격 - Vengeful Scroll[1/1] -> Southsea Deckhand
+[Turn 9, Step 38] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 9, Step 39] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/9
+  Hand (8): Lifedrinker, Batterhead, Bull Dozer, Ancient Mysteries, Arena Treasure Chest, Kaboom Bot, Map to the Golden Monkey, Dire Mole
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Elise Starseeker[3/1], Nat Pagle[0/4], Transmogrifier[2/3], Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 15, Mana: 4/8
+  Hand (7)
+[Turn 9, Step 40] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 41] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+[Turn 9, Step 42] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 42] Opponent: 카드 플레이 - Alexstrasza -> Jaina Proudmoore (코스트: 9)
+[Turn 9, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Elise Starseeker[3/1] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (10): Lifedrinker, Batterhead, Bull Dozer, Ancient Mysteries, Arena Treasure Chest, Kaboom Bot, Map to the Golden Monkey, Dire Mole, High Priestess Jeklik, Gazlowe
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Elise Starseeker[3/1], Nat Pagle[0/4], Transmogrifier[2/3], Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 10, Mana: 0/9
+  Hand (7)
+  Field: Alexstrasza[8/8]
+[Turn 10, Step 45] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+[Turn 10, Step 46] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 10, Step 47] Agent: 카드 플레이 - Map to the Golden Monkey (코스트: 2)
+[Turn 10, Step 48] Agent: 공격 - Transmogrifier[2/3] -> Alexstrasza
+[Turn 10, Step 49] Agent: 카드 플레이 - Ancient Mysteries (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (8): Lifedrinker, Batterhead, Bull Dozer, Kaboom Bot, Dire Mole, High Priestess Jeklik, Gazlowe, Armagedillo
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Elise Starseeker[3/1], Nat Pagle[0/4], Arena Treasure Chest[0/4], Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 9, Mana: 0/9
+  Hand (7)
+  Field: Alexstrasza[8/6]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 카드 플레이 - Call of the Wild (코스트: 8)
+[Turn 10, Step 50] Opponent: 공격 - Alexstrasza[9/6] -> Arena Treasure Chest
+[Turn 10, Step 50] Opponent: 공격 - Huffer[5/2] -> Vengeful Scroll
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Leokk
+[Turn 10, Step 52] Agent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 53] Agent: 카드 플레이 - High Priestess Jeklik (코스트: 4)
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Siamat (코스트: 7)
+[Turn 10, Step 54] Opponent: 선택 - Siamat's Heart
+[Turn 10, Step 54] Opponent: 선택 - Siamat's Shield
+[Turn 10, Step 54] Opponent: 공격 - Alexstrasza[9/6] -> High Priestess Jeklik
+[Turn 10, Step 54] Opponent: 공격 - Misha[5/4] -> Arena Treasure Chest
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Batterhead, Bull Dozer, Kaboom Bot, Dire Mole, Gazlowe, Armagedillo, Molten Giant, Vulpera Scoundrel, Charged Devilsaur, Mosh'Ogg Announcer
+  Field: Vengeful Scroll[1/1], Elise Starseeker[3/1], Nat Pagle[0/4], Lifedrinker[3/3]
+Opponent: Rexxar HP: 6, Mana: 3/10
+  Hand (7)
+  Field: Alexstrasza[9/3], Huffer[5/1], Leokk[2/3], Misha[5/4], Siamat[7/6]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Huffer[5/1] -> Elise Starseeker
+[Turn 10, Step 55] Opponent: 카드 플레이 - Corrosive Breath -> Nat Pagle (코스트: 2)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 55] Opponent: 공격 - Leokk[2/3] -> Lifedrinker
+[Turn 10, Step 55] Opponent: 카드 플레이 - Unleash the Hounds (코스트: 3)
+[Turn 10, Step 55] Opponent: 공격 - Alexstrasza[8/3] -> Lifedrinker
+[Turn 10, Step 55] Opponent: 공격 - Misha[4/4] -> Nat Pagle
+[Turn 10, Step 55] Opponent: 공격 - Hound[1/1] -> Vengeful Scroll
+[Turn 10, Step 55] Opponent: 공격 - Siamat[6/6] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 공격 - Hound[1/1] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 공격 - Hound[1/1] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Hound
+[Turn 10, Step 57] Agent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 10, Step 58] Agent: 선택 - Frostbolt
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Y'Shaarj, Rage Unbound (코스트: 10)
+[Turn 10, Step 58] Opponent: 공격 - Siamat[6/6] -> Vulpera Scoundrel
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 카드 플레이 - Frostbolt -> Rexxar (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (9): Batterhead, Bull Dozer, Kaboom Bot, Dire Mole, Gazlowe, Armagedillo, Molten Giant, Charged Devilsaur, Mosh'Ogg Announcer
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (5)
+  Field: Misha[4/4], Siamat[6/6], Shield of Galakrond[4/5], Hound[1/1], Y'Shaarj, Rage Unbound[10/10], Stonehill Defender[1/4]
+[Turn 10, Step 60] Agent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 61] Agent: 카드 플레이 - Molten Giant (코스트: 0)
+[Turn 10, Step 62] Agent: 공격 - Batterhead[3/12] -> Stonehill Defender
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Beastmaster Leoroxx (코스트: 8)
+[Turn 10, Step 63] Opponent: 공격 - Misha[4/4] -> Batterhead
+[Turn 10, Step 63] Opponent: 공격 - Shield of Galakrond[4/5] -> Molten Giant
+[Turn 10, Step 63] Opponent: 공격 - Siamat[6/6] -> Jaina Proudmoore
+[Turn 10, Step 63] Opponent: 공격 - Hound[1/1] -> Jaina Proudmoore
+[Turn 10, Step 63] Opponent: 공격 - Y'Shaarj, Rage Unbound[10/10] -> Molten Giant
+[Turn 10, Step 63] Opponent: 공격 - Stonehill Defender[1/1] -> Batterhead
+[Turn 10, Step 63] Opponent: 영웅 능력 사용
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 카드 플레이 - Dire Mole (코스트: 1)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 9/10
+  Hand (7): Bull Dozer, Kaboom Bot, Gazlowe, Armagedillo, Charged Devilsaur, Mosh'Ogg Announcer, Feugen
+  Field: Batterhead[3/6], Dire Mole[1/3]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (5)
+  Field: Misha[4/1], Siamat[6/6], Hound[1/1], Y'Shaarj, Rage Unbound[10/2], Body Wrapper[4/4], Beastmaster Leoroxx[5/5]
+[Turn 10, Step 65] Agent: 공격 - Batterhead[3/6] -> Misha
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 67) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (7): Bull Dozer, Kaboom Bot, Gazlowe, Armagedillo, Charged Devilsaur, Mosh'Ogg Announcer, Feugen
+  Field: Batterhead[3/2], Dire Mole[1/3]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (5)
+  Field: Siamat[6/6], Hound[1/1], Y'Shaarj, Rage Unbound[10/2], Body Wrapper[4/4], Beastmaster Leoroxx[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

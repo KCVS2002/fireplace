@@ -1,0 +1,200 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Rocket Augmerchant -> Angry Chicken (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (6): Whirliglider, Mo'arg Artificer, Naga Corsair, Cone of Cold, Stoneskin Basilisk, Baleful Banker
+  Field: Rocket Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Igneous Elemental[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 3, Step 5] Opponent: 공격 - Igneous Elemental[2/3] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(51) → 5로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Cone of Cold -> Igneous Elemental (코스트: 4)
+[Turn 4, Step 7] Agent: 공격 - Rocket Augmerchant[2/1] -> Gravelsnout Knight
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 4, Step 8] Agent: 공격 - Weasel Tunneler[1/1] -> Igneous Elemental
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (7): Mayor Noggenfogger, Whirliglider, Mo'arg Artificer, Naga Corsair, Stoneskin Basilisk, Baleful Banker, Pyroblast
+Opponent: Rexxar HP: 30, Mana: 3/5
+  Hand (4)
+  Field: Igneous Elemental[2/1], Stubborn Gastropod[1/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 5, Step 11] Opponent: 공격 - Igneous Elemental[2/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 공격 - Stubborn Gastropod[1/4] -> Naga Corsair
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Carnivorous Cube -> Sunborne Val'kyr (코스트: 5)
+[Turn 6, Step 14] Opponent: 공격 - Igneous Elemental[2/1] -> Goblin Bomb
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/7
+  Hand (7): Mayor Noggenfogger, Mo'arg Artificer, Stoneskin Basilisk, Baleful Banker, Pyroblast, Mechanical Whelp, Feral Gibberer
+  Field: Whirliglider[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (4)
+  Field: Igneous Elemental[2/1], Carnivorous Cube[4/6]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Mo'arg Artificer (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Igneous Elemental[2/1] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Baleful Banker -> Mo'arg Artificer (코스트: 2)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(48) → 14로 보정
+[Turn 8, Step 19] Agent: 공격 - Mo'arg Artificer[2/4] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/8
+  Hand (6): Mayor Noggenfogger, Stoneskin Basilisk, Pyroblast, Mechanical Whelp, Feral Gibberer, Tortollan Pilgrim
+  Field: Whirliglider[2/1], Mo'arg Artificer[2/4], Baleful Banker[2/2]
+Opponent: Rexxar HP: 25, Mana: 8/8
+  Hand (5)
+  Field: Igneous Elemental[2/1], Carnivorous Cube[4/6]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(38) → 10로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Baleful Banker
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Igneous Elemental[2/1] -> Jaina Proudmoore
+[Turn 8, Step 22] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 카드 플레이 - Tortollan Pilgrim (코스트: 8)
+[Turn 9, Step 24] Agent: 선택 - Cone of Cold
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 9, Step 24] Agent: 공격 - Whirliglider[2/1] -> Carnivorous Cube
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/9
+  Hand (5): Mayor Noggenfogger, Stoneskin Basilisk, Pyroblast, Mechanical Whelp, Gruul
+  Field: Mo'arg Artificer[2/2], Tortollan Pilgrim[5/3]
+Opponent: Rexxar HP: 25, Mana: 8/9
+  Hand (5)
+  Field: Igneous Elemental[2/1], Carnivorous Cube[4/2], Mecharoo[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Pyroblast -> Jaina Proudmoore (코스트: 10)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 27] Agent: 공격 - Mo'arg Artificer[2/2] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Mecharoo
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (6): Mayor Noggenfogger, Stoneskin Basilisk, Mechanical Whelp, Gruul, Infectious Sporeling, Arcane Keysmith
+  Field: Mo'arg Artificer[2/2], Tortollan Pilgrim[5/3]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (6)
+  Field: Igneous Elemental[2/1], Carnivorous Cube[4/2], Jo-E Bot[1/1], Xavius[7/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(28) → 12로 보정
+[Turn 10, Step 30] Agent: 공격 - Tortollan Pilgrim[5/3] -> Igneous Elemental
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(57) → 7로 보정
+[Turn 10, Step 31] Agent: 공격 - Mo'arg Artificer[2/2] -> Carnivorous Cube
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(10) → 4로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Jo-E Bot[1/1] -> Infectious Sporeling
+[Turn 10, Step 33] Opponent: 공격 - Xavius[7/5] -> Infectious Sporeling
+[Turn 10, Step 33] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Plated Beetle (코스트: 2)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Plated Beetle
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (6): Mayor Noggenfogger, Stoneskin Basilisk, Mechanical Whelp, Gruul, Arcane Keysmith, Murmy
+Opponent: Rexxar HP: 22, Mana: 6/10
+  Hand (7)
+  Field: Sunborne Val'kyr[5/4], Sunborne Val'kyr[5/4], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Mad Bomber[3/2], Plated Beetle[2/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 10, Step 35] Opponent: 공격 - Plated Beetle[2/2] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 공격 - Sunborne Val'kyr[5/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 36) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (6): Mayor Noggenfogger, Stoneskin Basilisk, Mechanical Whelp, Gruul, Arcane Keysmith, Murmy
+Opponent: Rexxar HP: 22, Mana: 8/10
+  Hand (7)
+  Field: Sunborne Val'kyr[5/4], Sunborne Val'kyr[5/4], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Mad Bomber[3/2], Plated Beetle[2/2], Parachute Brigand[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

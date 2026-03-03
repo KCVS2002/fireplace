@@ -1,0 +1,305 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Bloodfen Raptor (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Bloodfen Raptor (코스트: 2)
+[Turn 2, Step 3] Opponent: 공격 - Bloodfen Raptor[3/2] -> Goblin Bomb
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(12) → 4로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (5): Infectious Sporeling, The Darkness, Ship's Cannon, Madder Bomber, Worgen Infiltrator
+Opponent: Rexxar HP: 27, Mana: 0/2
+  Hand (4)
+  Field: Bloodfen Raptor[3/2], Bloodfen Raptor[3/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Baleful Banker -> Bloodfen Raptor (코스트: 2)
+[Turn 3, Step 6] Opponent: 공격 - Bloodfen Raptor[3/2] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(47) → 8로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Ship's Cannon
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 4, Step 9] Agent: 공격 - Worgen Infiltrator[2/1] -> Bloodfen Raptor
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (4): Infectious Sporeling, The Darkness, Madder Bomber, Phantom Freebooter
+  Field: Ship's Cannon[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/3
+  Hand (4)
+  Field: Bloodfen Raptor[3/2], Baleful Banker[2/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 4, Step 10] Opponent: 공격 - Baleful Banker[2/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Baleful Banker
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 5, Step 12] Agent: 공격 - Ship's Cannon[2/2] -> Emperor Cobra
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 5, Step 13] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (5): The Darkness, Madder Bomber, Phantom Freebooter, Corrupted Healbot, Silver Hand Knight
+  Field: Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (5)
+  Field: Bloodfen Raptor[3/2], Baleful Banker[2/1], Emperor Cobra[2/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(94) → 14로 보정
+[Turn 6, Step 15] Agent: 공격 - Infectious Sporeling[1/2] -> Baleful Banker
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 6, Step 16] Agent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(51) → 2로 보정
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Corrupted Healbot (코스트: 5)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/7
+  Hand (4): The Darkness, Madder Bomber, Silver Hand Knight, Tanaris Hogchopper
+  Field: Phantom Freebooter[3/3], Corrupted Healbot[6/6]
+Opponent: Rexxar HP: 26, Mana: 6/6
+  Hand (6)
+  Field: Bloodfen Raptor[3/2], Infectious Sporeling[1/2], Emperor Cobra[2/1]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 7, Step 20] Agent: 공격 - Phantom Freebooter[3/3] -> Emperor Cobra
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(11) → 5로 보정
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Corrupted Healbot
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - The Darkness (코스트: 4)
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/8
+  Hand (4): Madder Bomber, Silver Hand Knight, Tanaris Hogchopper, Secretkeeper
+  Field: Corrupted Healbot[6/5], The Darkness[20/20]
+Opponent: Rexxar HP: 25, Mana: 7/7
+  Hand (7)
+  Field: Bloodfen Raptor[3/2], Infectious Sporeling[1/2]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(42) → 8로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 9, Step 28] Agent: 공격 - Secretkeeper[1/2] -> Infectious Sporeling
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(52) → 3로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/9
+  Hand (3): Madder Bomber, Silver Hand Knight, Corridor Creeper
+  Field: Corrupted Healbot[6/5], The Darkness[20/20], Infectious Sporeling[1/2], Tanaris Hogchopper[4/4]
+Opponent: Rexxar HP: 25, Mana: 8/8
+  Hand (8)
+  Field: Bloodfen Raptor[3/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 9, Step 30] Opponent: 공격 - Bloodfen Raptor[3/2] -> Tanaris Hogchopper
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(67) → 16로 보정
+[Turn 10, Step 31] Agent: 공격 - Tanaris Hogchopper[4/1] -> Night Howler
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Corrupted Healbot
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Corridor Creeper (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (2): Madder Bomber, Vicious Scalehide
+  Field: Corrupted Healbot[6/4], The Darkness[20/20], Infectious Sporeling[1/2], Silver Hand Knight[4/4], Squire[2/2], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 25, Mana: 5/9
+  Hand (8)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Corrupted Healbot[6/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Infectious Sporeling[1/2] -> Silver Hand Knight
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Prince Keleseth
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/10
+  Hand (2): Madder Bomber, Vicious Scalehide
+  Field: Corrupted Healbot[6/4], The Darkness[20/20], Infectious Sporeling[1/2], Infectious Sporeling[1/2], Squire[2/2], Corridor Creeper[2/5], Prince Keleseth[2/1]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 41] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(31) → 15로 보정
+[Turn 10, Step 43] Agent: 공격 - Prince Keleseth[2/1] -> Sky Gen'ral Kragg
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(58) → 7로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (3): Madder Bomber, Vicious Scalehide, Bloodsail Corsair
+  Field: Corrupted Healbot[6/4], The Darkness[20/20], Infectious Sporeling[1/1], Infectious Sporeling[1/2], Squire[2/2], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 15, Mana: 6/10
+  Hand (9)
+  Field: Sky Gen'ral Kragg[2/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 45] Agent: 공격 - Corrupted Healbot[6/4] -> Sky Gen'ral Kragg
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 46] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 10, Step 47] Opponent: 선택 - Ancestral Guardian
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(39) → 10로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Corridor Creeper
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(32) → 12로 보정
+[Turn 10, Step 49] Agent: 공격 - Infectious Sporeling[1/2] -> Foe Reaper 4000
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (4): Madder Bomber, Vicious Scalehide, Bloodsail Corsair, Tortollan Pilgrim
+  Field: Corrupted Healbot[6/2], The Darkness[20/20], Infectious Sporeling[1/1], Squire[2/2], Corridor Creeper[2/4]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2], Grimestreet Informant[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(28) → 11로 보정
+[Turn 10, Step 50] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(55) → 13로 보정
+[Turn 10, Step 51] Agent: 공격 - Corridor Creeper[2/4] -> Grimestreet Informant
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 10, Step 52] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(9) → 3로 보정
+[Turn 10, Step 54] Agent: 공격 - Corrupted Healbot[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/10
+  Hand (3): Madder Bomber, Bloodsail Corsair, Tortollan Pilgrim
+  Field: Corrupted Healbot[6/2], The Darkness[20/20], Squire[2/2], Corridor Creeper[2/3], Vicious Scalehide[1/3]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(89) → 9로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Corridor Creeper
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 10, Step 57] Agent: 공격 - Vicious Scalehide[1/3] -> Infectious Sporeling
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(63) → 8로 보정
+[Turn 10, Step 58] Agent: 공격 - Squire[2/2] -> Infectious Sporeling
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Madder Bomber (코스트: 5)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (3): Bloodsail Corsair, Tortollan Pilgrim, Recruiter
+  Field: Corrupted Healbot[6/2], The Darkness[20/20], Infectious Sporeling[1/1], Corridor Creeper[2/1], Madder Bomber[5/4]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 61] Agent: 공격 - Corridor Creeper[2/1] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(24) → 10로 보정
+[Turn 10, Step 64] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/10
+  Hand (2): Injured Blademaster, Tortollan Pilgrim
+  Field: Corrupted Healbot[6/2], The Darkness[20/20], Infectious Sporeling[1/1], Corridor Creeper[2/1], Madder Bomber[5/4], Bloodsail Corsair[1/2], Recruiter[5/4]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(18) → 5로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 66] Agent: 공격 - Corridor Creeper[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 67) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (3): Injured Blademaster, Tortollan Pilgrim, Squire
+  Field: Corrupted Healbot[6/2], The Darkness[20/20], Corridor Creeper[2/1], Madder Bomber[5/4], Bloodsail Corsair[1/2], Recruiter[5/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

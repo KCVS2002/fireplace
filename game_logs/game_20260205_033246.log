@@ -1,0 +1,487 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(25) → 5로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (6): Faceless Summoner, Grim Patron, Blowgill Sniper, The Coin, Nozdormu, Evasive Wyrm
+  Field: Leper Gnome[1/1], Mechwarper[2/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Mechwarper
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 3, Step 7] Agent: 공격 - Leper Gnome[1/1] -> Rexxar
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 3, Step 8] Agent: 카드 플레이 - Blowgill Sniper -> Leper Gnome (코스트: 2)
+[Turn 3, Step 9] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 3, Step 9] Agent: 공격 - Mechwarper[2/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Faceless Summoner, Grim Patron, Nozdormu, Evasive Wyrm
+  Field: Mechwarper[2/2], Blowgill Sniper[2/1]
+Opponent: Rexxar HP: 25, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 10] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Coliseum Manager (코스트: 3)
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Mechwarper
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 4, Step 12] Agent: 공격 - Mechwarper[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 4, Step 13] Agent: 공격 - Blowgill Sniper[2/1] -> Coliseum Manager
+[Turn 4, Step 14] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (6): Faceless Summoner, Grim Patron, Nozdormu, Evasive Wyrm, Mischief Maker, Harrison Jones
+  Field: Mechwarper[2/1]
+Opponent: Rexxar HP: 23, Mana: 5/5
+  Hand (7)
+  Field: Coliseum Manager[2/3]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 5, Step 15] Agent: 영웅 능력 사용 -> Mechwarper
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 5, Step 16] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 5, Step 17] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Flame Lance -> Mischief Maker (코스트: 5)
+[Turn 5, Step 17] Opponent: 공격 - Coliseum Manager[2/3] -> Jaina Proudmoore
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(52) → 7로 보정
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (7): Faceless Summoner, Grim Patron, Nozdormu, Evasive Wyrm, Harrison Jones, Cybertech Chip, Tol'vir Stoneshaper
+Opponent: Rexxar HP: 22, Mana: 7/7
+  Hand (8)
+  Field: Coliseum Manager[2/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Coliseum Manager
+[Turn 8, Step 24] Agent: 카드 플레이 - Cybertech Chip (코스트: 2)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/8
+  Hand (6): Faceless Summoner, Nozdormu, Evasive Wyrm, Harrison Jones, Tol'vir Stoneshaper, King Phaoris
+  Field: Grim Patron[3/3]
+Opponent: Rexxar HP: 22, Mana: 8/8
+  Hand (9)
+  Field: Coliseum Manager[2/2]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Tol'vir Stoneshaper (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Grim Patron[3/3] -> Rexxar
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 공격 - Coliseum Manager[2/2] -> Tol'vir Stoneshaper
+[Turn 8, Step 27] Opponent: 카드 플레이 - Grand Lackey Erkh (코스트: 4)
+[Turn 8, Step 27] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(24) → 9로 보정
+[Turn 9, Step 29] Agent: 공격 - Grim Patron[3/3] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/9
+  Hand (5): Faceless Summoner, Nozdormu, Evasive Wyrm, Harrison Jones, King Phaoris
+  Field: Grim Patron[3/3], Tol'vir Stoneshaper[3/3], Disguised Wanderer[3/3]
+Opponent: Rexxar HP: 16, Mana: 1/9
+  Hand (8)
+  Field: Grand Lackey Erkh[2/3], Dragonmaw Poacher[4/4]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(43) → 16로 보정
+[Turn 10, Step 31] Agent: 공격 - Grim Patron[3/3] -> Grand Lackey Erkh
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(73) → 10로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Tol'vir Stoneshaper
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(74) → 36로 보정
+[Turn 10, Step 34] Agent: 공격 - Disguised Wanderer[3/3] -> Worgen Greaser
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (7): Faceless Summoner, Nozdormu, Evasive Wyrm, Harrison Jones, King Phaoris, Ogre Magi, Starscryer
+  Field: Grim Patron[3/1], Grim Patron[3/3], Tol'vir Stoneshaper[3/2], Rustsworn Inquisitor[9/1]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (7)
+  Field: Dragonmaw Poacher[4/4], Living Dragonbreath[3/4], Spiteful Smith[4/6]
+[Turn 10, Step 35] Agent: 공격 - Grim Patron[3/3] -> Dragonmaw Poacher
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(95) → 23로 보정
+[Turn 10, Step 36] Agent: 공격 - Tol'vir Stoneshaper[3/2] -> Spiteful Smith
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(72) → 15로 보정
+[Turn 10, Step 37] Agent: 공격 - Grim Patron[3/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(25) → 10로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Grim Patron
+[Turn 10, Step 39] Agent: 카드 플레이 - Starscryer (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (7): Faceless Summoner, Nozdormu, Evasive Wyrm, Harrison Jones, King Phaoris, Ogre Magi, Skybarge
+  Field: Rustsworn Inquisitor[9/1], Starscryer[3/1]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (7)
+  Field: Dragonmaw Poacher[4/1], Living Dragonbreath[3/4], Spiteful Smith[4/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Rustsworn Inquisitor[9/1] -> Dragonmaw Poacher
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(38) → 18로 보정
+[Turn 10, Step 43] Agent: 공격 - Ogre Magi[4/4] -> Living Dragonbreath
+[Turn 10, Step 44] Agent: 카드 플레이 - Skybarge (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/10
+  Hand (6): Faceless Summoner, Nozdormu, Evasive Wyrm, Harrison Jones, King Phaoris, Tinkmaster Overspark
+  Field: Starscryer[3/1], Ogre Magi[4/1], Skybarge[2/5]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (8)
+  Field: Spiteful Smith[4/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(94) → 3로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Spiteful Smith
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 47] Agent: 공격 - Starscryer[3/1] -> Spiteful Smith
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Spiteful Summoner (코스트: 6)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - King Phaoris (코스트: 10)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (6): Faceless Summoner, Nozdormu, Evasive Wyrm, Tinkmaster Overspark, Volcanic Potion, The Darkness
+  Field: Ogre Magi[4/1], Skybarge[2/5], Harrison Jones[5/4], King Phaoris[5/5], Chopshop Copter[2/4]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: History Buff[3/4], Spiteful Summoner[4/4], Sunborne Val'kyr[5/4], Tournament Attendee[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Harrison Jones[5/4] -> Tournament Attendee
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Ogre Magi[4/1] -> Spiteful Summoner
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Skybarge[2/5] -> History Buff
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Sunborne Val'kyr[5/4] -> King Phaoris
+[Turn 10, Step 53] Opponent: 공격 - History Buff[3/2] -> Chopshop Copter
+[Turn 10, Step 53] Opponent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(73) → 17로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Gorillabot A-3
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (7): Faceless Summoner, Nozdormu, Evasive Wyrm, Tinkmaster Overspark, Volcanic Potion, The Darkness, Dark Iron Dwarf
+  Field: Skybarge[2/2], Harrison Jones[5/2], Chopshop Copter[2/1]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (5)
+  Field: Gorillabot A-3[4/4], Harbinger Celestia[6/7], Spark Engine[2/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 56] Agent: 공격 - Harrison Jones[5/2] -> Evasive Wyrm
+[Turn 10, Step 57] Agent: 공격 - Chopshop Copter[2/1] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 58] Agent: 공격 - Skybarge[2/2] -> Evasive Wyrm
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 10, Step 59] Opponent: 공격 - Evasive Wyrm[5/1] -> Evasive Wyrm
+[Turn 10, Step 59] Opponent: 공격 - Gorillabot A-3[4/4] -> Chopshop Copter
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Faceless Summoner, Nozdormu, Tinkmaster Overspark, Volcanic Potion, The Darkness, Dark Iron Dwarf, Metaltooth Leaper, Am'gam Rager
+  Field: Evasive Wyrm[5/3]
+Opponent: Rexxar HP: 11, Mana: 5/10
+  Hand (5)
+  Field: Gorillabot A-3[4/2], Spark Engine[2/1], Boompistol Bully[5/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Dark Iron Dwarf -> Gorillabot A-3 (코스트: 9)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 63] Agent: 공격 - Dark Iron Dwarf[4/4] -> Spark Engine
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - The Darkness (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (6): Nozdormu, Tinkmaster Overspark, Volcanic Potion, Metaltooth Leaper, Am'gam Rager, Piloted Sky Golem
+  Field: Evasive Wyrm[5/3], Dark Iron Dwarf[4/2], Faceless Summoner[5/5], Augmented Porcupine[2/4], The Darkness[20/20]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+  Field: Gorillabot A-3[4/2], Boompistol Bully[5/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 10, Step 65] Agent: 공격 - Evasive Wyrm[5/3] -> Gorillabot A-3
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 공격 - Boompistol Bully[5/5] -> Augmented Porcupine
+[Turn 10, Step 66] Opponent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 10, Step 66] Opponent: 카드 플레이 - Vereesa Windrunner (코스트: 7)
+[Turn 10, Step 66] Opponent: 공격 - Rexxar[2/10] -> Dark Iron Dwarf
+[Turn 10, Step 66] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 1)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(86) → 14로 보정
+[Turn 10, Step 68] Agent: 공격 - Faceless Summoner[5/5] -> Boompistol Bully
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (5): Nozdormu, Tinkmaster Overspark, Metaltooth Leaper, Am'gam Rager, Faceless Corruptor
+  Field: The Darkness[20/20], Lightforged Zealot[4/2]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (4)
+  Field: Vereesa Windrunner[5/4], Nerubian Prophet[4/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Nerubian Prophet[4/2] -> Jaina Proudmoore
+[Turn 10, Step 70] Opponent: 공격 - Rexxar[2/6] -> Jaina Proudmoore
+[Turn 10, Step 70] Opponent: 공격 - Vereesa Windrunner[5/4] -> Lightforged Zealot
+[Turn 10, Step 70] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 10, Step 70] Opponent: 선택 - Psychopomp
+[Turn 10, Step 70] Opponent: 카드 플레이 - Psychopomp (코스트: 4)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Metaltooth Leaper (코스트: 3)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (3): Nozdormu, Tinkmaster Overspark, Faceless Corruptor
+  Field: The Darkness[20/20], Tainted Zealot[1/1], Metaltooth Leaper[3/3], Am'gam Rager[1/5]
+Opponent: Rexxar HP: 5, Mana: 3/10
+  Hand (4)
+  Field: Nerubian Prophet[4/2], Kabal Courier[2/2], Psychopomp[3/1], Worgen Greaser[6/3]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 공격 - Kabal Courier[2/2] -> Tainted Zealot
+[Turn 10, Step 75] Opponent: 공격 - Nerubian Prophet[4/2] -> Tainted Zealot
+[Turn 10, Step 75] Opponent: 공격 - Psychopomp[3/1] -> Metaltooth Leaper
+[Turn 10, Step 75] Opponent: 공격 - Worgen Greaser[6/3] -> Jaina Proudmoore
+[Turn 10, Step 75] Opponent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 10, Step 75] Opponent: 카드 플레이 - Hired Gun (코스트: 3)
+[Turn 10, Step 75] Opponent: 공격 - Rexxar[2/5] -> Jaina Proudmoore
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 공격 - Am'gam Rager[1/5] -> Hired Gun
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(14) → 1로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (3): Nozdormu, Faceless Corruptor, Corridor Creeper
+  Field: The Darkness[20/20], Am'gam Rager[1/1], Eccentric Scribe[6/4], Tinkmaster Overspark[3/3]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (4)
+  Field: Nerubian Prophet[4/1], Kabal Courier[2/1], Squirrel[1/1], Piloted Sky Golem[6/4], Hired Gun[4/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(33) → 14로 보정
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Tinkmaster Overspark
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 81] Agent: 공격 - Tinkmaster Overspark[3/2] -> Hired Gun
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(40) → 12로 보정
+[Turn 10, Step 82] Agent: 공격 - Eccentric Scribe[6/4] -> Squirrel
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Faceless Corruptor -> Eccentric Scribe (코스트: 5)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(51) → 7로 보정
+[Turn 10, Step 84] Agent: 공격 - Faceless Corruptor[4/4] -> Piloted Sky Golem
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (2): Nozdormu, Corridor Creeper
+  Field: The Darkness[20/20], Am'gam Rager[1/1], Faceless Corruptor[4/4]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (4)
+  Field: Nerubian Prophet[4/1], Kabal Courier[2/1], Mad Hatter[3/2]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 85] Agent: 공격 - Am'gam Rager[1/1] -> Kabal Courier
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 86] Agent: 공격 - Faceless Corruptor[4/4] -> Mad Hatter
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Corridor Creeper (코스트: 0)
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 영웅 능력 사용
+[Turn 10, Step 88] Opponent: 카드 플레이 - Kill Command -> Faceless Corruptor (코스트: 3)
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 10, Step 89] Agent: 공격 - Corridor Creeper[2/5] -> Nerubian Prophet
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (2): Nozdormu, Cone of Cold
+  Field: The Darkness[20/20], Corridor Creeper[2/1]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (4)
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 카드 플레이 - Chef Nomi (코스트: 7)
+[Turn 10, Step 91] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 91] Opponent: 영웅 능력 사용
+[Turn 10, Step 91] Opponent: 공격 - Spark[1/1] -> Corridor Creeper
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(14) → 6로 보정
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 93] Agent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 10, Step 94] Agent: 카드 플레이 - Cone of Cold -> Corpsetaker (코스트: 4)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 0/10
+  Hand (2): Nozdormu, Fishflinger
+  Field: The Darkness[20/20], Corpsetaker[3/2]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (4)
+  Field: Chef Nomi[6/6]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 영웅 능력 사용
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(85) → 5로 보정
+[Turn 10, Step 96] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 97] Agent: 카드 플레이 - Archmage Arugal (코스트: 2)
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 공격 - Chef Nomi[6/6] -> Archmage Arugal
+[Turn 10, Step 98] Opponent: 카드 플레이 - Tyrantus (코스트: 10)
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 10, Step 99] Agent: 영웅 능력 사용 -> Corpsetaker
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (3): Nozdormu, Fishflinger, Sea Giant
+  Field: The Darkness[20/20], Corpsetaker[3/1]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (5)
+  Field: Chef Nomi[6/4], Tyrantus[12/12]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 100] Agent: 공격 - Corpsetaker[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 101) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (3): Nozdormu, Fishflinger, Sea Giant
+  Field: The Darkness[20/20], Corpsetaker[3/1]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+  Field: Chef Nomi[6/4], Tyrantus[12/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,262 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Voodoo Doctor -> Rexxar (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 공격 - Voodoo Doctor[2/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/2
+  Hand (6): Animated Avalanche, Phalanx Commander, Sated Threshadon, SN1P-SN4P, Hench-Clan Hogsteed, Stormwind Knight
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+  Field: Voodoo Doctor[2/1]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Voodoo Doctor[2/1] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Voodoo Doctor[2/1] -> Stoneskin Gargoyle
+[Turn 3, Step 7] Opponent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Hailbringer (코스트: 5)
+[Turn 4, Step 8] Opponent: 공격 - Tauren Warrior[2/3] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 3/5
+  Hand (7): Blast Wave, Animated Avalanche, Phalanx Commander, Sated Threshadon, SN1P-SN4P, Stormwind Knight, Belligerent Gnome
+  Field: Stoneskin Gargoyle[1/4], Hench-Clan Hogsteed[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (5)
+  Field: Tauren Warrior[2/3], Hailbringer[3/4], Ice Shard[1/1], Ice Shard[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(14) → 1로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 5, Step 11] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Tauren Warrior
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Tauren Warrior
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(36) → 10로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Ice Shard
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 4/6
+  Hand (7): Blast Wave, Animated Avalanche, Phalanx Commander, Sated Threshadon, Stormwind Knight, Belligerent Gnome, Twilight Geomancer
+  Field: Stoneskin Gargoyle[1/4], Hench-Clan Squire[1/1], SN1P-SN4P[2/3]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (6)
+  Field: Hailbringer[3/4], Ice Shard[1/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 6, Step 15] Agent: 공격 - SN1P-SN4P[2/3] -> Hailbringer
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Hailbringer[3/2] -> Hench-Clan Squire
+[Turn 6, Step 16] Opponent: 공격 - Ice Shard[1/1] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 6, Step 16] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Microbot[1/1] -> Spiteful Smith
+[Turn 7, Step 18] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(66) → 16로 보정
+[Turn 7, Step 19] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Hailbringer
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/7
+  Hand (7): Blast Wave, Animated Avalanche, Phalanx Commander, Sated Threshadon, Stormwind Knight, Twilight Geomancer, Fire Fly
+  Field: Stoneskin Gargoyle[1/1], Microbot[1/1], Belligerent Gnome[2/4]
+Opponent: Rexxar HP: 29, Mana: 0/7
+  Hand (5)
+  Field: Ice Shard[1/1], Spiteful Smith[4/5], Kobold Sandtrooper[2/1]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Animated Avalanche (코스트: 7)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Fire Fly (코스트: 1)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 8, Step 23] Agent: 공격 - Microbot[1/1] -> Ice Shard
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 8, Step 24] Agent: 공격 - Belligerent Gnome[2/4] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/8
+  Hand (7): Blast Wave, Phalanx Commander, Sated Threshadon, Stormwind Knight, Twilight Geomancer, Volcanic Drake, Flame Elemental
+  Field: Stoneskin Gargoyle[1/4], Belligerent Gnome[2/4], Animated Avalanche[7/6], Fire Fly[1/2]
+Opponent: Rexxar HP: 27, Mana: 6/8
+  Hand (6)
+  Field: Spiteful Smith[4/5], Kobold Sandtrooper[2/1]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 8, Step 25] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Kobold Sandtrooper
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Spiteful Smith[4/5] -> Belligerent Gnome
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Animated Avalanche[7/6] -> Rexxar
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(81) → 5로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 9, Step 29] Agent: 공격 - Fire Fly[1/2] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 7/9
+  Hand (7): Blast Wave, Phalanx Commander, Sated Threshadon, Stormwind Knight, Volcanic Drake, Flame Elemental, Untamed Beastmaster
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/6], Fire Fly[1/2], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 19, Mana: 9/9
+  Hand (7)
+  Field: Spiteful Smith[4/3]
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Stoneskin Gargoyle
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 9, Step 31] Agent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(96) → 18로 보정
+[Turn 10, Step 33] Agent: 공격 - Animated Avalanche[7/6] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(37) → 13로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Fire Fly
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (7): Blast Wave, Phalanx Commander, Sated Threshadon, Volcanic Drake, Flame Elemental, Untamed Beastmaster, Don Han'Cho
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/6], Fire Fly[1/1], Twilight Geomancer[1/4], Stormwind Knight[2/5]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+  Field: Spiteful Smith[4/3]
+[Turn 10, Step 35] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 10, Step 37] Agent: 공격 - Stormwind Knight[2/5] -> Rexxar
+[Turn 10, Step 38] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 39] Agent: 공격 - Twilight Geomancer[1/4] -> Spiteful Smith
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (5): Blast Wave, Phalanx Commander, Sated Threshadon, Untamed Beastmaster, Don Han'Cho
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/6], Fire Fly[1/1], Stormwind Knight[2/5], Volcanic Drake[6/4], Flame Elemental[1/2]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (8)
+  Field: Spiteful Smith[4/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Fire Fly[1/1] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(49) → 11로 보정
+[Turn 10, Step 43] Agent: 공격 - Fire Fly[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 카드 플레이 - Shroom Brewer -> Stoneskin Gargoyle (코스트: 4)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Bomb Toss -> Spiteful Smith (코스트: 2)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Twisted Worgen (코스트: 2)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (7): Blast Wave, Phalanx Commander, Sated Threshadon, Untamed Beastmaster, Don Han'Cho, Glacial Mysteries, Dragonhawk Rider
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/6], Fire Fly[1/1], Stormwind Knight[2/5], Volcanic Drake[6/4], Flame Elemental[1/2]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (7)
+  Field: Shroom Brewer[4/4], Goblin Bomb[0/2], Twisted Worgen[3/1]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Stoneskin Gargoyle
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(41) → 15로 보정
+[Turn 10, Step 46] Agent: 공격 - Fire Fly[1/1] -> Shroom Brewer
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(36) → 13로 보정
+[Turn 10, Step 47] Agent: 공격 - Animated Avalanche[7/6] -> Goblin Bomb
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(91) → 11로 보정
+[Turn 10, Step 48] Agent: 공격 - Stormwind Knight[2/5] -> Shroom Brewer
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Blast Wave (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/10
+  Hand (9): Phalanx Commander, Sated Threshadon, Untamed Beastmaster, Don Han'Cho, Glacial Mysteries, Dragonhawk Rider, Firelands Portal, Power of Creation, Spellbender
+  Field: Stoneskin Gargoyle[1/1], Animated Avalanche[7/4], Volcanic Drake[6/2]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (7)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(58) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - Stoneskin Gargoyle[1/1] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Corrosive Sludge (코스트: 5)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(94) → 1로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Phalanx Commander (코스트: 5)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(36) → 17로 보정
+[Turn 10, Step 54] Agent: 공격 - Untamed Beastmaster[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 5/10
+  Hand (8): Sated Threshadon, Don Han'Cho, Glacial Mysteries, Dragonhawk Rider, Firelands Portal, Power of Creation, Spellbender, Corrupted Seer
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/4], Volcanic Drake[6/2], Untamed Beastmaster[3/4], Phalanx Commander[4/5]
+Opponent: Rexxar HP: 2, Mana: 5/10
+  Hand (7)
+  Field: Corrosive Sludge[5/5]
+[Turn 10, Step 55] Agent: 공격 - Animated Avalanche[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 56) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 5/10
+  Hand (8): Sated Threshadon, Don Han'Cho, Glacial Mysteries, Dragonhawk Rider, Firelands Portal, Power of Creation, Spellbender, Corrupted Seer
+  Field: Stoneskin Gargoyle[1/4], Animated Avalanche[7/4], Volcanic Drake[6/2], Untamed Beastmaster[3/4], Phalanx Commander[4/5]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (7)
+  Field: Corrosive Sludge[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

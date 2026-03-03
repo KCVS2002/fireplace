@@ -1,0 +1,385 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 공격 - Saronite Taskmaster[2/2] -> Mad Bomber
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/4
+  Hand (6): Leatherclad Hogleader, Shade of Naxxramas, Banana Buffoon, Coldwraith, Faceless Shambler, Wisp
+  Field: Free Agent[0/3]
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Bananas -> Banana Buffoon (코스트: 1)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(93) → 13로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Cave Hydra
+[Turn 5, Step 9] Agent: 카드 플레이 - Wisp (코스트: 0)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Coldwraith, Faceless Shambler, Bananas
+  Field: Free Agent[0/3], Banana Buffoon[3/3], Wisp[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (6)
+  Field: Cave Hydra[2/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Bananas -> Free Agent (코스트: 1)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 5, Step 11] Agent: 공격 - Free Agent[1/4] -> Cave Hydra
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 5, Step 12] Agent: 공격 - Banana Buffoon[3/3] -> Cave Hydra
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(88) → 8로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/6
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Coldwraith, Faceless Shambler, Ancient Harbinger
+  Field: Free Agent[1/2], Banana Buffoon[3/1], Wisp[1/1]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Faceless Shambler -> Free Agent (코스트: 4)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 6, Step 16] Agent: 공격 - Free Agent[1/2] -> Rexxar
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 카드 플레이 - Burrowing Scorpid -> Free Agent (코스트: 4)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(48) → 6로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 7, Step 19] Agent: 공격 - Banana Buffoon[3/1] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/7
+  Hand (6): Hecklebot, Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Coldwraith, Ancient Harbinger
+  Field: Banana Buffoon[3/1], Wisp[1/1], Faceless Shambler[1/2]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (7)
+  Field: Burrowing Scorpid[5/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(88) → 19로 보정
+[Turn 8, Step 21] Agent: 공격 - Wisp[1/1] -> Giant Rat
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(58) → 1로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Coldwraith (코스트: 3)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 8, Step 24] Agent: 공격 - Banana Buffoon[3/1] -> Giant Rat
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/8
+  Hand (5): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Ancient Harbinger, Ravasaur Runt
+  Field: Faceless Shambler[1/2], Hecklebot[3/8], Coldwraith[3/4]
+Opponent: Rexxar HP: 25, Mana: 4/7
+  Hand (7)
+  Field: Burrowing Scorpid[5/2], Sewer Crawler[1/1], Kabal Courier[2/2]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 8, Step 25] Agent: 공격 - Faceless Shambler[1/2] -> Sewer Crawler
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(39) → 5로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Ravasaur Runt, Hungry Ettin, Clockwork Gnome
+  Field: Faceless Shambler[1/1], Hecklebot[3/8], Coldwraith[3/4], Ancient Harbinger[4/6]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (9)
+  Field: Burrowing Scorpid[5/2], Kabal Courier[2/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 10, Step 30] Agent: 공격 - Coldwraith[3/4] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 31] Agent: 공격 - Faceless Shambler[1/1] -> Kabal Courier
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+[Turn 10, Step 33] Agent: 선택 - Living Spores
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 33] Agent: 공격 - Hecklebot[3/8] -> Kabal Courier
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Hungry Ettin, Clockwork Gnome, King Phaoris, Kel'Thuzad
+  Field: Hecklebot[3/6], Coldwraith[3/4], Ancient Harbinger[4/6], Ravasaur Runt[2/2]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Burrowing Scorpid[5/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Hecklebot
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 38] Agent: 공격 - Ancient Harbinger[4/6] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 10, Step 39] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (5): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, King Phaoris, Kel'Thuzad
+  Field: Hecklebot[3/5], Coldwraith[3/4], Ancient Harbinger[4/6], Ravasaur Runt[2/2], Clockwork Gnome[2/1], Hungry Ettin[4/10]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+  Field: Burrowing Scorpid[5/2], Flame Juggler[2/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Coldwraith[3/4] -> Flame Juggler
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Burrowing Scorpid[5/2] -> Hecklebot
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - King Phaoris (코스트: 10)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 10, Step 43] Agent: 공격 - Hungry Ettin[4/10] -> Worgen Abomination
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 44] Agent: 공격 - Clockwork Gnome[2/1] -> Worgen Abomination
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Kel'Thuzad, Wisp, Armor Plating
+  Field: Ancient Harbinger[4/6], Ravasaur Runt[2/2], Hungry Ettin[4/4], King Phaoris[5/5]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Ancient Harbinger[4/6] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 46] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Core Rager (코스트: 4)
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(45) → 20로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Core Rager
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Armor Plating -> Twilight Guardian (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 7/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Kel'Thuzad, Wisp, Untamed Beastmaster
+  Field: Ancient Harbinger[4/6], Ravasaur Runt[2/2], Hungry Ettin[4/4], King Phaoris[5/5]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (8)
+  Field: Twilight Guardian[3/7], Core Rager[4/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(88) → 7로 보정
+[Turn 10, Step 50] Agent: 공격 - Hungry Ettin[4/4] -> Twilight Guardian
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Portal Overfiend (코스트: 6)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 10, Step 51] Opponent: 공격 - Core Rager[4/3] -> Hungry Ettin
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(45) → 7로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(48) → 14로 보정
+[Turn 10, Step 53] Agent: 공격 - Ancient Harbinger[4/6] -> Twilight Guardian
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(28) → 9로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> King Phaoris
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Kel'Thuzad, Wisp, Untamed Beastmaster
+  Field: Ancient Harbinger[4/3], Ravasaur Runt[2/2], King Phaoris[5/4], Illuminator[2/4]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (7)
+  Field: Portal Overfiend[5/6], Night Prowler[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(59) → 9로 보정
+[Turn 10, Step 55] Agent: 공격 - King Phaoris[5/4] -> Night Prowler
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 10, Step 56] Opponent: 공격 - Portal Overfiend[5/6] -> King Phaoris
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Portal Overfiend
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(51) → 13로 보정
+[Turn 10, Step 58] Agent: 공격 - Ravasaur Runt[2/2] -> Enhance-o Mechano
+[Turn 10, Step 59] Agent: 카드 플레이 - Kel'Thuzad (코스트: 8)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Wisp, Untamed Beastmaster, Gurubashi Chicken
+  Field: Ancient Harbinger[4/3], Illuminator[2/4], Kel'Thuzad[6/8]
+Opponent: Rexxar HP: 9, Mana: 2/10
+  Hand (6)
+  Field: Portal Overfiend[5/5], Aberrant Berserker[3/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(13) → 5로 보정
+[Turn 10, Step 60] Agent: 공격 - Illuminator[2/4] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 61] Agent: 공격 - Ancient Harbinger[4/3] -> Aberrant Berserker
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Wisp (코스트: 0)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Aberrant Berserker[5/1] -> Ancient Harbinger
+[Turn 10, Step 63] Opponent: 카드 플레이 - Fire Plume Phoenix -> Illuminator (코스트: 4)
+[Turn 10, Step 63] Opponent: 카드 플레이 - Witchwood Piper (코스트: 4)
+[Turn 10, Step 63] Opponent: 공격 - Portal Overfiend[5/5] -> Illuminator
+[Turn 10, Step 63] Opponent: 카드 플레이 - Mana Reservoir (코스트: 2)
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(95) → 9로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Portal Overfiend
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (6): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Untamed Beastmaster, Gurubashi Chicken, Star Aligner
+  Field: Kel'Thuzad[6/8], Illuminator[2/4], Ancient Harbinger[4/1], Ravasaur Runt[2/2], Wisp[1/1]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (5)
+  Field: Portal Overfiend[5/2], Fire Plume Phoenix[3/3], Witchwood Piper[3/3], Mana Reservoir[0/6]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(82) → 20로 보정
+[Turn 10, Step 65] Agent: 공격 - Ancient Harbinger[4/1] -> Mana Reservoir
+[Turn 10, Step 66] Agent: 공격 - Wisp[1/1] -> Fire Plume Phoenix
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Star Aligner (코스트: 7)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(80) → 12로 보정
+[Turn 10, Step 68] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(94) → 10로 보정
+[Turn 10, Step 69] Agent: 공격 - Illuminator[2/4] -> Witchwood Piper
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (5): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Untamed Beastmaster, Gurubashi Chicken
+  Field: Kel'Thuzad[6/8], Illuminator[2/1], Ancient Harbinger[4/1], Ravasaur Runt[2/2], Star Aligner[7/7]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (5)
+  Field: Portal Overfiend[5/2], Fire Plume Phoenix[3/2], Witchwood Piper[3/1], Mana Reservoir[0/2]
+[Turn 10, Step 70] Agent: 공격 - Kel'Thuzad[6/8] -> Portal Overfiend
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Darkspeaker -> Fire Plume Phoenix (코스트: 5)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Evolved Kobold (코스트: 4)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 공격 - Star Aligner[7/7] -> Evolved Kobold
+[Turn 10, Step 74] Agent: 공격 - Ancient Harbinger[4/1] -> Mana Reservoir
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (5): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Untamed Beastmaster, Devilsaur Egg
+  Field: Kel'Thuzad[6/3], Wisp[1/1], Illuminator[2/1], Ancient Harbinger[4/1], Ravasaur Runt[2/2], Star Aligner[7/5], Gurubashi Chicken[1/1]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (4)
+  Field: Fire Plume Phoenix[3/6], Witchwood Piper[3/1], Darkspeaker[3/2]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Fire Plume Phoenix
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(76) → 13로 보정
+[Turn 10, Step 76] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(24) → 7로 보정
+[Turn 10, Step 77] Agent: 공격 - Wisp[1/1] -> Witchwood Piper
+[Turn 10, Step 78] Agent: 공격 - Illuminator[2/1] -> Darkspeaker
+[Turn 10, Step 79] Agent: 공격 - Kel'Thuzad[6/3] -> Fire Plume Phoenix
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (5): Hakkar, the Soulflayer, Leatherclad Hogleader, Shade of Naxxramas, Untamed Beastmaster, Devilsaur Egg
+  Field: Ancient Harbinger[4/1], Ravasaur Runt[2/2], Star Aligner[7/5], Gurubashi Chicken[1/1]
+Opponent: Rexxar HP: 3, Mana: 1/10
+  Hand (4)
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 카드 플레이 - Finja, the Flying Star (코스트: 5)
+[Turn 10, Step 81] Opponent: 영웅 능력 사용
+[Turn 10, Step 81] Opponent: 카드 플레이 - Hunter's Pack (코스트: 3)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 82] Agent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(23) → 9로 보정
+[Turn 10, Step 83] Agent: 공격 - Ancient Harbinger[4/1] -> Rexxar
+
+--- Game State (Turn 10, Step 84) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 2/10
+  Hand (4): Hakkar, the Soulflayer, Leatherclad Hogleader, Untamed Beastmaster, Devilsaur Egg
+  Field: Ancient Harbinger[4/1], Ravasaur Runt[2/2], Star Aligner[7/5], Gurubashi Chicken[1/1], Shade of Naxxramas[3/3], Grand Archivist[4/7]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (6)
+  Field: Finja, the Flying Star[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

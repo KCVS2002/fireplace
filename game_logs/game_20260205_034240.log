@@ -1,0 +1,233 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/2
+  Hand (4): Glacial Shard, Primordial Glyph, Dragon's Fury, Witchwood Piper
+  Field: Wretched Tiller[1/1], Crystallizer[1/3]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Crystallizer
+[Turn 2, Step 6] Agent: 공격 - Wretched Tiller[1/1] -> Rexxar
+[Turn 2, Step 7] Agent: 공격 - Crystallizer[1/2] -> Rexxar
+[Turn 2, Step 8] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 8] Opponent: 영웅 능력 사용
+[Turn 2, Step 8] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 2, Step 8] Opponent: 턴 종료
+[Turn 3, Step 9] Agent: 영웅 능력 사용 -> Wretched Tiller
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/3
+  Hand (5): Glacial Shard, Primordial Glyph, Dragon's Fury, Witchwood Piper, Junkbot
+  Field: Crystallizer[1/2]
+Opponent: Rexxar HP: 26, Mana: 0/3
+  Hand (5)
+  Field: Mecharoo[1/1]
+[Turn 3, Step 10] Agent: 카드 플레이 - Glacial Shard -> Mecharoo (코스트: 1)
+[Turn 3, Step 11] Agent: 공격 - Crystallizer[1/2] -> Rexxar
+[Turn 3, Step 12] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 12] Opponent: 카드 플레이 - Rocket Augmerchant -> Glacial Shard (코스트: 1)
+[Turn 3, Step 12] Opponent: 턴 종료
+[Turn 4, Step 13] Agent: 영웅 능력 사용 -> Crystallizer
+[Turn 4, Step 14] Agent: 공격 - Crystallizer[1/1] -> Rocket Augmerchant
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/4
+  Hand (5): Primordial Glyph, Dragon's Fury, Witchwood Piper, Junkbot, Hoard Pillager
+Opponent: Rexxar HP: 25, Mana: 3/4
+  Hand (5)
+  Field: Mecharoo[1/1]
+[Turn 4, Step 15] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 4, Step 16] Agent: 선택 - Freezing Potion
+[Turn 4, Step 16] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 16] Opponent: 영웅 능력 사용
+[Turn 4, Step 16] Opponent: 공격 - Mecharoo[1/1] -> Jaina Proudmoore
+[Turn 4, Step 16] Opponent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 4, Step 16] Opponent: 턴 종료
+[Turn 5, Step 17] Agent: 카드 플레이 - Dragon's Fury (코스트: 5)
+[Turn 5, Step 18] Agent: 카드 플레이 - Freezing Potion -> Mecharoo (코스트: 0)
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 공격 - Ogre Brute[4/4] -> Jaina Proudmoore
+[Turn 5, Step 19] Opponent: 영웅 능력 사용
+[Turn 5, Step 19] Opponent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/6
+  Hand (5): Witchwood Piper, Junkbot, Hoard Pillager, Scarlet Crusader, Evil Heckler
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (5)
+  Field: Mecharoo[1/1], Ogre Brute[4/4], Arcane Nullifier X-21[2/5]
+[Turn 6, Step 20] Agent: 카드 플레이 - Evil Heckler (코스트: 4)
+[Turn 6, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 24] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/7
+  Hand (4): Witchwood Piper, Junkbot, Hoard Pillager, Hoarding Dragon
+  Field: Evil Heckler[5/4], Scarlet Crusader[3/1]
+Opponent: Rexxar HP: 25, Mana: 7/7
+  Hand (6)
+  Field: Mecharoo[1/1], Ogre Brute[4/4], Arcane Nullifier X-21[2/5]
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 27] Agent: 카드 플레이 - Junkbot (코스트: 5)
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 공격 - Mecharoo[1/1] -> Evil Heckler
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 공격 - Evil Heckler[5/3] -> Arcane Nullifier X-21
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 9/9
+  Hand (5): Witchwood Piper, Hoard Pillager, Hoarding Dragon, Junkbot, Magic Carpet
+  Field: Evil Heckler[5/1], Scarlet Crusader[3/1], Junkbot[1/5]
+Opponent: Rexxar HP: 25, Mana: 9/9
+  Hand (8)
+  Field: Jo-E Bot[1/1], Ogre Brute[4/4]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Master Oakheart (코스트: 9)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Evil Heckler[5/1] -> Youthful Brewmaster
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Master Oakheart
+[Turn 10, Step 33] Agent: 공격 - Junkbot[1/5] -> Acherus Veteran
+[Turn 10, Step 34] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 4/10
+  Hand (6): Hoard Pillager, Hoarding Dragon, Junkbot, Magic Carpet, Troggzor the Earthinator, Bloodsail Corsair
+  Field: Scarlet Crusader[3/1], Junkbot[1/3], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (8)
+  Field: Jo-E Bot[1/1], Ogre Brute[4/4], Master Oakheart[5/4], Cloaked Huntress[3/4]
+[Turn 10, Step 35] Agent: 공격 - Scarlet Crusader[3/1] -> Jo-E Bot
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 공격 - Master Oakheart[5/4] -> Witchwood Piper
+[Turn 10, Step 36] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Terrorscale Stalker (코스트: 3)
+[Turn 10, Step 36] Opponent: 공격 - Ogre Brute[4/4] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 카드 플레이 - Faceless Shambler -> Terrorscale Stalker (코스트: 4)
+[Turn 10, Step 36] Opponent: 공격 - Cloaked Huntress[3/4] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Cloaked Huntress
+[Turn 10, Step 38] Agent: 공격 - Junkbot[1/3] -> Faceless Shambler
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (8): Hoard Pillager, Hoarding Dragon, Junkbot, Magic Carpet, Troggzor the Earthinator, Bloodsail Corsair, Tasty Flyfish, Elite Tauren Chieftain
+Opponent: Rexxar HP: 25, Mana: 5/10
+  Hand (6)
+  Field: Ogre Brute[4/1], Master Oakheart[5/1], Cloaked Huntress[3/3], Imprisoned Vilefiend[3/5], Terrorscale Stalker[3/3], Faceless Shambler[3/2], Vicious Fledgling[3/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Terrorscale Stalker
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Faceless Shambler[3/2] -> Hoard Pillager
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (7): Hoarding Dragon, Junkbot, Magic Carpet, Bloodsail Corsair, Tasty Flyfish, Elite Tauren Chieftain, Arcane Golem
+  Field: Troggzor the Earthinator[6/6]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (7)
+  Field: Ogre Brute[4/1], Master Oakheart[5/1], Cloaked Huntress[3/3], Imprisoned Vilefiend[3/5], Terrorscale Stalker[3/2], Vicious Fledgling[3/3]
+[Turn 10, Step 45] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Terrorscale Stalker[3/2] -> Bloodsail Corsair
+[Turn 10, Step 46] Opponent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 46] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Troggzor the Earthinator[6/6] -> Ogre Brute
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Burly Rockjaw Trogg
+[Turn 10, Step 48] Opponent: 공격 - Stormwatcher[4/8] -> Burly Rockjaw Trogg
+[Turn 10, Step 48] Opponent: 공격 - Master Oakheart[5/1] -> Troggzor the Earthinator
+[Turn 10, Step 48] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 10, Step 48] Opponent: 공격 - Terrorscale Stalker[3/1] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 6/10
+  Hand (7): Aberrant Berserker, Junkbot, Magic Carpet, Tasty Flyfish, Elite Tauren Chieftain, Arcane Golem, Goblin Sapper
+  Field: Hoarding Dragon[5/6]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (6)
+  Field: Cloaked Huntress[3/3], Imprisoned Vilefiend[3/2], Terrorscale Stalker[3/1], Vicious Fledgling[3/3], Stormwatcher[4/5], Drakkari Enchanter[1/5], Bluegill Warrior[2/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Terrorscale Stalker
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 10, Step 52] Opponent: 공격 - Cloaked Huntress[3/3] -> Magic Carpet
+[Turn 10, Step 52] Opponent: 공격 - Vicious Fledgling[3/3] -> Hoarding Dragon
+[Turn 10, Step 52] Opponent: 공격 - Imprisoned Vilefiend[3/2] -> Magic Carpet
+[Turn 10, Step 52] Opponent: 카드 플레이 - Shadowboxer (코스트: 2)
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 53) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (6): Aberrant Berserker, Junkbot, Tasty Flyfish, Elite Tauren Chieftain, Arcane Golem, Goblin Sapper
+  Field: Hoarding Dragon[5/3]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: Cloaked Huntress[3/2], Imprisoned Vilefiend[3/1], Stormwatcher[4/5], Drakkari Enchanter[1/5], Bluegill Warrior[2/1], Mimiron's Head[4/5], Shadowboxer[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

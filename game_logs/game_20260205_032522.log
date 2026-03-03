@@ -1,0 +1,163 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 2, Step 3] Agent: 공격 - Tournament Attendee[2/1] -> Injured Kvaldir
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (5): Scarlet Crusader, Flesheating Ghoul, Mechwarper, Blowtorch Saboteur, Evasive Drakonid
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Blowtorch Saboteur (코스트: 3)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 공격 - Vicious Scalehide[1/3] -> Blowtorch Saboteur
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Mechwarper (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/5
+  Hand (5): Scarlet Crusader, Flesheating Ghoul, Evasive Drakonid, Scaled Nightmare, Red Mana Wyrm
+  Field: Blowtorch Saboteur[3/3], Mechwarper[2/3]
+Opponent: Rexxar HP: 30, Mana: 2/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 카드 플레이 - Deathlord (코스트: 3)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Scarlet Crusader
+[Turn 6, Step 13] Agent: 공격 - Mechwarper[2/3] -> Deathlord
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Deathlord[2/6] -> Scarlet Crusader
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 6, Step 14] Opponent: 공격 - Rexxar[1/30] -> Mechwarper
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/7
+  Hand (6): Flesheating Ghoul, Evasive Drakonid, Scaled Nightmare, Red Mana Wyrm, Small-Time Buccaneer, Flame Leviathan
+  Field: Blowtorch Saboteur[3/1]
+Opponent: Rexxar HP: 26, Mana: 1/6
+  Hand (6)
+  Field: Deathlord[2/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 7, Step 16] Agent: 공격 - Blowtorch Saboteur[3/1] -> Deathlord
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 영웅 능력 사용
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 8, Step 19] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/8
+  Hand (4): Scaled Nightmare, Red Mana Wyrm, Flame Leviathan, Forgotten Torch
+  Field: Burly Shovelfist[9/9], Evasive Drakonid[7/7], Small-Time Buccaneer[1/1], Flesheating Ghoul[2/3]
+Opponent: Rexxar HP: 26, Mana: 5/7
+  Hand (7)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(35) → 9로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Small-Time Buccaneer
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(96) → 11로 보정
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (5): Scaled Nightmare, Flame Leviathan, Forgotten Torch, Squirming Tentacle, Bilefin Tidehunter
+  Field: Burly Shovelfist[9/9], Evasive Drakonid[7/7], Flesheating Ghoul[3/3], Red Mana Wyrm[2/6]
+Opponent: Rexxar HP: 25, Mana: 9/9
+  Hand (9)
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(41) → 8로 보정
+[Turn 10, Step 25] Agent: 공격 - Burly Shovelfist[9/9] -> Rexxar
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 10, Step 26] Agent: 공격 - Evasive Drakonid[7/7] -> Rexxar
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(33) → 6로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 28] Agent: 공격 - Flesheating Ghoul[3/3] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Pit Crocolisk -> Rexxar (코스트: 8)
+[Turn 10, Step 29] Opponent: 공격 - Rexxar[1/1] -> Squirming Tentacle
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (4): Scaled Nightmare, Flame Leviathan, Forgotten Torch, Bilefin Tidehunter
+  Field: Burly Shovelfist[9/9], Evasive Drakonid[7/7], Flesheating Ghoul[3/3], Red Mana Wyrm[2/6], Squirming Tentacle[2/3]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (9)
+  Field: Pit Crocolisk[5/6], Locust[1/1]
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (4): Scaled Nightmare, Flame Leviathan, Forgotten Torch, Bilefin Tidehunter
+  Field: Burly Shovelfist[9/9], Evasive Drakonid[7/7], Flesheating Ghoul[3/3], Red Mana Wyrm[2/6], Squirming Tentacle[2/3]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (9)
+  Field: Pit Crocolisk[5/6], Locust[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

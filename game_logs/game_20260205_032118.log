@@ -1,0 +1,328 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Kabal Lackey (코스트: 1)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Feign Death (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Arena Fanatic, Grimestreet Smuggler, Echoing Ooze, Research Project, Violet Teacher
+  Field: Kabal Lackey[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Ironforge Rifleman -> Rexxar (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 3, Step 6] Opponent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 3, Step 6] Opponent: 공격 - Ironforge Rifleman[2/2] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(60) → 18로 보정
+[Turn 4, Step 7] Agent: 공격 - Kabal Lackey[2/1] -> Ironforge Rifleman
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(51) → 12로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Southsea Deckhand
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Research Project (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (8): Murloc Warleader, Arena Fanatic, Grimestreet Smuggler, Echoing Ooze, Violet Teacher, Scorch, Kezan Mystic, Dragon Breeder
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: Violet Illusionist[4/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Violet Illusionist[4/3] -> Dragon Breeder
+[Turn 5, Step 12] Opponent: 카드 플레이 - Desert Obelisk (코스트: 5)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Desert Obelisk
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (8): Murloc Warleader, Arena Fanatic, Grimestreet Smuggler, Echoing Ooze, Violet Teacher, Scorch, Curio Collector, Prince Keleseth
+  Field: Kezan Mystic[4/3]
+Opponent: Rexxar HP: 28, Mana: 1/6
+  Hand (6)
+  Field: Violet Illusionist[4/1], Desert Obelisk[0/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 6, Step 15] Opponent: 카드 플레이 - Headhunter's Hatchet (코스트: 2)
+[Turn 6, Step 15] Opponent: 공격 - Violet Illusionist[4/1] -> Kezan Mystic
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(78) → 8로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Wild Pyromancer
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(69) → 12로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/8
+  Hand (9): Murloc Warleader, Grimestreet Smuggler, Echoing Ooze, Violet Teacher, Scorch, Curio Collector, Prince Keleseth, Damaged Stegotron, Malygos
+  Field: Arena Fanatic[2/3]
+Opponent: Rexxar HP: 27, Mana: 8/8
+  Hand (6)
+  Field: Desert Obelisk[0/4], Wild Pyromancer[3/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Scorch -> Desert Obelisk (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 8, Step 21] Opponent: 공격 - Wild Pyromancer[3/1] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(25) → 7로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Damaged Stegotron (코스트: 6)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(78) → 8로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Arena Fanatic
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (9): Murloc Warleader, Grimestreet Smuggler, Echoing Ooze, Violet Teacher, Curio Collector, Prince Keleseth, Malygos, Doppelgangster, Sated Threshadon
+  Field: Arena Fanatic[2/2], Damaged Stegotron[6/7]
+Opponent: Rexxar HP: 27, Mana: 3/10
+  Hand (5)
+  Field: Wild Pyromancer[3/1], Stormwind Knight[2/5], Mindbreaker[2/5], Arcane Nullifier X-21[2/5]
+[Turn 10, Step 25] Agent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 10, Step 26] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Stormwind Knight[2/5] -> Damaged Stegotron
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(26) → 6로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Malygos (코스트: 9)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(51) → 2로 보정
+[Turn 10, Step 29] Agent: 공격 - Damaged Stegotron[6/5] -> Arcane Nullifier X-21
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (7): Murloc Warleader, Grimestreet Smuggler, Echoing Ooze, Curio Collector, Prince Keleseth, Sated Threshadon, Youthful Brewmaster
+  Field: Arena Fanatic[2/2], Damaged Stegotron[6/3], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2], Violet Teacher[4/6], Malygos[4/12]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (6)
+  Field: Wild Pyromancer[3/1], Mindbreaker[2/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 10, Step 30] Agent: 공격 - Doppelgangster[2/2] -> Mindbreaker
+[Turn 10, Step 31] Agent: 공격 - Doppelgangster[2/2] -> Mindbreaker
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 10, Step 32] Agent: 공격 - Doppelgangster[2/2] -> Wild Pyromancer
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Giant Mastodon (코스트: 9)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(38) → 18로 보정
+[Turn 10, Step 34] Agent: 공격 - Malygos[4/12] -> Giant Mastodon
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Murloc Warleader, Grimestreet Smuggler, Echoing Ooze, Curio Collector, Prince Keleseth, Sated Threshadon, Youthful Brewmaster, EVIL Cable Rat
+  Field: Arena Fanatic[2/2], Damaged Stegotron[6/3], Violet Teacher[4/6], Malygos[4/6]
+Opponent: Rexxar HP: 27, Mana: 1/10
+  Hand (5)
+  Field: Mindbreaker[2/1], Giant Mastodon[6/6], Target Dummy[0/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(66) → 12로 보정
+[Turn 10, Step 35] Agent: 공격 - Arena Fanatic[2/2] -> Giant Mastodon
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Curio Collector (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 39] Agent: 공격 - Violet Teacher[4/6] -> Target Dummy
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (5): Grimestreet Smuggler, Prince Keleseth, Sated Threshadon, Youthful Brewmaster, EVIL Cable Rat
+  Field: Damaged Stegotron[6/3], Violet Teacher[4/6], Malygos[4/6], Murloc Warleader[4/4], Echoing Ooze[2/3], Curio Collector[5/5]
+Opponent: Rexxar HP: 27, Mana: 1/10
+  Hand (5)
+  Field: Mindbreaker[2/1], Giant Mastodon[6/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Damaged Stegotron[6/3] -> Giant Mastodon
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 10, Step 41] Opponent: 공격 - Mindbreaker[2/1] -> Curio Collector
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Rexxar[2/27] -> Violet Teacher
+[Turn 10, Step 41] Opponent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(67) → 27로 보정
+[Turn 10, Step 42] Agent: 공격 - Malygos[4/6] -> Disguised Wanderer
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(68) → 31로 보정
+[Turn 10, Step 43] Agent: 공격 - Echoing Ooze[2/3] -> Rexxar
+[Turn 10, Step 44] Agent: 카드 플레이 - Youthful Brewmaster -> Curio Collector (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (6): Grimestreet Smuggler, Prince Keleseth, Sated Threshadon, EVIL Cable Rat, Doomed Apprentice, Curio Collector
+  Field: Violet Teacher[4/4], Malygos[4/3], Murloc Warleader[4/4], Echoing Ooze[2/3], Echoing Ooze[2/3], Youthful Brewmaster[3/2]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (4)
+  Field: Murloc Tastyfin[3/2], Rustsworn Inquisitor[9/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Malygos
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 10, Step 47] Agent: 공격 - Murloc Warleader[4/4] -> Murloc Tastyfin
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 48] Agent: 공격 - Violet Teacher[4/4] -> Rustsworn Inquisitor
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Titanic Lackey -> Murloc Warleader (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (5): Grimestreet Smuggler, Prince Keleseth, Sated Threshadon, Doomed Apprentice, Curio Collector
+  Field: Malygos[4/2], Murloc Warleader[4/3], Echoing Ooze[2/3], Echoing Ooze[2/3], Youthful Brewmaster[3/2], EVIL Cable Rat[1/1], Titanic Lackey[1/1]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (5)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 50] Agent: 공격 - Echoing Ooze[2/3] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Tol'vir Warden (코스트: 5)
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+[Turn 10, Step 51] Opponent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 10, Step 51] Opponent: 공격 - Rexxar[2/19] -> Murloc Warleader
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 공격 - Malygos[4/2] -> Tol'vir Warden
+[Turn 10, Step 53] Agent: 공격 - Echoing Ooze[2/3] -> Tol'vir Warden
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(45) → 14로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Argent Squire
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (6): Grimestreet Smuggler, Prince Keleseth, Sated Threshadon, Doomed Apprentice, Curio Collector, Aberrant Berserker
+  Field: Murloc Warleader[4/1], Echoing Ooze[2/3], Youthful Brewmaster[3/2], EVIL Cable Rat[1/1], Titanic Lackey[1/1]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (4)
+  Field: Argent Squire[1/1], Bloodsail Corsair[1/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(29) → 10로 보정
+[Turn 10, Step 56] Agent: 공격 - Youthful Brewmaster[3/2] -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Moat Lurker -> EVIL Cable Rat (코스트: 6)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Aberrant Berserker[3/5] -> Argent Squire
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Grimestreet Smuggler, Sated Threshadon, Doomed Apprentice, Curio Collector, Felfin Navigator
+  Field: Murloc Warleader[4/1], Echoing Ooze[2/3], Youthful Brewmaster[3/2], Titanic Lackey[1/1], Aberrant Berserker[5/4], Prince Keleseth[3/3]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (4)
+  Field: Bloodsail Corsair[1/2], Moat Lurker[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(64) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 61] Agent: 공격 - Echoing Ooze[2/3] -> Bloodsail Corsair
+[Turn 10, Step 62] Agent: 공격 - Prince Keleseth[3/3] -> Moat Lurker
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(87) → 9로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> EVIL Cable Rat
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 64] Agent: 공격 - Titanic Lackey[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (4): Grimestreet Smuggler, Doomed Apprentice, Curio Collector, Felfin Navigator
+  Field: Murloc Warleader[4/1], Echoing Ooze[2/2], Youthful Brewmaster[3/2], Titanic Lackey[1/1], Aberrant Berserker[5/4], Sated Threshadon[5/7]
+Opponent: Rexxar HP: 11, Mana: 4/10
+  Hand (4)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 65] Agent: 공격 - Youthful Brewmaster[3/2] -> Rexxar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 66] Agent: 공격 - Murloc Warleader[4/1] -> Rexxar
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 10, Step 69] Agent: 공격 - Sated Threshadon[5/7] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (4): Grimestreet Smuggler, Doomed Apprentice, Curio Collector, Stormwatcher
+  Field: Murloc Warleader[5/2], Echoing Ooze[2/2], Youthful Brewmaster[3/2], Titanic Lackey[1/1], Aberrant Berserker[5/4], Sated Threshadon[5/7], Felfin Navigator[7/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (4): Grimestreet Smuggler, Doomed Apprentice, Curio Collector, Stormwatcher
+  Field: Murloc Warleader[5/2], Echoing Ooze[2/2], Youthful Brewmaster[3/2], Titanic Lackey[1/1], Aberrant Berserker[5/4], Sated Threshadon[5/7], Felfin Navigator[7/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

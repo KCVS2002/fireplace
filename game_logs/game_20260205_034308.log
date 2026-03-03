@@ -1,0 +1,107 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Rexxar[2/30] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 카드 플레이 - Ice Lance -> Upgradeable Framebot (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Dragonmaw Sky Stalker, Ultrasaur, Evolved Kobold, Lost Tallstrider
+  Field: Upgradeable Framebot[1/5]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Ironforge Rifleman -> Upgradeable Framebot (코스트: 3)
+[Turn 3, Step 5] Opponent: 공격 - Rexxar[2/29] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Hunter's Mark -> Upgradeable Framebot (코스트: 2)
+[Turn 4, Step 6] Opponent: 공격 - Ironforge Rifleman[2/2] -> Upgradeable Framebot
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 5, Step 8] Opponent: 공격 - Ironforge Rifleman[2/1] -> Jaina Proudmoore
+[Turn 5, Step 8] Opponent: 영웅 능력 사용
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (5): Ultrasaur, Evolved Kobold, Lost Tallstrider, Worgen Greaser, Frost Elemental
+  Field: Violet Spellsword[1/6], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (5)
+  Field: Ironforge Rifleman[2/1], Ogre Brute[4/4]
+[Turn 6, Step 10] Agent: 공격 - Violet Spellsword[1/6] -> Ogre Brute
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 영웅 능력 사용
+[Turn 6, Step 11] Opponent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 6, Step 11] Opponent: 공격 - Ironforge Rifleman[2/1] -> Dragonmaw Sky Stalker
+[Turn 6, Step 11] Opponent: 공격 - Ogre Brute[4/3] -> Dragonmaw Sky Stalker
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 공격 - Violet Spellsword[1/2] -> Rexxar
+[Turn 7, Step 13] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 7, Step 14] Agent: 선택 - Ancient Mysteries
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 영웅 능력 사용
+[Turn 7, Step 14] Opponent: 공격 - Burrowing Scorpid[5/2] -> Dragonmaw Sky Stalker
+[Turn 7, Step 14] Opponent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/8
+  Hand (7): Chillwind Yeti, Ultrasaur, Evolved Kobold, Lost Tallstrider, Worgen Greaser, Frost Elemental, Ancient Mysteries
+  Field: Violet Spellsword[1/2], Dragonrider[3/4]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (5)
+  Field: Ogre Brute[4/3], Recruiter[5/4]
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Dragonrider
+[Turn 8, Step 16] Agent: 공격 - Violet Spellsword[1/2] -> Recruiter
+[Turn 8, Step 17] Agent: 카드 플레이 - Frost Elemental -> Dragonrider (코스트: 6)
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 8, Step 18] Opponent: 공격 - Ogre Brute[4/3] -> Dragonrider
+[Turn 8, Step 18] Opponent: 공격 - Recruiter[5/3] -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 19) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/8
+  Hand (6): Chillwind Yeti, Ultrasaur, Evolved Kobold, Lost Tallstrider, Worgen Greaser, Ancient Mysteries
+  Field: Dragonrider[3/3], Frost Elemental[5/5]
+Opponent: Rexxar HP: 28, Mana: 6/8
+  Hand (5)
+  Field: Ogre Brute[4/3], Recruiter[5/3], Flame Juggler[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

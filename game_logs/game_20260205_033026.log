@@ -1,0 +1,336 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/3
+  Hand (6): Volcanic Drake, Blackwater Pirate, Vaporize, Ozruk, Doomcaller, Underbelly Ooze
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+  Field: Worgen Infiltrator[2/1]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(16) → 5로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 4, Step 8] Agent: 공격 - Blackwater Pirate[2/5] -> Rexxar
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/5
+  Hand (7): Volcanic Drake, Vaporize, Ozruk, Doomcaller, Underbelly Ooze, Coldlight Seer, Bronze Gatekeeper
+  Field: Blackwater Pirate[2/5]
+Opponent: Rexxar HP: 28, Mana: 2/5
+  Hand (5)
+  Field: Tentacle of N'Zoth[1/1], Razorfen Hunter[2/3], Boar[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(36) → 8로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Razorfen Hunter
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 5, Step 11] Agent: 공격 - Blackwater Pirate[2/5] -> Tentacle of N'Zoth
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 공격 - Razorfen Hunter[2/1] -> Bronze Gatekeeper
+[Turn 5, Step 13] Opponent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 5, Step 13] Opponent: 선택 - Unleash the Beast
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 6, Step 14] Agent: 공격 - Bronze Gatekeeper[1/3] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/6
+  Hand (7): Volcanic Drake, Vaporize, Ozruk, Doomcaller, Underbelly Ooze, Coldlight Seer, Sleepy Dragon
+  Field: Blackwater Pirate[2/3], Bronze Gatekeeper[1/3]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (6)
+  Field: Arcane Dynamo[3/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 6, Step 15] Opponent: 공격 - Wyvern[5/5] -> Bronze Gatekeeper
+[Turn 6, Step 15] Opponent: 공격 - Arcane Dynamo[3/4] -> Blackwater Pirate
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(16) → 4로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/9
+  Hand (9): Murloc Tastyfin, Volcanic Drake, Vaporize, Ozruk, Doomcaller, Coldlight Seer, Sleepy Dragon, Murloc Raider, SI:7 Infiltrator
+  Field: Underbelly Ooze[3/5]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (9)
+  Field: Arcane Dynamo[3/2], Wyvern[5/4]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(60) → 6로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(58) → 13로 보정
+[Turn 9, Step 21] Agent: 공격 - Underbelly Ooze[3/5] -> Arcane Dynamo
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(45) → 9로 보정
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Underbelly Ooze
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 9, Step 23] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 9, Step 23] Opponent: 카드 플레이 - Lance Carrier -> Wing Commander (코스트: 2)
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 공격 - Underbelly Ooze[3/2] -> Lance Carrier
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (9): Murloc Tastyfin, Volcanic Drake, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, Murloc Raider, SI:7 Infiltrator, Beaming Sidekick
+  Field: Underbelly Ooze[3/1], Underbelly Ooze[3/1], Underbelly Ooze[3/1], Underbelly Ooze[3/1], Coldlight Seer[2/3]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (7)
+  Field: Wyvern[5/4], Wing Commander[4/5], Deadscale Knight[1/1]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(90) → 18로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용 -> Coldlight Seer
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 26] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 26] Opponent: 공격 - Wing Commander[4/5] -> Underbelly Ooze
+[Turn 10, Step 26] Opponent: 공격 - Deadscale Knight[1/1] -> Coldlight Seer
+[Turn 10, Step 26] Opponent: 공격 - Wyvern[5/4] -> Underbelly Ooze
+[Turn 10, Step 26] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(53) → 13로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Blackwing Corruptor -> Rexxar (코스트: 5)
+[Turn 10, Step 28] Agent: 카드 플레이 - Beaming Sidekick -> Underbelly Ooze (코스트: 1)
+[Turn 10, Step 29] Agent: 공격 - Underbelly Ooze[3/3] -> SI:7 Infiltrator
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (8): Murloc Tastyfin, Volcanic Drake, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, Murloc Raider, SI:7 Infiltrator
+  Field: Underbelly Ooze[3/1], Coldlight Seer[2/1], Blackwing Corruptor[5/4], Beaming Sidekick[1/2]
+Opponent: Rexxar HP: 24, Mana: 6/10
+  Hand (7)
+  Field: Wyvern[5/1], Wing Commander[4/2], SI:7 Infiltrator[5/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(42) → 20로 보정
+[Turn 10, Step 30] Agent: 공격 - Coldlight Seer[2/1] -> Wing Commander
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(28) → 12로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Beaming Sidekick
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 32] Agent: 공격 - Underbelly Ooze[3/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (8): Murloc Tastyfin, Volcanic Drake, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, SI:7 Infiltrator, Dragon's Breath
+  Field: Underbelly Ooze[3/1], Blackwing Corruptor[5/4], Beaming Sidekick[1/1], Murloc Raider[2/1]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+  Field: Wyvern[5/1], SI:7 Infiltrator[5/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Underbelly Ooze
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 공격 - Wyvern[5/1] -> Beaming Sidekick
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(36) → 13로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 38] Agent: 공격 - Murloc Raider[2/1] -> SI:7 Infiltrator
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Dragon's Breath -> Rexxar (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/10
+  Hand (8): Murloc Tastyfin, Volcanic Drake, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, SI:7 Infiltrator, Mysterious Challenger
+  Field: Blackwing Corruptor[5/4], Grand Crusader[5/5]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Hunter's Pack (코스트: 3)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(90) → 14로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Wyvern
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 10, Step 43] Opponent: 공격 - Wyvern[5/4] -> Grand Crusader
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(38) → 16로 보정
+[Turn 10, Step 44] Agent: 공격 - Blackwing Corruptor[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (9): Murloc Tastyfin, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, SI:7 Infiltrator, Mysterious Challenger, Reckless Rocketeer, Curio Collector
+  Field: Blackwing Corruptor[5/4], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (9)
+  Field: King's Elekk[3/2], Eccentric Scribe[6/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(46) → 8로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(38) → 4로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 47] Agent: 공격 - Reckless Rocketeer[5/2] -> Eccentric Scribe
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(53) → 4로 보정
+[Turn 10, Step 48] Agent: 공격 - Volcanic Drake[6/4] -> Vengeful Scroll
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Vengeful Scroll[1/1] -> Jaina Proudmoore
+[Turn 10, Step 49] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Blowgill Sniper -> Volcanic Drake (코스트: 2)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Murloc Tastyfin, Vaporize, Ozruk, Doomcaller, Sleepy Dragon, SI:7 Infiltrator, Mysterious Challenger, Curio Collector, Murgur Murgurgle, Witch's Cauldron
+  Field: Blackwing Corruptor[5/4], Volcanic Drake[6/2]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (9)
+  Field: King's Elekk[3/2], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Fishflinger[3/2], Blowgill Sniper[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(46) → 11로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Doomcaller (코스트: 8)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Blackwing Corruptor[5/4] -> Vengeful Scroll
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 53] Agent: 공격 - Volcanic Drake[6/2] -> Blowgill Sniper
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Dreadscale (코스트: 3)
+[Turn 10, Step 54] Opponent: 공격 - Fishflinger[3/2] -> Blackwing Corruptor
+[Turn 10, Step 54] Opponent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 10, Step 54] Opponent: 공격 - Vengeful Scroll[1/1] -> Doomcaller
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (10): Murloc Tastyfin, Vaporize, Ozruk, Sleepy Dragon, SI:7 Infiltrator, Mysterious Challenger, Curio Collector, Murgur Murgurgle, Witch's Cauldron, Mosh'Ogg Announcer
+  Field: Doomcaller[7/7]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (9)
+  Field: King's Elekk[3/1], Dreadscale[4/2], Countess Ashmore[6/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(86) → 10로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> King's Elekk
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Doomcaller[7/7] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Dreadscale[4/2] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 공격 - Countess Ashmore[6/5] -> SI:7 Infiltrator
+[Turn 10, Step 59] Opponent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (9): Wyrmguard, Vaporize, Ozruk, Sleepy Dragon, Mysterious Challenger, Curio Collector, Murgur Murgurgle, Witch's Cauldron, Mosh'Ogg Announcer
+  Field: Doomcaller[7/6], Murloc Tastyfin[3/1]
+Opponent: Rexxar HP: 5, Mana: 9/10
+  Hand (9)
+  Field: Dreadscale[4/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(49) → 11로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Mysterious Challenger (코스트: 6)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 62] Agent: 공격 - Murloc Tastyfin[3/1] -> Dreadscale
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 영웅 능력 사용
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(95) → 15로 보정
+[Turn 10, Step 64] Agent: 공격 - Mysterious Challenger[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (9): Wyrmguard, Vaporize, Ozruk, Sleepy Dragon, Curio Collector, Murgur Murgurgle, Witch's Cauldron, Mosh'Ogg Announcer, Kvaldir Raider
+  Field: Doomcaller[7/6], Mysterious Challenger[6/6]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (10)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (9): Wyrmguard, Vaporize, Ozruk, Sleepy Dragon, Curio Collector, Murgur Murgurgle, Witch's Cauldron, Mosh'Ogg Announcer, Kvaldir Raider
+  Field: Doomcaller[7/6], Mysterious Challenger[6/6]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,212 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Wax Elemental
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Mirror Entity, Neferset Ritualist, Troggzor the Earthinator, Chillwind Yeti, Shattered Sun Cleric, Grimestreet Enforcer, Piloted Reaper
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Wax Elemental[0/2], Injured Blademaster[4/3]
+[Turn 4, Step 5] Agent: 카드 플레이 - Piloted Reaper (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Chillwind Yeti
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/6
+  Hand (7): Mirror Entity, Neferset Ritualist, Troggzor the Earthinator, Shattered Sun Cleric, Verdant Longneck, Spark Drill, Chromatic Egg
+  Field: Piloted Reaper[4/3], Chillwind Yeti[4/4]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+  Field: Wax Elemental[0/2], Injured Blademaster[4/3]
+[Turn 6, Step 10] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 10] Opponent: 카드 플레이 - Waste Warden -> Wax Elemental (코스트: 5)
+[Turn 6, Step 10] Opponent: 공격 - Injured Blademaster[4/3] -> Jaina Proudmoore
+[Turn 6, Step 10] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 6, Step 10] Opponent: 턴 종료
+[Turn 7, Step 11] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Waste Warden
+[Turn 7, Step 13] Agent: 공격 - Piloted Reaper[4/3] -> Rexxar
+[Turn 7, Step 14] Agent: 공격 - Chillwind Yeti[4/4] -> Lightwarden
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/7
+  Hand (7): Neferset Ritualist, Troggzor the Earthinator, Shattered Sun Cleric, Naga Corsair, Spark Drill, Chromatic Egg, Grizzled Wizard
+  Field: Piloted Reaper[4/3], Chillwind Yeti[4/3]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (6)
+  Field: Injured Blademaster[4/3], Waste Warden[3/2]
+[Turn 7, Step 15] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Shattered Sun Cleric -> Elise the Trailblazer (코스트: 3)
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Grizzled Wizard
+[Turn 8, Step 19] Agent: 공격 - Grizzled Wizard[3/1] -> Elise the Trailblazer
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/8
+  Hand (6): Neferset Ritualist, Troggzor the Earthinator, Muck Hunter, Spark Drill, Chromatic Egg, Garrison Commander
+  Field: Piloted Reaper[4/3], Chillwind Yeti[4/3], Elise the Trailblazer[6/6], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 25, Mana: 2/7
+  Hand (6)
+  Field: Injured Blademaster[4/3], Waste Warden[3/2], Elise the Trailblazer[5/2]
+[Turn 8, Step 20] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 8, Step 21] Agent: 공격 - Elise the Trailblazer[6/6] -> Rexxar
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Waste Warden[3/2] -> Piloted Reaper
+[Turn 8, Step 22] Opponent: 공격 - Elise the Trailblazer[5/2] -> Shattered Sun Cleric
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Elise the Trailblazer
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/9
+  Hand (5): Dragonhatcher, Troggzor the Earthinator, Raging Felscreamer, Spark Drill, Chromatic Egg
+  Field: Neferset Ritualist[2/3], Chillwind Yeti[4/3], Elise the Trailblazer[6/5], Garrison Commander[2/3]
+Opponent: Rexxar HP: 18, Mana: 8/8
+  Hand (7)
+  Field: Injured Blademaster[4/3]
+[Turn 9, Step 25] Agent: 공격 - Garrison Commander[2/3] -> Rexxar
+[Turn 9, Step 26] Agent: 공격 - Neferset Ritualist[2/3] -> Injured Blademaster
+[Turn 9, Step 27] Agent: 공격 - Elise the Trailblazer[6/5] -> Injured Blademaster
+[Turn 9, Step 28] Agent: 공격 - Chillwind Yeti[4/3] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (6): Dragonhatcher, Troggzor the Earthinator, Fireguard Destroyer, Spark Drill, Chromatic Egg, Coppertail Imposter
+  Field: Chillwind Yeti[4/3], Elise the Trailblazer[6/1], Garrison Commander[2/3]
+Opponent: Rexxar HP: 12, Mana: 6/9
+  Hand (7)
+  Field: Dread Raven[6/4]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Un'Goro Pack (코스트: 2)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Elise the Trailblazer
+[Turn 10, Step 34] Agent: 공격 - Garrison Commander[2/2] -> Dread Raven
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (8): Dragonhatcher, Troggzor the Earthinator, Grave Horror, Spark Drill, Chromatic Egg, Coppertail Imposter, Novice Engineer, Grimscale Oracle
+  Field: Chillwind Yeti[4/3]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+  Field: Dread Raven[6/2]
+[Turn 10, Step 35] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 10, Step 36] Agent: 공격 - Chillwind Yeti[4/3] -> Rexxar
+[Turn 10, Step 37] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Steam Surger (코스트: 4)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Chopshop Copter (코스트: 3)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Dancing Swords (코스트: 3)
+[Turn 10, Step 38] Opponent: 공격 - Dread Raven[6/2] -> Grimscale Oracle
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/10
+  Hand (6): Troggzor the Earthinator, Radiant Elemental, Spark Drill, Chromatic Egg, Novice Engineer, Nerubian Unraveler
+  Field: Chillwind Yeti[4/3], Coppertail Imposter[4/4], Dragonhatcher[2/4]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (7)
+  Field: Dread Raven[6/1], Steam Surger[5/4], Chopshop Copter[2/4], Dancing Swords[4/4]
+[Turn 10, Step 40] Agent: 공격 - Coppertail Imposter[4/4] -> Dread Raven
+[Turn 10, Step 41] Agent: 공격 - Chillwind Yeti[4/3] -> Rexxar
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Steam Surger[5/4] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 공격 - Chopshop Copter[2/4] -> Dragonmaw Sky Stalker
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Dragonhatcher[2/4] -> Steam Surger
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (8): Troggzor the Earthinator, Obsidian Statue, Spark Drill, Chromatic Egg, Novice Engineer, Nerubian Unraveler, Primalfin Lookout, Stormwind Champion
+  Field: Chillwind Yeti[4/3], Dragonmaw Sky Stalker[5/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (9)
+  Field: Steam Surger[5/2], Dancing Swords[4/4]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Dragonmaw Sky Stalker
+[Turn 10, Step 46] Agent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 공격 - Dancing Swords[4/4] -> Troggzor the Earthinator
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Primalfin Lookout (코스트: 3)
+[Turn 10, Step 49] Agent: 공격 - Troggzor the Earthinator[6/2] -> Steam Surger
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (8): Conjured Mirage, Shadowy Figure, Spark Drill, Chromatic Egg, Novice Engineer, Nerubian Unraveler, Stormwind Champion, Spellweaver
+  Field: Chillwind Yeti[4/3], Dragonmaw Sky Stalker[5/3], Primalfin Lookout[3/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 공격 - Chillwind Yeti[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (8): Conjured Mirage, Shadowy Figure, Spark Drill, Chromatic Egg, Novice Engineer, Nerubian Unraveler, Stormwind Champion, Spellweaver
+  Field: Chillwind Yeti[4/3], Dragonmaw Sky Stalker[5/3], Primalfin Lookout[3/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,354 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Tentacle of N'Zoth
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (6): Boneguard Lieutenant, Wolfrider, Belligerent Gnome, Blood of The Ancient One, Corrupted Seer, Dragon's Breath
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (3)
+  Field: Saronite Taskmaster[2/3]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Saronite Taskmaster[2/3] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 카드 플레이 - Toxic Arrow -> Saronite Taskmaster (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 4, Step 8] Opponent: 공격 - Saronite Taskmaster[2/1] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Loot Hoarder (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (8): Blackwater Pirate, Boneguard Lieutenant, Wolfrider, Belligerent Gnome, Blood of The Ancient One, Corrupted Seer, Dragon's Breath, Skeram Cultist
+  Field: Loot Hoarder[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (4)
+  Field: Saronite Taskmaster[2/1], Skyfin[3/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Houndmaster Shaw (코스트: 4)
+[Turn 5, Step 11] Opponent: 공격 - Saronite Taskmaster[2/1] -> Boneguard Lieutenant
+[Turn 5, Step 11] Opponent: 카드 플레이 - Guardian Augmerchant -> Free Agent (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(28) → 10로 보정
+[Turn 6, Step 13] Agent: 공격 - Loot Hoarder[2/1] -> Rexxar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Loot Hoarder
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (8): Blackwater Pirate, Belligerent Gnome, Blood of The Ancient One, Corrupted Seer, Dragon's Breath, Skeram Cultist, Big Game Hunter, Saronite Chain Gang
+  Field: Free Agent[0/2], Wolfrider[3/1]
+Opponent: Rexxar HP: 28, Mana: 1/6
+  Hand (3)
+  Field: Skyfin[3/3], Houndmaster Shaw[3/6], Guardian Augmerchant[2/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Big Game Hunter (코스트: 5)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(45) → 11로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Big Game Hunter
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(9) → 3로 보정
+[Turn 7, Step 18] Agent: 공격 - Wolfrider[3/1] -> Houndmaster Shaw
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 영웅 능력 사용
+[Turn 7, Step 19] Opponent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 7, Step 19] Opponent: 공격 - Nerubian Unraveler[5/5] -> Free Agent
+[Turn 7, Step 19] Opponent: 공격 - Skyfin[3/3] -> Free Agent
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (10): Blackwater Pirate, Belligerent Gnome, Blood of The Ancient One, Corrupted Seer, Dragon's Breath, Skeram Cultist, Saronite Chain Gang, Temple Berserker, Tanaris Hogchopper, Arcane Explosion
+  Field: Big Game Hunter[4/1]
+Opponent: Rexxar HP: 28, Mana: 0/8
+  Hand (3)
+  Field: Skyfin[3/3], Houndmaster Shaw[3/3], Guardian Augmerchant[2/1], Nat, the Darkfisher[2/4], Nerubian Unraveler[5/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(80) → 18로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Skeram Cultist (코스트: 6)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 8, Step 22] Agent: 공격 - Big Game Hunter[4/1] -> Nerubian Unraveler
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Blood of The Ancient One (코스트: 9)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/9
+  Hand (9): Blackwater Pirate, Belligerent Gnome, Corrupted Seer, Dragon's Breath, Saronite Chain Gang, Temple Berserker, Tanaris Hogchopper, Arcane Explosion, Cobalt Spellkin
+  Field: Skeram Cultist[7/6], Blood of The Ancient One[9/9]
+Opponent: Rexxar HP: 27, Mana: 9/9
+  Hand (4)
+  Field: Skyfin[3/3], Houndmaster Shaw[3/3], Guardian Augmerchant[2/1], Nat, the Darkfisher[2/4], Nerubian Unraveler[5/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 9, Step 25] Agent: 공격 - Skeram Cultist[7/6] -> Rexxar
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 공격 - Nerubian Unraveler[5/1] -> Jaina Proudmoore
+[Turn 9, Step 26] Opponent: 공격 - Guardian Augmerchant[2/1] -> Skeram Cultist
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 공격 - Skeram Cultist[7/4] -> Houndmaster Shaw
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(70) → 14로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Arcane Explosion (코스트: 4)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (10): Blackwater Pirate, Belligerent Gnome, Corrupted Seer, Dragon's Breath, Saronite Chain Gang, Temple Berserker, Tanaris Hogchopper, Cobalt Spellkin, Imprisoned Observer, Patches the Pirate
+  Field: Skeram Cultist[7/1], Blood of The Ancient One[9/9]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (6)
+  Field: Skyfin[3/2], Nat, the Darkfisher[2/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Dragon's Breath -> Blood of The Ancient One (코스트: 5)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 10로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(72) → 3로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 34] Agent: 공격 - Blood of The Ancient One[9/3] -> Nat, the Darkfisher
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (8): Blackwater Pirate, Belligerent Gnome, Saronite Chain Gang, Temple Berserker, Tanaris Hogchopper, Cobalt Spellkin, Imprisoned Observer, Patches the Pirate
+  Field: Blood of The Ancient One[9/1], Vicious Fledgling[3/1], Corrupted Seer[2/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (7)
+  Field: Skyfin[3/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(62) → 18로 보정
+[Turn 10, Step 36] Agent: 공격 - Vicious Fledgling[3/1] -> Rexxar
+[Turn 10, Step 37] Agent: 선택 - Rocky Carapace
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Blood of The Ancient One
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Skyfin[3/2] -> Blackwater Pirate
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Imprisoned Felmaw (코스트: 2)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (9): Belligerent Gnome, Saronite Chain Gang, Temple Berserker, Tanaris Hogchopper, Cobalt Spellkin, Imprisoned Observer, Patches the Pirate, Bluegill Warrior, Zul'Drak Ritualist
+  Field: Vicious Fledgling[3/4], Corrupted Seer[2/3], Blackwater Pirate[2/2]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (7)
+  Field: Dalaran Crusader[5/4], Imprisoned Felmaw[5/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Furnacefire Colossus (코스트: 6)
+[Turn 10, Step 40] Opponent: 공격 - Dalaran Crusader[5/4] -> Blackwater Pirate
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(98) → 20로 보정
+[Turn 10, Step 41] Agent: 공격 - Vicious Fledgling[3/4] -> Furnacefire Colossus
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(85) → 4로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (9): Belligerent Gnome, Saronite Chain Gang, Tanaris Hogchopper, Imprisoned Observer, Patches the Pirate, Zul'Drak Ritualist, Crystallizer, Ice Lance, Arcane Missiles
+  Field: Corrupted Seer[2/3], Temple Berserker[1/2], Cobalt Spellkin[3/5], Bluegill Warrior[2/1]
+Opponent: Rexxar HP: 17, Mana: 0/10
+  Hand (6)
+  Field: Dalaran Crusader[5/4], Imprisoned Felmaw[5/4], Furnacefire Colossus[6/3], Boneguard Lieutenant[3/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 10, Step 45] Agent: 공격 - Corrupted Seer[2/3] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 47] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(84) → 29로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Patches the Pirate
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (9): Shrieking Shroom, Belligerent Gnome, Saronite Chain Gang, Tanaris Hogchopper, Imprisoned Observer, Zul'Drak Ritualist, Crystallizer, Ice Lance, Arcane Missiles
+  Field: Temple Berserker[1/2], Cobalt Spellkin[3/5], Bluegill Warrior[2/1]
+Opponent: Rexxar HP: 13, Mana: 6/10
+  Hand (6)
+  Field: Dalaran Crusader[5/4], Imprisoned Felmaw[5/2], Furnacefire Colossus[6/3], Boneguard Lieutenant[3/2], Grave Shambler[4/4]
+[Turn 10, Step 50] Agent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(67) → 30로 보정
+[Turn 10, Step 51] Agent: 공격 - Cobalt Spellkin[3/5] -> Grave Shambler
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(49) → 18로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 53] Agent: 카드 플레이 - Ice Lance -> Imprisoned Felmaw (코스트: 1)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(42) → 10로 보정
+[Turn 10, Step 54] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (6): Belligerent Gnome, Saronite Chain Gang, Tanaris Hogchopper, Imprisoned Observer, Zul'Drak Ritualist, Crystallizer
+  Field: Temple Berserker[1/2], Cobalt Spellkin[3/1], Bluegill Warrior[2/1], Shrieking Shroom[1/2]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (6)
+  Field: Dalaran Crusader[5/3], Imprisoned Felmaw[5/2], Furnacefire Colossus[6/2], Boneguard Lieutenant[3/1], Grave Shambler[4/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 10, Step 55] Agent: 공격 - Temple Berserker[1/2] -> Dalaran Crusader
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Grave Shambler[4/1] -> Belligerent Gnome
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(81) → 38로 보정
+[Turn 10, Step 59] Agent: 공격 - Crystallizer[1/3] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (5): Saronite Chain Gang, Tanaris Hogchopper, Imprisoned Observer, Zul'Drak Ritualist, Hogger
+  Field: Temple Berserker[3/1], Cobalt Spellkin[3/1], Bluegill Warrior[2/1], Shrieking Shroom[1/2], Swamp Dragon Egg[0/3], Crystallizer[1/3]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (7)
+  Field: Dalaran Crusader[5/2], Imprisoned Felmaw[5/2], Furnacefire Colossus[6/2], Boneguard Lieutenant[3/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(64) → 26로 보정
+[Turn 10, Step 60] Agent: 공격 - Cobalt Spellkin[3/1] -> Furnacefire Colossus
+[Turn 10, Step 61] Agent: 공격 - Temple Berserker[3/1] -> Dalaran Crusader
+[Turn 10, Step 62] Agent: 카드 플레이 - Zul'Drak Ritualist (코스트: 4)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(34) → 5로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(29) → 13로 보정
+[Turn 10, Step 64] Agent: 공격 - Shrieking Shroom[1/2] -> Crystallizer
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 4/10
+  Hand (4): Saronite Chain Gang, Tanaris Hogchopper, Imprisoned Observer, Hogger
+  Field: Bluegill Warrior[2/1], Shrieking Shroom[1/1], Swamp Dragon Egg[0/3], Crystallizer[1/3], Zul'Drak Ritualist[3/9]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (7)
+  Field: Imprisoned Felmaw[5/2], Boneguard Lieutenant[3/1], Crystallizer[1/2], Murloc Tidecaller[1/2], Saronite Taskmaster[2/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 65] Agent: 공격 - Bluegill Warrior[2/1] -> Crystallizer
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(87) → 13로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Zul'Drak Ritualist
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(62) → 14로 보정
+[Turn 10, Step 69] Agent: 공격 - Crystallizer[1/3] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 5/10
+  Hand (4): Saronite Chain Gang, Tanaris Hogchopper, Hogger, Kobold Geomancer
+  Field: Shrieking Shroom[1/1], Fiery Bat[2/1], Swamp Dragon Egg[0/3], Crystallizer[1/3], Zul'Drak Ritualist[3/8], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (8)
+  Field: Imprisoned Felmaw[5/2], Boneguard Lieutenant[3/1], Murloc Tidecaller[1/2], Saronite Taskmaster[2/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(27) → 8로 보정
+[Turn 10, Step 70] Agent: 공격 - Shrieking Shroom[1/1] -> Saronite Taskmaster
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 10, Step 71] Agent: 공격 - Zul'Drak Ritualist[3/8] -> Boneguard Lieutenant
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 10, Step 72] Agent: 공격 - Fiery Bat[2/1] -> Imprisoned Felmaw
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Saronite Taskmaster[2/2] -> Zul'Drak Ritualist
+[Turn 10, Step 74] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 74] Opponent: 공격 - Murloc Tidecaller[1/2] -> Swamp Dragon Egg
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (4): Saronite Chain Gang, Hogger, Kobold Geomancer, Tomb Spider
+  Field: Swamp Dragon Egg[0/2], Crystallizer[1/3], Imprisoned Observer[4/5], Tanaris Hogchopper[4/4]
+Opponent: Rexxar HP: 8, Mana: 2/10
+  Hand (8)
+  Field: Murloc Tidecaller[1/2], Twin Tyrant[4/10]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Murloc Tidecaller

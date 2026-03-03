@@ -1,0 +1,303 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 공격 - Upgradeable Framebot[1/5] -> Mana Cyclone
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Deck of Wonders, Ultrasaur, Sunreaver Spy, Rustsworn Initiate, Kobold Sandtrooper, Night Howler
+  Field: Mana Cyclone[2/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Upgradeable Framebot[1/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(85) → 8로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Mana Cyclone
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Kill Command -> Rexxar (코스트: 3)
+[Turn 4, Step 7] Opponent: 공격 - Upgradeable Framebot[1/3] -> Jaina Proudmoore
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(50) → 6로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (5): Deck of Wonders, Ultrasaur, Sunreaver Spy, Night Howler, Archivist Elysiana
+  Field: Rustsworn Initiate[2/2], Kobold Sandtrooper[2/1]
+Opponent: Rexxar HP: 26, Mana: 1/4
+  Hand (6)
+  Field: Upgradeable Framebot[1/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 5, Step 10] Agent: 공격 - Rustsworn Initiate[2/2] -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 6, Step 12] Opponent: 공격 - Upgradeable Framebot[1/3] -> Rustsworn Initiate
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 8, Step 14] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (9): Deck of Wonders, Ultrasaur, Sunreaver Spy, Night Howler, Archivist Elysiana, Stubborn Gastropod, Nerubian Egg, Hench-Clan Hogsteed, Mecha'thun
+  Field: Rustsworn Initiate[2/1], Kobold Sandtrooper[2/1]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (8)
+  Field: Upgradeable Framebot[1/1], Frostwolf Grunt[2/2], Seaforium Bomber[5/5]
+[Turn 9, Step 15] Agent: 유효하지 않은 액션 인덱스(18) → 1로 보정
+[Turn 9, Step 15] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 9, Step 16] Agent: 유효하지 않은 액션 인덱스(43) → 13로 보정
+[Turn 9, Step 16] Agent: 공격 - Rustsworn Initiate[2/1] -> Frostwolf Grunt
+[Turn 9, Step 17] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 9, Step 17] Agent: 카드 플레이 - Sunreaver Spy (코스트: 2)
+[Turn 9, Step 18] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 9, Step 18] Agent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 9, Step 19] Agent: 공격 - Kobold Sandtrooper[2/1] -> Seaforium Bomber
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/9
+  Hand (6): Ultrasaur, Night Howler, Archivist Elysiana, Stubborn Gastropod, Hench-Clan Hogsteed, Mecha'thun
+  Field: Impcaster[1/1], Sunreaver Spy[2/3], Nerubian Egg[0/2]
+Opponent: Rexxar HP: 21, Mana: 8/8
+  Hand (8)
+  Field: Upgradeable Framebot[1/1], Seaforium Bomber[5/3]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 9, Step 20] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 20] Opponent: 공격 - Upgradeable Framebot[1/1] -> Sunreaver Spy
+[Turn 9, Step 20] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 9, Step 20] Opponent: 공격 - Wyvern[5/5] -> Nerubian Egg
+[Turn 9, Step 20] Opponent: 공격 - Seaforium Bomber[5/3] -> Impcaster
+[Turn 9, Step 20] Opponent: 카드 플레이 - Hunter's Mark -> Nerubian (코스트: 2)
+[Turn 9, Step 20] Opponent: 턴 종료
+[Turn 10, Step 21] Agent: 유효하지 않은 액션 인덱스(31) → 11로 보정
+[Turn 10, Step 21] Agent: 영웅 능력 사용 -> Sunreaver Spy
+[Turn 10, Step 22] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 22] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 24] Agent: 선택 - Goldshire Footman
+[Turn 10, Step 24] Agent: 선택 - Sharkfin Fan
+[Turn 10, Step 24] Agent: 선택 - Forgotten Torch
+[Turn 10, Step 24] Agent: 선택 - Wing Commander
+[Turn 10, Step 24] Agent: 선택 - Phalanx Commander
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(13) → 6로 보정
+[Turn 10, Step 24] Agent: 공격 - Nerubian[4/1] -> Wyvern
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (7): Ultrasaur, Night Howler, Stubborn Gastropod, Hench-Clan Hogsteed, Mecha'thun, Skyfin, Raven Familiar
+  Field: Sunreaver Spy[2/1], Archivist Elysiana[7/7]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (9)
+  Field: Seaforium Bomber[5/2], Wyvern[5/1]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 공격 - Wyvern[5/1] -> Sunreaver Spy
+[Turn 10, Step 25] Opponent: 공격 - Seaforium Bomber[5/2] -> Archivist Elysiana
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(50) → 6로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 10, Step 29] Agent: 공격 - Archivist Elysiana[7/2] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (7): Ultrasaur, Night Howler, Stubborn Gastropod, Hench-Clan Hogsteed, Mecha'thun, Wing Commander, Forgotten Torch
+  Field: Archivist Elysiana[7/2], Skyfin[3/3], Raven Familiar[2/2]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(41) → 20로 보정
+[Turn 10, Step 31] Agent: 공격 - Raven Familiar[2/2] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(39) → 19로 보정
+[Turn 10, Step 32] Agent: 공격 - Skyfin[3/3] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(73) → 16로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Skyfin
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(18) → 6로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Forgotten Torch -> Rexxar (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/10
+  Hand (7): Ultrasaur, Night Howler, Stubborn Gastropod, Hench-Clan Hogsteed, Mecha'thun, Wing Commander, Goldshire Footman
+  Field: Archivist Elysiana[7/2], Skyfin[3/2], Raven Familiar[2/2]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Stubborn Gastropod
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Phalanx Commander (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(96) → 8로 보정
+[Turn 10, Step 39] Agent: 공격 - Raven Familiar[2/2] -> Bloodworm
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (6): Ultrasaur, Night Howler, Hench-Clan Hogsteed, Mecha'thun, Wing Commander, Goldshire Footman
+  Field: Archivist Elysiana[7/2], Skyfin[3/2], Stubborn Gastropod[3/1], Phalanx Commander[4/5]
+Opponent: Rexxar HP: 10, Mana: 5/10
+  Hand (9)
+  Field: Bloodworm[4/2]
+[Turn 10, Step 40] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 41] Agent: 공격 - Archivist Elysiana[7/2] -> Bloodworm
+[Turn 10, Step 42] Agent: 공격 - Skyfin[3/2] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(90) → 9로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Skyfin
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (6): Ultrasaur, Night Howler, Mecha'thun, Wing Commander, Goldshire Footman, Sharkfin Fan
+  Field: Skyfin[3/1], Stubborn Gastropod[3/1], Phalanx Commander[4/5], Hench-Clan Hogsteed[2/1]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (8)
+  Field: SI:7 Infiltrator[5/4], Stalagg[7/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(72) → 4로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 46] Agent: 공격 - Skyfin[3/1] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(42) → 3로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 10, Step 48] Agent: 공격 - Phalanx Commander[4/5] -> Stalagg
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(40) → 5로 보정
+[Turn 10, Step 49] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/10
+  Hand (4): Ultrasaur, Night Howler, Mecha'thun, Wing Commander
+  Field: Skyfin[3/1], Stubborn Gastropod[1/1], Hench-Clan Hogsteed[2/1], Sharkfin Fan[2/2], Goldshire Footman[1/2]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (8)
+  Field: SI:7 Infiltrator[5/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Stubborn Gastropod[1/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(62) → 10로 보정
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> SI:7 Infiltrator
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 54] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> SI:7 Infiltrator
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (4): Ultrasaur, Mecha'thun, Wing Commander, Goldshire Footman
+  Field: Skyfin[3/1], Stubborn Gastropod[1/1], Hench-Clan Squire[1/1], Sharkfin Fan[2/2], Goldshire Footman[1/2], Night Howler[3/4]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (9)
+  Field: SI:7 Infiltrator[5/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - SI:7 Infiltrator[5/1] -> Stubborn Gastropod
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 10, Step 57] Agent: 공격 - Goldshire Footman[1/2] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (3): Ultrasaur, Mecha'thun, Goldshire Footman
+  Field: Skyfin[3/1], Hench-Clan Squire[1/1], Sharkfin Fan[2/2], Goldshire Footman[1/2], Night Howler[3/4], Wing Commander[2/5], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 60] Agent: 공격 - Skyfin[3/1] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 10, Step 61] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 62) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (3): Ultrasaur, Mecha'thun, Goldshire Footman
+  Field: Skyfin[3/1], Hench-Clan Squire[1/1], Sharkfin Fan[2/2], Goldshire Footman[1/2], Night Howler[3/4], Wing Commander[2/5], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

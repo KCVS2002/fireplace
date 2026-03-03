@@ -1,0 +1,200 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Young Priestess
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Worgen Infiltrator[2/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(71) → 7로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (7): Dragon Egg, Maiev Shadowsong, Al'ar, Blackwing Technician, Boisterous Bard, Recombobulator, Stonehill Defender
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+  Field: Worgen Infiltrator[2/1]
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Armored Warhorse (코스트: 4)
+[Turn 4, Step 5] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(22) → 8로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Armored Warhorse
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 공격 - Armored Warhorse[5/2] -> Recombobulator
+[Turn 5, Step 8] Opponent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Maiev Shadowsong -> Worgen Infiltrator (코스트: 4)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/6
+  Hand (7): Witchwood Piper, Dragon Egg, Al'ar, Blackwing Technician, Boisterous Bard, Stonehill Defender, Arcane Flakmage
+  Field: Maiev Shadowsong[4/3]
+Opponent: Rexxar HP: 30, Mana: 1/5
+  Hand (5)
+  Field: Worgen Infiltrator[2/1], Naga Corsair[5/4]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Arcane Flakmage (코스트: 2)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Maiev Shadowsong
+[Turn 7, Step 13] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/7
+  Hand (6): Al'ar, Blackwing Technician, Boisterous Bard, Stonehill Defender, Feral Gibberer, Skaterbot
+  Field: Maiev Shadowsong[4/2], Arcane Flakmage[3/2], Dragon Egg[0/2], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (6)
+  Field: Worgen Infiltrator[2/1], Naga Corsair[5/4]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 7, Step 15] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 7, Step 16] Agent: 공격 - Maiev Shadowsong[4/2] -> Naga Corsair
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(70) → 16로 보정
+[Turn 8, Step 18] Agent: 공격 - Witchwood Piper[3/3] -> Rexxar
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Al'ar (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/8
+  Hand (6): Blackwing Technician, Boisterous Bard, Stonehill Defender, Feral Gibberer, Skaterbot, Cloud Prince
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Witchwood Piper[3/3], Al'ar[7/3]
+Opponent: Rexxar HP: 24, Mana: 7/7
+  Hand (7)
+  Field: Worgen Infiltrator[2/1]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 8, Step 22] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(49) → 3로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Stonehill Defender (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/9
+  Hand (5): Blackwing Technician, Boisterous Bard, Skaterbot, Cloud Prince, Grand Lackey Erkh
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Witchwood Piper[3/3], Al'ar[7/3], Feral Gibberer[1/1], Stonehill Defender[1/4]
+Opponent: Rexxar HP: 21, Mana: 2/8
+  Hand (7)
+  Field: Gyrocopter[4/5]
+[Turn 9, Step 25] Agent: 선택 - Cyclopian Horror
+[Turn 9, Step 25] Agent: 공격 - Witchwood Piper[3/3] -> Rexxar
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Witchwood Piper
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 9, Step 27] Agent: 공격 - Al'ar[7/3] -> Gyrocopter
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 29] Agent: 공격 - Feral Gibberer[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/9
+  Hand (6): Boisterous Bard, Skaterbot, Cloud Prince, Grand Lackey Erkh, Cyclopian Horror, Feral Gibberer
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Witchwood Piper[3/2], Ashes of Al'ar[0/3], Feral Gibberer[1/1], Stonehill Defender[1/4], Blackwing Technician[2/4]
+Opponent: Rexxar HP: 17, Mana: 2/8
+  Hand (7)
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 영웅 능력 사용
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(43) → 11로 보정
+[Turn 10, Step 31] Agent: 공격 - Witchwood Piper[3/2] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Feral Gibberer
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 10, Step 34] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (6): Boisterous Bard, Skaterbot, Grand Lackey Erkh, Cyclopian Horror, Feral Gibberer, Zilliax
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Witchwood Piper[3/2], Al'ar[7/3], Stonehill Defender[1/4], Blackwing Technician[2/4], Cloud Prince[4/4]
+Opponent: Rexxar HP: 11, Mana: 7/9
+  Hand (8)
+[Turn 10, Step 35] Agent: 공격 - Stonehill Defender[1/4] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(40) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Al'ar[7/3] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(3) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Blackwing Technician[2/4] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Exotic Mountseller (코스트: 7)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(83) → 14로 보정
+[Turn 10, Step 39] Agent: 공격 - Witchwood Piper[3/2] -> Exotic Mountseller
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): Boisterous Bard, Skaterbot, Grand Lackey Erkh, Cyclopian Horror, Feral Gibberer, Zilliax, Raging Worgen
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Al'ar[7/3], Stonehill Defender[1/4], Blackwing Technician[2/4], Cloud Prince[4/4]
+Opponent: Rexxar HP: 1, Mana: 3/10
+  Hand (8)
+  Field: Exotic Mountseller[5/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(81) → 15로 보정
+[Turn 10, Step 41] Agent: 공격 - Stonehill Defender[1/4] -> Rexxar
+
+--- Game State (Turn 10, Step 42) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/10
+  Hand (6): Boisterous Bard, Grand Lackey Erkh, Cyclopian Horror, Feral Gibberer, Zilliax, Raging Worgen
+  Field: Arcane Flakmage[3/2], Dragon Egg[0/2], Al'ar[7/3], Stonehill Defender[1/4], Blackwing Technician[2/4], Cloud Prince[4/4], Skaterbot[1/1]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (8)
+  Field: Exotic Mountseller[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

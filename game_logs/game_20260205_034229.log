@@ -1,0 +1,299 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Wobbling Runts, Safeguard, Nat, the Darkfisher, Sunwalker
+  Field: Mad Bomber[3/2], Emerald Hive Queen[2/3]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 공격 - Mad Bomber[3/2] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Southsea Captain (코스트: 3)
+[Turn 3, Step 7] Opponent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 4)
+[Turn 4, Step 9] Agent: 공격 - Emerald Hive Queen[2/3] -> Secretkeeper
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (5): Wobbling Runts, Safeguard, Sunwalker, Sabretooth Stalker, Dread Raven
+  Field: Mad Bomber[3/2], Emerald Hive Queen[2/2], Nat, the Darkfisher[2/4]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (5)
+  Field: Southsea Captain[3/3]
+[Turn 4, Step 10] Agent: 공격 - Mad Bomber[3/2] -> Rexxar
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 4, Step 11] Opponent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Emerald Hive Queen[2/2] -> Fjola Lightbane
+[Turn 5, Step 13] Agent: 공격 - Mad Bomber[3/2] -> Depth Charge
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 5, Step 14] Opponent: 카드 플레이 - Primalfin Lookout (코스트: 3)
+[Turn 5, Step 14] Opponent: 선택 - Murloc Tidecaller
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (8): Wobbling Runts, Safeguard, Sunwalker, Sabretooth Stalker, Dread Raven, Enhance-o Mechano, Brrrloc, Chief Inspector
+Opponent: Rexxar HP: 23, Mana: 1/6
+  Hand (7)
+  Field: Fishflinger[3/2], Primalfin Lookout[3/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Sabretooth Stalker[8/2] -> Fishflinger
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Primalfin Lookout
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 7, Step 19] Opponent: 공격 - Primalfin Lookout[3/1] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (9): Wobbling Runts, Safeguard, Sunwalker, Dread Raven, Enhance-o Mechano, Brrrloc, Chief Inspector, Celestial Emissary, Yogg-Saron, Hope's End
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (7)
+  Field: Primalfin Lookout[3/1], Fight Promoter[4/4], Flame Juggler[2/3]
+[Turn 8, Step 20] Agent: 카드 플레이 - Brrrloc -> Rexxar (코스트: 2)
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Flame Juggler
+[Turn 8, Step 22] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 8, Step 23] Opponent: 공격 - Fight Promoter[4/4] -> Brrrloc
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Wobbling Runts (코스트: 6)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/9
+  Hand (7): Safeguard, Sunwalker, Dread Raven, Enhance-o Mechano, Chief Inspector, Yogg-Saron, Hope's End, Frenzied Felwing
+  Field: Celestial Emissary[2/1], Wobbling Runts[2/6]
+Opponent: Rexxar HP: 23, Mana: 5/9
+  Hand (7)
+  Field: Primalfin Lookout[3/1], Fight Promoter[4/2], Flame Juggler[2/2], Felsoul Inquisitor[1/6]
+[Turn 9, Step 25] Agent: 공격 - Celestial Emissary[2/1] -> Felsoul Inquisitor
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 공격 - Flame Juggler[2/2] -> Wobbling Runts
+[Turn 9, Step 27] Opponent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 10, Step 29] Agent: 공격 - Wobbling Runts[2/4] -> Felsoul Inquisitor
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/10
+  Hand (7): Safeguard, Sunwalker, Dread Raven, Enhance-o Mechano, Chief Inspector, Yogg-Saron, Hope's End, Frenzied Felwing
+  Field: Wobbling Runts[2/3], Flesheating Ghoul[2/3]
+Opponent: Rexxar HP: 25, Mana: 4/10
+  Hand (7)
+  Field: Primalfin Lookout[3/1], Fight Promoter[4/2], Felsoul Inquisitor[1/2], Blatant Decoy[5/5]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Primalfin Lookout
+[Turn 10, Step 33] Agent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Fight Promoter[4/2] -> Dread Raven
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (7): Sunreaver Warmage, Safeguard, Sunwalker, Enhance-o Mechano, Chief Inspector, Yogg-Saron, Hope's End, Street Trickster
+  Field: Wobbling Runts[2/3], Flesheating Ghoul[5/3], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (9)
+  Field: Felsoul Inquisitor[1/2], Blatant Decoy[5/5]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Felsoul Inquisitor
+[Turn 10, Step 36] Agent: 카드 플레이 - Sunwalker (코스트: 6)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 10, Step 39] Agent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/10
+  Hand (5): Safeguard, Chief Inspector, Yogg-Saron, Hope's End, Street Trickster, Sneaky Devil
+  Field: Wobbling Runts[2/3], Flesheating Ghoul[5/3], Frenzied Felwing[3/2], Sunwalker[4/5], Sunreaver Warmage[4/4], Enhance-o Mechano[3/2]
+Opponent: Rexxar HP: 25, Mana: 6/10
+  Hand (9)
+  Field: Felsoul Inquisitor[1/1], Blatant Decoy[5/5], Hoard Pillager[4/2]
+[Turn 10, Step 40] Agent: 공격 - Flesheating Ghoul[5/3] -> Felsoul Inquisitor
+[Turn 10, Step 41] Agent: 공격 - Wobbling Runts[2/3] -> Blatant Decoy
+[Turn 10, Step 42] Agent: 공격 - Frenzied Felwing[3/2] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Sunwalker[4/5] -> Blatant Decoy
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (6): Safeguard, Chief Inspector, Yogg-Saron, Hope's End, Street Trickster, Sneaky Devil, Grotesque Dragonhawk
+Opponent: Rexxar HP: 22, Mana: 9/10
+  Hand (8)
+  Field: Murloc Tidecaller[1/2]
+[Turn 10, Step 45] Agent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 10, Step 46] Agent: 카드 플레이 - Street Trickster (코스트: 3)
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Chief Inspector
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (5): Safeguard, Yogg-Saron, Hope's End, Sneaky Devil, Grotesque Dragonhawk, Master Swordsmith
+  Field: Chief Inspector[4/5], Street Trickster[0/7]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Murloc Tidecaller[1/2]
+[Turn 10, Step 50] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 10, Step 51] Agent: 카드 플레이 - Sneaky Devil (코스트: 4)
+[Turn 10, Step 52] Agent: 공격 - Chief Inspector[5/5] -> Murloc Tidecaller
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Master Swordsmith
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (4): Safeguard, Yogg-Saron, Hope's End, Grotesque Dragonhawk, Eater of Secrets
+  Field: Chief Inspector[6/4], Street Trickster[1/7], Master Swordsmith[2/2], Sneaky Devil[2/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 55] Agent: 공격 - Sneaky Devil[2/2] -> Rexxar
+[Turn 10, Step 56] Agent: 공격 - Master Swordsmith[2/2] -> Rexxar
+[Turn 10, Step 57] Agent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 10, Step 58] Agent: 공격 - Chief Inspector[6/4] -> Rexxar
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 영웅 능력 사용
+[Turn 10, Step 59] Opponent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Sea Giant (코스트: 3)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Safeguard, Yogg-Saron, Hope's End, Eater of Secrets, Kobold Apprentice
+  Field: Chief Inspector[6/4], Street Trickster[1/7], Master Swordsmith[2/2], Sneaky Devil[2/2], Grotesque Dragonhawk[7/5]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (7)
+  Field: Gilblin Stalker[2/3], Lone Champion[2/4], Sea Giant[8/8]
+[Turn 10, Step 60] Agent: 공격 - Grotesque Dragonhawk[7/5] -> Lone Champion
+[Turn 10, Step 61] Agent: 공격 - Grotesque Dragonhawk[7/3] -> Sea Giant
+[Turn 10, Step 62] Agent: 공격 - Master Swordsmith[2/2] -> Rexxar
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Sneaky Devil
+[Turn 10, Step 64] Agent: 공격 - Sneaky Devil[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (4): Safeguard, Yogg-Saron, Hope's End, Eater of Secrets, Kobold Apprentice
+  Field: Chief Inspector[6/4], Street Trickster[1/7], Master Swordsmith[2/2], Sneaky Devil[2/1]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (7)
+  Field: Gilblin Stalker[2/3], Lone Champion[2/4], Sea Giant[8/1]
+[Turn 10, Step 65] Agent: 공격 - Chief Inspector[6/4] -> Lone Champion
+[Turn 10, Step 66] Agent: 공격 - Street Trickster[1/7] -> Sea Giant
+[Turn 10, Step 67] Agent: 카드 플레이 - Kobold Apprentice (코스트: 3)
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 카드 플레이 - Scavenger's Ingenuity (코스트: 2)
+[Turn 10, Step 68] Opponent: 카드 플레이 - Cauldron Elemental (코스트: 8)
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/10
+  Hand (4): Safeguard, Yogg-Saron, Hope's End, Eater of Secrets, SN1P-SN4P
+  Field: Chief Inspector[6/2], Master Swordsmith[2/2], Sneaky Devil[2/1], Kobold Apprentice[4/1], SN1P-SN4P[3/3]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (7)
+  Field: Cauldron Elemental[7/7]
+[Turn 10, Step 70] Agent: 공격 - Kobold Apprentice[4/1] -> Cauldron Elemental
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Cauldron Elemental
+[Turn 10, Step 72] Agent: 공격 - Master Swordsmith[2/2] -> Rexxar
+[Turn 10, Step 73] Agent: 공격 - Sneaky Devil[2/1] -> Cauldron Elemental
+[Turn 10, Step 74] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (4): Safeguard, Yogg-Saron, Hope's End, Eater of Secrets, SN1P-SN4P
+  Field: Chief Inspector[5/2], Master Swordsmith[1/2], SN1P-SN4P[2/3], SN1P-SN4P[2/3]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (7)
+[Turn 10, Step 75] Agent: 공격 - Chief Inspector[5/2] -> Rexxar
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> SN1P-SN4P
+[Turn 10, Step 78] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 79] Agent: 공격 - SN1P-SN4P[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (3): Safeguard, Yogg-Saron, Hope's End, Armored Warhorse
+  Field: Chief Inspector[6/2], Master Swordsmith[1/2], SN1P-SN4P[2/3], SN1P-SN4P[2/2], Eater of Secrets[2/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (3): Safeguard, Yogg-Saron, Hope's End, Armored Warhorse
+  Field: Chief Inspector[6/2], Master Swordsmith[1/2], SN1P-SN4P[2/3], SN1P-SN4P[2/2], Eater of Secrets[2/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

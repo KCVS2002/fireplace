@@ -1,0 +1,310 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Tomb Lurker, Mana Cyclone, Target Dummy, Doomed Apprentice, Archmage Arugal
+  Field: Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Icicle -> Annoy-o-Tron (코스트: 2)
+[Turn 3, Step 7] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 3, Step 8] Agent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Kaboom Bot (코스트: 3)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (5): Tomb Lurker, Mana Cyclone, Doomed Apprentice, Archmage Arugal, Goldshire Footman
+  Field: Annoy-o-Tron[1/2], Target Dummy[0/2]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (6)
+  Field: Kaboom Bot[2/2]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 4, Step 11] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 4, Step 12] Agent: 공격 - Annoy-o-Tron[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 영웅 능력 사용
+[Turn 4, Step 13] Opponent: 공격 - Kaboom Bot[2/2] -> Annoy-o-Tron
+[Turn 4, Step 13] Opponent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 공격 - Mana Cyclone[2/2] -> Tinkmaster Overspark
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (5): Tomb Lurker, Doomed Apprentice, Archmage Arugal, Goldshire Footman, Kirin Tor Tricaster
+  Field: Target Dummy[0/2]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (6)
+  Field: Squirrel[1/1], Tinkmaster Overspark[3/1]
+[Turn 5, Step 15] Agent: 카드 플레이 - Archmage Arugal (코스트: 2)
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Marked Shot -> Archmage Arugal (코스트: 4)
+[Turn 5, Step 16] Opponent: 선택 - Revenge of the Wild
+[Turn 5, Step 16] Opponent: 공격 - Tinkmaster Overspark[3/1] -> Target Dummy
+[Turn 5, Step 16] Opponent: 영웅 능력 사용
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 카드 플레이 - Tomb Lurker (코스트: 5)
+[Turn 6, Step 18] Agent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Scarlet Webweaver (코스트: 6)
+[Turn 6, Step 19] Opponent: 카드 플레이 - Raptor Hatchling (코스트: 1)
+[Turn 6, Step 19] Opponent: 공격 - Tinkmaster Overspark[3/1] -> Goldshire Footman
+[Turn 6, Step 19] Opponent: 공격 - Squirrel[1/1] -> Tomb Lurker
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (4): Doomed Apprentice, Kirin Tor Tricaster, Bloodmage Thalnos, Malygos, Aspect of Magic
+  Field: Tomb Lurker[5/2]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (6)
+  Field: Scarlet Webweaver[5/5], Raptor Hatchling[2/1]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Raptor Hatchling
+[Turn 7, Step 21] Agent: 카드 플레이 - Malygos, Aspect of Magic (코스트: 5)
+[Turn 7, Step 22] Agent: 공격 - Tomb Lurker[5/2] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/8
+  Hand (3): Kirin Tor Tricaster, Bloodmage Thalnos, Coldlight Oracle
+  Field: Tomb Lurker[5/2], Malygos, Aspect of Magic[2/8], Doomed Apprentice[3/2]
+Opponent: Rexxar HP: 23, Mana: 8/8
+  Hand (7)
+  Field: Scarlet Webweaver[5/5]
+[Turn 8, Step 25] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Coldlight Oracle
+[Turn 8, Step 27] Agent: 공격 - Tomb Lurker[5/2] -> Scarlet Webweaver
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 8, Step 28] Opponent: 선택 - Twin Tyrant
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/9
+  Hand (4): Kirin Tor Tricaster, Bloodmage Thalnos, Tainted Zealot, Evasive Feywing
+  Field: Malygos, Aspect of Magic[2/8], Doomed Apprentice[3/2], Coldlight Oracle[2/1], Razorfen Hunter[2/3], Boar[1/1]
+Opponent: Rexxar HP: 23, Mana: 6/9
+  Hand (10)
+  Field: Primordial Explorer[2/3]
+[Turn 9, Step 30] Agent: 공격 - Coldlight Oracle[2/1] -> Rexxar
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Razorfen Hunter
+[Turn 9, Step 32] Agent: 카드 플레이 - Kirin Tor Tricaster (코스트: 4)
+[Turn 9, Step 33] Agent: 공격 - Malygos, Aspect of Magic[2/8] -> Rexxar
+[Turn 9, Step 34] Agent: 공격 - Doomed Apprentice[3/2] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (3): Bloodmage Thalnos, Tainted Zealot, Evasive Feywing
+  Field: Malygos, Aspect of Magic[2/8], Doomed Apprentice[3/2], Coldlight Oracle[2/1], Razorfen Hunter[2/2], Boar[1/1], Kirin Tor Tricaster[3/3]
+Opponent: Rexxar HP: 16, Mana: 6/9
+  Hand (10)
+  Field: Primordial Explorer[2/3]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 9, Step 35] Opponent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 9, Step 35] Opponent: 공격 - Primordial Explorer[2/3] -> Jaina Proudmoore
+[Turn 9, Step 35] Opponent: 카드 플레이 - Steel Rager (코스트: 4)
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Kirin Tor Tricaster[3/3] -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Razorfen Hunter[2/2] -> Alarm-o-Bot
+[Turn 10, Step 38] Agent: 공격 - Malygos, Aspect of Magic[2/8] -> Thrallmar Farseer
+[Turn 10, Step 39] Agent: 공격 - Doomed Apprentice[3/2] -> Alarm-o-Bot
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (4): Bloodmage Thalnos, Tainted Zealot, Evasive Feywing, Charged Devilsaur
+  Field: Malygos, Aspect of Magic[2/6], Doomed Apprentice[3/2], Coldlight Oracle[2/1], Razorfen Hunter[2/2], Boar[1/1], Kirin Tor Tricaster[3/3]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (7)
+  Field: Primordial Explorer[2/3], Thrallmar Farseer[2/1], Steel Rager[5/1]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Doomed Apprentice
+[Turn 10, Step 41] Agent: 공격 - Coldlight Oracle[2/1] -> Primordial Explorer
+[Turn 10, Step 42] Agent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 43] Agent: 공격 - Boar[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Charged Devilsaur[7/7] -> Thrallmar Farseer
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (3): Bloodmage Thalnos, Tainted Zealot, Evasive Feywing
+  Field: Malygos, Aspect of Magic[2/6], Doomed Apprentice[3/1], Razorfen Hunter[2/2], Boar[1/1], Kirin Tor Tricaster[3/3], Charged Devilsaur[7/5]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (7)
+  Field: Primordial Explorer[2/1], Steel Rager[5/1]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Steel Rager[5/1] -> Doomed Apprentice
+[Turn 10, Step 45] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Raptor Patriarch (코스트: 1)
+[Turn 10, Step 45] Opponent: 공격 - Primordial Explorer[2/1] -> Kirin Tor Tricaster
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 공격 - Charged Devilsaur[7/5] -> Rexxar
+[Turn 10, Step 47] Agent: 공격 - Boar[1/1] -> Raptor Patriarch
+[Turn 10, Step 48] Agent: 공격 - Malygos, Aspect of Magic[2/2] -> Raptor Patriarch
+[Turn 10, Step 49] Agent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (3): Tainted Zealot, Evasive Feywing, Tasty Flyfish
+  Field: Charged Devilsaur[7/5], Bloodmage Thalnos[1/1]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (6)
+  Field: Twin Tyrant[4/10]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 51] Agent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 10, Step 52] Agent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 10, Step 53] Opponent: 공격 - Twin Tyrant[4/10] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Augmented Elekk (코스트: 0)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 공격 - Charged Devilsaur[7/5] -> Augmented Elekk
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (2): Tainted Zealot, Goldshire Footman
+  Field: Charged Devilsaur[7/2], Bloodmage Thalnos[1/1], Tasty Flyfish[2/2], Evasive Feywing[5/4]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (4)
+  Field: Twin Tyrant[4/10], Eccentric Scribe[6/4], Flesheating Ghoul[3/3]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Twin Emperor Vek'lor (코스트: 7)
+[Turn 10, Step 57] Agent: 공격 - Charged Devilsaur[7/2] -> Twin Tyrant
+[Turn 10, Step 58] Agent: 공격 - Bloodmage Thalnos[1/1] -> Twin Tyrant
+[Turn 10, Step 59] Agent: 공격 - Evasive Feywing[5/4] -> Flesheating Ghoul
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (3): Cauldron Elemental, Tainted Zealot, Goldshire Footman
+  Field: Tasty Flyfish[2/2], Twin Emperor Vek'lor[4/6]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (5)
+  Field: Twin Tyrant[4/2], Eccentric Scribe[6/4]
+[Turn 10, Step 60] Agent: 공격 - Tasty Flyfish[2/2] -> Eccentric Scribe
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 62] Agent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Revenge of the Wild (코스트: 2)
+[Turn 10, Step 63] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 63] Opponent: 공격 - Twin Tyrant[4/2] -> Twin Emperor Vek'lor
+[Turn 10, Step 63] Opponent: 공격 - Eccentric Scribe[6/2] -> Jaina Proudmoore
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Eccentric Scribe
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (3): Cauldron Elemental, Tainted Zealot, Oasis Snapjaw
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (4)
+  Field: Eccentric Scribe[6/1], Twin Tyrant[4/10]
+[Turn 10, Step 65] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 10, Step 66] Opponent: 공격 - Eccentric Scribe[6/1] -> Tainted Zealot
+[Turn 10, Step 66] Opponent: 공격 - Twin Tyrant[4/10] -> Tainted Zealot
+[Turn 10, Step 66] Opponent: 카드 플레이 - Faceless Corruptor -> Vengeful Scroll (코스트: 5)
+[Turn 10, Step 66] Opponent: 영웅 능력 사용
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Vengeful Scroll
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 공격 - Vengeful Scroll[1/1] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 영웅 능력 사용
+[Turn 10, Step 68] Opponent: 공격 - Vengeful Scroll[1/1] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 10, Step 68] Opponent: 공격 - Twin Tyrant[4/9] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Vengeful Scroll
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (5): Cauldron Elemental, Oasis Snapjaw, Hippogryph, Flamestrike, Feral Gibberer
+Opponent: Rexxar HP: 5, Mana: 6/10
+  Hand (4)
+  Field: Faceless Corruptor[4/4], Vengeful Scroll[1/1], Twin Tyrant[4/9], Drakkari Trickster[3/4], Faceless Corruptor[4/4], Murloc Tidehunter[2/1]
+[Turn 10, Step 70] Agent: 카드 플레이 - Flamestrike (코스트: 7)
+[Turn 10, Step 71] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 10, Step 72] Opponent: 공격 - Twin Tyrant[4/5] -> Feral Gibberer
+[Turn 10, Step 72] Opponent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 10, Step 74] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 4/10
+  Hand (2): Cauldron Elemental, Oasis Snapjaw
+  Field: Nat, the Darkfisher[2/4], Hippogryph[2/6]
+Opponent: Rexxar HP: 5, Mana: 3/10
+  Hand (3)
+  Field: Twin Tyrant[4/4], Bonechewer Brawler[2/3], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2]
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Nat, the Darkfisher
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 77) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (2): Cauldron Elemental, Oasis Snapjaw
+  Field: Nat, the Darkfisher[2/3], Hippogryph[2/6]
+Opponent: Rexxar HP: 5, Mana: 8/10
+  Hand (5)
+  Field: Twin Tyrant[4/4], Bonechewer Brawler[2/3], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

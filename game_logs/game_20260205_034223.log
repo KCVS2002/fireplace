@@ -1,0 +1,295 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Ice Walker
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Vilefiend, Shieldbreaker, Novice Engineer, Frostwolf Warlord, Goblin Sapper
+  Field: Ice Walker[1/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 3, Step 7] Agent: 공격 - Ice Walker[1/2] -> Rexxar
+[Turn 3, Step 8] Agent: 카드 플레이 - Acherus Veteran -> Ice Walker (코스트: 1)
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Swift Messenger (코스트: 4)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Vilefiend, Shieldbreaker, Frostwolf Warlord, Goblin Sapper, Starscryer, Nozdormu
+  Field: Ice Walker[2/2], Novice Engineer[1/1], Acherus Veteran[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (6)
+  Field: Swift Messenger[6/2]
+[Turn 4, Step 10] Agent: 공격 - Acherus Veteran[2/1] -> Swift Messenger
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 5, Step 14] Agent: 공격 - Ice Walker[2/2] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/5
+  Hand (6): Shieldbreaker, Frostwolf Warlord, Goblin Sapper, Starscryer, Nozdormu, Hex Lord Malacrass
+  Field: Ice Walker[2/2], Novice Engineer[1/1], Vilefiend[2/2]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (7)
+[Turn 5, Step 15] Agent: 공격 - Novice Engineer[1/1] -> Rexxar
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 5, Step 16] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 공격 - Ice Walker[2/2] -> Cave Hydra
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 19] Agent: 공격 - Novice Engineer[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (7): Shieldbreaker, Frostwolf Warlord, Goblin Sapper, Starscryer, Nozdormu, Hex Lord Malacrass, Sunborne Val'kyr
+  Field: Novice Engineer[1/1], Vilefiend[2/2]
+Opponent: Rexxar HP: 25, Mana: 1/6
+  Hand (6)
+  Field: Cave Hydra[2/2]
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 카드 플레이 - Missile Launcher (코스트: 6)
+[Turn 6, Step 20] Opponent: 공격 - Cave Hydra[2/2] -> Novice Engineer
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 22] Agent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 7, Step 23] Agent: 공격 - Vilefiend[2/3] -> Missile Launcher
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 카드 플레이 - Chopshop Copter (코스트: 3)
+[Turn 7, Step 24] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 7, Step 24] Opponent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 7, Step 24] Opponent: 공격 - Missile Launcher[4/2] -> Jaina Proudmoore
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/8
+  Hand (8): Skulking Geist, Shieldbreaker, Frostwolf Warlord, Goblin Sapper, Starscryer, Nozdormu, Hex Lord Malacrass, Scaled Nightmare
+  Field: Sunborne Val'kyr[5/3]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (5)
+  Field: Missile Launcher[4/2], Chopshop Copter[2/3], Meat Wagon[1/3]
+[Turn 8, Step 25] Agent: 카드 플레이 - Shieldbreaker (코스트: 2)
+[Turn 8, Step 26] Agent: 공격 - Sunborne Val'kyr[5/3] -> Meat Wagon
+[Turn 8, Step 27] Agent: 카드 플레이 - Goblin Sapper (코스트: 3)
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Chopshop Copter
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 카드 플레이 - Explosive Shot -> Shieldbreaker (코스트: 5)
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): Skulking Geist, Frostwolf Warlord, Starscryer, Nozdormu, Hex Lord Malacrass, Scaled Nightmare, Magic Dart Frog
+  Field: Goblin Sapper[6/1]
+Opponent: Rexxar HP: 22, Mana: 4/9
+  Hand (6)
+  Field: Missile Launcher[4/2], Chopshop Copter[2/1], Magic Carpet[1/5]
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Missile Launcher
+[Turn 9, Step 31] Agent: 공격 - Goblin Sapper[6/1] -> Chopshop Copter
+[Turn 9, Step 32] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 9, Step 33] Opponent: 영웅 능력 사용
+[Turn 9, Step 33] Opponent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 9, Step 33] Opponent: 공격 - Magic Carpet[1/5] -> Jaina Proudmoore
+[Turn 9, Step 33] Opponent: 공격 - Missile Launcher[4/1] -> Starscryer
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Reno Jackson (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (7): Skulking Geist, Frostwolf Warlord, Nozdormu, Hex Lord Malacrass, Scaled Nightmare, Magic Dart Frog, Scorch
+  Field: Reno Jackson[4/6]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (5)
+  Field: Magic Carpet[1/5], Worgen Greaser[6/3], Half-Time Scavenger[3/5]
+[Turn 10, Step 35] Agent: 카드 플레이 - Scorch -> Worgen Greaser (코스트: 4)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Hex Lord Malacrass (코스트: 8)
+[Turn 10, Step 38] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 10, Step 39] Agent: 공격 - Reno Jackson[4/6] -> Magic Carpet
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/10
+  Hand (10): Skulking Geist, Frostwolf Warlord, Nozdormu, Scaled Nightmare, Magic Dart Frog, Flying Machine, Ice Walker, Vilefiend, Shieldbreaker, Ticking Abomination
+  Field: Reno Jackson[4/5], Hex Lord Malacrass[5/5], Novice Engineer[1/1]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (6)
+  Field: Magic Carpet[1/1], Half-Time Scavenger[3/5]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Magic Carpet[1/1] -> Hex Lord Malacrass
+[Turn 10, Step 40] Opponent: 카드 플레이 - Living Monument (코스트: 10)
+[Turn 10, Step 40] Opponent: 공격 - Half-Time Scavenger[3/5] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Novice Engineer
+[Turn 10, Step 42] Agent: 공격 - Hex Lord Malacrass[5/4] -> Living Monument
+[Turn 10, Step 43] Agent: 카드 플레이 - Magic Dart Frog (코스트: 2)
+[Turn 10, Step 44] Agent: 카드 플레이 - Ticking Abomination (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/10
+  Hand (8): Skulking Geist, Frostwolf Warlord, Nozdormu, Scaled Nightmare, Flying Machine, Ice Walker, Vilefiend, Shieldbreaker
+  Field: Reno Jackson[4/5], Magic Dart Frog[1/3], Ticking Abomination[5/6]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (6)
+  Field: Half-Time Scavenger[3/5], Living Monument[10/5]
+[Turn 10, Step 45] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 10, Step 46] Agent: 공격 - Reno Jackson[4/5] -> Living Monument
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Living Monument[10/1] -> Jaina Proudmoore
+[Turn 10, Step 49] Opponent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (8): Mortuary Machine, Skulking Geist, Frostwolf Warlord, Scaled Nightmare, Flying Machine, Vilefiend, Shieldbreaker, Mogor the Ogre
+  Field: Magic Dart Frog[1/3], Ticking Abomination[5/6], Ice Walker[1/3], Nozdormu[8/8]
+Opponent: Rexxar HP: 22, Mana: 6/10
+  Hand (7)
+  Field: Half-Time Scavenger[3/5], Living Monument[10/1], Arcane Nullifier X-21[2/5]
+[Turn 10, Step 50] Agent: 공격 - Magic Dart Frog[1/3] -> Arcane Nullifier X-21
+[Turn 10, Step 51] Agent: 공격 - Ice Walker[1/3] -> Living Monument
+[Turn 10, Step 52] Agent: 카드 플레이 - Mogor the Ogre (코스트: 6)
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Arcane Nullifier X-21[2/4] -> Nozdormu
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (8): Mortuary Machine, Skulking Geist, Frostwolf Warlord, Scaled Nightmare, Flying Machine, Vilefiend, Shieldbreaker, Nightblade
+  Field: Magic Dart Frog[1/1], Ticking Abomination[5/6], Nozdormu[8/6], Mogor the Ogre[7/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+  Field: Half-Time Scavenger[3/5]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Ticking Abomination[5/6] -> Squire
+[Turn 10, Step 57] Agent: 카드 플레이 - Flying Machine (코스트: 3)
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 59] Agent: 카드 플레이 - Nightblade (코스트: 5)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (7): Mortuary Machine, Skulking Geist, Frostwolf Warlord, Scaled Nightmare, Vilefiend, Shieldbreaker, Backroom Bouncer
+  Field: Magic Dart Frog[1/1], Ticking Abomination[5/3], Nozdormu[8/6], Mogor the Ogre[7/6], Flying Machine[1/4], Nightblade[4/4]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (7)
+  Field: Arcane Fletcher[3/3], Silver Hand Knight[4/4], Squire[2/2]
+[Turn 10, Step 60] Agent: 공격 - Mogor the Ogre[7/6] -> Rexxar
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 공격 - Squire[2/2] -> Nozdormu
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Ticking Abomination
+[Turn 10, Step 64] Agent: 공격 - Nightblade[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 3/10
+  Hand (7): Skulking Geist, Frostwolf Warlord, Scaled Nightmare, Vilefiend, Shieldbreaker, Backroom Bouncer, Microtech Controller
+  Field: Magic Dart Frog[1/1], Ticking Abomination[5/2], Nozdormu[8/6], Mogor the Ogre[7/2], Flying Machine[1/2], Nightblade[4/2], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (8)
+  Field: Arcane Fletcher[3/3]
+[Turn 10, Step 65] Agent: 공격 - Nozdormu[8/6] -> Arcane Fletcher
+[Turn 10, Step 66] Agent: 공격 - Flying Machine[1/2] -> Rexxar
+[Turn 10, Step 67] Agent: 공격 - Mogor the Ogre[7/2] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Flying Machine[1/2] -> Rexxar
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Call of the Wild (코스트: 8)
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (8): Skulking Geist, Frostwolf Warlord, Scaled Nightmare, Vilefiend, Shieldbreaker, Backroom Bouncer, Microtech Controller, Vryghoul
+  Field: Magic Dart Frog[1/1], Ticking Abomination[5/2], Nozdormu[8/3], Mogor the Ogre[7/2], Flying Machine[1/2], Nightblade[4/2], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 9, Mana: 2/10
+  Hand (8)
+  Field: Huffer[5/2], Leokk[2/4], Misha[5/4]
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Magic Dart Frog
+[Turn 10, Step 71] Agent: 공격 - Nozdormu[8/3] -> Misha
+[Turn 10, Step 72] Agent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 10, Step 73] Agent: 공격 - Ticking Abomination[5/2] -> Misha
+[Turn 10, Step 74] Agent: 공격 - Mortuary Machine[8/8] -> Misha
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/10
+  Hand (7): Frostwolf Warlord, Scaled Nightmare, Vilefiend, Shieldbreaker, Backroom Bouncer, Microtech Controller, Vryghoul
+  Field: Ticking Abomination[5/2], Nozdormu[8/1], Mogor the Ogre[7/2], Flying Machine[1/2], Nightblade[4/2], Mortuary Machine[8/4], Skulking Geist[4/6]
+Opponent: Rexxar HP: 4, Mana: 2/10
+  Hand (8)
+  Field: Misha[4/4]
+[Turn 10, Step 75] Agent: 공격 - Flying Machine[1/2] -> Misha
+[Turn 10, Step 76] Agent: 공격 - Nightblade[4/2] -> Misha
+[Turn 10, Step 77] Agent: 공격 - Mogor the Ogre[7/2] -> Rexxar
+
+--- Game State (Turn 10, Step 78) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/10
+  Hand (7): Frostwolf Warlord, Scaled Nightmare, Vilefiend, Shieldbreaker, Backroom Bouncer, Microtech Controller, Vryghoul
+  Field: Ticking Abomination[5/2], Nozdormu[8/1], Mogor the Ogre[7/2], Mortuary Machine[8/4], Skulking Geist[4/6]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,255 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 3, Step 2] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 4, Step 4] Agent: 공격 - Fishflinger[3/2] -> Boneguard Lieutenant
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Mountain Giant, Elite Tauren Chieftain, Cryomancer, Mind Control Tech, Wee Spellstopper, Grimscale Oracle, Bloodsail Raider
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 영웅 능력 사용
+[Turn 4, Step 5] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(18) → 6로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 6, Step 8] Agent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/6
+  Hand (7): Mountain Giant, Elite Tauren Chieftain, Cryomancer, Mind Control Tech, Wee Spellstopper, Fungalmancer, Electrowright
+  Field: Grimscale Oracle[1/1], Bloodsail Raider[2/3]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (8)
+  Field: Emerald Hive Queen[2/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 6, Step 10] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 10] Opponent: 영웅 능력 사용
+[Turn 6, Step 10] Opponent: 카드 플레이 - Mistress of Mixtures (코스트: 3)
+[Turn 6, Step 10] Opponent: 공격 - Emerald Hive Queen[2/3] -> Jaina Proudmoore
+[Turn 6, Step 10] Opponent: 턴 종료
+[Turn 7, Step 11] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 7, Step 12] Agent: 공격 - Bloodsail Raider[2/3] -> Mistress of Mixtures
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(85) → 8로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Mind Control Tech (코스트: 3)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/7
+  Hand (6): Mountain Giant, Elite Tauren Chieftain, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright
+  Field: Grimscale Oracle[1/1], Bloodsail Raider[2/1], Dragon Breeder[2/3], Mind Control Tech[3/3]
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (8)
+  Field: Emerald Hive Queen[2/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 공격 - Emerald Hive Queen[2/2] -> Bloodsail Raider
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(20) → 9로 보정
+[Turn 8, Step 17] Agent: 공격 - Dragon Breeder[2/3] -> Rexxar
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 8, Step 18] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/8
+  Hand (7): Mountain Giant, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Bolf Ramshield, Rogues Do It...
+  Field: Grimscale Oracle[1/1], Dragon Breeder[2/3], Mind Control Tech[3/3], Elite Tauren Chieftain[5/5]
+Opponent: Rexxar HP: 26, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Rogues Do It... -> Rexxar (코스트: 4)
+[Turn 8, Step 20] Opponent: 영웅 능력 사용
+[Turn 8, Step 20] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(32) → 1로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Mountain Giant (코스트: 4)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(75) → 13로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Murloc Knight (코스트: 4)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 9, Step 23] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 9, Step 24] Agent: 공격 - Mind Control Tech[3/3] -> Fishflinger
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/9
+  Hand (7): Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Bolf Ramshield, Rogues Do It..., Snowchugger
+  Field: Grimscale Oracle[1/1], Dragon Breeder[2/3], Elite Tauren Chieftain[5/5], Mountain Giant[8/8], Murloc Knight[4/4]
+Opponent: Rexxar HP: 21, Mana: 0/8
+  Hand (10)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Faceless Shambler (코스트: 4)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(79) → 13로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Rogues Do It... -> Faceless Shambler (코스트: 4)
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Fallen Sun Cleric -> Grimscale Oracle (코스트: 2)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 29] Agent: 공격 - Mountain Giant[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/10
+  Hand (7): Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Bolf Ramshield, Snowchugger, Steam Surger
+  Field: Grimscale Oracle[2/2], Dragon Breeder[2/3], Elite Tauren Chieftain[5/5], Mountain Giant[8/8], Murloc Knight[4/4], Hydrologist[3/2], Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 12, Mana: 5/9
+  Hand (9)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 30] Agent: 공격 - Dragon Breeder[2/3] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Giggling Inventor (코스트: 6)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - Dragon Breeder[2/3] -> Annoy-o-Tron
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(28) → 2로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 34] Agent: 공격 - Grimscale Oracle[2/2] -> Annoy-o-Tron
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (8): Hoard Pillager, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Bolf Ramshield, Snowchugger, Steam Surger
+  Field: Grimscale Oracle[2/1], Dragon Breeder[2/2], Elite Tauren Chieftain[5/5], Mountain Giant[8/8], Murloc Knight[4/4], Hydrologist[3/2], Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (8)
+  Field: Giggling Inventor[2/1], Annoy-o-Tron[1/2], Rustsworn Cultist[3/3], Rusted Devil[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(55) → 13로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Rusted Devil
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Cheaty Anklebiter -> Annoy-o-Tron (코스트: 2)
+[Turn 10, Step 37] Opponent: 공격 - Annoy-o-Tron[1/2] -> Grimscale Oracle
+[Turn 10, Step 37] Opponent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 10, Step 37] Opponent: 공격 - Giggling Inventor[2/1] -> Elite Tauren Chieftain
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 39] Agent: 공격 - Elite Tauren Chieftain[5/3] -> Lil' Exorcist
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (10): Hoard Pillager, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Bolf Ramshield, Snowchugger, Steam Surger, Gluttonous Ooze, Dragoncaller Alanna
+  Field: Dragon Breeder[2/2], Elite Tauren Chieftain[5/1], Mountain Giant[8/8], Murloc Knight[3/4], Skyfin[3/3], Hydrologist[2/2], Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (7)
+  Field: Rustsworn Cultist[3/3], Cheaty Anklebiter[2/1], Rusted Devil[1/1], Ice Cream Peddler[3/5], Rusted Devil[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(79) → 17로 보정
+[Turn 10, Step 40] Agent: 공격 - Murloc Knight[3/4] -> Ice Cream Peddler
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(86) → 11로 보정
+[Turn 10, Step 41] Agent: 공격 - Mountain Giant[8/8] -> Ice Cream Peddler
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(63) → 15로 보정
+[Turn 10, Step 42] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rusted Devil
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(60) → 6로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 44] Agent: 공격 - Hydrologist[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/10
+  Hand (9): Hoard Pillager, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Snowchugger, Steam Surger, Gluttonous Ooze, Dragoncaller Alanna
+  Field: Dragon Breeder[2/2], Elite Tauren Chieftain[5/1], Mountain Giant[8/5], Murloc Knight[3/1], Skyfin[3/3], Hydrologist[2/2], Bolf Ramshield[3/9]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (7)
+  Field: Rustsworn Cultist[3/3], Cheaty Anklebiter[2/1], Rusted Devil[1/1]
+[Turn 10, Step 45] Agent: 공격 - Dragon Breeder[2/2] -> Cheaty Anklebiter
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(63) → 30로 보정
+[Turn 10, Step 48] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(49) → 19로 보정
+[Turn 10, Step 49] Agent: 공격 - Murloc Knight[3/1] -> Rustsworn Cultist
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (9): Hoard Pillager, Cryomancer, Wee Spellstopper, Fungalmancer, Electrowright, Steam Surger, Gluttonous Ooze, Dragoncaller Alanna, Dread Corsair
+  Field: Elite Tauren Chieftain[5/1], Mountain Giant[8/5], Skyfin[3/3], Hydrologist[2/2], Bolf Ramshield[3/9], Snowchugger[2/3]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (8)
+  Field: Rusted Devil[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(61) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Wee Spellstopper (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(26) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Mountain Giant[8/5] -> Rusted Devil
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 53] Agent: 공격 - Elite Tauren Chieftain[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/10
+  Hand (8): Hoard Pillager, Cryomancer, Fungalmancer, Electrowright, Steam Surger, Gluttonous Ooze, Dragoncaller Alanna, Dread Corsair
+  Field: Elite Tauren Chieftain[5/1], Mountain Giant[8/4], Skyfin[3/3], Hydrologist[2/2], Bolf Ramshield[3/9], Snowchugger[2/3], Wee Spellstopper[2/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,151 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Scorp-o-matic
+[Turn 3, Step 4] Agent: 공격 - Scorp-o-matic[1/1] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (5): Dalaran Crusader, Muck Hunter, Clockwork Knight, Omega Defender, Justicar Trueheart
+  Field: Scorp-o-matic[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Fungal Enchanter (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+[Turn 4, Step 8] Agent: 공격 - Scorp-o-matic[1/1] -> Fungal Enchanter
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Fungal Enchanter[3/2] -> Arcane Servant
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (6): Dalaran Crusader, Muck Hunter, Clockwork Knight, Omega Defender, Justicar Trueheart, Mechanical Yeti
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 13] Agent: 카드 플레이 - Netherspite Historian (코스트: 2)
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/8
+  Hand (8): Dalaran Crusader, Muck Hunter, Clockwork Knight, Omega Defender, Justicar Trueheart, Mechanical Yeti, Grotesque Dragonhawk, Arcane Anomaly
+  Field: Netherspite Historian[1/3]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 15] Agent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Clockwork Knight
+[Turn 8, Step 17] Agent: 공격 - Netherspite Historian[1/3] -> Rexxar
+[Turn 8, Step 18] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 9/9
+  Hand (7): Dalaran Crusader, Muck Hunter, Omega Defender, Justicar Trueheart, Mechanical Yeti, Grotesque Dragonhawk, Worgen Infiltrator
+  Field: Netherspite Historian[1/3], Clockwork Knight[5/4], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 28, Mana: 6/8
+  Hand (9)
+  Field: Lorewalker Cho[0/4]
+[Turn 9, Step 20] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 9, Step 21] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 공격 - Clockwork Knight[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (6): Dalaran Crusader, Muck Hunter, Omega Defender, Justicar Trueheart, Grotesque Dragonhawk, Ice Block
+  Field: Netherspite Historian[1/3], Clockwork Knight[5/4], Arcane Anomaly[2/1], Mechanical Yeti[4/5]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (10)
+  Field: Lorewalker Cho[0/4]
+[Turn 10, Step 25] Agent: 공격 - Mechanical Yeti[4/5] -> Rexxar
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Clockwork Knight
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Omega Defender (코스트: 4)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Clockwork Knight
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/10
+  Hand (6): Dalaran Crusader, Muck Hunter, Justicar Trueheart, Grotesque Dragonhawk, Ice Block, Voodoo Doll
+  Field: Netherspite Historian[1/3], Clockwork Knight[5/2], Arcane Anomaly[2/1], Mechanical Yeti[4/5], Omega Defender[12/6]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+  Field: Lorewalker Cho[0/4]
+[Turn 10, Step 30] Agent: 공격 - Mechanical Yeti[4/5] -> Rexxar
+[Turn 10, Step 31] Agent: 공격 - Netherspite Historian[1/3] -> Rexxar
+[Turn 10, Step 32] Agent: 공격 - Clockwork Knight[5/2] -> Rexxar
+[Turn 10, Step 33] Agent: 카드 플레이 - Voodoo Doll -> Lorewalker Cho (코스트: 3)
+[Turn 10, Step 34] Agent: 공격 - Arcane Anomaly[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/10
+  Hand (5): Dalaran Crusader, Muck Hunter, Justicar Trueheart, Grotesque Dragonhawk, Ice Block
+  Field: Netherspite Historian[1/3], Clockwork Knight[5/2], Arcane Anomaly[2/1], Mechanical Yeti[4/5], Omega Defender[12/6], Voodoo Doll[1/1]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Lorewalker Cho[0/4]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Scorp-o-matic -> Lorewalker Cho (코스트: 2)
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Arcane Anomaly[2/1] -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Mechanical Yeti[4/5] -> Chief Inspector
+[Turn 10, Step 38] Agent: 공격 - Clockwork Knight[5/2] -> Rexxar
+
+--- Game State (Turn 10, Step 39) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (6): Dalaran Crusader, Muck Hunter, Justicar Trueheart, Grotesque Dragonhawk, Ice Block, Shifting Scroll
+  Field: Netherspite Historian[1/3], Clockwork Knight[5/2], Arcane Anomaly[2/1], Mechanical Yeti[4/1], Omega Defender[12/6], Voodoo Doll[1/1]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (8)
+  Field: Scorp-o-matic[1/2], Chief Inspector[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

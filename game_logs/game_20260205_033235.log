@@ -1,0 +1,229 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Swamp Leech
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Leyline Manipulator, Stormwatcher, Master Jouster, Dalaran Aspirant, Night Howler, Don Han'Cho, Alexstrasza
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Leyline Manipulator (코스트: 4)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 4, Step 8] Opponent: 카드 플레이 - Fire Fly (코스트: 1)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Don Han'Cho (코스트: 5)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (7): Stormwatcher, Master Jouster, Dalaran Aspirant, Night Howler, Alexstrasza, Luna's Pocket Galaxy, Mirror Entity
+  Field: Leyline Manipulator[4/5], Don Han'Cho[5/6]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (6)
+  Field: Enhance-o Mechano[3/2], Fire Fly[1/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Desert Obelisk (코스트: 5)
+[Turn 5, Step 10] Opponent: 공격 - Enhance-o Mechano[3/2] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(75) → 6로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(30) → 11로 보정
+[Turn 6, Step 12] Agent: 공격 - Leyline Manipulator[4/5] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(58) → 13로 보정
+[Turn 6, Step 13] Agent: 공격 - Don Han'Cho[5/6] -> Fire Fly
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Leyline Manipulator
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/6
+  Hand (7): Stormwatcher, Master Jouster, Dalaran Aspirant, Night Howler, Alexstrasza, Luna's Pocket Galaxy, Cinderstorm
+  Field: Leyline Manipulator[4/4], Don Han'Cho[5/5]
+Opponent: Rexxar HP: 25, Mana: 1/6
+  Hand (6)
+  Field: Enhance-o Mechano[3/2], Desert Obelisk[0/5]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(48) → 4로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Night Howler (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Cinderstorm (코스트: 3)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 7, Step 19] Agent: 공격 - Don Han'Cho[5/5] -> Desert Obelisk
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/7
+  Hand (5): Stormwatcher, Master Jouster, Dalaran Aspirant, Alexstrasza, Luna's Pocket Galaxy
+  Field: Leyline Manipulator[4/4], Don Han'Cho[5/5], Night Howler[3/4], Puddlestomper[3/2]
+Opponent: Rexxar HP: 24, Mana: 7/7
+  Hand (7)
+  Field: Enhance-o Mechano[3/1]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 7, Step 20] Agent: 공격 - Leyline Manipulator[4/4] -> Rexxar
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Stormwatcher (코스트: 5)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(74) → 17로 보정
+[Turn 8, Step 23] Agent: 공격 - Puddlestomper[3/2] -> Rexxar
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Don Han'Cho
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (5): Master Jouster, Dalaran Aspirant, Alexstrasza, Luna's Pocket Galaxy, Helpless Hatchling
+  Field: Leyline Manipulator[4/4], Don Han'Cho[5/4], Night Howler[3/4], Puddlestomper[3/2], Stormwatcher[9/13]
+Opponent: Rexxar HP: 17, Mana: 8/8
+  Hand (8)
+  Field: Enhance-o Mechano[3/1]
+[Turn 8, Step 25] Agent: 공격 - Leyline Manipulator[4/4] -> Enhance-o Mechano
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 8, Step 26] Agent: 공격 - Night Howler[3/4] -> Rexxar
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 8, Step 27] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 8, Step 27] Opponent: 선택 - Vereesa Windrunner
+[Turn 8, Step 27] Opponent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+[Turn 8, Step 27] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(59) → 16로 보정
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Crowd Favorite
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 9, Step 29] Agent: 공격 - Don Han'Cho[5/4] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/9
+  Hand (6): Master Jouster, Dalaran Aspirant, Alexstrasza, Luna's Pocket Galaxy, Helpless Hatchling, Loot Hoarder
+  Field: Leyline Manipulator[4/1], Don Han'Cho[5/4], Night Howler[3/4], Puddlestomper[3/2], Stormwatcher[9/13], Crowd Favorite[4/3]
+Opponent: Rexxar HP: 9, Mana: 0/9
+  Hand (6)
+  Field: Crowd Favorite[4/4], Hench-Clan Thug[3/3], Flame Elemental[1/2]
+[Turn 9, Step 30] Agent: 공격 - Leyline Manipulator[4/1] -> Hench-Clan Thug
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(59) → 19로 보정
+[Turn 9, Step 31] Agent: 공격 - Crowd Favorite[4/3] -> Flame Elemental
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 영웅 능력 사용
+[Turn 9, Step 32] Opponent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 9, Step 32] Opponent: 공격 - Crowd Favorite[5/5] -> Stormwatcher
+[Turn 9, Step 32] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(67) → 5로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Luna's Pocket Galaxy (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Stormpike Commando -> Puddlestomper (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (5): Master Jouster, Dalaran Aspirant, Alexstrasza, Helpless Hatchling, Loot Hoarder
+  Field: Don Han'Cho[5/4], Night Howler[3/4], Stormwatcher[9/8], Crowd Favorite[5/3], Stormpike Commando[4/2]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (5)
+  Field: Clockwork Knight[5/5], Stubborn Gastropod[1/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Alexstrasza -> Rexxar (코스트: 7)
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Don Han'Cho
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 38] Agent: 공격 - Stormpike Commando[4/2] -> Stubborn Gastropod
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 10, Step 39] Agent: 공격 - Stormwatcher[9/8] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (5): Master Jouster, Dalaran Aspirant, Helpless Hatchling, Loot Hoarder, Banana Buffoon
+  Field: Don Han'Cho[5/3], Night Howler[3/4], Stormwatcher[9/8], Crowd Favorite[6/4], Alexstrasza[8/8]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (6)
+  Field: Clockwork Knight[5/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(73) → 21로 보정
+[Turn 10, Step 42] Agent: 공격 - Stormwatcher[9/8] -> Clockwork Knight
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(92) → 12로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Stormwatcher
+[Turn 10, Step 44] Agent: 공격 - Night Howler[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (7): Master Jouster, Dalaran Aspirant, Helpless Hatchling, Loot Hoarder, Banana Buffoon, Cryomancer, Stranglethorn Tiger
+  Field: Don Han'Cho[5/3], Night Howler[3/4], Stormwatcher[9/2], Crowd Favorite[6/4], Alexstrasza[8/8]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Loot Hoarder (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Dalaran Aspirant (코스트: 2)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 47] Agent: 공격 - Don Han'Cho[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (5): Master Jouster, Helpless Hatchling, Banana Buffoon, Cryomancer, Stranglethorn Tiger
+  Field: Don Han'Cho[5/3], Night Howler[3/4], Stormwatcher[9/2], Crowd Favorite[6/4], Alexstrasza[8/8], Loot Hoarder[2/1], Dalaran Aspirant[3/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

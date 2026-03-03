@@ -1,0 +1,237 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Eggnapper (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Brann Bronzebeard, Lifedrinker, Piloted Shredder, Cosmic Anomaly, Temple Berserker, Brainstormer, Pit Fighter
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (6)
+  Field: Eggnapper[3/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 공격 - Eggnapper[3/1] -> Piloted Shredder
+[Turn 4, Step 6] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 5, Step 8] Agent: 공격 - Dire Wolf Alpha[2/2] -> Rexxar
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Raptor[1/1] -> Pit Fighter
+[Turn 5, Step 9] Opponent: 공격 - Spitting Camel[2/4] -> Pit Fighter
+[Turn 5, Step 9] Opponent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (7): Brann Bronzebeard, Lifedrinker, Cosmic Anomaly, Temple Berserker, Brainstormer, Sneaky Devil, Shatter
+  Field: Dire Wolf Alpha[2/2], Pit Fighter[6/3]
+Opponent: Rexxar HP: 26, Mana: 0/5
+  Hand (6)
+  Field: Grim Patron[3/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Brainstormer (코스트: 3)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 6, Step 11] Agent: 공격 - Dire Wolf Alpha[2/2] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 6, Step 12] Agent: 공격 - Pit Fighter[6/3] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Grim Patron[3/3] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (6): Lifedrinker, Cosmic Anomaly, Temple Berserker, Sneaky Devil, Shatter, Heroic Innkeeper
+  Field: Dire Wolf Alpha[2/2], Pit Fighter[6/3], Brainstormer[3/2], Brann Bronzebeard[2/4]
+Opponent: Rexxar HP: 18, Mana: 6/6
+  Hand (7)
+  Field: Grim Patron[3/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 7, Step 15] Agent: 공격 - Dire Wolf Alpha[2/2] -> Grim Patron
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Grim Patron[3/3] -> Temple Berserker
+[Turn 7, Step 17] Opponent: 카드 플레이 - Midnight Drake (코스트: 4)
+[Turn 7, Step 17] Opponent: 공격 - Grim Patron[3/1] -> Brainstormer
+[Turn 7, Step 17] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Huntress
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/8
+  Hand (5): Lifedrinker, Sneaky Devil, Shatter, Heroic Innkeeper, Garrison Commander
+  Field: Pit Fighter[5/3], Brann Bronzebeard[2/4], Temple Berserker[3/1], Cosmic Anomaly[4/3]
+Opponent: Rexxar HP: 18, Mana: 0/7
+  Hand (6)
+  Field: Grim Patron[3/2], Grim Patron[3/3], Midnight Drake[8/4], Terrorguard Escapee[3/7]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(56) → 5로 보정
+[Turn 8, Step 20] Agent: 공격 - Pit Fighter[5/3] -> Midnight Drake
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 8, Step 21] Agent: 공격 - Brann Bronzebeard[2/4] -> Grim Patron
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Grim Patron[3/3] -> Temple Berserker
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Grim Patron
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 9, Step 24] Agent: 공격 - Brann Bronzebeard[2/1] -> Grim Patron
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/9
+  Hand (6): Lifedrinker, Sneaky Devil, Shatter, Heroic Innkeeper, Garrison Commander, Portal Keeper
+  Field: Cosmic Anomaly[4/3]
+Opponent: Rexxar HP: 18, Mana: 8/8
+  Hand (7)
+  Field: Grim Patron[3/1], Grim Patron[3/3], Terrorguard Escapee[3/7]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 9, Step 26] Agent: 공격 - Cosmic Anomaly[4/3] -> Rexxar
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 공격 - Grim Patron[3/3] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+[Turn 9, Step 27] Opponent: 선택 - Lightning Speed
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Sneaky Devil (코스트: 4)
+[Turn 10, Step 29] Agent: 공격 - Cosmic Anomaly[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/10
+  Hand (5): Shatter, Heroic Innkeeper, Garrison Commander, Portal Keeper, Ornery Tortoise
+  Field: Cosmic Anomaly[5/3], Lifedrinker[4/3], Sneaky Devil[2/2]
+Opponent: Rexxar HP: 6, Mana: 7/9
+  Hand (7)
+  Field: Grim Patron[3/1], Grim Patron[3/3], Terrorguard Escapee[3/7], Ravasaur Runt[2/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Grim Patron
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 31] Agent: 공격 - Lifedrinker[4/3] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Toxic Arrow -> Cosmic Anomaly (코스트: 2)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(66) → 31로 보정
+[Turn 10, Step 34] Agent: 공격 - Ornery Tortoise[4/5] -> Grim Patron
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Shatter, Heroic Innkeeper, Garrison Commander, Portal Keeper, Desert Hare
+  Field: Cosmic Anomaly[5/1], Lifedrinker[4/3], Sneaky Devil[2/2], Ornery Tortoise[4/2]
+Opponent: Rexxar HP: 2, Mana: 6/10
+  Hand (6)
+  Field: Terrorguard Escapee[3/7], Ravasaur Runt[2/2], Bluegill Warrior[2/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(75) → 23로 보정
+[Turn 10, Step 35] Agent: 공격 - Sneaky Devil[2/2] -> Terrorguard Escapee
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(98) → 14로 보정
+[Turn 10, Step 36] Agent: 공격 - Cosmic Anomaly[4/1] -> Terrorguard Escapee
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Ravasaur Runt
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (3): Shatter, Heroic Innkeeper, Garrison Commander
+  Field: Lifedrinker[3/3], Ornery Tortoise[3/2], Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1], Portal Keeper[5/2]
+Opponent: Rexxar HP: 2, Mana: 6/10
+  Hand (6)
+  Field: Ravasaur Runt[2/1], Bluegill Warrior[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 40] Agent: 공격 - Lifedrinker[3/3] -> Ravasaur Runt
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(28) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Lifedrinker
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (4): Shatter, Heroic Innkeeper, Duskboar, Goblin Bomb
+  Field: Ornery Tortoise[3/2], Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1], Portal Keeper[5/2], Garrison Commander[2/3]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (8)
+  Field: Bluegill Warrior[2/1]
+[Turn 10, Step 45] Agent: 공격 - Desert Hare[1/1] -> Bluegill Warrior
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(53) → 11로 보정
+[Turn 10, Step 46] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(34) → 8로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Portal Keeper
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 48] Agent: 공격 - Ornery Tortoise[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 49) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (4): Shatter, Heroic Innkeeper, Duskboar, Goblin Bomb
+  Field: Ornery Tortoise[3/2], Desert Hare[1/1], Desert Hare[1/1], Portal Keeper[5/1], Garrison Commander[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

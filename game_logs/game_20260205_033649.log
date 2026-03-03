@@ -1,0 +1,196 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (4): Haunted Creeper, Masked Contender, Countess Ashmore, Untamed Beastmaster
+  Field: Jar Dealer[1/1], Snowchugger[2/3]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (7)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 3, Step 5] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 공격 - Emperor Cobra[2/3] -> Snowchugger
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Masked Contender (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (5): Haunted Creeper, Countess Ashmore, Untamed Beastmaster, Leyline Manipulator, Arena Treasure Chest
+  Field: Jar Dealer[1/1], Masked Contender[2/4]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (7)
+  Field: Emperor Cobra[2/1]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Jar Dealer
+[Turn 6, Step 13] Agent: 공격 - Masked Contender[2/4] -> Rexxar
+[Turn 6, Step 14] Agent: 카드 플레이 - Leyline Manipulator (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/6
+  Hand (6): Haunted Creeper, Countess Ashmore, Untamed Beastmaster, Arena Treasure Chest, Guild Recruiter, Helpless Hatchling
+  Field: Masked Contender[2/4], Leyline Manipulator[4/5]
+Opponent: Rexxar HP: 25, Mana: 5/5
+  Hand (8)
+  Field: Emperor Cobra[2/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Untamed Beastmaster (코스트: 1)
+[Turn 7, Step 17] Agent: 공격 - Masked Contender[2/4] -> Emperor Cobra
+[Turn 7, Step 18] Agent: 카드 플레이 - Haunted Creeper (코스트: 0)
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/8
+  Hand (6): Countess Ashmore, Arena Treasure Chest, Guild Recruiter, Helpless Hatchling, Shieldbearer, Flamecannon
+  Field: Leyline Manipulator[4/5], Untamed Beastmaster[3/4], Haunted Creeper[1/2]
+Opponent: Rexxar HP: 25, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Untamed Beastmaster
+[Turn 8, Step 21] Agent: 카드 플레이 - Guild Recruiter (코스트: 3)
+[Turn 8, Step 22] Agent: 공격 - Haunted Creeper[1/2] -> Rexxar
+[Turn 8, Step 23] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 2)
+[Turn 8, Step 24] Agent: 공격 - Leyline Manipulator[4/5] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/8
+  Hand (4): Countess Ashmore, Helpless Hatchling, Shieldbearer, Flamecannon
+  Field: Leyline Manipulator[4/5], Untamed Beastmaster[3/3], Haunted Creeper[1/2], Guild Recruiter[2/4], Explosive Sheep[1/1], Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 20, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 25] Agent: 공격 - Untamed Beastmaster[3/3] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Explosive Sheep[1/1] -> Springpaw
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Leyline Manipulator
+[Turn 9, Step 29] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 6)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/9
+  Hand (4): Countess Ashmore, Helpless Hatchling, Shieldbearer, Flamecannon
+  Field: Leyline Manipulator[4/2], Untamed Beastmaster[3/1], Spectral Spider[1/1], Spectral Spider[1/1], Guild Recruiter[2/2], Arena Treasure Chest[0/2], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 17, Mana: 3/8
+  Hand (9)
+  Field: Piloted Shredder[4/1]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 9, Step 30] Opponent: 공격 - Piloted Shredder[4/1] -> Guild Recruiter
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Leyline Manipulator[4/2] -> Violet Spellsword
+[Turn 10, Step 32] Agent: 공격 - Spectral Spider[1/1] -> Violet Spellsword
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 34] Agent: 공격 - Sylvanas Windrunner[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (5): Countess Ashmore, Helpless Hatchling, Shieldbearer, Flamecannon, Chromaggus
+  Field: Leyline Manipulator[4/1], Untamed Beastmaster[3/1], Spectral Spider[1/1], Arena Treasure Chest[0/2], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 11, Mana: 5/9
+  Hand (9)
+  Field: Shimmering Tempest[2/1], Violet Spellsword[1/1]
+[Turn 10, Step 35] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 10, Step 36] Agent: 공격 - Spectral Spider[1/1] -> Violet Spellsword
+[Turn 10, Step 37] Agent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+[Turn 10, Step 38] Agent: 카드 플레이 - Countess Ashmore (코스트: 5)
+[Turn 10, Step 39] Agent: 공격 - Untamed Beastmaster[3/1] -> Shimmering Tempest
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/10
+  Hand (3): Flamecannon, Chromaggus, Felsoul Inquisitor
+  Field: Leyline Manipulator[4/1], Arena Treasure Chest[0/2], Sylvanas Windrunner[5/5], Shieldbearer[0/4], Helpless Hatchling[1/1], Countess Ashmore[6/6]
+Opponent: Rexxar HP: 11, Mana: 5/9
+  Hand (10)
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Scorch -> Arena Treasure Chest (코스트: 4)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 10, Step 42] Agent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 10, Step 43] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (5): Flamecannon, Chromaggus, Am'gam Rager, Loatheb, Pompous Thespian
+  Field: Leyline Manipulator[4/1], Sylvanas Windrunner[5/5], Shieldbearer[0/4], Helpless Hatchling[1/1], Countess Ashmore[6/5], Felsoul Inquisitor[1/6], Sandbinder[2/4]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 공격 - Sylvanas Windrunner[5/5] -> Rexxar
+[Turn 10, Step 47] Agent: 공격 - Helpless Hatchling[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Felsoul Inquisitor[1/6] -> Rexxar
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Portal Overfiend (코스트: 6)
+[Turn 10, Step 49] Opponent: 공격 - Lynx[1/1] -> Shieldbearer
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (6): Flamecannon, Chromaggus, Am'gam Rager, Loatheb, Pompous Thespian, Acherus Veteran
+  Field: Leyline Manipulator[4/1], Sylvanas Windrunner[5/5], Shieldbearer[0/3], Helpless Hatchling[1/1], Countess Ashmore[6/5], Felsoul Inquisitor[1/6], Sandbinder[2/4]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (8)
+  Field: Banana Buffoon[2/2], Lynx[1/1], Portal Overfiend[5/6]
+[Turn 10, Step 50] Agent: 공격 - Sandbinder[2/4] -> Banana Buffoon
+[Turn 10, Step 51] Agent: 공격 - Sylvanas Windrunner[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (6): Flamecannon, Chromaggus, Am'gam Rager, Loatheb, Pompous Thespian, Acherus Veteran
+  Field: Leyline Manipulator[4/1], Sylvanas Windrunner[5/5], Shieldbearer[0/3], Helpless Hatchling[1/1], Countess Ashmore[6/5], Felsoul Inquisitor[1/6], Sandbinder[2/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (8)
+  Field: Lynx[1/1], Portal Overfiend[5/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

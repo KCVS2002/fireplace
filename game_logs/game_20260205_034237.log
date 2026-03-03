@@ -1,0 +1,440 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 2, Step 4] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Rumbletusk Shaker, Ozruk, SN1P-SN4P, Cosmic Anomaly
+  Field: Zealous Initiate[1/1], Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Zealous Initiate
+[Turn 3, Step 7] Agent: 공격 - Unstable Ghoul[2/4] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/4
+  Hand (6): Rumbletusk Shaker, Ozruk, SN1P-SN4P, Cosmic Anomaly, Wilfred Fizzlebang, Ancient Brewmaster
+  Field: Unstable Ghoul[2/4]
+Opponent: Rexxar HP: 27, Mana: 4/4
+  Hand (7)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 4, Step 10] Opponent: 카드 플레이 - Goblin Sapper (코스트: 3)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Bluegill Warrior
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (7): Rumbletusk Shaker, Ozruk, SN1P-SN4P, Wilfred Fizzlebang, Ancient Brewmaster, Doomed Apprentice, Prince Malchezaar
+  Field: Unstable Ghoul[2/4], Cosmic Anomaly[4/3]
+Opponent: Rexxar HP: 26, Mana: 6/6
+  Hand (7)
+  Field: Goblin Sapper[6/4]
+[Turn 6, Step 15] Agent: 공격 - Unstable Ghoul[2/4] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 6, Step 16] Opponent: 영웅 능력 사용
+[Turn 6, Step 16] Opponent: 공격 - Goblin Sapper[6/4] -> Unstable Ghoul
+[Turn 6, Step 16] Opponent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 6, Step 16] Opponent: 공격 - Hench-Clan Hogsteed[2/1] -> Cosmic Anomaly
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 18] Agent: 카드 플레이 - Prince Malchezaar (코스트: 5)
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (8): Rumbletusk Shaker, Ozruk, SN1P-SN4P, Wilfred Fizzlebang, Ancient Brewmaster, Doomed Apprentice, Prince Taldaram, Deranged Doctor
+  Field: Prince Malchezaar[5/6]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (7)
+  Field: Goblin Sapper[6/1], Hench-Clan Squire[1/1]
+[Turn 8, Step 20] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+[Turn 8, Step 21] Agent: 공격 - Prince Malchezaar[5/6] -> Goblin Sapper
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Netherspite Historian (코스트: 2)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (7): Rumbletusk Shaker, Ozruk, SN1P-SN4P, Wilfred Fizzlebang, Ancient Brewmaster, Prince Taldaram, Deranged Doctor
+  Field: Doomed Apprentice[3/2], Netherspite Historian[1/3]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (8)
+  Field: Hench-Clan Squire[1/1]
+[Turn 9, Step 25] Agent: 카드 플레이 - Wilfred Fizzlebang (코스트: 6)
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Crowd Roaster -> Wilfred Fizzlebang (코스트: 7)
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Netherspite Historian
+[Turn 10, Step 28] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 10, Step 29] Agent: 공격 - Netherspite Historian[1/2] -> Crowd Roaster
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/10
+  Hand (6): Ozruk, SN1P-SN4P, Ancient Brewmaster, Prince Taldaram, Deranged Doctor, Kathrena Winterwisp
+  Field: Doomed Apprentice[3/2], Rumbletusk Shaker[3/2]
+Opponent: Rexxar HP: 24, Mana: 3/10
+  Hand (8)
+  Field: Hench-Clan Squire[1/1], Crowd Roaster[7/3]
+[Turn 10, Step 30] Agent: 공격 - Doomed Apprentice[3/2] -> Crowd Roaster
+[Turn 10, Step 31] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> SN1P-SN4P
+[Turn 10, Step 34] Agent: 공격 - Rumbletusk Shaker[3/2] -> Hench-Clan Squire
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (6): Ozruk, Ancient Brewmaster, Prince Taldaram, Deranged Doctor, Kathrena Winterwisp, Mukla, Tyrant of the Vale
+  Field: Rumbletusk Shaker[3/1], SN1P-SN4P[2/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 카드 플레이 - Mukla, Tyrant of the Vale (코스트: 6)
+[Turn 10, Step 36] Agent: 공격 - SN1P-SN4P[2/2] -> Rexxar
+[Turn 10, Step 37] Agent: 카드 플레이 - Bananas -> Rumbletusk Shaker (코스트: 1)
+[Turn 10, Step 38] Agent: 카드 플레이 - Bananas -> Mukla, Tyrant of the Vale (코스트: 1)
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Sleepy Dragon (코스트: 9)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (6): Ozruk, Ancient Brewmaster, Prince Taldaram, Deranged Doctor, Kathrena Winterwisp, Shallow Gravedigger
+  Field: Rumbletusk Shaker[4/2], SN1P-SN4P[2/2], Mukla, Tyrant of the Vale[6/6]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (9)
+  Field: Sleepy Dragon[4/12]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> SN1P-SN4P
+[Turn 10, Step 41] Agent: 카드 플레이 - Prince Taldaram (코스트: 3)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 영웅 능력 사용
+[Turn 10, Step 42] Opponent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 10, Step 42] Opponent: 공격 - Sleepy Dragon[4/12] -> Prince Taldaram
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Mad Scientist[2/2] -> Sleepy Dragon
+[Turn 10, Step 44] Agent: 카드 플레이 - Ancient Brewmaster -> Rumbletusk Shaker (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (6): Ozruk, Deranged Doctor, Kathrena Winterwisp, Shallow Gravedigger, Bwonsamdi, the Dead, Rumbletusk Shaker
+  Field: SN1P-SN4P[2/1], Mukla, Tyrant of the Vale[6/6], Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 22, Mana: 4/10
+  Hand (9)
+  Field: Sleepy Dragon[4/7], Hecklebot[3/8]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 공격 - Mukla, Tyrant of the Vale[6/6] -> Sleepy Dragon
+[Turn 10, Step 47] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 10, Step 48] Agent: 공격 - Rumbletusk Shaker[3/2] -> Sleepy Dragon
+[Turn 10, Step 49] Agent: 공격 - SN1P-SN4P[2/1] -> Hecklebot
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (5): Ozruk, Deranged Doctor, Kathrena Winterwisp, Shallow Gravedigger, Bwonsamdi, the Dead
+  Field: Microbot[1/1], Microbot[1/1], Mukla, Tyrant of the Vale[6/2], Ancient Brewmaster[5/4], Rumbletusk Breaker[3/2]
+Opponent: Rexxar HP: 22, Mana: 4/10
+  Hand (9)
+  Field: Hecklebot[3/6]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Scrapyard Colossus (코스트: 10)
+[Turn 10, Step 50] Opponent: 공격 - Hecklebot[3/6] -> Mukla, Tyrant of the Vale
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 공격 - Rumbletusk Breaker[3/2] -> Scrapyard Colossus
+[Turn 10, Step 52] Agent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 카드 플레이 - Bwonsamdi, the Dead (코스트: 7)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (7): Ozruk, Deranged Doctor, Kathrena Winterwisp, Lightwarden, Ravencaller, Emerald Hive Queen, Skaterbot
+  Field: Microbot[1/1], Microbot[1/1], Ancient Brewmaster[5/4], Shallow Gravedigger[3/1], Bwonsamdi, the Dead[7/7]
+Opponent: Rexxar HP: 22, Mana: 7/10
+  Hand (9)
+  Field: Scrapyard Colossus[7/4], Giant Wasp[2/2]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Microbot
+[Turn 10, Step 56] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 57] Agent: 공격 - Microbot[1/1] -> Scrapyard Colossus
+[Turn 10, Step 58] Agent: 공격 - Shallow Gravedigger[3/1] -> Scrapyard Colossus
+[Turn 10, Step 59] Agent: 공격 - Ancient Brewmaster[5/4] -> Felcracked Colossus
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (7): Ozruk, Deranged Doctor, Kathrena Winterwisp, Lightwarden, Ravencaller, Skaterbot, Gilded Gargoyle
+  Field: Bwonsamdi, the Dead[7/7], Emerald Hive Queen[2/3]
+Opponent: Rexxar HP: 22, Mana: 7/10
+  Hand (9)
+  Field: Felcracked Colossus[7/2], Giant Wasp[2/2]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 60] Opponent: 공격 - Giant Wasp[2/2] -> Bwonsamdi, the Dead
+[Turn 10, Step 60] Opponent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 60] Opponent: 공격 - Felcracked Colossus[7/2] -> Emerald Hive Queen
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 62] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 10, Step 63] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 10, Step 64] Agent: 카드 플레이 - Gilded Gargoyle (코스트: 3)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (7): Lotus Agents, Ozruk, Deranged Doctor, Kathrena Winterwisp, Lightwarden, Helboar, Meanstreet Marshal
+  Field: Skaterbot[1/1], Ravencaller[2/1], Gilded Gargoyle[2/2]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (8)
+  Field: Sky Gen'ral Kragg[2/3], Imp[1/1], Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Mad Summoner[4/4] -> Ravencaller
+[Turn 10, Step 65] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 10, Step 65] Opponent: 공격 - Imp[1/1] -> Gilded Gargoyle
+[Turn 10, Step 65] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 65] Opponent: 공격 - Sky Gen'ral Kragg[2/3] -> Jaina Proudmoore
+[Turn 10, Step 65] Opponent: 공격 - Imp[1/1] -> Gilded Gargoyle
+[Turn 10, Step 65] Opponent: 영웅 능력 사용
+[Turn 10, Step 65] Opponent: 공격 - Imp[1/1] -> Skaterbot
+[Turn 10, Step 65] Opponent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 10, Step 65] Opponent: 공격 - Imp[1/1] -> Jaina Proudmoore
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 67] Agent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 68] Agent: 카드 플레이 - Helboar (코스트: 1)
+[Turn 10, Step 69] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 7/10
+  Hand (6): Lotus Agents, Ozruk, Deranged Doctor, Kathrena Winterwisp, Meanstreet Marshal, Deathwing, Dragonlord
+  Field: Lightwarden[1/2], Helboar[2/1]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Sky Gen'ral Kragg[2/3], Imp[1/1], Mad Summoner[4/2], Arcane Fletcher[3/3], Transfer Student[2/2]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Helboar[2/1] -> Sky Gen'ral Kragg
+[Turn 10, Step 72] Agent: 카드 플레이 - Bog Creeper (코스트: 7)
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Mountain Giant, Lotus Agents, Ozruk, Deranged Doctor, Kathrena Winterwisp, Meanstreet Marshal, Deathwing, Dragonlord
+  Field: Lightwarden[1/2], Bog Creeper[6/8]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (8)
+  Field: Sky Gen'ral Kragg[2/1], Imp[1/1], Mad Summoner[4/2], Arcane Fletcher[3/3], Transfer Student[2/2], Emperor Cobra[2/3]
+[Turn 10, Step 75] Agent: 카드 플레이 - Kathrena Winterwisp (코스트: 8)
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Bog Creeper
+[Turn 10, Step 77] Agent: 공격 - Lightwarden[1/2] -> Sky Gen'ral Kragg
+[Turn 10, Step 78] Agent: 공격 - Bog Creeper[6/7] -> Mad Summoner
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Mountain Giant, Lotus Agents, Ozruk, Deranged Doctor, Meanstreet Marshal, Deathwing, Dragonlord, Rotface
+  Field: Bog Creeper[6/3], Kathrena Winterwisp[6/6], Golden Scarab[2/2]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (9)
+  Field: Imp[1/1], Arcane Fletcher[3/3], Transfer Student[2/2], Emperor Cobra[2/3]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Imp
+[Turn 10, Step 81] Agent: 카드 플레이 - Mountain Giant (코스트: 6)
+[Turn 10, Step 82] Agent: 공격 - Kathrena Winterwisp[6/6] -> Arcane Fletcher
+[Turn 10, Step 83] Agent: 공격 - Bog Creeper[6/3] -> Rexxar
+[Turn 10, Step 84] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/10
+  Hand (6): Lotus Agents, Ozruk, Deranged Doctor, Meanstreet Marshal, Deathwing, Dragonlord, Rotface
+  Field: Bog Creeper[6/3], Kathrena Winterwisp[6/3], Golden Scarab[2/2], Mountain Giant[8/8]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (9)
+  Field: Transfer Student[2/2], Emperor Cobra[2/3]
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 카드 플레이 - Meteor -> Kathrena Winterwisp (코스트: 6)
+[Turn 10, Step 87] Agent: 공격 - Mountain Giant[8/8] -> Transfer Student
+[Turn 10, Step 88] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 89] Agent: 카드 플레이 - Meanstreet Marshal (코스트: 1)
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (5): Lotus Agents, Ozruk, Deranged Doctor, Deathwing, Dragonlord, Rotface
+  Field: Mountain Giant[8/6], Meanstreet Marshal[1/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Emperor Cobra[2/3]
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 10, Step 90] Opponent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 10, Step 90] Opponent: 선택 - Nagrand Slam
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 영웅 능력 사용 -> Meanstreet Marshal
+[Turn 10, Step 92] Agent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 영웅 능력 사용
+[Turn 10, Step 93] Opponent: 카드 플레이 - King of Beasts (코스트: 5)
+[Turn 10, Step 93] Opponent: 공격 - Arcane Dynamo[3/4] -> Wrathion
+[Turn 10, Step 93] Opponent: 공격 - Stegodon[2/6] -> Wrathion
+[Turn 10, Step 93] Opponent: 공격 - Emperor Cobra[2/3] -> Jaina Proudmoore
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 영웅 능력 사용 -> Mountain Giant
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (7): Lotus Agents, Ozruk, Deranged Doctor, Deathwing, Dragonlord, Rotface, Tuskarr Fisherman, Barista Lynchen
+  Field: Mountain Giant[8/5], Meanstreet Marshal[1/1]
+Opponent: Rexxar HP: 11, Mana: 3/10
+  Hand (9)
+  Field: Emperor Cobra[2/3], Stegodon[2/2], King of Beasts[5/6]
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 95] Opponent: 공격 - Emperor Cobra[2/3] -> Jaina Proudmoore
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 공격 - Meanstreet Marshal[1/1] -> King of Beasts
+[Turn 10, Step 97] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 98] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 10, Step 99] Agent: 카드 플레이 - Tuskarr Fisherman -> Unstable Ghoul (코스트: 2)
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 4/10
+  Hand (6): Lotus Agents, Ozruk, Deranged Doctor, Deathwing, Dragonlord, Rotface, Barista Lynchen
+  Field: Mountain Giant[8/5], Unstable Ghoul[1/3], Tuskarr Fisherman[2/3]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (9)
+  Field: Emperor Cobra[2/3], Stegodon[2/2], King of Beasts[5/5], Dragonhatcher[2/4]
+[Turn 10, Step 100] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 100] Opponent: 공격 - Dragonhatcher[2/4] -> Unstable Ghoul
+[Turn 10, Step 100] Opponent: 공격 - King of Beasts[5/5] -> Unstable Ghoul
+[Turn 10, Step 100] Opponent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 100] Opponent: 공격 - Emperor Cobra[2/2] -> Mountain Giant
+[Turn 10, Step 100] Opponent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 10, Step 100] Opponent: 공격 - Stegodon[2/1] -> Jaina Proudmoore
+[Turn 10, Step 100] Opponent: 턴 종료
+[Turn 10, Step 101] Agent: 공격 - Tuskarr Fisherman[2/2] -> Stegodon
+[Turn 10, Step 102] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 103] Agent: 카드 플레이 - Rotface (코스트: 8)
+[Turn 10, Step 104] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 104] Opponent: 공격 - King of Beasts[5/3] -> Rotface
+[Turn 10, Step 104] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (7): Lotus Agents, Ozruk, Deranged Doctor, Deathwing, Dragonlord, Barista Lynchen, Kodorider, Force-Tank MAX
+  Field: Rotface[4/1], Altruis the Outcast[4/2]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (9)
+  Field: Dragonhatcher[2/2], Holomancer[3/3], Rotface[1/1], Dalaran Crusader[5/4]
+[Turn 10, Step 105] Agent: 카드 플레이 - Deathwing, Dragonlord (코스트: 10)
+[Turn 10, Step 106] Agent: 공격 - Altruis the Outcast[4/2] -> Dragonhatcher
+[Turn 10, Step 107] Agent: 공격 - Rotface[4/1] -> Deathwing, Dragonlord
+[Turn 10, Step 108] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 108] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 10, Step 108] Opponent: 공격 - Dalaran Crusader[5/4] -> Subject 9
+[Turn 10, Step 108] Opponent: 공격 - Holomancer[3/3] -> Deathwing, Dragonlord
+[Turn 10, Step 108] Opponent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 10, Step 108] Opponent: 공격 - Rotface[1/1] -> Jaina Proudmoore
+[Turn 10, Step 108] Opponent: 카드 플레이 - Feign Death (코스트: 2)
+[Turn 10, Step 108] Opponent: 턴 종료
+[Turn 10, Step 109] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 109] Opponent: 카드 플레이 - Blazecaller (코스트: 7)
+[Turn 10, Step 109] Opponent: 공격 - Dalaran Crusader[5/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (6): Lotus Agents, Ozruk, Deranged Doctor, Barista Lynchen, Kodorider, Force-Tank MAX
+  Field: Deathwing, Dragonlord[12/9]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (6)
+  Field: Rotface[1/1], Dalaran Crusader[5/4], Cave Hydra[2/4], Gentle Megasaur[5/4], Blazecaller[6/6]
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (6): Lotus Agents, Ozruk, Deranged Doctor, Barista Lynchen, Kodorider, Force-Tank MAX
+  Field: Deathwing, Dragonlord[12/9]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (6)
+  Field: Rotface[1/1], Dalaran Crusader[5/4], Cave Hydra[2/4], Gentle Megasaur[5/4], Blazecaller[6/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

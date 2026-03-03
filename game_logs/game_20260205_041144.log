@@ -1,0 +1,276 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Acherus Veteran (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Ethereal Arcanist, Ruststeed Raider, Bloodsail Raider, Youthful Brewmaster
+  Field: Acherus Veteran[2/1], Ship's Cannon[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Acherus Veteran[2/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 공격 - Acherus Veteran[2/1] -> Vicious Fledgling
+[Turn 3, Step 8] Agent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 3, Step 9] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (4): Burly Rockjaw Trogg, Ethereal Arcanist, Ruststeed Raider, Youthful Brewmaster
+  Field: Ship's Cannon[2/3], Bloodsail Raider[2/3]
+Opponent: Rexxar HP: 24, Mana: 0/3
+  Hand (5)
+  Field: Vicious Fledgling[3/1]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 공격 - Bloodsail Raider[2/3] -> Rexxar
+[Turn 4, Step 12] Agent: 영웅 능력 사용 -> Bloodsail Raider
+[Turn 4, Step 13] Agent: 카드 플레이 - Youthful Brewmaster -> Ship's Cannon (코스트: 2)
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Acolyte of Pain[1/3] -> Bloodsail Raider
+[Turn 4, Step 14] Opponent: 공격 - Vicious Fledgling[3/1] -> Bloodsail Raider
+[Turn 4, Step 14] Opponent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (6): Burly Rockjaw Trogg, Ethereal Arcanist, Ruststeed Raider, Learn Draconic, Ship's Cannon, Southsea Deckhand
+  Field: Youthful Brewmaster[3/2]
+Opponent: Rexxar HP: 22, Mana: 1/5
+  Hand (6)
+  Field: Acolyte of Pain[1/1], Saronite Chain Gang[2/3], Saronite Chain Gang[2/3]
+[Turn 5, Step 15] Agent: 영웅 능력 사용 -> Youthful Brewmaster
+[Turn 5, Step 16] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 5, Step 17] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 5, Step 18] Agent: 공격 - Youthful Brewmaster[3/1] -> Saronite Chain Gang
+[Turn 5, Step 19] Agent: 공격 - Ship's Cannon[2/3] -> Saronite Chain Gang
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (4): Burly Rockjaw Trogg, Ethereal Arcanist, Ruststeed Raider, Southsea Deckhand
+  Field: Ship's Cannon[2/1]
+Opponent: Rexxar HP: 22, Mana: 1/5
+  Hand (6)
+  Field: Acolyte of Pain[1/1], Saronite Chain Gang[2/1]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 공격 - Saronite Chain Gang[2/1] -> Jaina Proudmoore
+[Turn 5, Step 20] Opponent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 5, Step 20] Opponent: 공격 - Acolyte of Pain[1/1] -> Ship's Cannon
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 6, Step 22] Agent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 6, Step 23] Opponent: 공격 - Al'ar[7/3] -> Southsea Deckhand
+[Turn 6, Step 23] Opponent: 영웅 능력 사용
+[Turn 6, Step 23] Opponent: 공격 - Saronite Chain Gang[2/1] -> Burly Rockjaw Trogg
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Ethereal Arcanist (코스트: 4)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/7
+  Hand (3): Ruststeed Raider, Chromatic Egg, Backroom Bouncer
+  Field: Ethereal Arcanist[3/3]
+Opponent: Rexxar HP: 22, Mana: 0/7
+  Hand (7)
+  Field: Al'ar[7/1], Bomb Lobber[3/3]
+[Turn 7, Step 25] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 공격 - Al'ar[7/1] -> Jaina Proudmoore
+[Turn 7, Step 26] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 공격 - Ethereal Arcanist[3/3] -> Rexxar
+[Turn 8, Step 28] Agent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 8, Step 29] Agent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/8
+  Hand (2): Ruststeed Raider, Chromatic Egg
+  Field: Ethereal Arcanist[3/1], Ice Cream Peddler[3/5], Backroom Bouncer[4/4]
+Opponent: Rexxar HP: 19, Mana: 6/8
+  Hand (7)
+  Field: Al'ar[7/1], Bomb Lobber[3/3]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 공격 - Bomb Lobber[3/3] -> Ice Cream Peddler
+[Turn 8, Step 30] Opponent: 영웅 능력 사용
+[Turn 8, Step 30] Opponent: 카드 플레이 - Corrosive Breath -> Ethereal Arcanist (코스트: 2)
+[Turn 8, Step 30] Opponent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 8, Step 30] Opponent: 공격 - Al'ar[7/1] -> Backroom Bouncer
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 공격 - Ice Cream Peddler[3/2] -> Ashes of Al'ar
+[Turn 9, Step 32] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 9, Step 33] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 9, Step 34] Agent: 공격 - Ruststeed Raider[5/8] -> Eydis Darkbane
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/9
+  Hand (1): Chromatic Egg
+  Field: Ice Cream Peddler[3/2], Ruststeed Raider[5/5], Infested Goblin[2/3]
+Opponent: Rexxar HP: 19, Mana: 2/9
+  Hand (6)
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 9, Step 35] Opponent: 영웅 능력 사용
+[Turn 9, Step 35] Opponent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Ruststeed Raider[1/5] -> Fencing Coach
+[Turn 10, Step 37] Agent: 공격 - Infested Goblin[2/3] -> Fencing Coach
+[Turn 10, Step 38] Agent: 공격 - Ice Cream Peddler[3/2] -> Dollmaster Dorian
+[Turn 10, Step 39] Agent: 카드 플레이 - Chromatic Egg (코스트: 5)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 5/10
+  Hand (1): Evolved Kobold
+  Field: Ruststeed Raider[1/3], Infested Goblin[2/1], Chromatic Egg[0/3]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (5)
+  Field: Dollmaster Dorian[2/3]
+[Turn 10, Step 40] Agent: 선택 - Dragonmaw Sky Stalker
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Dollmaster Dorian[2/3] -> Infested Goblin
+[Turn 10, Step 40] Opponent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Dreadscale (코스트: 3)
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Dreadscale
+[Turn 10, Step 42] Agent: 카드 플레이 - Evolved Kobold (코스트: 4)
+[Turn 10, Step 43] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 44] Agent: 카드 플레이 - Scarab (코스트: 1)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (1): Phantom Militia
+  Field: Ruststeed Raider[1/2], Chromatic Egg[0/2], Evolved Kobold[2/2], Scarab[1/1], Scarab[1/1]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (4)
+  Field: Barnes[3/3], Dreadscale[4/1]
+[Turn 10, Step 45] Agent: 공격 - Ruststeed Raider[1/2] -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 10, Step 46] Opponent: 공격 - Dreadscale[4/1] -> Ruststeed Raider
+[Turn 10, Step 46] Opponent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+[Turn 10, Step 46] Opponent: 공격 - Barnes[3/3] -> Scarab
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Tinkertown Technician
+[Turn 10, Step 49] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 5/10
+  Hand (2): Don Han'Cho, Phantom Militia
+  Field: Chromatic Egg[0/2], Evolved Kobold[2/2], Scarab[1/1], Phantom Militia[2/4]
+Opponent: Rexxar HP: 17, Mana: 4/10
+  Hand (3)
+  Field: Barnes[3/2], Stoneskin Gargoyle[1/4], Tinkertown Technician[3/2]
+[Turn 10, Step 50] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 51] Agent: 공격 - Evolved Kobold[2/2] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Barnes[3/2] -> Phantom Militia
+[Turn 10, Step 52] Opponent: 공격 - Tinkertown Technician[3/2] -> Phantom Militia
+[Turn 10, Step 52] Opponent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 52] Opponent: 공격 - Stoneskin Gargoyle[1/4] -> Scarab
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Phantom Militia[2/1] -> Stoneskin Gargoyle
+[Turn 10, Step 54] Agent: 공격 - Phantom Militia[2/1] -> Nozdormu
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (2): Don Han'Cho, Underbelly Ooze
+  Field: Chromatic Egg[0/2], Evolved Kobold[2/2]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (3)
+  Field: Stoneskin Gargoyle[1/1], Nozdormu[8/6]
+[Turn 10, Step 55] Agent: 공격 - Evolved Kobold[2/2] -> Stoneskin Gargoyle
+[Turn 10, Step 56] Agent: 카드 플레이 - Don Han'Cho (코스트: 7)
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 영웅 능력 사용
+[Turn 10, Step 58] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 58] Opponent: 공격 - Nozdormu[8/6] -> Dragonmaw Sky Stalker
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Don Han'Cho[5/6] -> Nozdormu
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (2): Underbelly Ooze, Kabal Courier
+  Field: Dragonrider[3/4]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (3)
+  Field: Twin Tyrant[4/10]
+[Turn 10, Step 60] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 10, Step 61] Agent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 10, Step 62] Agent: 선택 - Forgotten Torch
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Twin Tyrant[4/10] -> Dragonrider
+[Turn 10, Step 62] Opponent: 카드 플레이 - Dragonslayer -> Twin Tyrant (코스트: 3)
+[Turn 10, Step 62] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> War Golem
+[Turn 10, Step 64] Agent: 공격 - Kabal Courier[2/2] -> Dragonslayer
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (2): Forgotten Torch, Deck of Wonders
+  Field: Underbelly Ooze[8/10]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (2)
+  Field: Twin Tyrant[4/1], Dragonslayer[4/1], War Golem[7/6]
+[Turn 10, Step 65] Agent: 공격 - Underbelly Ooze[8/10] -> Dragonslayer
+[Turn 10, Step 66] Agent: 카드 플레이 - Forgotten Torch -> Jaina Proudmoore (코스트: 3)
+
+--- Game State (Turn 10, Step 67) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 5/10
+  Hand (1): Deck of Wonders
+  Field: Underbelly Ooze[8/6], Underbelly Ooze[8/6]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (2)
+  Field: Twin Tyrant[4/1], War Golem[7/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

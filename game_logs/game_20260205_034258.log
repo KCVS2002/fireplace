@@ -1,0 +1,274 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/2
+  Hand (5): Kobold Geomancer, Azalina Soulthief, Cult Master, Underbelly Ooze, Blackwald Pixie
+  Field: Shieldbearer[0/4]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 3, Step 7] Opponent: 영웅 능력 사용
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (7): Azalina Soulthief, Cult Master, Underbelly Ooze, Blackwald Pixie, Worgen Greaser, Waxadred, Cheaty Anklebiter
+  Field: Shieldbearer[0/4], Kobold Geomancer[2/2]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Walnut Sprite[3/3], Worgen Infiltrator[2/1], Tanaris Hogchopper[4/4]
+[Turn 5, Step 10] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Walnut Sprite
+[Turn 5, Step 12] Agent: 공격 - Kobold Geomancer[2/2] -> Tanaris Hogchopper
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+[Turn 5, Step 13] Opponent: 공격 - Worgen Infiltrator[2/1] -> Shieldbearer
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Cheaty Anklebiter -> Vicious Scalehide (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/6
+  Hand (6): Azalina Soulthief, Cult Master, Underbelly Ooze, Worgen Greaser, Waxadred, Harbinger Celestia
+  Field: Shieldbearer[0/2], Blackwald Pixie[3/4], Cheaty Anklebiter[2/1]
+Opponent: Rexxar HP: 29, Mana: 4/6
+  Hand (5)
+  Field: Walnut Sprite[3/2], Worgen Infiltrator[2/1], Tanaris Hogchopper[4/2], Vicious Scalehide[1/2]
+[Turn 6, Step 15] Agent: 공격 - Blackwald Pixie[3/4] -> Walnut Sprite
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Cheaty Anklebiter
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/7
+  Hand (6): Azalina Soulthief, Cult Master, Underbelly Ooze, Worgen Greaser, Waxadred, Harbinger Celestia
+  Field: Shieldbearer[0/2], Blackwald Pixie[3/1], Stargazer Luna[2/4]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (6)
+  Field: Worgen Infiltrator[2/1], Tanaris Hogchopper[4/2], Vicious Scalehide[1/2]
+[Turn 7, Step 20] Agent: 공격 - Blackwald Pixie[3/1] -> Vicious Scalehide
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 7, Step 21] Opponent: 공격 - Worgen Infiltrator[2/1] -> Shieldbearer
+[Turn 7, Step 21] Opponent: 공격 - Tanaris Hogchopper[4/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 8, Step 23] Agent: 카드 플레이 - Waxadred (코스트: 5)
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/8
+  Hand (6): Azalina Soulthief, Cult Master, Underbelly Ooze, Worgen Greaser, Harbinger Celestia, Skulking Geist
+  Field: Stargazer Luna[2/4], Waxadred[7/5]
+Opponent: Rexxar HP: 26, Mana: 2/8
+  Hand (6)
+  Field: Worgen Infiltrator[2/1], Tanaris Hogchopper[4/2], Ancient Harbinger[4/6]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 공격 - Ancient Harbinger[4/6] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 공격 - Tanaris Hogchopper[4/2] -> Waxadred
+[Turn 8, Step 25] Opponent: 카드 플레이 - Ramkahen Wildtamer (코스트: 3)
+[Turn 8, Step 25] Opponent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 8, Step 25] Opponent: 공격 - Worgen Infiltrator[2/1] -> Waxadred
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 27] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 9, Step 28] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - The Lich King (코스트: 8)
+[Turn 9, Step 29] Opponent: 공격 - Snapjaw Shellfighter[3/8] -> Jaina Proudmoore
+[Turn 9, Step 29] Opponent: 공격 - Ancient Harbinger[4/6] -> Stargazer Luna
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (8): Wicked Skeleton, Azalina Soulthief, Cult Master, Underbelly Ooze, Worgen Greaser, Harbinger Celestia, Skulking Geist, Sunkeeper Tarim
+  Field: Burgly Bully[4/6]
+Opponent: Rexxar HP: 24, Mana: 2/10
+  Hand (7)
+  Field: Ancient Harbinger[4/4], Ramkahen Wildtamer[4/3], Snapjaw Shellfighter[3/8], The Lich King[8/8]
+[Turn 10, Step 30] Agent: 카드 플레이 - Wicked Skeleton (코스트: 4)
+[Turn 10, Step 31] Agent: 카드 플레이 - Sunkeeper Tarim (코스트: 6)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Snapjaw Shellfighter[3/3] -> Sunkeeper Tarim
+[Turn 10, Step 32] Opponent: 공격 - The Lich King[3/3] -> Sunkeeper Tarim
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 공격 - Ancient Harbinger[3/3] -> Sunkeeper Tarim
+[Turn 10, Step 32] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 10, Step 32] Opponent: 공격 - Ramkahen Wildtamer[3/3] -> Burgly Bully
+[Turn 10, Step 32] Opponent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 10, Step 33] Opponent: 공격 - Kezan Mystic[4/3] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 3/10
+  Hand (8): Azalina Soulthief, Cult Master, Underbelly Ooze, Worgen Greaser, Harbinger Celestia, Skulking Geist, The Coin, Griftah
+  Field: Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 24, Mana: 3/10
+  Hand (8)
+  Field: Kezan Mystic[4/3], Azalina Soulthief[3/3]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Azalina Soulthief
+[Turn 10, Step 36] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 10, Step 37] Opponent: 공격 - Azalina Soulthief[3/2] -> Azalina Soulthief
+[Turn 10, Step 37] Opponent: 공격 - Kezan Mystic[4/3] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 10, Step 39] Agent: 카드 플레이 - Cult Master (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 0/10
+  Hand (6): Azalina Soulthief, Underbelly Ooze, Worgen Greaser, Harbinger Celestia, Griftah, Rotten Applebaum
+  Field: Skulking Geist[4/6], Cult Master[4/2]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (5)
+  Field: Kezan Mystic[4/3], Worgen Greaser[6/3], Living Dragonbreath[3/4], Skulking Geist[4/6]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Skulking Geist[4/6] -> Cult Master
+[Turn 10, Step 40] Opponent: 공격 - Worgen Greaser[6/3] -> Skulking Geist
+[Turn 10, Step 40] Opponent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 10, Step 40] Opponent: 선택 - Dread Raven
+[Turn 10, Step 40] Opponent: 선택 - Golden Scarab
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 10, Step 42] Agent: 선택 - Bloodsail Corsair
+[Turn 10, Step 42] Agent: 선택 - Arcane Watcher
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Griftah[4/5] -> Griftah
+[Turn 10, Step 44] Agent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (8): Azalina Soulthief, Underbelly Ooze, Worgen Greaser, Harbinger Celestia, Rotten Applebaum, Dread Raven, Bloodsail Corsair, Colossus of the Moon
+  Field: Griftah[4/1], Millhouse Manastorm[4/4]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (8)
+  Field: Kezan Mystic[4/3], Living Dragonbreath[3/4], Skulking Geist[4/2], Griftah[4/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 46] Agent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 10, Step 47] Opponent: 선택 - Rattling Rascal
+[Turn 10, Step 47] Opponent: 공격 - Skulking Geist[4/2] -> Golden Scarab
+[Turn 10, Step 47] Opponent: 공격 - Griftah[4/1] -> Worgen Greaser
+[Turn 10, Step 47] Opponent: 공격 - Living Dragonbreath[3/4] -> Griftah
+[Turn 10, Step 47] Opponent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 10, Step 47] Opponent: 공격 - Kezan Mystic[4/3] -> Millhouse Manastorm
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Rotten Applebaum (코스트: 5)
+[Turn 10, Step 49] Agent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 0/10
+  Hand (5): Azalina Soulthief, Underbelly Ooze, Dread Raven, Bloodsail Corsair, Colossus of the Moon
+  Field: Rotten Applebaum[4/5], Spiked Hogrider[5/5]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (6)
+  Field: Golden Scarab[2/2], Azalina Soulthief[3/3]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Rotten Applebaum (코스트: 5)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 10, Step 50] Opponent: 공격 - Golden Scarab[2/2] -> Rotten Applebaum
+[Turn 10, Step 50] Opponent: 공격 - Azalina Soulthief[3/3] -> Rotten Applebaum
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 5, Step 53] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 54] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+
+--- Game State (Turn 5, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 1/5
+  Hand (5): Azalina Soulthief, Underbelly Ooze, Dread Raven, Colossus of the Moon, Wee Spellstopper
+  Field: Spiked Hogrider[5/5], Mojomaster Zihi[5/5], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 23, Mana: 3/5
+  Hand (4)
+  Field: Dread Raven[6/4], Rotten Applebaum[4/5], Bloodsail Corsair[1/2], Underbelly Ooze[3/5]
+[Turn 5, Step 55] Agent: 공격 - Spiked Hogrider[5/5] -> Rotten Applebaum
+[Turn 5, Step 56] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 56] Opponent: 공격 - Dread Raven[6/4] -> Jaina Proudmoore
+[Turn 5, Step 56] Opponent: 공격 - Underbelly Ooze[3/5] -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 57) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/5
+  Hand (5): Azalina Soulthief, Underbelly Ooze, Dread Raven, Colossus of the Moon, Wee Spellstopper
+  Field: Spiked Hogrider[5/1], Mojomaster Zihi[5/5], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (5)
+  Field: Dread Raven[6/4], Bloodsail Corsair[1/2], Underbelly Ooze[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

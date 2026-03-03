@@ -1,0 +1,360 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 2, Step 3] Agent: 선택 - Deep Freeze
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Shaky Zipgunner (코스트: 3)
+[Turn 2, Step 4] Opponent: 공격 - Rustsworn Initiate[2/2] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (7): Blubber Baron, Hungry Crab, Raid Leader, Effigy, Hungry Dragon, Deep Freeze, Pterrordax Hatchling
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Rustsworn Initiate[2/2], Shaky Zipgunner[3/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Lance Carrier -> Rustsworn Initiate (코스트: 2)
+[Turn 3, Step 7] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 3, Step 7] Opponent: 공격 - Rustsworn Initiate[4/2] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 공격 - Shaky Zipgunner[3/3] -> Hungry Crab
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+[Turn 4, Step 9] Agent: 선택 - Shrouding Mist
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/4
+  Hand (5): Blubber Baron, Raid Leader, Effigy, Hungry Dragon, Deep Freeze
+  Field: Pterrordax Hatchling[2/2], Shieldbearer[0/4]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (3)
+  Field: Rustsworn Initiate[4/2], Shaky Zipgunner[3/2], Lance Carrier[1/2], Stubborn Gastropod[1/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Stubborn Gastropod[1/2] -> Shieldbearer
+[Turn 4, Step 10] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 4, Step 10] Opponent: 공격 - Lance Carrier[1/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 공격 - Rustsworn Initiate[4/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 공격 - Shaky Zipgunner[3/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(59) → 14로 보정
+[Turn 5, Step 11] Agent: 공격 - Pterrordax Hatchling[2/2] -> Stubborn Gastropod
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Hungry Dragon (코스트: 4)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 공격 - Mistress of Mixtures[2/2] -> Jaina Proudmoore
+[Turn 5, Step 13] Opponent: 공격 - Shaky Zipgunner[3/2] -> Hungry Dragon
+[Turn 5, Step 13] Opponent: 공격 - Rustsworn Initiate[4/2] -> Hungry Dragon
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(46) → 12로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 4/6
+  Hand (6): Nerubian Unraveler, Cryomancer, Blubber Baron, Raid Leader, Effigy, Deep Freeze
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (4)
+  Field: Impcaster[1/1], Mistress of Mixtures[2/2], Lance Carrier[1/2], Living Dragonbreath[3/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Lance Carrier[1/2] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 공격 - Mistress of Mixtures[2/2] -> Raid Leader
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(55) → 4로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Effigy (코스트: 3)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Living Dragonbreath
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Ray of Frost -> Living Dragonbreath (코스트: 1)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/7
+  Hand (5): Nerubian Unraveler, Cryomancer, Blubber Baron, Deep Freeze, Ray of Frost
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (5)
+  Field: Impcaster[1/1], Lance Carrier[1/2], Living Dragonbreath[3/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Vilebrood Skitterer (코스트: 5)
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 공격 - Lance Carrier[1/2] -> Jaina Proudmoore
+[Turn 7, Step 20] Opponent: 공격 - Impcaster[1/1] -> Jaina Proudmoore
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Ray of Frost -> Impcaster (코스트: 1)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Impcaster
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Deep Freeze -> Lance Carrier (코스트: 6)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/9
+  Hand (5): Nerubian Unraveler, Cryomancer, Blubber Baron, Lowly Squire, Electrowright
+  Field: Water Elemental[3/6], Water Elemental[3/6]
+Opponent: Rexxar HP: 30, Mana: 9/9
+  Hand (6)
+  Field: Lance Carrier[1/2], Living Dragonbreath[3/3], Vilebrood Skitterer[1/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(50) → 19로 보정
+[Turn 10, Step 27] Agent: 공격 - Water Elemental[3/6] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Icicle -> Lance Carrier (코스트: 2)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(70) → 16로 보정
+[Turn 10, Step 29] Agent: 공격 - Lowly Squire[1/2] -> Living Dragonbreath
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (4): Nerubian Unraveler, Cryomancer, Blubber Baron, Electrowright
+  Field: Water Elemental[3/6], Water Elemental[3/6]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (7)
+  Field: Living Dragonbreath[3/2], Vilebrood Skitterer[1/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(91) → 7로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Living Dragonbreath
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Electrowright (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 33] Agent: 공격 - Water Elemental[3/6] -> Living Dragonbreath
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (3): Nerubian Unraveler, Cryomancer, Tortollan Pilgrim
+  Field: Water Elemental[3/6], Water Elemental[3/3], Electrowright[3/3], Blubber Baron[5/5]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (8)
+  Field: Vilebrood Skitterer[1/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Water Elemental
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(80) → 5로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 37] Agent: 공격 - Electrowright[3/3] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 10, Step 38] Agent: 공격 - Blubber Baron[5/5] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 10, Step 39] Agent: 공격 - Deathaxe Punisher[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (4): Nerubian Unraveler, Cryomancer, Tortollan Pilgrim, Gnomish Inventor
+  Field: Water Elemental[3/3], Electrowright[3/3], Blubber Baron[5/5], Deathaxe Punisher[3/3]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 10, Step 40] Agent: 공격 - Water Elemental[3/3] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(9) → 4로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Gnomish Inventor (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 10, Step 42] Opponent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Electrowright[3/3] -> Argent Squire
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(70) → 16로 보정
+[Turn 10, Step 44] Agent: 공격 - Water Elemental[3/3] -> Azerite Elemental
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Nerubian Unraveler, Cryomancer, Tortollan Pilgrim, Whirlwind Tempest, Starscryer
+  Field: Water Elemental[3/1], Electrowright[3/2], Blubber Baron[5/5], Deathaxe Punisher[3/3], Gnomish Inventor[2/4]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (8)
+  Field: Azerite Elemental[2/4], Argent Squire[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(31) → 7로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(85) → 8로 보정
+[Turn 10, Step 47] Agent: 공격 - Gnomish Inventor[2/4] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 48] Agent: 공격 - Blubber Baron[5/5] -> Argent Squire
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 49] Agent: 공격 - Deathaxe Punisher[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (4): Cryomancer, Tortollan Pilgrim, Whirlwind Tempest, Starscryer
+  Field: Water Elemental[3/1], Electrowright[3/2], Blubber Baron[5/4], Deathaxe Punisher[3/3], Gnomish Inventor[2/4], Nerubian Unraveler[5/5]
+Opponent: Rexxar HP: 7, Mana: 4/10
+  Hand (8)
+  Field: Azerite Elemental[2/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+[Turn 10, Step 51] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Nerubian Unraveler
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(65) → 7로 보정
+[Turn 10, Step 53] Agent: 공격 - Electrowright[3/2] -> Maexxna
+[Turn 10, Step 54] Agent: 카드 플레이 - Archmage Vargoth (코스트: 4)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 4/10
+  Hand (3): Cryomancer, Tortollan Pilgrim, Whirlwind Tempest
+  Field: Water Elemental[3/1], Blubber Baron[5/4], Deathaxe Punisher[3/3], Gnomish Inventor[2/4], Nerubian Unraveler[5/4], Starscryer[3/1], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (7)
+  Field: Azerite Elemental[2/4], Maexxna[2/5], Dire Mole[1/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(45) → 20로 보정
+[Turn 10, Step 55] Agent: 공격 - Nerubian Unraveler[5/4] -> Dire Mole
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Flying Machine (코스트: 3)
+[Turn 10, Step 56] Opponent: 공격 - Maexxna[2/5] -> Gnomish Inventor
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Starscryer[3/1] -> Azerite Elemental
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(97) → 25로 보정
+[Turn 10, Step 58] Agent: 공격 - Deathaxe Punisher[3/3] -> Azerite Elemental
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Cryomancer (코스트: 5)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 5/10
+  Hand (4): Mana Bind, Tortollan Pilgrim, Whirlwind Tempest, Xavius
+  Field: Water Elemental[3/1], Blubber Baron[5/4], Deathaxe Punisher[3/1], Nerubian Unraveler[5/3], Archmage Vargoth[2/6], Cryomancer[5/5]
+Opponent: Rexxar HP: 7, Mana: 7/10
+  Hand (7)
+  Field: Maexxna[2/3], Flying Machine[3/6]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(68) → 20로 보정
+[Turn 10, Step 60] Agent: 공격 - Nerubian Unraveler[5/3] -> Flying Machine
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Cryomancer
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(65) → 10로 보정
+[Turn 10, Step 62] Agent: 공격 - Archmage Vargoth[2/6] -> Flying Machine
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(29) → 5로 보정
+[Turn 10, Step 63] Agent: 공격 - Blubber Baron[5/4] -> Maexxna
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Mana Bind (코스트: 3)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 0/10
+  Hand (3): Tortollan Pilgrim, Whirlwind Tempest, Xavius
+  Field: Water Elemental[3/1], Deathaxe Punisher[3/1], Archmage Vargoth[2/3], Cryomancer[5/4]
+Opponent: Rexxar HP: 7, Mana: 7/10
+  Hand (7)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 10, Step 66] Agent: 공격 - Archmage Vargoth[2/3] -> Wing Commander
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 67] Agent: 공격 - Cryomancer[5/4] -> Rexxar
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(58) → 10로 보정
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Cryomancer
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Tortollan Pilgrim (코스트: 8)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 0/10
+  Hand (3): Whirlwind Tempest, Xavius, Dire Mole
+  Field: Water Elemental[3/1], Deathaxe Punisher[3/1], Archmage Vargoth[2/1], Cryomancer[5/3], Tortollan Pilgrim[5/5]
+Opponent: Rexxar HP: 2, Mana: 6/10
+  Hand (7)
+  Field: Wing Commander[2/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 70] Agent: 공격 - Deathaxe Punisher[3/1] -> Wing Commander
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Clockwork Giant (코스트: 9)
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Tortollan Pilgrim
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 10, Step 73] Agent: 공격 - Water Elemental[3/1] -> Clockwork Giant
+[Turn 10, Step 74] Agent: 공격 - Archmage Vargoth[2/1] -> Clockwork Giant
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (4): Whirlwind Tempest, Xavius, Dire Mole, Bull Dozer
+  Field: Cryomancer[5/3], Tortollan Pilgrim[5/4]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (7)
+  Field: Clockwork Giant[8/3]
+[Turn 10, Step 75] Agent: 공격 - Tortollan Pilgrim[5/4] -> Clockwork Giant
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 10, Step 76] Agent: 공격 - Cryomancer[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 77) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (4): Whirlwind Tempest, Xavius, Dire Mole, Bull Dozer
+  Field: Cryomancer[5/3]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

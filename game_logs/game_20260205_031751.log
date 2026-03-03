@@ -1,0 +1,219 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Crazed Alchemist (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 2, Step 1] Opponent: 공격 - Crazed Alchemist[2/2] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 공격 - Crazed Alchemist[2/2] -> Jaina Proudmoore
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/4
+  Hand (7): Bonemare, Cauldron Elemental, Ruststeed Raider, Aya Blackpaw, C'Thun's Chosen, Explosive Runes, Hozen Healer
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (5)
+  Field: Crazed Alchemist[2/2], Explosive Sheep[1/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 4, Step 5] Opponent: 공격 - Crazed Alchemist[2/2] -> Jaina Proudmoore
+[Turn 4, Step 5] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 5, Step 7] Agent: 공격 - Ruststeed Raider[5/8] -> Crazed Alchemist
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Flanking Strike -> Desert Hare (코스트: 4)
+[Turn 5, Step 8] Opponent: 공격 - Desert Hare[1/1] -> Ruststeed Raider
+[Turn 5, Step 8] Opponent: 공격 - Desert Hare[1/1] -> Ruststeed Raider
+[Turn 5, Step 8] Opponent: 공격 - Explosive Sheep[1/1] -> Ruststeed Raider
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - Hozen Healer -> Wolf (코스트: 4)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/6
+  Hand (7): Bonemare, Cauldron Elemental, Aya Blackpaw, C'Thun's Chosen, Explosive Runes, Angry Chicken, Spellweaver
+  Field: Ruststeed Raider[1/1], Hozen Healer[2/6]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Wolf[3/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 6, Step 11] Agent: 공격 - Ruststeed Raider[1/1] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Ruststeed Raider
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/7
+  Hand (7): Bonemare, Cauldron Elemental, Aya Blackpaw, C'Thun's Chosen, Explosive Runes, Spellweaver, Polymorph: Boar
+  Field: Hozen Healer[2/6], Angry Chicken[1/1]
+Opponent: Rexxar HP: 28, Mana: 6/6
+  Hand (6)
+  Field: Wolf[3/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 7, Step 15] Agent: 공격 - Hozen Healer[2/6] -> Wolf
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Polymorph: Boar -> Wolf (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/8
+  Hand (5): Bonemare, Cauldron Elemental, Aya Blackpaw, Spellweaver, Illuminator
+  Field: Hozen Healer[2/3], Angry Chicken[1/1], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (7)
+  Field: Boar[4/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 8, Step 20] Agent: 공격 - Hozen Healer[2/3] -> Boar
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 8, Step 21] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (6): Bonemare, Cauldron Elemental, Spellweaver, Illuminator, Flamecannon, Wyrmrest Purifier
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Aya Blackpaw[5/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 25, Mana: 3/9
+  Hand (8)
+  Field: Keeper of Uldaman[3/4]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(91) → 16로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용 -> Keeper of Uldaman
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Cauldron Elemental (코스트: 8)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 27] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 28] Agent: 공격 - Aya Blackpaw[5/3] -> Keeper of Uldaman
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 10, Step 29] Agent: 공격 - Jade Golem[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (5): Bonemare, Spellweaver, Illuminator, Flamecannon, Wyrmrest Purifier
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Jade Golem[2/2], Jade Golem[1/1], Cauldron Elemental[7/7]
+Opponent: Rexxar HP: 23, Mana: 3/9
+  Hand (8)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 10, Step 30] Agent: 공격 - C'Thun's Chosen[4/2] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(96) → 8로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(83) → 14로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jade Golem
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (4): Bonemare, Spellweaver, Illuminator, Flamecannon
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Jade Golem[2/2], Cauldron Elemental[7/7], Wyrmrest Purifier[3/2], Volatile Elemental[3/1]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 35] Agent: 공격 - Jade Golem[2/2] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 37] Agent: 공격 - C'Thun's Chosen[4/2] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (4): Bonemare, Spellweaver, Flamecannon, Rhonin
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Jade Golem[2/2], Cauldron Elemental[7/7], Wyrmrest Purifier[3/2], Volatile Elemental[3/1], Illuminator[2/4]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(25) → 8로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Volatile Elemental
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Bonemare -> Cauldron Elemental (코스트: 8)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(52) → 3로 보정
+[Turn 10, Step 42] Agent: 공격 - Jade Golem[2/2] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 43] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 10, Step 44] Agent: 공격 - Wyrmrest Purifier[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (3): Spellweaver, Flamecannon, Rhonin
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Jade Golem[2/2], Cauldron Elemental[11/11], Wyrmrest Purifier[3/2], Illuminator[2/4], Bonemare[5/5]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Cauldron Elemental[11/11] -> Rexxar
+
+--- Game State (Turn 10, Step 46) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (3): Spellweaver, Flamecannon, Rhonin
+  Field: Angry Chicken[1/1], C'Thun's Chosen[4/2], Jade Golem[2/2], Cauldron Elemental[11/11], Wyrmrest Purifier[3/2], Illuminator[2/4], Bonemare[5/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

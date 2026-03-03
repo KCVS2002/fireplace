@@ -1,0 +1,322 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (6): Kobold Apprentice, Friendly Bartender, Explodinator, Bomb Lobber, Madam Goya, Chenvaala
+  Field: Nerub'ar Weblord[1/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 3, Step 5] Opponent: 선택 - Pack Tactics
+[Turn 3, Step 5] Opponent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Chenvaala (코스트: 3)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(95) → 1로 보정
+[Turn 4, Step 7] Agent: 공격 - Nerub'ar Weblord[1/4] -> Squirming Tentacle
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (6): Kobold Apprentice, Friendly Bartender, Explodinator, Bomb Lobber, Madam Goya, Arcane Flakmage
+  Field: Nerub'ar Weblord[1/2], Chenvaala[2/5], Murloc Tastyfin[3/2]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Squirming Tentacle[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 5, Step 10] Agent: 공격 - Nerub'ar Weblord[1/2] -> Squirming Tentacle
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 5, Step 11] Agent: 공격 - Chenvaala[2/5] -> Squirming Tentacle
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Arcane Flakmage (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/6
+  Hand (5): Kobold Apprentice, Friendly Bartender, Explodinator, Bomb Lobber, Madam Goya
+  Field: Chenvaala[2/3], Murloc Tastyfin[3/2], Argent Horserider[2/1], Arcane Flakmage[3/2]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (8)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(30) → 11로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(50) → 5로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 7, Step 19] Agent: 공격 - Chenvaala[2/3] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/7
+  Hand (5): Kobold Apprentice, Friendly Bartender, Explodinator, Bomb Lobber, Madam Goya
+  Field: Chenvaala[2/3], Murloc Tastyfin[3/2], Argent Horserider[2/1], Arcane Flakmage[3/2], Psych-o-Tron[3/4]
+Opponent: Rexxar HP: 25, Mana: 7/7
+  Hand (9)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 7, Step 20] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(66) → 20로 보정
+[Turn 8, Step 22] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+[Turn 8, Step 23] Agent: 카드 플레이 - Madam Goya -> Arcane Flakmage (코스트: 6)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(14) → 1로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Friendly Bartender (코스트: 2)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/8
+  Hand (4): Kobold Apprentice, Explodinator, Bomb Lobber, Maiden of the Lake
+  Field: Chenvaala[2/3], Murloc Tastyfin[3/2], Argent Horserider[2/1], Twisted Worgen[3/1], Psych-o-Tron[3/4], Madam Goya[4/3], Friendly Bartender[2/3]
+Opponent: Rexxar HP: 20, Mana: 8/8
+  Hand (10)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 8, Step 25] Agent: 공격 - Murloc Tastyfin[3/2] -> Rexxar
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(74) → 6로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Psych-o-Tron
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 9, Step 28] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Animal Companion (코스트: 3)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (6): Kobold Apprentice, Explodinator, Bomb Lobber, Maiden of the Lake, Firetree Witchdoctor, Mini-Mage
+  Field: Chenvaala[2/3], Murloc Tastyfin[3/2], Argent Horserider[2/1], Twisted Worgen[3/1], Psych-o-Tron[3/4], Madam Goya[4/3], Friendly Bartender[2/3]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (8)
+  Field: Leokk[3/5], Stormwind Champion[7/6]
+[Turn 10, Step 30] Agent: 공격 - Chenvaala[2/3] -> Stormwind Champion
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(80) → 10로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Argent Horserider
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+[Turn 10, Step 33] Agent: 공격 - Argent Horserider[2/1] -> Stormwind Champion
+[Turn 10, Step 34] Agent: 공격 - Madam Goya[4/3] -> Stormwind Champion
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (5): Kobold Apprentice, Explodinator, Bomb Lobber, Firetree Witchdoctor, Mini-Mage
+  Field: Murloc Tastyfin[3/2], Twisted Worgen[3/1], Psych-o-Tron[3/4], Friendly Bartender[2/3], Maiden of the Lake[2/6]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (8)
+  Field: Leokk[2/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(19) → 6로 보정
+[Turn 10, Step 35] Agent: 공격 - Murloc Tastyfin[3/2] -> Leokk
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Twisted Worgen[3/1] -> Leokk
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(24) → 9로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Psych-o-Tron
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 39] Agent: 공격 - Psych-o-Tron[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 9/10
+  Hand (6): Kobold Apprentice, Explodinator, Bomb Lobber, Firetree Witchdoctor, Mini-Mage, Sen'jin Shieldmasta
+  Field: Psych-o-Tron[3/3], Friendly Bartender[2/3], Maiden of the Lake[2/6]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 40] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 42] Opponent: 카드 플레이 - Fungalmancer (코스트: 5)
+[Turn 10, Step 42] Opponent: 영웅 능력 사용
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Kobold Apprentice (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/10
+  Hand (6): Explodinator, Firetree Witchdoctor, Mini-Mage, Sen'jin Shieldmasta, Blackwing Technician, Big Bad Archmage
+  Field: Kobold Apprentice[2/1]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Silent Knight (코스트: 3)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 10, Step 47] Agent: 공격 - Kobold Apprentice[2/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Firetree Witchdoctor (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/10
+  Hand (5): Mini-Mage, Sen'jin Shieldmasta, Blackwing Technician, Big Bad Archmage, Spitting Camel
+  Field: Kobold Apprentice[2/1], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2], Firetree Witchdoctor[2/2]
+Opponent: Rexxar HP: 7, Mana: 5/10
+  Hand (8)
+  Field: Silent Knight[2/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Disciple of C'Thun -> Firetree Witchdoctor (코스트: 3)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 10, Step 50] Opponent: 공격 - Silent Knight[2/2] -> Jaina Proudmoore
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 카드 플레이 - Terrorscale Stalker (코스트: 3)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(89) → 8로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(23) → 7로 보정
+[Turn 10, Step 52] Agent: 공격 - Kobold Apprentice[2/1] -> Silent Knight
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 10, Step 54] Agent: 공격 - Explodinator[3/2] -> Upgradeable Framebot
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (5): Mini-Mage, Sen'jin Shieldmasta, Blackwing Technician, Big Bad Archmage, Prince Valanar
+  Field: Goblin Bomb[0/2], Explodinator[3/1], Goblin Bomb[0/2], Spitting Camel[2/4]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (6)
+  Field: Silent Knight[2/2], Disciple of C'Thun[2/1], Upgradeable Framebot[1/2], Terrorscale Stalker[3/3], Silent Knight[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Spitting Camel[2/4] -> Rexxar
+[Turn 10, Step 58] Agent: 공격 - Mini-Mage[4/1] -> Terrorscale Stalker
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(88) → 13로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Silent Knight
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Sen'jin Shieldmasta, Blackwing Technician, Big Bad Archmage, Prince Valanar, Dalaran Crusader
+  Field: Goblin Bomb[0/2], Goblin Bomb[0/2], Spitting Camel[2/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (7)
+  Field: Silent Knight[2/2], Disciple of C'Thun[2/1], Upgradeable Framebot[1/2], Silent Knight[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 공격 - Blackwing Technician[2/4] -> Upgradeable Framebot
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(91) → 22로 보정
+[Turn 10, Step 64] Agent: 공격 - Dalaran Crusader[5/4] -> Silent Knight
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (4): Sen'jin Shieldmasta, Big Bad Archmage, Prince Valanar, Tome of Intellect
+  Field: Goblin Bomb[0/2], Goblin Bomb[0/1], Spitting Camel[2/4], Blackwing Technician[2/3], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (8)
+  Field: Silent Knight[2/2], Disciple of C'Thun[2/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(84) → 16로 보정
+[Turn 10, Step 65] Agent: 공격 - Spitting Camel[2/4] -> Disciple of C'Thun
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Tome of Intellect (코스트: 1)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(22) → 3로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Firelands Portal -> Jaina Proudmoore (코스트: 7)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(18) → 6로 보정
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Spitting Camel
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Tortollan Primalist (코스트: 8)
+[Turn 10, Step 69] Opponent: 선택 - Call Pet
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Sen'jin Shieldmasta, Big Bad Archmage, Prince Valanar, Burrowing Scorpid
+  Field: Goblin Bomb[0/2], Spitting Camel[2/1], Blackwing Technician[2/3], Dalaran Crusader[5/4], Tundra Rhino[2/5]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (9)
+  Field: Silent Knight[2/2], Tortollan Primalist[5/4]
+[Turn 10, Step 70] Agent: 공격 - Blackwing Technician[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 71) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Sen'jin Shieldmasta, Big Bad Archmage, Prince Valanar, Burrowing Scorpid
+  Field: Goblin Bomb[0/2], Spitting Camel[2/1], Blackwing Technician[2/3], Dalaran Crusader[5/4], Tundra Rhino[2/5]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (9)
+  Field: Silent Knight[2/2], Tortollan Primalist[5/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

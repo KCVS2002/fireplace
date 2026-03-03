@@ -1,0 +1,367 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 2, Step 4] Agent: 공격 - Arcane Anomaly[2/2] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/2
+  Hand (5): Belligerent Gnome, Witch's Cauldron, Mana Bind, Cone of Cold, Madam Goya
+  Field: Arcane Anomaly[2/2]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/4
+  Hand (6): Belligerent Gnome, Mana Bind, Cone of Cold, Madam Goya, Mana Cyclone, Patches the Pirate
+  Field: Arcane Anomaly[2/2], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+  Field: Fencing Coach[2/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 4, Step 10] Agent: 공격 - Arcane Anomaly[2/2] -> Rexxar
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 4, Step 11] Agent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 공격 - Fencing Coach[2/2] -> Arcane Anomaly
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 5, Step 13] Opponent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(25) → 9로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Madder Bomber (코스트: 5)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (6): Linecracker, Belligerent Gnome, Mana Bind, Cone of Cold, Madam Goya, Mana Cyclone
+  Field: Witch's Cauldron[0/3], Madder Bomber[5/4]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (6)
+  Field: Arcane Nullifier X-21[2/4], Rustsworn Initiate[2/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Rustsworn Initiate[2/1] -> Witch's Cauldron
+[Turn 6, Step 15] Opponent: 카드 플레이 - Hozen Healer -> Rustsworn Initiate (코스트: 4)
+[Turn 6, Step 15] Opponent: 공격 - Arcane Nullifier X-21[2/4] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Mana Bind (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(74) → 10로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Lance Carrier -> Witch's Cauldron (코스트: 2)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 7, Step 19] Agent: 공격 - Madder Bomber[5/4] -> Arcane Nullifier X-21
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/7
+  Hand (5): Linecracker, Belligerent Gnome, Cone of Cold, Madam Goya, Mana Cyclone
+  Field: Witch's Cauldron[2/1], Madder Bomber[5/2], Lance Carrier[1/2]
+Opponent: Rexxar HP: 22, Mana: 1/7
+  Hand (6)
+  Field: Rustsworn Initiate[2/2], Hozen Healer[2/6]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 7, Step 20] Agent: 공격 - Witch's Cauldron[2/1] -> Hozen Healer
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 7, Step 21] Opponent: 공격 - Hozen Healer[2/4] -> Madder Bomber
+[Turn 7, Step 21] Opponent: 공격 - Rustsworn Initiate[2/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(89) → 20로 보정
+[Turn 8, Step 22] Agent: 공격 - Lance Carrier[1/2] -> Skyfin
+[Turn 8, Step 23] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(28) → 13로 보정
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Grimscale Chum
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/8
+  Hand (5): Linecracker, Cone of Cold, Madam Goya, Mana Cyclone, Skycap'n Kragg
+  Field: Belligerent Gnome[2/4]
+Opponent: Rexxar HP: 22, Mana: 1/8
+  Hand (6)
+  Field: Rustsworn Initiate[2/2], Skyfin[5/2], Murloc Warleader[3/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Cone of Cold -> Rustsworn Initiate (코스트: 4)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(75) → 11로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Belligerent Gnome
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 9, Step 28] Agent: 공격 - Belligerent Gnome[2/3] -> Rustsworn Initiate
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/9
+  Hand (4): Linecracker, Madam Goya, Mana Cyclone, Skycap'n Kragg
+  Field: Belligerent Gnome[2/1], Devoted Maniac[2/2]
+Opponent: Rexxar HP: 22, Mana: 9/9
+  Hand (7)
+  Field: Impcaster[1/1], Skyfin[5/1], Murloc Warleader[3/3]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Linecracker (코스트: 7)
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Murloc Warleader
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Impcaster[1/1] -> Belligerent Gnome
+[Turn 10, Step 33] Opponent: 카드 플레이 - Book Wyrm -> Devoted Maniac (코스트: 6)
+[Turn 10, Step 33] Opponent: 공격 - Skyfin[5/1] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(86) → 6로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (5): Madam Goya, Mana Cyclone, Skycap'n Kragg, Sky Gen'ral Kragg, Igneous Elemental
+  Field: Linecracker[5/10]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (8)
+  Field: Skyfin[5/1], Murloc Warleader[3/2], Book Wyrm[3/6]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(78) → 8로 보정
+[Turn 10, Step 35] Agent: 공격 - Linecracker[5/10] -> Murloc Warleader
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Rotnest Drake (코스트: 5)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Volcanic Drake (코스트: 5)
+[Turn 10, Step 38] Opponent: 공격 - Skyfin[3/1] -> Sky Gen'ral Kragg
+[Turn 10, Step 38] Opponent: 공격 - Book Wyrm[3/6] -> Igneous Elemental
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Skycap'n Kragg (코스트: 7)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/10
+  Hand (5): Madam Goya, Mana Cyclone, Flame Elemental, Flame Elemental, Wing Commander
+  Field: Skycap'n Kragg[4/6]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (7)
+  Field: Book Wyrm[3/4], Rotnest Drake[6/5], Volcanic Drake[6/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Rotnest Drake[6/5] -> Flame Elemental
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Madam Goya -> Flame Elemental (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Duskboar (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 2/10
+  Hand (2): Mana Cyclone, Wing Commander
+  Field: Skycap'n Kragg[4/6], Clockwork Automaton[4/4], Madam Goya[4/3], Duskboar[4/1]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: Book Wyrm[3/4], Rotnest Drake[6/4], Volcanic Drake[6/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 46] Agent: 공격 - Skycap'n Kragg[4/6] -> Volcanic Drake
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(91) → 7로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Book Wyrm
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (4): Mana Cyclone, Wing Commander, Flame Juggler, Shrieking Shroom
+  Field: Clockwork Automaton[4/4], Madam Goya[4/3], Duskboar[4/1]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (10)
+  Field: Book Wyrm[3/2], Rotnest Drake[6/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 10, Step 50] Agent: 공격 - Clockwork Automaton[4/4] -> Book Wyrm
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Madam Goya
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 10, Step 53] Agent: 공격 - Madam Goya[4/1] -> Rotnest Drake
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 5/10
+  Hand (4): Mana Cyclone, Wing Commander, Flame Juggler, Lightwarden
+  Field: Clockwork Automaton[4/1], Duskboar[4/1], Shrieking Shroom[1/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 55] Agent: 공격 - Duskboar[4/1] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 56] Agent: 공격 - Clockwork Automaton[4/1] -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Wing Commander
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (4): Mana Cyclone, Flame Juggler, Lightwarden, Lost Tallstrider
+  Field: Clockwork Automaton[4/1], Duskboar[4/1], Shrieking Shroom[1/2], Abusive Sergeant[1/1], Wing Commander[2/3]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 10, Step 60] Agent: 공격 - Clockwork Automaton[4/1] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 10, Step 62] Agent: 공격 - Duskboar[4/1] -> Rexxar
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (3): Mana Cyclone, Lost Tallstrider, Enhance-o Mechano
+  Field: Clockwork Automaton[4/1], Duskboar[4/1], Shrieking Shroom[1/2], Abusive Sergeant[1/1], Wing Commander[2/3], Lightwarden[1/2], Flame Juggler[2/3]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(91) → 6로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Wing Commander
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Living Monument (코스트: 10)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(84) → 12로 보정
+[Turn 10, Step 67] Agent: 공격 - Duskboar[4/1] -> Living Monument
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 10, Step 68] Agent: 공격 - Abusive Sergeant[1/1] -> Living Monument
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (4): Mana Cyclone, Lost Tallstrider, Enhance-o Mechano, Hot Air Balloon
+  Field: Clockwork Automaton[4/1], Shrieking Shroom[1/2], Wing Commander[2/1], Lightwarden[1/2], Flame Juggler[2/3]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (9)
+  Field: Living Monument[10/5]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Hot Air Balloon (코스트: 1)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 공격 - Living Monument[10/5] -> Clockwork Automaton
+[Turn 10, Step 72] Opponent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Vryghoul (코스트: 3)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(82) → 16로 보정
+[Turn 10, Step 73] Agent: 공격 - Shrieking Shroom[1/2] -> Living Monument
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(82) → 14로 보정
+[Turn 10, Step 74] Agent: 공격 - Wing Commander[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (3): Lost Tallstrider, Enhance-o Mechano, Echo of Medivh
+  Field: Wing Commander[2/1], Lightwarden[1/2], Flame Juggler[2/3], Mana Cyclone[2/2], Hot Air Balloon[1/3]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (7)
+  Field: Maexxna[2/8], Vryghoul[3/1], Mogu Cultist[1/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(52) → 22로 보정
+[Turn 10, Step 75] Agent: 공격 - Mana Cyclone[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 76) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (3): Lost Tallstrider, Enhance-o Mechano, Echo of Medivh
+  Field: Wing Commander[2/1], Lightwarden[1/2], Flame Juggler[2/3], Mana Cyclone[2/2], Hot Air Balloon[1/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Maexxna[2/8], Vryghoul[3/1], Mogu Cultist[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

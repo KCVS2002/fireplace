@@ -1,0 +1,410 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Freezing Trap (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (9): Deck of Wonders, Volcanic Drake, Dalaran Crusader, Frizz Kindleroost, Duskboar, The Coin, Faceless Summoner, Hench-Clan Thug, Master Swordsmith
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+[Turn 4, Step 5] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Duskboar
+[Turn 4, Step 7] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/5
+  Hand (7): Ice Barrier, Deck of Wonders, Volcanic Drake, Dalaran Crusader, Faceless Summoner, Hench-Clan Thug, Master Swordsmith
+  Field: Frizz Kindleroost[5/4]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Master Swordsmith
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/8
+  Hand (9): Ice Barrier, Deck of Wonders, Volcanic Drake, Dalaran Crusader, Faceless Summoner, Hench-Clan Thug, Da Undatakah, Jar Dealer, Animated Armor
+  Field: Frizz Kindleroost[7/4], Master Swordsmith[1/2]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (8)
+  Field: Stonesplinter Trogg[2/3], Toothy Chest[4/4]
+[Turn 8, Step 15] Agent: 카드 플레이 - Da Undatakah (코스트: 8)
+[Turn 8, Step 16] Agent: 공격 - Frizz Kindleroost[7/4] -> Rexxar
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 카드 플레이 - Bananas -> Da Undatakah (코스트: 1)
+[Turn 9, Step 19] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/9
+  Hand (8): Deck of Wonders, Volcanic Drake, Dalaran Crusader, Faceless Summoner, Hench-Clan Thug, Jar Dealer, Animated Armor, Frizz Kindleroost
+  Field: Master Swordsmith[1/2], Da Undatakah[10/6]
+Opponent: Rexxar HP: 29, Mana: 6/9
+  Hand (8)
+  Field: Stonesplinter Trogg[4/3], Toothy Chest[4/4], King Mukla[5/5]
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Master Swordsmith
+[Turn 9, Step 21] Agent: 공격 - Master Swordsmith[1/1] -> Toothy Chest
+[Turn 9, Step 22] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 9, Step 23] Agent: 공격 - Da Undatakah[10/6] -> King Mukla
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 영웅 능력 사용
+[Turn 9, Step 24] Opponent: 카드 플레이 - Don Han'Cho (코스트: 7)
+[Turn 9, Step 24] Opponent: 공격 - Stonesplinter Trogg[4/3] -> Jar Dealer
+[Turn 9, Step 24] Opponent: 공격 - Toothy Chest[4/3] -> Da Undatakah
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (9): Deck of Wonders, Volcanic Drake, Dalaran Crusader, Faceless Summoner, Hench-Clan Thug, Animated Armor, Frizz Kindleroost, Jeweled Macaw, Booty Bay Bodyguard
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (8)
+  Field: Stonesplinter Trogg[4/2], Don Han'Cho[5/6]
+[Turn 10, Step 25] Agent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 27] Agent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 공격 - Stonesplinter Trogg[4/2] -> Hench-Clan Thug
+[Turn 10, Step 28] Opponent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Frizz Kindleroost (코스트: 6)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (7): Mogor the Ogre, Deck of Wonders, Volcanic Drake, Faceless Summoner, Animated Armor, Jeweled Macaw, Booty Bay Bodyguard
+  Field: Dalaran Crusader[5/4], Frizz Kindleroost[5/4]
+Opponent: Rexxar HP: 29, Mana: 5/10
+  Hand (8)
+  Field: Don Han'Cho[5/6], Kobold Stickyfinger[4/4]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Don Han'Cho
+[Turn 10, Step 31] Agent: 공격 - Frizz Kindleroost[5/4] -> Rexxar
+[Turn 10, Step 32] Agent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 10, Step 33] Agent: 공격 - Dalaran Crusader[5/4] -> Rexxar
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Kobold Stickyfinger[4/4] -> Frizz Kindleroost
+[Turn 10, Step 34] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Mogor the Ogre, Deck of Wonders, Volcanic Drake, Faceless Summoner, Animated Armor, Booty Bay Bodyguard, Grotesque Dragonhawk, Licensed Adventurer
+  Field: Dalaran Crusader[5/4], Jeweled Macaw[1/1]
+Opponent: Rexxar HP: 19, Mana: 3/10
+  Hand (8)
+  Field: Don Han'Cho[5/3], Worgen Abomination[6/6]
+[Turn 10, Step 35] Agent: 공격 - Dalaran Crusader[5/4] -> Worgen Abomination
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Jeweled Macaw[1/1] -> Rexxar
+[Turn 10, Step 38] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 10, Step 39] Opponent: 공격 - Don Han'Cho[5/3] -> Dalaran Crusader
+[Turn 10, Step 39] Opponent: 공격 - Worgen Abomination[6/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 카드 플레이 - Questing Adventurer (코스트: 3)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Mogor the Ogre, Deck of Wonders, Faceless Summoner, Animated Armor, Booty Bay Bodyguard, Grotesque Dragonhawk, Licensed Adventurer, Faerie Dragon
+  Field: Jeweled Macaw[1/1], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 17, Mana: 3/10
+  Hand (7)
+  Field: Worgen Abomination[6/1], Gormok the Impaler[9/9], Questing Adventurer[2/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Worgen Abomination
+[Turn 10, Step 41] Agent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Colossus of the Moon (코스트: 10)
+[Turn 10, Step 42] Opponent: 공격 - Gormok the Impaler[9/9] -> Booty Bay Bodyguard
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Volcanic Drake[6/4] -> Colossus of the Moon
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (9): Mogor the Ogre, Deck of Wonders, Faceless Summoner, Animated Armor, Grotesque Dragonhawk, Licensed Adventurer, Faerie Dragon, N'Zoth, the Corruptor, Potion of Polymorph
+  Field: Jeweled Macaw[1/1]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (8)
+  Field: Gormok the Impaler[9/4], Questing Adventurer[3/3], Colossus of the Moon[10/10]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jeweled Macaw
+[Turn 10, Step 46] Agent: 카드 플레이 - Potion of Polymorph (코스트: 3)
+[Turn 10, Step 47] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Colossus of the Moon
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (8): Witch's Cauldron, Mogor the Ogre, Faceless Summoner, Animated Armor, Grotesque Dragonhawk, Licensed Adventurer, Faerie Dragon, N'Zoth, the Corruptor
+  Field: Imp[1/1]
+Opponent: Rexxar HP: 17, Mana: 5/10
+  Hand (8)
+  Field: Gormok the Impaler[9/4], Questing Adventurer[4/4], Colossus of the Moon[10/9], Sheep[1/1], Portal Keeper[1/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Mogor the Ogre (코스트: 6)
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Sheep
+[Turn 10, Step 54] Agent: 공격 - Mogor the Ogre[7/6] -> Colossus of the Moon
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (7): Witch's Cauldron, Faceless Summoner, Animated Armor, Grotesque Dragonhawk, Faerie Dragon, N'Zoth, the Corruptor, Grook Fu Master
+  Field: Imp[1/1], Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (9)
+  Field: Gormok the Impaler[9/4], Questing Adventurer[4/4], Colossus of the Moon[10/2], Portal Keeper[1/1]
+[Turn 10, Step 55] Agent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 10, Step 56] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 57] Agent: 카드 플레이 - Faerie Dragon (코스트: 0)
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Portal Keeper[1/1] -> Grook Fu Master
+[Turn 10, Step 58] Opponent: 카드 플레이 - Ancient Brewmaster -> Colossus of the Moon (코스트: 4)
+[Turn 10, Step 58] Opponent: 공격 - Questing Adventurer[5/5] -> Licensed Adventurer
+[Turn 10, Step 58] Opponent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 10, Step 58] Opponent: 공격 - Gormok the Impaler[9/4] -> Grook Fu Master
+[Turn 10, Step 58] Opponent: 공격 - Gormok the Impaler[9/1] -> Jaina Proudmoore
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (5): Witch's Cauldron, Faceless Summoner, Animated Armor, N'Zoth, the Corruptor, Leper Gnome
+  Field: Imp[1/1], Faerie Dragon[3/2], Grotesque Dragonhawk[5/5]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (8)
+  Field: Gormok the Impaler[9/1], Questing Adventurer[7/4], Ancient Brewmaster[5/4], Prince Keleseth[2/2], Enhance-o Mechano[3/2]
+[Turn 10, Step 60] Agent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Enhance-o Mechano
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Enhance-o Mechano[3/1] -> Faerie Dragon
+[Turn 10, Step 62] Opponent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 10, Step 62] Opponent: 공격 - Questing Adventurer[8/5] -> Grotesque Dragonhawk
+[Turn 10, Step 62] Opponent: 공격 - Prince Keleseth[2/2] -> Leper Gnome
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 공격 - Imp[1/1] -> Gormok the Impaler
+[Turn 10, Step 64] Agent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/10
+  Hand (7): Witch's Cauldron, Faceless Summoner, Animated Armor, N'Zoth, the Corruptor, Murloc Raider, Evasive Wyrm, Red Mana Wyrm
+  Field: Ancient Brewmaster[5/4], Weasel Tunneler[1/1]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (8)
+  Field: Prince Keleseth[2/2], Troll Batrider[3/3]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 66] Agent: 카드 플레이 - Evasive Wyrm (코스트: 2)
+[Turn 10, Step 67] Agent: 공격 - Evasive Wyrm[5/3] -> Prince Keleseth
+[Turn 10, Step 68] Agent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 10, Step 69] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (4): Witch's Cauldron, Faceless Summoner, N'Zoth, the Corruptor, Red Mana Wyrm
+  Field: Ancient Brewmaster[5/4], Weasel Tunneler[1/1], Evasive Wyrm[5/3], Murloc Raider[2/1], Animated Armor[4/4]
+Opponent: Rexxar HP: 13, Mana: 6/10
+  Hand (8)
+  Field: Troll Batrider[3/3]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Evasive Wyrm[5/3] -> Troll Batrider
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Weasel Tunneler
+[Turn 10, Step 73] Agent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 카드 플레이 - Colossus of the Moon (코스트: 10)
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Faceless Summoner, N'Zoth, the Corruptor, Red Mana Wyrm, Igneous Elemental, Humongous Razorleaf
+  Field: Ancient Brewmaster[5/4], Murloc Raider[2/1], Animated Armor[4/4], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (9)
+  Field: Colossus of the Moon[10/10]
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 76] Agent: 공격 - Ancient Brewmaster[5/4] -> Colossus of the Moon
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 77] Opponent: 공격 - Colossus of the Moon[10/5] -> Murloc Raider
+[Turn 10, Step 77] Opponent: 영웅 능력 사용
+[Turn 10, Step 77] Opponent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 79] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (4): N'Zoth, the Corruptor, Red Mana Wyrm, Igneous Elemental, Emerald Hive Queen
+  Field: Animated Armor[4/4], Witch's Cauldron[0/4], Faceless Summoner[5/5], Lifeweaver[2/5], Humongous Razorleaf[4/8]
+Opponent: Rexxar HP: 13, Mana: 2/10
+  Hand (8)
+  Field: Colossus of the Moon[10/3], Humongous Razorleaf[4/8], Argent Horserider[3/2]
+[Turn 10, Step 80] Agent: 공격 - Animated Armor[4/4] -> Colossus of the Moon
+[Turn 10, Step 81] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 공격 - Colossus of the Moon[10/1] -> Witch's Cauldron
+[Turn 10, Step 82] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 10, Step 82] Opponent: 공격 - Argent Horserider[3/2] -> Emerald Hive Queen
+[Turn 10, Step 82] Opponent: 영웅 능력 사용
+[Turn 10, Step 82] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 공격 - Lifeweaver[2/5] -> Leper Gnome
+[Turn 10, Step 84] Agent: 공격 - Faceless Summoner[5/5] -> Colossus of the Moon
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (4): N'Zoth, the Corruptor, Red Mana Wyrm, Igneous Elemental, Explosive Runes
+  Field: Lifeweaver[2/3], Humongous Razorleaf[4/8]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (7)
+  Field: Colossus of the Moon[10/1], Humongous Razorleaf[4/8], Argent Horserider[3/2], Wolfrider[3/1]
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Wolfrider
+[Turn 10, Step 86] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 10, Step 87] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 영웅 능력 사용 -> Igneous Elemental
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (2): N'Zoth, the Corruptor, Red Mana Wyrm
+  Field: Lifeweaver[2/3], Humongous Razorleaf[4/8], Igneous Elemental[2/2]
+Opponent: Rexxar HP: 10, Mana: 6/10
+  Hand (7)
+  Field: Colossus of the Moon[10/1], Humongous Razorleaf[4/8], Argent Horserider[3/2]
+[Turn 10, Step 90] Agent: 공격 - Lifeweaver[2/3] -> Rexxar
+[Turn 10, Step 91] Agent: 공격 - Igneous Elemental[2/2] -> Rexxar
+[Turn 10, Step 92] Agent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 공격 - Red Mana Wyrm[2/6] -> Argent Horserider
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (1): N'Zoth, the Corruptor
+  Field: Lifeweaver[2/3], Humongous Razorleaf[4/8], Igneous Elemental[2/2], Red Mana Wyrm[2/3]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (8)
+  Field: Colossus of the Moon[10/1], Humongous Razorleaf[4/8]
+[Turn 10, Step 95] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 96] Agent: 공격 - Igneous Elemental[2/2] -> Rexxar
+[Turn 10, Step 97] Agent: 공격 - Lifeweaver[2/3] -> Colossus of the Moon
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 98] Opponent: 공격 - Felhound[2/2] -> Red Mana Wyrm
+[Turn 10, Step 98] Opponent: 공격 - Felhound[2/2] -> Humongous Razorleaf
+[Turn 10, Step 98] Opponent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 공격 - Red Mana Wyrm[2/1] -> Bolf Ramshield
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (1): N'Zoth, the Corruptor
+  Field: Humongous Razorleaf[4/5], Igneous Elemental[2/2]
+Opponent: Rexxar HP: 4, Mana: 1/10
+  Hand (7)
+  Field: Humongous Razorleaf[4/8], Bolf Ramshield[3/7], Coldlight Seer[3/4]
+[Turn 10, Step 100] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 101] Agent: 공격 - Igneous Elemental[2/2] -> Rexxar
+[Turn 10, Step 102] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 102] Opponent: 카드 플레이 - Gahz'rilla (코스트: 7)
+[Turn 10, Step 102] Opponent: 공격 - Bolf Ramshield[3/5] -> Humongous Razorleaf
+[Turn 10, Step 102] Opponent: 영웅 능력 사용
+[Turn 10, Step 102] Opponent: 공격 - Coldlight Seer[3/4] -> Igneous Elemental
+[Turn 10, Step 102] Opponent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 10, Step 102] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 103) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (3): N'Zoth, the Corruptor, Flame Elemental, Flame Elemental
+  Field: Humongous Razorleaf[4/2]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (6)
+  Field: Humongous Razorleaf[4/7], Bolf Ramshield[3/1], Coldlight Seer[3/2], Gahz'rilla[6/9], Weasel Tunneler[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

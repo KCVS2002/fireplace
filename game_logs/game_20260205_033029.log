@@ -1,0 +1,260 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Spitting Camel[2/4] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Spitting Camel
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/3
+  Hand (5): Feugen, Water Elemental, Gnomish Experimenter, Cabalist's Tome, Snowchugger
+  Field: Feral Gibberer[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Spitting Camel[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Spitting Camel[2/3] -> Feral Gibberer
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (6): Feugen, Water Elemental, Gnomish Experimenter, Cabalist's Tome, Dragon's Fury, Frostwolf Warlord
+  Field: Snowchugger[2/3]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+  Field: Spitting Camel[2/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(81) → 11로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Snowchugger
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 6, Step 13] Agent: 공격 - Snowchugger[2/2] -> Spitting Camel
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Corridor Creeper (코스트: 3)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Knife Juggler (코스트: 2)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (7): Walnut Sprite, Feugen, Gnomish Experimenter, Cabalist's Tome, Dragon's Fury, Frostwolf Warlord, Elven Archer
+  Field: Water Elemental[3/6]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (6)
+  Field: Corridor Creeper[2/5], Knife Juggler[2/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Elven Archer -> Corridor Creeper (코스트: 1)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(86) → 8로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Walnut Sprite
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Corridor Creeper[2/4] -> Water Elemental
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(65) → 19로 보정
+[Turn 8, Step 19] Agent: 공격 - Walnut Sprite[3/2] -> Knife Juggler
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (6): Feugen, Gnomish Experimenter, Cabalist's Tome, Dragon's Fury, Frostwolf Warlord, Simulacrum
+  Field: Water Elemental[3/4], Elven Archer[1/1]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (7)
+  Field: Corridor Creeper[2/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Corridor Creeper
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(12) → 3로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 8, Step 22] Agent: 공격 - Water Elemental[3/4] -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 8, Step 23] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (10): Feugen, Gnomish Experimenter, Dragon's Fury, Frostwolf Warlord, Simulacrum, Volcanic Potion, Shatter, Incanter's Flow, Eccentric Scribe, Skyfin
+  Field: Water Elemental[3/4], Elven Archer[1/1]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (7)
+  Field: Spellward Jeweler[3/4], SN1P-SN4P[2/3]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(27) → 5로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(81) → 18로 보정
+[Turn 10, Step 26] Agent: 공격 - Elven Archer[1/1] -> Rexxar
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Feugen (코스트: 5)
+[Turn 10, Step 29] Agent: 공격 - Water Elemental[3/4] -> Spellward Jeweler
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (9): Gnomish Experimenter, Dragon's Fury, Frostwolf Warlord, Volcanic Potion, Shatter, Incanter's Flow, Eccentric Scribe, Skyfin, Shatter
+  Field: Water Elemental[3/1], Elven Archer[1/1], Feugen[4/7]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (7)
+  Field: Spellward Jeweler[3/1], SN1P-SN4P[2/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(35) → 10로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(27) → 9로 보정
+[Turn 10, Step 32] Agent: 공격 - Water Elemental[3/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Dragon's Fury (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 34] Agent: 공격 - Feugen[4/4] -> Microbot
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (9): Gnomish Experimenter, Frostwolf Warlord, Volcanic Potion, Shatter, Incanter's Flow, Eccentric Scribe, Skyfin, Shatter, Medivh, the Guardian
+  Field: Feugen[4/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (8)
+  Field: Microbot[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Gnomish Experimenter (코스트: 3)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 37] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Feugen
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(71) → 3로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/10
+  Hand (9): Frostwolf Warlord, Volcanic Potion, Shatter, Eccentric Scribe, Skyfin, Shatter, Medivh, the Guardian, Chicken, Stampeding Kodo
+  Field: Feugen[4/2], Gnomish Experimenter[3/2]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (8)
+  Field: Microbot[1/1], Rustsworn Cultist[3/3], SI:7 Infiltrator[5/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 10, Step 40] Agent: 공격 - Gnomish Experimenter[3/2] -> Microbot
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Stampeding Kodo (코스트: 5)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 42] Agent: 공격 - Feugen[4/2] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Chicken (코스트: 1)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (8): Frostwolf Warlord, Volcanic Potion, Shatter, Eccentric Scribe, Skyfin, Shatter, Medivh, the Guardian, Subject 9
+  Field: Feugen[4/2], Gnomish Experimenter[3/1], Stampeding Kodo[3/5], Chicken[1/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (9)
+  Field: Rustsworn Cultist[3/3], SI:7 Infiltrator[5/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(98) → 17로 보정
+[Turn 10, Step 45] Agent: 공격 - Feugen[4/2] -> SI:7 Infiltrator
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(47) → 9로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Gnomish Experimenter
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(75) → 9로 보정
+[Turn 10, Step 47] Agent: 공격 - Chicken[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (9): Frostwolf Warlord, Volcanic Potion, Shatter, Eccentric Scribe, Skyfin, Shatter, Medivh, the Guardian, Mirror Entity, Ebon Dragonsmith
+  Field: Stampeding Kodo[3/5], Chicken[1/1], Subject 9[4/4]
+Opponent: Rexxar HP: 15, Mana: 5/10
+  Hand (9)
+  Field: Rustsworn Cultist[3/3], Elise the Trailblazer[5/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Subject 9
+[Turn 10, Step 51] Agent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 10, Step 52] Agent: 공격 - Chicken[1/1] -> Elise the Trailblazer
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 53] Agent: 공격 - Subject 9[4/3] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 54] Agent: 공격 - Stampeding Kodo[3/5] -> Rustsworn Cultist
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/10
+  Hand (8): Frostwolf Warlord, Volcanic Potion, Shatter, Eccentric Scribe, Skyfin, Shatter, Medivh, the Guardian, Mirror Entity
+  Field: Stampeding Kodo[3/2], Subject 9[4/3], Ebon Dragonsmith[3/4]
+Opponent: Rexxar HP: 11, Mana: 5/10
+  Hand (9)
+  Field: Elise the Trailblazer[5/4]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 55] Opponent: 공격 - Elise the Trailblazer[5/4] -> Subject 9

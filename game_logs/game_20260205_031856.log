@@ -1,0 +1,217 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Cult Sorcerer (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Nexus-Champion Saraad, Doomed Apprentice, Banana Buffoon, Angry Chicken
+  Field: Friendly Bartender[2/3], Cult Sorcerer[3/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 2, Step 5] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 3, Step 8] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 3, Step 9] Agent: 유효하지 않은 액션 인덱스(95) → 1로 보정
+[Turn 3, Step 9] Agent: 공격 - Cult Sorcerer[3/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (6): Nexus-Champion Saraad, Doomed Apprentice, Angry Chicken, Defias Cleaner, Bananas, Bananas
+  Field: Friendly Bartender[2/3], Cult Sorcerer[3/2], Banana Buffoon[2/2]
+Opponent: Rexxar HP: 23, Mana: 1/3
+  Hand (6)
+[Turn 3, Step 10] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 4, Step 11] Agent: 카드 플레이 - Bananas -> Cult Sorcerer (코스트: 1)
+[Turn 4, Step 12] Agent: 공격 - Banana Buffoon[2/2] -> Tanaris Hogchopper
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 4, Step 13] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 4, Step 14] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 4, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (5): Nexus-Champion Saraad, Doomed Apprentice, Defias Cleaner, Bananas, Thrallmar Farseer
+  Field: Friendly Bartender[2/3], Cult Sorcerer[4/3], Angry Chicken[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/4
+  Hand (6)
+  Field: Tanaris Hogchopper[4/2]
+[Turn 4, Step 15] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 4, Step 15] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 15] Opponent: 영웅 능력 사용
+[Turn 4, Step 15] Opponent: 공격 - Tanaris Hogchopper[4/2] -> Friendly Bartender
+[Turn 4, Step 15] Opponent: 턴 종료
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 5, Step 16] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 유효하지 않은 액션 인덱스(16) → 4로 보정
+[Turn 5, Step 17] Agent: 카드 플레이 - Bananas -> Angry Chicken (코스트: 1)
+[Turn 5, Step 18] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 5, Step 18] Agent: 영웅 능력 사용 -> Cult Sorcerer
+[Turn 5, Step 19] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 5, Step 19] Agent: 공격 - Cult Sorcerer[4/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/5
+  Hand (5): Nexus-Champion Saraad, Doomed Apprentice, Defias Cleaner, Thrallmar Farseer, Am'gam Rager
+  Field: Cult Sorcerer[4/2], Angry Chicken[2/2]
+Opponent: Rexxar HP: 18, Mana: 3/5
+  Hand (7)
+[Turn 5, Step 20] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 유효하지 않은 액션 인덱스(42) → 12로 보정
+[Turn 6, Step 21] Agent: 공격 - Cult Sorcerer[4/2] -> Mortuary Machine
+[Turn 6, Step 22] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 6, Step 22] Agent: 영웅 능력 사용 -> Mortuary Machine
+[Turn 6, Step 23] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 6, Step 23] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+[Turn 6, Step 24] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 6, Step 24] Agent: 공격 - Angry Chicken[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/6
+  Hand (5): Nexus-Champion Saraad, Defias Cleaner, Thrallmar Farseer, Am'gam Rager, Big Bad Archmage
+  Field: Angry Chicken[2/2], Doomed Apprentice[3/2]
+Opponent: Rexxar HP: 16, Mana: 1/6
+  Hand (7)
+  Field: Mortuary Machine[8/3]
+[Turn 6, Step 25] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 카드 플레이 - Voodoo Doll -> Mortuary Machine (코스트: 3)
+[Turn 6, Step 25] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 6, Step 25] Opponent: 공격 - Mortuary Machine[8/3] -> Jaina Proudmoore
+[Turn 6, Step 25] Opponent: 영웅 능력 사용
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 7, Step 26] Agent: 공격 - Angry Chicken[2/2] -> Rexxar
+[Turn 7, Step 27] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 카드 플레이 - Madder Bomber (코스트: 5)
+[Turn 7, Step 27] Opponent: 공격 - King's Elekk[3/1] -> Doomed Apprentice
+[Turn 7, Step 27] Opponent: 영웅 능력 사용
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(34) → 8로 보정
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 8, Step 29] Agent: 공격 - Angry Chicken[2/2] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/8
+  Hand (7): Nexus-Champion Saraad, Defias Cleaner, Thrallmar Farseer, Am'gam Rager, Big Bad Archmage, Evolved Kobold, Grimscale Oracle
+  Field: Angry Chicken[2/2]
+Opponent: Rexxar HP: 11, Mana: 1/8
+  Hand (7)
+  Field: Madder Bomber[5/4]
+[Turn 8, Step 30] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 8, Step 30] Agent: 카드 플레이 - Defias Cleaner (코스트: 6)
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 9, Step 32] Agent: 카드 플레이 - Evolved Kobold (코스트: 4)
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 33] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (6): Dragonmaw Scorcher, Nexus-Champion Saraad, Am'gam Rager, Big Bad Archmage, Grimscale Oracle, Da Undatakah
+  Field: Angry Chicken[2/2], Defias Cleaner[5/7], Evolved Kobold[2/2], Thrallmar Farseer[2/3]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (9)
+  Field: Madder Bomber[5/4]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Thrallmar Farseer
+[Turn 10, Step 36] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(70) → 10로 보정
+[Turn 10, Step 37] Agent: 공격 - Thrallmar Farseer[2/2] -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Angry Chicken[2/2] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(27) → 7로 보정
+[Turn 10, Step 39] Agent: 공격 - Evolved Kobold[2/2] -> Madder Bomber
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 7/10
+  Hand (5): Dragonmaw Scorcher, Nexus-Champion Saraad, Am'gam Rager, Big Bad Archmage, Da Undatakah
+  Field: Angry Chicken[2/2], Defias Cleaner[5/7], Thrallmar Farseer[2/2], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (9)
+  Field: Madder Bomber[5/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Nexus-Champion Saraad (코스트: 5)
+[Turn 10, Step 41] Agent: 공격 - Thrallmar Farseer[2/2] -> Madder Bomber
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 42] Agent: 공격 - Defias Cleaner[5/7] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Defias Cleaner
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (6): Omega Defender, Dragonmaw Scorcher, Am'gam Rager, Big Bad Archmage, Da Undatakah, Gift of the Wild
+  Field: Angry Chicken[2/2], Defias Cleaner[5/6], Grimscale Oracle[1/1], Nexus-Champion Saraad[4/5]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 45] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(15) → 6로 보정
+[Turn 10, Step 46] Agent: 공격 - Angry Chicken[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (6): Omega Defender, Dragonmaw Scorcher, Am'gam Rager, Big Bad Archmage, Da Undatakah, Gift of the Wild
+  Field: Angry Chicken[2/2], Defias Cleaner[5/6], Grimscale Oracle[1/1], Nexus-Champion Saraad[4/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,344 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(3) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (5): Deathwing, Ancient of Blossoms, Tomb Spider, Mechanical Yeti, Lifedrinker
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Ironfur Grizzly (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(55) → 6로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Ironfur Grizzly
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(39) → 6로 보정
+[Turn 6, Step 8] Agent: 카드 플레이 - Kabal Crystal Runner (코스트: 6)
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 6, Step 9] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 9] Opponent: 공격 - Ironfur Grizzly[3/2] -> Kabal Crystal Runner
+[Turn 6, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/7
+  Hand (7): Deathwing, Ancient of Blossoms, Tomb Spider, Mechanical Yeti, Lifedrinker, Dollmaster Dorian, Sir Finley Mrrgglton
+  Field: Kabal Crystal Runner[5/2]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (6)
+  Field: Arcane Golem[4/4]
+[Turn 7, Step 10] Agent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 7, Step 11] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 7, Step 11] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 11] Opponent: 턴 종료
+[Turn 8, Step 12] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 12] Opponent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 8, Step 12] Opponent: 영웅 능력 사용
+[Turn 8, Step 12] Opponent: 공격 - Arcane Golem[4/4] -> Ancient of Blossoms
+[Turn 8, Step 12] Opponent: 턴 종료
+[Turn 9, Step 13] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 9, Step 13] Agent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 9, Step 14] Agent: 유효하지 않은 액션 인덱스(53) → 8로 보정
+[Turn 9, Step 14] Agent: 영웅 능력 사용 -> Arcane Golem
+
+--- Game State (Turn 9, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/9
+  Hand (7): Deathwing, Tomb Spider, Mechanical Yeti, Lifedrinker, Dollmaster Dorian, Sir Finley Mrrgglton, Siamat
+  Field: Kabal Crystal Runner[5/2], Ancient of Blossoms[3/4], Tanaris Hogchopper[4/4]
+Opponent: Rexxar HP: 29, Mana: 1/7
+  Hand (7)
+  Field: Sen'jin Shieldmasta[3/5]
+[Turn 9, Step 15] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 9, Step 15] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 15] Opponent: 턴 종료
+[Turn 10, Step 16] Agent: 유효하지 않은 액션 인덱스(89) → 17로 보정
+[Turn 10, Step 16] Agent: 공격 - Tanaris Hogchopper[4/4] -> Sen'jin Shieldmasta
+[Turn 10, Step 17] Agent: 유효하지 않은 액션 인덱스(49) → 15로 보정
+[Turn 10, Step 17] Agent: 공격 - Kabal Crystal Runner[5/2] -> Sen'jin Shieldmasta
+[Turn 10, Step 18] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 18] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 10, Step 19] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 19] Agent: 영웅 능력 사용 -> Ancient of Blossoms
+
+--- Game State (Turn 10, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/10
+  Hand (7): Leatherclad Hogleader, Deathwing, Tomb Spider, Lifedrinker, Dollmaster Dorian, Sir Finley Mrrgglton, Siamat
+  Field: Ancient of Blossoms[3/3], Tanaris Hogchopper[4/1], Mechanical Yeti[4/5]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (8)
+[Turn 10, Step 20] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 20] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 20] Opponent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 20] Opponent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 10, Step 20] Opponent: 턴 종료
+[Turn 10, Step 21] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 10, Step 21] Agent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 22] Agent: 유효하지 않은 액션 인덱스(78) → 9로 보정
+[Turn 10, Step 22] Agent: 영웅 능력 사용 -> Tanaris Hogchopper
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 10, Step 23] Agent: 공격 - Ancient of Blossoms[3/3] -> Scorp-o-matic
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/10
+  Hand (7): Leatherclad Hogleader, Deathwing, Tomb Spider, Dollmaster Dorian, Sir Finley Mrrgglton, Siamat, Fire Plume Harbinger
+  Field: Ancient of Blossoms[3/2], Mechanical Yeti[4/5], Lifedrinker[3/3], Tanglefur Mystic[3/4]
+Opponent: Rexxar HP: 26, Mana: 1/9
+  Hand (8)
+  Field: Mossy Horror[2/7]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 25] Agent: 공격 - Mechanical Yeti[4/5] -> Rexxar
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 26] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(87) → 21로 보정
+[Turn 10, Step 28] Agent: 공격 - Tanglefur Mystic[3/4] -> Mossy Horror
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Mossy Horror
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (7): Leatherclad Hogleader, Deathwing, Tomb Spider, Dollmaster Dorian, Sir Finley Mrrgglton, Siamat, Fire Plume Harbinger
+  Field: Ancient of Blossoms[3/2], Mechanical Yeti[4/5], Lifedrinker[3/3], Tanglefur Mystic[3/2], Mini-Mage[4/1]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Mossy Horror[2/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(39) → 9로 보정
+[Turn 10, Step 30] Agent: 공격 - Lifedrinker[3/3] -> Mossy Horror
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - EVIL Conscripter (코스트: 2)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(63) → 29로 보정
+[Turn 10, Step 33] Agent: 공격 - Tanglefur Mystic[3/2] -> EVIL Conscripter
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(47) → 22로 보정
+[Turn 10, Step 34] Agent: 공격 - Lifedrinker[3/1] -> Gilnean Royal Guard
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (9): Leatherclad Hogleader, Deathwing, Tomb Spider, Dollmaster Dorian, Sir Finley Mrrgglton, Siamat, Fire Plume Harbinger, Bloodworm, Wee Spellstopper
+  Field: Ancient of Blossoms[3/2], Mechanical Yeti[4/5], Mini-Mage[4/1]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (10)
+  Field: Gilnean Royal Guard[8/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(88) → 12로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Dollmaster Dorian
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Titanic Lackey -> Marin the Fox (코스트: 1)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Titanic Lackey
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Wee Spellstopper (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (8): Leatherclad Hogleader, Deathwing, Tomb Spider, Sir Finley Mrrgglton, Siamat, Fire Plume Harbinger, Bloodworm, Unpowered Steambot
+  Field: Ancient of Blossoms[3/2], Mechanical Yeti[4/5], Master Chest[0/8], Mini-Mage[4/1], Dollmaster Dorian[2/5], Wee Spellstopper[2/5]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (8)
+  Field: Gilnean Royal Guard[8/3], Marin the Fox[6/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 10, Step 40] Agent: 공격 - Mini-Mage[4/1] -> Marin the Fox
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 41] Agent: 공격 - Mechanical Yeti[4/5] -> Marin the Fox
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Armor Plating -> Master Chest (코스트: 1)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 43] Agent: 공격 - Dollmaster Dorian[2/5] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 10, Step 44] Agent: 공격 - Ancient of Blossoms[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/10
+  Hand (8): Leatherclad Hogleader, Deathwing, Tomb Spider, Sir Finley Mrrgglton, Siamat, Fire Plume Harbinger, Bloodworm, Unpowered Steambot
+  Field: Ancient of Blossoms[3/2], Master Chest[0/9], Dollmaster Dorian[2/5], Wee Spellstopper[2/5]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (9)
+  Field: Gilnean Royal Guard[8/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 10, Step 46] Agent: 선택 - Steady Shot
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Kooky Chemist -> Master Chest (코스트: 4)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Corpse Raiser -> Gilnean Royal Guard (코스트: 5)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Finicky Cloakfield -> Gilnean Royal Guard (코스트: 1)
+[Turn 10, Step 47] Opponent: 공격 - Gilnean Royal Guard[8/3] -> Ancient of Blossoms
+[Turn 10, Step 47] Opponent: 공격 - Gilnean Royal Guard[8/3] -> Wee Spellstopper
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Leatherclad Hogleader (코스트: 6)
+[Turn 10, Step 49] Agent: 공격 - Dollmaster Dorian[2/5] -> Corpse Raiser
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (7): Deathwing, Tomb Spider, Siamat, Fire Plume Harbinger, Bloodworm, Unpowered Steambot, Firelands Portal
+  Field: Dollmaster Dorian[2/2], Sir Finley Mrrgglton[1/3], Leatherclad Hogleader[6/6]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (8)
+  Field: Kooky Chemist[4/4], Corpse Raiser[3/1], Gilnean Royal Guard[8/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(49) → 10로 보정
+[Turn 10, Step 50] Agent: 공격 - Leatherclad Hogleader[6/6] -> Kooky Chemist
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(57) → 7로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Firelands Portal -> Jaina Proudmoore (코스트: 7)
+[Turn 10, Step 54] Agent: 공격 - Dollmaster Dorian[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (7): Deathwing, Tomb Spider, Siamat, Fire Plume Harbinger, Bloodworm, Unpowered Steambot, Spawn of N'Zoth
+  Field: Dollmaster Dorian[2/2], Sir Finley Mrrgglton[1/3], Leatherclad Hogleader[6/2], Nesting Roc[4/7]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (9)
+  Field: Corpse Raiser[3/1], Gilnean Royal Guard[8/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 55] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Gilnean Royal Guard[8/3] -> Jaina Proudmoore
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 58] Agent: 선택 - Corridor Creeper
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Spawn of N'Zoth (코스트: 3)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(27) → 11로 보정
+[Turn 10, Step 59] Agent: 공격 - Leatherclad Hogleader[6/2] -> Corpse Raiser
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (7): Deathwing, Siamat, Fire Plume Harbinger, Bloodworm, Unpowered Steambot, Hobgoblin, Corridor Creeper
+  Field: Dollmaster Dorian[2/2], Sir Finley Mrrgglton[1/3], Nesting Roc[4/7], Tomb Spider[3/3], Spawn of N'Zoth[2/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Gilnean Royal Guard[8/3]
+[Turn 10, Step 60] Agent: 카드 플레이 - Hobgoblin (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 61] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Gilnean Royal Guard
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 62] Agent: 공격 - Dollmaster Dorian[2/2] -> Gilnean Royal Guard
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 6/10
+  Hand (6): Deathwing, Siamat, Fire Plume Harbinger, Bloodworm, Corridor Creeper, Dr. Boom
+  Field: Nesting Roc[4/7], Tomb Spider[3/3], Spawn of N'Zoth[2/2], Hobgoblin[2/3], Unpowered Steambot[0/9]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Dispatch Kodo -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 67] Agent: 공격 - Nesting Roc[4/7] -> Dispatch Kodo
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 68] Agent: 공격 - Spawn of N'Zoth[2/2] -> Rexxar
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (7): Deathwing, Siamat, Fire Plume Harbinger, Bloodworm, Corridor Creeper, Spark Drill, Swamp Leech
+  Field: Nesting Roc[4/5], Tomb Spider[3/3], Spawn of N'Zoth[2/2], Hobgoblin[2/3], Unpowered Steambot[0/9], Dr. Boom[7/7], Boom Bot[1/1]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 70] Agent: 공격 - Boom Bot[1/1] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 10, Step 71] Agent: 공격 - Dr. Boom[7/7] -> Rexxar
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 73) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (7): Deathwing, Siamat, Fire Plume Harbinger, Bloodworm, Corridor Creeper, Spark Drill, Swamp Leech
+  Field: Nesting Roc[4/5], Tomb Spider[3/3], Spawn of N'Zoth[2/2], Hobgoblin[2/3], Unpowered Steambot[0/9], Dr. Boom[7/7], Boom Bot[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

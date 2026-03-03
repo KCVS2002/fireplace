@@ -1,0 +1,259 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(35) → 8로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/4
+  Hand (7): Ironbeak Owl, Toxicologist, Twilight Guardian, Darkspeaker, Nightmare Amalgam, Hungry Dragon, Razorfen Hunter
+Opponent: Rexxar HP: 28, Mana: 3/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 4, Step 5] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 5, Step 8] Opponent: 공격 - Potion Vendor[1/1] -> Razorfen Hunter
+[Turn 5, Step 8] Opponent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 5, Step 8] Opponent: 공격 - Toxic Sewer Ooze[4/3] -> Boar
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Darkspeaker -> Razorfen Hunter (코스트: 5)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/6
+  Hand (7): Ironbeak Owl, Toxicologist, Twilight Guardian, Nightmare Amalgam, Hungry Dragon, Wobbling Runts, Auctionmaster Beardo
+  Field: Razorfen Hunter[3/6], Darkspeaker[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (4)
+  Field: Toxic Sewer Ooze[4/2], Tournament Medic[1/8], Angry Chicken[1/1]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 6, Step 10] Agent: 공격 - Razorfen Hunter[3/6] -> Angry Chicken
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 6, Step 11] Opponent: 공격 - Toxic Sewer Ooze[4/2] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 카드 플레이 - Mok'Nathal Lion (코스트: 4)
+[Turn 6, Step 11] Opponent: 공격 - Mok'Nathal Lion[5/2] -> Darkspeaker
+[Turn 6, Step 11] Opponent: 공격 - Tournament Medic[1/8] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(75) → 18로 보정
+[Turn 7, Step 12] Agent: 공격 - Razorfen Hunter[3/5] -> Tournament Medic
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Ironbeak Owl -> Tournament Medic (코스트: 3)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/7
+  Hand (6): Toxicologist, Nightmare Amalgam, Hungry Dragon, Wobbling Runts, Auctionmaster Beardo, Sunreaver Warmage
+  Field: Razorfen Hunter[3/4], Twilight Guardian[3/6], Ironbeak Owl[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (3)
+  Field: Toxic Sewer Ooze[4/2], Tournament Medic[1/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 7, Step 15] Opponent: 공격 - Tournament Medic[2/6] -> Twilight Guardian
+[Turn 7, Step 15] Opponent: 영웅 능력 사용 -> Ironbeak Owl
+[Turn 7, Step 15] Opponent: 공격 - Toxic Sewer Ooze[4/2] -> Twilight Guardian
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(53) → 11로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Nightmare Amalgam
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 8, Step 19] Agent: 공격 - Ironbeak Owl[4/3] -> Tournament Medic
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/8
+  Hand (5): Toxicologist, Hungry Dragon, Wobbling Runts, Sunreaver Warmage, Necrotic Geist
+  Field: Razorfen Hunter[3/4], Ironbeak Owl[4/1], Nightmare Amalgam[3/3], Auctionmaster Beardo[3/4]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (3)
+  Field: Defender of Argus[2/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 공격 - Defender of Argus[2/3] -> Auctionmaster Beardo
+[Turn 8, Step 20] Opponent: 영웅 능력 사용 -> Ironbeak Owl
+[Turn 8, Step 20] Opponent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(93) → 23로 보정
+[Turn 9, Step 21] Agent: 공격 - Ironbeak Owl[6/3] -> Rexxar
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(51) → 20로 보정
+[Turn 9, Step 22] Agent: 공격 - Razorfen Hunter[3/4] -> Skyfin
+[Turn 9, Step 23] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/9
+  Hand (5): Toxicologist, Hungry Dragon, Wobbling Runts, Necrotic Geist, Hungry Crab
+  Field: Ironbeak Owl[6/3], Nightmare Amalgam[3/3], Auctionmaster Beardo[3/2], Sunreaver Warmage[4/4]
+Opponent: Rexxar HP: 23, Mana: 1/8
+  Hand (3)
+  Field: Murloc Knight[4/4], Grimscale Oracle[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(55) → 6로 보정
+[Turn 9, Step 26] Agent: 공격 - Auctionmaster Beardo[3/2] -> Grimscale Oracle
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(59) → 2로 보정
+[Turn 9, Step 27] Agent: 공격 - Nightmare Amalgam[3/3] -> Murloc Knight
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Kronx Dragonhoof (코스트: 6)
+[Turn 9, Step 28] Opponent: 공격 - Murloc Knight[3/1] -> Sunreaver Warmage
+[Turn 9, Step 28] Opponent: 영웅 능력 사용 -> Ironbeak Owl
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Auctionmaster Beardo
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (5): Hungry Dragon, Wobbling Runts, Necrotic Geist, Hungry Crab, The Darkness
+  Field: Ironbeak Owl[8/5], Sunreaver Warmage[4/1], Toxicologist[2/2]
+Opponent: Rexxar HP: 23, Mana: 1/9
+  Hand (3)
+  Field: Kronx Dragonhoof[6/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 10, Step 30] Agent: 공격 - Ironbeak Owl[8/5] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Necrotic Geist (코스트: 6)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Kronx Dragonhoof[6/6] -> Ironbeak Owl
+[Turn 10, Step 32] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Wobbling Runts (코스트: 6)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(40) → 6로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Sunreaver Warmage
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (4): Summoning Stone, Hungry Dragon, Hungry Crab, The Darkness
+  Field: Toxicologist[2/2], Necrotic Geist[5/3], Wobbling Runts[2/6]
+Opponent: Rexxar HP: 15, Mana: 2/10
+  Hand (3)
+  Field: Charged Devilsaur[7/7]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Keening Banshee (코스트: 4)
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Hungry Crab (코스트: 1)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (4): Troll Batrider, Summoning Stone, Hungry Dragon, The Darkness
+  Field: Toxicologist[2/2], Necrotic Geist[5/3], Wobbling Runts[2/6], Keening Banshee[5/5], Hungry Crab[1/2]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (5)
+  Field: Charged Devilsaur[7/7]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 10, Step 40] Agent: 공격 - Wobbling Runts[2/6] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 41] Agent: 공격 - Necrotic Geist[5/3] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 42] Agent: 공격 - Toxicologist[2/2] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (5): Troll Batrider, Summoning Stone, Hungry Dragon, The Darkness, Echoing Ooze
+  Field: Toxicologist[2/2], Necrotic Geist[5/3], Wobbling Runts[2/6], Keening Banshee[5/5], Hungry Crab[1/2]
+Opponent: Rexxar HP: 5, Mana: 2/10
+  Hand (5)
+  Field: Charged Devilsaur[7/7], Foe Reaper 4000[6/9]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(98) → 14로 보정
+[Turn 10, Step 45] Agent: 공격 - Wobbling Runts[2/6] -> Foe Reaper 4000
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 10, Step 46] Agent: 공격 - Necrotic Geist[5/3] -> Foe Reaper 4000
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 10, Step 48] Agent: 공격 - Keening Banshee[5/5] -> Charged Devilsaur
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 49] Agent: 공격 - Toxicologist[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (4): Summoning Stone, Hungry Dragon, The Darkness, Echoing Ooze
+  Field: Toxicologist[2/2], Rascally Runt[2/2], Wily Runt[2/2], Grumbly Runt[2/2], Hungry Crab[1/2], Troll Batrider[3/3]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (5)
+  Field: Charged Devilsaur[7/2], Foe Reaper 4000[6/2]
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (4): Summoning Stone, Hungry Dragon, The Darkness, Echoing Ooze
+  Field: Toxicologist[2/2], Rascally Runt[2/2], Wily Runt[2/2], Grumbly Runt[2/2], Hungry Crab[1/2], Troll Batrider[3/3]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (5)
+  Field: Charged Devilsaur[7/2], Foe Reaper 4000[6/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

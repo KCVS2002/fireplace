@@ -1,0 +1,171 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Soulbound Ashtongue (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Mo'arg Artificer (코스트: 2)
+[Turn 1, Step 3] Opponent: 공격 - Soulbound Ashtongue[1/4] -> Lowly Squire
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Foe Reaper 4000, Fishflinger, Corpse Raiser, Batterhead, Transfer Student
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (3)
+  Field: Soulbound Ashtongue[1/2], Mo'arg Artificer[2/4]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 3, Step 7] Opponent: 공격 - Soulbound Ashtongue[1/2] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 공격 - Mo'arg Artificer[2/4] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 공격 - Fishflinger[3/2] -> Mo'arg Artificer
+[Turn 4, Step 9] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/4
+  Hand (6): Don Han'Cho, Foe Reaper 4000, Corpse Raiser, Batterhead, Fen Creeper, Fishflinger
+  Field: Transfer Student[2/2]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Soulbound Ashtongue[1/2], Blackwing Technician[2/4]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Transfer Student
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 4, Step 11] Opponent: 공격 - Soulbound Ashtongue[1/2] -> Transfer Student
+[Turn 4, Step 11] Opponent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 13] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 5, Step 14] Opponent: 공격 - Blackwing Technician[2/4] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 5, Step 14] Opponent: 공격 - Tasty Flyfish[2/2] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 공격 - Lil' Exorcist[2/3] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/6
+  Hand (8): Don Han'Cho, Foe Reaper 4000, Corpse Raiser, Batterhead, Fen Creeper, Big Bad Archmage, Tasty Flyfish, High Inquisitor Whitemane
+  Field: Fishflinger[3/2]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (4)
+  Field: Blackwing Technician[2/4], Tasty Flyfish[2/2], Lil' Exorcist[2/3], Kobold Stickyfinger[4/4], Murmy[1/1]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Kobold Stickyfinger
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Kobold Stickyfinger[4/3] -> Fishflinger
+[Turn 6, Step 16] Opponent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 6, Step 16] Opponent: 공격 - Blackwing Technician[3/5] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 공격 - Tasty Flyfish[3/3] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 공격 - Lil' Exorcist[3/4] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 공격 - Murmy[2/2] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Stormwind Champion[6/6] -> High Inquisitor Whitemane
+[Turn 7, Step 18] Opponent: 공격 - Murmy[1/1] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 공격 - Lil' Exorcist[2/3] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 3/8
+  Hand (8): Don Han'Cho, Foe Reaper 4000, Corpse Raiser, Batterhead, Big Bad Archmage, Tasty Flyfish, Gurubashi Offering, Novice Engineer
+  Field: High Inquisitor Whitemane[6/2], Fen Creeper[3/6]
+Opponent: Rexxar HP: 25, Mana: 8/8
+  Hand (5)
+  Field: Blackwing Technician[2/4], Tasty Flyfish[2/2], Lil' Exorcist[2/3], Murmy[1/1]
+[Turn 8, Step 20] Agent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 8, Step 21] Agent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 8, Step 22] Agent: 공격 - High Inquisitor Whitemane[6/2] -> Lil' Exorcist
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Master Oakheart (코스트: 9)
+[Turn 8, Step 23] Opponent: 공격 - Murmy[1/1] -> Fen Creeper
+[Turn 8, Step 23] Opponent: 공격 - Tasty Flyfish[2/2] -> Fen Creeper
+[Turn 8, Step 23] Opponent: 공격 - Blackwing Technician[2/4] -> Fen Creeper
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Young Dragonhawk
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 7/9
+  Hand (7): Mindbreaker, Don Han'Cho, Foe Reaper 4000, Corpse Raiser, Batterhead, Big Bad Archmage, Novice Engineer
+  Field: Fen Creeper[3/1], Tasty Flyfish[2/2]
+Opponent: Rexxar HP: 25, Mana: 0/9
+  Hand (5)
+  Field: Blackwing Technician[2/1], Murmy[1/1], Master Oakheart[5/5], Spirit of the Lynx[0/3], Temple Berserker[1/2]
+[Turn 9, Step 25] Agent: 공격 - Fen Creeper[3/1] -> Blackwing Technician
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 공격 - Tasty Flyfish[2/2] -> Master Oakheart
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+[Turn 10, Step 28] Opponent: 공격 - Temple Berserker[1/2] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 공격 - Murmy[1/1] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 공격 - Master Oakheart[5/5] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Corpse Raiser (코스트: 5)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 5/10
+  Hand (8): Mindbreaker, Don Han'Cho, Foe Reaper 4000, Batterhead, Big Bad Archmage, Novice Engineer, Bonemare, Hakkar, the Soulflayer
+  Field: Corpse Raiser[3/3]
+Opponent: Rexxar HP: 27, Mana: 1/10
+  Hand (4)
+  Field: Murmy[1/1], Master Oakheart[5/5], Spirit of the Lynx[0/3], Temple Berserker[1/2], Puddlestomper[3/2], Darkscale Healer[4/5], Kobold Geomancer[2/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Novice Engineer
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Master Oakheart[5/5] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 공격 - Kobold Geomancer[2/2] -> Corpse Raiser
+[Turn 10, Step 32] Opponent: 공격 - Darkscale Healer[4/5] -> Corpse Raiser
+[Turn 10, Step 32] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 33) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (8): Mindbreaker, Don Han'Cho, Foe Reaper 4000, Batterhead, Big Bad Archmage, Bonemare, Hakkar, the Soulflayer, Dragoncaller Alanna
+Opponent: Rexxar HP: 27, Mana: 4/10
+  Hand (4)
+  Field: Murmy[1/1], Master Oakheart[5/5], Spirit of the Lynx[0/3], Temple Berserker[1/2], Puddlestomper[3/2], Darkscale Healer[4/2], Worgen Greaser[6/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

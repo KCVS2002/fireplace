@@ -1,0 +1,527 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Grievous Bite -> Mistress of Mixtures (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (5): Medivh's Valet, Vilefiend, Spitting Camel, Sandbinder, Tome of Intellect
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 3, Step 5] Opponent: 공격 - Argent Horserider[2/1] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Argent Horserider
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 카드 플레이 - Spitting Camel (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/5
+  Hand (6): Conjurer's Calling, Medivh's Valet, Vilefiend, Sandbinder, Tome of Intellect, Skulking Geist
+  Field: Spitting Camel[2/4]
+Opponent: Rexxar HP: 29, Mana: 3/4
+  Hand (5)
+  Field: Argent Horserider[2/1], Gurubashi Offering[0/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 6, Step 12] Agent: 공격 - Spitting Camel[2/4] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(83) → 17로 보정
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Skulking Geist
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (6): Conjurer's Calling, Medivh's Valet, Vilefiend, Sandbinder, Imprisoned Vilefiend, Blowgill Sniper
+  Field: Spitting Camel[2/4], Skulking Geist[4/4]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Argent Horserider[2/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(92) → 7로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Medivh's Valet (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 7, Step 17] Opponent: 카드 플레이 - Time Rewinder -> Toshley (코스트: 1)
+[Turn 7, Step 17] Opponent: 공격 - Argent Horserider[2/1] -> Skulking Geist
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Conjurer's Calling -> Skulking Geist (코스트: 4)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Blowgill Sniper -> Spitting Camel (코스트: 2)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/8
+  Hand (4): Vilefiend, Sandbinder, Oasis Snapjaw, Conjurer's Calling
+  Field: Spitting Camel[2/3], Imprisoned Vilefiend[3/5], Medivh's Valet[2/3], Cabal Shadow Priest[4/5], Mogor's Champion[8/5], Blowgill Sniper[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/7
+  Hand (8)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Fire Plume Phoenix -> Mogor's Champion (코스트: 4)
+[Turn 8, Step 20] Opponent: 영웅 능력 사용
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 공격 - Cabal Shadow Priest[4/5] -> Fire Plume Phoenix
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(94) → 14로 보정
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Medivh's Valet
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Conjurer's Calling -> Spitting Camel (코스트: 4)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 9, Step 24] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (5): Vilefiend, Sandbinder, Oasis Snapjaw, Tinkmaster Overspark, Young Dragonhawk
+  Field: Imprisoned Vilefiend[4/5], Medivh's Valet[2/2], Cabal Shadow Priest[4/2], Mogor's Champion[8/3], Spitting Camel[2/4], Micro Mummy[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/9
+  Hand (7)
+  Field: Galvanizer[1/2], War Golem[7/7]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(39) → 9로 보정
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Galvanizer
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(42) → 4로 보정
+[Turn 10, Step 27] Agent: 공격 - Medivh's Valet[2/2] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 28] Agent: 공격 - Cabal Shadow Priest[4/2] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(38) → 12로 보정
+[Turn 10, Step 29] Agent: 공격 - Micro Mummy[1/1] -> War Golem
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (4): Sandbinder, Oasis Snapjaw, Tinkmaster Overspark, Young Dragonhawk
+  Field: Imprisoned Vilefiend[4/5], Medivh's Valet[2/2], Cabal Shadow Priest[4/2], Mogor's Champion[8/3], Spitting Camel[2/4], Micro Mummy[1/1], Vilefiend[2/2]
+Opponent: Rexxar HP: 29, Mana: 0/9
+  Hand (7)
+  Field: Galvanizer[1/1], War Golem[7/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 30] Agent: 공격 - Imprisoned Vilefiend[4/5] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 10, Step 31] Agent: 공격 - Spitting Camel[2/4] -> War Golem
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 카드 플레이 - Reversing Switch -> Mogor's Champion (코스트: 1)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(53) → 12로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Toshley
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Oasis Snapjaw, Tinkmaster Overspark, Young Dragonhawk, Arcane Anomaly, Mossy Horror
+  Field: Imprisoned Vilefiend[4/5], Medivh's Valet[2/2], Cabal Shadow Priest[4/2], Mogor's Champion[3/9], Micro Mummy[1/1], Vilefiend[2/2], Sandbinder[2/4]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: Galvanizer[1/1], War Golem[7/4], Toshley[5/6]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(74) → 16로 보정
+[Turn 10, Step 35] Agent: 공격 - Mogor's Champion[3/9] -> Toshley
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(91) → 16로 보정
+[Turn 10, Step 36] Agent: 공격 - Micro Mummy[1/1] -> Toshley
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(87) → 9로 보정
+[Turn 10, Step 37] Agent: 공격 - Imprisoned Vilefiend[4/5] -> Toshley
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 38] Agent: 공격 - Medivh's Valet[2/2] -> Galvanizer
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (4): Tinkmaster Overspark, Young Dragonhawk, Arcane Anomaly, Mossy Horror
+  Field: Medivh's Valet[2/1], Cabal Shadow Priest[4/2], Mogor's Champion[3/2], Vilefiend[2/2], Sandbinder[2/4], Oasis Snapjaw[2/7]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: War Golem[7/1], Toshley[5/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 41] Agent: 공격 - Cabal Shadow Priest[4/2] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 42] Agent: 공격 - Vilefiend[2/2] -> Toshley
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 44] Agent: 공격 - Sandbinder[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (2): Young Dragonhawk, Mossy Horror
+  Field: Medivh's Valet[2/1], Cabal Shadow Priest[4/2], Mogor's Champion[3/2], Sandbinder[2/4], Squirrel[1/1], Tinkmaster Overspark[3/3], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (8)
+  Field: War Golem[7/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Emergency Coolant -> Ancient of Blossoms (코스트: 1)
+[Turn 10, Step 45] Opponent: 공격 - War Golem[7/1] -> Medivh's Valet
+[Turn 10, Step 45] Opponent: 영웅 능력 사용
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(45) → 7로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Mogor's Champion
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 10, Step 48] Agent: 공격 - Cabal Shadow Priest[4/2] -> Ancient of Blossoms
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 10, Step 49] Agent: 공격 - Mogor's Champion[3/1] -> Ancient of Blossoms
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (2): Young Dragonhawk, Mana Addict
+  Field: Mogor's Champion[3/1], Tinkmaster Overspark[3/3], Mossy Horror[2/7]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (7)
+  Field: Ancient of Blossoms[3/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - Tinkmaster Overspark[3/3] -> Ancient of Blossoms
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 10, Step 53] Agent: 공격 - Mogor's Champion[3/1] -> Ancient of Blossoms
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(33) → 6로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Young Dragonhawk
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (2): Mana Addict, Evolved Kobold
+  Field: Mossy Horror[2/7]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Arcane Giant (코스트: 7)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Replicating Menace (코스트: 3)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Replicating Menace
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 10, Step 57] Agent: 공격 - Mossy Horror[2/7] -> Microbot
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(40) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Evolved Kobold (코스트: 4)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (1): Icehowl
+  Field: Mossy Horror[2/6], Mana Addict[1/3], Evolved Kobold[2/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (7)
+  Field: Arcane Giant[8/8], Microbot[1/1], Microbot[1/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(85) → 19로 보정
+[Turn 10, Step 62] Agent: 공격 - Evolved Kobold[2/2] -> Arcane Giant
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(73) → 5로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Microbot
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 64] Agent: 공격 - Mossy Horror[2/6] -> Microbot
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (1): Icehowl
+  Field: Mossy Horror[2/5], Mana Addict[1/3], The Black Knight[4/5]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+  Field: Arcane Giant[8/6]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 10, Step 65] Agent: 공격 - Mana Addict[1/3] -> Rexxar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> The Black Knight
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 68] Agent: 공격 - The Black Knight[4/4] -> Rexxar
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 10, Step 69] Agent: 공격 - Mossy Horror[2/5] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (2): Icehowl, Sunreaver Spy
+  Field: Mossy Horror[2/5], Mana Addict[1/3], The Black Knight[4/4]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (9)
+  Field: Arcane Giant[8/6]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 70] Agent: 공격 - Mana Addict[1/3] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 10, Step 71] Opponent: 선택 - Lesser Potion
+[Turn 10, Step 71] Opponent: 선택 - Shadow Oil
+[Turn 10, Step 71] Opponent: 선택 - Stonescale Oil
+[Turn 10, Step 71] Opponent: 공격 - Arcane Giant[8/6] -> The Black Knight
+[Turn 10, Step 71] Opponent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 공격 - Mana Addict[1/1] -> Kazakus
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 10, Step 73] Agent: 공격 - Mossy Horror[2/3] -> Corrupted Seer
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Mossy Horror
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (3): Icehowl, Sunreaver Spy, Dalaran Librarian
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (9)
+  Field: Corrupted Seer[2/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 카드 플레이 - Deathwing (코스트: 10)
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 공격 - Deathwing[12/12] -> Blackwing Technician
+[Turn 10, Step 79] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (3): Icehowl, Sunreaver Spy, Augmented Elekk
+  Field: Dalaran Librarian[2/3]
+Opponent: Rexxar HP: 7, Mana: 6/10
+  Hand (0)
+  Field: Deathwing[12/10], Cult Master[4/2]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Deathwing
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 10, Step 81] Agent: 공격 - Dalaran Librarian[2/3] -> Cult Master
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 카드 플레이 - Icehowl (코스트: 9)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 10, Step 84] Opponent: 공격 - Deathwing[12/9] -> Icehowl
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Sunreaver Spy, Augmented Elekk, Conjurer's Calling, Giant Mastodon
+Opponent: Rexxar HP: 7, Mana: 7/10
+  Hand (1)
+  Field: Ogre Brute[4/4]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 10, Step 85] Opponent: 영웅 능력 사용
+[Turn 10, Step 85] Opponent: 공격 - Ogre Brute[4/4] -> Jaina Proudmoore
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(31) → 9로 보정
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Ogre Brute
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 89] Agent: 카드 플레이 - Conjurer's Calling -> Toothy Chest (코스트: 4)
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/10
+  Hand (7): Sunreaver Spy, Augmented Elekk, Giant Mastodon, Boneguard Lieutenant, Dalaran Mage, Mad Bomber, Conjurer's Calling
+  Field: Hobgoblin[2/3], Voodoo Doll[1/1]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (3)
+  Field: Ogre Brute[4/3]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 90] Agent: 카드 플레이 - Dalaran Mage (코스트: 3)
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 92] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 92] Opponent: 카드 플레이 - Crowd Roaster -> Voodoo Doll (코스트: 7)
+[Turn 10, Step 92] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 10, Step 92] Opponent: 공격 - Ogre Brute[4/3] -> Hobgoblin
+[Turn 10, Step 92] Opponent: 영웅 능력 사용
+[Turn 10, Step 92] Opponent: 턴 종료
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(30) → 7로 보정
+[Turn 10, Step 93] Agent: 카드 플레이 - Conjurer's Calling -> Dalaran Mage (코스트: 4)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 10, Step 94] Agent: 영웅 능력 사용 -> Electra Stormsurge
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 4/10
+  Hand (5): Sunreaver Spy, Augmented Elekk, Giant Mastodon, Boneguard Lieutenant, Infectious Sporeling
+  Field: Voodoo Doll[1/1], Mad Bomber[3/2], Electra Stormsurge[3/2], Greyheart Sage[3/3]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (2)
+  Field: Ogre Brute[4/1], Crowd Roaster[7/4], Wax Elemental[0/2]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 10, Step 95] Agent: 공격 - Voodoo Doll[1/1] -> Wax Elemental
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 96] Agent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 97] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 영웅 능력 사용
+[Turn 10, Step 98] Opponent: 공격 - Ogre Brute[4/1] -> Greyheart Sage
+[Turn 10, Step 98] Opponent: 공격 - Crowd Roaster[7/4] -> Greyheart Sage
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 99] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 99] Opponent: 공격 - Crowd Roaster[7/1] -> Electra Stormsurge
+[Turn 10, Step 99] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (4): Sunreaver Spy, Giant Mastodon, Boneguard Lieutenant, Red Mana Wyrm
+  Field: Voodoo Doll[1/1], Augmented Elekk[3/4], Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (4)
+  Field: Wax Elemental[0/2]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(96) → 12로 보정
+[Turn 10, Step 100] Agent: 공격 - Augmented Elekk[3/4] -> Wax Elemental
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 101] Agent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 10, Step 102] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 10, Step 103] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 103] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 104] Agent: 카드 플레이 - Sunreaver Spy (코스트: 2)
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 4/10
+  Hand (2): Giant Mastodon, Red Mana Wyrm
+  Field: Voodoo Doll[1/1], Augmented Elekk[3/4], Infectious Sporeling[1/1], Boneguard Lieutenant[3/3], Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (4)
+  Field: Infectious Sporeling[1/2]
+[Turn 10, Step 105] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 105] Agent: 공격 - Voodoo Doll[1/1] -> Rexxar
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 106] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 106] Opponent: 턴 종료
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 10, Step 107] Agent: 영웅 능력 사용 -> Boneguard Lieutenant
+[Turn 10, Step 108] Agent: 유효하지 않은 액션 인덱스(43) → 7로 보정
+[Turn 10, Step 108] Agent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 10, Step 109] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 10, Step 109] Agent: 공격 - Augmented Elekk[3/4] -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (2): Giant Mastodon, Red Mana Wyrm
+  Field: Voodoo Doll[1/1], Infectious Sporeling[1/2], Boneguard Lieutenant[3/3], Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (4)
+[Turn 10, Step 110] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 110] Agent: 공격 - Sunreaver Spy[2/3] -> Rexxar
+[Turn 10, Step 111] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 111] Agent: 공격 - Boneguard Lieutenant[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 112) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (2): Giant Mastodon, Red Mana Wyrm
+  Field: Voodoo Doll[1/1], Infectious Sporeling[1/2], Boneguard Lieutenant[3/3], Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (4)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

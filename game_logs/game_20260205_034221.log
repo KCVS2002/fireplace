@@ -1,0 +1,174 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 2, Step 2] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 공격 - Brave Archer[2/1] -> Cogmaster
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Arcane Golem (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (3): Desert Hare, Chromatic Egg, Twilight Summoner
+  Field: Young Priestess[2/1], Cogmaster[1/1], Arcane Golem[4/4]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+  Field: Murmy[1/1]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Murmy[1/1] -> Young Priestess
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Murmy
+[Turn 4, Step 7] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (6): Desert Hare, Chromatic Egg, Twilight Summoner, Scrapyard Colossus, Wyrmrest Purifier, Armored Warhorse
+  Field: Cogmaster[1/2], Arcane Golem[4/4]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+[Turn 6, Step 10] Agent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 6, Step 11] Agent: 선택 - Deathwing, Dragonlord
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 영웅 능력 사용
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/8
+  Hand (5): Desert Hare, Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Daring Fire-Eater
+  Field: Cogmaster[1/2], Arcane Golem[4/4], Chromatic Egg[0/3], Wyrmrest Purifier[3/2], Scarlet Crusader[3/1]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (9)
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Cogmaster
+[Turn 8, Step 16] Agent: 공격 - Wyrmrest Purifier[3/2] -> Rexxar
+[Turn 8, Step 17] Agent: 공격 - Arcane Golem[4/4] -> Rexxar
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 영웅 능력 사용
+[Turn 8, Step 18] Opponent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 영웅 능력 사용 -> Arena Fanatic
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (6): Desert Hare, Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Daring Fire-Eater, Research Project
+  Field: Cogmaster[1/1], Arcane Golem[4/4], Chromatic Egg[0/3], Wyrmrest Purifier[3/2], Scarlet Crusader[3/1]
+Opponent: Rexxar HP: 22, Mana: 3/9
+  Hand (9)
+  Field: Arena Fanatic[2/2]
+[Turn 9, Step 20] Agent: 공격 - Arcane Golem[4/4] -> Rexxar
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 공격 - Arena Fanatic[2/2] -> Arcane Golem
+[Turn 9, Step 21] Opponent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 공격 - Scarlet Crusader[3/1] -> Dragonmaw Scorcher
+[Turn 10, Step 23] Agent: 공격 - Wyrmrest Purifier[3/1] -> Rexxar
+[Turn 10, Step 24] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/10
+  Hand (6): Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Daring Fire-Eater, Research Project, Rhonin
+  Field: Arcane Golem[4/1], Chromatic Egg[0/2], Wyrmrest Purifier[3/1], Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 15, Mana: 5/10
+  Hand (9)
+  Field: Dragonmaw Scorcher[3/3]
+[Turn 10, Step 25] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Arcane Golem
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Dragonmaw Scorcher[3/3] -> Desert Hare
+[Turn 10, Step 27] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 27] Opponent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 공격 - Desert Hare[1/1] -> Acidic Swamp Ooze
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (8): Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Daring Fire-Eater, Rhonin, Simulacrum, Arcane Blast, Kabal Lackey
+  Field: Chromatic Egg[0/2], Wyrmrest Purifier[3/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 15, Mana: 5/10
+  Hand (8)
+  Field: Dragonmaw Scorcher[3/2], Hyldnir Frostrider[5/5], Acidic Swamp Ooze[4/2]
+[Turn 10, Step 30] Agent: 공격 - Wyrmrest Purifier[3/1] -> Acidic Swamp Ooze
+[Turn 10, Step 31] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 10, Step 32] Agent: 카드 플레이 - Kabal Lackey (코스트: 1)
+[Turn 10, Step 33] Agent: 카드 플레이 - Arcane Blast -> Chromatic Egg (코스트: 1)
+[Turn 10, Step 34] Agent: 카드 플레이 - Arcane Blast -> Desert Hare (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/10
+  Hand (5): Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Daring Fire-Eater, Rhonin
+  Field: Kabal Lackey[2/1], Deathwing, Dragonlord[12/12]
+Opponent: Rexxar HP: 15, Mana: 5/10
+  Hand (8)
+  Field: Dragonmaw Scorcher[3/2], Hyldnir Frostrider[5/5]
+[Turn 10, Step 35] Agent: 카드 플레이 - Daring Fire-Eater (코스트: 1)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Daring Fire-Eater[1/1] -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Deathwing, Dragonlord[12/12] -> Rexxar
+[Turn 10, Step 39] Agent: 공격 - Kabal Lackey[2/1] -> Dragonmaw Scorcher
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (5): Twilight Summoner, Scrapyard Colossus, Armored Warhorse, Rhonin, Arcane Amplifier
+  Field: Deathwing, Dragonlord[12/12], Daring Fire-Eater[1/1]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (9)
+  Field: Hyldnir Frostrider[5/5]
+[Turn 10, Step 40] Agent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Hyldnir Frostrider
+[Turn 10, Step 42] Agent: 카드 플레이 - Armored Warhorse (코스트: 4)
+[Turn 10, Step 43] Agent: 공격 - Armored Warhorse[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 44) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (3): Scrapyard Colossus, Rhonin, Arcane Amplifier
+  Field: Deathwing, Dragonlord[12/12], Daring Fire-Eater[1/1], Twilight Summoner[1/1], Armored Warhorse[5/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+  Field: Hyldnir Frostrider[5/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

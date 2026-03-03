@@ -1,0 +1,249 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (7): Priestess of Elune, Shieldbreaker, Fjola Lightbane, Big-Time Racketeer, Ghastly Conjurer, Sleepy Dragon, Second-Rate Bruiser
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 카드 플레이 - Shieldbreaker (코스트: 2)
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Shieldbreaker
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Fjola Lightbane
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/5
+  Hand (6): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Sleepy Dragon, Second-Rate Bruiser, Voodoo Doctor
+  Field: Fjola Lightbane[3/3]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (6)
+  Field: Goblin Bomb[0/2]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Voodoo Doctor -> Fjola Lightbane (코스트: 1)
+[Turn 6, Step 12] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Voodoo Doctor
+[Turn 6, Step 14] Agent: 공격 - Fjola Lightbane[3/4] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (5): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Sleepy Dragon, Second-Rate Bruiser
+  Field: Fjola Lightbane[3/4]
+Opponent: Rexxar HP: 26, Mana: 1/5
+  Hand (6)
+  Field: Goblin Bomb[0/2], Cloakscale Chemist[1/2]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Cloakscale Chemist[1/2] -> Fjola Lightbane
+[Turn 6, Step 15] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 17] Agent: 카드 플레이 - Second-Rate Bruiser (코스트: 3)
+[Turn 7, Step 18] Agent: 공격 - Fjola Lightbane[3/3] -> Goblin Bomb
+[Turn 7, Step 19] Agent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/7
+  Hand (4): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Sleepy Dragon
+  Field: Fjola Lightbane[3/3], Second-Rate Bruiser[4/5], Gurubashi Offering[0/2]
+Opponent: Rexxar HP: 21, Mana: 0/6
+  Hand (5)
+  Field: Cloakscale Chemist[1/2], Quicksand Elemental[3/2], Goblin Bomb[3/3]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Shaky Zipgunner (코스트: 3)
+[Turn 7, Step 20] Opponent: 공격 - Goblin Bomb[3/3] -> Second-Rate Bruiser
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 공격 - Fjola Lightbane[3/3] -> Rexxar
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Cloakscale Chemist
+[Turn 8, Step 23] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 8, Step 24] Agent: 공격 - Second-Rate Bruiser[4/2] -> Quicksand Elemental
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/8
+  Hand (6): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Sleepy Dragon, Arcanosmith, Voodoo Doll
+  Field: Fjola Lightbane[3/3], Coldlight Oracle[2/2]
+Opponent: Rexxar HP: 18, Mana: 4/7
+  Hand (7)
+  Field: Cloakscale Chemist[1/1], Shaky Zipgunner[3/3]
+[Turn 8, Step 25] Agent: 카드 플레이 - Voodoo Doll -> Fjola Lightbane (코스트: 3)
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 8, Step 26] Opponent: 공격 - Shaky Zipgunner[3/3] -> Jaina Proudmoore
+[Turn 8, Step 26] Opponent: 카드 플레이 - Explorer's Hat -> Cloakscale Chemist (코스트: 2)
+[Turn 8, Step 26] Opponent: 공격 - Cloakscale Chemist[2/2] -> Jaina Proudmoore
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 공격 - Shaky Zipgunner[3/3] -> Voodoo Doll
+[Turn 9, Step 27] Opponent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 9, Step 27] Opponent: 영웅 능력 사용
+[Turn 9, Step 27] Opponent: 공격 - Dwarven Archaeologist[2/3] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 공격 - Cloakscale Chemist[2/2] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 공격 - Coldlight Oracle[2/2] -> Shaky Zipgunner
+[Turn 10, Step 29] Agent: 카드 플레이 - Sleepy Dragon (코스트: 9)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/10
+  Hand (6): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Arcanosmith, Evasive Drakonid, Stargazer Luna
+  Field: Sleepy Dragon[4/12]
+Opponent: Rexxar HP: 18, Mana: 3/9
+  Hand (6)
+  Field: Cloakscale Chemist[2/2], Dwarven Archaeologist[2/3], Gormok the Impaler[4/4]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - The Lich King (코스트: 8)
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 공격 - Gormok the Impaler[4/4] -> Sleepy Dragon
+[Turn 10, Step 30] Opponent: 공격 - Cloakscale Chemist[2/2] -> Sleepy Dragon
+[Turn 10, Step 30] Opponent: 공격 - Dwarven Archaeologist[2/3] -> Sleepy Dragon
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 10, Step 32] Agent: 공격 - Sleepy Dragon[4/4] -> The Lich King
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - The Lich King[8/4] -> Evasive Drakonid
+[Turn 10, Step 34] Opponent: 카드 플레이 - Emperor Thaurissan (코스트: 6)
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 카드 플레이 - Explorer's Hat -> Emperor Thaurissan (코스트: 2)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (7): Priestess of Elune, Big-Time Racketeer, Ghastly Conjurer, Arcanosmith, Stargazer Luna, Booty Bay Bookie, Spring Rocket
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (7)
+  Field: Emperor Thaurissan[6/6]
+[Turn 10, Step 35] Agent: 카드 플레이 - Spring Rocket -> Rexxar (코스트: 3)
+[Turn 10, Step 36] Agent: 카드 플레이 - Big-Time Racketeer (코스트: 6)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Emperor Thaurissan[6/6] -> Big-Time Racketeer
+[Turn 10, Step 37] Opponent: 카드 플레이 - Steel Rager (코스트: 3)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Elise Starseeker (코스트: 3)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Shieldbreaker (코스트: 1)
+[Turn 10, Step 37] Opponent: 공격 - Steel Rager[5/1] -> "Little Friend"
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 공격 - "Little Friend"[6/1] -> Elise Starseeker
+[Turn 10, Step 39] Agent: 카드 플레이 - Arcanosmith (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 6/10
+  Hand (5): Priestess of Elune, Ghastly Conjurer, Stargazer Luna, Booty Bay Bookie, Twilight Summoner
+  Field: Spring Rocket[2/1], Arcanosmith[3/2], Animated Shield[0/5]
+Opponent: Rexxar HP: 16, Mana: 3/10
+  Hand (5)
+  Field: Emperor Thaurissan[6/5], Shieldbreaker[2/1]
+[Turn 10, Step 40] Agent: 공격 - Spring Rocket[2/1] -> Shieldbreaker
+[Turn 10, Step 41] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 10, Step 42] Agent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Twin Tyrant (코스트: 6)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Rusty Recycler (코스트: 3)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Dwarven Sharpshooter (코스트: 0)
+[Turn 10, Step 43] Opponent: 공격 - Emperor Thaurissan[6/5] -> Animated Shield
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Frost Elemental -> Twilight Summoner (코스트: 6)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 4/10
+  Hand (3): Priestess of Elune, Ghastly Conjurer, Stargazer Luna
+  Field: Twilight Summoner[1/1], Frost Elemental[5/5]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (3)
+  Field: Emperor Thaurissan[6/5], Twin Tyrant[4/10], Rusty Recycler[4/8], Dwarven Sharpshooter[1/3]
+[Turn 10, Step 45] Agent: 카드 플레이 - Ghastly Conjurer (코스트: 4)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Twin Tyrant[4/10] -> Frost Elemental
+[Turn 10, Step 46] Opponent: 공격 - Dwarven Sharpshooter[1/3] -> Ghastly Conjurer
+[Turn 10, Step 46] Opponent: 영웅 능력 사용 -> Twilight Summoner
+[Turn 10, Step 46] Opponent: 공격 - Emperor Thaurissan[6/5] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 10, Step 46] Opponent: 공격 - Rusty Recycler[4/8] -> Faceless Destroyer
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Ghastly Conjurer
+[Turn 10, Step 48] Agent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 10, Step 49] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 0/10
+  Hand (2): Priestess of Elune, Mirror Image
+  Field: Faceless Destroyer[5/1], Ghastly Conjurer[2/4], Skelemancer[2/2], Stargazer Luna[2/4]
+Opponent: Rexxar HP: 20, Mana: 3/10
+  Hand (3)
+  Field: Emperor Thaurissan[6/5], Twin Tyrant[4/5], Rusty Recycler[4/3], Dwarven Sharpshooter[1/1], Bomb Lobber[3/3]
+[Turn 10, Step 50] Agent: 공격 - Faceless Destroyer[5/1] -> Rusty Recycler
+[Turn 10, Step 51] Agent: 공격 - Ghastly Conjurer[2/4] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Bomb Lobber[3/3] -> Stargazer Luna
+[Turn 10, Step 52] Opponent: 공격 - Emperor Thaurissan[6/5] -> Ghastly Conjurer
+[Turn 10, Step 52] Opponent: 공격 - Dwarven Sharpshooter[1/1] -> Skelemancer
+[Turn 10, Step 52] Opponent: 카드 플레이 - Al'ar (코스트: 3)
+[Turn 10, Step 52] Opponent: 공격 - Twin Tyrant[4/5] -> Skelemancer
+[Turn 10, Step 52] Opponent: 카드 플레이 - Chopshop Copter (코스트: 3)
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 53) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (2): Priestess of Elune, Mirror Image
+  Field: Skeletal Flayer[8/8], Stargazer Luna[2/1]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (2)
+  Field: Emperor Thaurissan[6/3], Twin Tyrant[4/3], Bomb Lobber[3/1], Al'ar[7/3], Chopshop Copter[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

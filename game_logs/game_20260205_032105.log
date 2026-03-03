@@ -1,0 +1,463 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Ancient Watcher (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (6): Khartut Defender, Moat Lurker, Conjured Mirage, The Coin, Arcane Watcher, Effigy
+  Field: Garrison Commander[2/3], Ancient Watcher[4/5]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Effigy (코스트: 3)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 공격 - Stubborn Gastropod[1/2] -> Ancient Watcher
+[Turn 4, Step 7] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 4, Step 7] Opponent: 카드 플레이 - Steamwheedle Sniper (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Veranus (코스트: 6)
+[Turn 5, Step 8] Opponent: 공격 - Steamwheedle Sniper[2/3] -> Jaina Proudmoore
+[Turn 5, Step 8] Opponent: 공격 - Recombobulator[3/2] -> EVIL Conscripter
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(27) → 8로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/6
+  Hand (8): Khartut Defender, Moat Lurker, Conjured Mirage, The Coin, Arcane Watcher, Puzzle Box of Yogg-Saron, Draconic Lackey, Banana Buffoon
+  Field: Garrison Commander[2/1], Magic Dart Frog[1/3], Undercity Valiant[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (5)
+  Field: Steamwheedle Sniper[2/2], Veranus[7/6]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 6, Step 11] Agent: 공격 - Garrison Commander[2/1] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Witchwood Grizzly (코스트: 5)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Tuskarr Fisherman -> Witchwood Grizzly (코스트: 2)
+[Turn 6, Step 12] Opponent: 공격 - Veranus[7/6] -> Magic Dart Frog
+[Turn 6, Step 12] Opponent: 공격 - Steamwheedle Sniper[2/2] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(38) → 14로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Steamwheedle Sniper
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/7
+  Hand (9): Khartut Defender, Moat Lurker, Conjured Mirage, The Coin, Arcane Watcher, Puzzle Box of Yogg-Saron, Draconic Lackey, Banana Buffoon, Chef Nomi
+  Field: Garrison Commander[2/1], Undercity Valiant[3/2]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (4)
+  Field: Steamwheedle Sniper[2/1], Veranus[7/5], Witchwood Grizzly[3/11], Tuskarr Fisherman[2/3]
+[Turn 7, Step 15] Agent: 카드 플레이 - Draconic Lackey (코스트: 1)
+[Turn 7, Step 16] Agent: 선택 - Big Ol' Whelp
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 7, Step 17] Agent: 공격 - Undercity Valiant[3/2] -> Witchwood Grizzly
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 7, Step 18] Agent: 공격 - Garrison Commander[2/1] -> Witchwood Grizzly
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/7
+  Hand (7): Khartut Defender, Moat Lurker, Conjured Mirage, Puzzle Box of Yogg-Saron, Banana Buffoon, Chef Nomi, Big Ol' Whelp
+  Field: Draconic Lackey[1/1], Arcane Watcher[5/6]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (4)
+  Field: Steamwheedle Sniper[2/1], Veranus[7/5], Witchwood Grizzly[3/6], Tuskarr Fisherman[2/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 공격 - Tuskarr Fisherman[2/3] -> Jaina Proudmoore
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(53) → 9로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(83) → 27로 보정
+[Turn 8, Step 22] Agent: 공격 - Draconic Lackey[1/1] -> Witchwood Grizzly
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(67) → 19로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Veranus
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Bananas -> Banana Buffoon (코스트: 1)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/8
+  Hand (8): Khartut Defender, Moat Lurker, Conjured Mirage, Puzzle Box of Yogg-Saron, Chef Nomi, Big Ol' Whelp, Jeeves, Bananas
+  Field: Arcane Watcher[5/6], Banana Buffoon[3/3]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (5)
+  Field: Steamwheedle Sniper[2/1], Veranus[7/4], Witchwood Grizzly[3/5], Tuskarr Fisherman[2/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Bananas -> Tuskarr Fisherman (코스트: 1)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(64) → 20로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Banana Buffoon
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Puzzle Box of Yogg-Saron (코스트: 10)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (9): Khartut Defender, Moat Lurker, Conjured Mirage, Chef Nomi, Big Ol' Whelp, Jeeves, Twilight Geomancer, Sunwalker, Banana Buffoon
+  Field: Arcane Watcher[5/1], Arcane Watcher[5/5]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (7)
+  Field: Veranus[7/3], Witchwood Grizzly[3/4], Tuskarr Fisherman[3/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 30] Agent: 공격 - Jaina Proudmoore[1/20] -> Witchwood Grizzly
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 10, Step 31] Opponent: 공격 - Witchwood Grizzly[3/3] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(82) → 26로 보정
+[Turn 10, Step 32] Agent: 공격 - Jaina Proudmoore[1/20] -> Witchwood Grizzly
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Chef Nomi (코스트: 7)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(46) → 7로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Tuskarr Fisherman
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (9): Faceless Summoner, Khartut Defender, Moat Lurker, Conjured Mirage, Big Ol' Whelp, Jeeves, Twilight Geomancer, Sunwalker, Banana Buffoon
+  Field: Arcane Watcher[5/1], Arcane Watcher[5/5], Chef Nomi[6/6]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (6)
+  Field: Veranus[7/3], Witchwood Grizzly[3/2], Tuskarr Fisherman[3/2], Violet Teacher[3/5], Ancient of Blossoms[3/8]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Veranus[7/3] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 5)
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Violet Teacher
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Ancient of Blossoms[3/8] -> Big Ol' Whelp
+[Turn 10, Step 38] Opponent: 공격 - Tuskarr Fisherman[3/2] -> Arcane Watcher
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Arcane Watcher
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (10): Faceless Summoner, Khartut Defender, Moat Lurker, Conjured Mirage, Jeeves, Twilight Geomancer, Sunwalker, Banana Buffoon, Freezing Potion, Arch-Thief Rafaam
+  Field: Arcane Watcher[5/1], Arcane Watcher[5/1], Chef Nomi[6/6], Big Ol' Whelp[5/2]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (8)
+  Field: Veranus[7/3], Witchwood Grizzly[3/2], Violet Teacher[3/4], Ancient of Blossoms[3/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Freezing Potion -> Violet Teacher (코스트: 0)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Moat Lurker -> Veranus (코스트: 6)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 10, Step 43] Agent: 공격 - Jaina Proudmoore[1/12] -> Witchwood Grizzly
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Big Ol' Whelp[5/2] -> Ancient of Blossoms
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 0/10
+  Hand (7): Faceless Summoner, Khartut Defender, Conjured Mirage, Jeeves, Sunwalker, Banana Buffoon, Arch-Thief Rafaam
+  Field: Arcane Watcher[5/1], Arcane Watcher[5/1], Chef Nomi[6/6], Moat Lurker[3/3], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (8)
+  Field: Witchwood Grizzly[3/1], Violet Teacher[3/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 10, Step 45] Agent: 공격 - Chef Nomi[6/6] -> Witchwood Grizzly
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Arcane Watcher
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (9): Faceless Summoner, Khartut Defender, Jeeves, Sunwalker, Banana Buffoon, Arch-Thief Rafaam, Onyxia, Arcane Watcher, Conjured Mirage
+  Field: Arcane Watcher[5/1], Chef Nomi[6/3], Moat Lurker[3/3], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (8)
+  Field: Violet Teacher[3/4], High Inquisitor Whitemane[6/8], Golakka Crawler[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(39) → 8로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(96) → 9로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Arcane Watcher
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 10, Step 52] Agent: 공격 - Moat Lurker[3/3] -> Violet Teacher
+[Turn 10, Step 53] Agent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 10, Step 54] Agent: 공격 - Twilight Geomancer[1/4] -> Golakka Crawler
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (8): Faceless Summoner, Khartut Defender, Sunwalker, Banana Buffoon, Arch-Thief Rafaam, Onyxia, Conjured Mirage, Arcane Watcher
+  Field: Chef Nomi[6/3], Twilight Geomancer[1/2], Arcane Watcher[5/6], Jeeves[1/4]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (8)
+  Field: Violet Teacher[3/1], Veranus[7/6], High Inquisitor Whitemane[6/8], Golakka Crawler[2/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 55] Agent: 공격 - Chef Nomi[6/3] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Carrion Drake (코스트: 5)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 10, Step 56] Opponent: 공격 - Violet Teacher[3/1] -> Twilight Geomancer
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(62) → 23로 보정
+[Turn 10, Step 59] Agent: 공격 - Chef Nomi[6/3] -> High Inquisitor Whitemane
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (9): Unseen Saboteur, Faceless Summoner, Sunwalker, Banana Buffoon, Arch-Thief Rafaam, Onyxia, Conjured Mirage, Arcane Watcher, Cinderstorm
+  Field: Arcane Watcher[5/6], Jeeves[1/4], Khartut Defender[3/4]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: Veranus[7/6], High Inquisitor Whitemane[6/2], Golakka Crawler[2/2], Carrion Drake[3/7], Saboteur[4/3]
+[Turn 10, Step 60] Agent: 공격 - Khartut Defender[3/4] -> Veranus
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(97) → 19로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Khartut Defender
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 63] Agent: 공격 - Jeeves[1/4] -> Saboteur
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 공격 - Saboteur[4/2] -> Faceless Summoner
+[Turn 10, Step 64] Opponent: 공격 - Golakka Crawler[2/2] -> Arcane Watcher
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (9): Unseen Saboteur, Sunwalker, Banana Buffoon, Arch-Thief Rafaam, Onyxia, Conjured Mirage, Arcane Watcher, Cinderstorm, War Golem
+  Field: Arcane Watcher[5/4], Faceless Summoner[5/1], Goboglide Tech[3/3]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Veranus[7/3], High Inquisitor Whitemane[6/2], Carrion Drake[3/7]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(94) → 16로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Faceless Summoner
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(58) → 10로 보정
+[Turn 10, Step 66] Agent: 공격 - Goboglide Tech[3/3] -> High Inquisitor Whitemane
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(23) → 4로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Arch-Thief Rafaam (코스트: 9)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (8): Unseen Saboteur, Sunwalker, Banana Buffoon, Onyxia, Conjured Mirage, Arcane Watcher, Cinderstorm, Twilight Geomancer
+  Field: Arcane Watcher[5/4], War Golem[7/7], Arch-Thief Rafaam[7/8]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (10)
+  Field: Veranus[7/3], Carrion Drake[3/7]
+[Turn 10, Step 70] Agent: 선택 - Mirror of Doom
+[Turn 10, Step 70] Agent: 공격 - War Golem[7/7] -> Carrion Drake
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Carrion Grub (코스트: 3)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Raging Worgen (코스트: 3)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 72] Agent: 카드 플레이 - Cinderstorm (코스트: 3)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(43) → 5로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (7): Unseen Saboteur, Sunwalker, Banana Buffoon, Onyxia, Conjured Mirage, Mirror of Doom, Hungry Ettin
+  Field: Arcane Watcher[5/4], War Golem[7/4], Arch-Thief Rafaam[7/8], Magtheridon[12/12], Arcane Watcher[5/6], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (7)
+  Field: Veranus[7/2], Carrion Grub[2/3], Raging Worgen[4/2], Hecklebot[3/7]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 75] Agent: 공격 - Arch-Thief Rafaam[7/8] -> Hecklebot
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(82) → 7로 보정
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Carrion Grub
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 77] Agent: 공격 - War Golem[7/4] -> Carrion Grub
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 턴 종료
+[Turn 10, Step 79] Agent: 카드 플레이 - Onyxia (코스트: 9)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (7): Unseen Saboteur, Sunwalker, Banana Buffoon, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger
+  Field: Arcane Watcher[5/4], War Golem[7/2], Arch-Thief Rafaam[7/5], Magtheridon[12/12], Arcane Watcher[5/6], Twilight Geomancer[1/4], Onyxia[8/8]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: Veranus[7/2], Raging Worgen[4/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 80] Agent: 공격 - War Golem[7/2] -> Veranus
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Raging Worgen[4/2] -> Twilight Geomancer
+[Turn 10, Step 81] Opponent: 카드 플레이 - Kabal Chemist (코스트: 4)
+[Turn 10, Step 81] Opponent: 공격 - Raging Worgen[4/1] -> Arcane Watcher
+[Turn 10, Step 81] Opponent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 10, Step 83] Agent: 카드 플레이 - Bananas -> Arcane Watcher (코스트: 1)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/10
+  Hand (7): Unseen Saboteur, Sunwalker, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger, Bananas
+  Field: Arcane Watcher[5/4], Arch-Thief Rafaam[7/5], Magtheridon[12/12], Arcane Watcher[6/3], Onyxia[8/8], Banana Buffoon[2/2], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (8)
+  Field: Kabal Chemist[3/3], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 85] Agent: 공격 - Arch-Thief Rafaam[7/5] -> Kabal Chemist
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 86] Agent: 공격 - Onyxia[8/8] -> Dragonling Mechanic
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(93) → 18로 보정
+[Turn 10, Step 88] Agent: 공격 - Arch-Thief Rafaam[7/2] -> Mechanical Dragonling
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(86) → 17로 보정
+[Turn 10, Step 89] Agent: 영웅 능력 사용 -> Onyxia
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (8): Unseen Saboteur, Sunwalker, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger, Bananas, Raid Leader
+  Field: Arcane Watcher[5/4], Magtheridon[12/12], Arcane Watcher[6/3], Onyxia[8/5], Banana Buffoon[2/2], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(58) → 13로 보정
+[Turn 10, Step 90] Agent: 공격 - Banana Buffoon[2/2] -> Rexxar
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(97) → 13로 보정
+[Turn 10, Step 91] Agent: 공격 - Mechanical Whelp[2/2] -> Rexxar
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(75) → 10로 보정
+[Turn 10, Step 92] Agent: 카드 플레이 - Bananas -> Mechanical Whelp (코스트: 1)
+[Turn 10, Step 93] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 10, Step 94] Agent: 공격 - Onyxia[9/5] -> Rexxar
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 4/10
+  Hand (6): Unseen Saboteur, Sunwalker, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger
+  Field: Arcane Watcher[6/4], Magtheridon[12/12], Arcane Watcher[7/3], Onyxia[9/5], Banana Buffoon[3/2], Mechanical Whelp[4/3], Raid Leader[2/2]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 턴 종료
+[Turn 10, Step 96] Agent: 공격 - Banana Buffoon[3/2] -> Rexxar
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 97] Agent: 영웅 능력 사용 -> Arcane Watcher
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 98] Agent: 공격 - Mechanical Whelp[4/3] -> Rexxar
+[Turn 10, Step 99] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 99] Agent: 공격 - Onyxia[9/5] -> Rexxar
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (7): Unseen Saboteur, Sunwalker, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger, Magic Trick
+  Field: Arcane Watcher[6/3], Magtheridon[12/12], Arcane Watcher[7/3], Onyxia[9/5], Banana Buffoon[3/2], Mechanical Whelp[4/3], Raid Leader[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (7): Unseen Saboteur, Sunwalker, Conjured Mirage, Mirror of Doom, Hungry Ettin, Half-Time Scavenger, Magic Trick
+  Field: Arcane Watcher[6/3], Magtheridon[12/12], Arcane Watcher[7/3], Onyxia[9/5], Banana Buffoon[3/2], Mechanical Whelp[4/3], Raid Leader[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

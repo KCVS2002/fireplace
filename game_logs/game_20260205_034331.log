@@ -1,0 +1,145 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 1, Step 1] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 2, Step 4] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (7): Blistering Rot, Felfin Navigator, Mechanical Whelp, Thunder Lizard, Ornery Tortoise, Boompistol Bully, Fishflinger
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Jeweled Macaw[1/1], Jeweled Macaw[1/1], Vilefiend[2/2]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jeweled Macaw
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Vilefiend[2/2] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Vilefiend[2/2] -> Living Rot
+[Turn 4, Step 8] Opponent: 카드 플레이 - Stampeding Kodo (코스트: 5)
+[Turn 4, Step 8] Opponent: 공격 - Spark Engine[2/1] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/5
+  Hand (8): Felfin Navigator, Mechanical Whelp, Thunder Lizard, Ornery Tortoise, Boompistol Bully, Fishflinger, Fallen Sun Cleric, Crowd Favorite
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: Jeweled Macaw[1/1], Vilefiend[2/1], Spark Engine[2/1], Stampeding Kodo[3/5]
+[Turn 5, Step 10] Agent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 공격 - Vilefiend[2/1] -> Thunder Lizard
+[Turn 5, Step 11] Opponent: 공격 - Spark Engine[2/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 5, Step 11] Opponent: 공격 - Stampeding Kodo[3/5] -> Thunder Lizard
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Spellbook Binder[3/2] -> Boompistol Bully
+[Turn 6, Step 13] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 6, Step 13] Opponent: 공격 - Spark Engine[2/1] -> Boompistol Bully
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Jeweled Macaw
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/7
+  Hand (8): Felfin Navigator, Mechanical Whelp, Ornery Tortoise, Fishflinger, Fallen Sun Cleric, Crowd Favorite, Whizbang the Wonderful, Desert Obelisk
+Opponent: Rexxar HP: 30, Mana: 5/7
+  Hand (4)
+  Field: Stampeding Kodo[3/2], Zombie Chow[2/3], Spark[1/1], Nat Pagle[0/4]
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 공격 - Stampeding Kodo[3/2] -> Jaina Proudmoore
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 8, Step 17] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 영웅 능력 사용
+[Turn 8, Step 18] Opponent: 공격 - Spark[1/1] -> Jaina Proudmoore
+[Turn 8, Step 18] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 8, Step 18] Opponent: 선택 - Dragonqueen Alexstrasza
+[Turn 8, Step 18] Opponent: 공격 - Stampeding Kodo[3/2] -> Crowd Favorite
+[Turn 8, Step 18] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 8, Step 18] Opponent: 카드 플레이 - Ironfur Grizzly (코스트: 3)
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/9
+  Hand (7): Ornery Tortoise, Fishflinger, Fallen Sun Cleric, Whizbang the Wonderful, Desert Obelisk, Felsoul Inquisitor, Marsh Drake
+  Field: Crowd Favorite[5/2], Felfin Navigator[4/4], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 30, Mana: 1/9
+  Hand (6)
+  Field: Zombie Chow[2/3], Spark[1/1], Nat Pagle[0/4], Primordial Explorer[2/3], Ironfur Grizzly[3/3]
+[Turn 9, Step 20] Agent: 공격 - Crowd Favorite[5/2] -> Ironfur Grizzly
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Primordial Explorer
+[Turn 9, Step 22] Agent: 공격 - Felfin Navigator[4/4] -> Rexxar
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 9, Step 23] Opponent: 공격 - Primordial Explorer[2/2] -> Felfin Navigator
+[Turn 9, Step 23] Opponent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 9, Step 23] Opponent: 공격 - Spark[1/1] -> Mechanical Whelp
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (7): Fishflinger, Fallen Sun Cleric, Whizbang the Wonderful, Desert Obelisk, Felsoul Inquisitor, Marsh Drake, Brann Bronzebeard
+  Field: Mechanical Whelp[2/1], Ornery Tortoise[3/5]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (6)
+  Field: Zombie Chow[2/3], Nat Pagle[0/4], Sated Threshadon[5/7]
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (7): Fishflinger, Fallen Sun Cleric, Whizbang the Wonderful, Desert Obelisk, Felsoul Inquisitor, Marsh Drake, Brann Bronzebeard
+  Field: Mechanical Whelp[2/1], Ornery Tortoise[3/5]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (6)
+  Field: Zombie Chow[2/3], Nat Pagle[0/4], Sated Threshadon[5/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

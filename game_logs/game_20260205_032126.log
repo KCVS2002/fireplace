@@ -1,0 +1,342 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Lightwarden (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/2
+  Hand (5): Emperor Thaurissan, Clockwork Knight, Dread Raven, Sabretooth Stalker, Deranged Doctor
+  Field: Lightwarden[1/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 공격 - Lightwarden[1/2] -> Dragon Egg
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(13) → 4로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (7): Emperor Thaurissan, Clockwork Knight, Dread Raven, Sabretooth Stalker, Deranged Doctor, Avian Watcher, Happy Ghoul
+  Field: Lightwarden[1/2]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Dragon Egg[0/1], Black Whelp[2/1], Illuminator[2/4]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Black Whelp[2/1] -> Lightwarden
+[Turn 4, Step 10] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - The Darkness (코스트: 4)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(50) → 11로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Illuminator
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 6, Step 14] Opponent: 공격 - Illuminator[2/3] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 공격 - Wretched Tiller[1/1] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 7/7
+  Hand (9): Archivist Elysiana, Emperor Thaurissan, Clockwork Knight, Dread Raven, Sabretooth Stalker, Deranged Doctor, Avian Watcher, Happy Ghoul, Khartut Defender
+  Field: Transfer Student[2/2]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (5)
+  Field: Dragon Egg[0/1], Illuminator[2/3], Wretched Tiller[1/1], The Darkness[20/20], High Inquisitor Whitemane[6/8]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Illuminator
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(89) → 9로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Sabretooth Stalker
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/8
+  Hand (8): Archivist Elysiana, Emperor Thaurissan, Dread Raven, Deranged Doctor, Avian Watcher, Happy Ghoul, Khartut Defender, Grave Shambler
+  Field: Transfer Student[2/2], Clockwork Knight[5/5], Sabretooth Stalker[8/1]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (6)
+  Field: Dragon Egg[0/1], Illuminator[2/2], Wretched Tiller[1/1], The Darkness[20/20], High Inquisitor Whitemane[6/8]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(31) → 9로 보정
+[Turn 8, Step 20] Agent: 공격 - Clockwork Knight[5/5] -> Wretched Tiller
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 8, Step 21] Agent: 공격 - Transfer Student[2/2] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(45) → 15로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> High Inquisitor Whitemane
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 9, Step 24] Agent: 공격 - Clockwork Knight[5/4] -> Dragon Egg
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 7/9
+  Hand (9): Archivist Elysiana, Emperor Thaurissan, Dread Raven, Deranged Doctor, Avian Watcher, Happy Ghoul, Khartut Defender, Grave Shambler, Augmented Elekk
+  Field: Transfer Student[2/2], Clockwork Knight[5/4], Sabretooth Stalker[8/1]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (7)
+  Field: Black Whelp[2/1], Illuminator[2/2], The Darkness[20/20], High Inquisitor Whitemane[6/7]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 9, Step 26] Agent: 공격 - Sabretooth Stalker[8/1] -> High Inquisitor Whitemane
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 공격 - Transfer Student[2/2] -> Boom Bot
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(67) → 9로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Huge Toad (코스트: 2)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (8): Archivist Elysiana, Emperor Thaurissan, Dread Raven, Deranged Doctor, Happy Ghoul, Khartut Defender, Grave Shambler, Augmented Elekk
+  Field: Transfer Student[2/1], Clockwork Knight[5/3], Avian Watcher[3/6], Huge Toad[3/2]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (7)
+  Field: Black Whelp[2/1], Illuminator[2/2], The Darkness[20/20], Boom Bot[1/1], Dr. Boom[7/7]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(46) → 18로 보정
+[Turn 10, Step 30] Agent: 공격 - Clockwork Knight[5/3] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(29) → 6로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 33] Agent: 공격 - Avian Watcher[3/6] -> Illuminator
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Boom Bot[1/1] -> Transfer Student
+[Turn 10, Step 34] Opponent: 공격 - Dr. Boom[7/7] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 10, Step 34] Opponent: 공격 - Black Whelp[2/1] -> Huge Toad
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (7): Archivist Elysiana, Emperor Thaurissan, Dread Raven, Deranged Doctor, Khartut Defender, Augmented Elekk, Blingtron 3000
+  Field: Clockwork Knight[5/3], Avian Watcher[3/4], Happy Ghoul[3/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (7)
+  Field: The Darkness[20/20], Dr. Boom[7/6], Arcane Devourer[5/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(71) → 23로 보정
+[Turn 10, Step 35] Agent: 공격 - Happy Ghoul[3/3] -> Arcane Devourer
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Clockwork Knight
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 38] Agent: 공격 - Clockwork Knight[5/2] -> Arcane Devourer
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Blood of The Ancient One (코스트: 9)
+[Turn 10, Step 39] Opponent: 공격 - Dr. Boom[7/6] -> Khartut Defender
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Vaporize, Archivist Elysiana, Emperor Thaurissan, Dread Raven, Deranged Doctor, Augmented Elekk, Blingtron 3000
+  Field: Avian Watcher[3/4], Khartut Defender[3/1]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (7)
+  Field: The Darkness[20/20], Dr. Boom[7/3], Blood of The Ancient One[9/9]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(51) → 11로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Dr. Boom
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(32) → 5로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Deranged Doctor (코스트: 8)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(94) → 14로 보정
+[Turn 10, Step 43] Agent: 공격 - Avian Watcher[3/4] -> Sunstruck Henchman
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Sunstruck Henchman
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (7): Vaporize, Archivist Elysiana, Emperor Thaurissan, Dread Raven, Augmented Elekk, Blingtron 3000, Ultrasaur
+  Field: Khartut Defender[3/1], Deranged Doctor[8/8]
+Opponent: Rexxar HP: 21, Mana: 2/10
+  Hand (6)
+  Field: The Darkness[20/20], Dr. Boom[7/2], Blood of The Ancient One[9/9], Kobold Monk[3/6], Sunstruck Henchman[6/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(32) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(46) → 16로 보정
+[Turn 10, Step 48] Agent: 공격 - Khartut Defender[3/1] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(85) → 16로 보정
+[Turn 10, Step 49] Agent: 공격 - Deranged Doctor[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 3/10
+  Hand (6): Vaporize, Archivist Elysiana, Emperor Thaurissan, Augmented Elekk, Blingtron 3000, Ultrasaur
+  Field: Khartut Defender[3/1], Deranged Doctor[8/8], Dread Raven[6/4], Jade Spirit[2/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (6)
+  Field: The Darkness[20/20], Dr. Boom[7/2], Blood of The Ancient One[9/9], Kobold Monk[3/6], Sunstruck Henchman[6/1], Sandbinder[2/4], Spiteful Smith[4/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Blood of The Ancient One
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Spiteful Smith[4/6] -> Khartut Defender
+[Turn 10, Step 51] Opponent: 공격 - Kobold Monk[3/6] -> Jaina Proudmoore
+[Turn 10, Step 51] Opponent: 공격 - Dr. Boom[7/2] -> Jaina Proudmoore
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 공격 - Dread Raven[6/4] -> Spiteful Smith
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(93) → 21로 보정
+[Turn 10, Step 53] Agent: 공격 - Deranged Doctor[8/8] -> Kobold Monk
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (6): Vaporize, Emperor Thaurissan, Augmented Elekk, Blingtron 3000, Ultrasaur, C'Thun's Chosen
+  Field: Deranged Doctor[8/5], Jade Spirit[2/3], Jade Golem[1/1], Archivist Elysiana[7/7]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (7)
+  Field: The Darkness[20/20], Dr. Boom[7/2], Blood of The Ancient One[9/8], Sunstruck Henchman[6/1], Sandbinder[2/4]
+[Turn 10, Step 55] Agent: 선택 - Glacial Shard
+[Turn 10, Step 55] Agent: 선택 - Ice Block
+[Turn 10, Step 55] Agent: 선택 - Mukla, Tyrant of the Vale
+[Turn 10, Step 55] Agent: 선택 - Griftah
+[Turn 10, Step 55] Agent: 선택 - Archivist Elysiana
+[Turn 10, Step 55] Agent: 공격 - Jade Spirit[2/3] -> Dr. Boom
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 56] Agent: 공격 - Jade Golem[1/1] -> Sunstruck Henchman
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(36) → 16로 보정
+[Turn 10, Step 58] Agent: 공격 - Deranged Doctor[8/5] -> Sandbinder
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(58) → 13로 보정
+[Turn 10, Step 59] Agent: 공격 - Archivist Elysiana[7/7] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (7): Vaporize, Emperor Thaurissan, Augmented Elekk, Blingtron 3000, Ultrasaur, C'Thun's Chosen, Griftah
+  Field: Deranged Doctor[8/3], Archivist Elysiana[7/7]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (8)
+  Field: The Darkness[20/20], Blood of The Ancient One[9/8]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Emperor Thaurissan (코스트: 6)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Vaporize (코스트: 2)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(32) → 7로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Blood of The Ancient One
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 6/10
+  Hand (5): Augmented Elekk, Blingtron 3000, Ultrasaur, Griftah, Mukla, Tyrant of the Vale
+  Field: Deranged Doctor[8/3], Archivist Elysiana[7/7], Emperor Thaurissan[5/5], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 5, Mana: 9/10
+  Hand (8)
+  Field: The Darkness[20/20], Blood of The Ancient One[9/8], Potion Vendor[1/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(63) → 12로 보정
+[Turn 10, Step 65] Agent: 공격 - Emperor Thaurissan[5/5] -> Blood of The Ancient One
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Blingtron 3000 (코스트: 4)
+[Turn 10, Step 67] Agent: 공격 - Archivist Elysiana[7/7] -> Potion Vendor
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Augmented Elekk (코스트: 2)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 69] Agent: 공격 - Deranged Doctor[8/3] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 0/10
+  Hand (3): Ultrasaur, Griftah, Mukla, Tyrant of the Vale
+  Field: Deranged Doctor[8/3], Archivist Elysiana[7/6], C'Thun's Chosen[4/2], Blingtron 3000[3/4], Augmented Elekk[3/4]
+Opponent: Rexxar HP: 0, Mana: 9/10
+  Hand (8)
+  Field: The Darkness[20/20], Blood of The Ancient One[9/3]
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 0/10
+  Hand (3): Ultrasaur, Griftah, Mukla, Tyrant of the Vale
+  Field: Deranged Doctor[8/3], Archivist Elysiana[7/6], C'Thun's Chosen[4/2], Blingtron 3000[3/4], Augmented Elekk[3/4]
+Opponent: Rexxar HP: 0, Mana: 9/10
+  Hand (8)
+  Field: The Darkness[20/20], Blood of The Ancient One[9/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

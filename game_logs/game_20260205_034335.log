@@ -1,0 +1,263 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Scavenger's Ingenuity (코스트: 2)
+[Turn 1, Step 3] Opponent: 공격 - Lightwarden[1/2] -> Mad Bomber
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Mad Bomber
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Haunted Creeper, Furious Ettin, Ultrasaur, Blackwing Corruptor, Witch's Cauldron
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Abusive Sergeant (코스트: 1)
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Sunstruck Henchman
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/4
+  Hand (6): Haunted Creeper, Furious Ettin, Ultrasaur, Blackwing Corruptor, Witch's Cauldron, Dalaran Crusader
+  Field: Abusive Sergeant[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: Sunstruck Henchman[6/4]
+[Turn 4, Step 10] Agent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 4, Step 11] Agent: 공격 - Abusive Sergeant[1/1] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 공격 - Haunted Creeper[1/2] -> Sunstruck Henchman
+[Turn 5, Step 14] Agent: 카드 플레이 - Blackwing Corruptor (코스트: 5)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (5): Furious Ettin, Ultrasaur, Witch's Cauldron, Dalaran Crusader, Dragoncaller Alanna
+  Field: Abusive Sergeant[1/1], Spectral Spider[1/1], Spectral Spider[1/1], Blackwing Corruptor[5/4]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (5)
+  Field: Sunstruck Henchman[6/3], Mortuary Machine[8/8]
+[Turn 5, Step 15] Agent: 공격 - Abusive Sergeant[1/1] -> Mortuary Machine
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Spring Rocket -> Spectral Spider (코스트: 3)
+[Turn 5, Step 16] Opponent: 공격 - Sunstruck Henchman[6/3] -> Blackwing Corruptor
+[Turn 5, Step 16] Opponent: 공격 - Mortuary Machine[8/7] -> Spectral Spider
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 카드 플레이 - Scavenging Shivarra (코스트: 6)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 공격 - Scavenging Shivarra[6/3] -> Wasteland Scorpid
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (6): Furious Ettin, Ultrasaur, Witch's Cauldron, Dalaran Crusader, Dragoncaller Alanna, Scarab Egg
+  Field: Scavenging Shivarra[6/1]
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (5)
+  Field: Mortuary Machine[8/5], Wasteland Scorpid[5/5]
+[Turn 7, Step 20] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 22] Agent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 공격 - Wasteland Scorpid[5/5] -> Scarab Egg
+[Turn 7, Step 23] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Master's Call (코스트: 3)
+[Turn 7, Step 23] Opponent: 선택 - Servant of Kalimos
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 공격 - Mortuary Machine[8/5] -> Scarab
+[Turn 7, Step 23] Opponent: 카드 플레이 - Revenge of the Wild (코스트: 2)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Scavenging Shivarra[6/1] -> Wax Elemental
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (5): Furious Ettin, Ultrasaur, Dalaran Crusader, Dragoncaller Alanna, Kvaldir Raider
+  Field: Scavenging Shivarra[6/1], Scarab Egg[0/1], Scarab[1/1], Scarab[1/1], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 26, Mana: 0/8
+  Hand (4)
+  Field: Mortuary Machine[8/4], Wasteland Scorpid[5/5], Wax Elemental[0/2]
+[Turn 8, Step 25] Agent: 공격 - Scarab[1/1] -> Wax Elemental
+[Turn 8, Step 26] Agent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 8, Step 27] Agent: 영웅 능력 사용 -> Mortuary Machine
+[Turn 8, Step 28] Agent: 공격 - Scarab[1/1] -> Wax Elemental
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 공격 - Wasteland Scorpid[5/5] -> Scarab
+[Turn 8, Step 29] Opponent: 공격 - Mortuary Machine[8/3] -> Kvaldir Raider
+[Turn 8, Step 29] Opponent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 8, Step 29] Opponent: 영웅 능력 사용
+[Turn 8, Step 29] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/9
+  Hand (5): Furious Ettin, Ultrasaur, Dalaran Crusader, Dragoncaller Alanna, Terrorguard Escapee
+  Field: Scavenging Shivarra[6/1], Scarab Egg[0/1], Scarab[1/1], Witch's Cauldron[0/4], Kvaldir Raider[4/1]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (3)
+  Field: Wasteland Scorpid[5/4], Dragonmaw Sky Stalker[5/6], Goldshire Footman[1/2]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 공격 - Dragonmaw Sky Stalker[5/6] -> Scarab
+[Turn 9, Step 30] Opponent: 공격 - Goldshire Footman[1/2] -> Scavenging Shivarra
+[Turn 9, Step 30] Opponent: 영웅 능력 사용
+[Turn 9, Step 30] Opponent: 공격 - Wasteland Scorpid[5/4] -> Kvaldir Raider
+[Turn 9, Step 30] Opponent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 10, Step 32] Agent: 카드 플레이 - Furious Ettin (코스트: 7)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Dragonmaw Sky Stalker[5/5] -> Furious Ettin
+[Turn 10, Step 33] Opponent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 공격 - Servant of Kalimos[4/5] -> Furious Ettin
+[Turn 10, Step 33] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 33] Opponent: 공격 - Hunting Mastiff[2/1] -> Scarab
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (5): Ultrasaur, Dragoncaller Alanna, Terrorguard Escapee, Saboteur, Devilsaur Egg
+  Field: Scarab[1/1], Scarab[1/1], Witch's Cauldron[0/4], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (2)
+  Field: Dragonrider[3/4], Nerubian Unraveler[5/5]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Scarab
+[Turn 10, Step 36] Agent: 공격 - Scarab[1/1] -> Dragonrider
+[Turn 10, Step 37] Agent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 10, Step 38] Opponent: 공격 - Dragonrider[3/3] -> Saboteur
+[Turn 10, Step 38] Opponent: 공격 - Nerubian Unraveler[5/5] -> Witch's Cauldron
+[Turn 10, Step 38] Opponent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Dalaran Crusader
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (5): Ultrasaur, Dragoncaller Alanna, Terrorguard Escapee, Devilsaur Egg, Blowgill Sniper
+  Field: Witch's Cauldron[0/1], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 26, Mana: 2/10
+  Hand (1)
+  Field: Nerubian Unraveler[5/5], High Inquisitor Whitemane[6/8], Tournament Attendee[2/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 10, Step 41] Agent: 카드 플레이 - Blowgill Sniper -> Terrorguard Escapee (코스트: 2)
+[Turn 10, Step 42] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 10, Step 43] Agent: 공격 - Dalaran Crusader[5/4] -> Tournament Attendee
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Nerubian Unraveler[5/5] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 공격 - Huntress[1/1] -> Devilsaur Egg
+[Turn 10, Step 44] Opponent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 10, Step 44] Opponent: 공격 - High Inquisitor Whitemane[6/8] -> Terrorguard Escapee
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (3): Ultrasaur, Dragoncaller Alanna, Skyfin
+  Field: Witch's Cauldron[0/1], Dalaran Crusader[5/2], Blowgill Sniper[2/1], Devilsaur Egg[0/2]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (1)
+  Field: Nerubian Unraveler[5/5], High Inquisitor Whitemane[6/5], Huntress[1/1], Frostwolf Warlord[7/7]
+[Turn 10, Step 45] Agent: 공격 - Dalaran Crusader[5/2] -> High Inquisitor Whitemane
+[Turn 10, Step 46] Agent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Blowgill Sniper[2/1] -> Frostwolf Warlord
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Nerubian Unraveler[5/5] -> Devilsaur Egg
+[Turn 10, Step 49] Opponent: 카드 플레이 - Piranha Launcher (코스트: 5)
+[Turn 10, Step 49] Opponent: 공격 - Rexxar[2/25] -> Skyfin
+[Turn 10, Step 49] Opponent: 공격 - Huntress[1/1] -> Skyfin
+[Turn 10, Step 49] Opponent: 공격 - Frostwolf Warlord[7/5] -> Witch's Cauldron
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (3): Ultrasaur, Dragoncaller Alanna, Violet Teacher
+  Field: Devilsaur[5/5]
+Opponent: Rexxar HP: 22, Mana: 5/10
+  Hand (1)
+  Field: Nerubian Unraveler[5/5], Frostwolf Warlord[7/5], Piranha[1/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 10, Step 51] Agent: 공격 - Devilsaur[5/5] -> Nerubian Unraveler
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Piranha
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 10, Step 53] Opponent: 공격 - Frostwolf Warlord[7/5] -> Violet Teacher
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+[Turn 10, Step 53] Opponent: 카드 플레이 - Hired Gun (코스트: 3)
+[Turn 10, Step 53] Opponent: 공격 - Rexxar[2/22] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Phantom Freebooter
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (3): Ultrasaur, Dragoncaller Alanna, Replicat-o-tron
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (0)
+  Field: Frostwolf Warlord[7/2], Phantom Freebooter[5/5], Hired Gun[4/3]
+[Turn 10, Step 55] Agent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Phantom Freebooter[5/5] -> Replicat-o-tron
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 공격 - Hired Gun[4/3] -> Jaina Proudmoore
+[Turn 10, Step 56] Opponent: 공격 - Rexxar[2/22] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 57) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 4/10
+  Hand (2): Ultrasaur, Dragoncaller Alanna
+Opponent: Rexxar HP: 22, Mana: 8/10
+  Hand (1)
+  Field: Frostwolf Warlord[7/2], Phantom Freebooter[5/2], Hired Gun[4/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

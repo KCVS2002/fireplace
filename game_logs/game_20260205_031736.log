@@ -1,0 +1,229 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 2, Step 3] Agent: 공격 - Deadscale Knight[1/1] -> Murloc Raider
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (5): Augmented Elekk, Elite Tauren Chieftain, Stormpike Commando, Raven Familiar, Animated Armor
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(15) → 5로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 4, Step 8] Agent: 공격 - Raven Familiar[2/2] -> Rexxar
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/4
+  Hand (4): Augmented Elekk, Elite Tauren Chieftain, Stormpike Commando, Animated Armor
+  Field: Raven Familiar[2/2]
+Opponent: Rexxar HP: 26, Mana: 0/3
+  Hand (5)
+  Field: Nat Pagle[0/4]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Arcane Nullifier X-21 (코스트: 4)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Stormpike Commando -> Jaina Proudmoore (코스트: 5)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Raven Familiar[2/2] -> Arcane Nullifier X-21
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/6
+  Hand (5): Augmented Elekk, Animated Armor, Holomancer, Murloc Warleader, Rogues Do It...
+  Field: Stormpike Commando[4/2], Elite Tauren Chieftain[5/5]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (8)
+  Field: Nat Pagle[0/4], Arcane Nullifier X-21[2/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Rogues Do It... -> Jaina Proudmoore (코스트: 4)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 7, Step 16] Agent: 공격 - Elite Tauren Chieftain[5/5] -> Arcane Nullifier X-21
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(49) → 13로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 7, Step 18] Agent: 공격 - Stormpike Commando[4/2] -> Nat Pagle
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Murloc Warleader (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/7
+  Hand (5): Augmented Elekk, Animated Armor, Holomancer, Rogues Do It..., Fire Hawk
+  Field: Stormpike Commando[4/2], Elite Tauren Chieftain[5/3], Murloc Warleader[3/3]
+Opponent: Rexxar HP: 26, Mana: 2/6
+  Hand (9)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(58) → 1로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Blackwing Technician (코스트: 2)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Electrowright (코스트: 2)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(59) → 25로 보정
+[Turn 9, Step 23] Agent: 공격 - Elite Tauren Chieftain[5/3] -> Rexxar
+[Turn 9, Step 24] Agent: 카드 플레이 - Rogues Do It... -> Murloc Warleader (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/9
+  Hand (6): Augmented Elekk, Animated Armor, Holomancer, Fire Hawk, Flesheating Ghoul, Arcanosaur
+  Field: Stormpike Commando[4/2], Elite Tauren Chieftain[5/3], Generous Mummy[5/4]
+Opponent: Rexxar HP: 21, Mana: 4/8
+  Hand (8)
+  Field: Blackwing Technician[2/4], Electrowright[3/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(37) → 18로 보정
+[Turn 9, Step 25] Agent: 공격 - Generous Mummy[5/4] -> Electrowright
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(80) → 10로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Generous Mummy
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(97) → 22로 보정
+[Turn 10, Step 28] Agent: 공격 - Elite Tauren Chieftain[5/3] -> Blackwing Technician
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(64) → 7로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Elven Archer -> Jaina Proudmoore (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/10
+  Hand (6): Augmented Elekk, Animated Armor, Holomancer, Fire Hawk, Flesheating Ghoul, Arcanosaur
+  Field: Stormpike Commando[4/2], Elite Tauren Chieftain[5/1], Generous Mummy[5/1], Elven Archer[1/1]
+Opponent: Rexxar HP: 21, Mana: 9/9
+  Hand (9)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(25) → 10로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Elite Tauren Chieftain
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 10, Step 33] Agent: 공격 - Stormpike Commando[4/2] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Fossilized Devilsaur (코스트: 7)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Nightblade, Augmented Elekk, Holomancer, Fire Hawk, Arcanosaur
+  Field: Stormpike Commando[4/2], Generous Mummy[5/1], Elven Archer[1/1], Animated Armor[4/4], Flesheating Ghoul[2/3]
+Opponent: Rexxar HP: 17, Mana: 3/10
+  Hand (9)
+  Field: Fossilized Devilsaur[8/8]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(40) → 16로 보정
+[Turn 10, Step 35] Agent: 공격 - Generous Mummy[5/1] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(34) → 12로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Flesheating Ghoul
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 10, Step 37] Agent: 공격 - Stormpike Commando[4/2] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Nightblade (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Augmented Elekk (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (3): Holomancer, Fire Hawk, Arcanosaur
+  Field: Stormpike Commando[4/2], Generous Mummy[5/1], Elven Archer[1/1], Animated Armor[4/4], Flesheating Ghoul[2/2], Nightblade[4/4], Augmented Elekk[3/4]
+Opponent: Rexxar HP: 5, Mana: 3/10
+  Hand (9)
+  Field: Fossilized Devilsaur[8/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 10, Step 40] Agent: 공격 - Flesheating Ghoul[2/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 41] Agent: 공격 - Elven Archer[1/1] -> Fossilized Devilsaur
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(66) → 20로 보정
+[Turn 10, Step 44] Agent: 공격 - Nightblade[4/4] -> Fossilized Devilsaur
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (3): Fire Hawk, Arcanosaur, Captured Jormungar
+  Field: Stormpike Commando[4/2], Generous Mummy[5/1], Animated Armor[4/4], Flesheating Ghoul[4/2], Augmented Elekk[3/4], Holomancer[3/3]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+  Field: Fossilized Devilsaur[8/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Generous Mummy
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 10, Step 46] Opponent: 공격 - Fossilized Devilsaur[8/3] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(69) → 17로 보정
+[Turn 10, Step 47] Agent: 공격 - Animated Armor[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (4): Fire Hawk, Arcanosaur, Captured Jormungar, Corrosive Sludge
+  Field: Stormpike Commando[4/0], Animated Armor[4/2], Flesheating Ghoul[6/0], Holomancer[3/1], Ragnaros the Firelord[1/-1]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (8)
+  Field: Fossilized Devilsaur[8/3], Ragnaros the Firelord[8/8]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

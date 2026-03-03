@@ -1,0 +1,195 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Forbidden Flame -> Guardian Augmerchant (코스트: 0)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 영웅 능력 사용
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/2
+  Hand (4): Mad Scientist, Fire Plume Phoenix, Blackwald Pixie, Mana Wraith
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Vilebrood Skitterer (코스트: 5)
+[Turn 4, Step 9] Opponent: 공격 - Vilebrood Skitterer[1/3] -> Blackwald Pixie
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): Wasteland Assassin, Mad Scientist, Fire Plume Phoenix, Mana Wraith, Whirliglider, Ice Barrier
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 6, Step 12] Agent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 공격 - Thrallmar Farseer[2/3] -> Mojomaster Zihi
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (6): Wasteland Assassin, Mad Scientist, Fire Plume Phoenix, Whirliglider, Ice Barrier, Guild Recruiter
+  Field: Mana Wraith[2/2]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (7)
+  Field: Mojomaster Zihi[5/3]
+[Turn 7, Step 15] Agent: 카드 플레이 - Mad Scientist (코스트: 3)
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 17] Agent: 공격 - Mana Wraith[2/2] -> Rexxar
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 영웅 능력 사용
+[Turn 7, Step 18] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 3)
+[Turn 7, Step 18] Opponent: 공격 - Mojomaster Zihi[5/3] -> Mana Wraith
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Guild Recruiter (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/8
+  Hand (5): Fungalmancer, Wasteland Assassin, Fire Plume Phoenix, Whirliglider, Ice Barrier
+  Field: Mad Scientist[2/2], Guild Recruiter[2/4], Faceless Shambler[1/1]
+Opponent: Rexxar HP: 27, Mana: 2/7
+  Hand (7)
+  Field: Mojomaster Zihi[5/1], Boneguard Lieutenant[3/2]
+[Turn 8, Step 20] Agent: 공격 - Mad Scientist[2/2] -> Mojomaster Zihi
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Guild Recruiter
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Omega Defender (코스트: 4)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Voodoo Doll -> Guild Recruiter (코스트: 3)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 카드 플레이 - Fire Plume Phoenix -> Voodoo Doll (코스트: 4)
+[Turn 9, Step 24] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/9
+  Hand (4): Fungalmancer, Wasteland Assassin, Whirliglider, Bull Dozer
+  Field: Faceless Shambler[1/1], Fire Plume Phoenix[3/3]
+Opponent: Rexxar HP: 27, Mana: 1/8
+  Hand (6)
+  Field: Boneguard Lieutenant[3/2]
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Boneguard Lieutenant
+[Turn 9, Step 26] Agent: 공격 - Faceless Shambler[1/1] -> Boneguard Lieutenant
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 공격 - Fire Plume Phoenix[3/3] -> Rexxar
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Fire Plume Phoenix
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (5): Fungalmancer, Wasteland Assassin, Whirliglider, Bull Dozer, Aya Blackpaw
+  Field: Fire Plume Phoenix[3/2]
+Opponent: Rexxar HP: 24, Mana: 1/9
+  Hand (6)
+  Field: Ragnaros the Firelord[8/8]
+[Turn 10, Step 30] Agent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 10, Step 31] Agent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Venomancer (코스트: 5)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 10, Step 34] Agent: 공격 - Aya Blackpaw[5/3] -> Venomancer
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 5/10
+  Hand (3): Fungalmancer, Bull Dozer, Spiritsinger Umbra
+  Field: Fire Plume Phoenix[3/2], Jade Golem[2/2], Jade Golem[1/1], Whirliglider[2/1], Wasteland Assassin[4/2]
+Opponent: Rexxar HP: 22, Mana: 3/10
+  Hand (6)
+  Field: Ragnaros the Firelord[8/8]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Jade Golem
+[Turn 10, Step 36] Agent: 공격 - Fire Plume Phoenix[3/2] -> Ragnaros the Firelord
+[Turn 10, Step 37] Agent: 공격 - Whirliglider[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Jade Golem[2/2] -> Sludge Belcher
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (4): Fungalmancer, Bull Dozer, Spiritsinger Umbra, Bomb Lobber
+  Field: Wasteland Assassin[4/2]
+Opponent: Rexxar HP: 20, Mana: 5/10
+  Hand (6)
+  Field: Ragnaros the Firelord[8/5], Sludge Belcher[3/3]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Play Dead -> Sludge Belcher (코스트: 1)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 카드 플레이 - Gurubashi Berserker (코스트: 5)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Putrid Slime
+[Turn 10, Step 43] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 10, Step 44] Agent: 공격 - Wasteland Assassin[4/2] -> Sludge Belcher
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (6): Fungalmancer, Bull Dozer, Spiritsinger Umbra, Bomb Lobber, Fiendish Servant, Pharaoh Cat
+  Field: Wasteland Assassin[4/1], Ravencaller[2/1]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (5)
+  Field: Ragnaros the Firelord[8/5], Putrid Slime[1/2], Putrid Slime[1/1], Gurubashi Berserker[2/7]
+[Turn 10, Step 45] Agent: 카드 플레이 - Pharaoh Cat (코스트: 1)
+[Turn 10, Step 46] Agent: 카드 플레이 - Candletaker (코스트: 3)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (5): Fungalmancer, Bull Dozer, Spiritsinger Umbra, Bomb Lobber, Fiendish Servant
+  Field: Wasteland Assassin[4/1], Ravencaller[2/1], Pharaoh Cat[1/2], Candletaker[3/2]
+Opponent: Rexxar HP: 20, Mana: 8/10
+  Hand (6)
+  Field: Ragnaros the Firelord[8/5], Putrid Slime[1/2], Putrid Slime[1/1], Gurubashi Berserker[2/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

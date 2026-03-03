@@ -1,0 +1,303 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Dollmaster Dorian
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (4): Spawn of N'Zoth, Felfin Navigator, Upgradeable Framebot, Linecracker
+  Field: Unpowered Mauler[2/4], Mistress of Mixtures[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Soup Vendor[1/4]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 3, Step 5] Opponent: 공격 - Soup Vendor[1/4] -> Unpowered Mauler
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Unpowered Mauler
+[Turn 4, Step 7] Agent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 4, Step 8] Agent: 공격 - Mistress of Mixtures[2/2] -> Soup Vendor
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 4, Step 9] Opponent: 공격 - Brann Bronzebeard[2/4] -> Mistress of Mixtures
+[Turn 4, Step 9] Opponent: 카드 플레이 - Recombobulator -> Murloc Raider (코스트: 2)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (5): Spawn of N'Zoth, Felfin Navigator, Linecracker, Vicious Fledgling, Bomb Lobber
+  Field: Unpowered Mauler[2/2], Upgradeable Framebot[1/5]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (4)
+  Field: Brann Bronzebeard[2/2], Patches the Pirate[1/1], Recombobulator[3/2]
+[Turn 5, Step 10] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 5, Step 11] Agent: 공격 - Upgradeable Framebot[1/5] -> Recombobulator
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Patches the Pirate[1/1] -> Felfin Navigator
+[Turn 5, Step 12] Opponent: 카드 플레이 - Powershot -> Upgradeable Framebot (코스트: 3)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Spawn of N'Zoth (코스트: 3)
+[Turn 6, Step 14] Agent: 공격 - Felfin Navigator[4/1] -> Brann Bronzebeard
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/6
+  Hand (4): Linecracker, Vicious Fledgling, Bomb Lobber, Frost Giant
+  Field: Spawn of N'Zoth[2/2]
+Opponent: Rexxar HP: 30, Mana: 2/5
+  Hand (4)
+  Field: Recombobulator[3/1]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Spawn of N'Zoth
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - Linecracker (코스트: 7)
+[Turn 7, Step 18] Agent: 공격 - Spawn of N'Zoth[2/1] -> Rexxar
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 공격 - Mini-Mage[4/1] -> Spawn of N'Zoth
+[Turn 7, Step 19] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/8
+  Hand (5): Vicious Fledgling, Bomb Lobber, Frost Giant, Sandbinder, Spellbender
+  Field: Linecracker[6/11]
+Opponent: Rexxar HP: 28, Mana: 2/7
+  Hand (4)
+  Field: Recombobulator[3/1], Dollmaster Dorian[2/6]
+[Turn 8, Step 20] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Sandbinder
+[Turn 8, Step 22] Agent: 공격 - Linecracker[6/11] -> Dollmaster Dorian
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Bomb Lobber (코스트: 5)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/9
+  Hand (4): Vicious Fledgling, Frost Giant, Spellbender, Mogor's Champion
+  Field: Linecracker[6/9], Sandbinder[2/3], Bomb Lobber[3/3]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (5)
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 28] Agent: 공격 - Linecracker[6/9] -> Rexxar
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Giggling Inventor (코스트: 6)
+[Turn 10, Step 29] Opponent: 카드 플레이 - Ticket Scalper (코스트: 4)
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (6): Vicious Fledgling, Frost Giant, Spellbender, Mogor's Champion, Anubisath Sentinel, Research Project
+  Field: Linecracker[6/9], Sandbinder[2/3], Bomb Lobber[3/3]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (5)
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Ticket Scalper[5/3], Patches the Pirate[1/1]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Sandbinder
+[Turn 10, Step 31] Agent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 10, Step 32] Agent: 공격 - Sandbinder[2/2] -> Annoy-o-Tron
+[Turn 10, Step 33] Agent: 카드 플레이 - Spellbender (코스트: 3)
+[Turn 10, Step 34] Agent: 공격 - Bomb Lobber[3/3] -> Annoy-o-Tron
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/10
+  Hand (4): Vicious Fledgling, Frost Giant, Mogor's Champion, Research Project
+  Field: Linecracker[6/9], Sandbinder[2/1], Bomb Lobber[3/2], Anubisath Sentinel[4/4]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (5)
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Ticket Scalper[5/3], Patches the Pirate[1/1]
+[Turn 10, Step 35] Agent: 공격 - Linecracker[6/9] -> Annoy-o-Tron
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 공격 - Patches the Pirate[1/1] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 공격 - Giggling Inventor[2/1] -> Linecracker
+[Turn 10, Step 36] Opponent: 카드 플레이 - Platebreaker (코스트: 5)
+[Turn 10, Step 36] Opponent: 공격 - Ticket Scalper[5/3] -> Anubisath Sentinel
+[Turn 10, Step 36] Opponent: 공격 - Annoy-o-Tron[1/2] -> Bomb Lobber
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+[Turn 10, Step 36] Opponent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Sandbinder[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Patches the Pirate
+[Turn 10, Step 39] Agent: 공격 - Bomb Lobber[3/1] -> Doomsayer
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (5): Vicious Fledgling, Frost Giant, Mogor's Champion, Research Project, SN1P-SN4P
+  Field: Linecracker[15/9], Sandbinder[2/1], Bomb Lobber[3/1]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (6)
+  Field: Platebreaker[5/5], Doomsayer[0/4]
+[Turn 10, Step 40] Agent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 10, Step 41] Agent: 카드 플레이 - Frost Giant (코스트: 2)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 영웅 능력 사용
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Blood of The Ancient One (코스트: 9)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Vicious Fledgling, Research Project, SN1P-SN4P, Pantry Spider, Moat Lurker
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (7)
+  Field: Blood of The Ancient One[9/9]
+[Turn 10, Step 45] Agent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Vicious Fledgling
+[Turn 10, Step 47] Agent: 카드 플레이 - Pantry Spider (코스트: 3)
+[Turn 10, Step 48] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Steel Rager (코스트: 4)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Stitched Tracker (코스트: 3)
+[Turn 10, Step 49] Opponent: 선택 - Sandbinder
+[Turn 10, Step 49] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 10, Step 49] Opponent: 공격 - Blood of The Ancient One[9/9] -> Cellar Spider
+[Turn 10, Step 49] Opponent: 공격 - Steel Rager[5/1] -> Pantry Spider
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Antique Healbot, SN1P-SN4P, Moat Lurker, Faceless Corruptor, Rabble Bouncer
+  Field: Vicious Fledgling[3/2]
+Opponent: Rexxar HP: 17, Mana: 0/10
+  Hand (8)
+  Field: Blood of The Ancient One[9/8], Stitched Tracker[2/2], Walnut Sprite[3/3]
+[Turn 10, Step 50] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> SN1P-SN4P
+[Turn 10, Step 52] Agent: 카드 플레이 - Faceless Corruptor -> SN1P-SN4P (코스트: 5)
+[Turn 10, Step 53] Agent: 공격 - Faceless Corruptor[4/4] -> Walnut Sprite
+[Turn 10, Step 54] Agent: 공격 - Vicious Fledgling[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (4): Antique Healbot, Moat Lurker, Rabble Bouncer, SN1P-SN4P
+  Field: Vicious Fledgling[3/2], Faceless Corruptor[4/4], Faceless Corruptor[4/1]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (8)
+  Field: Blood of The Ancient One[9/8], Stitched Tracker[2/2]
+[Turn 10, Step 55] Agent: 선택 - Lightning Speed
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Stitched Tracker[2/2] -> Faceless Corruptor
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 카드 플레이 - Eerie Statue (코스트: 4)
+[Turn 10, Step 55] Opponent: 공격 - Blood of The Ancient One[9/8] -> Faceless Corruptor
+[Turn 10, Step 55] Opponent: 카드 플레이 - Demolisher (코스트: 3)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Moat Lurker -> Vicious Fledgling (코스트: 6)
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 58] Agent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 공격 - Blood of The Ancient One[9/4] -> Undertaker
+[Turn 10, Step 59] Opponent: 공격 - Demolisher[1/4] -> Moat Lurker
+[Turn 10, Step 59] Opponent: 카드 플레이 - Nexus-Champion Saraad (코스트: 5)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Disciple of C'Thun -> Moat Lurker (코스트: 3)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (3): Antique Healbot, Rabble Bouncer, Stormpike Commando
+  Field: Vicious Fledgling[3/3]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (4)
+  Field: Blood of The Ancient One[9/3], Eerie Statue[7/7], Demolisher[1/1], Deadscale Knight[1/1], Nexus-Champion Saraad[4/5], Disciple of C'Thun[2/1], Huge Toad[3/2]
+[Turn 10, Step 60] Agent: 카드 플레이 - Stormpike Commando -> Disciple of C'Thun (코스트: 5)
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Eerie Statue
+[Turn 10, Step 62] Agent: 공격 - Vicious Fledgling[3/3] -> Rexxar
+[Turn 10, Step 63] Agent: 선택 - Flaming Claws
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Huge Toad[3/2] -> Vicious Fledgling
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (3): Antique Healbot, Rabble Bouncer, Stormpike Commando
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (5)
+  Field: Blood of The Ancient One[9/3], Eerie Statue[7/6], Demolisher[1/1], Deadscale Knight[1/1], Nexus-Champion Saraad[4/5]
+[Turn 10, Step 65] Agent: 카드 플레이 - Stormpike Commando -> Blood of The Ancient One (코스트: 5)
+[Turn 10, Step 66] Agent: 카드 플레이 - Rabble Bouncer (코스트: 2)
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 10, Step 67] Opponent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 10, Step 67] Opponent: 공격 - Deadscale Knight[1/1] -> Rabble Bouncer
+[Turn 10, Step 67] Opponent: 카드 플레이 - Sea Giant (코스트: 3)
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 공격 - Ice Rager[5/2] -> Rabble Bouncer
+[Turn 10, Step 68] Opponent: 공격 - Demolisher[1/1] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 10, Step 68] Opponent: 공격 - Blood of The Ancient One[9/1] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 영웅 능력 사용
+[Turn 10, Step 68] Opponent: 공격 - Sandbinder[2/4] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 공격 - Nexus-Champion Saraad[4/5] -> Jaina Proudmoore
+[Turn 10, Step 68] Opponent: 공격 - Sea Giant[8/8] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 69) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (2): Antique Healbot, Master Swordsmith
+Opponent: Rexxar HP: 10, Mana: 2/10
+  Hand (3)
+  Field: Blood of The Ancient One[9/1], Eerie Statue[7/6], Demolisher[1/1], Nexus-Champion Saraad[4/5], Sandbinder[2/4], Sea Giant[8/8], Archmage[4/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

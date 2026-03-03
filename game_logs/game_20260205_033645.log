@@ -1,0 +1,209 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Prince Malchezaar, Explosive Sheep, Silithid Swarmer, Azure Explorer, Evocation, Goboglide Tech
+  Field: Angry Chicken[1/1]
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 카드 플레이 - Azure Explorer (코스트: 4)
+[Turn 4, Step 6] Agent: 선택 - Sleepy Dragon
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Questing Adventurer (코스트: 3)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Questing Adventurer[2/2] -> Explosive Sheep
+[Turn 5, Step 9] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 5, Step 9] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (7): Prince Malchezaar, Silithid Swarmer, Evocation, Goboglide Tech, Sleepy Dragon, Brightwing, Faceless Lurker
+  Field: Azure Explorer[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (6)
+  Field: Untamed Beastmaster[3/4]
+[Turn 6, Step 10] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 6, Step 11] Agent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 공격 - Untamed Beastmaster[3/4] -> Goboglide Tech
+[Turn 6, Step 12] Opponent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 7, Step 14] Agent: 카드 플레이 - Evocation (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/7
+  Hand (10): Prince Malchezaar, Silithid Swarmer, Sleepy Dragon, Faceless Lurker, Soggoth the Slitherer, Upgradeable Framebot, Dragon's Fury, Arcane Explosion, Apexis Blast, Mirror Image
+  Field: Azure Explorer[2/1]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (6)
+  Field: Untamed Beastmaster[3/1], Doppelgangster[2/1], Doppelgangster[2/2], Doppelgangster[2/2]
+[Turn 7, Step 15] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 7, Step 16] Agent: 공격 - Azure Explorer[2/1] -> Doppelgangster
+[Turn 7, Step 17] Agent: 카드 플레이 - Arcane Explosion (코스트: 2)
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Doppelgangster[2/1] -> Mirror Image
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/8
+  Hand (6): Prince Malchezaar, Sleepy Dragon, Faceless Lurker, Soggoth the Slitherer, Upgradeable Framebot, Skeram Cultist
+  Field: Mirror Image[0/2], Silithid Swarmer[3/5]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (7)
+  Field: Doppelgangster[2/1], Doppelgangster[2/1]
+[Turn 8, Step 20] Agent: 카드 플레이 - Faceless Lurker (코스트: 5)
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Explosive Shot -> Silver Vanguard (코스트: 5)
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 10, Step 24] Agent: 공격 - Faceless Lurker[3/6] -> Doppelgangster
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (7): Frigid Snobold, Prince Malchezaar, Sleepy Dragon, Soggoth the Slitherer, Upgradeable Framebot, Skeram Cultist, Octosari
+  Field: Mirror Image[0/1], Silithid Swarmer[3/5], Faceless Lurker[3/4]
+Opponent: Rexxar HP: 29, Mana: 4/9
+  Hand (7)
+[Turn 10, Step 25] Agent: 카드 플레이 - Octosari (코스트: 8)
+[Turn 10, Step 26] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Skeram Cultist (코스트: 6)
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 29] Agent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/10
+  Hand (5): Frigid Snobold, Prince Malchezaar, Sleepy Dragon, Soggoth the Slitherer, Lynessa Sunsorrow
+  Field: Mirror Image[0/1], Silithid Swarmer[3/5], Faceless Lurker[3/4], Octosari[8/8], Skeram Cultist[7/6], Upgradeable Framebot[1/5]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Skeram Cultist
+[Turn 10, Step 32] Agent: 카드 플레이 - Lynessa Sunsorrow (코스트: 7)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Arcane Devourer[5/5] -> Faceless Lurker
+[Turn 10, Step 33] Opponent: 카드 플레이 - Tunnel Blaster (코스트: 7)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Frigid Snobold (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/10
+  Hand (5): Hakkar, the Soulflayer, Prince Malchezaar, Sleepy Dragon, Soggoth the Slitherer, Toxic Sewer Ooze
+  Field: Mirror Image[0/1], Silithid Swarmer[3/5], Octosari[8/8], Skeram Cultist[7/5], Upgradeable Framebot[1/5], Lynessa Sunsorrow[1/1], Frigid Snobold[2/6]
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (8)
+  Field: Arcane Devourer[5/2], Tunnel Blaster[3/7]
+[Turn 10, Step 35] Agent: 공격 - Skeram Cultist[7/5] -> Tunnel Blaster
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Octosari
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Octosari
+[Turn 10, Step 39] Agent: 공격 - Upgradeable Framebot[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Hakkar, the Soulflayer, Prince Malchezaar, Sleepy Dragon, Soggoth the Slitherer, Toxic Sewer Ooze, Dr. Boom
+  Field: Silithid Swarmer[3/2], Octosari[8/3], Upgradeable Framebot[1/2], Frigid Snobold[2/3]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 공격 - Frigid Snobold[2/3] -> Rexxar
+[Turn 10, Step 41] Agent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 10, Step 42] Agent: 카드 플레이 - Prince Malchezaar (코스트: 5)
+[Turn 10, Step 43] Agent: 공격 - Octosari[8/3] -> Rexxar
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Hakkar, the Soulflayer, Sleepy Dragon, Soggoth the Slitherer, Dr. Boom, Shifter Zerus
+  Field: Silithid Swarmer[3/2], Hellfire Warder[1/3], Hellfire Warder[1/3], Hellfire Warder[1/3], Octosari[8/3], Upgradeable Framebot[1/2], Frigid Snobold[2/3], Toxic Sewer Ooze[4/3], Prince Malchezaar[5/6]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (8)
+  Field: Magtheridon[12/12], Wasteland Assassin[4/2]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 10, Step 46] Agent: 공격 - Toxic Sewer Ooze[4/3] -> Rexxar
+[Turn 10, Step 47] Agent: 공격 - Hellfire Warder[1/3] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Frigid Snobold[2/3] -> Rexxar
+[Turn 10, Step 49] Agent: 공격 - Upgradeable Framebot[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (5): Hakkar, the Soulflayer, Sleepy Dragon, Soggoth the Slitherer, Dr. Boom, Shifter Zerus
+  Field: Silithid Swarmer[3/2], Hellfire Warder[1/2], Hellfire Warder[1/3], Hellfire Warder[1/3], Octosari[8/3], Upgradeable Framebot[1/2], Frigid Snobold[2/3], Toxic Sewer Ooze[4/3], Prince Malchezaar[5/6]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (8)
+  Field: Magtheridon[12/12], Wasteland Assassin[4/2]
+[Turn 10, Step 50] Agent: 공격 - Hellfire Warder[1/3] -> Rexxar
+[Turn 10, Step 51] Agent: 공격 - Hellfire Warder[1/2] -> Rexxar
+[Turn 10, Step 52] Agent: 공격 - Prince Malchezaar[5/6] -> Rexxar
+[Turn 10, Step 53] Agent: 공격 - Octosari[8/3] -> Rexxar
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (5): Hakkar, the Soulflayer, Sleepy Dragon, Soggoth the Slitherer, Dr. Boom, Shifter Zerus
+  Field: Silithid Swarmer[3/2], Hellfire Warder[1/2], Hellfire Warder[1/3], Hellfire Warder[1/3], Octosari[8/3], Upgradeable Framebot[1/2], Frigid Snobold[2/3], Toxic Sewer Ooze[4/3], Prince Malchezaar[5/6]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (8)
+  Field: Magtheridon[12/12], Wasteland Assassin[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

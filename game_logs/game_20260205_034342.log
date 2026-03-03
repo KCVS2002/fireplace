@@ -1,0 +1,193 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - Voodoo Doll (코스트: 3)
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Voodoo Doll
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (7): Archivist Elysiana, Jeeves, Blatant Decoy, Gadgetzan Auctioneer, Faceless Manipulator, Hex Lord Malacrass, Stranglethorn Tiger
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 영웅 능력 사용
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 카드 플레이 - Faceless Manipulator (코스트: 5)
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 영웅 능력 사용
+[Turn 5, Step 7] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 카드 플레이 - Earthen Ring Farseer -> Jaina Proudmoore (코스트: 3)
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (7): Archivist Elysiana, Jeeves, Blatant Decoy, Gadgetzan Auctioneer, Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler
+  Field: Faceless Manipulator[3/3], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (7)
+  Field: Happy Ghoul[3/3]
+[Turn 6, Step 10] Agent: 공격 - Faceless Manipulator[3/3] -> Happy Ghoul
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 6, Step 11] Opponent: 선택 - Ravencaller
+[Turn 6, Step 11] Opponent: 선택 - Gadgetzan Auctioneer
+[Turn 6, Step 11] Opponent: 영웅 능력 사용
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 7, Step 13] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 7, Step 14] Opponent: 영웅 능력 사용
+[Turn 7, Step 14] Opponent: 공격 - Griftah[4/5] -> Jaina Proudmoore
+[Turn 7, Step 14] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/8
+  Hand (10): Archivist Elysiana, Blatant Decoy, Gadgetzan Auctioneer, Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Frizz Kindleroost, Wretched Tiller, Shimmerfly, Chief Inspector
+  Field: Earthen Ring Farseer[3/3], Jeeves[1/4], Ravencaller[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (7)
+  Field: Griftah[4/5], Dalaran Librarian[2/3], Brann Bronzebeard[2/4]
+[Turn 8, Step 15] Agent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Earthen Ring Farseer
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 공격 - Dalaran Librarian[2/3] -> Ravencaller
+[Turn 8, Step 17] Opponent: 공격 - Griftah[4/5] -> Jeeves
+[Turn 8, Step 17] Opponent: 공격 - Brann Bronzebeard[2/4] -> Earthen Ring Farseer
+[Turn 8, Step 17] Opponent: 카드 플레이 - Phalanx Commander (코스트: 5)
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 영웅 능력 사용 -> Griftah
+[Turn 9, Step 19] Agent: 공격 - Chief Inspector[4/6] -> Dalaran Librarian
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/9
+  Hand (10): Archivist Elysiana, Blatant Decoy, Gadgetzan Auctioneer, Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Frizz Kindleroost, Wretched Tiller, Shimmerfly, Hogger, Doom of Elwynn
+  Field: Chief Inspector[4/4]
+Opponent: Rexxar HP: 30, Mana: 3/8
+  Hand (7)
+  Field: Griftah[4/3], Brann Bronzebeard[2/1], Phalanx Commander[4/5]
+[Turn 9, Step 20] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 9, Step 21] Agent: 카드 플레이 - Shimmerfly (코스트: 1)
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 9, Step 22] Opponent: 공격 - Griftah[4/3] -> Shimmerfly
+[Turn 9, Step 22] Opponent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 9, Step 22] Opponent: 공격 - Phalanx Commander[4/5] -> Chief Inspector
+[Turn 9, Step 22] Opponent: 공격 - Old Murk-Eye[2/4] -> Gadgetzan Auctioneer
+[Turn 9, Step 22] Opponent: 공격 - Brann Bronzebeard[2/1] -> Jaina Proudmoore
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 24] Agent: 카드 플레이 - Bomb Toss -> Brann Bronzebeard (코스트: 2)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/10
+  Hand (9): Archivist Elysiana, Blatant Decoy, Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Frizz Kindleroost, Wretched Tiller, Hogger, Doom of Elwynn, Green Jelly
+  Field: Gadgetzan Auctioneer[4/2], Unpowered Steambot[0/9], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 30, Mana: 1/9
+  Hand (6)
+  Field: Griftah[4/2], Phalanx Commander[4/1], Violet Teacher[3/5]
+[Turn 10, Step 25] Agent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+[Turn 10, Step 26] Agent: 공격 - Gadgetzan Auctioneer[4/2] -> Griftah
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 27] Opponent: 영웅 능력 사용
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Frizz Kindleroost
+[Turn 10, Step 29] Agent: 공격 - Frizz Kindleroost[5/3] -> Animated Shield
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (9): Archivist Elysiana, Blatant Decoy, Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Wretched Tiller, Hogger, Doom of Elwynn, Green Jelly, Azalina Soulthief
+  Field: Unpowered Steambot[0/9], Goblin Bomb[0/2], Frizz Kindleroost[5/1]
+Opponent: Rexxar HP: 30, Mana: 4/10
+  Hand (6)
+  Field: Phalanx Commander[4/1], Violet Teacher[3/5], Arcanosmith[3/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Imprisoned Felmaw (코스트: 2)
+[Turn 10, Step 31] Opponent: 공격 - Phalanx Commander[4/1] -> Unpowered Steambot
+[Turn 10, Step 31] Opponent: 공격 - Arcanosmith[3/2] -> Unpowered Steambot
+[Turn 10, Step 31] Opponent: 공격 - Violet Teacher[3/5] -> Unpowered Steambot
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 33] Agent: 선택 - Mechanical Yeti
+[Turn 10, Step 33] Agent: 선택 - Saronite Taskmaster
+[Turn 10, Step 33] Agent: 선택 - Midnight Drake
+[Turn 10, Step 33] Agent: 선택 - Mo'arg Artificer
+[Turn 10, Step 33] Agent: 선택 - Deathspeaker
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Wasteland Scorpid[3/9] -> Frizz Kindleroost
+[Turn 10, Step 33] Opponent: 공격 - Violet Teacher[3/5] -> Blatant Decoy
+[Turn 10, Step 33] Opponent: 카드 플레이 - Fossilized Devilsaur (코스트: 8)
+[Turn 10, Step 33] Opponent: 공격 - Phalanx Commander[4/1] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 공격 - Arcanosmith[3/2] -> Goblin Bomb
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Blatant Decoy
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (9): Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Wretched Tiller, Hogger, Doom of Elwynn, Green Jelly, Azalina Soulthief, Gadgetzan Auctioneer, Saronite Taskmaster
+  Field: Blatant Decoy[5/1], Archivist Elysiana[7/7]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (5)
+  Field: Phalanx Commander[4/1], Arcanosmith[3/2], Wasteland Scorpid[3/4], Imprisoned Felmaw[5/4], Fossilized Devilsaur[10/8]
+[Turn 10, Step 35] Agent: 공격 - Archivist Elysiana[7/7] -> Fossilized Devilsaur
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 37) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (9): Hex Lord Malacrass, Stranglethorn Tiger, Nerubian Unraveler, Wretched Tiller, Hogger, Doom of Elwynn, Green Jelly, Azalina Soulthief, Gadgetzan Auctioneer, Saronite Taskmaster
+  Field: Blatant Decoy[5/1]
+Opponent: Rexxar HP: 28, Mana: 3/10
+  Hand (5)
+  Field: Phalanx Commander[4/1], Arcanosmith[3/2], Wasteland Scorpid[3/4], Imprisoned Felmaw[5/4], Fossilized Devilsaur[10/1], Mosh'Ogg Announcer[6/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

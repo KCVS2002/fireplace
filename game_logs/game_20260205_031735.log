@@ -1,0 +1,262 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 1] Opponent: 카드 플레이 - Clear the Way (코스트: 1)
+[Turn 2, Step 1] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 4, Step 4] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 4] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 4, Step 4] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 4, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (8): Research Project, Mayor Noggenfogger, Zealous Initiate, Vilefiend, Crowd Roaster, Polymorph: Boar, Loot Hoarder, Red Mana Wyrm
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (5)
+  Field: Worgen Infiltrator[2/1], Arcane Fletcher[3/3]
+[Turn 5, Step 5] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 5, Step 5] Agent: 카드 플레이 - Loot Hoarder (코스트: 2)
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(58) → 28로 보정
+[Turn 6, Step 9] Agent: 공격 - Zealous Initiate[1/1] -> Arcane Fletcher
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (6): Research Project, Mayor Noggenfogger, Crowd Roaster, Polymorph: Boar, Red Mana Wyrm, Kobold Monk
+  Field: Loot Hoarder[3/2], Vilefiend[2/2]
+Opponent: Rexxar HP: 30, Mana: 4/5
+  Hand (6)
+  Field: Worgen Infiltrator[2/1], Arcane Fletcher[3/2], Secretkeeper[1/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(81) → 9로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(40) → 8로 보정
+[Turn 6, Step 11] Agent: 공격 - Loot Hoarder[3/2] -> Rexxar
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Polymorph: Boar -> Worgen Infiltrator (코스트: 3)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 6, Step 13] Agent: 공격 - Vilefiend[2/2] -> Boar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Boulderfist Ogre (코스트: 6)
+[Turn 6, Step 14] Opponent: 공격 - Secretkeeper[1/2] -> Loot Hoarder
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 7/7
+  Hand (6): Research Project, Mayor Noggenfogger, Crowd Roaster, Red Mana Wyrm, Kobold Monk, Archmage Vargoth
+  Field: Loot Hoarder[3/1]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (6)
+  Field: Arcane Fletcher[3/2], Boulderfist Ogre[6/7]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 7, Step 16] Agent: 공격 - Loot Hoarder[3/1] -> Boulderfist Ogre
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Dreadscale (코스트: 3)
+[Turn 7, Step 18] Opponent: 영웅 능력 사용
+[Turn 7, Step 18] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(34) → 15로 보정
+[Turn 8, Step 19] Agent: 공격 - Red Mana Wyrm[2/5] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (7): Research Project, Mayor Noggenfogger, Crowd Roaster, Kobold Monk, Archmage Vargoth, Bittertide Hydra, Bloodsail Corsair
+  Field: Red Mana Wyrm[2/5]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (7)
+  Field: Arcane Fletcher[3/1], Boulderfist Ogre[6/3], Dreadscale[4/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Crowd Roaster -> Boulderfist Ogre (코스트: 7)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(24) → 1로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Phalanx Commander (코스트: 5)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Stampede (코스트: 1)
+[Turn 9, Step 24] Opponent: 공격 - Boulderfist Ogre[6/2] -> Crowd Roaster
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (8): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Bittertide Hydra, Eater of Secrets, Linecracker, Netherwind Portal, Fire Hawk
+  Field: Red Mana Wyrm[4/3]
+Opponent: Rexxar HP: 24, Mana: 3/9
+  Hand (8)
+  Field: Dreadscale[4/2], Phalanx Commander[4/4]
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 10, Step 25] Opponent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Bittertide Hydra (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(37) → 12로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Red Mana Wyrm
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Dread Corsair (코스트: 4)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/10
+  Hand (8): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Eater of Secrets, Linecracker, Netherwind Portal, Fire Hawk, Sleepy Dragon
+  Field: Bittertide Hydra[8/7], Dread Corsair[3/3]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (9)
+  Field: Dreadscale[4/2], Phalanx Commander[4/2], Aya Blackpaw[5/1]
+[Turn 10, Step 30] Agent: 공격 - Bittertide Hydra[8/7] -> Dreadscale
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Explosive Shot -> Argent Horserider (코스트: 5)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 공격 - Phalanx Commander[4/2] -> Dread Corsair
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(42) → 12로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Eater of Secrets
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Linecracker (코스트: 7)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (7): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Netherwind Portal, Fire Hawk, Sleepy Dragon, Flame Leviathan
+  Field: Bittertide Hydra[8/1], Eater of Secrets[2/1], Linecracker[5/10]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (8)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Eater of Secrets[2/1] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Bittertide Hydra[8/1] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Hippogryph (코스트: 6)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Arena Patron (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(59) → 11로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Hippogryph
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (7): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Netherwind Portal, Fire Hawk, Sleepy Dragon, Flame Leviathan
+  Field: Bittertide Hydra[8/1], Eater of Secrets[2/1], Linecracker[5/10], Arena Patron[3/3]
+Opponent: Rexxar HP: 12, Mana: 3/10
+  Hand (7)
+  Field: Emerald Hive Queen[2/3], Hippogryph[2/5]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 공격 - Emerald Hive Queen[2/3] -> Eater of Secrets
+[Turn 10, Step 40] Opponent: 공격 - Hippogryph[2/5] -> Linecracker
+[Turn 10, Step 40] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 4)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(51) → 22로 보정
+[Turn 10, Step 41] Agent: 공격 - Linecracker[5/8] -> Emerald Hive Queen
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(36) → 10로 보정
+[Turn 10, Step 43] Agent: 공격 - Arena Patron[3/3] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Flame Leviathan (코스트: 7)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (7): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Netherwind Portal, Fire Hawk, Sleepy Dragon, Mogor's Champion
+  Field: Bittertide Hydra[8/1], Linecracker[10/6], Arena Patron[3/3], Flame Leviathan[7/7]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (6)
+  Field: Dalaran Librarian[2/3], Emerald Hive Queen[2/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Bittertide Hydra[8/1] -> Dalaran Librarian
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Netherwind Portal (코스트: 3)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 10, Step 49] Agent: 공격 - Flame Leviathan[7/7] -> Emerald Hive Queen
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 5/10
+  Hand (7): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Fire Hawk, Sleepy Dragon, Mogor's Champion, Rattling Rascal
+  Field: Linecracker[10/6], Arena Patron[3/3], Flame Leviathan[7/5]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 50] Agent: 공격 - Linecracker[10/6] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 5/10
+  Hand (7): Mayor Noggenfogger, Kobold Monk, Archmage Vargoth, Fire Hawk, Sleepy Dragon, Mogor's Champion, Rattling Rascal
+  Field: Linecracker[20/6], Arena Patron[3/3], Flame Leviathan[7/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,388 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 공격 - Emerald Hive Queen[2/3] -> Jaina Proudmoore
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/3
+  Hand (8): Unpowered Mauler, Gazlowe, Icicle, Rhonin, The Coin, Ebon Dragonsmith, Vilefiend, Ethereal Augmerchant
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Emerald Hive Queen[2/3]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Emerald Hive Queen[2/2] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Ethereal Augmerchant -> Unpowered Mauler (코스트: 1)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/5
+  Hand (8): Gazlowe, Icicle, Rhonin, The Coin, Ebon Dragonsmith, Vilefiend, Stormwind Champion, Wax Elemental
+  Field: Unpowered Mauler[2/3], Ethereal Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (7)
+  Field: Emerald Hive Queen[2/2]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Emerald Hive Queen[2/2] -> Ethereal Augmerchant
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 6, Step 11] Opponent: 영웅 능력 사용
+[Turn 6, Step 11] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 7, Step 13] Agent: 카드 플레이 - Icicle -> Unpowered Mauler (코스트: 2)
+[Turn 7, Step 14] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/7
+  Hand (7): Gazlowe, Rhonin, Ebon Dragonsmith, Vilefiend, Stormwind Champion, Charged Devilsaur, Alexstrasza
+  Field: Wax Elemental[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (7)
+  Field: Shimmering Courser[3/3], Leper Gnome[1/1]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Chief Inspector (코스트: 5)
+[Turn 7, Step 16] Opponent: 카드 플레이 - Sergeant Sally (코스트: 3)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Mana Reservoir (코스트: 2)
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Mana Reservoir
+[Turn 8, Step 19] Agent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/8
+  Hand (6): Gazlowe, Rhonin, Vilefiend, Stormwind Champion, Charged Devilsaur, Alexstrasza
+  Field: Wax Elemental[0/2], Mana Reservoir[0/5], Ebon Dragonsmith[3/4]
+Opponent: Rexxar HP: 30, Mana: 0/8
+  Hand (6)
+  Field: Shimmering Courser[3/3], Leper Gnome[1/1], Chief Inspector[4/6], Sergeant Sally[1/1]
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 8, Step 20] Opponent: 영웅 능력 사용
+[Turn 8, Step 20] Opponent: 공격 - Rexxar[5/30] -> Wax Elemental
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 22] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 9, Step 23] Agent: 공격 - Ebon Dragonsmith[3/4] -> Shimmering Courser
+[Turn 9, Step 24] Agent: 카드 플레이 - Gazlowe (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/9
+  Hand (5): Rhonin, Stormwind Champion, Charged Devilsaur, Alexstrasza, Reno Jackson
+  Field: Wax Elemental[0/2], Mana Reservoir[0/5], Ebon Dragonsmith[3/1], Vilefiend[2/2], Gazlowe[3/6]
+Opponent: Rexxar HP: 29, Mana: 0/9
+  Hand (6)
+  Field: Leper Gnome[1/1], Chief Inspector[4/6], Sergeant Sally[1/1]
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Yogg-Saron, Hope's End (코스트: 10)
+[Turn 9, Step 25] Opponent: 공격 - Sergeant Sally[1/1] -> Wax Elemental
+[Turn 9, Step 25] Opponent: 공격 - Rexxar[5/29] -> Wax Elemental
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 공격 - Gazlowe[3/6] -> Sergeant Sally
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Chief Inspector
+[Turn 10, Step 28] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 29] Agent: 공격 - Vilefiend[2/1] -> Chief Inspector
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/10
+  Hand (5): Rhonin, Stormwind Champion, Charged Devilsaur, Alexstrasza, Reno Jackson
+  Field: Mana Reservoir[0/4], Gazlowe[3/4], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 29, Mana: 0/10
+  Hand (6)
+  Field: Chief Inspector[4/2], Yogg-Saron, Hope's End[7/4]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Boulderfist Ogre (코스트: 6)
+[Turn 10, Step 30] Opponent: 공격 - Yogg-Saron, Hope's End[7/4] -> Gazlowe
+[Turn 10, Step 30] Opponent: 공격 - Chief Inspector[4/2] -> Mana Reservoir
+[Turn 10, Step 30] Opponent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Boulderfist Ogre
+[Turn 10, Step 32] Agent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Stranglethorn Tiger (코스트: 5)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Stormwind Champion
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (6): Rhonin, Charged Devilsaur, Alexstrasza, Reno Jackson, Tol'vir Stoneshaper, Sea Giant
+  Field: Imprisoned Observer[5/6], Stormwind Champion[6/5]
+Opponent: Rexxar HP: 29, Mana: 5/10
+  Hand (5)
+  Field: Boulderfist Ogre[6/4], Disguised Wanderer[3/1], Stranglethorn Tiger[5/3]
+[Turn 10, Step 35] Agent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 36] Agent: 공격 - Stormwind Champion[6/5] -> Disguised Wanderer
+[Turn 10, Step 37] Agent: 공격 - Charged Devilsaur[8/8] -> Rustsworn Inquisitor
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (6): Rhonin, Alexstrasza, Reno Jackson, Tol'vir Stoneshaper, Sea Giant, Meteorologist
+  Field: Imprisoned Observer[5/6], Stormwind Champion[6/2]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (6)
+  Field: Boulderfist Ogre[6/4], Stranglethorn Tiger[5/3]
+[Turn 10, Step 40] Agent: 공격 - Imprisoned Observer[5/6] -> Boulderfist Ogre
+[Turn 10, Step 41] Agent: 카드 플레이 - Tol'vir Stoneshaper (코스트: 4)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Stormpike Commando -> Tol'vir Stoneshaper (코스트: 5)
+[Turn 10, Step 43] Opponent: 공격 - Fjola Lightbane[3/4] -> Tol'vir Stoneshaper
+[Turn 10, Step 43] Opponent: 공격 - Stranglethorn Tiger[5/3] -> Stormwind Champion
+[Turn 10, Step 43] Opponent: 카드 플레이 - Carnivorous Cube -> Stormpike Commando (코스트: 5)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Tol'vir Stoneshaper
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (7): Azure Explorer, Rhonin, Alexstrasza, Reno Jackson, Sea Giant, Meteorologist, Hemet, Jungle Hunter
+Opponent: Rexxar HP: 29, Mana: 0/10
+  Hand (5)
+  Field: Carnivorous Cube[4/6]
+[Turn 10, Step 45] Agent: 카드 플레이 - Rhonin (코스트: 8)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Abominable Bowman (코스트: 7)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Carnivorous Cube
+[Turn 10, Step 48] Agent: 공격 - Rhonin[7/7] -> Abominable Bowman
+[Turn 10, Step 49] Agent: 카드 플레이 - Reno Jackson (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/10
+  Hand (6): Azure Explorer, Alexstrasza, Sea Giant, Meteorologist, Hemet, Jungle Hunter, Galvanizer
+  Field: Rhonin[7/1], Reno Jackson[4/6]
+Opponent: Rexxar HP: 29, Mana: 3/10
+  Hand (5)
+  Field: Carnivorous Cube[4/5], Emerald Hive Queen[2/3], Shimmering Courser[3/3], Stranglethorn Tiger[5/5]
+[Turn 10, Step 50] Agent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 공격 - Reno Jackson[4/6] -> Carnivorous Cube
+[Turn 10, Step 53] Agent: 공격 - Galvanizer[1/2] -> Shimmering Courser
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (6): Hailbringer, Azure Explorer, Alexstrasza, Sea Giant, Meteorologist, Hemet, Jungle Hunter
+  Field: Rhonin[7/1], Reno Jackson[4/2]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (6)
+  Field: Carnivorous Cube[4/1], Emerald Hive Queen[2/3], Shimmering Courser[3/2], Stranglethorn Tiger[5/5]
+[Turn 10, Step 55] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+[Turn 10, Step 56] Agent: 공격 - Rhonin[7/1] -> Shimmering Courser
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 10, Step 59] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/10
+  Hand (8): Mojomaster Zihi, Hailbringer, Azure Explorer, Alexstrasza, Sea Giant, Hemet, Jungle Hunter, Arcane Missiles, Arcane Missiles
+  Field: Reno Jackson[4/2], Meteorologist[3/3]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (7)
+  Field: Stormpike Commando[4/2], Emerald Hive Queen[2/1], Stranglethorn Tiger[5/2]
+[Turn 10, Step 60] Agent: 공격 - Meteorologist[3/3] -> Emerald Hive Queen
+[Turn 10, Step 61] Agent: 공격 - Reno Jackson[4/2] -> Stormpike Commando
+[Turn 10, Step 62] Agent: 카드 플레이 - Mojomaster Zihi (코스트: 6)
+[Turn 5, Step 63] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 5, Step 64] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 64] Opponent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 5, Step 64] Opponent: 카드 플레이 - Silent Knight (코스트: 3)
+[Turn 5, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 65) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (7): Hailbringer, Azure Explorer, Alexstrasza, Sea Giant, Hemet, Jungle Hunter, Arcane Missiles, Elemental Allies
+  Field: Meteorologist[3/1], Mojomaster Zihi[5/5]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (6)
+  Field: Lone Champion[2/4], Silent Knight[2/2]
+[Turn 6, Step 65] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 6, Step 66] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 66] Opponent: 턴 종료
+[Turn 7, Step 67] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 67] Opponent: 영웅 능력 사용
+[Turn 7, Step 67] Opponent: 턴 종료
+[Turn 8, Step 68] Agent: 공격 - Meteorologist[3/1] -> Lone Champion
+[Turn 8, Step 69] Agent: 카드 플레이 - Hemet, Jungle Hunter (코스트: 6)
+
+--- Game State (Turn 8, Step 70) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/8
+  Hand (7): Hailbringer, Azure Explorer, Alexstrasza, Sea Giant, Elemental Allies, Street Trickster, Splitting Image
+  Field: Mojomaster Zihi[5/5], Hemet, Jungle Hunter[6/6]
+Opponent: Rexxar HP: 27, Mana: 6/8
+  Hand (8)
+  Field: Lone Champion[2/1], Silent Knight[2/2]
+[Turn 8, Step 70] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 70] Opponent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 8, Step 70] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 8, Step 70] Opponent: 공격 - Lone Champion[2/1] -> Jaina Proudmoore
+[Turn 8, Step 70] Opponent: 공격 - Silent Knight[2/2] -> Mojomaster Zihi
+[Turn 8, Step 70] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 8, Step 70] Opponent: 턴 종료
+[Turn 9, Step 71] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 72] Agent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 9, Step 73] Agent: 공격 - Hemet, Jungle Hunter[6/6] -> Lone Champion
+[Turn 9, Step 74] Agent: 공격 - Mojomaster Zihi[5/3] -> Rexxar
+
+--- Game State (Turn 9, Step 75) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/9
+  Hand (7): Hailbringer, Azure Explorer, Alexstrasza, Sea Giant, Elemental Allies, Street Trickster, Splitting Image
+  Field: Mojomaster Zihi[5/3], Hemet, Jungle Hunter[6/4], Sated Threshadon[5/7]
+Opponent: Rexxar HP: 22, Mana: 0/9
+  Hand (6)
+  Field: Daring Reporter[4/4], Sunstruck Henchman[6/5], Dire Mole[1/3]
+[Turn 9, Step 75] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 공격 - Mojomaster Zihi[5/3] -> Rexxar
+[Turn 10, Step 77] Agent: 카드 플레이 - Hailbringer (코스트: 5)
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Daring Reporter
+[Turn 10, Step 79] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (5): Azure Explorer, Alexstrasza, Sea Giant, Elemental Allies, Street Trickster
+  Field: Mojomaster Zihi[5/3], Hemet, Jungle Hunter[6/4], Sated Threshadon[5/7], Hailbringer[3/4], Ice Shard[1/1], Ice Shard[1/1]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (7)
+  Field: Daring Reporter[4/3], Sunstruck Henchman[6/5], Dire Mole[1/3]
+[Turn 10, Step 80] Agent: 공격 - Hemet, Jungle Hunter[6/4] -> Dire Mole
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Daring Reporter[4/3] -> Ice Shard
+[Turn 10, Step 81] Opponent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Ice Shard
+[Turn 10, Step 83] Agent: 공격 - Mojomaster Zihi[5/3] -> Sunstruck Henchman
+[Turn 10, Step 84] Agent: 공격 - Sated Threshadon[5/7] -> Rexxar
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (5): Azure Explorer, Alexstrasza, Sea Giant, Elemental Allies, Street Trickster
+  Field: Hemet, Jungle Hunter[6/3], Sated Threshadon[5/7], Hailbringer[3/4], Ice Shard[1/1]
+Opponent: Rexxar HP: 12, Mana: 7/10
+  Hand (7)
+  Field: Daring Reporter[4/2], Jungle Panther[4/2]
+[Turn 10, Step 85] Agent: 공격 - Hailbringer[3/4] -> Daring Reporter
+[Turn 10, Step 86] Agent: 카드 플레이 - Azure Explorer (코스트: 4)
+[Turn 10, Step 87] Agent: 선택 - Deathwing, Dragonlord
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 공격 - Jungle Panther[4/2] -> Hemet, Jungle Hunter
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 카드 플레이 - Deathwing, Dragonlord (코스트: 10)
+[Turn 10, Step 89] Agent: 공격 - Sated Threshadon[5/7] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (4): Alexstrasza, Sea Giant, Elemental Allies, Street Trickster
+  Field: Sated Threshadon[5/7], Ice Shard[1/1], Azure Explorer[2/3], Deathwing, Dragonlord[12/12]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 90] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 90] Opponent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 90] Opponent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 10, Step 90] Opponent: 턴 종료
+[Turn 10, Step 91] Agent: 공격 - Deathwing, Dragonlord[12/12] -> Daring Reporter
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Nerubian Unraveler
+[Turn 10, Step 93] Agent: 공격 - Azure Explorer[2/3] -> Rexxar
+[Turn 10, Step 94] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 94] Opponent: 카드 플레이 - Carrion Grub (코스트: 3)
+[Turn 10, Step 94] Opponent: 공격 - Nerubian Unraveler[5/4] -> Azure Explorer
+[Turn 10, Step 94] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (4): Alexstrasza, Sea Giant, Elemental Allies, Street Trickster
+  Field: Sated Threshadon[5/7], Ice Shard[1/1], Deathwing, Dragonlord[12/9]
+Opponent: Rexxar HP: 5, Mana: 7/10
+  Hand (7)
+  Field: Nerubian Unraveler[5/2], Carrion Grub[2/5]
+[Turn 10, Step 95] Agent: 공격 - Deathwing, Dragonlord[12/9] -> Rexxar
+
+--- Game State (Turn 10, Step 96) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (4): Alexstrasza, Sea Giant, Elemental Allies, Street Trickster
+  Field: Sated Threshadon[5/7], Ice Shard[1/1], Deathwing, Dragonlord[12/9]
+Opponent: Rexxar HP: 0, Mana: 7/10
+  Hand (7)
+  Field: Nerubian Unraveler[5/2], Carrion Grub[2/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

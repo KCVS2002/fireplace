@@ -1,0 +1,278 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Corridor Creeper, Giant Mastodon, Magtheridon, Shield of Galakrond, Naga Corsair
+  Field: Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 2, Step 5] Agent: 공격 - Unstable Ghoul[1/3] -> Rexxar
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Wicked Skeleton (코스트: 4)
+[Turn 3, Step 8] Opponent: 공격 - Blistering Rot[1/2] -> Unstable Ghoul
+[Turn 3, Step 8] Opponent: 공격 - Living Rot[1/2] -> Unstable Ghoul
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (6): Bonechewer Vanguard, Corridor Creeper, Giant Mastodon, Magtheridon, Shield of Galakrond, Tournament Attendee
+  Field: Unstable Ghoul[1/1], Naga Corsair[5/4]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (5)
+  Field: Blistering Rot[1/1], Living Rot[1/1], Living Rot[1/1], Wicked Skeleton[1/1]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 4, Step 10] Agent: 공격 - Unstable Ghoul[1/1] -> Blistering Rot
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 영웅 능력 사용
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 5, Step 13] Agent: 공격 - Naga Corsair[5/3] -> Rexxar
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 5, Step 14] Agent: 카드 플레이 - Corridor Creeper (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (6): Bonechewer Vanguard, Giant Mastodon, Magtheridon, Shield of Galakrond, Tournament Attendee, Twilight Drake
+  Field: Naga Corsair[5/3], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 21, Mana: 3/5
+  Hand (6)
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 5, Step 15] Opponent: 선택 - Gadgetzan Jouster
+[Turn 5, Step 15] Opponent: 선택 - Cat Trick
+[Turn 5, Step 15] Opponent: 카드 플레이 - Pompous Thespian (코스트: 2)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Naga Corsair
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 6, Step 18] Agent: 공격 - Corridor Creeper[2/5] -> Pompous Thespian
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 공격 - Hellfire Warder[1/3] -> Corridor Creeper
+[Turn 6, Step 19] Opponent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 6, Step 19] Opponent: 공격 - Hellfire Warder[1/3] -> Jaina Proudmoore
+[Turn 6, Step 19] Opponent: 카드 플레이 - Swift Messenger (코스트: 4)
+[Turn 6, Step 19] Opponent: 공격 - Griftah[4/5] -> Jaina Proudmoore
+[Turn 6, Step 19] Opponent: 공격 - Hellfire Warder[1/3] -> Corridor Creeper
+[Turn 6, Step 19] Opponent: 공격 - Swift Messenger[6/2] -> Naga Corsair
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (8): Bonechewer Vanguard, Giant Mastodon, Shield of Galakrond, Tournament Attendee, Twilight Drake, Gadgetzan Jouster, Madder Bomber, Siamat
+  Field: Magtheridon[12/12]
+Opponent: Rexxar HP: 21, Mana: 0/7
+  Hand (5)
+  Field: Griftah[4/5], Hellfire Warder[1/1], Hellfire Warder[1/1], Hellfire Warder[1/3], Blackwald Pixie[3/4]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 공격 - Hellfire Warder[1/1] -> Tournament Attendee
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(82) → 12로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 영웅 능력 사용
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/9
+  Hand (9): Bonechewer Vanguard, Giant Mastodon, Shield of Galakrond, Twilight Drake, Gadgetzan Jouster, Madder Bomber, Siamat, Volcanic Potion, Mechanical Whelp
+  Field: Magtheridon[12/12]
+Opponent: Rexxar HP: 20, Mana: 7/9
+  Hand (7)
+  Field: Griftah[4/5], Hellfire Warder[1/1], Hellfire Warder[1/2], Blackwald Pixie[3/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Siamat (코스트: 7)
+[Turn 9, Step 26] Agent: 선택 - Siamat's Speed
+[Turn 9, Step 26] Agent: 선택 - Siamat's Shield
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Griftah
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(89) → 4로 보정
+[Turn 9, Step 27] Agent: 공격 - Siamat[6/6] -> Blackwald Pixie
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (8): Bonechewer Vanguard, Giant Mastodon, Shield of Galakrond, Twilight Drake, Gadgetzan Jouster, Madder Bomber, Volcanic Potion, Spiteful Smith
+  Field: Magtheridon[12/12], Siamat[6/6], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 20, Mana: 6/10
+  Hand (7)
+  Field: Griftah[4/4], Hellfire Warder[1/1], Hellfire Warder[1/2], Escaped Manasaber[3/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 10, Step 31] Agent: 공격 - Siamat[6/6] -> Griftah
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Hellfire Warder
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Wind-up Burglebot (코스트: 6)
+[Turn 10, Step 34] Opponent: 공격 - Hellfire Warder[1/1] -> Mechanical Whelp
+[Turn 10, Step 34] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 34] Opponent: 공격 - Escaped Manasaber[3/5] -> Siamat
+[Turn 10, Step 34] Opponent: 공격 - Hellfire Warder[1/1] -> Mechanical Whelp
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (9): Bonechewer Vanguard, Giant Mastodon, Shield of Galakrond, Gadgetzan Jouster, Madder Bomber, Volcanic Potion, Spiteful Smith, Escaped Manasaber, Wrapped Golem
+  Field: Magtheridon[12/12], Mechanical Dragon[7/7], Twilight Drake[4/8]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Wind-up Burglebot[5/6], Young Priestess[2/1], Injured Blademaster[4/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(56) → 6로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(57) → 17로 보정
+[Turn 10, Step 36] Agent: 공격 - Twilight Drake[4/6] -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Mechanical Dragon[7/5] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(53) → 11로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Wind-up Burglebot
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 4/10
+  Hand (7): Bonechewer Vanguard, Giant Mastodon, Shield of Galakrond, Madder Bomber, Spiteful Smith, Escaped Manasaber, Wrapped Golem
+  Field: Magtheridon[12/12], Mechanical Dragon[7/5], Twilight Drake[4/6], Gadgetzan Jouster[2/3]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (6)
+  Field: Wind-up Burglebot[5/3], Injured Blademaster[4/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Wind-up Burglebot[5/3] -> Twilight Drake
+[Turn 10, Step 40] Opponent: 카드 플레이 - Gnomish Experimenter (코스트: 3)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(37) → 12로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Injured Blademaster
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 10, Step 44] Agent: 선택 - Shifting Scroll
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Dwarven Sharpshooter (코스트: 1)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (8): Bonechewer Vanguard, Giant Mastodon, Madder Bomber, Spiteful Smith, Escaped Manasaber, Wrapped Golem, Mirror Entity, Shatter
+  Field: Magtheridon[12/12], Mechanical Dragon[7/5], Twilight Drake[4/1], Gadgetzan Jouster[2/3], Shield of Galakrond[4/5]
+Opponent: Rexxar HP: 9, Mana: 9/10
+  Hand (7)
+  Field: Gnomish Experimenter[3/2], Dwarven Sharpshooter[1/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(75) → 19로 보정
+[Turn 10, Step 45] Agent: 공격 - Twilight Drake[4/1] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(62) → 12로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Gadgetzan Jouster
+[Turn 10, Step 47] Agent: 공격 - Gadgetzan Jouster[2/2] -> Dwarven Sharpshooter
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(77) → 12로 보정
+[Turn 10, Step 48] Agent: 공격 - Shield of Galakrond[4/5] -> Dwarven Sharpshooter
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 10, Step 49] Opponent: 영웅 능력 사용
+[Turn 10, Step 49] Opponent: 카드 플레이 - Chicken (코스트: 1)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (9): Bonechewer Vanguard, Giant Mastodon, Madder Bomber, Spiteful Smith, Escaped Manasaber, Wrapped Golem, Molten Reflection, Shatter, Rend Blackhand
+  Field: Magtheridon[12/12], Mechanical Dragon[7/5], Twilight Drake[4/1], Gadgetzan Jouster[2/1], Shield of Galakrond[4/4]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (5)
+  Field: Gnomish Experimenter[3/2], Abomination[4/4], Chicken[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(31) → 6로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Abomination
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Shield of Galakrond[4/4] -> Abomination
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 10, Step 53] Agent: 공격 - Mechanical Dragon[7/3] -> Rexxar
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (8): Bonechewer Vanguard, Giant Mastodon, Madder Bomber, Spiteful Smith, Escaped Manasaber, Molten Reflection, Shatter, Rend Blackhand
+  Field: Magtheridon[12/12], Mechanical Dragon[7/3], Wrapped Golem[7/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

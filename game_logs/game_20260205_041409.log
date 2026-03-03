@@ -1,0 +1,283 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - On the Hunt -> Rexxar (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 공격 - Mastiff[1/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (5): Proud Defender, Hecklebot, Tournament Medic, Fencing Coach, N'Zoth, the Corruptor
+  Field: Secretkeeper[1/2]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+  Field: Mastiff[1/1]
+[Turn 2, Step 5] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 공격 - Mastiff[1/1] -> Secretkeeper
+[Turn 2, Step 6] Opponent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 3, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 9] Agent: 공격 - Secretkeeper[1/1] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/3
+  Hand (5): Proud Defender, Hecklebot, Tournament Medic, N'Zoth, the Corruptor, Mogu Cultist
+  Field: Secretkeeper[1/1], Fencing Coach[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/3
+  Hand (4)
+  Field: Sharkfin Fan[2/2]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 3, Step 10] Opponent: 공격 - Sharkfin Fan[2/2] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Secretkeeper[1/1] -> Silverback Patriarch
+[Turn 4, Step 13] Agent: 공격 - Fencing Coach[2/2] -> Silverback Patriarch
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Sharkfin Fan[2/2] -> Proud Defender
+[Turn 4, Step 14] Opponent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 4, Step 14] Opponent: 공격 - Silverback Patriarch[1/1] -> Proud Defender
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/5
+  Hand (6): Hecklebot, Tournament Medic, N'Zoth, the Corruptor, Mogu Cultist, Arcane Devourer, Cloud Prince
+  Field: Fencing Coach[2/1], Proud Defender[2/3]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (4)
+  Field: Shield of Galakrond[4/5]
+[Turn 5, Step 15] Agent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 5, Step 16] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 5, Step 17] Agent: 공격 - Fencing Coach[2/1] -> Shield of Galakrond
+[Turn 5, Step 18] Agent: 공격 - Proud Defender[2/3] -> Shield of Galakrond
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 5, Step 19] Opponent: 선택 - Hunting Party
+[Turn 5, Step 19] Opponent: 공격 - Shield of Galakrond[4/1] -> Hecklebot
+[Turn 5, Step 19] Opponent: 공격 - Eydis Darkbane[3/4] -> Hecklebot
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (5): Tournament Medic, N'Zoth, the Corruptor, Arcane Devourer, Cloud Prince, Scorp-o-matic
+  Field: Hecklebot[3/1], Mogu Cultist[1/1]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (5)
+  Field: Eydis Darkbane[3/1], Arcane Dynamo[3/4]
+[Turn 6, Step 20] Agent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 6, Step 21] Agent: 카드 플레이 - Scorp-o-matic -> Mogu Cultist (코스트: 2)
+[Turn 6, Step 22] Agent: 공격 - Hecklebot[3/1] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 영웅 능력 사용
+[Turn 6, Step 23] Opponent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 6, Step 23] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 6, Step 23] Opponent: 공격 - Eydis Darkbane[3/1] -> Hecklebot
+[Turn 6, Step 23] Opponent: 공격 - Arcane Dynamo[3/4] -> Jaina Proudmoore
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Shu'ma (코스트: 7)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/7
+  Hand (3): N'Zoth, the Corruptor, Arcane Devourer, Cloud Prince
+  Field: Tournament Medic[1/8], Scorp-o-matic[1/2], Shu'ma[1/7]
+Opponent: Rexxar HP: 24, Mana: 0/7
+  Hand (4)
+  Field: Arcane Dynamo[3/4], Gluttonous Ooze[3/3], Toxicologist[2/2]
+[Turn 7, Step 25] Agent: 공격 - Tournament Medic[1/8] -> Rexxar
+[Turn 7, Step 26] Agent: 공격 - Scorp-o-matic[1/2] -> Rexxar
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 공격 - Arcane Dynamo[3/4] -> Tentacle
+[Turn 7, Step 27] Opponent: 공격 - Gluttonous Ooze[3/3] -> Shu'ma
+[Turn 7, Step 27] Opponent: 공격 - Toxicologist[2/2] -> Tentacle
+[Turn 7, Step 27] Opponent: 카드 플레이 - Bone Drake (코스트: 6)
+[Turn 7, Step 27] Opponent: 카드 플레이 - Play Dead -> Bone Drake (코스트: 1)
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 8, Step 29] Agent: 공격 - Tournament Medic[1/8] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/8
+  Hand (3): N'Zoth, the Corruptor, Cloud Prince, Unpowered Steambot
+  Field: Tournament Medic[1/8], Scorp-o-matic[1/2], Tentacle[1/1], Shu'ma[1/4], Tentacle[1/1], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 21, Mana: 1/8
+  Hand (4)
+  Field: Arcane Dynamo[3/3], Gluttonous Ooze[3/2], Toxicologist[2/1], Bone Drake[6/5]
+[Turn 8, Step 30] Agent: 공격 - Scorp-o-matic[1/2] -> Rexxar
+[Turn 8, Step 31] Agent: 공격 - Tentacle[1/1] -> Rexxar
+[Turn 8, Step 32] Agent: 공격 - Shu'ma[1/4] -> Rexxar
+[Turn 8, Step 33] Agent: 공격 - Tentacle[1/1] -> Rexxar
+[Turn 8, Step 34] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 34] Opponent: 공격 - Toxicologist[2/1] -> Shu'ma
+[Turn 8, Step 34] Opponent: 공격 - Bone Drake[6/5] -> Shu'ma
+[Turn 8, Step 34] Opponent: 공격 - Gluttonous Ooze[3/2] -> Jaina Proudmoore
+[Turn 8, Step 34] Opponent: 공격 - Arcane Dynamo[3/3] -> Tentacle
+[Turn 8, Step 34] Opponent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 8, Step 34] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 8, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 9/9
+  Hand (4): N'Zoth, the Corruptor, Cloud Prince, Unpowered Steambot, Old Murk-Eye
+  Field: Tournament Medic[1/8], Scorp-o-matic[1/2], Tentacle[1/1], Tentacle[1/1], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 17, Mana: 1/9
+  Hand (3)
+  Field: Arcane Dynamo[3/2], Gluttonous Ooze[3/2], Bone Drake[6/4], Aya Blackpaw[5/3], Jade Golem[1/1], Transmogrifier[2/3]
+[Turn 9, Step 35] Agent: 공격 - Tournament Medic[1/8] -> Aya Blackpaw
+[Turn 9, Step 36] Agent: 공격 - Scorp-o-matic[1/2] -> Aya Blackpaw
+[Turn 9, Step 37] Agent: 공격 - Tentacle[1/1] -> Jade Golem
+[Turn 9, Step 38] Agent: 공격 - Arcane Devourer[5/5] -> Arcane Dynamo
+[Turn 9, Step 39] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/9
+  Hand (3): N'Zoth, the Corruptor, Unpowered Steambot, Old Murk-Eye
+  Field: Tournament Medic[1/3], Tentacle[1/1], Arcane Devourer[5/2], Cloud Prince[4/4]
+Opponent: Rexxar HP: 17, Mana: 1/9
+  Hand (3)
+  Field: Gluttonous Ooze[3/2], Bone Drake[6/4], Aya Blackpaw[5/1], Transmogrifier[2/3]
+[Turn 9, Step 40] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 9, Step 41] Agent: 공격 - Tentacle[1/1] -> Rexxar
+[Turn 9, Step 42] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 42] Opponent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 9, Step 42] Opponent: 카드 플레이 - Dragon Consort (코스트: 5)
+[Turn 9, Step 42] Opponent: 공격 - Aya Blackpaw[5/1] -> Unpowered Steambot
+[Turn 9, Step 42] Opponent: 영웅 능력 사용
+[Turn 9, Step 42] Opponent: 공격 - Gluttonous Ooze[3/2] -> Unpowered Steambot
+[Turn 9, Step 42] Opponent: 공격 - Bone Drake[6/4] -> Unpowered Steambot
+[Turn 9, Step 42] Opponent: 공격 - Transmogrifier[2/3] -> Cloud Prince
+[Turn 9, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Tournament Medic[1/3] -> Gluttonous Ooze
+[Turn 10, Step 44] Agent: 공격 - Tentacle[1/1] -> Bone Drake
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (3): N'Zoth, the Corruptor, Old Murk-Eye, Freezing Potion
+  Field: Arcane Devourer[5/2], Cloud Prince[4/2]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (2)
+  Field: Gluttonous Ooze[3/1], Bone Drake[6/3], Aya Blackpaw[5/1], Explosive Sheep[1/1], Dragon Consort[5/5]
+[Turn 10, Step 45] Agent: 공격 - Arcane Devourer[5/2] -> Aya Blackpaw
+[Turn 10, Step 46] Agent: 공격 - Cloud Prince[4/2] -> Explosive Sheep
+[Turn 10, Step 47] Agent: 카드 플레이 - N'Zoth, the Corruptor (코스트: 10)
+[Turn 10, Step 48] Agent: 카드 플레이 - Freezing Potion -> Rexxar (코스트: 0)
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 영웅 능력 사용
+[Turn 10, Step 49] Opponent: 공격 - Dragon Consort[5/3] -> Jaina Proudmoore
+[Turn 10, Step 49] Opponent: 카드 플레이 - Hunting Party (코스트: 5)
+[Turn 10, Step 49] Opponent: 공격 - Bone Drake[6/1] -> N'Zoth, the Corruptor
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (2): Old Murk-Eye, Dragonling Mechanic
+  Field: N'Zoth, the Corruptor[5/1]
+Opponent: Rexxar HP: 16, Mana: 3/10
+  Hand (4)
+  Field: Dragon Consort[5/3]
+[Turn 10, Step 50] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 51] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 53] Agent: 공격 - N'Zoth, the Corruptor[5/1] -> Rexxar
+[Turn 10, Step 54] Agent: 공격 - Old Murk-Eye[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 0/10
+  Hand (0): 
+  Field: N'Zoth, the Corruptor[5/1], Old Murk-Eye[2/4], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (4)
+  Field: Dragon Consort[5/3]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Dragon Consort[5/3] -> N'Zoth, the Corruptor
+[Turn 10, Step 55] Opponent: 카드 플레이 - Hir'eek, the Bat (코스트: 8)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Old Murk-Eye[2/4] -> Hir'eek, the Bat
+[Turn 10, Step 57] Agent: 공격 - Mechanical Dragonling[2/1] -> Hir'eek, the Bat
+[Turn 10, Step 58] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 59] Agent: 공격 - Dragonling Mechanic[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 1/10
+  Hand (0): 
+  Field: Old Murk-Eye[2/3], Dragonling Mechanic[2/4], Dragonhatcher[2/4]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (5)
+  Field: Hir'eek, the Bat[1/1], Hir'eek, the Bat[1/1], Hir'eek, the Bat[1/1], Hir'eek, the Bat[1/1], Hir'eek, the Bat[1/1]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Hir'eek, the Bat[1/1] -> Dragonhatcher
+[Turn 10, Step 60] Opponent: 공격 - Hir'eek, the Bat[1/1] -> Dragonhatcher
+[Turn 10, Step 60] Opponent: 공격 - Hir'eek, the Bat[1/1] -> Old Murk-Eye
+[Turn 10, Step 60] Opponent: 카드 플레이 - Zilliax (코스트: 5)
+[Turn 10, Step 60] Opponent: 공격 - Hir'eek, the Bat[1/1] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 공격 - Zilliax[3/2] -> Dragonhatcher
+[Turn 10, Step 60] Opponent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 10, Step 60] Opponent: 공격 - Hir'eek, the Bat[1/1] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 63] Agent: 공격 - Old Murk-Eye[2/2] -> Zilliax
+[Turn 10, Step 64] Agent: 공격 - Dragonling Mechanic[2/4] -> Abomination
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 3/10
+  Hand (0): 
+  Field: Seaforium Bomber[5/5]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (7)
+  Field: Hir'eek, the Bat[1/1], Hir'eek, the Bat[1/1], Abomination[4/2]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+[Turn 10, Step 65] Opponent: 공격 - Abomination[4/2] -> Seaforium Bomber
+
+--- Game State (Turn 10, Step 66) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (0): 
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (7)
+  Field: Hir'eek, the Bat[1/-1], Hir'eek, the Bat[1/-1], Frizz Kindleroost[5/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

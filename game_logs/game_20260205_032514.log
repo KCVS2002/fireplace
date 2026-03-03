@@ -1,0 +1,431 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(4) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (5): Grimestreet Informant, Pompous Thespian, Rattling Rascal, Brainstormer, Kabal Lackey
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 3, Step 7] Agent: 선택 - Hydrologist
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Daring Fire-Eater (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Brainstormer (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/4
+  Hand (5): Pompous Thespian, Rattling Rascal, Kabal Lackey, Hydrologist, Hogger
+  Field: Grimestreet Informant[1/1], Daring Fire-Eater[1/1], Brainstormer[3/1]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (5)
+  Field: Shade of Naxxramas[2/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 4, Step 10] Agent: 카드 플레이 - Kabal Lackey (코스트: 1)
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Shade of Naxxramas[3/3] -> Grimestreet Informant
+[Turn 4, Step 11] Opponent: 영웅 능력 사용
+[Turn 4, Step 11] Opponent: 카드 플레이 - Crazed Alchemist -> Shade of Naxxramas (코스트: 2)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 5, Step 14] Agent: 공격 - Kabal Lackey[2/1] -> Shade of Naxxramas
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/5
+  Hand (4): Pompous Thespian, Rattling Rascal, Hydrologist, Hogger
+  Field: Daring Fire-Eater[1/1], Brainstormer[3/1], Explosive Sheep[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Shade of Naxxramas[2/1], Crazed Alchemist[2/2]
+[Turn 5, Step 15] Agent: 공격 - Brainstormer[3/1] -> Rexxar
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 5, Step 16] Agent: 공격 - Daring Fire-Eater[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 공격 - Shade of Naxxramas[3/2] -> Brainstormer
+[Turn 5, Step 17] Opponent: 공격 - Crazed Alchemist[2/2] -> Explosive Sheep
+[Turn 5, Step 17] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 6, Step 18] Agent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 6, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (4): Pompous Thespian, Hydrologist, Hogger, Nerub'ar Weblord
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5]
+Opponent: Rexxar HP: 24, Mana: 4/6
+  Hand (5)
+  Field: King's Elekk[3/2]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 카드 플레이 - Pompous Thespian (코스트: 2)
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Pompous Thespian
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Nefarian (코스트: 9)
+[Turn 8, Step 24] Opponent: 공격 - King's Elekk[3/2] -> Pompous Thespian
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 9/9
+  Hand (6): Hydrologist, Hogger, Nerub'ar Weblord, Ancient Mysteries, Unstable Ghoul, Unstable Portal
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5]
+Opponent: Rexxar HP: 24, Mana: 0/9
+  Hand (9)
+  Field: Nefarian[8/8]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Unstable Portal (코스트: 2)
+[Turn 9, Step 26] Agent: 카드 플레이 - Ancient Mysteries (코스트: 2)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(68) → 12로 보정
+[Turn 9, Step 27] Agent: 공격 - Skeletal Enforcer[5/5] -> Rexxar
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Hydrologist (코스트: 2)
+[Turn 9, Step 29] Agent: 선택 - Explosive Runes
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(56) → 4로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (4): Hogger, Nerub'ar Weblord, Unstable Ghoul, Ogre Ninja
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5], Hydrologist[2/2]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (9)
+  Field: Nefarian[8/8]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 30] Agent: 공격 - Rattling Rascal[2/2] -> Nefarian
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Call of the Wild (코스트: 8)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(59) → 8로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Skeletal Enforcer
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(21) → 5로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (3): Hogger, Nerub'ar Weblord, Ogre Ninja
+  Field: Skeletal Enforcer[5/4], Hydrologist[2/2], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2], Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (9)
+  Field: Skeletal Enforcer[6/5], Nefarian[9/6], Huffer[5/2], Leokk[2/4], Misha[5/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Hydrologist[2/2] -> Misha
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Hemet Nesingwary -> Huffer (코스트: 5)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(40) → 18로 보정
+[Turn 10, Step 37] Agent: 공격 - Doppelgangster[2/2] -> Misha
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(52) → 17로 보정
+[Turn 10, Step 38] Agent: 공격 - Skeletal Enforcer[5/4] -> Nefarian
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(41) → 12로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Unstable Ghoul
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (4): Hogger, Nerub'ar Weblord, Ogre Ninja, Hecklebot
+  Field: Doppelgangster[2/2], Doppelgangster[2/2], Unstable Ghoul[1/2]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (9)
+  Field: Skeletal Enforcer[6/5], Nefarian[9/1], Leokk[2/4], Hemet Nesingwary[7/3]
+[Turn 10, Step 40] Agent: 공격 - Doppelgangster[2/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(24) → 9로 보정
+[Turn 10, Step 41] Agent: 공격 - Doppelgangster[2/2] -> Hemet Nesingwary
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 43] Agent: 공격 - Unstable Ghoul[1/2] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Ogre Ninja (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (2): Hogger, Hecklebot
+  Field: Doppelgangster[2/2], Unstable Ghoul[1/2], Nerub'ar Weblord[1/4], Ogre Ninja[6/6]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (9)
+  Field: Skeletal Enforcer[6/5], Nefarian[9/1], Leokk[2/4], Hemet Nesingwary[7/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Hemet Nesingwary[7/1] -> Unstable Ghoul
+[Turn 10, Step 45] Opponent: 공격 - Leokk[2/3] -> Doppelgangster
+[Turn 10, Step 45] Opponent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 45] Opponent: 공격 - Skeletal Enforcer[6/4] -> Nerub'ar Weblord
+[Turn 10, Step 45] Opponent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 10, Step 45] Opponent: 선택 - Fallen Hero
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(26) → 10로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Arcane Fletcher
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 47] Agent: 공격 - Ogre Ninja[6/5] -> Skeletal Enforcer
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Fallen Hero (코스트: 2)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Hemet Nesingwary -> Leokk (코스트: 5)
+[Turn 10, Step 48] Opponent: 공격 - Arcane Fletcher[3/2] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 10, Step 48] Opponent: 공격 - Spiteful Smith[4/6] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Hecklebot (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (3): Hogger, Utgarde Grapplesniper, Dragonhatcher
+  Field: Hecklebot[3/8]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (6)
+  Field: Spiteful Smith[4/6], Chillwind Yeti[4/5], Arcane Fletcher[3/2], Fallen Hero[3/2], Hemet Nesingwary[6/3], Grizzled Wizard[3/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(72) → 9로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Fallen Hero
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 10, Step 53] Agent: 공격 - Hecklebot[3/8] -> Arcane Fletcher
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (4): Utgarde Grapplesniper, Dragonhatcher, Anomalus, Clockwork Gnome
+  Field: Hecklebot[3/5], Hogger[4/4], Gnoll[2/2]
+Opponent: Rexxar HP: 15, Mana: 7/10
+  Hand (7)
+  Field: Spiteful Smith[4/6], Chillwind Yeti[4/5], Fallen Hero[3/1], Hemet Nesingwary[6/3], Grizzled Wizard[3/2], Alexstrasza's Champion[2/3], Arcanologist[2/3]
+[Turn 10, Step 55] Agent: 공격 - Hecklebot[3/5] -> Chillwind Yeti
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Spiteful Smith
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(58) → 7로 보정
+[Turn 10, Step 59] Agent: 공격 - Hogger[4/4] -> Alexstrasza's Champion
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (3): Dragonhatcher, Anomalus, Mad Bomber
+  Field: Hecklebot[3/1], Hogger[4/2], Gnoll[2/2], Utgarde Grapplesniper[5/5], Clockwork Gnome[2/1]
+Opponent: Rexxar HP: 15, Mana: 7/10
+  Hand (8)
+  Field: Spiteful Smith[4/5], Chillwind Yeti[4/2], Fallen Hero[3/1], Hemet Nesingwary[6/3], Grizzled Wizard[3/2], Arcanologist[2/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 60] Agent: 공격 - Gnoll[2/2] -> Spiteful Smith
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(89) → 37로 보정
+[Turn 10, Step 62] Agent: 공격 - Gnoll[2/2] -> Arcanologist
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Utgarde Grapplesniper
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(36) → 5로 보정
+[Turn 10, Step 64] Agent: 공격 - Hecklebot[3/1] -> Chillwind Yeti
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (4): Dragonhatcher, Anomalus, Mad Bomber, Shatter
+  Field: Hogger[4/2], Utgarde Grapplesniper[5/4], Clockwork Gnome[2/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Spiteful Smith[4/3], Fallen Hero[3/1], Hemet Nesingwary[6/3], Grizzled Wizard[3/2], Arcanologist[2/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Grizzled Wizard[3/2] -> Gnoll
+[Turn 10, Step 65] Opponent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 10, Step 65] Opponent: 공격 - Arcanologist[2/1] -> Hogger
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(53) → 25로 보정
+[Turn 10, Step 66] Agent: 공격 - Clockwork Gnome[2/1] -> Fallen Hero
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(24) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 공격 - Hemet Nesingwary[6/3] -> Utgarde Grapplesniper
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (7): Anomalus, Mad Bomber, Shatter, Polymorph: Boar, Rusty Horn, Core Hound, Arcane Golem
+  Field: Dragonhatcher[2/4]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+  Field: Spiteful Smith[4/3], Acolyte of Pain[1/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(94) → 18로 보정
+[Turn 10, Step 70] Agent: 공격 - Dragonhatcher[2/4] -> Acolyte of Pain
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 72] Agent: 카드 플레이 - Polymorph: Boar -> Dragonhatcher (코스트: 3)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Rusty Horn -> Mad Bomber (코스트: 1)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (4): Anomalus, Shatter, Core Hound, Arcane Golem
+  Field: Boar[4/2], Mad Bomber[3/2]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (10)
+  Field: Spiteful Smith[4/2]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 75] Agent: 공격 - Boar[4/2] -> Rexxar
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 79] Agent: 공격 - Boar[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (4): Anomalus, Shatter, Arcane Golem, Spiked Hogrider
+  Field: Boar[4/2], Core Hound[9/5]
+Opponent: Rexxar HP: 6, Mana: 7/10
+  Hand (9)
+  Field: Spiteful Smith[4/2]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 80] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 80] Opponent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 10, Step 80] Opponent: 영웅 능력 사용
+[Turn 10, Step 80] Opponent: 턴 종료
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(19) → 2로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(30) → 14로 보정
+[Turn 10, Step 82] Agent: 공격 - Core Hound[9/5] -> Replicat-o-tron
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 카드 플레이 - Stranglethorn Tiger (코스트: 5)
+[Turn 10, Step 83] Opponent: 카드 플레이 - Hunter's Mark -> Boar (코스트: 2)
+[Turn 10, Step 83] Opponent: 공격 - Replicat-o-tron[5/3] -> Jaina Proudmoore
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (4): Gyrocopter, Anomalus, Shatter, Spiked Hogrider
+  Field: Boar[4/1], Arcane Golem[4/4], Parachute Brigand[2/2]
+Opponent: Rexxar HP: 6, Mana: 3/10
+  Hand (8)
+  Field: Replicat-o-tron[5/3], Replicat-o-tron[5/3]
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 86] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 10, Step 87] Agent: 공격 - Arcane Golem[4/4] -> Rexxar
+[Turn 10, Step 88] Agent: 공격 - Gyrocopter[4/5] -> Replicat-o-tron
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(52) → 1로 보정
+[Turn 10, Step 89] Agent: 공격 - Boar[4/1] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (3): Anomalus, Shatter, Spiked Hogrider
+  Field: Boar[4/1], Arcane Golem[4/4], Parachute Brigand[2/2]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (8)
+  Field: Replicat-o-tron[5/3]
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (3): Anomalus, Shatter, Spiked Hogrider
+  Field: Boar[4/1], Arcane Golem[4/4], Parachute Brigand[2/2]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (8)
+  Field: Replicat-o-tron[5/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

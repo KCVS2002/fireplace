@@ -1,0 +1,189 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 카드 플레이 - Kabal Lackey (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Amani Berserker, Scarab Egg, Hailbringer, The Black Knight, Celestial Emissary
+  Field: Kabal Lackey[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 3, Step 7] Agent: 공격 - Kabal Lackey[2/1] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 공격 - Kabal Lackey[2/1] -> River Crocolisk
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Amani Berserker, Hailbringer, The Black Knight, Celestial Emissary, Volcanic Potion, War Golem
+  Field: Scarab Egg[0/2]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: River Crocolisk[2/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (5): Hailbringer, The Black Knight, Celestial Emissary, War Golem, Don Han'Cho
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Amani Berserker[2/3]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (5)
+  Field: Worgen Greaser[6/3]
+[Turn 5, Step 15] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 영웅 능력 사용
+[Turn 5, Step 17] Opponent: 공격 - Worgen Greaser[6/3] -> Scarab
+[Turn 5, Step 17] Opponent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 19] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/6
+  Hand (5): Snapjaw Shellfighter, Hailbringer, The Black Knight, War Golem, Don Han'Cho
+  Field: Scarab[1/1], Scarab[1/1], Amani Berserker[2/3], Celestial Emissary[2/1]
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (5)
+  Field: Worgen Greaser[6/2], Squirming Tentacle[2/4]
+[Turn 6, Step 20] Agent: 공격 - Amani Berserker[2/3] -> Squirming Tentacle
+[Turn 6, Step 21] Agent: 공격 - Scarab[1/1] -> Squirming Tentacle
+[Turn 6, Step 22] Agent: 공격 - Scarab[1/1] -> Squirming Tentacle
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 6, Step 23] Opponent: 영웅 능력 사용
+[Turn 6, Step 23] Opponent: 공격 - Worgen Greaser[6/2] -> Celestial Emissary
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/7
+  Hand (6): Snapjaw Shellfighter, Hailbringer, The Black Knight, War Golem, Don Han'Cho, Deathwing, Dragonlord
+  Field: Amani Berserker[5/1]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (5)
+  Field: Night Howler[3/4]
+[Turn 7, Step 25] Agent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 7, Step 26] Agent: 공격 - Amani Berserker[5/1] -> Rexxar
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 영웅 능력 사용
+[Turn 7, Step 27] Opponent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 7, Step 27] Opponent: 공격 - Night Howler[3/4] -> Snapjaw Shellfighter
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 29] Agent: 카드 플레이 - Molten Reflection -> Amani Berserker (코스트: 4)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/8
+  Hand (5): Hailbringer, The Black Knight, War Golem, Don Han'Cho, Deathwing, Dragonlord
+  Field: Amani Berserker[5/1], Snapjaw Shellfighter[3/5], Amani Berserker[5/1]
+Opponent: Rexxar HP: 18, Mana: 1/8
+  Hand (5)
+  Field: Night Howler[5/1], Avian Watcher[3/6]
+[Turn 8, Step 30] Agent: 공격 - Amani Berserker[5/1] -> Avian Watcher
+[Turn 8, Step 31] Agent: 공격 - Snapjaw Shellfighter[3/2] -> Rexxar
+[Turn 8, Step 32] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 32] Opponent: 공격 - Night Howler[5/1] -> Jaina Proudmoore
+[Turn 8, Step 32] Opponent: 공격 - Avian Watcher[3/1] -> Amani Berserker
+[Turn 8, Step 32] Opponent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 8, Step 32] Opponent: 카드 플레이 - Scaleworm (코스트: 4)
+[Turn 8, Step 32] Opponent: 카드 플레이 - Hobgoblin (코스트: 3)
+[Turn 8, Step 32] Opponent: 턴 종료
+[Turn 9, Step 33] Agent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 9, Step 34] Agent: 선택 - Apexis Blast
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 공격 - Garrison Commander[2/3] -> Amani Berserker
+[Turn 9, Step 34] Opponent: 카드 플레이 - Spectral Knight (코스트: 5)
+[Turn 9, Step 34] Opponent: 공격 - Night Howler[5/1] -> Amani Berserker
+[Turn 9, Step 34] Opponent: 공격 - Scaleworm[4/4] -> Jaina Proudmoore
+[Turn 9, Step 34] Opponent: 공격 - Hobgoblin[2/3] -> Jaina Proudmoore
+[Turn 9, Step 34] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (7): Hailbringer, The Black Knight, War Golem, Don Han'Cho, Deathwing, Dragonlord, Apexis Blast, Rustsworn Initiate
+  Field: Arcane Dynamo[3/4]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (2)
+  Field: Scaleworm[4/4], Hobgoblin[2/3], Spectral Knight[4/6], Dragonmaw Poacher[4/4]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Hobgoblin
+[Turn 10, Step 36] Agent: 카드 플레이 - Apexis Blast -> Jaina Proudmoore (코스트: 5)
+[Turn 10, Step 37] Agent: 공격 - Arcane Dynamo[3/4] -> Spectral Knight
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Hailbringer (코스트: 5)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 5/10
+  Hand (6): The Black Knight, War Golem, Don Han'Cho, Deathwing, Dragonlord, Rustsworn Initiate, Fire Fly
+  Field: Hailbringer[3/4], Ice Shard[1/1], Ice Shard[1/1]
+Opponent: Rexxar HP: 15, Mana: 3/10
+  Hand (1)
+  Field: Scaleworm[4/4], Hobgoblin[2/2], Spectral Knight[4/3], Dragonmaw Poacher[4/4], Dread Raven[6/4]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Hailbringer
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 43) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (7): The Black Knight, War Golem, Don Han'Cho, Deathwing, Dragonlord, Rustsworn Initiate, Fire Fly, Worgen Greaser
+  Field: Hailbringer[3/3], Ice Shard[1/1], Ice Shard[1/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (2)
+  Field: Scaleworm[4/4], Hobgoblin[2/2], Spectral Knight[4/3], Dragonmaw Poacher[4/4], Dread Raven[6/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

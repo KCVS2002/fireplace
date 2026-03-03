@@ -1,0 +1,361 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Jeweled Scarab (코스트: 2)
+[Turn 2, Step 2] Agent: 선택 - Infested Goblin
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jeweled Scarab
+[Turn 3, Step 4] Agent: 카드 플레이 - Wisp (코스트: 0)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (5): Mogu Cultist, Kronx Dragonhoof, Starscryer, Infested Goblin, Ice Cream Peddler
+  Field: Wisp[1/1]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Rapid Fire -> Wisp (코스트: 1)
+[Turn 3, Step 6] Opponent: 카드 플레이 - Rapid Fire -> Mogu Cultist (코스트: 1)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/5
+  Hand (5): Kronx Dragonhoof, Starscryer, Infested Goblin, Ice Cream Peddler, Acolyte of Pain
+  Field: Crystallizer[1/3]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 11] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 5, Step 12] Agent: 공격 - Crystallizer[1/3] -> Rexxar
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 5, Step 13] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 공격 - Starscryer[3/1] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (5): Kronx Dragonhoof, Infested Goblin, Ice Cream Peddler, Acolyte of Pain, Astromancer Solarian
+  Field: Crystallizer[1/3], Starscryer[3/1]
+Opponent: Rexxar HP: 25, Mana: 1/5
+  Hand (6)
+  Field: Nightmare Amalgam[3/4], Zealous Initiate[1/1]
+[Turn 6, Step 15] Agent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 6, Step 16] Agent: 공격 - Crystallizer[1/3] -> Nightmare Amalgam
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Explorer's Hat -> Ice Cream Peddler (코스트: 2)
+[Turn 6, Step 18] Opponent: 공격 - Zealous Initiate[1/1] -> Starscryer
+[Turn 6, Step 18] Opponent: 공격 - Nightmare Amalgam[4/4] -> Ice Cream Peddler
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/7
+  Hand (5): Kronx Dragonhoof, Infested Goblin, Acolyte of Pain, Power of Creation, Prince Valanar
+  Field: Ice Cream Peddler[4/2], Astromancer Solarian[3/2]
+Opponent: Rexxar HP: 25, Mana: 4/6
+  Hand (6)
+[Turn 7, Step 20] Agent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Ice Cream Peddler
+[Turn 7, Step 22] Agent: 공격 - Ice Cream Peddler[4/1] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Rusty Recycler (코스트: 5)
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Acolyte of Pain[1/3] -> Rusty Recycler
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (6): Kronx Dragonhoof, Infested Goblin, Power of Creation, Prince Valanar, Wasteland Assassin, Burrowing Scorpid
+  Field: Ice Cream Peddler[4/1], Astromancer Solarian[3/2], Acolyte of Pain[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Rusty Recycler[2/5]
+[Turn 8, Step 25] Agent: 카드 플레이 - Burrowing Scorpid -> Acolyte of Pain (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Astromancer Solarian[3/2] -> Rusty Recycler
+[Turn 8, Step 27] Agent: 카드 플레이 - Volcanic Drake (코스트: 4)
+[Turn 8, Step 28] Agent: 공격 - Ice Cream Peddler[4/1] -> Rusty Recycler
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 8, Step 29] Opponent: 카드 플레이 - Explorer's Hat -> Volcanic Drake (코스트: 2)
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (6): Faceless Behemoth, Kronx Dragonhoof, Infested Goblin, Power of Creation, Prince Valanar, Wasteland Assassin
+  Field: Burrowing Scorpid[5/2], Volcanic Drake[7/5]
+Opponent: Rexxar HP: 27, Mana: 1/8
+  Hand (6)
+  Field: Mimiron's Head[4/5]
+[Turn 9, Step 30] Agent: 공격 - Volcanic Drake[7/5] -> Mimiron's Head
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Pit Crocolisk -> Rexxar (코스트: 8)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Volcanic Drake
+[Turn 10, Step 33] Agent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 10, Step 34] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (5): Faceless Behemoth, Kronx Dragonhoof, Power of Creation, Prince Valanar, King Phaoris
+  Field: Burrowing Scorpid[5/2], Wasteland Assassin[4/2], Infested Goblin[2/3]
+Opponent: Rexxar HP: 22, Mana: 1/9
+  Hand (7)
+  Field: Pit Crocolisk[5/6]
+[Turn 10, Step 35] Agent: 공격 - Burrowing Scorpid[5/2] -> Pit Crocolisk
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+[Turn 10, Step 36] Opponent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Explorer's Hat -> Infested Goblin (코스트: 2)
+[Turn 10, Step 36] Opponent: 공격 - Pit Crocolisk[5/1] -> Infested Goblin
+[Turn 10, Step 36] Opponent: 카드 플레이 - Explorer's Hat -> Corpsetaker (코스트: 2)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Faceless Behemoth (코스트: 10)
+[Turn 10, Step 38] Agent: 공격 - Wasteland Assassin[4/2] -> Corpsetaker
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 10, Step 39] Opponent: 공격 - Corpsetaker[4/4] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (8): Kronx Dragonhoof, Power of Creation, Prince Valanar, King Phaoris, Scarab, Scarab, Loatheb, Eggnapper
+  Field: Wasteland Assassin[4/1], Faceless Behemoth[10/10]
+Opponent: Rexxar HP: 22, Mana: 4/10
+  Hand (5)
+  Field: Corpsetaker[4/4], Ogre Brute[4/4], Living Dragonbreath[3/4]
+[Turn 10, Step 40] Agent: 공격 - Faceless Behemoth[10/10] -> Corpsetaker
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 43] Agent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Explorer's Hat -> Scarab (코스트: 7)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Bearshark (코스트: 3)
+[Turn 10, Step 44] Opponent: 공격 - Living Dragonbreath[3/4] -> Scarab
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (7): Kronx Dragonhoof, Power of Creation, Prince Valanar, King Phaoris, Scarab, Eggnapper, Mechwarper
+  Field: Wasteland Assassin[4/1], Faceless Behemoth[10/6], Loatheb[5/5]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (6)
+  Field: Ogre Brute[4/4], Living Dragonbreath[3/2], Bearshark[4/3]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Ogre Brute[4/4] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 공격 - Living Dragonbreath[3/2] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 카드 플레이 - Silent Knight (코스트: 3)
+[Turn 10, Step 45] Opponent: 공격 - Bearshark[4/3] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 카드 플레이 - Explorer's Hat -> Silent Knight (코스트: 2)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Wing Commander (코스트: 4)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 공격 - Faceless Behemoth[10/6] -> Living Dragonbreath
+[Turn 10, Step 47] Agent: 카드 플레이 - Power of Creation (코스트: 8)
+[Turn 10, Step 48] Agent: 선택 - Arcane Dynamo
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Wing Commander[2/5] -> Loatheb
+[Turn 10, Step 48] Opponent: 공격 - Bearshark[4/3] -> Loatheb
+[Turn 10, Step 48] Opponent: 카드 플레이 - C'Thun (코스트: 10)
+[Turn 10, Step 48] Opponent: 공격 - Silent Knight[3/3] -> Arcane Dynamo
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - The Curator (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (9): Kronx Dragonhoof, Prince Valanar, King Phaoris, Scarab, Eggnapper, Mechwarper, Snapjaw Shellfighter, Coldarra Drake, Mukla's Champion
+  Field: Arcane Dynamo[3/3], The Curator[4/6]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (4)
+  Field: Silent Knight[3/3], C'Thun[6/6]
+[Turn 10, Step 50] Agent: 공격 - Arcane Dynamo[3/3] -> Silent Knight
+[Turn 10, Step 51] Agent: 카드 플레이 - Eggnapper (코스트: 3)
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - C'Thun[6/6] -> The Curator
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Eggnapper
+[Turn 10, Step 54] Agent: 카드 플레이 - Kronx Dragonhoof (코스트: 6)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 2/10
+  Hand (8): Prince Valanar, King Phaoris, Scarab, Mechwarper, Snapjaw Shellfighter, Coldarra Drake, Mukla's Champion, Mecha'thun
+  Field: Raptor[1/1], Raptor[1/1], Kronx Dragonhoof[6/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (6)
+  Field: C'Thun[6/2]
+[Turn 10, Step 55] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - C'Thun[6/2] -> Scarab
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 카드 플레이 - Prince Valanar (코스트: 4)
+[Turn 10, Step 58] Agent: 카드 플레이 - Coldarra Drake (코스트: 6)
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Explorer's Hat -> Prince Valanar (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Frost Giant (코스트: 7)
+[Turn 10, Step 59] Opponent: 공격 - C'Thun[6/1] -> Prince Valanar
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): King Phaoris, Mechwarper, Snapjaw Shellfighter, Mukla's Champion, Mecha'thun, Conjurer's Calling, Maiev Shadowsong
+  Field: Raptor[1/1], Raptor[1/1], Kronx Dragonhoof[6/6], Coldarra Drake[6/6]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (7)
+  Field: Frost Giant[8/8]
+[Turn 10, Step 60] Agent: 카드 플레이 - Maiev Shadowsong -> Raptor (코스트: 4)
+[Turn 10, Step 61] Agent: 공격 - Kronx Dragonhoof[6/6] -> Frost Giant
+[Turn 10, Step 62] Agent: 카드 플레이 - Conjurer's Calling -> Frost Giant (코스트: 4)
+[Turn 10, Step 63] Agent: 공격 - Raptor[1/1] -> Rexxar
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Raptor
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (6): King Phaoris, Mechwarper, Snapjaw Shellfighter, Mukla's Champion, Mecha'thun, Conjurer's Calling
+  Field: Raptor[1/1], Coldarra Drake[6/6], Maiev Shadowsong[4/3], N'Zoth, the Corruptor[5/7], Kalecgos[4/12]
+Opponent: Rexxar HP: 20, Mana: 1/10
+  Hand (7)
+[Turn 10, Step 65] Agent: 공격 - Coldarra Drake[6/6] -> Rexxar
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Reno Jackson (코스트: 6)
+[Turn 10, Step 66] Opponent: 영웅 능력 사용
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 공격 - Coldarra Drake[6/6] -> Rexxar
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 카드 플레이 - Abominable Bowman (코스트: 7)
+[Turn 10, Step 68] Opponent: 공격 - Reno Jackson[4/6] -> Maiev Shadowsong
+[Turn 10, Step 68] Opponent: 카드 플레이 - Explorer's Hat -> Coldarra Drake (코스트: 2)
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 카드 플레이 - Mukla's Champion (코스트: 5)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 5/10
+  Hand (7): King Phaoris, Mechwarper, Snapjaw Shellfighter, Mecha'thun, Conjurer's Calling, Big Game Hunter, Madder Bomber
+  Field: Raptor[1/1], Coldarra Drake[7/7], N'Zoth, the Corruptor[5/7], Kalecgos[4/12], Mukla's Champion[4/3]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (6)
+  Field: Reno Jackson[4/2], Abominable Bowman[6/7]
+[Turn 10, Step 70] Agent: 카드 플레이 - Conjurer's Calling -> Coldarra Drake (코스트: 0)
+[Turn 10, Step 71] Agent: 카드 플레이 - Madder Bomber (코스트: 5)
+[Turn 10, Step 72] Agent: 공격 - N'Zoth, the Corruptor[5/5] -> Abominable Bowman
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 카드 플레이 - Explorer's Hat -> Kalecgos (코스트: 2)
+[Turn 10, Step 73] Opponent: 공격 - Abominable Bowman[6/2] -> Jaina Proudmoore
+[Turn 10, Step 73] Opponent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 10, Step 73] Opponent: 공격 - Reno Jackson[4/2] -> Jaina Proudmoore
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 공격 - Scarlet Webweaver[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (6): King Phaoris, Mechwarper, Snapjaw Shellfighter, Mecha'thun, Big Game Hunter, Solarian Prime
+  Field: Kalecgos[5/13], Mukla's Champion[4/1], Scarlet Webweaver[5/4], Justicar Trueheart[6/3], Madder Bomber[5/4]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (8)
+  Field: Reno Jackson[4/2], Abominable Bowman[6/2], Jepetto Joybuzz[6/6]
+[Turn 10, Step 75] Agent: 공격 - Mukla's Champion[4/1] -> Reno Jackson
+[Turn 10, Step 76] Agent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Snapjaw Shellfighter
+[Turn 10, Step 78] Agent: 공격 - Justicar Trueheart[6/3] -> Rexxar
+[Turn 10, Step 79] Agent: 공격 - Madder Bomber[5/4] -> Abominable Bowman
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 3/10
+  Hand (5): King Phaoris, Mechwarper, Mecha'thun, Big Game Hunter, Solarian Prime
+  Field: Kalecgos[5/13], Scarlet Webweaver[5/4], Justicar Trueheart[6/3], Madder Bomber[5/4], Snapjaw Shellfighter[3/1]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (8)
+  Field: Nightmare Amalgam[3/4], Pit Crocolisk[5/6], Bearshark[4/3], Jepetto Joybuzz[6/6]
+[Turn 10, Step 80] Agent: 공격 - Kalecgos[5/13] -> Jepetto Joybuzz
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Nightmare Amalgam[3/4] -> Jaina Proudmoore
+[Turn 10, Step 81] Opponent: 공격 - Pit Crocolisk[5/6] -> Madder Bomber
+[Turn 10, Step 81] Opponent: 공격 - Bearshark[4/3] -> Scarlet Webweaver
+[Turn 10, Step 81] Opponent: 카드 플레이 - Teron Gorefiend (코스트: 3)
+[Turn 10, Step 81] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 공격 - Justicar Trueheart[6/3] -> Teron Gorefiend
+[Turn 10, Step 83] Agent: 카드 플레이 - Mecha'thun (코스트: 10)
+[Turn 10, Step 84] Agent: 공격 - Kalecgos[5/7] -> Pit Crocolisk
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 0/10
+  Hand (5): King Phaoris, Mechwarper, Big Game Hunter, Solarian Prime, Hench-Clan Thug
+  Field: Kalecgos[5/1], Madder Bomber[5/4], Mecha'thun[10/10]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (7)
+  Field: Nightmare Amalgam[4/5], Pit Crocolisk[6/2], Silithid Swarmer[3/5], Jepetto Joybuzz[7/7]
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 카드 플레이 - Venomancer (코스트: 5)
+[Turn 10, Step 85] Opponent: 공격 - Nightmare Amalgam[4/5] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 86) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): King Phaoris, Mechwarper, Big Game Hunter, Solarian Prime, Hench-Clan Thug
+  Field: Kalecgos[5/1], Madder Bomber[5/4], Mecha'thun[10/10]
+Opponent: Rexxar HP: 13, Mana: 5/10
+  Hand (7)
+  Field: Nightmare Amalgam[4/5], Pit Crocolisk[6/2], Silithid Swarmer[3/5], Jepetto Joybuzz[7/7], Venomancer[2/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

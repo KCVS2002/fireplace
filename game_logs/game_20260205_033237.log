@@ -1,0 +1,203 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 1, Step 3] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+[Turn 1, Step 4] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 영웅 능력 사용
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/2
+  Hand (4): Polymorph: Boar, Portal Keeper, War Golem, Wyrmrest Purifier
+  Field: Gadgetzan Jouster[1/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Spring Rocket -> Rexxar (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 3, Step 7] Agent: 공격 - Gadgetzan Jouster[1/2] -> Rexxar
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 공격 - Spring Rocket[2/1] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Polymorph: Boar -> Gadgetzan Jouster (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/4
+  Hand (5): Portal Keeper, War Golem, Wyrmrest Purifier, Waterboy, Primordial Glyph
+  Field: Boar[4/2]
+Opponent: Rexxar HP: 26, Mana: 2/4
+  Hand (6)
+  Field: Spring Rocket[2/1]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Spring Rocket[2/1] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 카드 플레이 - Fresh Scent -> Boar (코스트: 2)
+[Turn 4, Step 10] Opponent: 카드 플레이 - Fresh Scent -> Boar (코스트: 2)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Boar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Waterboy (코스트: 2)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 5, Step 13] Agent: 공격 - Boar[8/5] -> Spring Rocket
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 영웅 능력 사용
+[Turn 5, Step 14] Opponent: 카드 플레이 - Hyena Alpha (코스트: 4)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/6
+  Hand (6): Portal Keeper, War Golem, Wyrmrest Purifier, Primordial Glyph, Recombobulator, Magic Dart Frog
+  Field: Boar[8/3], Waterboy[2/1]
+Opponent: Rexxar HP: 26, Mana: 0/6
+  Hand (6)
+  Field: Hyena Alpha[3/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 6, Step 16] Agent: 공격 - Waterboy[2/1] -> Rexxar
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(88) → 13로 보정
+[Turn 6, Step 17] Agent: 공격 - Boar[8/3] -> Rexxar
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(48) → 9로 보정
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Boar
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 6, Step 19] Agent: 카드 플레이 - Recombobulator -> Boar (코스트: 2)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (4): Portal Keeper, War Golem, Primordial Glyph, Magic Dart Frog
+  Field: Madame Lazul[3/2], Waterboy[2/1], Wyrmrest Purifier[3/2], Recombobulator[3/2]
+Opponent: Rexxar HP: 16, Mana: 0/6
+  Hand (6)
+  Field: Hyena Alpha[3/3]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 공격 - Hyena Alpha[3/3] -> Wyrmrest Purifier
+[Turn 6, Step 20] Opponent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 6, Step 20] Opponent: 카드 플레이 - Selfless Hero (코스트: 1)
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(54) → 26로 보정
+[Turn 7, Step 21] Agent: 공격 - Recombobulator[3/2] -> Grand Crusader
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(25) → 2로 보정
+[Turn 7, Step 22] Agent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 7, Step 23] Agent: 공격 - Madame Lazul[3/2] -> Rexxar
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 영웅 능력 사용
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/8
+  Hand (5): Portal Keeper, Primordial Glyph, Magic Dart Frog, Dragon's Breath, Arcane Blast
+  Field: Madame Lazul[3/2], Waterboy[2/1], War Golem[7/7]
+Opponent: Rexxar HP: 13, Mana: 6/8
+  Hand (7)
+  Field: Grand Crusader[5/2], Selfless Hero[2/1]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(49) → 17로 보정
+[Turn 8, Step 25] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(61) → 11로 보정
+[Turn 8, Step 26] Agent: 카드 플레이 - Arcane Blast -> Waterboy (코스트: 1)
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(62) → 14로 보정
+[Turn 8, Step 27] Agent: 공격 - War Golem[7/7] -> Grand Crusader
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(31) → 9로 보정
+[Turn 8, Step 28] Agent: 공격 - Madame Lazul[3/2] -> Rexxar
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(50) → 5로 보정
+[Turn 8, Step 29] Agent: 카드 플레이 - Dragon's Breath -> Rexxar (코스트: 3)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/8
+  Hand (3): Portal Keeper, Primordial Glyph, Magic Dart Frog
+  Field: Madame Lazul[3/2], War Golem[7/2]
+Opponent: Rexxar HP: 5, Mana: 6/8
+  Hand (7)
+  Field: Selfless Hero[2/1]
+[Turn 8, Step 30] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 8, Step 30] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 8, Step 31] Agent: 선택 - Arcane Intellect
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 카드 플레이 - Dalaran Mage (코스트: 3)
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 공격 - Madame Lazul[3/2] -> Rexxar
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 9, Step 33] Agent: 공격 - War Golem[7/2] -> Dalaran Mage
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(88) → 8로 보정
+[Turn 9, Step 34] Agent: 영웅 능력 사용 -> Selfless Hero
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/9
+  Hand (4): Portal Keeper, Magic Dart Frog, Arcane Intellect, Flamestrike
+  Field: Madame Lazul[3/2], War Golem[7/1]
+Opponent: Rexxar HP: 2, Mana: 6/9
+  Hand (7)
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 9, Step 35] Agent: 카드 플레이 - Magic Dart Frog (코스트: 2)
+[Turn 9, Step 36] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 9, Step 36] Agent: 카드 플레이 - Arcane Intellect (코스트: 1)
+[Turn 9, Step 37] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 9, Step 37] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Magic Dart Frog
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (4): Flamestrike, Magic Dart Frog, Blizzard, Icicle
+  Field: Madame Lazul[3/2], War Golem[7/1], Magic Dart Frog[1/2], Portal Keeper[5/2]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(34) → 7로 보정
+[Turn 10, Step 40] Agent: 공격 - War Golem[7/1] -> Rexxar
+
+--- Game State (Turn 10, Step 41) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (4): Flamestrike, Magic Dart Frog, Blizzard, Icicle
+  Field: Madame Lazul[3/2], War Golem[7/1], Magic Dart Frog[1/2], Portal Keeper[5/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

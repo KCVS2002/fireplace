@@ -1,0 +1,92 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Skaterbot
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Faithful Lumi (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (5): Walnut Sprite, Tinkertown Technician, Lance Carrier, Mirror Image, Spectral Knight
+  Field: Faithful Lumi[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Stubborn Gastropod[1/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Stubborn Gastropod[1/2] -> Faithful Lumi
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(71) → 8로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Stubborn Gastropod
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 공격 - Gluttonous Ooze[3/3] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/6
+  Hand (8): Walnut Sprite, Tinkertown Technician, Lance Carrier, Mirror Image, Spectral Knight, Fallen Hero, Hench-Clan Thug, Doomed Apprentice
+Opponent: Rexxar HP: 30, Mana: 3/5
+  Hand (6)
+  Field: Gluttonous Ooze[3/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(55) → 10로 보정
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(60) → 5로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Fallen Hero (코스트: 2)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 2/7
+  Hand (6): Tinkertown Technician, Lance Carrier, Spectral Knight, Hench-Clan Thug, Doomed Apprentice, Loose Specimen
+  Field: Walnut Sprite[3/3], Fallen Hero[3/2], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Gluttonous Ooze[3/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Lance Carrier -> Mirror Image (코스트: 2)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 7, Step 16] Agent: 공격 - Walnut Sprite[3/3] -> Gluttonous Ooze
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료

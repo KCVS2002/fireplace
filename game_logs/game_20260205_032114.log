@@ -1,0 +1,404 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (7): Manic Soulcaster, Ice Cream Peddler, Flamestrike, Saronite Taskmaster, Mekgineer Thermaplugg, Humongous Razorleaf, Runic Egg
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (8): Manic Soulcaster, Ice Cream Peddler, Flamestrike, Saronite Taskmaster, Mekgineer Thermaplugg, Humongous Razorleaf, Freezing Potion, Scarab Egg
+  Field: Runic Egg[0/2]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (9): Spider Tank, Manic Soulcaster, Ice Cream Peddler, Flamestrike, Saronite Taskmaster, Mekgineer Thermaplugg, Freezing Potion, Scarab Egg, Voodoo Doll
+  Field: Runic Egg[0/2], Humongous Razorleaf[4/7]
+Opponent: Rexxar HP: 29, Mana: 4/7
+  Hand (8)
+  Field: Tar Creeper[3/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Manic Soulcaster -> Runic Egg (코스트: 3)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(28) → 11로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Freezing Potion -> Tar Creeper (코스트: 0)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Guardian Augmerchant -> Soup Vendor (코스트: 1)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Tuskarr Fisherman -> Guardian Augmerchant (코스트: 2)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (7): Spider Tank, Ice Cream Peddler, Flamestrike, Mekgineer Thermaplugg, Scarab Egg, Voodoo Doll, Frozen Clone
+  Field: Runic Egg[0/2], Humongous Razorleaf[4/7], Manic Soulcaster[3/4], Saronite Taskmaster[2/3]
+Opponent: Rexxar HP: 28, Mana: 0/8
+  Hand (5)
+  Field: Tar Creeper[3/5], Soup Vendor[1/3], Guardian Augmerchant[2/1], Tuskarr Fisherman[2/3], Witch's Cauldron[0/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(65) → 9로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Voodoo Doll -> Saronite Taskmaster (코스트: 3)
+[Turn 8, Step 21] Agent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(59) → 2로 보정
+[Turn 8, Step 22] Agent: 공격 - Saronite Taskmaster[2/3] -> Tar Creeper
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 8, Step 23] Agent: 공격 - Manic Soulcaster[3/4] -> Free Agent
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 8, Step 24] Opponent: 공격 - Tuskarr Fisherman[2/3] -> Voodoo Doll
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 9/9
+  Hand (6): Spider Tank, Flamestrike, Mekgineer Thermaplugg, Scarab Egg, Frozen Clone, Spellward Jeweler
+  Field: Runic Egg[0/2], Humongous Razorleaf[4/7], Manic Soulcaster[3/4], Ice Cream Peddler[3/5]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (6)
+  Field: Tar Creeper[3/3], Soup Vendor[1/3], Guardian Augmerchant[2/1], Tuskarr Fisherman[2/2], Witch's Cauldron[0/4], Grand Archivist[4/7]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Frozen Clone (코스트: 3)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(65) → 11로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Tuskarr Fisherman
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 9, Step 28] Agent: 공격 - Manic Soulcaster[3/4] -> Tar Creeper
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(10) → 3로 보정
+[Turn 9, Step 29] Agent: 공격 - Ice Cream Peddler[3/5] -> Guardian Augmerchant
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/9
+  Hand (4): Spider Tank, Flamestrike, Mekgineer Thermaplugg, Scarab Egg
+  Field: Runic Egg[0/2], Humongous Razorleaf[4/7], Manic Soulcaster[3/1], Ice Cream Peddler[3/3], Spellward Jeweler[3/4]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (6)
+  Field: Soup Vendor[1/3], Tuskarr Fisherman[2/1], Witch's Cauldron[0/4], Grand Archivist[4/7]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 공격 - Grand Archivist[4/7] -> Jaina Proudmoore
+[Turn 9, Step 30] Opponent: 공격 - Soup Vendor[1/3] -> Runic Egg
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Mekgineer Thermaplugg (코스트: 9)
+[Turn 10, Step 32] Agent: 공격 - Manic Soulcaster[3/1] -> Witch's Cauldron
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 10, Step 33] Agent: 공격 - Spellward Jeweler[3/4] -> Witch's Cauldron
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Ice Cream Peddler[3/3] -> Soup Vendor
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (4): Spider Tank, Flamestrike, Scarab Egg, Runic Egg
+  Field: Runic Egg[0/1], Humongous Razorleaf[4/7], Manic Soulcaster[3/1], Ice Cream Peddler[3/2], Spellward Jeweler[3/4], Mekgineer Thermaplugg[9/7], Leper Gnome[1/1]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (7)
+  Field: Soup Vendor[1/3], Tuskarr Fisherman[2/1], Grand Archivist[4/7]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Grand Archivist[4/7] -> Ice Cream Peddler
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(74) → 36로 보정
+[Turn 10, Step 36] Agent: 공격 - Leper Gnome[1/1] -> Tuskarr Fisherman
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Manic Soulcaster
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 38] Agent: 공격 - Spellward Jeweler[3/4] -> Grand Archivist
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Spider Tank (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (4): Flamestrike, Scarab Egg, Runic Egg, Bonemare
+  Field: Runic Egg[0/1], Humongous Razorleaf[4/7], Mekgineer Thermaplugg[9/7], Leper Gnome[1/1], Spider Tank[3/4]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (8)
+  Field: Soup Vendor[1/3], Grand Archivist[4/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(82) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Mekgineer Thermaplugg[9/7] -> Soup Vendor
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(96) → 16로 보정
+[Turn 10, Step 43] Agent: 공격 - Leper Gnome[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 10, Step 44] Agent: 공격 - Mekgineer Thermaplugg[9/6] -> Grand Archivist
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (4): Flamestrike, Scarab Egg, Bonemare, Furbolg Mossbinder
+  Field: Runic Egg[0/1], Humongous Razorleaf[4/7], Mekgineer Thermaplugg[9/2], Leper Gnome[1/1], Leper Gnome[1/1], Spider Tank[3/4], Runic Egg[0/2]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(16) → 3로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Leper Gnome
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(89) → 13로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Furbolg Mossbinder -> Leper Gnome (코스트: 5)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Faceless Behemoth (코스트: 10)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (7): Flamestrike, Scarab Egg, Bonemare, Hogger, Faceless Behemoth, Faceless Behemoth, Kalecgos
+  Field: Runic Egg[0/1], Humongous Razorleaf[4/7], Mekgineer Thermaplugg[9/2], Moss Elemental[6/6], Spider Tank[3/4], Runic Egg[0/2], Furbolg Mossbinder[1/1]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (9)
+  Field: Faceless Behemoth[10/10]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Mekgineer Thermaplugg[9/2] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Moss Elemental[6/6] -> Faceless Behemoth
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Faceless Behemoth[10/4] -> Runic Egg
+[Turn 10, Step 53] Opponent: 카드 플레이 - Glacial Shard -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 53] Opponent: 카드 플레이 - E.M.P. Operative -> Spider Tank (코스트: 5)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 카드 플레이 - Frost Elemental -> Furbolg Mossbinder (코스트: 6)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (8): Flamestrike, Scarab Egg, Bonemare, Hogger, Faceless Behemoth, Faceless Behemoth, Kalecgos, Ancient Brewmaster
+  Field: Humongous Razorleaf[4/6], Mekgineer Thermaplugg[9/2], Runic Egg[0/2], Furbolg Mossbinder[1/1], Frost Elemental[5/5]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (8)
+  Field: Faceless Behemoth[10/4], Glacial Shard[2/1], E.M.P. Operative[3/3]
+[Turn 10, Step 55] Agent: 공격 - Mekgineer Thermaplugg[9/2] -> Faceless Behemoth
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Ancient Brewmaster -> Runic Egg (코스트: 4)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 10, Step 57] Opponent: 공격 - E.M.P. Operative[3/3] -> Jaina Proudmoore
+[Turn 10, Step 57] Opponent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 공격 - Ancient Brewmaster[5/4] -> E.M.P. Operative
+[Turn 10, Step 59] Agent: 카드 플레이 - Hogger (코스트: 6)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (8): Flamestrike, Scarab Egg, Bonemare, Faceless Behemoth, Faceless Behemoth, Kalecgos, Runic Egg, Leyline Manipulator
+  Field: Humongous Razorleaf[4/6], Furbolg Mossbinder[1/1], Frost Elemental[5/5], Ancient Brewmaster[5/1], Hogger[4/4]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (7)
+  Field: Glacial Shard[2/1], Drakkari Enchanter[1/5], Murloc Warleader[3/3]
+[Turn 10, Step 60] Agent: 공격 - Frost Elemental[5/5] -> Glacial Shard
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(92) → 12로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Hogger
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 63] Agent: 공격 - Furbolg Mossbinder[1/1] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (8): Flamestrike, Scarab Egg, Bonemare, Faceless Behemoth, Faceless Behemoth, Kalecgos, Leyline Manipulator, Stonehill Defender
+  Field: Humongous Razorleaf[4/6], Furbolg Mossbinder[1/1], Frost Elemental[5/3], Ancient Brewmaster[5/1], Hogger[4/3], Gnoll[2/2], Runic Egg[0/2]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+  Field: Drakkari Enchanter[1/5], Murloc Warleader[3/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(76) → 20로 보정
+[Turn 10, Step 65] Agent: 공격 - Ancient Brewmaster[5/1] -> Drakkari Enchanter
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Frost Elemental
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(45) → 7로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Bonemare -> Runic Egg (코스트: 8)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 68] Agent: 공격 - Furbolg Mossbinder[1/1] -> Murloc Warleader
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 69] Agent: 공격 - Hogger[4/3] -> Murloc Warleader
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (7): Flamestrike, Scarab Egg, Faceless Behemoth, Faceless Behemoth, Kalecgos, Leyline Manipulator, Stonehill Defender
+  Field: Humongous Razorleaf[4/6], Frost Elemental[5/2], Gnoll[2/2], Runic Egg[4/6], Bonemare[5/5]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Nesting Roc (코스트: 5)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 10, Step 72] Agent: 공격 - Gnoll[2/2] -> Nesting Roc
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 카드 플레이 - Arena Patron (코스트: 5)
+[Turn 10, Step 73] Opponent: 카드 플레이 - Deathaxe Punisher (코스트: 4)
+[Turn 10, Step 73] Opponent: 공격 - Nesting Roc[4/5] -> Runic Egg
+[Turn 10, Step 73] Opponent: 공격 - Blackwater Pirate[2/5] -> Runic Egg
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(80) → 20로 보정
+[Turn 10, Step 74] Agent: 공격 - Frost Elemental[5/2] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Flamestrike, Scarab Egg, Faceless Behemoth, Faceless Behemoth, Kalecgos, Leyline Manipulator, Stonehill Defender, Neferset Ritualist, Da Undatakah, Worgen Greaser
+  Field: Humongous Razorleaf[4/5], Frost Elemental[5/2], Bonemare[5/5]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (6)
+  Field: Nesting Roc[4/1], Blackwater Pirate[2/1], Arena Patron[3/3], Deathaxe Punisher[3/3]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(96) → 21로 보정
+[Turn 10, Step 75] Agent: 공격 - Bonemare[5/5] -> Nesting Roc
+[Turn 10, Step 76] Agent: 카드 플레이 - Faceless Behemoth (코스트: 10)
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 카드 플레이 - Stonehill Defender (코스트: 3)
+[Turn 10, Step 79] Agent: 선택 - Sleepy Dragon
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(36) → 15로 보정
+[Turn 10, Step 79] Agent: 영웅 능력 사용 -> Holomancer
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (10): Mosh'Ogg Enforcer, Flamestrike, Scarab Egg, Faceless Behemoth, Kalecgos, Leyline Manipulator, Neferset Ritualist, Da Undatakah, Worgen Greaser, Sleepy Dragon
+  Field: Humongous Razorleaf[4/5], Frost Elemental[5/2], Bonemare[5/1], Faceless Behemoth[10/10], Stonehill Defender[1/4]
+Opponent: Rexxar HP: 7, Mana: 5/10
+  Hand (6)
+  Field: Blackwater Pirate[2/1], Arena Patron[3/3], Deathaxe Punisher[3/3], Holomancer[3/2], Stonehill Defender[1/1]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 80] Agent: 공격 - Faceless Behemoth[10/10] -> Stonehill Defender
+[Turn 10, Step 81] Agent: 공격 - Frost Elemental[5/2] -> Holomancer
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 82] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 83] Agent: 공격 - Bonemare[5/1] -> Rexxar
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (8): Mosh'Ogg Enforcer, Flamestrike, Faceless Behemoth, Kalecgos, Leyline Manipulator, Da Undatakah, Worgen Greaser, Sleepy Dragon
+  Field: Humongous Razorleaf[4/5], Bonemare[5/1], Faceless Behemoth[10/9], Stonehill Defender[1/4], Scarab Egg[0/2], Neferset Ritualist[2/3]
+Opponent: Rexxar HP: 2, Mana: 5/10
+  Hand (6)
+  Field: Blackwater Pirate[2/1], Arena Patron[3/3], Deathaxe Punisher[3/3]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+[Turn 10, Step 85] Opponent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 10, Step 85] Opponent: 선택 - Crushing Walls
+[Turn 10, Step 85] Opponent: 공격 - Blackwater Pirate[2/1] -> Stonehill Defender
+[Turn 10, Step 85] Opponent: 공격 - Deathaxe Punisher[3/3] -> Stonehill Defender
+[Turn 10, Step 85] Opponent: 공격 - Arena Patron[3/3] -> Neferset Ritualist
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 86] Agent: 카드 플레이 - Kalecgos (코스트: 10)
+[Turn 10, Step 87] Agent: 선택 - Blast Wave
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Flamestrike (코스트: 0)
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 88] Agent: 공격 - Faceless Behemoth[10/9] -> Rexxar
+
+--- Game State (Turn 10, Step 89) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (8): Mosh'Ogg Enforcer, Faceless Behemoth, Leyline Manipulator, Da Undatakah, Worgen Greaser, Sleepy Dragon, Snowflipper Penguin, Blast Wave
+  Field: Humongous Razorleaf[4/5], Bonemare[5/1], Faceless Behemoth[10/9], Scarab Egg[0/2], Kalecgos[4/12]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

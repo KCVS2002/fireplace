@@ -1,0 +1,233 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 3, Step 2] Agent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Tentacle of N'Zoth
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Doomcaller, Arcane Watcher, Barista Lynchen, Toki, Time-Tinker, Spellbook Binder, Replicat-o-tron
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Spellbook Binder
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Angry Chicken
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (6): Salty Dog, Doomcaller, Arcane Watcher, Barista Lynchen, Toki, Time-Tinker, Replicat-o-tron
+  Field: Spellbook Binder[3/1]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Wicked Skeleton (코스트: 4)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Marked Shot -> Wicked Skeleton (코스트: 4)
+[Turn 6, Step 11] Opponent: 선택 - Unleash the Beast
+[Turn 6, Step 11] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(85) → 4로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/8
+  Hand (8): Salty Dog, Doomcaller, Arcane Watcher, Barista Lynchen, Toki, Time-Tinker, Amani Berserker, Jeeves, Goboglide Tech
+  Field: Replicat-o-tron[3/3], Replicat-o-tron[3/3]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (9)
+  Field: King's Elekk[3/2]
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Toki, Time-Tinker (코스트: 6)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 8, Step 17] Agent: 공격 - Replicat-o-tron[3/3] -> Rexxar
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 8, Step 18] Agent: 공격 - Replicat-o-tron[3/3] -> King's Elekk
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 8, Step 19] Opponent: 카드 플레이 - Bloodfen Raptor (코스트: 2)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 9/9
+  Hand (9): Salty Dog, Doomcaller, Arcane Watcher, Barista Lynchen, Amani Berserker, Jeeves, Goboglide Tech, Moorabi, Corrupted Seer
+  Field: Replicat-o-tron[3/3], Replicat-o-tron[3/3]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (9)
+  Field: Wyvern[5/5], Bloodfen Raptor[3/2]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(48) → 4로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 9, Step 21] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 9, Step 22] Agent: 공격 - Replicat-o-tron[3/3] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 9, Step 24] Agent: 공격 - Replicat-o-tron[3/3] -> Bloodfen Raptor
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/9
+  Hand (9): Salty Dog, Doomcaller, Arcane Watcher, Jeeves, Goboglide Tech, Moorabi, Corrupted Seer, Doomcaller, Goboglide Tech
+  Field: Replicat-o-tron[3/3], Barista Lynchen[4/5], Amani Berserker[2/3]
+Opponent: Rexxar HP: 22, Mana: 0/8
+  Hand (9)
+  Field: Wyvern[5/5]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 9, Step 25] Opponent: 카드 플레이 - Unseen Saboteur (코스트: 6)
+[Turn 9, Step 25] Opponent: 공격 - Wyvern[5/5] -> Replicat-o-tron
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(88) → 7로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Corrupted Seer
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 28] Agent: 공격 - Amani Berserker[5/1] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 10, Step 29] Agent: 공격 - Replicat-o-tron[3/1] -> Unseen Saboteur
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/10
+  Hand (9): Salty Dog, Doomcaller, Arcane Watcher, Jeeves, Goboglide Tech, Moorabi, Doomcaller, Goboglide Tech, Fallen Sun Cleric
+  Field: Amani Berserker[5/1], Corrupted Seer[2/2]
+Opponent: Rexxar HP: 17, Mana: 0/9
+  Hand (8)
+  Field: Stoneskin Gargoyle[1/2], Unseen Saboteur[5/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Fallen Sun Cleric -> Amani Berserker (코스트: 2)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(48) → 22로 보정
+[Turn 10, Step 32] Agent: 공격 - Corrupted Seer[2/2] -> Unseen Saboteur
+[Turn 10, Step 33] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(82) → 14로 보정
+[Turn 10, Step 34] Agent: 공격 - Amani Berserker[6/2] -> Stoneskin Gargoyle
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/10
+  Hand (8): Salty Dog, Doomcaller, Arcane Watcher, Jeeves, Moorabi, Doomcaller, Goboglide Tech, Wargear
+  Field: Amani Berserker[6/1], Fallen Sun Cleric[2/1], Goboglide Tech[3/3]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(74) → 9로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Amani Berserker
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(29) → 12로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Goboglide Tech
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (8): Salty Dog, Doomcaller, Arcane Watcher, Jeeves, Moorabi, Doomcaller, Goboglide Tech, Fire Hawk
+  Field: Fallen Sun Cleric[2/1], Goboglide Tech[3/2], Wargear[5/5]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 41] Agent: 공격 - Wargear[5/5] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 43] Agent: 공격 - Goboglide Tech[3/2] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 44] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (6): Doomcaller, Arcane Watcher, Jeeves, Moorabi, Doomcaller, Fire Hawk
+  Field: Fallen Sun Cleric[2/1], Goboglide Tech[3/2], Wargear[5/5], Salty Dog[7/4], Goboglide Tech[4/4]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Disciple of C'Thun -> Goboglide Tech (코스트: 3)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Fallen Sun Cleric
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 49] Agent: 공격 - Salty Dog[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/10
+  Hand (5): Doomcaller, Arcane Watcher, Moorabi, Doomcaller, Fire Hawk
+  Field: Goboglide Tech[3/2], Wargear[5/5], Salty Dog[7/4], Goboglide Tech[4/2], Disciple of C'Thun[2/1], Jeeves[1/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/10
+  Hand (5): Doomcaller, Arcane Watcher, Moorabi, Doomcaller, Fire Hawk
+  Field: Goboglide Tech[3/2], Wargear[5/5], Salty Dog[7/4], Goboglide Tech[4/2], Disciple of C'Thun[2/1], Jeeves[1/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

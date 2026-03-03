@@ -1,0 +1,454 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Beaming Sidekick (코스트: 1)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): SN1P-SN4P, Spring Rocket, Giant Wasp, Arcanosaur, Chromaggus
+  Field: Beaming Sidekick[1/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 공격 - Beaming Sidekick[1/2] -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Beaming Sidekick
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (6): SN1P-SN4P, Spring Rocket, Arcanosaur, Chromaggus, Leper Gnome, Dragonhatcher
+  Field: Beaming Sidekick[1/1], Giant Wasp[2/2]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (7)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 4, Step 10] Agent: 공격 - Giant Wasp[2/2] -> Rexxar
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 4, Step 11] Agent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 4, Step 12] Agent: 공격 - Beaming Sidekick[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 4, Step 13] Opponent: 카드 플레이 - Rat Pack (코스트: 3)
+[Turn 4, Step 13] Opponent: 공격 - Locust[1/1] -> Leper Gnome
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Beaming Sidekick
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (6): Maiden of the Lake, SN1P-SN4P, Spring Rocket, Arcanosaur, Chromaggus, Dragonhatcher
+  Field: Giant Wasp[2/2]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (6)
+  Field: Bug Collector[2/1], Rat Pack[2/2]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(30) → 10로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(47) → 8로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Spring Rocket -> Silver Hand Regent (코스트: 3)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 6, Step 18] Agent: 공격 - Giant Wasp[2/2] -> Rat Pack
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 공격 - Bug Collector[2/1] -> Jaina Proudmoore
+[Turn 6, Step 19] Opponent: 카드 플레이 - Tuskarr Fisherman -> Silver Hand Regent (코스트: 2)
+[Turn 6, Step 19] Opponent: 영웅 능력 사용
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/7
+  Hand (7): Cult Master, Maiden of the Lake, SN1P-SN4P, Arcanosaur, Chromaggus, Dragonhatcher, Archmage Antonidas
+  Field: Spring Rocket[2/1]
+Opponent: Rexxar HP: 24, Mana: 3/7
+  Hand (6)
+  Field: Bug Collector[2/1], Rat Pack[2/2], Rat Pack[2/2], Silver Hand Regent[3/1], Silver Hand Recruit[1/1], Tuskarr Fisherman[2/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(53) → 9로 보정
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Silver Hand Regent
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(28) → 8로 보정
+[Turn 7, Step 21] Agent: 공격 - Spring Rocket[2/1] -> Silver Hand Recruit
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (6): SN1P-SN4P, Arcanosaur, Chromaggus, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant
+  Field: Cult Master[4/2], Maiden of the Lake[2/6]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (7)
+  Field: Bug Collector[2/1], Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Maiden of the Lake
+[Turn 9, Step 27] Agent: 카드 플레이 - Arcanosaur (코스트: 6)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 9, Step 28] Agent: 공격 - Cult Master[4/2] -> Bug Collector
+[Turn 9, Step 29] Agent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/9
+  Hand (5): SN1P-SN4P, Chromaggus, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant
+  Field: Maiden of the Lake[2/5], Arcanosaur[3/3], Murloc Tinyfin[1/1]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/3]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 9, Step 30] Agent: 공격 - Maiden of the Lake[2/5] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(95) → 31로 보정
+[Turn 10, Step 32] Agent: 공격 - Murloc Tinyfin[1/1] -> Tuskarr Fisherman
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(62) → 10로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Arcane Blast -> Arcanosaur (코스트: 1)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Chromaggus (코스트: 8)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/10
+  Hand (4): SN1P-SN4P, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant
+  Field: Maiden of the Lake[2/5], Arcanosaur[3/1], Chromaggus[6/8]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/2]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Arcanosaur
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Maiden of the Lake[2/5] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Rat Pack[2/2] -> Maiden of the Lake
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(61) → 10로 보정
+[Turn 10, Step 39] Agent: 공격 - Maiden of the Lake[2/3] -> Rat Pack
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 9/10
+  Hand (6): Steam Surger, SN1P-SN4P, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Steam Surger
+  Field: Maiden of the Lake[2/1], Chromaggus[6/8]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(35) → 9로 보정
+[Turn 10, Step 40] Agent: 공격 - Chromaggus[6/8] -> Rat Pack
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Nerubian Prophet (코스트: 3)
+[Turn 10, Step 42] Opponent: 공격 - Tuskarr Fisherman[2/2] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 공격 - Rat Pack[2/2] -> Chromaggus
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(96) → 8로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Nerubian Prophet[4/4] -> Chromaggus
+[Turn 10, Step 44] Opponent: 공격 - Rat Pack[2/2] -> SN1P-SN4P
+[Turn 10, Step 44] Opponent: 공격 - Rat Pack[2/2] -> SN1P-SN4P
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (8): Steam Surger, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Steam Surger, Murloc Warleader, Murloc Warleader, Corridor Creeper
+  Field: Maiden of the Lake[2/1], Microbot[1/1], Microbot[1/1]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Rat Pack[2/2] -> Maiden of the Lake
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(51) → 14로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(32) → 7로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Corridor Creeper (코스트: 5)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Rat Pack[2/2] -> Microbot
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (9): Steam Surger, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Steam Surger, Murloc Warleader, Murloc Warleader, Rattling Rascal, Captain's Parrot
+  Field: Microbot[1/1], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Tuskarr Fisherman[2/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(66) → 16로 보정
+[Turn 10, Step 50] Agent: 공격 - Microbot[1/1] -> Tuskarr Fisherman
+[Turn 10, Step 51] Agent: 공격 - Corridor Creeper[2/5] -> Rat Pack
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(89) → 8로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Captain's Parrot (코스트: 2)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(41) → 6로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 영웅 능력 사용
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (8): Steam Surger, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Steam Surger, Murloc Warleader, Murloc Warleader, Barista Lynchen
+  Field: Corridor Creeper[2/3], Captain's Parrot[1/1], Rattling Rascal[2/2], Skeletal Enforcer[5/5]
+Opponent: Rexxar HP: 19, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Tuskarr Fisherman[2/1]
+[Turn 10, Step 55] Agent: 공격 - Corridor Creeper[2/3] -> Rat Pack
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(86) → 40로 보정
+[Turn 10, Step 56] Agent: 공격 - Skeletal Enforcer[5/5] -> Rat Pack
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(89) → 13로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 10, Step 58] Agent: 공격 - Captain's Parrot[1/1] -> Rat Pack
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 4/10
+  Hand (7): Steam Surger, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Murloc Warleader, Murloc Warleader, Barista Lynchen
+  Field: Corridor Creeper[2/1], Rattling Rascal[2/2], Skeletal Enforcer[5/3], Steam Surger[5/4]
+Opponent: Rexxar HP: 19, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Tuskarr Fisherman[2/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 10, Step 60] Agent: 공격 - Rattling Rascal[2/2] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 62] Opponent: 공격 - Rat Pack[2/2] -> Skeletal Enforcer
+[Turn 10, Step 62] Opponent: 공격 - Rat Pack[2/2] -> Corridor Creeper
+[Turn 10, Step 62] Opponent: 공격 - Rat Pack[2/2] -> Murloc Warleader
+[Turn 10, Step 62] Opponent: 공격 - Rat Pack[2/2] -> Murloc Warleader
+[Turn 10, Step 62] Opponent: 공격 - Tuskarr Fisherman[2/1] -> Steam Surger
+[Turn 10, Step 62] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 공격 - Skeletal Enforcer[5/1] -> SI:7 Infiltrator
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(72) → 8로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (7): Steam Surger, Dragonhatcher, Archmage Antonidas, Pumpkin Peasant, Murloc Warleader, Barista Lynchen, Magic Trick
+  Field: Rattling Rascal[2/2], Steam Surger[5/2]
+Opponent: Rexxar HP: 17, Mana: 6/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Rattling Rascal[2/2] -> Rat Pack
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(85) → 4로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(49) → 24로 보정
+[Turn 10, Step 68] Agent: 공격 - Steam Surger[5/2] -> Rat Pack
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/10
+  Hand (7): Steam Surger, Dragonhatcher, Archmage Antonidas, Murloc Warleader, Magic Trick, Dragonhatcher, Steam Surger
+  Field: Pumpkin Peasant[2/4], Barista Lynchen[4/5]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (10)
+  Field: Skeletal Enforcer[5/5], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(48) → 9로 보정
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 카드 플레이 - Archmage Antonidas (코스트: 7)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 10, Step 74] Agent: 선택 - Font of Power
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(82) → 20로 보정
+[Turn 10, Step 74] Agent: 공격 - Pumpkin Peasant[2/4] -> Rat Pack
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (8): Steam Surger, Dragonhatcher, Murloc Warleader, Dragonhatcher, Steam Surger, Nat Pagle, Fireball, Font of Power
+  Field: Pumpkin Peasant[2/2], Barista Lynchen[4/5], Archmage Antonidas[5/7]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (10)
+  Field: Skeletal Enforcer[5/5], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 75] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 10, Step 76] Agent: 공격 - Barista Lynchen[4/5] -> Rat Pack
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/1] -> Jaina Proudmoore
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Archmage Antonidas
+[Turn 10, Step 77] Opponent: 공격 - Rat Pack[2/2] -> Barista Lynchen
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(44) → 1로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 4/10
+  Hand (7): Dragonhatcher, Murloc Warleader, Dragonhatcher, Steam Surger, Fireball, Font of Power, Wrapped Golem
+  Field: Pumpkin Peasant[2/2], Barista Lynchen[4/1], Archmage Antonidas[5/5], Nat Pagle[0/4], Steam Surger[5/4]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (10)
+  Field: Skeletal Enforcer[5/5], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 80] Agent: 카드 플레이 - Fireball -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 10, Step 81] Agent: 공격 - Barista Lynchen[4/1] -> Rat Pack
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 10, Step 82] Agent: 공격 - Pumpkin Peasant[2/2] -> Rexxar
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 공격 - Rat Pack[2/1] -> Nat Pagle
+[Turn 10, Step 83] Opponent: 공격 - Rat Pack[2/1] -> Pumpkin Peasant
+[Turn 10, Step 83] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(85) → 36로 보정
+[Turn 10, Step 84] Agent: 공격 - Archmage Antonidas[5/5] -> Rat Pack
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (9): Dragonhatcher, Murloc Warleader, Dragonhatcher, Steam Surger, Font of Power, Wrapped Golem, Fireball, Servant of Kalimos, Drakkari Enchanter
+  Field: Archmage Antonidas[5/3], Nat Pagle[0/2], Steam Surger[5/4]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (10)
+  Field: Skeletal Enforcer[5/5], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(51) → 10로 보정
+[Turn 10, Step 85] Agent: 카드 플레이 - Fireball -> Rat Pack (코스트: 4)
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(92) → 17로 보정
+[Turn 10, Step 87] Agent: 공격 - Steam Surger[5/4] -> Rexxar
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(45) → 11로 보정
+[Turn 10, Step 88] Agent: 카드 플레이 - Fireball -> Rat Pack (코스트: 4)
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 공격 - Rat Pack[2/1] -> Jaina Proudmoore
+[Turn 10, Step 89] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 89] Opponent: 공격 - Skeletal Enforcer[5/5] -> Steam Surger
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (10): Dragonhatcher, Murloc Warleader, Dragonhatcher, Steam Surger, Font of Power, Wrapped Golem, Servant of Kalimos, Drakkari Enchanter, Fireball, Frostwolf Warlord
+  Field: Archmage Antonidas[5/3], Nat Pagle[0/1]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 90] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 10, Step 91] Agent: 선택 - Arcane Keysmith
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(50) → 4로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 93] Agent: 공격 - Archmage Antonidas[5/3] -> Rat Pack
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 94] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/2] -> Archmage Antonidas
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/2] -> Steam Surger
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/2] -> Steam Surger
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 94] Opponent: 공격 - Rat Pack[2/1] -> Nat Pagle
+[Turn 10, Step 94] Opponent: 영웅 능력 사용
+[Turn 10, Step 94] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (10): Dragonhatcher, Murloc Warleader, Dragonhatcher, Wrapped Golem, Servant of Kalimos, Drakkari Enchanter, Fireball, Frostwolf Warlord, Fireball, Breath of Sindragosa
+Opponent: Rexxar HP: 9, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 95] Agent: 카드 플레이 - Fireball -> Rat Pack (코스트: 4)
+[Turn 10, Step 96] Agent: 카드 플레이 - Fireball -> Rat Pack (코스트: 4)
+[Turn 10, Step 97] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 97] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 98) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (8): Dragonhatcher, Murloc Warleader, Dragonhatcher, Wrapped Golem, Servant of Kalimos, Drakkari Enchanter, Frostwolf Warlord, Breath of Sindragosa
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

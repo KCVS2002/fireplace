@@ -1,0 +1,218 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Spirit of the Dragonhawk (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bomb Toss -> Rexxar (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (5): Zephrys the Great, Onyxia, Leatherclad Hogleader, Tar Creeper, Salty Dog
+  Field: Spirit of the Dragonhawk[0/3], Pyros[2/2]
+Opponent: Rexxar HP: 28, Mana: 1/3
+  Hand (5)
+  Field: Goblin Bomb[0/2], Transmogrifier[2/3]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Pyros
+[Turn 4, Step 6] Agent: 공격 - Pyros[2/1] -> Goblin Bomb
+[Turn 4, Step 7] Agent: 카드 플레이 - Zephrys the Great (코스트: 2)
+[Turn 4, Step 8] Agent: 선택 - Cold Blood
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 4, Step 8] Opponent: 공격 - Transmogrifier[2/3] -> Spirit of the Dragonhawk
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 공격 - Pyros[2/1] -> Transmogrifier
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Onyxia, Leatherclad Hogleader, Tar Creeper, Salty Dog, Cold Blood, Shu'ma, Pyros
+  Field: Zephrys the Great[3/2]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Transmogrifier[2/1], Blackwing Technician[2/4]
+[Turn 5, Step 10] Agent: 카드 플레이 - Cold Blood -> Zephrys the Great (코스트: 2)
+[Turn 5, Step 11] Agent: 공격 - Zephrys the Great[5/2] -> Blackwing Technician
+[Turn 5, Step 12] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 영웅 능력 사용
+[Turn 5, Step 13] Opponent: 공격 - Transmogrifier[2/1] -> Tar Creeper
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Tar Creeper
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/6
+  Hand (6): Onyxia, Leatherclad Hogleader, Salty Dog, Shu'ma, Pyros, Fencing Coach
+  Field: Tar Creeper[1/2]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (6)
+[Turn 6, Step 15] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 7, Step 18] Agent: 공격 - Tar Creeper[1/2] -> Gnoll
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Gnoll
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/7
+  Hand (5): Onyxia, Leatherclad Hogleader, Shu'ma, Pyros, Hench-Clan Hag
+  Field: Fencing Coach[2/2], Salty Dog[7/4]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (6)
+  Field: Hogger[4/4]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 7, Step 20] Opponent: 공격 - Hogger[4/4] -> Fencing Coach
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Shu'ma (코스트: 7)
+[Turn 8, Step 22] Agent: 공격 - Salty Dog[7/4] -> Gnoll
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 공격 - Harrison Jones[5/4] -> Salty Dog
+[Turn 8, Step 23] Opponent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 8, Step 23] Opponent: 공격 - Hogger[4/2] -> Tentacle
+[Turn 8, Step 23] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/9
+  Hand (6): Onyxia, Leatherclad Hogleader, Pyros, Hench-Clan Hag, Arcanosaur, Generous Mummy
+  Field: Tentacle[1/1], Shu'ma[1/7], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Naga Corsair[5/4]
+Opponent: Rexxar HP: 28, Mana: 0/8
+  Hand (6)
+  Field: Hogger[4/1], Gnoll[2/2], Utgarde Grapplesniper[5/5], Boneguard Lieutenant[3/2]
+[Turn 9, Step 25] Agent: 공격 - Shu'ma[1/7] -> Gnoll
+[Turn 9, Step 26] Agent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 9, Step 27] Agent: 공격 - Tentacle[1/1] -> Gnoll
+[Turn 9, Step 28] Agent: 공격 - Tentacle[1/1] -> Rexxar
+[Turn 9, Step 29] Agent: 공격 - Tentacle[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/9
+  Hand (5): Onyxia, Leatherclad Hogleader, Pyros, Arcanosaur, Generous Mummy
+  Field: Shu'ma[1/5], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Naga Corsair[5/4], Hench-Clan Hag[3/3]
+Opponent: Rexxar HP: 26, Mana: 0/8
+  Hand (6)
+  Field: Hogger[4/1], Utgarde Grapplesniper[5/5], Boneguard Lieutenant[3/2]
+[Turn 9, Step 30] Agent: 공격 - Tentacle[1/1] -> Hogger
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 공격 - Utgarde Grapplesniper[5/5] -> Shu'ma
+[Turn 9, Step 31] Opponent: 공격 - Boneguard Lieutenant[3/2] -> Naga Corsair
+[Turn 9, Step 31] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 9, Step 31] Opponent: 영웅 능력 사용
+[Turn 9, Step 31] Opponent: 카드 플레이 - Alleycat (코스트: 1)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Tentacle
+[Turn 10, Step 33] Agent: 공격 - Tentacle[1/1] -> Utgarde Grapplesniper
+[Turn 10, Step 34] Agent: 카드 플레이 - Leatherclad Hogleader (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (5): Onyxia, Pyros, Arcanosaur, Generous Mummy, Frenzied Felwing
+  Field: Tentacle[1/1], Tentacle[1/1], Naga Corsair[5/1], Hench-Clan Hag[3/3], Leatherclad Hogleader[6/6]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (5)
+  Field: Utgarde Grapplesniper[5/3], The Beast[9/7], Alleycat[1/1], Tabbycat[1/1]
+[Turn 10, Step 35] Agent: 공격 - Tentacle[1/1] -> Rexxar
+[Turn 10, Step 36] Agent: 공격 - Naga Corsair[5/1] -> Tabbycat
+[Turn 10, Step 37] Agent: 공격 - Hench-Clan Hag[3/3] -> Rexxar
+[Turn 10, Step 38] Agent: 카드 플레이 - Frenzied Felwing (코스트: 0)
+[Turn 10, Step 39] Agent: 공격 - Tentacle[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (4): Onyxia, Pyros, Arcanosaur, Generous Mummy
+  Field: Tentacle[1/1], Tentacle[1/1], Hench-Clan Hag[3/3], Leatherclad Hogleader[6/6], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 21, Mana: 0/9
+  Hand (5)
+  Field: Utgarde Grapplesniper[5/3], The Beast[9/7], Alleycat[1/1]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Utgarde Grapplesniper[5/3] -> Frenzied Felwing
+[Turn 10, Step 40] Opponent: 공격 - The Beast[9/7] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 카드 플레이 - The Beast Within -> Alleycat (코스트: 1)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Platebreaker (코스트: 5)
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 공격 - Alleycat[2/1] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Hench-Clan Hag[3/3] -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Disciple of C'Thun -> Leatherclad Hogleader (코스트: 3)
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Alleycat
+[Turn 10, Step 44] Agent: 공격 - Tentacle[1/1] -> The Beast
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 5/10
+  Hand (4): Onyxia, Pyros, Arcanosaur, Generous Mummy
+  Field: Hench-Clan Hag[3/3], Leatherclad Hogleader[6/4], Disciple of C'Thun[2/1]
+Opponent: Rexxar HP: 18, Mana: 2/10
+  Hand (4)
+  Field: The Beast[9/6], Platebreaker[5/5]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - The Beast[9/6] -> Leatherclad Hogleader
+[Turn 10, Step 45] Opponent: 공격 - Platebreaker[5/5] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 카드 플레이 - Al'Akir the Windlord (코스트: 8)
+[Turn 10, Step 45] Opponent: 공격 - Al'Akir the Windlord[3/5] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 공격 - Al'Akir the Windlord[3/5] -> Disciple of C'Thun
+[Turn 10, Step 45] Opponent: 영웅 능력 사용
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Pyros (코스트: 6)
+[Turn 10, Step 47] Agent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 10, Step 48] Agent: 공격 - Finkle Einhorn[3/3] -> Al'Akir the Windlord
+[Turn 10, Step 49] Agent: 공격 - Hench-Clan Hag[3/3] -> Al'Akir the Windlord
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 0/10
+  Hand (3): Onyxia, Arcanosaur, Generous Mummy
+  Field: Pyros[6/6], Wailing Soul[3/5]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (4)
+  Field: Platebreaker[5/5]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 공격 - Platebreaker[5/5] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (3): Onyxia, Arcanosaur, Generous Mummy
+  Field: Pyros[6/6], Wailing Soul[3/5]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (5)
+  Field: Platebreaker[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

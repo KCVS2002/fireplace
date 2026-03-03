@@ -1,0 +1,154 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 공격 - Murloc Tidehunter[2/1] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 공격 - Murloc Scout[1/1] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 3] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Frozen Shadoweaver -> Dragon Egg (코스트: 3)
+[Turn 3, Step 4] Opponent: 공격 - Murloc Scout[1/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 공격 - Murloc Tidehunter[2/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (6): Sightless Ranger, Elemental Allies, Flesheating Ghoul, Am'gam Rager, Emperor Cobra, Seaforium Bomber
+  Field: Dragon Egg[0/2]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Murloc Tidehunter[2/1], Murloc Scout[1/1], Frozen Shadoweaver[4/3]
+[Turn 4, Step 5] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Am'gam Rager
+[Turn 4, Step 6] Opponent: 공격 - Murloc Tidehunter[2/1] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 5, Step 8] Agent: 공격 - Am'gam Rager[1/1] -> Murloc Tidehunter
+[Turn 5, Step 9] Agent: 공격 - Sightless Ranger[3/4] -> Frozen Shadoweaver
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/5
+  Hand (5): Elemental Allies, Flesheating Ghoul, Emperor Cobra, Seaforium Bomber, Frenzied Felwing
+  Field: Dragon Egg[0/2], Bat[1/1], Bat[1/1]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+  Field: Murloc Scout[1/1]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 공격 - Bat[1/1] -> Murloc Scout
+[Turn 6, Step 12] Agent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 6, Step 13] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 6, Step 14] Agent: 공격 - Bat[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (4): Flesheating Ghoul, Emperor Cobra, Frenzied Felwing, Am'gam Rager
+  Field: Dragon Egg[0/2], Bat[1/1], Seaforium Bomber[5/5]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (7)
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Bat
+[Turn 7, Step 17] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+[Turn 7, Step 18] Agent: 공격 - Seaforium Bomber[5/5] -> Rexxar
+[Turn 7, Step 19] Agent: 카드 플레이 - Frenzied Felwing (코스트: 0)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/7
+  Hand (3): Flesheating Ghoul, Emperor Cobra, Eerie Statue
+  Field: Dragon Egg[0/2], Seaforium Bomber[5/5], Am'gam Rager[1/5], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 23, Mana: 4/6
+  Hand (8)
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Kindly Grandmother (코스트: 2)
+[Turn 7, Step 20] Opponent: 카드 플레이 - The Beast Within -> Kindly Grandmother (코스트: 1)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 8, Step 22] Agent: 공격 - Am'gam Rager[1/5] -> Kindly Grandmother
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Frenzied Felwing[3/2] -> Kindly Grandmother
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/8
+  Hand (3): Flesheating Ghoul, Eerie Statue, Questing Explorer
+  Field: Black Whelp[2/1], Seaforium Bomber[5/5], Am'gam Rager[1/3], Emperor Cobra[2/3]
+Opponent: Rexxar HP: 22, Mana: 4/7
+  Hand (7)
+  Field: Big Bad Wolf[3/2]
+[Turn 8, Step 25] Agent: 공격 - Seaforium Bomber[5/5] -> Rexxar
+[Turn 8, Step 26] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 8, Step 27] Agent: 공격 - Black Whelp[2/1] -> Big Bad Wolf
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Rocket Augmerchant -> Seaforium Bomber (코스트: 1)
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/9
+  Hand (3): Eerie Statue, Questing Explorer, Volatile Elemental
+  Field: Seaforium Bomber[5/4], Am'gam Rager[1/3], Emperor Cobra[2/3], Flesheating Ghoul[4/3]
+Opponent: Rexxar HP: 17, Mana: 7/8
+  Hand (7)
+  Field: Rocket Augmerchant[2/1]
+[Turn 9, Step 30] Agent: 공격 - Emperor Cobra[2/3] -> Rexxar
+[Turn 9, Step 31] Agent: 공격 - Am'gam Rager[1/3] -> Rocket Augmerchant
+[Turn 9, Step 32] Agent: 공격 - Seaforium Bomber[5/4] -> Rexxar
+[Turn 9, Step 33] Agent: 공격 - Flesheating Ghoul[5/3] -> Rexxar
+[Turn 9, Step 34] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/9
+  Hand (2): Eerie Statue, Questing Explorer
+  Field: Seaforium Bomber[5/4], Am'gam Rager[1/1], Emperor Cobra[2/3], Flesheating Ghoul[5/3], Volatile Elemental[1/1]
+Opponent: Rexxar HP: 5, Mana: 7/8
+  Hand (7)
+[Turn 9, Step 35] Agent: 카드 플레이 - Eerie Statue (코스트: 4)
+[Turn 9, Step 36] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 36] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 9, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 38] Agent: 공격 - Flesheating Ghoul[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 39) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (3): Questing Explorer, Toxfin, Molten Giant
+  Field: Seaforium Bomber[5/4], Am'gam Rager[1/1], Emperor Cobra[2/3], Flesheating Ghoul[5/3], Volatile Elemental[1/1], Eerie Statue[7/7]
+Opponent: Rexxar HP: 0, Mana: 7/9
+  Hand (8)
+  Field: Fishflinger[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

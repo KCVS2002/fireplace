@@ -1,0 +1,261 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Master Swordsmith[1/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Master Swordsmith[1/3] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/4
+  Hand (6): Piloted Sky Golem, Blowgill Sniper, Arcane Keysmith, Murmy, Marin the Fox, Ship's Cannon
+  Field: Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Master Swordsmith[1/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(29) → 14로 보정
+[Turn 5, Step 6] Agent: 공격 - Arcane Amplifier[2/5] -> Master Swordsmith
+[Turn 5, Step 7] Agent: 카드 플레이 - Arcane Keysmith (코스트: 4)
+[Turn 5, Step 8] Agent: 선택 - Spellbender
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (6): Piloted Sky Golem, Blowgill Sniper, Murmy, Marin the Fox, Ship's Cannon, Violet Illusionist
+  Field: Arcane Amplifier[2/4], Arcane Keysmith[2/2], Violet Spellwing[1/1]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (8)
+  Field: Master Swordsmith[1/1]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(80) → 11로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(75) → 11로 보정
+[Turn 6, Step 11] Agent: 공격 - Arcane Amplifier[2/4] -> Master Swordsmith
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 6, Step 13] Agent: 카드 플레이 - Blowgill Sniper -> Arcane Amplifier (코스트: 2)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 6, Step 14] Agent: 공격 - Arcane Keysmith[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (4): Piloted Sky Golem, Murmy, Marin the Fox, Violet Illusionist
+  Field: Arcane Amplifier[2/2], Arcane Keysmith[2/2], Violet Spellwing[1/1], Ship's Cannon[2/3], Blowgill Sniper[2/1]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (8)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Midnight Drake (코스트: 4)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(84) → 15로 보정
+[Turn 7, Step 16] Agent: 공격 - Arcane Keysmith[2/2] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 7, Step 17] Opponent: 공격 - Midnight Drake[9/4] -> Blowgill Sniper
+[Turn 7, Step 17] Opponent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(76) → 22로 보정
+[Turn 8, Step 18] Agent: 공격 - Violet Spellwing[1/1] -> Midnight Drake
+[Turn 8, Step 19] Agent: 공격 - Arcane Keysmith[2/2] -> Bloodmage Thalnos
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (7): Piloted Sky Golem, Murmy, Marin the Fox, Violet Illusionist, Fallen Hero, Vex Crow, Arcane Missiles
+  Field: Arcane Amplifier[2/2], Arcane Keysmith[2/1], Ship's Cannon[2/3]
+Opponent: Rexxar HP: 26, Mana: 2/7
+  Hand (8)
+  Field: Midnight Drake[9/1], Giant Wasp[2/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(32) → 14로 보정
+[Turn 8, Step 20] Agent: 공격 - Arcane Amplifier[2/2] -> Rexxar
+[Turn 8, Step 21] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Rhok'delar (코스트: 7)
+[Turn 8, Step 22] Opponent: 공격 - Rexxar[4/22] -> Arcane Keysmith
+[Turn 8, Step 22] Opponent: 공격 - Giant Wasp[2/2] -> Ship's Cannon
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Fallen Hero (코스트: 2)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/9
+  Hand (5): Murmy, Marin the Fox, Violet Illusionist, Vex Crow, Questing Explorer
+  Field: Arcane Amplifier[2/2], Piloted Sky Golem[6/4], Fallen Hero[3/2]
+Opponent: Rexxar HP: 20, Mana: 1/8
+  Hand (8)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 28] Agent: 공격 - Fallen Hero[3/2] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Vex Crow (코스트: 4)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (4): Marin the Fox, Violet Illusionist, Questing Explorer, Unpowered Mauler
+  Field: Arcane Amplifier[2/2], Piloted Sky Golem[6/4], Fallen Hero[3/2], Murmy[1/1], Vex Crow[3/3]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (9)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 10, Step 30] Agent: 공격 - Piloted Sky Golem[6/4] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(29) → 4로 보정
+[Turn 10, Step 31] Agent: 공격 - Arcane Amplifier[2/2] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Quick Shot -> Fallen Hero (코스트: 2)
+[Turn 10, Step 32] Opponent: 공격 - Rexxar[4/9] -> Fallen Hero
+[Turn 10, Step 32] Opponent: 카드 플레이 - Violet Warden (코스트: 6)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Murmy
+[Turn 10, Step 34] Agent: 카드 플레이 - Questing Explorer (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (4): Marin the Fox, Violet Illusionist, Unpowered Mauler, Kalecgos
+  Field: Arcane Amplifier[2/2], Piloted Sky Golem[6/4], Murmy[1/1], Vex Crow[3/3], Questing Explorer[2/3]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (8)
+  Field: Violet Warden[4/7]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Violet Warden[4/7] -> Murmy
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Vex Crow
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 39] Agent: 공격 - Questing Explorer[2/3] -> Violet Warden
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (3): Kezan Mystic, Marin the Fox, Kalecgos
+  Field: Arcane Amplifier[2/2], Piloted Sky Golem[6/4], Vex Crow[3/1], Violet Illusionist[4/3], Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (9)
+  Field: Violet Warden[4/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 40] Agent: 공격 - Vex Crow[3/1] -> Violet Warden
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Madam Goya -> Violet Warden (코스트: 6)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Piloted Sky Golem[6/4] -> Happy Ghoul
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Madam Goya[4/3] -> Unpowered Mauler
+[Turn 10, Step 43] Opponent: 공격 - Silver Hand Regent[3/3] -> Piloted Sky Golem
+[Turn 10, Step 43] Opponent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Madam Goya
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (5): Kezan Mystic, Marin the Fox, Kalecgos, Inkmaster Solia, Demented Frostcaller
+  Field: Arcane Amplifier[2/2], Runeforge Haunter[5/3], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (7)
+  Field: Sated Threshadon[5/7]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(61) → 6로 보정
+[Turn 10, Step 45] Agent: 공격 - Arcane Amplifier[2/2] -> Sated Threshadon
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(26) → 8로 보정
+[Turn 10, Step 46] Agent: 공격 - Violet Illusionist[4/3] -> Sated Threshadon
+[Turn 10, Step 47] Agent: 공격 - Runeforge Haunter[5/3] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Demented Frostcaller (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (3): Marin the Fox, Kalecgos, Inkmaster Solia
+  Field: Runeforge Haunter[5/3], Demented Frostcaller[2/4], Kezan Mystic[4/3]
+Opponent: Rexxar HP: 1, Mana: 1/10
+  Hand (7)
+  Field: Sated Threshadon[5/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 10, Step 50] Opponent: 공격 - Sated Threshadon[5/1] -> Runeforge Haunter
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(64) → 18로 보정
+[Turn 10, Step 51] Agent: 공격 - Kezan Mystic[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (4): Marin the Fox, Kalecgos, Inkmaster Solia, Twilight Summoner
+  Field: Demented Frostcaller[2/4], Kezan Mystic[4/3]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (7)
+  Field: Primalfin[1/1], Primalfin[1/1], Primalfin[1/1], Grook Fu Master[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

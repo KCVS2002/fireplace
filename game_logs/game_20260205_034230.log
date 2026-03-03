@@ -1,0 +1,171 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 2] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 3, Step 2] Opponent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 3, Step 2] Opponent: 턴 종료
+[Turn 4, Step 3] Agent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 4, Step 4] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 4] Opponent: 공격 - Recombobulator[3/2] -> Blackwater Pirate
+[Turn 4, Step 4] Opponent: 공격 - Crystallizer[1/3] -> Blackwater Pirate
+[Turn 4, Step 4] Opponent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 4, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Crystallizer, Mortuary Machine, Spellbook Binder, Spiteful Smith, Coppertail Imposter, Stranglethorn Tiger, Darkspeaker
+  Field: Blackwater Pirate[2/1]
+Opponent: Rexxar HP: 25, Mana: 1/4
+  Hand (5)
+  Field: Crystallizer[1/1], Twilight Elder[3/4]
+[Turn 5, Step 5] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 5, Step 6] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 6] Opponent: 공격 - Twilight Elder[3/4] -> Jaina Proudmoore
+[Turn 5, Step 6] Opponent: 공격 - Crystallizer[1/1] -> Blackwater Pirate
+[Turn 5, Step 6] Opponent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 5, Step 6] Opponent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 5, Step 6] Opponent: 턴 종료
+[Turn 6, Step 7] Agent: 영웅 능력 사용 -> Wyrmrest Purifier
+[Turn 6, Step 8] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 6, Step 9] Agent: 공격 - Coppertail Imposter[4/4] -> Mana Addict
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/6
+  Hand (6): Mortuary Machine, Spellbook Binder, Spiteful Smith, Stranglethorn Tiger, Darkspeaker, Master Oakheart
+  Field: Coppertail Imposter[4/3], Crystallizer[1/3]
+Opponent: Rexxar HP: 25, Mana: 1/5
+  Hand (4)
+  Field: Twilight Elder[3/4], Wyrmrest Purifier[3/1]
+[Turn 6, Step 10] Agent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 공격 - Crystallizer[1/3] -> Twilight Elder
+[Turn 7, Step 13] Agent: 공격 - Spellbook Binder[3/2] -> Twilight Elder
+[Turn 7, Step 14] Agent: 카드 플레이 - Darkspeaker -> Coppertail Imposter (코스트: 5)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/7
+  Hand (5): Mortuary Machine, Spiteful Smith, Stranglethorn Tiger, Master Oakheart, Ozruk
+  Field: Coppertail Imposter[3/6], Darkspeaker[4/3]
+Opponent: Rexxar HP: 25, Mana: 6/6
+  Hand (5)
+  Field: Wyrmrest Purifier[3/1]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Darkspeaker
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Rapid Fire -> Jaina Proudmoore (코스트: 1)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 8, Step 18] Agent: 공격 - Darkspeaker[4/2] -> Rexxar
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Darkspeaker
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/8
+  Hand (5): Mortuary Machine, Spiteful Smith, Stranglethorn Tiger, Master Oakheart, Ozruk
+  Field: Coppertail Imposter[3/6], Darkspeaker[4/1], Lowly Squire[2/2]
+Opponent: Rexxar HP: 25, Mana: 6/7
+  Hand (6)
+  Field: Wyrmrest Purifier[3/1]
+[Turn 8, Step 20] Agent: 공격 - Coppertail Imposter[3/6] -> Rexxar
+[Turn 8, Step 21] Agent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Stitched Tracker (코스트: 3)
+[Turn 8, Step 22] Opponent: 선택 - Cloaked Huntress
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 공격 - Coppertail Imposter[3/6] -> Stitched Tracker
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/9
+  Hand (5): Spiteful Smith, Stranglethorn Tiger, Master Oakheart, Ozruk, Ice Walker
+  Field: Coppertail Imposter[3/4], Darkspeaker[4/1], Lowly Squire[3/2], Mortuary Machine[8/8]
+Opponent: Rexxar HP: 22, Mana: 5/8
+  Hand (7)
+  Field: Wyrmrest Purifier[3/1], Stitched Tracker[2/1]
+[Turn 9, Step 25] Agent: 공격 - Darkspeaker[4/1] -> Rexxar
+[Turn 9, Step 26] Agent: 공격 - Lowly Squire[3/2] -> Wyrmrest Purifier
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 9, Step 27] Opponent: 카드 플레이 - Cloaked Huntress (코스트: 3)
+[Turn 9, Step 27] Opponent: 카드 플레이 - Rapid Fire -> Rexxar (코스트: 1)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 10, Step 29] Agent: 공격 - Darkspeaker[4/1] -> Cloaked Huntress
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Spiteful Smith, Stranglethorn Tiger, Master Oakheart, Ozruk, Portal Keeper
+  Field: Coppertail Imposter[3/4], Mortuary Machine[8/8], Ice Walker[1/3]
+Opponent: Rexxar HP: 17, Mana: 2/9
+  Hand (6)
+  Field: Stitched Tracker[2/1], Brightwing[3/2], Cloaked Huntress[3/1]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Coppertail Imposter
+[Turn 10, Step 31] Agent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Brightwing[3/2] -> Ice Walker
+[Turn 10, Step 32] Opponent: 카드 플레이 - Princess Huhuran (코스트: 5)
+[Turn 10, Step 32] Opponent: 공격 - Cloaked Huntress[3/1] -> Mortuary Machine
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Coppertail Imposter[3/3] -> Stitched Tracker
+[Turn 10, Step 34] Agent: 카드 플레이 - Master Oakheart (코스트: 9)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (4): Stranglethorn Tiger, Ozruk, Portal Keeper, Quicksand Elemental
+  Field: Coppertail Imposter[3/1], Mortuary Machine[8/5], Spiteful Smith[4/6], Master Oakheart[5/5], Blowtorch Saboteur[3/4], Nerub'ar Weblord[1/4], Tournament Attendee[2/1]
+Opponent: Rexxar HP: 17, Mana: 5/10
+  Hand (6)
+  Field: Brightwing[3/1], Princess Huhuran[6/5]
+[Turn 10, Step 35] Agent: 공격 - Mortuary Machine[8/5] -> Rexxar
+[Turn 10, Step 36] Agent: 공격 - Spiteful Smith[4/6] -> Rexxar
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Oblivitron (코스트: 6)
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 공격 - Brightwing[3/1] -> Tournament Attendee
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 공격 - Mortuary Machine[8/5] -> Rexxar
+
+--- Game State (Turn 10, Step 39) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (5): Stranglethorn Tiger, Ozruk, Portal Keeper, Quicksand Elemental, Puzzle Box of Yogg-Saron
+  Field: Coppertail Imposter[3/1], Mortuary Machine[8/5], Spiteful Smith[4/6], Master Oakheart[5/5], Blowtorch Saboteur[3/4], Nerub'ar Weblord[1/4]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (6)
+  Field: Brightwing[3/1], Princess Huhuran[6/5], Oblivitron[3/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,223 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (6): Spellweaver, Arcane Devourer, The Coin, Bonemare, Untamed Beastmaster, Nefarian
+  Field: Vilefiend[2/2], Nerub'ar Weblord[1/4]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Stubborn Gastropod[1/2]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Stubborn Gastropod[1/2] -> Vilefiend
+[Turn 3, Step 5] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 3, Step 5] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 4, Step 7] Agent: 공격 - Nerub'ar Weblord[1/4] -> Rexxar
+[Turn 4, Step 8] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Dire Mole
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (5): Spellweaver, Arcane Devourer, Bonemare, Nefarian, Arcane Servant
+  Field: Nerub'ar Weblord[1/4], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (4)
+  Field: Happy Ghoul[3/3], Dire Mole[1/2]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Moroes (코스트: 3)
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Happy Ghoul
+[Turn 5, Step 13] Agent: 공격 - Nerub'ar Weblord[1/4] -> Dire Mole
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 공격 - Dire Mole[1/1] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (6): Happy Ghoul, Spellweaver, Arcane Devourer, Bonemare, Nefarian, Arcane Servant
+  Field: Nerub'ar Weblord[1/3], Untamed Beastmaster[3/4], Moroes[1/1], Steward[1/1]
+Opponent: Rexxar HP: 29, Mana: 3/6
+  Hand (5)
+  Field: Happy Ghoul[3/2], Dire Mole[1/1], Phantom Militia[2/4]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Moroes
+[Turn 6, Step 16] Agent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 공격 - Happy Ghoul[3/2] -> Nerub'ar Weblord
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+[Turn 7, Step 19] Agent: 공격 - Untamed Beastmaster[3/4] -> Phantom Militia
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/7
+  Hand (5): Spellweaver, Arcane Devourer, Bonemare, Nefarian, Shieldbearer
+  Field: Untamed Beastmaster[3/2], Steward[1/1], Happy Ghoul[3/3], Arcane Servant[2/3]
+Opponent: Rexxar HP: 29, Mana: 5/7
+  Hand (6)
+  Field: Happy Ghoul[3/1], Dire Mole[1/1], Phantom Militia[2/1]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 공격 - Phantom Militia[2/1] -> Happy Ghoul
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 공격 - Steward[1/1] -> Rexxar
+[Turn 8, Step 22] Agent: 공격 - Happy Ghoul[3/1] -> Happy Ghoul
+[Turn 8, Step 23] Agent: 카드 플레이 - Bonemare -> Arcane Servant (코스트: 8)
+[Turn 8, Step 24] Agent: 공격 - Untamed Beastmaster[3/2] -> Dire Mole
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/8
+  Hand (5): Spellweaver, Arcane Devourer, Nefarian, Shieldbearer, Imprisoned Vilefiend
+  Field: Untamed Beastmaster[3/1], Steward[1/1], Arcane Servant[6/7], Bonemare[5/5]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (7)
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Frost Elemental -> Steward (코스트: 6)
+[Turn 8, Step 25] Opponent: 카드 플레이 - Crackling Razormaw (코스트: 2)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 9, Step 27] Agent: 공격 - Untamed Beastmaster[3/1] -> Crackling Razormaw
+[Turn 9, Step 28] Agent: 공격 - Bonemare[5/5] -> Frost Elemental
+[Turn 9, Step 29] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/9
+  Hand (4): Spellweaver, Nefarian, Imprisoned Vilefiend, Supreme Abyssal
+  Field: Steward[1/1], Arcane Servant[6/7], Arcane Devourer[5/5], Shieldbearer[0/4]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (6)
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Arcane Servant[6/7] -> Kazakus
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (5): Spellweaver, Nefarian, Imprisoned Vilefiend, Supreme Abyssal, Magic Trick
+  Field: Steward[1/1], Arcane Servant[6/4], Arcane Devourer[5/5], Shieldbearer[0/4], Venture Co. Mercenary[7/6]
+Opponent: Rexxar HP: 28, Mana: 4/10
+  Hand (6)
+  Field: Bolf Ramshield[3/8]
+[Turn 10, Step 35] Agent: 공격 - Arcane Devourer[5/5] -> Rexxar
+[Turn 10, Step 36] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 5)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Dancing Swords (코스트: 3)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Shieldbearer
+[Turn 10, Step 39] Agent: 공격 - Arcane Servant[6/4] -> Bolf Ramshield
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (5): Spellweaver, Nefarian, Supreme Abyssal, Magic Trick, Flying Machine
+  Field: Steward[1/1], Arcane Servant[6/1], Arcane Devourer[5/5], Shieldbearer[0/3], Venture Co. Mercenary[7/6], Imprisoned Vilefiend[3/5]
+Opponent: Rexxar HP: 28, Mana: 7/10
+  Hand (6)
+  Field: Dancing Swords[4/4]
+[Turn 10, Step 40] Agent: 공격 - Arcane Devourer[5/5] -> Rexxar
+[Turn 10, Step 41] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 10, Step 42] Agent: 선택 - Frostbolt
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Frostbolt -> Jaina Proudmoore (코스트: 2)
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Arcane Devourer
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/10
+  Hand (5): Spellweaver, Nefarian, Supreme Abyssal, Flying Machine, Lil' Exorcist
+  Field: Steward[1/1], Arcane Servant[6/1], Arcane Devourer[9/8], Shieldbearer[0/3], Venture Co. Mercenary[7/6], Imprisoned Vilefiend[3/5]
+Opponent: Rexxar HP: 23, Mana: 6/10
+  Hand (6)
+  Field: Dancing Swords[4/4], Shimmering Courser[3/3]
+[Turn 10, Step 45] Agent: 공격 - Arcane Devourer[9/8] -> Rexxar
+[Turn 10, Step 46] Agent: 공격 - Steward[1/1] -> Dancing Swords
+[Turn 10, Step 47] Agent: 카드 플레이 - Lil' Exorcist (코스트: 6)
+[Turn 10, Step 48] Agent: 공격 - Venture Co. Mercenary[7/6] -> Shimmering Courser
+[Turn 10, Step 49] Agent: 공격 - Arcane Servant[6/1] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (4): Spellweaver, Nefarian, Supreme Abyssal, Flying Machine
+  Field: Arcane Servant[6/1], Arcane Devourer[9/8], Shieldbearer[0/3], Venture Co. Mercenary[7/3], Imprisoned Vilefiend[3/5], Lil' Exorcist[3/4]
+Opponent: Rexxar HP: 8, Mana: 6/10
+  Hand (6)
+  Field: Dancing Swords[4/3]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 공격 - Dancing Swords[4/3] -> Lil' Exorcist
+[Turn 10, Step 50] Opponent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 공격 - Arcane Servant[6/1] -> Rexxar
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Imprisoned Vilefiend
+[Turn 10, Step 53] Agent: 카드 플레이 - Witch's Cauldron (코스트: 6)
+[Turn 10, Step 54] Agent: 공격 - Arcane Devourer[9/8] -> Untamed Beastmaster
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (5): Giant Wasp, Spellweaver, Nefarian, Supreme Abyssal, Flying Machine
+  Field: Arcane Servant[6/1], Arcane Devourer[9/5], Shieldbearer[0/3], Venture Co. Mercenary[7/3], Imprisoned Vilefiend[3/4], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 2, Mana: 0/10
+  Hand (5)
+  Field: Sated Threshadon[5/7]
+[Turn 10, Step 55] Agent: 공격 - Venture Co. Mercenary[7/3] -> Rexxar
+
+--- Game State (Turn 10, Step 56) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (5): Giant Wasp, Spellweaver, Nefarian, Supreme Abyssal, Flying Machine
+  Field: Arcane Servant[6/1], Arcane Devourer[9/5], Shieldbearer[0/3], Venture Co. Mercenary[7/3], Imprisoned Vilefiend[3/4], Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+  Field: Sated Threshadon[5/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,352 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Fire Fly (코스트: 1)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Ray of Frost -> Fire Fly (코스트: 1)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/3
+  Hand (5): Evasive Drakonid, Blackwing Technician, Jepetto Joybuzz, Bomb Squad, Ray of Frost
+  Field: Fire Fly[1/2], Flame Elemental[1/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Ray of Frost -> Fire Fly (코스트: 1)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Flame Elemental
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Exploding Bloatbat (코스트: 4)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 5, Step 9] Agent: 공격 - Flame Elemental[1/1] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (6): Evasive Drakonid, Blackwing Technician, Jepetto Joybuzz, Bomb Squad, Foe Reaper 4000, Raid Leader
+  Field: Flame Elemental[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (7)
+  Field: Exploding Bloatbat[2/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(71) → 7로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Exploding Bloatbat
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Blackwing Technician
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (5): Evasive Drakonid, Jepetto Joybuzz, Bomb Squad, Foe Reaper 4000, Arcane Breath
+  Field: Blackwing Technician[4/4], Raid Leader[2/2]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (8)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Tomb Lurker (코스트: 5)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Raid Leader[2/2] -> Tomb Lurker
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Blackwing Technician
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Arcane Breath -> Tomb Lurker (코스트: 1)
+[Turn 7, Step 19] Agent: 선택 - Faerie Dragon
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (7): Validated Doomsayer, Evasive Drakonid, Jepetto Joybuzz, Bomb Squad, Foe Reaper 4000, Faerie Dragon, Murloc Tidecaller
+  Field: Blackwing Technician[3/3]
+Opponent: Rexxar HP: 29, Mana: 1/7
+  Hand (10)
+  Field: Wrathion[4/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 8, Step 21] Agent: 공격 - Blackwing Technician[3/3] -> Wrathion
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Loose Specimen (코스트: 5)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(84) → 7로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Arcane Artificer (코스트: 1)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/9
+  Hand (6): Validated Doomsayer, Evasive Drakonid, Jepetto Joybuzz, Bomb Squad, Faerie Dragon, Murloc Tidecaller
+  Field: Foe Reaper 4000[6/9], Arcane Artificer[1/2]
+Opponent: Rexxar HP: 28, Mana: 0/8
+  Hand (8)
+  Field: Loose Specimen[6/2], Cave Hydra[2/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(82) → 19로 보정
+[Turn 10, Step 26] Agent: 공격 - Arcane Artificer[1/2] -> Loose Specimen
+[Turn 10, Step 27] Agent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(92) → 8로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Loose Specimen
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Hyena Alpha (코스트: 4)
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (9): Validated Doomsayer, Evasive Drakonid, Bomb Squad, Faerie Dragon, Murloc Tidecaller, Ogre Magi, Night Prowler, Babbling Book, Mini-Mage
+  Field: Foe Reaper 4000[6/9], Jepetto Joybuzz[6/6]
+Opponent: Rexxar HP: 28, Mana: 6/10
+  Hand (9)
+  Field: Cave Hydra[2/4], Hyena Alpha[3/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(84) → 15로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Jepetto Joybuzz
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Majordomo Executus (코스트: 9)
+[Turn 10, Step 31] Opponent: 공격 - Cave Hydra[2/4] -> Foe Reaper 4000
+[Turn 10, Step 31] Opponent: 공격 - Hyena Alpha[3/3] -> Foe Reaper 4000
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Spring Rocket -> Jaina Proudmoore (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Faerie Dragon (코스트: 2)
+[Turn 10, Step 34] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/10
+  Hand (7): Validated Doomsayer, Evasive Drakonid, Bomb Squad, Murloc Tidecaller, Ogre Magi, Night Prowler, Babbling Book
+  Field: Foe Reaper 4000[6/4], Jepetto Joybuzz[6/5], Spring Rocket[2/1], Faerie Dragon[3/2], Mini-Mage[4/1]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (9)
+  Field: Majordomo Executus[9/7]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Majordomo Executus[9/7] -> Spring Rocket
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 35] Opponent: 공격 - Hunting Mastiff[2/1] -> Jepetto Joybuzz
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(94) → 24로 보정
+[Turn 10, Step 36] Agent: 공격 - Jepetto Joybuzz[6/3] -> Majordomo Executus
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Houndmaster Shaw (코스트: 4)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Frozen Crusher (코스트: 6)
+[Turn 10, Step 37] Opponent: 공격 - Former Champ[1/1] -> Faerie Dragon
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(46) → 15로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Hotshot
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(38) → 14로 보정
+[Turn 10, Step 39] Agent: 공격 - Foe Reaper 4000[6/4] -> Houndmaster Shaw
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (9): Fire Hawk, Validated Doomsayer, Evasive Drakonid, Bomb Squad, Murloc Tidecaller, Ogre Magi, Night Prowler, Babbling Book, Kel'Thuzad
+  Field: Foe Reaper 4000[6/1], Faerie Dragon[3/1], Mini-Mage[4/1]
+Opponent: Ragnaros the Firelord HP: 8, Mana: 0/10
+  Hand (7)
+  Field: Hotshot[5/4], Frozen Crusher[8/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(25) → 8로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Night Prowler (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Big-Time Racketeer (코스트: 6)
+[Turn 10, Step 41] Opponent: 공격 - Frozen Crusher[8/8] -> Foe Reaper 4000
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(91) → 10로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Big-Time Racketeer
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(57) → 12로 보정
+[Turn 10, Step 44] Agent: 공격 - Night Prowler[1/1] -> Hotshot
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/10
+  Hand (8): Fire Hawk, Validated Doomsayer, Bomb Squad, Murloc Tidecaller, Ogre Magi, Babbling Book, Kel'Thuzad, Pit Fighter
+  Field: Faerie Dragon[3/1], Mini-Mage[4/1], Evasive Drakonid[7/7]
+Opponent: Ragnaros the Firelord HP: 8, Mana: 2/10
+  Hand (7)
+  Field: Hotshot[5/3], Frozen Crusher[8/2], "Little Friend"[6/6]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Windfury Harpy (코스트: 6)
+[Turn 10, Step 45] Opponent: 공격 - "Little Friend"[6/6] -> Evasive Drakonid
+[Turn 10, Step 45] Opponent: 공격 - Hotshot[5/3] -> Evasive Drakonid
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(42) → 16로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Lifedrinker
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 10, Step 48] Agent: 공격 - Faerie Dragon[3/1] -> Lifedrinker
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 49] Agent: 공격 - Mini-Mage[4/1] -> Frozen Crusher
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/10
+  Hand (8): Fire Hawk, Validated Doomsayer, Bomb Squad, Murloc Tidecaller, Ogre Magi, Babbling Book, Kel'Thuzad, Quicksand Elemental
+  Field: Pit Fighter[5/6]
+Opponent: Ragnaros the Firelord HP: 8, Mana: 0/10
+  Hand (6)
+  Field: Windfury Harpy[4/5]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(43) → 11로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Windfury Harpy
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 10, Step 53] Agent: 공격 - Pit Fighter[5/6] -> Ragnaros the Firelord
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (9): Fire Hawk, Validated Doomsayer, Bomb Squad, Ogre Magi, Babbling Book, Kel'Thuzad, Quicksand Elemental, Sunfury Protector, Kezan Mystic
+  Field: Pit Fighter[5/6], Murloc Tidecaller[1/2]
+Opponent: Ragnaros the Firelord HP: 3, Mana: 10/10
+  Hand (8)
+  Field: Windfury Harpy[4/4]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(70) → 13로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Pit Fighter
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(64) → 8로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(23) → 11로 보정
+[Turn 10, Step 58] Agent: 공격 - Murloc Tidecaller[1/2] -> Windfury Harpy
+[Turn 10, Step 59] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (7): Fire Hawk, Validated Doomsayer, Bomb Squad, Ogre Magi, Kel'Thuzad, Quicksand Elemental, Toxic Reinforcements
+  Field: Pit Fighter[5/5], Sunfury Protector[2/3], Babbling Book[1/1], Kezan Mystic[4/3]
+Opponent: Ragnaros the Firelord HP: 3, Mana: 10/10
+  Hand (8)
+  Field: Windfury Harpy[4/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(59) → 29로 보정
+[Turn 10, Step 61] Agent: 공격 - Kezan Mystic[4/3] -> Troggzor the Earthinator
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(99) → 24로 보정
+[Turn 10, Step 63] Agent: 공격 - Babbling Book[1/1] -> Troggzor the Earthinator
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(52) → 10로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Windfury Harpy
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 4/10
+  Hand (7): Fire Hawk, Validated Doomsayer, Bomb Squad, Kel'Thuzad, Quicksand Elemental, Toxic Reinforcements, Cobalt Scalebane
+  Field: Pit Fighter[5/5], Sunfury Protector[2/3], Ogre Magi[4/4]
+Opponent: Ragnaros the Firelord HP: 3, Mana: 3/10
+  Hand (8)
+  Field: Windfury Harpy[4/2], Troggzor the Earthinator[6/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 65] Agent: 공격 - Pit Fighter[5/5] -> Troggzor the Earthinator
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 67] Agent: 공격 - Sunfury Protector[2/3] -> Ragnaros the Firelord
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (6): Validated Doomsayer, Bomb Squad, Kel'Thuzad, Quicksand Elemental, Cobalt Scalebane, Hemet Nesingwary
+  Field: Sunfury Protector[2/3], Ogre Magi[4/4], Fire Hawk[9/3]
+Opponent: Ragnaros the Firelord HP: 1, Mana: 10/10
+  Hand (9)
+  Field: Windfury Harpy[4/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(35) → 16로 보정
+[Turn 10, Step 70] Agent: 공격 - Ogre Magi[4/4] -> Windfury Harpy
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 10, Step 71] Agent: 공격 - Fire Hawk[9/3] -> Ragnaros the Firelord
+
+--- Game State (Turn 10, Step 72) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (6): Validated Doomsayer, Bomb Squad, Kel'Thuzad, Quicksand Elemental, Cobalt Scalebane, Hemet Nesingwary
+  Field: Sunfury Protector[2/3], Fire Hawk[9/3]
+Opponent: Ragnaros the Firelord HP: 0, Mana: 10/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

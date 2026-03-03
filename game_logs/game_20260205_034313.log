@@ -1,0 +1,163 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 3, Step 4] Opponent: 공격 - Bonechewer Brawler[2/3] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Thunder Lizard, Grand Crusader, Arcanosmith, Gormok the Impaler, Soot Spewer, Eldritch Horror
+  Field: Acidic Swamp Ooze[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (7)
+  Field: Bonechewer Brawler[2/3], Ravencaller[2/1]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 6] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Bonechewer Brawler
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (6): Grand Crusader, Arcanosmith, Gormok the Impaler, Soot Spewer, Eldritch Horror, Ornery Tortoise
+  Field: Thunder Lizard[3/3]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (8)
+  Field: Ravencaller[2/1]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Timber Wolf (코스트: 1)
+[Turn 5, Step 10] Opponent: 카드 플레이 - Kabal Chemist (코스트: 4)
+[Turn 5, Step 10] Opponent: 공격 - Ravencaller[2/1] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Timber Wolf
+[Turn 6, Step 12] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+[Turn 6, Step 13] Agent: 공격 - Thunder Lizard[3/3] -> Rexxar
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Ravencaller[2/1] -> Soot Spewer
+[Turn 6, Step 14] Opponent: 공격 - Kabal Chemist[3/3] -> Soot Spewer
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Volcanic Potion (코스트: 3)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 7/7
+  Hand (7): Grand Crusader, Arcanosmith, Gormok the Impaler, Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3
+  Field: Thunder Lizard[3/1]
+Opponent: Rexxar HP: 26, Mana: 0/6
+  Hand (7)
+  Field: Jo-E Bot[1/1]
+[Turn 7, Step 15] Agent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 7, Step 16] Agent: 공격 - Thunder Lizard[3/1] -> Rexxar
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 7, Step 17] Opponent: 카드 플레이 - Fresh Scent -> Thunder Lizard (코스트: 2)
+[Turn 7, Step 17] Opponent: 카드 플레이 - Fresh Scent -> Thunder Lizard (코스트: 2)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Dark Conviction -> Jo-E Bot (코스트: 2)
+[Turn 8, Step 19] Agent: 공격 - Thunder Lizard[7/5] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/8
+  Hand (7): Subject 9, Arcanosmith, Gormok the Impaler, Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3
+  Field: Thunder Lizard[7/5], Grand Crusader[5/5]
+Opponent: Rexxar HP: 16, Mana: 1/7
+  Hand (6)
+  Field: Jo-E Bot[3/3]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Grand Crusader
+[Turn 8, Step 21] Agent: 공격 - Grand Crusader[5/4] -> Jo-E Bot
+[Turn 8, Step 22] Agent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Fireball -> Stubborn Gastropod (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/9
+  Hand (6): Subject 9, Gormok the Impaler, Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3
+  Field: Thunder Lizard[7/5], Grand Crusader[5/1], Arcanosmith[3/2], Animated Shield[0/5]
+Opponent: Rexxar HP: 16, Mana: 4/8
+  Hand (6)
+  Field: Emperor Cobra[2/3]
+[Turn 9, Step 25] Agent: 카드 플레이 - Gormok the Impaler -> Emperor Cobra (코스트: 4)
+[Turn 9, Step 26] Agent: 공격 - Arcanosmith[3/2] -> Rexxar
+[Turn 9, Step 27] Agent: 공격 - Grand Crusader[5/1] -> Rexxar
+[Turn 9, Step 28] Agent: 공격 - Thunder Lizard[7/5] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Princess Huhuran (코스트: 5)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Rend Blackhand, Subject 9, Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3
+  Field: Thunder Lizard[7/5], Grand Crusader[5/1], Arcanosmith[3/2], Animated Shield[0/5], Gormok the Impaler[4/4]
+Opponent: Rexxar HP: 1, Mana: 0/9
+  Hand (4)
+  Field: Princess Huhuran[6/5], Cloakscale Chemist[1/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Rend Blackhand (코스트: 7)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Arcanosmith
+[Turn 10, Step 33] Agent: 공격 - Gormok the Impaler[4/4] -> Princess Huhuran
+[Turn 10, Step 34] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (5): Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3, The Lich King
+  Field: Thunder Lizard[7/5], Grand Crusader[5/1], Arcanosmith[3/1], Animated Shield[0/5], Rend Blackhand[8/4], Subject 9[4/4]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (5)
+  Field: Princess Huhuran[6/1], Cloakscale Chemist[1/2]
+[Turn 10, Step 35] Agent: 공격 - Thunder Lizard[7/5] -> Princess Huhuran
+[Turn 10, Step 36] Agent: 공격 - Grand Crusader[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 37) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (5): Eldritch Horror, Ornery Tortoise, Nerubian Prophet, Gorillabot A-3, The Lich King
+  Field: Grand Crusader[5/1], Arcanosmith[3/1], Animated Shield[0/5], Rend Blackhand[8/4], Subject 9[4/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+  Field: Cloakscale Chemist[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

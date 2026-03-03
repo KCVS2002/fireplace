@@ -1,0 +1,416 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 1, Step 0] Opponent: 선택 - Mortal Strike
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 공격 - Grimestreet Informant[1/1] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Grimestreet Informant
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (7): Spectral Knight, Rabble Bouncer, Arcane Explosion, Annoy-o-Tron, Kobold Monk, Fel Reaver, Felsoul Inquisitor
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Arcane Explosion (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Mortal Strike -> Jaina Proudmoore (코스트: 4)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Cult Sorcerer (코스트: 2)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/6
+  Hand (7): Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Annoy-o-Tron, Kobold Monk, Fel Reaver, Felsoul Inquisitor
+  Field: Cult Sorcerer[3/2]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (8)
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Furbolg Mossbinder (코스트: 5)
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 7, Step 14] Agent: 공격 - Cult Sorcerer[3/2] -> Furbolg Mossbinder
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/7
+  Hand (6): Missile Launcher, Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Fel Reaver, Felsoul Inquisitor
+  Field: Cult Sorcerer[3/1], Annoy-o-Tron[1/2], Kobold Monk[3/6]
+Opponent: Rexxar HP: 28, Mana: 1/6
+  Hand (8)
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(3) → 1로 보정
+[Turn 7, Step 15] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Mok'Nathal Lion (코스트: 4)
+[Turn 7, Step 16] Opponent: 공격 - Mok'Nathal Lion[5/2] -> Annoy-o-Tron
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(58) → 10로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Kobold Monk
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Nexus-Champion Saraad (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 8, Step 19] Agent: 공격 - Cult Sorcerer[3/1] -> Mok'Nathal Lion
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (6): Missile Launcher, Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Fel Reaver, Felsoul Inquisitor
+  Field: Kobold Monk[3/5], Nexus-Champion Saraad[4/5]
+Opponent: Rexxar HP: 27, Mana: 3/7
+  Hand (8)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 8, Step 20] Agent: 공격 - Kobold Monk[3/5] -> Rexxar
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Nexus-Champion Saraad
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 9, Step 24] Agent: 공격 - Kobold Monk[3/5] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/9
+  Hand (7): Missile Launcher, Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Fel Reaver, Astromancer Solarian, Shadow Madness
+  Field: Kobold Monk[3/5], Nexus-Champion Saraad[4/4], Felsoul Inquisitor[1/6]
+Opponent: Rexxar HP: 21, Mana: 8/8
+  Hand (9)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Marked Shot -> Kobold Monk (코스트: 4)
+[Turn 9, Step 25] Opponent: 선택 - Misdirection
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Missile Launcher (코스트: 6)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 10, Step 29] Opponent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (8): Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Fel Reaver, Shadow Madness, Dalaran Crusader, Ironforge Portal, Bone Wraith
+  Field: Nexus-Champion Saraad[4/3], Felsoul Inquisitor[1/5], Missile Launcher[4/4], Astromancer Solarian[3/1]
+Opponent: Rexxar HP: 19, Mana: 4/10
+  Hand (8)
+  Field: Fel Orc Soulfiend[3/7], Phantom Militia[2/4]
+[Turn 10, Step 30] Agent: 카드 플레이 - Shadow Madness -> Fel Orc Soulfiend (코스트: 3)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(53) → 13로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Phantom Militia
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(50) → 16로 보정
+[Turn 10, Step 32] Agent: 공격 - Fel Orc Soulfiend[3/7] -> Phantom Militia
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 10, Step 33] Agent: 공격 - Felsoul Inquisitor[1/5] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Fel Reaver (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (7): Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Dalaran Crusader, Ironforge Portal, Bone Wraith, Demonbolt
+  Field: Nexus-Champion Saraad[4/3], Felsoul Inquisitor[1/5], Missile Launcher[4/4], Astromancer Solarian[3/1], Fel Orc Soulfiend[3/5], Fel Reaver[8/8]
+Opponent: Rexxar HP: 18, Mana: 4/10
+  Hand (8)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 카드 플레이 - Pompous Thespian (코스트: 2)
+[Turn 10, Step 35] Opponent: 공격 - Fel Orc Soulfiend[3/5] -> Felsoul Inquisitor
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Felsoul Inquisitor
+[Turn 10, Step 37] Agent: 카드 플레이 - Holy Wrath -> Fel Reaver (코스트: 5)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 38] Agent: 공격 - Missile Launcher[4/4] -> Pompous Thespian
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(55) → 6로 보정
+[Turn 10, Step 39] Agent: 공격 - Fel Reaver[8/1] -> Worgen Greaser
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (9): Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Dalaran Crusader, Ironforge Portal, Bone Wraith, Demonbolt, Servant of Kalimos, Frost Elemental
+  Field: Nexus-Champion Saraad[4/2], Missile Launcher[4/1]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (7)
+  Field: Fel Orc Soulfiend[3/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Nexus-Champion Saraad[4/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Mo'arg Artificer (코스트: 2)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(80) → 18로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(55) → 23로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Fel Orc Soulfiend
+[Turn 10, Step 44] Agent: 카드 플레이 - Demonbolt -> Nat Pagle (코스트: 5)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (9): Anubisath Warbringer, Spectral Knight, Rabble Bouncer, Dalaran Crusader, Ironforge Portal, Bone Wraith, Servant of Kalimos, Frost Elemental, Resurrect
+  Field: Nexus-Champion Saraad[4/1], Missile Launcher[4/1]
+Opponent: Rexxar HP: 12, Mana: 8/10
+  Hand (7)
+  Field: Mo'arg Artificer[2/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Nexus-Champion Saraad[4/1] -> Mo'arg Artificer
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Misdirection (코스트: 2)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Wandering Monster (코스트: 2)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(42) → 8로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Frost Elemental -> Jaina Proudmoore (코스트: 6)
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Clockwork Giant (코스트: 3)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(72) → 3로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Rabble Bouncer (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (9): Anubisath Warbringer, Spectral Knight, Dalaran Crusader, Ironforge Portal, Bone Wraith, Servant of Kalimos, Resurrect, Southsea Captain, Servant of Kalimos
+  Field: Missile Launcher[4/1], Frost Elemental[5/4], Rabble Bouncer[2/7]
+Opponent: Rexxar HP: 10, Mana: 5/10
+  Hand (5)
+  Field: Spitting Camel[2/4], Clockwork Giant[8/7]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(78) → 12로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Frost Elemental
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Southsea Captain (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(78) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Missile Launcher[4/1] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 53] Agent: 공격 - Frost Elemental[5/3] -> Clockwork Giant
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Clockwork Giant[8/2] -> Rabble Bouncer
+[Turn 10, Step 54] Opponent: 공격 - Spitting Camel[2/4] -> Southsea Captain
+[Turn 10, Step 54] Opponent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 10, Step 54] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (9): Anubisath Warbringer, Spectral Knight, Dalaran Crusader, Ironforge Portal, Bone Wraith, Servant of Kalimos, Resurrect, Servant of Kalimos, Stonehill Defender
+  Field: Southsea Captain[3/1]
+Opponent: Rexxar HP: 10, Mana: 4/10
+  Hand (4)
+  Field: Spitting Camel[2/1], History Buff[3/4], Ice Rager[5/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 10, Step 55] Agent: 공격 - Southsea Captain[3/1] -> Spitting Camel
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Resurrect (코스트: 2)
+[Turn 10, Step 57] Agent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Ice Rager[5/1] -> Servant of Kalimos
+[Turn 10, Step 59] Opponent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 10, Step 59] Opponent: 공격 - History Buff[3/4] -> Fel Reaver
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (8): Anubisath Warbringer, Spectral Knight, Dalaran Crusader, Ironforge Portal, Bone Wraith, Servant of Kalimos, Stonehill Defender, Gadgetzan Jouster
+  Field: Fel Reaver[8/5]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (4)
+  Field: Whelp[1/1], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1], Whelp[1/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Spectral Knight (코스트: 5)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(91) → 22로 보정
+[Turn 10, Step 61] Agent: 공격 - Fel Reaver[8/5] -> Whelp
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(63) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Call of the Wild (코스트: 8)
+[Turn 10, Step 64] Opponent: 공격 - Huffer[5/2] -> Bone Wraith
+[Turn 10, Step 64] Opponent: 공격 - Whelp[2/1] -> Bone Wraith
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (5): Anubisath Warbringer, Dalaran Crusader, Ironforge Portal, Servant of Kalimos, Stonehill Defender
+  Field: Fel Reaver[8/4], Spectral Knight[4/6], Gadgetzan Jouster[1/2]
+Opponent: Rexxar HP: 9, Mana: 2/10
+  Hand (4)
+  Field: Whelp[2/1], Onyxia[9/8], Whelp[2/1], Whelp[2/1], Leokk[2/4]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Onyxia
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(76) → 7로 보정
+[Turn 10, Step 66] Agent: 공격 - Fel Reaver[8/4] -> Onyxia
+[Turn 10, Step 67] Agent: 공격 - Spectral Knight[4/6] -> Leokk
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(25) → 7로 보정
+[Turn 10, Step 68] Agent: 공격 - Gadgetzan Jouster[1/2] -> Whelp
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Stonehill Defender (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/10
+  Hand (4): Anubisath Warbringer, Dalaran Crusader, Ironforge Portal, Servant of Kalimos
+  Field: Spectral Knight[4/4], Gadgetzan Jouster[1/1], Stonehill Defender[1/4]
+Opponent: Rexxar HP: 9, Mana: 2/10
+  Hand (4)
+  Field: Whelp[1/1], Whelp[1/1]
+[Turn 10, Step 70] Agent: 선택 - Cyclopian Horror
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Ironforge Portal (코스트: 5)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 10, Step 71] Opponent: 공격 - Whelp[1/1] -> Stonehill Defender
+[Turn 10, Step 71] Opponent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 10, Step 71] Opponent: 카드 플레이 - Magma Rager (코스트: 3)
+[Turn 10, Step 71] Opponent: 공격 - Whelp[1/1] -> Stonehill Defender
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Infested Goblin
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 73] Agent: 공격 - Hoard Pillager[4/2] -> Infested Goblin
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(14) → 1로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (3): Anubisath Warbringer, Servant of Kalimos, Cyclopian Horror
+  Field: Spectral Knight[4/4], Gadgetzan Jouster[1/1], Stonehill Defender[1/2], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (4)
+  Field: Elise Starseeker[3/5], Magma Rager[6/2]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 75] Agent: 공격 - Spectral Knight[4/4] -> Rexxar
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 76] Agent: 공격 - Gadgetzan Jouster[1/1] -> Magma Rager
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 10, Step 77] Opponent: 공격 - Magma Rager[6/1] -> Stonehill Defender
+[Turn 10, Step 77] Opponent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 79] Agent: 공격 - Spectral Knight[4/4] -> Scarab
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (3): Anubisath Warbringer, Servant of Kalimos, Cyclopian Horror
+  Field: Spectral Knight[4/3], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 4, Mana: 6/10
+  Hand (3)
+  Field: Elise Starseeker[3/5], Dread Raven[6/4]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 10, Step 81] Agent: 공격 - Dalaran Crusader[5/4] -> Elise Starseeker
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 카드 플레이 - Mekgineer Thermaplugg (코스트: 9)
+[Turn 10, Step 82] Opponent: 공격 - Dread Raven[6/4] -> Cyclopian Horror
+[Turn 10, Step 82] Opponent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Dread Raven
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(6) → 2로 보정
+[Turn 10, Step 84] Agent: 공격 - Spectral Knight[4/3] -> Scarab
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (2): Anubisath Warbringer, Servant of Kalimos
+  Field: Spectral Knight[4/2], Dalaran Crusader[5/4]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (2)
+  Field: Mekgineer Thermaplugg[9/7], Leper Gnome[1/1]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 85] Agent: 공격 - Dalaran Crusader[5/4] -> Leper Gnome
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 86] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 86] Opponent: 공격 - Mekgineer Thermaplugg[9/7] -> Jaina Proudmoore
+[Turn 10, Step 86] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 10, Step 86] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 87) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (2): Anubisath Warbringer, Servant of Kalimos
+  Field: Spectral Knight[4/2], Dalaran Crusader[5/3]
+Opponent: Rexxar HP: 4, Mana: 8/10
+  Hand (2)
+  Field: Mekgineer Thermaplugg[9/6], Spitting Camel[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

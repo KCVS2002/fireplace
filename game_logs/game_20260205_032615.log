@@ -1,0 +1,152 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Mo'arg Artificer (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 3, Step 3] Agent: 공격 - Mo'arg Artificer[2/4] -> Rexxar
+[Turn 3, Step 4] Agent: 카드 플레이 - Stoneskin Basilisk (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (4): Eldritch Horror, Servant of Yogg-Saron, Manic Soulcaster, Breath of Sindragosa
+  Field: Mo'arg Artificer[2/4], Stoneskin Basilisk[1/1]
+Opponent: Rexxar HP: 28, Mana: 2/2
+  Hand (5)
+  Field: Recombobulator[3/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 4, Step 6] Agent: 공격 - Stoneskin Basilisk[1/1] -> Recombobulator
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Pumpkin Peasant
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 5, Step 9] Agent: 공격 - Mo'arg Artificer[2/4] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (6): Eldritch Horror, Servant of Yogg-Saron, Manic Soulcaster, Breath of Sindragosa, Mecharoo, Duplicate
+  Field: Mo'arg Artificer[2/4], Stoneskin Basilisk[1/1]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 5, Step 10] Opponent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Manic Soulcaster -> Stoneskin Basilisk (코스트: 3)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(14) → 5로 보정
+[Turn 6, Step 13] Agent: 공격 - Mo'arg Artificer[2/4] -> Grizzled Wizard
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 6, Step 14] Opponent: 공격 - Brightwing[3/2] -> Manic Soulcaster
+[Turn 6, Step 14] Opponent: 공격 - Wyvern[5/5] -> Mecharoo
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/7
+  Hand (6): Eldritch Horror, Servant of Yogg-Saron, Breath of Sindragosa, Duplicate, Kezan Mystic, Elemental Allies
+  Field: Stoneskin Basilisk[1/1], Jo-E Bot[1/1], Manic Soulcaster[3/1]
+Opponent: Rexxar HP: 26, Mana: 0/6
+  Hand (7)
+  Field: Wyvern[5/4]
+[Turn 7, Step 15] Agent: 공격 - Jo-E Bot[1/1] -> Wyvern
+[Turn 7, Step 16] Agent: 공격 - Manic Soulcaster[3/1] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Wyvern
+[Turn 7, Step 18] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (4): Eldritch Horror, Servant of Yogg-Saron, Breath of Sindragosa, Duplicate
+  Field: Stoneskin Basilisk[1/1], Manic Soulcaster[3/1], Kezan Mystic[4/3]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (7)
+  Field: Wyvern[5/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 7, Step 20] Agent: 공격 - Stoneskin Basilisk[1/1] -> Wyvern
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Ticking Abomination (코스트: 4)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 1)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(22) → 9로 보정
+[Turn 8, Step 23] Agent: 공격 - Manic Soulcaster[3/1] -> Rexxar
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 8, Step 24] Agent: 공격 - Kezan Mystic[4/3] -> Ticking Abomination
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/8
+  Hand (4): Eldritch Horror, Servant of Yogg-Saron, Duplicate, Evocation
+  Field: Manic Soulcaster[3/1]
+Opponent: Rexxar HP: 20, Mana: 3/7
+  Hand (7)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/10
+  Hand (9): Eldritch Horror, Servant of Yogg-Saron, Duplicate, Mindbreaker, Stonehill Defender, Ice Lance, Polymorph: Boar, Evocation, Power of Creation
+  Field: Manic Soulcaster[3/1]
+Opponent: Rexxar HP: 20, Mana: 9/9
+  Hand (9)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Elise Starseeker (코스트: 4)

@@ -1,0 +1,205 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Wasteland Scorpid, Priestess of Elune, Potion of Polymorph, Soot Spewer, Gluttonous Ooze
+  Field: Dirty Rat[2/6]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (4)
+  Field: Argent Watchman[2/4]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 3, Step 7] Agent: 공격 - Dirty Rat[2/6] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Potion of Polymorph (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/4
+  Hand (5): Wasteland Scorpid, Priestess of Elune, Soot Spewer, Scarab Egg, Moroes
+  Field: Dirty Rat[2/6], Gluttonous Ooze[3/3]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Argent Watchman[2/4], Fel Orc Soulfiend[3/7]
+[Turn 4, Step 10] Agent: 공격 - Dirty Rat[2/6] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Gluttonous Ooze[3/3] -> Argent Watchman
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 4, Step 12] Opponent: 공격 - Fel Orc Soulfiend[3/5] -> Dirty Rat
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Sheep
+[Turn 5, Step 14] Agent: 공격 - Gluttonous Ooze[3/1] -> Argent Watchman
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/5
+  Hand (6): Wasteland Scorpid, Priestess of Elune, Soot Spewer, Scarab Egg, Moroes, Arcanologist
+  Field: Dirty Rat[2/3]
+Opponent: Rexxar HP: 26, Mana: 0/5
+  Hand (5)
+  Field: Fel Orc Soulfiend[3/3]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Mukla, Tyrant of the Vale (코스트: 6)
+[Turn 5, Step 15] Opponent: 공격 - Fel Orc Soulfiend[3/1] -> Dirty Rat
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Priestess of Elune (코스트: 6)
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Bananas -> Priestess of Elune (코스트: 1)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Crackling Razormaw -> Mukla, Tyrant of the Vale (코스트: 2)
+[Turn 6, Step 17] Opponent: 선택 - Liquid Membrane
+[Turn 6, Step 17] Opponent: 카드 플레이 - Shroom Brewer -> Mukla, Tyrant of the Vale (코스트: 4)
+[Turn 6, Step 17] Opponent: 공격 - Mukla, Tyrant of the Vale[5/5] -> Jaina Proudmoore
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 19] Agent: 카드 플레이 - Arcanologist (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/7
+  Hand (6): Wasteland Scorpid, Soot Spewer, Scarab Egg, Moroes, Elite Tauren Chieftain, Mana Wraith
+  Field: Priestess of Elune[6/5], Arcanologist[2/3]
+Opponent: Rexxar HP: 25, Mana: 0/7
+  Hand (5)
+  Field: Mukla, Tyrant of the Vale[5/5], Crackling Razormaw[3/2], Shroom Brewer[4/4]
+[Turn 7, Step 20] Agent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 7, Step 21] Agent: 공격 - Priestess of Elune[6/5] -> Rexxar
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Wing Commander (코스트: 5)
+[Turn 7, Step 22] Opponent: 공격 - Shroom Brewer[4/4] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 카드 플레이 - Bananas -> Shroom Brewer (코스트: 1)
+[Turn 7, Step 22] Opponent: 공격 - Mukla, Tyrant of the Vale[5/5] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 공격 - Crackling Razormaw[3/2] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 공격 - Priestess of Elune[6/5] -> Crackling Razormaw
+[Turn 8, Step 24] Agent: 공격 - Mana Wraith[2/2] -> Shroom Brewer
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/8
+  Hand (6): Wasteland Scorpid, Soot Spewer, Scarab Egg, Moroes, Elite Tauren Chieftain, Countess Ashmore
+  Field: Priestess of Elune[6/2], Arcanologist[2/3]
+Opponent: Rexxar HP: 19, Mana: 2/8
+  Hand (4)
+  Field: Mukla, Tyrant of the Vale[5/5], Shroom Brewer[5/3], Wing Commander[4/5]
+[Turn 8, Step 25] Agent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 8, Step 26] Agent: 공격 - Arcanologist[2/3] -> Wing Commander
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 공격 - Wing Commander[4/3] -> Wasteland Scorpid
+[Turn 8, Step 27] Opponent: 카드 플레이 - Madder Bomber (코스트: 5)
+[Turn 8, Step 27] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 8, Step 27] Opponent: 공격 - Mukla, Tyrant of the Vale[5/3] -> Wasteland Scorpid
+[Turn 8, Step 27] Opponent: 공격 - Shroom Brewer[5/3] -> Priestess of Elune
+[Turn 8, Step 27] Opponent: 영웅 능력 사용
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Countess Ashmore (코스트: 7)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (7): Soot Spewer, Scarab Egg, Moroes, Elite Tauren Chieftain, Learn Draconic, Spellbook Binder, Polluted Hoarder
+  Field: Countess Ashmore[6/6]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (4)
+  Field: Madder Bomber[5/4], Mecharoo[1/1]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Mecharoo[1/1] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 카드 플레이 - Loose Specimen (코스트: 5)
+[Turn 10, Step 31] Opponent: 공격 - Madder Bomber[5/1] -> Countess Ashmore
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Kill Command -> Jo-E Bot (코스트: 3)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Rapid Fire -> Rexxar (코스트: 1)
+[Turn 10, Step 33] Opponent: 공격 - Loose Specimen[6/4] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Gurubashi Offering
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 8/10
+  Hand (8): Prince Valanar, Soot Spewer, Moroes, Elite Tauren Chieftain, Learn Draconic, Spellbook Binder, Polluted Hoarder, Dalaran Librarian
+  Field: Scarab Egg[0/2]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (4)
+  Field: Loose Specimen[6/4], Cobalt Spellkin[3/5], Gurubashi Offering[0/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Rapid Fire -> Kvaldir Raider (코스트: 1)
+[Turn 10, Step 35] Opponent: 공격 - Loose Specimen[6/4] -> Scarab Egg
+[Turn 10, Step 35] Opponent: 카드 플레이 - The Beast Within -> Loose Specimen (코스트: 1)
+[Turn 10, Step 35] Opponent: 공격 - Cobalt Spellkin[3/5] -> Scarab
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Scarab[1/1] -> Cobalt Spellkin
+[Turn 10, Step 37] Agent: 카드 플레이 - Prince Valanar (코스트: 4)
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Cobalt Spellkin
+[Turn 10, Step 39] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 3/10
+  Hand (7): Soot Spewer, Moroes, Elite Tauren Chieftain, Spellbook Binder, Polluted Hoarder, Dalaran Librarian, Faceless Behemoth
+  Field: Prince Valanar[4/4]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (2)
+  Field: Loose Specimen[7/4], Cobalt Spellkin[3/2], Kvaldir Raider[6/5]
+[Turn 10, Step 40] Agent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Zul'Drak Ritualist (코스트: 4)
+[Turn 10, Step 41] Opponent: 공격 - Loose Specimen[7/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 42) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (6): Soot Spewer, Moroes, Elite Tauren Chieftain, Spellbook Binder, Polluted Hoarder, Faceless Behemoth
+  Field: Prince Valanar[4/4], Dalaran Librarian[2/3], Beaming Sidekick[1/2], Deadscale Knight[1/1], Witchwood Imp[1/1]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (1)
+  Field: Loose Specimen[7/4], Cobalt Spellkin[3/2], Kvaldir Raider[6/5], Drakonid Crusher[9/9], Zul'Drak Ritualist[3/9]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

@@ -1,0 +1,503 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Upgradeable Framebot (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 공격 - Upgradeable Framebot[1/5] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (6): Sunreaver Warmage, Hungry Crab, Sated Threshadon, Devoted Maniac, Starscryer, Mayor Noggenfogger
+  Field: Prince Keleseth[2/2]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Upgradeable Framebot[1/5]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 3, Step 5] Agent: 공격 - Prince Keleseth[2/2] -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 3, Step 8] Opponent: 공격 - Upgradeable Framebot[1/5] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(29) → 13로 보정
+[Turn 4, Step 9] Agent: 공격 - Hungry Crab[1/2] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/4
+  Hand (6): Sunreaver Warmage, Sated Threshadon, Devoted Maniac, Starscryer, Mayor Noggenfogger, Burly Rockjaw Trogg
+  Field: Prince Keleseth[2/2], Hungry Crab[1/2]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (5)
+  Field: Upgradeable Framebot[1/5], Mad Scientist[2/2]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Prince Keleseth
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 4, Step 11] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 4, Step 12] Agent: 공격 - Prince Keleseth[2/1] -> Upgradeable Framebot
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (7): Sunreaver Warmage, Sated Threshadon, Devoted Maniac, Mayor Noggenfogger, Burly Rockjaw Trogg, Dragon's Fury, Pterrordax Hatchling
+  Field: Hungry Crab[1/2], Starscryer[3/1]
+Opponent: Rexxar HP: 26, Mana: 2/6
+  Hand (6)
+  Field: Upgradeable Framebot[1/3], Mad Scientist[2/2], Violet Spellsword[1/6]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(37) → 16로 보정
+[Turn 6, Step 15] Agent: 공격 - Hungry Crab[1/2] -> Violet Spellsword
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(28) → 11로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Starscryer
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+[Turn 6, Step 18] Agent: 선택 - Flaming Claws
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Mad Scientist[2/2] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(26) → 4로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/7
+  Hand (7): Sunreaver Warmage, Sated Threshadon, Devoted Maniac, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Cyclopian Horror
+  Field: Hungry Crab[1/1], Pterrordax Hatchling[5/2], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 26, Mana: 7/7
+  Hand (7)
+  Field: Upgradeable Framebot[1/3], Mad Scientist[2/2], Violet Spellsword[1/5]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(62) → 11로 보정
+[Turn 7, Step 20] Agent: 공격 - Hungry Crab[1/1] -> Mad Scientist
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 7, Step 21] Agent: 공격 - Pterrordax Hatchling[5/2] -> Mad Scientist
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/8
+  Hand (8): Sunreaver Warmage, Sated Threshadon, Devoted Maniac, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Cyclopian Horror, Imprisoned Observer
+  Field: Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (8)
+  Field: Upgradeable Framebot[1/3], Violet Spellsword[1/5]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Violet Spellsword
+[Turn 9, Step 29] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/9
+  Hand (7): Sunreaver Warmage, Sated Threshadon, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Imprisoned Observer, Nat Pagle
+  Field: Burly Rockjaw Trogg[3/5], Devoted Maniac[2/2], Cyclopian Horror[3/5]
+Opponent: Rexxar HP: 22, Mana: 9/9
+  Hand (9)
+  Field: Upgradeable Framebot[1/3], Violet Spellsword[1/4]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 9, Step 31] Agent: 공격 - Burly Rockjaw Trogg[3/5] -> Rexxar
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(69) → 19로 보정
+[Turn 10, Step 33] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(58) → 14로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Cyclopian Horror
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (7): Sunreaver Warmage, Sated Threshadon, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Imprisoned Observer, Burly Shovelfist
+  Field: Burly Rockjaw Trogg[3/5], Devoted Maniac[2/2], Cyclopian Horror[3/4], Nat Pagle[0/4]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (10)
+  Field: Upgradeable Framebot[1/3], Violet Spellsword[1/4]
+[Turn 10, Step 35] Agent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(95) → 4로 보정
+[Turn 10, Step 36] Agent: 공격 - Cyclopian Horror[3/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Burly Rockjaw Trogg[3/5] -> Violet Spellsword
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 공격 - Violet Spellsword[1/1] -> Cyclopian Horror
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(81) → 21로 보정
+[Turn 10, Step 39] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Nightmare Amalgam, Sunreaver Warmage, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Imprisoned Observer, Burly Shovelfist, Bolf Ramshield
+  Field: Burly Rockjaw Trogg[3/4], Devoted Maniac[2/2], Cyclopian Horror[3/3], Nat Pagle[0/4], Sated Threshadon[5/7]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (10)
+  Field: Upgradeable Framebot[1/3], Jepetto Joybuzz[6/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Sunreaver Warmage
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 10, Step 42] Agent: 공격 - Burly Rockjaw Trogg[3/4] -> Upgradeable Framebot
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Shieldbreaker -> Cyclopian Horror (코스트: 2)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Khartut Defender (코스트: 1)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Dragonmaw Scorcher, Mayor Noggenfogger, Dragon's Fury, Power of Creation, Imprisoned Observer, Burly Shovelfist, Bolf Ramshield, Twilight Flamecaller
+  Field: Burly Rockjaw Trogg[3/3], Devoted Maniac[2/2], Cyclopian Horror[3/3], Nat Pagle[0/4], Sated Threshadon[5/7], Sunreaver Warmage[4/3], Nightmare Amalgam[3/4]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (7)
+  Field: Jepetto Joybuzz[6/6], Dire Mole[1/3], Shieldbreaker[2/1], Khartut Defender[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(98) → 14로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Khartut Defender
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Shieldbreaker[2/1] -> Nightmare Amalgam
+[Turn 10, Step 46] Opponent: 공격 - Khartut Defender[3/1] -> Sunreaver Warmage
+[Turn 10, Step 46] Opponent: 공격 - Jepetto Joybuzz[6/6] -> Sated Threshadon
+[Turn 10, Step 46] Opponent: 공격 - Dire Mole[1/3] -> Nightmare Amalgam
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(61) → 23로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Cyclopian Horror
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Power of Creation (코스트: 8)
+[Turn 10, Step 49] Agent: 선택 - Mad Summoner
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 10, Step 49] Agent: 공격 - Burly Rockjaw Trogg[3/3] -> Jepetto Joybuzz
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (9): Dragonmaw Scorcher, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, Bolf Ramshield, Twilight Flamecaller, Garrison Commander, North Sea Kraken
+  Field: Devoted Maniac[2/2], Cyclopian Horror[3/2], Nat Pagle[0/4], Sated Threshadon[5/1], Nightmare Amalgam[3/1], Mad Summoner[4/4]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Baku the Mooneater (코스트: 9)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(46) → 8로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Twilight Flamecaller (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(57) → 13로 보정
+[Turn 10, Step 52] Agent: 공격 - Devoted Maniac[2/2] -> Baku the Mooneater
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(87) → 15로 보정
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Twilight Flamecaller
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(64) → 8로 보정
+[Turn 10, Step 54] Agent: 공격 - Sated Threshadon[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (9): Crowd Favorite, Dragonmaw Scorcher, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, Bolf Ramshield, Garrison Commander, North Sea Kraken
+  Field: Cyclopian Horror[3/2], Nat Pagle[0/4], Sated Threshadon[5/1], Nightmare Amalgam[3/1], Mad Summoner[4/4], Twilight Flamecaller[2/1]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (8)
+  Field: Baku the Mooneater[7/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(83) → 11로 보정
+[Turn 10, Step 55] Agent: 공격 - Mad Summoner[4/4] -> Baku the Mooneater
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 57] Agent: 공격 - Cyclopian Horror[3/1] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (8): Crowd Favorite, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, Garrison Commander, North Sea Kraken, Grim Necromancer
+  Field: Cyclopian Horror[3/1], Nat Pagle[0/3], Primalfin[1/1], Primalfin[1/1], Dragonmaw Scorcher[3/6], Bolf Ramshield[3/9]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(43) → 9로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Dragonmaw Scorcher
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 61] Agent: 공격 - Dragonmaw Scorcher[3/5] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 62] Agent: 공격 - Primalfin[1/1] -> Rexxar
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Rabble Bouncer (코스트: 0)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (9): Crowd Favorite, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Stalagg
+  Field: Cyclopian Horror[3/1], Nat Pagle[0/3], Primalfin[1/1], Primalfin[1/1], Dragonmaw Scorcher[3/5], Bolf Ramshield[3/9], Garrison Commander[2/3]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Eydis Darkbane[3/4], Rabble Bouncer[2/7], Cult Apothecary[4/4], Mana Addict[1/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Cyclopian Horror
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 공격 - Mana Addict[1/3] -> Nat Pagle
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Eydis Darkbane
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (9): Crowd Favorite, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Lowly Squire
+  Field: Nat Pagle[0/2], Primalfin[1/1], Primalfin[1/1], Dragonmaw Scorcher[3/5], Bolf Ramshield[3/9], Garrison Commander[2/3], Stalagg[7/4]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (7)
+  Field: Eydis Darkbane[3/3], Rabble Bouncer[2/7], Cult Apothecary[4/4], Mana Addict[1/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(53) → 15로 보정
+[Turn 10, Step 70] Agent: 공격 - Primalfin[1/1] -> Rabble Bouncer
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(36) → 17로 보정
+[Turn 10, Step 71] Agent: 공격 - Bolf Ramshield[3/9] -> Rabble Bouncer
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 73] Agent: 공격 - Primalfin[1/1] -> Rabble Bouncer
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 74] Agent: 공격 - Dragonmaw Scorcher[3/5] -> Rabble Bouncer
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (9): Crowd Favorite, Mayor Noggenfogger, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Lowly Squire
+  Field: Nat Pagle[0/2], Dragonmaw Scorcher[3/3], Bolf Ramshield[3/7], Garrison Commander[2/2], Stalagg[7/4]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (7)
+  Field: Eydis Darkbane[3/3], Cult Apothecary[4/4], Mana Addict[1/3]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 75] Agent: 공격 - Garrison Commander[2/2] -> Rexxar
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 공격 - Mana Addict[1/3] -> Nat Pagle
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 카드 플레이 - Mayor Noggenfogger (코스트: 9)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(90) → 5로 보정
+[Turn 10, Step 79] Agent: 공격 - Bolf Ramshield[3/7] -> Rexxar
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (8): Crowd Favorite, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Dancing Swords
+  Field: Nat Pagle[0/1], Dragonmaw Scorcher[3/3], Bolf Ramshield[3/6], Garrison Commander[2/2], Stalagg[7/4], Mayor Noggenfogger[5/4], Lowly Squire[1/2]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (8)
+  Field: Eydis Darkbane[3/3], Cult Apothecary[4/4]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 80] Agent: 공격 - Dragonmaw Scorcher[3/3] -> Cult Apothecary
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 81] Agent: 공격 - Garrison Commander[2/2] -> Eydis Darkbane
+[Turn 10, Step 82] Agent: 공격 - Stalagg[7/4] -> Cult Apothecary
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 84] Opponent: 공격 - Eydis Darkbane[3/1] -> Mayor Noggenfogger
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (9): Crowd Favorite, Dragon's Fury, Imprisoned Observer, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Dancing Swords, Barnes
+  Field: Mayor Noggenfogger[5/4]
+Opponent: Rexxar HP: 17, Mana: 4/10
+  Hand (8)
+  Field: Twin Tyrant[4/10], Mossy Horror[2/7]
+[Turn 10, Step 85] Agent: 카드 플레이 - Dancing Swords (코스트: 3)
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 10, Step 86] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 10, Step 87] Agent: 공격 - Mayor Noggenfogger[5/4] -> Mossy Horror
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 10, Step 88] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 10, Step 89] Opponent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Crowd Favorite, Dragon's Fury, Burly Shovelfist, North Sea Kraken, Grim Necromancer, Elite Tauren Chieftain, Barnes
+  Field: Dancing Swords[6/6], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (7)
+  Field: Twin Tyrant[4/5], Mossy Horror[3/8], Mad Hatter[3/2], Kobold Monk[3/6]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 90] Agent: 카드 플레이 - Dragon's Fury (코스트: 5)
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(67) → 16로 보정
+[Turn 10, Step 91] Agent: 공격 - Dancing Swords[6/6] -> Kobold Monk
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 92] Agent: 카드 플레이 - Grim Necromancer (코스트: 4)
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 카드 플레이 - Demolisher (코스트: 3)
+[Turn 10, Step 93] Opponent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 93] Opponent: 공격 - Mad Hatter[3/2] -> Skeleton
+[Turn 10, Step 93] Opponent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 10, Step 93] Opponent: 공격 - Twin Tyrant[4/5] -> Dancing Swords
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(92) → 26로 보정
+[Turn 10, Step 94] Agent: 공격 - Skeleton[1/1] -> Night Howler
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (5): Crowd Favorite, Burly Shovelfist, North Sea Kraken, Elite Tauren Chieftain, Barnes
+  Field: Imprisoned Observer[4/5], Grim Necromancer[2/4]
+Opponent: Rexxar HP: 17, Mana: 0/10
+  Hand (6)
+  Field: Mossy Horror[3/6], Demolisher[1/2], Night Howler[7/1], Vicious Fledgling[3/1]
+[Turn 10, Step 95] Agent: 영웅 능력 사용 -> Grim Necromancer
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 96] Agent: 공격 - Grim Necromancer[2/3] -> Rexxar
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 97] Agent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 10, Step 98] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+[Turn 10, Step 98] Opponent: 카드 플레이 - Rogues Do It... -> Night Howler (코스트: 4)
+[Turn 10, Step 98] Opponent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 공격 - Elite Tauren Chieftain[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (5): Crowd Favorite, Burly Shovelfist, North Sea Kraken, Barnes, I Am Murloc
+  Field: Imprisoned Observer[4/3], Grim Necromancer[2/3], Elite Tauren Chieftain[5/5]
+Opponent: Rexxar HP: 10, Mana: 0/10
+  Hand (6)
+  Field: Mossy Horror[3/6], Demolisher[1/2], Vicious Fledgling[3/1], Helpless Hatchling[1/1], Stalagg[7/4]
+[Turn 10, Step 100] Agent: 유효하지 않은 액션 인덱스(43) → 6로 보정
+[Turn 10, Step 100] Agent: 카드 플레이 - North Sea Kraken -> Imprisoned Observer (코스트: 9)
+[Turn 10, Step 101] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 101] Agent: 공격 - Grim Necromancer[2/3] -> Vicious Fledgling
+[Turn 10, Step 102] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 102] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 102] Opponent: 턴 종료
+[Turn 10, Step 103] Agent: 공격 - North Sea Kraken[9/5] -> Demolisher
+[Turn 10, Step 104] Agent: 유효하지 않은 액션 인덱스(93) → 13로 보정
+[Turn 10, Step 104] Agent: 공격 - Elite Tauren Chieftain[5/5] -> Mossy Horror
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (4): Crowd Favorite, Burly Shovelfist, Barnes, I Am Murloc
+  Field: Elite Tauren Chieftain[5/2], North Sea Kraken[9/4]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (6)
+  Field: Mossy Horror[3/1], Helpless Hatchling[1/1], Stalagg[7/4]
+[Turn 10, Step 105] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 10, Step 105] Agent: 영웅 능력 사용 -> North Sea Kraken
+[Turn 10, Step 106] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 10, Step 106] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 107] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 107] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 107] Opponent: 공격 - Mossy Horror[3/1] -> Elite Tauren Chieftain
+[Turn 10, Step 107] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 10, Step 107] Opponent: 공격 - Stalagg[7/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 108) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 4/10
+  Hand (3): Burly Shovelfist, Barnes, I Am Murloc
+  Field: North Sea Kraken[9/3], Crowd Favorite[4/4]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (5)
+  Field: Helpless Hatchling[1/1], Stalagg[7/4], Imprisoned Vilefiend[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

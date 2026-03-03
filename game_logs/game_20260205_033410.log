@@ -1,0 +1,452 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Manic Soulcaster (코스트: 3)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (6): Fishflinger, Sewer Crawler, Abomination, Backroom Bouncer, Shooting Star, Cyclopian Horror
+  Field: Manic Soulcaster[3/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Manic Soulcaster
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Shooting Star -> Manic Soulcaster (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 3, Step 7] Agent: 공격 - Manic Soulcaster[3/2] -> Rexxar
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Weaponized Piñata (코스트: 4)
+[Turn 4, Step 9] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (7): Fishflinger, Sewer Crawler, Abomination, Backroom Bouncer, Cyclopian Horror, Murloc Tastyfin, Steam Surger
+  Field: Manic Soulcaster[3/2]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (6)
+  Field: Weaponized Piñata[4/3], Emerald Hive Queen[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(92) → 12로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Emerald Hive Queen
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 5, Step 11] Agent: 공격 - Manic Soulcaster[3/2] -> Emerald Hive Queen
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Sewer Crawler
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/6
+  Hand (7): Fishflinger, Abomination, Backroom Bouncer, Cyclopian Horror, Murloc Tastyfin, Steam Surger, Arch-Thief Rafaam
+  Field: Giant Rat[2/3]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (7)
+  Field: Weaponized Piñata[4/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(12) → 3로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Scrap Shot -> Cyclopian Horror (코스트: 4)
+[Turn 7, Step 18] Opponent: 카드 플레이 - Fallen Sun Cleric -> Weaponized Piñata (코스트: 2)
+[Turn 7, Step 18] Opponent: 카드 플레이 - Blowgill Sniper -> Cyclopian Horror (코스트: 2)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Abomination (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/8
+  Hand (7): Fishflinger, Backroom Bouncer, Murloc Tastyfin, Steam Surger, Arch-Thief Rafaam, Faceless Summoner, Dune Sculptor
+  Field: Giant Rat[2/3], Abomination[4/4]
+Opponent: Rexxar HP: 26, Mana: 0/8
+  Hand (6)
+  Field: Weaponized Piñata[5/4], Fallen Sun Cleric[2/1], Blowgill Sniper[2/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(36) → 8로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Blowgill Sniper
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(51) → 9로 보정
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(86) → 8로 보정
+[Turn 9, Step 23] Agent: 공격 - Giant Rat[2/3] -> Weaponized Piñata
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 9, Step 24] Agent: 공격 - Abomination[4/4] -> Fallen Sun Cleric
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/9
+  Hand (8): Fishflinger, Backroom Bouncer, Murloc Tastyfin, Steam Surger, Arch-Thief Rafaam, Faceless Summoner, Dune Sculptor, Supreme Abyssal
+  Field: Abomination[4/2]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (7)
+  Field: Weaponized Piñata[5/2]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 공격 - Weaponized Piñata[5/2] -> Abomination
+[Turn 10, Step 29] Opponent: 영웅 능력 사용
+[Turn 10, Step 29] Opponent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 10, Step 29] Opponent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (8): Murloc Tastyfin, Steam Surger, Arch-Thief Rafaam, Faceless Summoner, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Mekgineer Thermaplugg
+  Field: Backroom Bouncer[7/2]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (8)
+  Field: Spider Tank[3/4], Fen Creeper[3/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Mekgineer Thermaplugg (코스트: 9)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Fen Creeper[3/6] -> Backroom Bouncer
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Veranus (코스트: 6)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 10, Step 32] Opponent: 공격 - Spider Tank[3/4] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(65) → 15로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Veranus
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - N'Zoth, the Corruptor (코스트: 10)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (10): Desert Obelisk, Murloc Tastyfin, Steam Surger, Arch-Thief Rafaam, Faceless Summoner, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Stargazer Luna, Darkscale Healer
+  Field: Mekgineer Thermaplugg[9/1], Leper Gnome[1/1]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (8)
+  Field: Spider Tank[3/4], Veranus[7/5], Piloted Shredder[4/3], N'Zoth, the Corruptor[5/7], Weaponized Piñata[4/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(37) → 5로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 37] Agent: 공격 - Mekgineer Thermaplugg[9/1] -> N'Zoth, the Corruptor
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 38] Agent: 공격 - Leper Gnome[1/1] -> Weaponized Piñata
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (9): Desert Obelisk, Steam Surger, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Stargazer Luna, Darkscale Healer, Lost Tallstrider
+  Field: Faceless Summoner[5/5], Stoneskin Gargoyle[1/4], Murloc Tastyfin[3/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Spider Tank[3/4], Veranus[7/5], Piloted Shredder[4/3], Weaponized Piñata[4/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(91) → 23로 보정
+[Turn 10, Step 40] Agent: 공격 - Faceless Summoner[5/5] -> Weaponized Piñata
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(39) → 13로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Veranus
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(40) → 6로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(22) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Murloc Tastyfin[3/2] -> Veranus
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (8): Desert Obelisk, Steam Surger, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Darkscale Healer, Lost Tallstrider
+  Field: Faceless Summoner[5/1], Stoneskin Gargoyle[1/4], Stargazer Luna[2/4]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Spider Tank[3/4], Veranus[7/1], Piloted Shredder[4/3]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(43) → 13로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Veranus
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(48) → 6로 보정
+[Turn 10, Step 48] Agent: 공격 - Faceless Summoner[5/1] -> Spider Tank
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (8): Bomb Squad, Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Darkscale Healer, Lost Tallstrider
+  Field: Stoneskin Gargoyle[1/4], Stargazer Luna[2/4], Steam Surger[5/4], Lost Tallstrider[5/4]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Piloted Shredder[4/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 공격 - Piloted Shredder[4/3] -> Stoneskin Gargoyle
+[Turn 10, Step 50] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Bomb Squad -> Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(26) → 6로 보정
+[Turn 10, Step 53] Agent: 공격 - Steam Surger[5/4] -> Ornery Tortoise
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 54] Agent: 공격 - Lost Tallstrider[5/4] -> Piloted Shredder
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (7): Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Lost Tallstrider, Djinni of Zephyrs
+  Field: Stargazer Luna[2/4], Steam Surger[5/1], Darkscale Healer[4/5], Bomb Squad[2/2]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (9)
+  Field: Bonechewer Brawler[2/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(39) → 1로 보정
+[Turn 10, Step 55] Agent: 공격 - Stargazer Luna[2/4] -> Bonechewer Brawler
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Wind-up Burglebot (코스트: 6)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 10, Step 57] Opponent: 공격 - Bonechewer Brawler[4/1] -> Bomb Squad
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 카드 플레이 - Black Cat (코스트: 3)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(38) → 14로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Black Cat
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/10
+  Hand (8): Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Lost Tallstrider, Djinni of Zephyrs, Golakka Crawler
+  Field: Stargazer Luna[2/2], Steam Surger[5/1], Darkscale Healer[4/5], Black Cat[3/2]
+Opponent: Rexxar HP: 16, Mana: 5/10
+  Hand (9)
+  Field: Wind-up Burglebot[5/5], Skyfin[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 10, Step 62] Agent: 공격 - Stargazer Luna[2/2] -> Skyfin
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(68) → 14로 보정
+[Turn 10, Step 63] Agent: 공격 - Darkscale Healer[4/5] -> Skyfin
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 64] Agent: 공격 - Black Cat[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (9): Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Supreme Abyssal, Vulpera Scoundrel, Lost Tallstrider, Djinni of Zephyrs, Golakka Crawler, Frost Nova
+  Field: Steam Surger[5/1], Darkscale Healer[4/2], Black Cat[3/2]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+  Field: Wind-up Burglebot[5/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+[Turn 10, Step 66] Agent: 공격 - Steam Surger[5/1] -> Wind-up Burglebot
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(30) → 13로 보정
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Black Cat
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Stablemaster (코스트: 3)
+[Turn 10, Step 69] Opponent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (10): Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Vulpera Scoundrel, Lost Tallstrider, Djinni of Zephyrs, Golakka Crawler, Frost Nova, Tanglefur Mystic, History Buff
+  Field: Darkscale Healer[4/2], Black Cat[3/1], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 12, Mana: 5/10
+  Hand (8)
+  Field: Stablemaster[4/2], Garrison Commander[2/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 71] Agent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 10, Step 72] Agent: 선택 - Mystery Choice!
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Supreme Abyssal
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(35) → 8로 보정
+[Turn 10, Step 73] Agent: 공격 - Supreme Abyssal[12/11] -> Garrison Commander
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Stablemaster[4/2] -> Lost Tallstrider
+[Turn 10, Step 74] Opponent: 영웅 능력 사용
+[Turn 10, Step 74] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (10): Desert Obelisk, Arch-Thief Rafaam, Dune Sculptor, Djinni of Zephyrs, Golakka Crawler, Frost Nova, Tanglefur Mystic, History Buff, Fungal Fortunes, Gorillabot A-3
+  Field: Darkscale Healer[4/2], Black Cat[3/1], Supreme Abyssal[12/9], Vulpera Scoundrel[2/3]
+Opponent: Rexxar HP: 12, Mana: 5/10
+  Hand (8)
+  Field: Living Dragonbreath[3/4]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(88) → 13로 보정
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Darkscale Healer
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 공격 - Darkscale Healer[4/1] -> Living Dragonbreath
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(69) → 15로 보정
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Vulpera Scoundrel
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Desert Obelisk (코스트: 5)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (9): Arch-Thief Rafaam, Dune Sculptor, Djinni of Zephyrs, Golakka Crawler, Frost Nova, Tanglefur Mystic, History Buff, Fungal Fortunes, Gorillabot A-3
+  Field: Black Cat[3/1], Supreme Abyssal[12/9], Vulpera Scoundrel[2/2], Desert Obelisk[0/5]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 10, Step 80] Agent: 공격 - Vulpera Scoundrel[2/2] -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Dune Sculptor (코스트: 3)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 10, Step 82] Agent: 공격 - Black Cat[3/1] -> Rexxar
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 83] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 83] Opponent: 카드 플레이 - King Togwaggle (코스트: 8)
+[Turn 10, Step 83] Opponent: 영웅 능력 사용
+[Turn 10, Step 83] Opponent: 턴 종료
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(84) → 24로 보정
+[Turn 10, Step 84] Agent: 공격 - Black Cat[3/1] -> King Togwaggle
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (10): Arch-Thief Rafaam, Djinni of Zephyrs, Golakka Crawler, Frost Nova, Tanglefur Mystic, History Buff, Fungal Fortunes, Gorillabot A-3, King's Ransom, Faceless Rager
+  Field: Supreme Abyssal[12/9], Vulpera Scoundrel[2/2], Desert Obelisk[0/5], Dune Sculptor[3/3]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (9)
+  Field: King Togwaggle[5/2]
+[Turn 10, Step 85] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(45) → 9로 보정
+[Turn 10, Step 86] Agent: 카드 플레이 - Faceless Rager -> Supreme Abyssal (코스트: 3)
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 87] Agent: 카드 플레이 - Frost Nova (코스트: 3)
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 10, Step 88] Agent: 공격 - Vulpera Scoundrel[2/2] -> King Togwaggle
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 89] Agent: 공격 - Dune Sculptor[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 2/10
+  Hand (9): Arch-Thief Rafaam, Djinni of Zephyrs, Golakka Crawler, Tanglefur Mystic, History Buff, Fungal Fortunes, Gorillabot A-3, King's Ransom, Chenvaala
+  Field: Supreme Abyssal[12/9], Desert Obelisk[0/5], Dune Sculptor[3/3], Faceless Rager[5/9]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (9)
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 10, Step 90] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 93] Agent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 94] Agent: 공격 - Golakka Crawler[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (7): Arch-Thief Rafaam, Tanglefur Mystic, History Buff, Fungal Fortunes, King's Ransom, Chenvaala, Tunnel Blaster
+  Field: Supreme Abyssal[12/9], Desert Obelisk[0/5], Dune Sculptor[3/3], Faceless Rager[5/9], Golakka Crawler[2/3], Gorillabot A-3[3/4], Djinni of Zephyrs[4/6]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 95] Agent: 공격 - Dune Sculptor[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 96) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (7): Arch-Thief Rafaam, Tanglefur Mystic, History Buff, Fungal Fortunes, King's Ransom, Chenvaala, Tunnel Blaster
+  Field: Supreme Abyssal[12/9], Desert Obelisk[0/5], Dune Sculptor[3/3], Faceless Rager[5/9], Golakka Crawler[2/3], Gorillabot A-3[3/4], Djinni of Zephyrs[4/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

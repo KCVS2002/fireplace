@@ -1,0 +1,295 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (5): Devoted Maniac, Kobold Geomancer, Demented Frostcaller, Crystallizer, Shade of Naxxramas
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Crystallizer
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (5): Devoted Maniac, Demented Frostcaller, Shade of Naxxramas, Mana Giant, Big Bad Archmage
+  Field: Crystallizer[1/2], Kobold Geomancer[2/2]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 6, Step 13] Agent: 공격 - Kobold Geomancer[2/2] -> Rexxar
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 6, Step 14] Agent: 공격 - Crystallizer[1/2] -> History Buff
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (5): Devoted Maniac, Demented Frostcaller, Mana Giant, Big Bad Archmage, Servant of Kalimos
+  Field: Kobold Geomancer[2/2], Shade of Naxxramas[2/2]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (8)
+  Field: History Buff[3/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Shroom Brewer -> History Buff (코스트: 4)
+[Turn 6, Step 15] Opponent: 공격 - History Buff[3/4] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(42) → 8로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> History Buff
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(75) → 9로 보정
+[Turn 7, Step 17] Agent: 공격 - Shade of Naxxramas[3/3] -> History Buff
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Demented Frostcaller (코스트: 4)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/7
+  Hand (4): Devoted Maniac, Mana Giant, Big Bad Archmage, Servant of Kalimos
+  Field: Kobold Geomancer[2/2], Demented Frostcaller[2/4], Weasel Tunneler[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (8)
+  Field: Shroom Brewer[4/4]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 7, Step 20] Agent: 공격 - Kobold Geomancer[2/2] -> Shroom Brewer
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Shroom Brewer[4/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 카드 플레이 - Book Wyrm -> Weasel Tunneler (코스트: 6)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(56) → 4로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Shieldbearer
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/8
+  Hand (3): Devoted Maniac, Mana Giant, Big Bad Archmage
+  Field: Demented Frostcaller[2/4], Shieldbearer[0/3], Servant of Kalimos[4/5]
+Opponent: Rexxar HP: 28, Mana: 1/7
+  Hand (8)
+  Field: Shroom Brewer[4/2], Book Wyrm[3/6]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 8, Step 25] Agent: 공격 - Demented Frostcaller[2/4] -> Book Wyrm
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Book Wyrm[3/4] -> Shieldbearer
+[Turn 8, Step 26] Opponent: 공격 - Shroom Brewer[4/2] -> Servant of Kalimos
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Demented Frostcaller
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Mana Giant (코스트: 8)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (4): Devoted Maniac, Big Bad Archmage, Menagerie Magician, Master of Ceremonies
+  Field: Servant of Kalimos[4/1], Mana Giant[8/8]
+Opponent: Rexxar HP: 28, Mana: 9/9
+  Hand (10)
+  Field: Book Wyrm[3/4]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 31] Agent: 공격 - Servant of Kalimos[4/1] -> Book Wyrm
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Mana Giant
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Deathwing (코스트: 10)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (6): Kabal Chemist, Devoted Maniac, Big Bad Archmage, Menagerie Magician, Master of Ceremonies, EVIL Cable Rat
+Opponent: Rexxar HP: 27, Mana: 0/10
+  Hand (0)
+  Field: Deathwing[12/12]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(88) → 8로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Kabal Chemist (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 4/10
+  Hand (6): Echo of Medivh, Big Bad Archmage, Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion
+  Field: Devoted Maniac[2/2], Kabal Chemist[3/3]
+Opponent: Rexxar HP: 26, Mana: 8/10
+  Hand (1)
+  Field: Deathwing[12/12]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 40] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 공격 - Deathwing[12/12] -> Jaina Proudmoore
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(32) → 15로 보정
+[Turn 10, Step 42] Agent: 공격 - Kabal Chemist[3/3] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Devoted Maniac[2/2] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Big Bad Archmage (코스트: 10)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (6): Echo of Medivh, Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion, Gormok the Impaler
+  Field: Devoted Maniac[2/2], Kabal Chemist[3/3], Big Bad Archmage[6/6]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (2)
+  Field: Deathwing[12/12]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Weaponized Piñata (코스트: 4)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Gormok the Impaler -> Devoted Maniac (코스트: 4)
+[Turn 10, Step 47] Agent: 카드 플레이 - Echo of Medivh (코스트: 4)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(93) → 17로 보정
+[Turn 10, Step 48] Agent: 공격 - Mossy Horror[2/7] -> Deathwing
+[Turn 10, Step 49] Agent: 공격 - Kabal Chemist[3/3] -> Weaponized Piñata
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 2/10
+  Hand (9): Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion, Igneous Elemental, Kabal Chemist, Big Bad Archmage, Mossy Horror, Gormok the Impaler
+  Field: Big Bad Archmage[6/6], Gormok the Impaler[4/4]
+Opponent: Rexxar HP: 19, Mana: 6/10
+  Hand (3)
+  Field: Deathwing[12/10]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(51) → 14로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Gormok the Impaler -> Evasive Wyrm (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(36) → 7로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Mossy Horror (코스트: 6)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (8): Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion, Igneous Elemental, Kabal Chemist, Big Bad Archmage, Soot Spewer
+  Field: Big Bad Archmage[6/6], Gelbin Mekkatorque[6/6], Evasive Wyrm[5/3], Gormok the Impaler[4/4], Gormok the Impaler[4/4], Mossy Horror[2/7]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (4)
+  Field: Deathwing[12/10]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 10, Step 55] Agent: 공격 - Gormok the Impaler[4/4] -> Deathwing
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 56] Agent: 공격 - Big Bad Archmage[6/6] -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 57] Agent: 공격 - Gelbin Mekkatorque[6/6] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(8) → 2로 보정
+[Turn 10, Step 58] Agent: 공격 - Evasive Wyrm[5/3] -> Deathwing
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (9): Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion, Igneous Elemental, Kabal Chemist, Big Bad Archmage, Soot Spewer, Ancient Harbinger
+  Field: Big Bad Archmage[6/6], Mysterious Challenger[6/6], Gelbin Mekkatorque[6/6], Gormok the Impaler[4/4], Mossy Horror[2/7]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (5)
+  Field: Deathwing[12/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(46) → 18로 보정
+[Turn 10, Step 60] Agent: 공격 - Big Bad Archmage[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 61) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (9): Menagerie Magician, Master of Ceremonies, EVIL Cable Rat, Felfire Potion, Igneous Elemental, Kabal Chemist, Big Bad Archmage, Soot Spewer, Ancient Harbinger
+  Field: Big Bad Archmage[6/6], Mysterious Challenger[6/6], Gelbin Mekkatorque[6/6], Gormok the Impaler[4/4], Mossy Horror[2/7]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (5)
+  Field: Deathwing[12/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,328 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 3, Step 4] Opponent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (8): Deck of Wonders, Archmage Vargoth, Shattered Sun Cleric, Stormwatcher, Puddlestomper, Scorch, Murloc Tidehunter, Serpent Egg
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (6)
+  Field: Fishflinger[3/2], Injured Kvaldir[2/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Injured Kvaldir
+[Turn 4, Step 6] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Shroom Brewer -> Puddlestomper (코스트: 4)
+[Turn 4, Step 7] Opponent: 공격 - Fishflinger[3/2] -> Jaina Proudmoore
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(60) → 9로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/5
+  Hand (7): Deck of Wonders, Archmage Vargoth, Shattered Sun Cleric, Stormwatcher, Scorch, Serpent Egg, Silver Vanguard
+  Field: Puddlestomper[3/2], Murloc Tidehunter[2/1], Murloc Scout[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (6)
+  Field: Fishflinger[3/2], Shroom Brewer[4/4]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 5, Step 10] Agent: 공격 - Puddlestomper[3/2] -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Shattered Sun Cleric -> Murloc Scout (코스트: 3)
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Shattered Sun Cleric
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 6, Step 14] Agent: 공격 - Murloc Scout[2/2] -> Shroom Brewer
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/6
+  Hand (7): Deck of Wonders, Archmage Vargoth, Stormwatcher, Scorch, Serpent Egg, Silver Vanguard, Pit Crocolisk
+  Field: Puddlestomper[3/2], Murloc Tidehunter[2/1], Shattered Sun Cleric[3/1]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (7)
+  Field: Fishflinger[3/2], Shroom Brewer[4/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 6, Step 15] Agent: 공격 - Puddlestomper[3/2] -> Fishflinger
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Shattered Sun Cleric[3/1] -> Rexxar
+[Turn 7, Step 18] Agent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 7, Step 19] Agent: 공격 - Murloc Tidehunter[2/1] -> Shroom Brewer
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/7
+  Hand (7): Deck of Wonders, Archmage Vargoth, Stormwatcher, Scorch, Silver Vanguard, Pit Crocolisk, Nat Pagle
+  Field: Shattered Sun Cleric[3/1], Serpent Egg[0/3]
+Opponent: Rexxar HP: 24, Mana: 6/6
+  Hand (8)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Shattered Sun Cleric
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Pit Crocolisk -> Serpent Egg (코스트: 8)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Corrosive Sludge (코스트: 5)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Sir Finley of the Sands (코스트: 2)
+[Turn 8, Step 23] Opponent: 선택 - Demon's Bite
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(44) → 15로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Earthen Ring Farseer -> Corrosive Sludge (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/9
+  Hand (7): Deck of Wonders, Archmage Vargoth, Stormwatcher, Scorch, Silver Vanguard, Nat Pagle, Arcane Keysmith
+  Field: Sea Serpent[3/4], Pit Crocolisk[5/6], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 24, Mana: 1/8
+  Hand (8)
+  Field: Corrosive Sludge[5/5], Sir Finley of the Sands[2/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(39) → 16로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Earthen Ring Farseer
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Scorch -> Pit Crocolisk (코스트: 4)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 9, Step 27] Opponent: 공격 - Sir Finley of the Sands[2/3] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 카드 플레이 - Ancient Brewmaster -> Sir Finley of the Sands (코스트: 4)
+[Turn 9, Step 27] Opponent: 공격 - Corrosive Sludge[5/5] -> Pit Crocolisk
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(54) → 14로 보정
+[Turn 10, Step 28] Agent: 공격 - Sea Serpent[3/4] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(66) → 15로 보정
+[Turn 10, Step 29] Agent: 공격 - Earthen Ring Farseer[3/2] -> Azerite Elemental
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Deck of Wonders, Archmage Vargoth, Stormwatcher, Silver Vanguard, Nat Pagle, Arcane Keysmith, Bonfire Elemental
+  Field: Sea Serpent[3/4]
+Opponent: Rexxar HP: 21, Mana: 0/9
+  Hand (8)
+  Field: Azerite Elemental[2/4], Ancient Brewmaster[5/4]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(56) → 4로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(73) → 4로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 34] Agent: 카드 플레이 - Bonfire Elemental (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (5): Deck of Wonders, Archmage Vargoth, Stormwatcher, Arcane Keysmith, Coliseum Manager
+  Field: Sea Serpent[3/4], Silver Vanguard[3/3], Nat Pagle[0/4], Bonfire Elemental[5/5]
+Opponent: Rexxar HP: 20, Mana: 6/10
+  Hand (8)
+  Field: Azerite Elemental[2/4], Ancient Brewmaster[5/4], Maiden of the Lake[2/6]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(55) → 26로 보정
+[Turn 10, Step 36] Agent: 공격 - Bonfire Elemental[5/5] -> Azerite Elemental
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(59) → 15로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Bonfire Elemental
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Arcane Keysmith (코스트: 4)
+[Turn 10, Step 39] Agent: 선택 - Counterspell
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(63) → 8로 보정
+[Turn 10, Step 39] Agent: 공격 - Silver Vanguard[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (6): Deck of Wonders, Archmage Vargoth, Stormwatcher, Coliseum Manager, Arcane Servant, Baron Rivendare
+  Field: Sea Serpent[3/4], Silver Vanguard[3/3], Nat Pagle[0/4], Bonfire Elemental[5/2], Arcane Keysmith[2/2]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (9)
+  Field: Ancient Brewmaster[5/4], Maiden of the Lake[2/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(29) → 5로 보정
+[Turn 10, Step 40] Agent: 공격 - Sea Serpent[3/4] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Ancient Brewmaster[5/4] -> Arcane Keysmith
+[Turn 10, Step 42] Opponent: 공격 - Maiden of the Lake[2/6] -> Bonfire Elemental
+[Turn 10, Step 42] Opponent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(67) → 32로 보정
+[Turn 10, Step 43] Agent: 공격 - Baron Rivendare[1/7] -> Ancient Brewmaster
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(74) → 12로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (6): Voodoo Doll, Deck of Wonders, Archmage Vargoth, Stormwatcher, Coliseum Manager, Scarab Egg
+  Field: Sea Serpent[3/4], Silver Vanguard[3/3], Nat Pagle[0/4], Baron Rivendare[1/2], Arcane Servant[2/3]
+Opponent: Rexxar HP: 14, Mana: 3/10
+  Hand (9)
+  Field: Ancient Brewmaster[5/1], Maiden of the Lake[2/1], Wasteland Scorpid[3/9]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Maiden of the Lake[2/1] -> Arcane Servant
+[Turn 10, Step 45] Opponent: 공격 - Ancient Brewmaster[5/1] -> Nat Pagle
+[Turn 10, Step 45] Opponent: 공격 - Wasteland Scorpid[3/9] -> Baron Rivendare
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Sir Finley of the Sands (코스트: 2)
+[Turn 10, Step 46] Opponent: 선택 - Totemic Call
+[Turn 10, Step 46] Opponent: 공격 - Wasteland Scorpid[3/8] -> Sea Serpent
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Voodoo Doll -> Arcane Servant (코스트: 3)
+[Turn 10, Step 48] Agent: 카드 플레이 - Archmage Vargoth (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Arcane Servant
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (6): Deck of Wonders, Stormwatcher, Coliseum Manager, Scarab Egg, Flame Ward, Marsh Drake
+  Field: Silver Vanguard[3/3], Voodoo Doll[1/1], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (9)
+  Field: Ancient Brewmaster[5/1], Wasteland Scorpid[3/5], Sir Finley of the Sands[2/3], Searing Totem[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 50] Agent: 공격 - Silver Vanguard[3/3] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 51] Opponent: 선택 - Giant Mastodon
+[Turn 10, Step 51] Opponent: 공격 - Sir Finley of the Sands[2/3] -> Silver Vanguard
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(62) → 24로 보정
+[Turn 10, Step 52] Agent: 공격 - Silver Vanguard[3/1] -> Ancient Brewmaster
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(73) → 15로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Searing Totem
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (6): Deck of Wonders, Coliseum Manager, Scarab Egg, Flame Ward, Marsh Drake, Snap Freeze
+  Field: Sindragosa[8/8], Voodoo Doll[1/1], Archmage Vargoth[2/6], Stormwatcher[4/8]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (10)
+  Field: Wasteland Scorpid[3/5], Tomb Spider[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 10, Step 55] Agent: 공격 - Archmage Vargoth[2/6] -> Tomb Spider
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 56] Agent: 공격 - Voodoo Doll[1/1] -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(83) → 17로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Archmage Vargoth
+[Turn 10, Step 59] Agent: 공격 - Voodoo Doll[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (7): Deck of Wonders, Coliseum Manager, Scarab Egg, Flame Ward, Marsh Drake, Snap Freeze, Deck of Wonders
+  Field: Sindragosa[8/8], Voodoo Doll[1/1], Archmage Vargoth[2/2], Stormwatcher[4/8]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Wasteland Scorpid[3/5], Tomb Spider[3/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Coliseum Manager (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(35) → 13로 보정
+[Turn 10, Step 61] Agent: 공격 - Sindragosa[8/8] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Tomb Spider[3/1] -> Stormwatcher
+[Turn 10, Step 62] Opponent: 공격 - Wasteland Scorpid[3/5] -> Voodoo Doll
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Snap Freeze -> Coliseum Manager (코스트: 2)
+[Turn 10, Step 64] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (5): Deck of Wonders, Scarab Egg, Flame Ward, Marsh Drake, Chillwind Yeti
+  Field: Sindragosa[8/8], Archmage Vargoth[2/2], Stormwatcher[4/5], Coliseum Manager[2/5]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (10)
+  Field: Wasteland Scorpid[3/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(26) → 9로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Stormwatcher
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 66] Agent: 공격 - Archmage Vargoth[2/2] -> Wasteland Scorpid
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 10, Step 67] Agent: 공격 - Sindragosa[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (6): Deck of Wonders, Scarab Egg, Flame Ward, Marsh Drake, Chillwind Yeti, Coliseum Manager
+  Field: Sindragosa[8/8], Stormwatcher[4/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Wasteland Scorpid[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

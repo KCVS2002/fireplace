@@ -1,0 +1,236 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Twisted Worgen (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Nat Pagle, Kobold Stickyfinger, Ogre Brute, Shattered Sun Cleric
+  Field: Twisted Worgen[3/1]
+Opponent: Rexxar HP: 27, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 2, Step 5] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 3, Step 7] Agent: 공격 - Twisted Worgen[3/1] -> Wax Elemental
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Rocket Augmerchant -> Nat Pagle (코스트: 1)
+[Turn 3, Step 8] Opponent: 공격 - Puddlestomper[3/2] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (6): The Voraxx, Kobold Stickyfinger, Ogre Brute, Shattered Sun Cleric, Leyline Manipulator, Dragonhatcher
+  Field: Twisted Worgen[3/1], Nat Pagle[0/3]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (3)
+  Field: Puddlestomper[3/2], Wax Elemental[0/2], Rocket Augmerchant[2/1], Illuminator[2/4]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 공격 - Puddlestomper[3/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 공격 - Illuminator[2/4] -> Twisted Worgen
+[Turn 4, Step 10] Opponent: 공격 - Rocket Augmerchant[2/1] -> Nat Pagle
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Whizbang the Wonderful (코스트: 4)
+[Turn 5, Step 12] Opponent: 공격 - Illuminator[2/1] -> The Voraxx
+[Turn 5, Step 12] Opponent: 공격 - Rocket Augmerchant[2/1] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 공격 - Puddlestomper[3/2] -> The Voraxx
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (8): Kobold Stickyfinger, Ogre Brute, Shattered Sun Cleric, Leyline Manipulator, Dragonhatcher, Cauldron Elemental, Captain Greenskin, Spectral Knight
+  Field: Nat Pagle[0/1], Gorillabot A-3[3/4]
+Opponent: Rexxar HP: 25, Mana: 2/6
+  Hand (4)
+  Field: Wax Elemental[0/2], Rocket Augmerchant[2/1], Whizbang the Wonderful[4/5]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Whizbang the Wonderful[4/5] -> Nat Pagle
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Wax Elemental
+[Turn 7, Step 17] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 7, Step 18] Agent: 공격 - Gorillabot A-3[3/4] -> Wax Elemental
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 7, Step 19] Opponent: 공격 - Rocket Augmerchant[2/1] -> Gorillabot A-3
+[Turn 7, Step 19] Opponent: 영웅 능력 사용
+[Turn 7, Step 19] Opponent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 7, Step 19] Opponent: 공격 - Whizbang the Wonderful[4/5] -> Gorillabot A-3
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/8
+  Hand (9): Kobold Stickyfinger, Shattered Sun Cleric, Leyline Manipulator, Dragonhatcher, Cauldron Elemental, Captain Greenskin, Spectral Knight, Loose Specimen, Mirror Image
+  Field: Ogre Brute[4/4]
+Opponent: Rexxar HP: 24, Mana: 1/8
+  Hand (4)
+  Field: Whizbang the Wonderful[4/2], Genzo, the Shark[5/4], Emerald Reaver[2/1]
+[Turn 8, Step 20] Agent: 공격 - Ogre Brute[4/4] -> Genzo, the Shark
+[Turn 8, Step 21] Agent: 카드 플레이 - Shattered Sun Cleric (코스트: 3)
+[Turn 8, Step 22] Agent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 공격 - Emerald Reaver[2/1] -> Kobold Stickyfinger
+[Turn 8, Step 23] Opponent: 공격 - Whizbang the Wonderful[4/2] -> Kobold Stickyfinger
+[Turn 8, Step 23] Opponent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 7/9
+  Hand (8): Leyline Manipulator, Dragonhatcher, Cauldron Elemental, Captain Greenskin, Spectral Knight, Loose Specimen, Mirror Image, Nefarian
+  Field: Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 24, Mana: 0/9
+  Hand (4)
+  Field: Stormwatcher[4/8]
+[Turn 9, Step 25] Agent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 9, Step 26] Agent: 공격 - Shattered Sun Cleric[3/2] -> Stormwatcher
+[Turn 9, Step 27] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Mirror Image
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (7): Leyline Manipulator, Dragonhatcher, Cauldron Elemental, Spectral Knight, Loose Specimen, Nefarian, Flamestrike
+  Field: Captain Greenskin[5/4], Mirror Image[0/2], Mirror Image[0/1]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (5)
+  Field: Stormwatcher[4/5]
+[Turn 10, Step 30] Agent: 카드 플레이 - Flamestrike (코스트: 7)
+[Turn 10, Step 31] Agent: 공격 - Captain Greenskin[5/4] -> Stormwatcher
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Moat Lurker -> Mirror Image (코스트: 6)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Helboar (코스트: 1)
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Cauldron Elemental (코스트: 8)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Moat Lurker[3/3] -> Mirror Image
+[Turn 10, Step 34] Opponent: 카드 플레이 - Faceless Manipulator -> Cauldron Elemental (코스트: 5)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Plated Beetle (코스트: 2)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Crazed Alchemist -> Moat Lurker (코스트: 2)
+[Turn 10, Step 34] Opponent: 공격 - Helboar[2/1] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (7): Leyline Manipulator, Dragonhatcher, Spectral Knight, Loose Specimen, Nefarian, Rhonin, Raven Familiar
+  Field: Cauldron Elemental[7/7]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (2)
+  Field: Moat Lurker[3/3], Helboar[2/1], Cauldron Elemental[7/7], Plated Beetle[2/3], Crazed Alchemist[2/2]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Moat Lurker
+[Turn 10, Step 36] Agent: 공격 - Cauldron Elemental[7/7] -> Crazed Alchemist
+[Turn 10, Step 37] Agent: 카드 플레이 - Leyline Manipulator (코스트: 4)
+[Turn 10, Step 38] Agent: 카드 플레이 - Spectral Knight (코스트: 3)
+[Turn 10, Step 39] Agent: 카드 플레이 - Raven Familiar (코스트: 0)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (4): Dragonhatcher, Loose Specimen, Nefarian, Rhonin
+  Field: Cauldron Elemental[7/5], Leyline Manipulator[6/5], Spectral Knight[4/6], Raven Familiar[2/2]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (2)
+  Field: Moat Lurker[3/2], Helboar[2/1], Cauldron Elemental[7/7], Plated Beetle[2/3]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Helboar[2/1] -> Cauldron Elemental
+[Turn 10, Step 40] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 10, Step 40] Opponent: 공격 - Plated Beetle[2/3] -> Spectral Knight
+[Turn 10, Step 40] Opponent: 공격 - Rexxar[5/24] -> Spectral Knight
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 공격 - Moat Lurker[3/2] -> Leyline Manipulator
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Cauldron Elemental
+[Turn 10, Step 42] Agent: 공격 - Raven Familiar[2/2] -> Rexxar
+[Turn 10, Step 43] Agent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 10, Step 44] Agent: 카드 플레이 - Loose Specimen (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 1/10
+  Hand (3): Dragonhatcher, Nefarian, Rhonin
+  Field: Cauldron Elemental[7/3], Leyline Manipulator[6/2], Raven Familiar[2/1], Dragonmaw Poacher[4/3], Loose Specimen[6/4]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (2)
+  Field: Cauldron Elemental[7/6]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Rexxar[5/24] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 영웅 능력 사용
+[Turn 10, Step 45] Opponent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 10, Step 45] Opponent: 선택 - Illuminator
+[Turn 10, Step 45] Opponent: 공격 - Cauldron Elemental[7/6] -> Leyline Manipulator
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Rhonin (코스트: 6)
+[Turn 10, Step 47] Agent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 10, Step 48] Agent: 공격 - Cauldron Elemental[7/3] -> Body Wrapper
+[Turn 10, Step 49] Agent: 공격 - Dragonmaw Poacher[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 0/10
+  Hand (2): Dragonhatcher, Nefarian
+  Field: Raven Familiar[2/1], Dragonmaw Poacher[4/3], Loose Specimen[6/4], Rhonin[7/7], Jade Spirit[2/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (2)
+[Turn 10, Step 50] Agent: 공격 - Loose Specimen[6/4] -> Rexxar
+[Turn 10, Step 51] Agent: 공격 - Raven Familiar[2/1] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 53) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (2): Dragonhatcher, Nefarian
+  Field: Raven Familiar[2/1], Dragonmaw Poacher[4/3], Loose Specimen[6/4], Rhonin[7/7], Jade Spirit[2/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (3)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

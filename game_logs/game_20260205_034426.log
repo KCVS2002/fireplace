@@ -1,0 +1,219 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 3, Step 4] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Sightless Ranger, Red Mana Wyrm, Archmage, Nefarian, Arcane Giant, Skeram Cultist
+  Field: Dread Raven[6/4]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (4)
+  Field: Lorewalker Cho[0/4], Duskboar[4/1], Deadscale Knight[1/1]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 6] Agent: 공격 - Dread Raven[6/4] -> Lorewalker Cho
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 공격 - Duskboar[4/1] -> Dread Raven
+[Turn 4, Step 7] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 4, Step 7] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 공격 - Piloted Shredder[4/3] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 카드 플레이 - Evasive Chimaera (코스트: 2)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/6
+  Hand (7): Red Mana Wyrm, Archmage, Nefarian, Arcane Giant, Skeram Cultist, Faceless Rager, Scrapyard Colossus
+  Field: Sightless Ranger[3/4]
+Opponent: Rexxar HP: 30, Mana: 1/5
+  Hand (4)
+  Field: Deadscale Knight[1/1], Piloted Shredder[4/3], Evasive Chimaera[2/1]
+[Turn 6, Step 10] Agent: 카드 플레이 - Faceless Rager -> Sightless Ranger (코스트: 3)
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Piloted Shredder
+[Turn 6, Step 12] Agent: 공격 - Sightless Ranger[3/4] -> Evasive Chimaera
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Piloted Shredder[4/2] -> Bat
+[Turn 6, Step 13] Opponent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Replicating Menace (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/7
+  Hand (6): Red Mana Wyrm, Archmage, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus
+  Field: Faceless Rager[5/4], Replicating Menace[3/1]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (4)
+  Field: Piloted Shredder[4/1], Mossy Horror[2/7]
+[Turn 7, Step 15] Agent: 공격 - Faceless Rager[5/4] -> Mossy Horror
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Faceless Rager
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Piloted Shredder[4/1] -> Faceless Rager
+[Turn 7, Step 17] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 7, Step 17] Opponent: 카드 플레이 - Crazed Worshipper (코스트: 5)
+[Turn 7, Step 17] Opponent: 공격 - Mossy Horror[2/2] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Shadowboxer
+[Turn 8, Step 19] Agent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/8
+  Hand (6): Archmage, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus, Golakka Crawler
+  Field: Replicating Menace[3/1], Red Mana Wyrm[2/6]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (3)
+  Field: Shadowboxer[2/2], Mossy Horror[2/2], Millhouse Manastorm[4/4], Crazed Worshipper[3/6]
+[Turn 8, Step 20] Agent: 공격 - Replicating Menace[3/1] -> Crazed Worshipper
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 공격 - Mossy Horror[2/2] -> Microbot
+[Turn 8, Step 21] Opponent: 영웅 능력 사용
+[Turn 8, Step 21] Opponent: 공격 - Crazed Worshipper[3/3] -> Jaina Proudmoore
+[Turn 8, Step 21] Opponent: 공격 - Shadowboxer[2/2] -> Microbot
+[Turn 8, Step 21] Opponent: 공격 - Millhouse Manastorm[4/4] -> Red Mana Wyrm
+[Turn 8, Step 21] Opponent: 카드 플레이 - Revenge of the Wild (코스트: 2)
+[Turn 8, Step 21] Opponent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Crazed Worshipper
+[Turn 9, Step 23] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 9, Step 24] Agent: 공격 - Microbot[1/1] -> Crazed Worshipper
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/9
+  Hand (6): Bright-Eyed Scout, Archmage, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus
+  Field: Red Mana Wyrm[2/2], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/8
+  Hand (2)
+  Field: Shadowboxer[2/1], Mossy Horror[2/1], Millhouse Manastorm[4/2], Crazed Worshipper[3/1], The Voraxx[3/3]
+[Turn 9, Step 25] Agent: 공격 - Red Mana Wyrm[2/2] -> Crazed Worshipper
+[Turn 9, Step 26] Agent: 카드 플레이 - Bright-Eyed Scout (코스트: 4)
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 공격 - Shadowboxer[2/1] -> Bright-Eyed Scout
+[Turn 9, Step 27] Opponent: 카드 플레이 - Cauldron Elemental (코스트: 8)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Stormpike Commando -> The Voraxx (코스트: 5)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> The Voraxx
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/10
+  Hand (6): Archmage, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus, Generous Mummy
+  Field: Golakka Crawler[2/3], Bright-Eyed Scout[3/2], Stormpike Commando[4/2]
+Opponent: Rexxar HP: 30, Mana: 1/9
+  Hand (2)
+  Field: Mossy Horror[2/1], Millhouse Manastorm[4/2], Cauldron Elemental[7/7]
+[Turn 10, Step 30] Agent: 공격 - Golakka Crawler[2/3] -> Mossy Horror
+[Turn 10, Step 31] Agent: 공격 - Bright-Eyed Scout[3/2] -> Cauldron Elemental
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Cauldron Elemental[7/4] -> Golakka Crawler
+[Turn 10, Step 32] Opponent: 공격 - Millhouse Manastorm[4/2] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Stormpike Commando[4/2] -> Cauldron Elemental
+[Turn 10, Step 34] Agent: 카드 플레이 - Archmage (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 4/10
+  Hand (6): Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus, Generous Mummy, Stonesplinter Trogg
+  Field: Archmage[4/7]
+Opponent: Rexxar HP: 30, Mana: 8/10
+  Hand (3)
+  Field: Millhouse Manastorm[4/2]
+[Turn 10, Step 35] Agent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Archmage
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Diving Gryphon (코스트: 3)
+[Turn 10, Step 37] Opponent: 공격 - Millhouse Manastorm[4/2] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Millhouse Manastorm
+[Turn 10, Step 39] Agent: 카드 플레이 - Daring Reporter (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 4/10
+  Hand (5): Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus, Generous Mummy
+  Field: Archmage[4/6], Stonesplinter Trogg[2/3], Daring Reporter[3/3]
+Opponent: Rexxar HP: 30, Mana: 4/10
+  Hand (3)
+  Field: Millhouse Manastorm[4/1], Wretched Tiller[1/1], Diving Gryphon[4/1]
+[Turn 10, Step 40] Agent: 공격 - Archmage[4/6] -> Rexxar
+[Turn 10, Step 41] Agent: 공격 - Stonesplinter Trogg[2/3] -> Wretched Tiller
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 42] Opponent: 공격 - Millhouse Manastorm[4/1] -> Stonesplinter Trogg
+[Turn 10, Step 42] Opponent: 공격 - Diving Gryphon[4/1] -> Archmage
+[Turn 10, Step 42] Opponent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 10, Step 42] Opponent: 공격 - Devoted Maniac[2/2] -> Archmage
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Daring Reporter[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 8/10
+  Hand (6): Cairne Bloodhoof, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus, Generous Mummy
+  Field: Daring Reporter[4/4]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (2)
+  Field: Bolf Ramshield[3/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Generous Mummy (코스트: 5)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Skelemancer (코스트: 4)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Bone Wraith (코스트: 3)
+[Turn 10, Step 46] Opponent: 공격 - Bolf Ramshield[3/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (5): Cairne Bloodhoof, Nefarian, Arcane Giant, Skeram Cultist, Scrapyard Colossus
+  Field: Daring Reporter[5/5], Generous Mummy[5/4]
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (1)
+  Field: Bolf Ramshield[3/4], Skelemancer[2/2], Bone Wraith[2/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

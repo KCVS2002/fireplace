@@ -1,0 +1,222 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 2, Step 2] Opponent: 공격 - Secretkeeper[1/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 3, Step 4] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (4): Stubborn Gastropod, Bonechewer Brawler, Coldlight Oracle, Skeram Cultist
+  Field: Stubborn Gastropod[1/2], Angry Chicken[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (4)
+  Field: Secretkeeper[1/2]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Secretkeeper[1/2] -> Stubborn Gastropod
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Angry Chicken
+[Turn 4, Step 7] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 4, Step 8] Agent: 공격 - Stubborn Gastropod[1/1] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/5
+  Hand (5): Bonechewer Brawler, Coldlight Oracle, Skeram Cultist, Escaped Manasaber, Tanaris Hogchopper
+  Field: Stubborn Gastropod[1/1], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 5, Step 11] Agent: 공격 - Stubborn Gastropod[1/1] -> Rexxar
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (5): Coldlight Oracle, Skeram Cultist, Escaped Manasaber, Tanaris Hogchopper, Stampeding Kodo
+  Field: Stubborn Gastropod[1/1], Stubborn Gastropod[1/2], Bonechewer Brawler[2/3]
+Opponent: Rexxar HP: 26, Mana: 2/5
+  Hand (6)
+  Field: Blistering Rot[1/2], Living Rot[1/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Stubborn Gastropod
+[Turn 6, Step 17] Agent: 공격 - Stubborn Gastropod[1/1] -> Blistering Rot
+[Turn 6, Step 18] Agent: 공격 - Bonechewer Brawler[2/3] -> Rexxar
+[Turn 6, Step 19] Agent: 공격 - Stubborn Gastropod[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (4): Coldlight Oracle, Skeram Cultist, Escaped Manasaber, Stampeding Kodo
+  Field: Stubborn Gastropod[1/1], Bonechewer Brawler[2/3], Tanaris Hogchopper[4/4]
+Opponent: Rexxar HP: 23, Mana: 2/5
+  Hand (6)
+  Field: Living Rot[1/2]
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 6, Step 20] Opponent: 영웅 능력 사용
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 공격 - Bonechewer Brawler[2/3] -> Soup Vendor
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Cobra Shot -> Tanaris Hogchopper (코스트: 5)
+[Turn 7, Step 22] Opponent: 공격 - Soup Vendor[1/2] -> Bonechewer Brawler
+[Turn 7, Step 22] Opponent: 공격 - Living Rot[1/2] -> Stubborn Gastropod
+[Turn 7, Step 22] Opponent: 영웅 능력 사용
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 8, Step 24] Agent: 카드 플레이 - Abomination (코스트: 5)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/8
+  Hand (6): Skeram Cultist, Escaped Manasaber, Stampeding Kodo, Demolisher, Fireball, Arcane Dynamo
+  Field: Bonechewer Brawler[6/1], Tanaris Hogchopper[4/1], Coldlight Oracle[2/2], Abomination[4/4]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (8)
+[Turn 8, Step 25] Agent: 공격 - Tanaris Hogchopper[4/1] -> Rexxar
+[Turn 8, Step 26] Agent: 공격 - Bonechewer Brawler[6/1] -> Rexxar
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Baited Arrow -> Tanaris Hogchopper (코스트: 5)
+[Turn 8, Step 27] Opponent: 영웅 능력 사용
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 카드 플레이 - Stampeding Kodo (코스트: 5)
+[Turn 9, Step 29] Agent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/9
+  Hand (5): Skeram Cultist, Demolisher, Fireball, Arcane Dynamo, Corpse Raiser
+  Field: Bonechewer Brawler[6/1], Coldlight Oracle[2/2], Abomination[4/4], Stampeding Kodo[3/5], Escaped Manasaber[3/5]
+Opponent: Rexxar HP: 13, Mana: 1/8
+  Hand (8)
+  Field: Devilsaur[5/5]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 공격 - Devilsaur[5/5] -> Abomination
+[Turn 9, Step 30] Opponent: 카드 플레이 - Desert Obelisk (코스트: 5)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Stampeding Kodo
+[Turn 10, Step 32] Agent: 카드 플레이 - Demolisher (코스트: 3)
+[Turn 10, Step 33] Agent: 카드 플레이 - Fireball -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 34] Agent: 공격 - Escaped Manasaber[3/3] -> Desert Obelisk
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 2/10
+  Hand (4): Skeram Cultist, Arcane Dynamo, Corpse Raiser, Heroic Innkeeper
+  Field: Stampeding Kodo[3/2], Escaped Manasaber[3/3], Demolisher[1/4]
+Opponent: Rexxar HP: 11, Mana: 4/9
+  Hand (8)
+  Field: Desert Obelisk[0/2]
+[Turn 10, Step 35] Agent: 공격 - Stampeding Kodo[3/2] -> Desert Obelisk
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Wobbling Runts (코스트: 6)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Corpse Raiser -> Stampeding Kodo (코스트: 5)
+[Turn 10, Step 38] Agent: 공격 - Escaped Manasaber[3/3] -> Saronite Chain Gang
+[Turn 10, Step 39] Agent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (3): Skeram Cultist, Heroic Innkeeper, Doppelgangster
+  Field: Stampeding Kodo[3/2], Escaped Manasaber[3/1], Demolisher[1/4], Corpse Raiser[3/3], Arcane Dynamo[3/4]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (7)
+  Field: Saronite Chain Gang[2/3], Wobbling Runts[2/6]
+[Turn 10, Step 40] Agent: 선택 - Blizzard
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Saronite Chain Gang[2/3] -> Arcane Dynamo
+[Turn 10, Step 40] Opponent: 공격 - Wobbling Runts[2/6] -> Escaped Manasaber
+[Turn 10, Step 40] Opponent: 카드 플레이 - Youthful Brewmaster -> Wobbling Runts (코스트: 2)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Waste Warden -> Corpse Raiser (코스트: 5)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Stampeding Kodo[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (6): Skeram Cultist, Heroic Innkeeper, Doppelgangster, Blizzard, Fen Creeper, Doomcaller
+  Field: Stampeding Kodo[3/2], Demolisher[1/4]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 45] Agent: 카드 플레이 - Blizzard (코스트: 6)
+[Turn 10, Step 46] Agent: 공격 - Demolisher[1/4] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Demolisher[1/4] -> Blackwater Pirate
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (6): Skeram Cultist, Heroic Innkeeper, Doppelgangster, Fen Creeper, Doomcaller, Nefarian
+  Field: Stampeding Kodo[3/2], Demolisher[1/2]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (8)
+  Field: Cobalt Spellkin[3/3], Blackwater Pirate[2/4]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Kel'Thuzad (코스트: 8)
+[Turn 10, Step 50] Opponent: 공격 - Cobalt Spellkin[3/3] -> Stampeding Kodo
+[Turn 10, Step 50] Opponent: 공격 - Blackwater Pirate[2/4] -> Jaina Proudmoore
+[Turn 10, Step 50] Opponent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Demolisher
+[Turn 10, Step 52] Agent: 공격 - Stampeding Kodo[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 53) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (7): Skeram Cultist, Heroic Innkeeper, Doppelgangster, Fen Creeper, Doomcaller, Nefarian, Maiev Shadowsong
+  Field: Demolisher[1/1], Stampeding Kodo[3/5]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Blackwater Pirate[2/4], Kel'Thuzad[6/6], Cobalt Spellkin[3/5], Mechwarper[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

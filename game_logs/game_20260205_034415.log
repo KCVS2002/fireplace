@@ -1,0 +1,214 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Stubborn Gastropod
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Raid the Sky Temple, Animated Avalanche, Bomb Lobber, Cobalt Spellkin, Water Elemental
+  Field: Stubborn Gastropod[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (4)
+  Field: Arcane Anomaly[2/1]
+[Turn 2, Step 5] Agent: 공격 - Stubborn Gastropod[1/1] -> Arcane Anomaly
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Shattered Sun Cleric (코스트: 3)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Tanaris Hogchopper (코스트: 4)
+[Turn 3, Step 8] Opponent: 공격 - Shattered Sun Cleric[3/2] -> History Buff
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Silent Knight (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/4
+  Hand (5): Raid the Sky Temple, Animated Avalanche, Bomb Lobber, Cobalt Spellkin, Water Elemental
+  Field: History Buff[3/1], Silent Knight[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (4)
+  Field: Tanaris Hogchopper[4/4]
+[Turn 4, Step 10] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 4, Step 11] Agent: 공격 - History Buff[3/1] -> Tanaris Hogchopper
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 영웅 능력 사용
+[Turn 4, Step 12] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 4, Step 12] Opponent: 공격 - Tanaris Hogchopper[4/1] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 14] Agent: 공격 - Silent Knight[2/2] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (5): Animated Avalanche, Bomb Lobber, Cobalt Spellkin, Water Elemental, Grotesque Dragonhawk
+  Field: Silent Knight[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (4)
+  Field: Tanaris Hogchopper[4/1], Mana Wraith[2/2]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 공격 - Tanaris Hogchopper[4/1] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 영웅 능력 사용
+[Turn 5, Step 15] Opponent: 공격 - Mana Wraith[2/2] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Bomb Lobber (코스트: 6)
+[Turn 6, Step 17] Agent: 공격 - Silent Knight[2/2] -> Mana Wraith
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Ramkahen Wildtamer (코스트: 3)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 3/7
+  Hand (5): Animated Avalanche, Cobalt Spellkin, Grotesque Dragonhawk, Cursed Disciple, Kabal Courier
+  Field: Silent Knight[2/2], Bomb Lobber[3/3], Water Elemental[4/7]
+Opponent: Rexxar HP: 27, Mana: 4/7
+  Hand (5)
+  Field: Ramkahen Wildtamer[4/3]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Silent Knight
+[Turn 7, Step 21] Agent: 공격 - Bomb Lobber[3/3] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Silent Knight[2/1] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 공격 - Ramkahen Wildtamer[4/3] -> Bomb Lobber
+[Turn 7, Step 23] Opponent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 7, Step 23] Opponent: 공격 - Ruststeed Raider[5/8] -> Silent Knight
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 6/8
+  Hand (6): Sideshow Spelleater, Animated Avalanche, Cobalt Spellkin, Grotesque Dragonhawk, Cursed Disciple, Kabal Courier
+  Field: Water Elemental[4/7]
+Opponent: Rexxar HP: 22, Mana: 1/8
+  Hand (5)
+  Field: Ruststeed Raider[1/6]
+[Turn 8, Step 25] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Water Elemental[4/7] -> Ruststeed Raider
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 영웅 능력 사용
+[Turn 8, Step 27] Opponent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Cursed Revenant
+[Turn 9, Step 29] Agent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/9
+  Hand (5): Sideshow Spelleater, Animated Avalanche, Cobalt Spellkin, Kabal Courier, SI:7 Infiltrator
+  Field: Water Elemental[4/4], Grotesque Dragonhawk[5/5]
+Opponent: Rexxar HP: 22, Mana: 1/9
+  Hand (5)
+  Field: Corrupted Seer[2/3]
+[Turn 9, Step 30] Agent: 공격 - Water Elemental[4/4] -> Corrupted Seer
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+[Turn 9, Step 31] Opponent: 영웅 능력 사용
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 10, Step 33] Agent: 선택 - Cruel Dinomancer
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Zayle, Shadow Cloak[3/2] -> Water Elemental
+[Turn 10, Step 33] Opponent: 카드 플레이 - Wobbling Runts (코스트: 6)
+[Turn 10, Step 33] Opponent: 공격 - Oasis Snapjaw[2/7] -> Grotesque Dragonhawk
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Animated Avalanche (코스트: 7)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/10
+  Hand (6): Sideshow Spelleater, Cobalt Spellkin, SI:7 Infiltrator, Kabal Chemist, Cruel Dinomancer, Marin the Fox
+  Field: Grotesque Dragonhawk[5/3], Kabal Courier[2/2], Animated Avalanche[7/6]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (4)
+  Field: Oasis Snapjaw[2/2], Wobbling Runts[2/6]
+[Turn 10, Step 35] Agent: 공격 - Kabal Courier[2/2] -> Wobbling Runts
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 37] Agent: 공격 - Grotesque Dragonhawk[5/3] -> Wobbling Runts
+[Turn 10, Step 38] Agent: 공격 - Grotesque Dragonhawk[5/1] -> Wily Runt
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 10, Step 39] Opponent: 공격 - Grumbly Runt[2/2] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 공격 - Oasis Snapjaw[2/2] -> Animated Avalanche
+[Turn 10, Step 39] Opponent: 공격 - Rascally Runt[2/2] -> Animated Avalanche
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (7): Sideshow Spelleater, Cobalt Spellkin, SI:7 Infiltrator, Kabal Chemist, Cruel Dinomancer, Marin the Fox, Oasis Snapjaw
+  Field: Animated Avalanche[7/2]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (4)
+  Field: Grumbly Runt[2/2], The Black Knight[4/5]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Animated Avalanche
+[Turn 10, Step 41] Agent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+[Turn 10, Step 42] Agent: 공격 - Animated Avalanche[7/1] -> Grumbly Runt
+[Turn 10, Step 43] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - King Phaoris (코스트: 10)
+[Turn 10, Step 44] Opponent: 공격 - The Black Knight[4/5] -> Oasis Snapjaw
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (6): Sideshow Spelleater, Cobalt Spellkin, Kabal Chemist, Cruel Dinomancer, Marin the Fox, Dire Mole
+  Field: Oasis Snapjaw[2/3], SI:7 Infiltrator[5/4]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (4)
+  Field: The Black Knight[4/3], King Phaoris[5/5]
+[Turn 10, Step 45] Agent: 공격 - SI:7 Infiltrator[5/4] -> The Black Knight
+[Turn 10, Step 46] Agent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 49) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): Sideshow Spelleater, Cobalt Spellkin, Kabal Chemist, Cruel Dinomancer, Dire Mole
+  Field: Oasis Snapjaw[2/3], Marin the Fox[6/6]
+Opponent: Rexxar HP: 22, Mana: 8/10
+  Hand (5)
+  Field: King Phaoris[5/5], Master Chest[0/8]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

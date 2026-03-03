@@ -1,0 +1,134 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Arcanologist (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 공격 - Bonechewer Brawler[2/3] -> Mirror Image
+[Turn 2, Step 3] Opponent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Mana Bind (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (4): Clockwork Giant, Gadgetzan Auctioneer, Baku the Mooneater, Ship's Cannon
+  Field: Mirror Image[0/2], Arcanologist[2/3]
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (4)
+  Field: Bonechewer Brawler[2/3], Gurubashi Offering[0/2]
+[Turn 3, Step 5] Agent: 공격 - Arcanologist[2/3] -> Bonechewer Brawler
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 9] Agent: 공격 - Arcanologist[2/1] -> Bonechewer Brawler
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/4
+  Hand (4): Clockwork Giant, Gadgetzan Auctioneer, Baku the Mooneater, Mossy Horror
+  Field: Mirror Image[0/2], Ship's Cannon[2/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 5, Step 12] Agent: 카드 플레이 - Dinomancy (코스트: 0)
+[Turn 5, Step 13] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (5): Clockwork Giant, Gadgetzan Auctioneer, Baku the Mooneater, Mossy Horror, Frozen Crusher
+  Field: Mirror Image[0/2], Ship's Cannon[2/3], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 30, Mana: 2/5
+  Hand (5)
+  Field: Coldlight Seer[2/3]
+[Turn 6, Step 15] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 6, Step 16] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 6, Step 17] Agent: 공격 - Polluted Hoarder[4/2] -> Rexxar
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - The Skeleton Knight (코스트: 6)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 공격 - Polluted Hoarder[4/2] -> The Skeleton Knight
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/7
+  Hand (6): Evasive Drakonid, Clockwork Giant, Baku the Mooneater, Mossy Horror, Frozen Crusher, Grotesque Dragonhawk
+  Field: Mirror Image[0/2], Ship's Cannon[2/3], Gadgetzan Auctioneer[4/4]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (5)
+  Field: Coldlight Seer[2/3]
+[Turn 7, Step 20] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 7, Step 21] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Gadgetzan Auctioneer[4/4] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 공격 - Coldlight Seer[2/3] -> Mirror Image
+[Turn 7, Step 23] Opponent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Gadgetzan Auctioneer[4/4] -> Coldlight Seer
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/8
+  Hand (6): Clockwork Giant, Baku the Mooneater, Mossy Horror, Frozen Crusher, Grotesque Dragonhawk, Brightwing
+  Field: Ship's Cannon[2/3], Gadgetzan Auctioneer[4/2], Evasive Drakonid[7/7]
+Opponent: Rexxar HP: 24, Mana: 2/7
+  Hand (5)
+  Field: Djinni of Zephyrs[4/6]
+[Turn 8, Step 25] Agent: 카드 플레이 - Clockwork Giant (코스트: 7)
+[Turn 8, Step 26] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Evasive Drakonid[7/7] -> Rexxar
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 8, Step 28] Opponent: 공격 - Djinni of Zephyrs[4/6] -> Evasive Drakonid
+[Turn 8, Step 28] Opponent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 공격 - Evasive Drakonid[7/3] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 9/9
+  Hand (6): Baku the Mooneater, Mossy Horror, Frozen Crusher, Grotesque Dragonhawk, Brightwing, Pantry Spider
+  Field: Ship's Cannon[2/3], Gadgetzan Auctioneer[4/2], Evasive Drakonid[7/3], Clockwork Giant[8/8]
+Opponent: Rexxar HP: 8, Mana: 1/8
+  Hand (4)
+  Field: Baron Rivendare[1/7], Blistering Rot[1/2], Living Rot[1/2]
+[Turn 9, Step 30] Agent: 공격 - Clockwork Giant[8/8] -> Rexxar
+
+--- Game State (Turn 9, Step 31) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 9/9
+  Hand (6): Baku the Mooneater, Mossy Horror, Frozen Crusher, Grotesque Dragonhawk, Brightwing, Pantry Spider
+  Field: Ship's Cannon[2/3], Gadgetzan Auctioneer[4/2], Evasive Drakonid[7/3], Clockwork Giant[8/8]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (4)
+  Field: Baron Rivendare[1/7], Blistering Rot[1/2], Living Rot[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

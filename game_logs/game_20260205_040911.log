@@ -1,0 +1,129 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Tuskarr Fisherman (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 공격 - Mecharoo[1/1] -> Tuskarr Fisherman
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Eldritch Horror, Reno Jackson, Vulpera Scoundrel, Force-Tank MAX
+  Field: Tuskarr Fisherman[2/2], Dwarven Archaeologist[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Jo-E Bot[1/1]
+[Turn 2, Step 5] Agent: 공격 - Tuskarr Fisherman[2/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Misdirection (코스트: 2)
+[Turn 2, Step 6] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 2, Step 6] Opponent: 공격 - Jo-E Bot[1/1] -> Tuskarr Fisherman
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 3, Step 8] Agent: 선택 - Ancient Mysteries
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 공격 - Cogmaster[1/2] -> Tuskarr Fisherman
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - The Darkness (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (5): Eldritch Horror, Reno Jackson, Force-Tank MAX, Ancient Mysteries, Barista Lynchen
+  Field: Dwarven Archaeologist[2/3], Vulpera Scoundrel[2/3], The Darkness[20/20]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (4)
+[Turn 4, Step 10] Agent: 공격 - Dwarven Archaeologist[2/3] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Vulpera Scoundrel[2/3] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 4, Step 12] Opponent: 카드 플레이 - Webspinner (코스트: 1)
+[Turn 4, Step 12] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Ancient Mysteries (코스트: 1)
+[Turn 5, Step 14] Agent: 카드 플레이 - Netherwind Portal (코스트: 0)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/5
+  Hand (4): Eldritch Horror, Reno Jackson, Barista Lynchen, Baron Geddon
+  Field: Dwarven Archaeologist[2/3], Force-Tank MAX[7/7], Vulpera Scoundrel[2/3], The Darkness[20/20]
+Opponent: Rexxar HP: 26, Mana: 0/5
+  Hand (2)
+  Field: Dirty Rat[2/6], Webspinner[1/1], Soup Vendor[1/4]
+[Turn 5, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 16] Agent: 공격 - Dwarven Archaeologist[2/3] -> Dirty Rat
+[Turn 5, Step 17] Agent: 공격 - Force-Tank MAX[7/7] -> Dirty Rat
+[Turn 5, Step 18] Agent: 공격 - Vulpera Scoundrel[2/3] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (5): Eldritch Horror, Reno Jackson, Barista Lynchen, Baron Geddon, Prince Taldaram
+  Field: Dwarven Archaeologist[2/1], Force-Tank MAX[7/7], Vulpera Scoundrel[2/3], The Darkness[20/20]
+Opponent: Rexxar HP: 24, Mana: 6/6
+  Hand (3)
+  Field: Webspinner[1/1], Soup Vendor[1/4]
+[Turn 6, Step 20] Agent: 카드 플레이 - Reno Jackson (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Dwarven Archaeologist[2/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Force-Tank MAX[7/7] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Vulpera Scoundrel[2/3] -> Rexxar
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/7
+  Hand (5): Eldritch Horror, Barista Lynchen, Baron Geddon, Prince Taldaram, Master of Ceremonies
+  Field: Dwarven Archaeologist[2/1], Force-Tank MAX[7/7], Vulpera Scoundrel[2/3], The Darkness[20/20], Reno Jackson[4/6]
+Opponent: Rexxar HP: 13, Mana: 7/7
+  Hand (4)
+  Field: Webspinner[1/1], Soup Vendor[1/4]
+[Turn 7, Step 25] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 7, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 27] Agent: 공격 - Dwarven Archaeologist[2/1] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Force-Tank MAX[7/7] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Vulpera Scoundrel[2/3] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/7
+  Hand (6): Eldritch Horror, Baron Geddon, Prince Taldaram, Master of Ceremonies, Prince Taldaram, Master of Ceremonies
+  Field: Dwarven Archaeologist[2/1], Force-Tank MAX[7/7], Vulpera Scoundrel[2/3], The Darkness[20/20], Reno Jackson[4/6], Barista Lynchen[4/5]
+Opponent: Rexxar HP: 2, Mana: 7/7
+  Hand (4)
+  Field: Webspinner[1/1], Soup Vendor[1/4]
+[Turn 7, Step 30] Agent: 공격 - Reno Jackson[4/6] -> Rexxar
+
+--- Game State (Turn 7, Step 31) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/7
+  Hand (6): Eldritch Horror, Baron Geddon, Prince Taldaram, Master of Ceremonies, Prince Taldaram, Master of Ceremonies
+  Field: Dwarven Archaeologist[2/1], Force-Tank MAX[7/7], Vulpera Scoundrel[2/3], The Darkness[20/20], Reno Jackson[4/6], Barista Lynchen[4/5]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (4)
+  Field: Webspinner[1/1], Soup Vendor[1/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

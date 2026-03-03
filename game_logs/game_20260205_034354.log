@@ -1,0 +1,212 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Shapeshift
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Sir Finley Mrrgglton[1/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 공격 - Swamp Leech[2/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Boneguard Lieutenant
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Swamp Leech[2/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 공격 - Boneguard Lieutenant[3/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 공격 - Sir Finley Mrrgglton[1/3] -> Dragon Egg
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (6): Soldier of Fortune, Cabalist's Tome, Hailbringer, Body Wrapper, Dragoncaster, Arcanosaur
+  Field: Dragon Egg[0/1], Black Whelp[2/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+  Field: Sir Finley Mrrgglton[1/3], Swamp Leech[2/1], Boneguard Lieutenant[3/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 공격 - Black Whelp[2/1] -> Boneguard Lieutenant
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 9] Agent: 공격 - Body Wrapper[4/4] -> Swamp Leech
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/5
+  Hand (6): Soldier of Fortune, Cabalist's Tome, Hailbringer, Dragoncaster, Arcanosaur, Ancient Mage
+  Field: Dragon Egg[0/1], Body Wrapper[4/2]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (5)
+  Field: Sir Finley Mrrgglton[1/3]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Sir Finley Mrrgglton[1/3] -> Dragon Egg
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 공격 - Rexxar[1/30] -> Black Whelp
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Sir Finley Mrrgglton
+[Turn 6, Step 12] Agent: 공격 - Body Wrapper[4/2] -> Rexxar
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Sir Finley Mrrgglton[1/2] -> Jaina Proudmoore
+[Turn 6, Step 13] Opponent: 카드 플레이 - Madder Bomber (코스트: 5)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/7
+  Hand (10): Clockwork Knight, Soldier of Fortune, Hailbringer, Dragoncaster, Arcanosaur, Ancient Mage, Silver Hand Knight, Frostbolt, Dragon's Breath, Meteor
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (6)
+  Field: Madder Bomber[5/4]
+[Turn 7, Step 15] Agent: 카드 플레이 - Frostbolt -> Jaina Proudmoore (코스트: 2)
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 7, Step 16] Opponent: 공격 - Madder Bomber[5/4] -> Jaina Proudmoore
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 19] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Madder Bomber
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 4/8
+  Hand (9): Clockwork Knight, Soldier of Fortune, Hailbringer, Dragoncaster, Arcanosaur, Ancient Mage, Silver Hand Knight, Dragon's Breath, Meteor
+  Field: Hench-Clan Squire[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Madder Bomber[5/2]
+[Turn 8, Step 20] Agent: 카드 플레이 - Dragon's Breath -> Madder Bomber (코스트: 4)
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 카드 플레이 - Hailbringer (코스트: 5)
+[Turn 9, Step 23] Agent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 9, Step 24] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/9
+  Hand (7): Clockwork Knight, Soldier of Fortune, Dragoncaster, Arcanosaur, Silver Hand Knight, Meteor, High Inquisitor Whitemane
+  Field: Hench-Clan Squire[1/1], Hailbringer[3/4], Ice Shard[1/1], Ice Shard[1/1], Ancient Mage[2/5]
+Opponent: Rexxar HP: 22, Mana: 8/8
+  Hand (7)
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 9, Step 25] Opponent: 공격 - Rexxar[5/22] -> Ice Shard
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Ice Shard
+[Turn 10, Step 28] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+[Turn 10, Step 29] Agent: 공격 - Ancient Mage[2/5] -> Foe Reaper 4000
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 4/10
+  Hand (7): Clockwork Knight, Dragoncaster, Arcanosaur, Silver Hand Knight, Meteor, High Inquisitor Whitemane, Razorfen Hunter
+  Field: Hench-Clan Squire[1/1], Hailbringer[3/4], Soldier of Fortune[5/6]
+Opponent: Rexxar HP: 21, Mana: 1/9
+  Hand (7)
+  Field: Foe Reaper 4000[6/7]
+[Turn 10, Step 30] Agent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 10, Step 31] Agent: 공격 - Hailbringer[3/4] -> Foe Reaper 4000
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 10, Step 32] Opponent: 공격 - Foe Reaper 4000[6/4] -> Razorfen Hunter
+[Turn 10, Step 32] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 10, Step 32] Opponent: 공격 - Rexxar[5/21] -> Hench-Clan Squire
+[Turn 10, Step 32] Opponent: 영웅 능력 사용
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Soldier of Fortune
+[Turn 10, Step 34] Agent: 공격 - Boar[1/1] -> Blatant Decoy
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (7): Clockwork Knight, Dragoncaster, Arcanosaur, Silver Hand Knight, Meteor, High Inquisitor Whitemane, Medivh's Valet
+  Field: Soldier of Fortune[5/5]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (6)
+  Field: Foe Reaper 4000[6/2], Blatant Decoy[5/4]
+[Turn 10, Step 35] Agent: 카드 플레이 - Meteor -> Foe Reaper 4000 (코스트: 6)
+[Turn 10, Step 36] Agent: 카드 플레이 - Medivh's Valet (코스트: 2)
+[Turn 10, Step 37] Agent: 공격 - Soldier of Fortune[5/5] -> Rexxar
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 공격 - Rexxar[1/17] -> Soldier of Fortune
+[Turn 10, Step 38] Opponent: 카드 플레이 - Bright-Eyed Scout (코스트: 4)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 10, Step 38] Opponent: 공격 - Blatant Decoy[5/1] -> Soldier of Fortune
+[Turn 10, Step 38] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Medivh's Valet
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (5): Clockwork Knight, Dragoncaster, Silver Hand Knight, High Inquisitor Whitemane, Grook Fu Master
+  Field: Arcanosaur[3/3], Medivh's Valet[2/2]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (5)
+  Field: Madder Bomber[5/4], Bright-Eyed Scout[3/4], Regeneratin' Thug[3/5]
+[Turn 10, Step 40] Agent: 공격 - Arcanosaur[3/3] -> Madder Bomber
+[Turn 10, Step 41] Agent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 10, Step 42] Agent: 공격 - Medivh's Valet[2/2] -> Bright-Eyed Scout
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - King Krush (코스트: 9)
+[Turn 10, Step 43] Opponent: 공격 - Madder Bomber[5/1] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 공격 - King Krush[10/10] -> Grook Fu Master
+[Turn 10, Step 43] Opponent: 공격 - Bright-Eyed Scout[3/2] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 공격 - Regeneratin' Thug[3/5] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Dragoncaster (코스트: 7)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 3/10
+  Hand (4): Clockwork Knight, Silver Hand Knight, High Inquisitor Whitemane, Wrapped Golem
+  Field: Dragoncaster[4/4]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (5)
+  Field: Madder Bomber[5/1], Bright-Eyed Scout[3/2], Regeneratin' Thug[3/5], King Krush[10/7]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - King Krush[10/7] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (4): Clockwork Knight, Silver Hand Knight, High Inquisitor Whitemane, Wrapped Golem
+  Field: Dragoncaster[4/4]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (6)
+  Field: Madder Bomber[5/1], Bright-Eyed Scout[3/2], Regeneratin' Thug[3/5], King Krush[10/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

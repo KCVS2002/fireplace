@@ -1,0 +1,177 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Freezing Potion -> Rexxar (코스트: 0)
+[Turn 1, Step 1] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Opponent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - Whirlwind (코스트: 1)
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 2, Step 4] Opponent: 공격 - Mad Scientist[2/1] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (4): Faceless Summoner, Hakkar, the Soulflayer, Gilblin Stalker, Muck Hunter
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Mad Scientist[2/1]
+[Turn 3, Step 5] Agent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 4, Step 8] Agent: 공격 - Gilblin Stalker[2/3] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Mad Scientist[2/1] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (4): Faceless Summoner, Hakkar, the Soulflayer, Muck Hunter, Dragonmaw Scorcher
+  Field: Gilblin Stalker[2/3], Arena Fanatic[2/3]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+  Field: Mad Scientist[2/1]
+[Turn 5, Step 10] Agent: 공격 - Arena Fanatic[2/3] -> Rexxar
+[Turn 5, Step 11] Agent: 카드 플레이 - Muck Hunter (코스트: 5)
+[Turn 5, Step 12] Agent: 공격 - Gilblin Stalker[2/3] -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Muck Hunter[6/9] -> Mad Scientist
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Infested Wolf (코스트: 4)
+[Turn 5, Step 14] Opponent: 공격 - Muckling[2/1] -> Arena Fanatic
+[Turn 5, Step 14] Opponent: 공격 - Muckling[2/1] -> Arena Fanatic
+[Turn 5, Step 14] Opponent: 카드 플레이 - Bestial Wrath -> Infested Wolf (코스트: 1)
+[Turn 5, Step 14] Opponent: 공격 - Mad Scientist[3/3] -> Gilblin Stalker
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (4): Faceless Summoner, Hakkar, the Soulflayer, Dragonmaw Scorcher, Saboteur
+  Field: Muck Hunter[6/7]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (5)
+  Field: Mad Scientist[3/1], Infested Wolf[3/3]
+[Turn 6, Step 15] Agent: 공격 - Muck Hunter[6/7] -> Mad Scientist
+[Turn 6, Step 16] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 6, Step 17] Agent: 공격 - Rabid Worgen[3/3] -> Infested Wolf
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Spider[1/1] -> Muck Hunter
+[Turn 6, Step 18] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 6, Step 18] Opponent: 공격 - Spider[1/1] -> Faceless Summoner
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 공격 - Faceless Summoner[6/5] -> Cult Master
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (4): Hakkar, the Soulflayer, Dragonmaw Scorcher, Saboteur, Big Game Hunter
+  Field: Muck Hunter[6/3], Faceless Summoner[6/1]
+Opponent: Rexxar HP: 24, Mana: 0/6
+  Hand (5)
+  Field: Dalaran Librarian[2/3]
+[Turn 7, Step 20] Agent: 공격 - Muck Hunter[6/3] -> Dalaran Librarian
+[Turn 7, Step 21] Agent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Dragonmaw Scorcher[3/6] -> Dalaran Crusader
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (4): Hakkar, the Soulflayer, Saboteur, Big Game Hunter, Defender of Argus
+  Field: Dragonmaw Scorcher[3/1]
+Opponent: Rexxar HP: 24, Mana: 0/7
+  Hand (4)
+  Field: Dalaran Crusader[5/4], Mad Bomber[3/2]
+[Turn 8, Step 25] Agent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 8, Step 26] Agent: 카드 플레이 - Big Game Hunter (코스트: 5)
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 공격 - Saboteur[4/3] -> Mad Bomber
+[Turn 9, Step 29] Agent: 공격 - Big Game Hunter[4/2] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/9
+  Hand (3): Hakkar, the Soulflayer, Defender of Argus, Deadscale Knight
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (5)
+  Field: Dalaran Crusader[5/4]
+[Turn 9, Step 30] Agent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 9, Step 31] Agent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 공격 - Dalaran Crusader[5/4] -> Jaina Proudmoore
+[Turn 9, Step 33] Opponent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 9, Step 33] Opponent: 카드 플레이 - Diving Gryphon (코스트: 3)
+[Turn 9, Step 33] Opponent: 공격 - Diving Gryphon[4/1] -> Defender of Argus
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Deadscale Knight[1/1] -> Azerite Elemental
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (2): Hakkar, the Soulflayer, Piloted Shredder
+Opponent: Rexxar HP: 24, Mana: 1/9
+  Hand (5)
+  Field: Dalaran Crusader[5/4], Azerite Elemental[2/6]
+[Turn 10, Step 35] Agent: 카드 플레이 - Hakkar, the Soulflayer (코스트: 10)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Hemet, Jungle Hunter (코스트: 6)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Corrosive Breath -> Hemet, Jungle Hunter (코스트: 2)
+[Turn 10, Step 36] Opponent: 공격 - Azerite Elemental[2/6] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 공격 - Dalaran Crusader[5/4] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Hakkar, the Soulflayer[10/7] -> Dalaran Crusader
+[Turn 10, Step 38] Agent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 10, Step 39] Agent: 카드 플레이 - Duskboar (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 4/10
+  Hand (0): 
+  Field: Hakkar, the Soulflayer[10/2], Piloted Shredder[4/3], Duskboar[4/1]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (4)
+  Field: Azerite Elemental[2/6], Hemet, Jungle Hunter[6/1]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 41) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (0): 
+  Field: Hakkar, the Soulflayer[10/2], Piloted Shredder[4/3], Duskboar[4/1]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (4)
+  Field: Azerite Elemental[2/6], Hemet, Jungle Hunter[6/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

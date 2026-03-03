@@ -1,0 +1,123 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Mechwarper (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Dragonhawk Rider, Auctionmaster Beardo, Echo of Medivh, Bolf Ramshield
+  Field: Mechwarper[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Dragonhawk Rider (코스트: 3)
+[Turn 3, Step 7] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/4
+  Hand (4): Echo of Medivh, Bolf Ramshield, Boneguard Lieutenant, Mischief Maker
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/3], Auctionmaster Beardo[3/4]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (6)
+  Field: Toxicologist[2/2]
+[Turn 4, Step 10] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Dragonhawk Rider[3/3] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Echo of Medivh (코스트: 4)
+[Turn 5, Step 14] Agent: 카드 플레이 - Mechwarper (코스트: 1)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (6): Bolf Ramshield, Boneguard Lieutenant, Mischief Maker, Mechwarper, Dragonhawk Rider, Auctionmaster Beardo
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/3], Auctionmaster Beardo[3/4], Mechwarper[2/3]
+Opponent: Rexxar HP: 23, Mana: 5/5
+  Hand (7)
+  Field: Toxicologist[2/2]
+[Turn 5, Step 15] Agent: 카드 플레이 - Mechwarper (코스트: 0)
+[Turn 5, Step 16] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Dragonhawk Rider[3/3] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Auctionmaster Beardo[3/4] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 공격 - Toxicologist[2/2] -> Dragonhawk Rider
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (6): Bolf Ramshield, Boneguard Lieutenant, Mischief Maker, Dragonhawk Rider, Auctionmaster Beardo, The Curator
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/1], Auctionmaster Beardo[3/4], Mechwarper[2/3], Mechwarper[2/3]
+Opponent: Rexxar HP: 15, Mana: 6/6
+  Hand (8)
+[Turn 6, Step 20] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Dragonhawk Rider[3/1] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Auctionmaster Beardo[3/4] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (5): Boneguard Lieutenant, Mischief Maker, Dragonhawk Rider, Auctionmaster Beardo, The Curator
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/1], Auctionmaster Beardo[3/4], Mechwarper[2/3], Mechwarper[2/3], Bolf Ramshield[3/9]
+Opponent: Rexxar HP: 5, Mana: 6/6
+  Hand (8)
+[Turn 6, Step 25] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 6, Step 26] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 26] Opponent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 6, Step 26] Opponent: 영웅 능력 사용
+[Turn 6, Step 26] Opponent: 턴 종료
+[Turn 7, Step 27] Agent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 7, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 29] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/7
+  Hand (5): Boneguard Lieutenant, Mischief Maker, Dragonhawk Rider, Auctionmaster Beardo, The Curator
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/1], Auctionmaster Beardo[3/4], Mechwarper[2/3], Mechwarper[2/3], Bolf Ramshield[3/6], Al'ar[7/3]
+Opponent: Rexxar HP: 1, Mana: 2/7
+  Hand (8)
+  Field: Devilsaur Egg[0/3]
+[Turn 7, Step 30] Agent: 공격 - Dragonhawk Rider[3/1] -> Rexxar
+
+--- Game State (Turn 7, Step 31) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/7
+  Hand (5): Boneguard Lieutenant, Mischief Maker, Dragonhawk Rider, Auctionmaster Beardo, The Curator
+  Field: Mechwarper[2/3], Dragonhawk Rider[3/1], Auctionmaster Beardo[3/4], Mechwarper[2/3], Mechwarper[2/3], Bolf Ramshield[3/6], Al'ar[7/3]
+Opponent: Rexxar HP: 0, Mana: 2/7
+  Hand (8)
+  Field: Devilsaur Egg[0/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

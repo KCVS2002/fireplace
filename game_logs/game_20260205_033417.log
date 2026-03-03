@@ -1,0 +1,339 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 공격 - Patches the Pirate[1/1] -> Jaina Proudmoore
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(48) → 6로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Patches the Pirate
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(3) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/3
+  Hand (7): Lorewalker Cho, Skulking Geist, Cult Sorcerer, Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (8): Skulking Geist, Cult Sorcerer, Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia, Raven Familiar, Mechwarper
+  Field: Tinkertown Technician[3/3], Lorewalker Cho[0/4]
+Opponent: Rexxar HP: 30, Mana: 5/6
+  Hand (5)
+  Field: Swamp Dragon Egg[0/3], Small-Time Buccaneer[1/1]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(40) → 8로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 6, Step 12] Agent: 공격 - Tinkertown Technician[3/3] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Cult Sorcerer (코스트: 2)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 카드 플레이 - Ice Cream Peddler (코스트: 4)
+[Turn 6, Step 14] Opponent: 공격 - Small-Time Buccaneer[1/1] -> Raven Familiar
+[Turn 6, Step 14] Opponent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (8): Skulking Geist, Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia, Mechwarper, Greater Arcane Missiles, Replicating Menace
+  Field: Tinkertown Technician[3/3], Lorewalker Cho[0/4], Raven Familiar[2/1], Cult Sorcerer[3/2]
+Opponent: Rexxar HP: 26, Mana: 0/7
+  Hand (3)
+  Field: Swamp Dragon Egg[0/3], Ice Cream Peddler[3/5], Rockpool Hunter[2/3], Murmy[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(41) → 9로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Swamp Dragon Egg
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 7, Step 16] Agent: 공격 - Raven Familiar[2/1] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 7, Step 17] Agent: 공격 - Cult Sorcerer[3/2] -> Ice Cream Peddler
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 7, Step 18] Opponent: 공격 - Ice Cream Peddler[3/2] -> Tinkertown Technician
+[Turn 7, Step 18] Opponent: 영웅 능력 사용
+[Turn 7, Step 18] Opponent: 공격 - Murmy[1/1] -> Lorewalker Cho
+[Turn 7, Step 18] Opponent: 공격 - Rockpool Hunter[2/3] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(36) → 14로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rockpool Hunter
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/8
+  Hand (9): Skulking Geist, Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia, Mechwarper, Greater Arcane Missiles, Replicating Menace, Bug Collector
+  Field: Lorewalker Cho[0/3], Raven Familiar[2/1]
+Opponent: Rexxar HP: 24, Mana: 0/8
+  Hand (3)
+  Field: Swamp Dragon Egg[0/2], Rockpool Hunter[2/2], Murmy[1/1], Savannah Highmane[6/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 8, Step 20] Agent: 공격 - Raven Familiar[2/1] -> Swamp Dragon Egg
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(78) → 1로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Skulking Geist (코스트: 6)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Savannah Highmane[6/5] -> Raven Familiar
+[Turn 8, Step 22] Opponent: 공격 - Rockpool Hunter[2/2] -> Jaina Proudmoore
+[Turn 8, Step 22] Opponent: 카드 플레이 - Tortollan Primalist (코스트: 8)
+[Turn 8, Step 22] Opponent: 선택 - Swarm of Locusts
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(45) → 16로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Skulking Geist
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Greater Arcane Missiles (코스트: 7)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/9
+  Hand (8): Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia, Mechwarper, Replicating Menace, Bug Collector, Starscryer
+  Field: Lorewalker Cho[0/3], Skulking Geist[4/5]
+Opponent: Rexxar HP: 21, Mana: 1/9
+  Hand (5)
+  Field: Rockpool Hunter[2/2], Murmy[1/1], Hyena[2/2], Tortollan Primalist[5/1], Locust[1/1], Locust[1/1], Locust[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 9, Step 25] Agent: 공격 - Skulking Geist[4/5] -> Tortollan Primalist
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 9, Step 26] Opponent: 영웅 능력 사용
+[Turn 9, Step 26] Opponent: 공격 - Locust[1/1] -> Lorewalker Cho
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(83) → 7로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(69) → 19로 보정
+[Turn 10, Step 28] Agent: 공격 - Locust[1/1] -> Rockpool Hunter
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(86) → 14로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Locust
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/10
+  Hand (8): Glacial Mysteries, Questing Adventurer, Splitting Image, Onyxia, Mechwarper, Replicating Menace, Starscryer, Nat Pagle
+  Field: Lorewalker Cho[0/2], Bug Collector[2/1]
+Opponent: Rexxar HP: 21, Mana: 8/10
+  Hand (6)
+  Field: Rockpool Hunter[2/1], Murmy[1/1], Hyena[2/2], Locust[1/1], Locust[1/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Questing Adventurer (코스트: 3)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 공격 - Murmy[1/1] -> Lorewalker Cho
+[Turn 10, Step 32] Opponent: 공격 - Locust[1/1] -> Bug Collector
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Questing Adventurer[3/3] -> Rockpool Hunter
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Mechwarper (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (6): Glacial Mysteries, Onyxia, Replicating Menace, Starscryer, Nat Pagle, Crowd Favorite
+  Field: Lorewalker Cho[0/1], Questing Adventurer[4/2], Lorewalker Cho[0/2], Mechwarper[2/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+  Field: Murmy[1/1], Hyena[2/2], Locust[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(28) → 13로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Lorewalker Cho
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 공격 - Hyena[2/2] -> Questing Adventurer
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(84) → 12로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Locust
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(30) → 13로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Lorewalker Cho
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (8): Heroic Innkeeper, Glacial Mysteries, Onyxia, Replicating Menace, Starscryer, Nat Pagle, Crowd Favorite, Augmented Elekk
+  Field: Lorewalker Cho[0/1], Mechwarper[2/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Murmy[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 41] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Doomcaller (코스트: 8)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (6): Heroic Innkeeper, Glacial Mysteries, Onyxia, Replicating Menace, Nat Pagle, Augmented Elekk
+  Field: Lorewalker Cho[0/1], Mechwarper[2/3], Starscryer[3/1], Crowd Favorite[5/5], Doomcaller[7/9]
+Opponent: Rexxar HP: 19, Mana: 7/10
+  Hand (9)
+  Field: Murmy[1/1], Fel Orc Soulfiend[3/7]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Lorewalker Cho
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 46] Agent: 공격 - Starscryer[3/1] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 47] Agent: 공격 - Mechwarper[2/3] -> Fel Orc Soulfiend
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 48] Agent: 공격 - Crowd Favorite[5/5] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Murmy[1/1] -> Crowd Favorite
+[Turn 10, Step 49] Opponent: 공격 - Fel Orc Soulfiend[3/3] -> Starscryer
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (7): Fungalmancer, Heroic Innkeeper, Glacial Mysteries, Onyxia, Replicating Menace, Nat Pagle, Augmented Elekk
+  Field: Crowd Favorite[5/4], Doomcaller[7/9]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+  Field: Murmy[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(42) → 8로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(27) → 5로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 52] Agent: 공격 - Crowd Favorite[5/4] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Murmy[1/1] -> Crowd Favorite
+[Turn 10, Step 54] Opponent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 10, Step 54] Opponent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (6): Fungalmancer, Heroic Innkeeper, Glacial Mysteries, Onyxia, Replicating Menace, Blood of The Ancient One
+  Field: Crowd Favorite[5/3], Doomcaller[7/9], Nat Pagle[0/4], Augmented Elekk[3/4]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (8)
+  Field: Dragonmaw Sky Stalker[5/6]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Glacial Mysteries (코스트: 8)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Crowd Favorite
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(82) → 5로 보정
+[Turn 10, Step 57] Agent: 공격 - Augmented Elekk[3/4] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 10, Step 58] Agent: 공격 - Doomcaller[7/9] -> Dragonmaw Sky Stalker
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 10, Step 59] Agent: 공격 - Crowd Favorite[5/2] -> Dragonmaw Sky Stalker
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (5): Fungalmancer, Heroic Innkeeper, Onyxia, Replicating Menace, Blood of The Ancient One
+  Field: Doomcaller[7/4], Nat Pagle[0/4], Augmented Elekk[3/4]
+Opponent: Rexxar HP: 3, Mana: 1/10
+  Hand (8)
+  Field: Dragonrider[3/4], Dragonmaw Sky Stalker[5/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(25) → 4로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Dragonmaw Sky Stalker
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Dragonrider[3/4] -> Nat Pagle
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Nat Pagle
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (8): Shu'ma, Fungalmancer, Heroic Innkeeper, Onyxia, Blood of The Ancient One, Explodinator, Daring Reporter, Messenger Raven
+  Field: Doomcaller[7/4], Augmented Elekk[3/4], Replicating Menace[3/1]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+  Field: Dragonrider[3/4], Dragonrider[3/4]
+[Turn 10, Step 65] Agent: 공격 - Replicating Menace[3/1] -> Dragonrider
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Fungalmancer (코스트: 5)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(85) → 5로 보정
+[Turn 10, Step 67] Agent: 공격 - Augmented Elekk[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 3/10
+  Hand (7): Shu'ma, Heroic Innkeeper, Onyxia, Blood of The Ancient One, Explodinator, Daring Reporter, Messenger Raven
+  Field: Doomcaller[7/4], Augmented Elekk[3/4], Microbot[1/1], Microbot[1/1], Microbot[3/3], Fungalmancer[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Dragonrider[3/4], Dragonrider[3/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

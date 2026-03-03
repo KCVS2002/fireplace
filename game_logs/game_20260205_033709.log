@@ -1,0 +1,295 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 공격 - Murloc Raider[2/1] -> Jaina Proudmoore
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Runic Egg (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (4): Duplicate, Ancient Brewmaster, Augmented Elekk, Avian Watcher
+  Field: Booty Bay Bookie[3/3], Runic Egg[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Murloc Raider[2/1]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Murloc Raider[2/1] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Murloc Raider
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 4, Step 9] Opponent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 4, Step 9] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (6): Duplicate, Ancient Brewmaster, Augmented Elekk, Avian Watcher, Half-Time Scavenger, Silvermoon Guardian
+  Field: Booty Bay Bookie[3/3], Runic Egg[0/2], Corpsetaker[3/3]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (5)
+  Field: Nerubian Egg[0/2], Arcane Watcher[5/6]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(28) → 6로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 5, Step 11] Agent: 공격 - Corpsetaker[3/3] -> Nerubian Egg
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 5, Step 12] Agent: 공격 - Corpsetaker[3/3] -> Arcane Watcher
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 5, Step 13] Agent: 공격 - Booty Bay Bookie[3/3] -> Rexxar
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (6): Duplicate, Ancient Brewmaster, Augmented Elekk, Half-Time Scavenger, Silvermoon Guardian, Imprisoned Vilefiend
+  Field: Booty Bay Bookie[3/3], Runic Egg[0/2], Corpsetaker[3/3], Avian Watcher[3/6]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (6)
+  Field: Nerubian[4/4], Arcane Watcher[5/3]
+[Turn 6, Step 15] Agent: 공격 - Corpsetaker[3/3] -> Arcane Watcher
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(33) → 14로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Nerubian
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 6, Step 17] Agent: 공격 - Avian Watcher[3/6] -> Rexxar
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(65) → 10로 보정
+[Turn 6, Step 18] Agent: 공격 - Booty Bay Bookie[3/3] -> Nerubian
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 6, Step 19] Agent: 카드 플레이 - Ancient Brewmaster -> Runic Egg (코스트: 4)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (6): Duplicate, Augmented Elekk, Half-Time Scavenger, Silvermoon Guardian, Imprisoned Vilefiend, Runic Egg
+  Field: Avian Watcher[3/6], Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 24, Mana: 6/6
+  Hand (6)
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 7, Step 21] Agent: 카드 플레이 - Silvermoon Guardian (코스트: 4)
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Avian Watcher
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 7, Step 23] Agent: 공격 - Ancient Brewmaster[5/4] -> Rexxar
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 7, Step 24] Agent: 카드 플레이 - Runic Egg (코스트: 1)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/7
+  Hand (5): Duplicate, Augmented Elekk, Half-Time Scavenger, Imprisoned Vilefiend, Gurubashi Chicken
+  Field: Avian Watcher[3/5], Ancient Brewmaster[5/4], Silvermoon Guardian[3/3], Runic Egg[0/2]
+Opponent: Rexxar HP: 19, Mana: 7/7
+  Hand (7)
+[Turn 7, Step 25] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 카드 플레이 - Scrap Shot -> Silvermoon Guardian (코스트: 4)
+[Turn 7, Step 25] Opponent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 7, Step 25] Opponent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 7, Step 25] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(69) → 13로 보정
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(52) → 14로 보정
+[Turn 8, Step 27] Agent: 공격 - Ancient Brewmaster[5/4] -> Jar Dealer
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Dragon Breeder
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (7): Duplicate, Augmented Elekk, Half-Time Scavenger, Imprisoned Vilefiend, Gurubashi Chicken, Imprisoned Vilefiend, Flamewaker
+  Field: Avian Watcher[3/5], Ancient Brewmaster[5/3], Silvermoon Guardian[3/3], Runic Egg[0/2]
+Opponent: Rexxar HP: 19, Mana: 9/9
+  Hand (6)
+  Field: Goblin Bomb[0/1], Dragon Breeder[2/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(21) → 5로 보정
+[Turn 9, Step 31] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 9, Step 32] Agent: 공격 - Ancient Brewmaster[5/3] -> Rexxar
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 9, Step 33] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 9, Step 34] Agent: 공격 - Silvermoon Guardian[3/3] -> Goblin Bomb
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/9
+  Hand (4): Duplicate, Half-Time Scavenger, Gurubashi Chicken, Flamewaker
+  Field: Avian Watcher[3/5], Ancient Brewmaster[5/3], Silvermoon Guardian[3/3], Runic Egg[0/2], Augmented Elekk[3/4], Imprisoned Vilefiend[3/5], Imprisoned Vilefiend[3/5]
+Opponent: Rexxar HP: 14, Mana: 9/9
+  Hand (6)
+  Field: Dragon Breeder[2/2]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 9, Step 35] Agent: 공격 - Avian Watcher[3/5] -> Dragon Breeder
+[Turn 9, Step 36] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 9, Step 36] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Ancient Brewmaster
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Ethereal Augmerchant -> Augmented Elekk (코스트: 1)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(53) → 9로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Imprisoned Vilefiend
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (6): Duplicate, Half-Time Scavenger, Gurubashi Chicken, Flamewaker, Animated Avalanche, Magic Dart Frog
+  Field: Avian Watcher[3/3], Ancient Brewmaster[5/2], Silvermoon Guardian[3/3], Runic Egg[0/2], Augmented Elekk[3/3], Imprisoned Vilefiend[3/4], Imprisoned Vilefiend[3/5]
+Opponent: Rexxar HP: 14, Mana: 9/10
+  Hand (7)
+  Field: Ethereal Augmerchant[2/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Duplicate (코스트: 3)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 41] Agent: 공격 - Ancient Brewmaster[5/2] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Ethereal Augmerchant[2/1] -> Ancient Brewmaster
+[Turn 10, Step 42] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 10, Step 42] Opponent: 카드 플레이 - King of Beasts (코스트: 7)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Ancient Brewmaster -> Augmented Elekk (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Runic Egg
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (8): Half-Time Scavenger, Gurubashi Chicken, Flamewaker, Animated Avalanche, Magic Dart Frog, Ancient Brewmaster, Galvanizer, Augmented Elekk
+  Field: Avian Watcher[3/3], Silvermoon Guardian[3/3], Runic Egg[0/1], Imprisoned Vilefiend[3/4], Imprisoned Vilefiend[3/5], Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (6)
+  Field: Nerub'ar Weblord[1/4], King of Beasts[6/9]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 45] Agent: 공격 - Imprisoned Vilefiend[3/5] -> King of Beasts
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Silvermoon Guardian
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Flamewaker (코스트: 3)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(30) → 3로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Magic Dart Frog (코스트: 2)
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (7): Half-Time Scavenger, Gurubashi Chicken, Animated Avalanche, Ancient Brewmaster, Galvanizer, Augmented Elekk, Rumbletusk Shaker
+  Field: Avian Watcher[3/3], Silvermoon Guardian[3/2], Runic Egg[0/1], Imprisoned Vilefiend[3/4], Ancient Brewmaster[5/4], Flamewaker[2/4], Magic Dart Frog[1/3]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (7)
+  Field: Nerub'ar Weblord[1/1], King of Beasts[6/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Imprisoned Vilefiend[3/4] -> King of Beasts
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(11) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Ancient Brewmaster[5/4] -> King of Beasts
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 52] Agent: 공격 - Silvermoon Guardian[3/2] -> Nerub'ar Weblord
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(52) → 23로 보정
+[Turn 10, Step 54] Agent: 공격 - Silvermoon Guardian[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (8): Half-Time Scavenger, Gurubashi Chicken, Animated Avalanche, Ancient Brewmaster, Galvanizer, Augmented Elekk, Rumbletusk Shaker, Wrathion
+  Field: Avian Watcher[3/3], Silvermoon Guardian[3/1], Runic Egg[0/1], Flamewaker[2/4], Magic Dart Frog[1/3]
+Opponent: Rexxar HP: 6, Mana: 5/10
+  Hand (7)
+  Field: Harrison Jones[5/4]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(47) → 20로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Harrison Jones
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(30) → 11로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(46) → 12로 보정
+[Turn 10, Step 57] Agent: 공격 - Avian Watcher[3/3] -> Harrison Jones
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 59] Agent: 공격 - Magic Dart Frog[1/3] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (6): Gurubashi Chicken, Animated Avalanche, Ancient Brewmaster, Galvanizer, Augmented Elekk, Wrathion
+  Field: Silvermoon Guardian[3/1], Runic Egg[0/1], Flamewaker[2/4], Magic Dart Frog[1/3], Rumbletusk Shaker[3/2], Half-Time Scavenger[3/5]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (7)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 60] Agent: 공격 - Flamewaker[2/4] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Unseen Saboteur (코스트: 6)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(97) → 21로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Unseen Saboteur
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(50) → 22로 보정
+[Turn 10, Step 63] Agent: 공격 - Rumbletusk Shaker[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (7): Grotesque Dragonhawk, Gurubashi Chicken, Animated Avalanche, Ancient Brewmaster, Galvanizer, Augmented Elekk, Wrathion
+  Field: Silvermoon Guardian[3/1], Runic Egg[0/1], Flamewaker[2/4], Magic Dart Frog[1/3], Rumbletusk Shaker[3/2], Half-Time Scavenger[3/5]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (6)
+  Field: Unseen Saboteur[5/5], Silver Hand Regent[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

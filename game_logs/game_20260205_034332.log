@@ -1,0 +1,183 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Spellshifter (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 카드 플레이 - Murmy (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (5): Manic Soulcaster, Violet Spellwing, Captain Greenskin, Chief Inspector, Mecharoo
+  Field: Murmy[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (5)
+  Field: Spellshifter[1/4]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Kill Command -> Spellshifter (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Murmy
+[Turn 4, Step 7] Agent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Chief Inspector (코스트: 5)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/5
+  Hand (5): Manic Soulcaster, Violet Spellwing, Captain Greenskin, Kvaldir Raider, Sated Threshadon
+  Field: Murmy[1/1], Mecharoo[1/1], Chief Inspector[4/6]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: Chief Inspector[4/6]
+[Turn 5, Step 10] Agent: 공격 - Murmy[1/1] -> Chief Inspector
+[Turn 5, Step 11] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 5, Step 12] Opponent: 공격 - Chief Inspector[4/5] -> Mecharoo
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Manic Soulcaster -> Chief Inspector (코스트: 3)
+[Turn 6, Step 14] Agent: 카드 플레이 - Ice Block (코스트: 3)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (4): Violet Spellwing, Captain Greenskin, Kvaldir Raider, Sated Threshadon
+  Field: Jo-E Bot[1/1], Chief Inspector[4/6], Manic Soulcaster[3/4]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (5)
+  Field: Chief Inspector[4/4], Bone Wraith[2/5]
+[Turn 6, Step 15] Agent: 공격 - Jo-E Bot[1/1] -> Bone Wraith
+[Turn 6, Step 16] Agent: 공격 - Chief Inspector[4/6] -> Bone Wraith
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 공격 - Chief Inspector[4/4] -> Jaina Proudmoore
+[Turn 6, Step 17] Opponent: 공격 - Bone Wraith[2/1] -> Manic Soulcaster
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 공격 - Chief Inspector[4/4] -> Rexxar
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Happy Ghoul
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (5): Violet Spellwing, Captain Greenskin, Kvaldir Raider, Sated Threshadon, Felsoul Inquisitor
+  Field: Chief Inspector[4/4], Manic Soulcaster[3/2]
+Opponent: Rexxar HP: 23, Mana: 1/6
+  Hand (5)
+  Field: Chief Inspector[4/4], Happy Ghoul[3/2]
+[Turn 7, Step 20] Agent: 공격 - Manic Soulcaster[3/2] -> Chief Inspector
+[Turn 7, Step 21] Agent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Flark's Boom-Zooka (코스트: 7)
+[Turn 7, Step 22] Opponent: 공격 - Happy Ghoul[3/2] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 공격 - Chief Inspector[4/1] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 8, Step 24] Opponent: 카드 플레이 - Frost Elemental -> Happy Ghoul (코스트: 6)
+[Turn 8, Step 24] Opponent: 공격 - Chief Inspector[4/1] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 9/9
+  Hand (5): Captain Greenskin, Sated Threshadon, Felsoul Inquisitor, Mecha'thun, Razorfen Hunter
+  Field: Violet Spellwing[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (3)
+  Field: Chief Inspector[4/1], Happy Ghoul[3/2], Licensed Adventurer[3/2], Frost Elemental[5/5], Murloc Tinyfin[1/1]
+[Turn 9, Step 25] Agent: 공격 - Violet Spellwing[1/1] -> Licensed Adventurer
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Chief Inspector
+[Turn 9, Step 27] Agent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 공격 - Happy Ghoul[3/2] -> Razorfen Hunter
+[Turn 9, Step 28] Opponent: 카드 플레이 - Bright-Eyed Scout (코스트: 4)
+[Turn 9, Step 28] Opponent: 카드 플레이 - Baited Arrow -> Frost Elemental (코스트: 5)
+[Turn 9, Step 28] Opponent: 공격 - Murloc Tinyfin[1/1] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 공격 - Licensed Adventurer[3/1] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 공격 - Frost Elemental[5/2] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Boar[1/1] -> Licensed Adventurer
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (6): Captain Greenskin, Sated Threshadon, Felsoul Inquisitor, Mecha'thun, Arcane Missiles, Ironbeak Owl
+Opponent: Rexxar HP: 23, Mana: 0/9
+  Hand (3)
+  Field: Frost Elemental[5/2], Murloc Tinyfin[1/1], Bright-Eyed Scout[3/4]
+[Turn 10, Step 30] Agent: 카드 플레이 - Ironbeak Owl -> Murloc Tinyfin (코스트: 3)
+[Turn 10, Step 31] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 32] Agent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Frost Elemental[5/2] -> Ironbeak Owl
+[Turn 10, Step 33] Opponent: 카드 플레이 - Spirit of the Lynx (코스트: 3)
+[Turn 10, Step 33] Opponent: 공격 - Murloc Tinyfin[1/1] -> Captain Greenskin
+[Turn 10, Step 33] Opponent: 카드 플레이 - Duskhaven Hunter (코스트: 3)
+[Turn 10, Step 33] Opponent: 공격 - Bright-Eyed Scout[3/3] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Malygos (코스트: 9)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 1/10
+  Hand (3): Sated Threshadon, Felsoul Inquisitor, Mecha'thun
+  Field: Captain Greenskin[5/3], Malygos[4/12]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (1)
+  Field: Bright-Eyed Scout[3/3], Spirit of the Lynx[0/3], Duskhaven Hunter[5/2], Crowd Favorite[4/4]
+[Turn 10, Step 35] Agent: 공격 - Captain Greenskin[5/3] -> Crowd Favorite
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Humongous Razorleaf (코스트: 5)
+[Turn 10, Step 36] Opponent: 공격 - Bright-Eyed Scout[3/3] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Malygos[4/12] -> Bright-Eyed Scout
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Cheaty Anklebiter -> Duskhaven Hunter (코스트: 2)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 39) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (4): Sated Threshadon, Felsoul Inquisitor, Mecha'thun, Rummaging Kobold
+  Field: Malygos[4/9]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (0)
+  Field: Spirit of the Lynx[0/3], Duskhaven Hunter[5/1], Humongous Razorleaf[4/8], Cheaty Anklebiter[2/3], Sunborne Val'kyr[5/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

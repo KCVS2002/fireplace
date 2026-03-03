@@ -1,0 +1,204 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/2
+  Hand (3): Deathwing, Spark Engine, Ruststeed Raider
+  Field: Mistress of Mixtures[2/2], Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 28, Mana: 0/1
+  Hand (4)
+  Field: Booty Bay Bookie[3/3]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Booty Bay Bookie[3/3] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 3, Step 7] Agent: 카드 플레이 - Spark (코스트: 1)
+[Turn 3, Step 8] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Spark[1/1] -> Booty Bay Bookie
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/3
+  Hand (3): Deathwing, Ruststeed Raider, Elise the Trailblazer
+  Field: Mistress of Mixtures[2/2], Unpowered Mauler[2/4], Spark Engine[2/1]
+Opponent: Rexxar HP: 26, Mana: 0/2
+  Hand (4)
+  Field: Booty Bay Bookie[3/2], Booty Bay Bookie[3/3]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 영웅 능력 사용
+[Turn 3, Step 10] Opponent: 공격 - Booty Bay Bookie[3/3] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 공격 - Booty Bay Bookie[3/2] -> Spark Engine
+[Turn 3, Step 10] Opponent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 4, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 13] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Booty Bay Bookie[3/3] -> Jaina Proudmoore
+[Turn 4, Step 14] Opponent: 공격 - Mogu Cultist[1/1] -> Jaina Proudmoore
+[Turn 4, Step 14] Opponent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 5/5
+  Hand (4): Deathwing, Ruststeed Raider, Elise the Trailblazer, Tomb Spider
+  Field: Mistress of Mixtures[2/2], Unpowered Mauler[2/4], Gadgetzan Jouster[1/2]
+Opponent: Rexxar HP: 24, Mana: 1/4
+  Hand (4)
+  Field: Booty Bay Bookie[3/3], Mogu Cultist[1/1], Hench-Clan Sneak[3/3]
+[Turn 5, Step 15] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Gadgetzan Jouster[1/2] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Ruststeed Raider[5/8] -> Booty Bay Bookie
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+[Turn 5, Step 19] Opponent: 공격 - Hench-Clan Sneak[3/3] -> Ruststeed Raider
+[Turn 5, Step 19] Opponent: 공격 - Mogu Cultist[1/1] -> Ruststeed Raider
+[Turn 5, Step 19] Opponent: 공격 - Spiked Hogrider[5/5] -> Ruststeed Raider
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 6/6
+  Hand (4): Deathwing, Elise the Trailblazer, Tomb Spider, Anomalus
+  Field: Mistress of Mixtures[2/2], Unpowered Mauler[2/4], Gadgetzan Jouster[1/2]
+Opponent: Rexxar HP: 21, Mana: 0/5
+  Hand (4)
+  Field: Hench-Clan Sneak[3/2], Spiked Hogrider[5/4]
+[Turn 6, Step 20] Agent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 6, Step 21] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Gadgetzan Jouster[1/2] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 공격 - Spiked Hogrider[5/4] -> Elise the Trailblazer
+[Turn 6, Step 23] Opponent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 6, Step 23] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 6, Step 23] Opponent: 공격 - Hench-Clan Sneak[3/2] -> Jaina Proudmoore
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 3/7
+  Hand (3): Deathwing, Anomalus, Generous Mummy
+  Field: Mistress of Mixtures[2/2], Unpowered Mauler[2/4], Gadgetzan Jouster[1/2], Tomb Spider[3/3]
+Opponent: Rexxar HP: 18, Mana: 1/6
+  Hand (3)
+  Field: Hench-Clan Sneak[3/2], Blubber Baron[4/4], Duskboar[4/1]
+[Turn 7, Step 25] Agent: 선택 - Giant Wasp
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 카드 플레이 - Ironforge Rifleman -> Duskboar (코스트: 3)
+[Turn 7, Step 25] Opponent: 공격 - Hench-Clan Sneak[3/2] -> Mistress of Mixtures
+[Turn 7, Step 25] Opponent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 7, Step 25] Opponent: 공격 - Blubber Baron[4/4] -> Tomb Spider
+[Turn 7, Step 25] Opponent: 영웅 능력 사용
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 카드 플레이 - Anomalus (코스트: 8)
+[Turn 8, Step 27] Agent: 공격 - Gadgetzan Jouster[1/2] -> Rexxar
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 공격 - Ship's Cannon[2/3] -> Gadgetzan Jouster
+[Turn 8, Step 28] Opponent: 공격 - Ironforge Rifleman[2/2] -> Anomalus
+[Turn 8, Step 28] Opponent: 카드 플레이 - Swamp King Dred (코스트: 7)
+[Turn 8, Step 28] Opponent: 공격 - Blubber Baron[4/1] -> Jaina Proudmoore
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 카드 플레이 - Twilight Elder (코스트: 3)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 6/9
+  Hand (4): Deathwing, Generous Mummy, Giant Wasp, Rotten Applebaum
+  Field: Unpowered Mauler[2/4], Anomalus[8/4]
+Opponent: Rexxar HP: 21, Mana: 1/8
+  Hand (2)
+  Field: Blubber Baron[4/1], Ship's Cannon[2/2], Swamp King Dred[9/6]
+[Turn 9, Step 30] Agent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 9, Step 31] Agent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 9, Step 32] Agent: 공격 - Anomalus[8/4] -> Rexxar
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 공격 - Blubber Baron[4/1] -> Generous Mummy
+[Turn 9, Step 33] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 9, Step 33] Opponent: 공격 - Ship's Cannon[2/2] -> Unpowered Mauler
+[Turn 9, Step 33] Opponent: 카드 플레이 - King of Beasts (코스트: 5)
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 카드 플레이 - Deathwing (코스트: 10)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (0): 
+  Field: Deathwing[12/4]
+Opponent: Rexxar HP: 13, Mana: 0/9
+  Hand (1)
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 38] Agent: 공격 - Deathwing[12/4] -> Rexxar
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Mad Summoner[4/4] -> Sludge Belcher
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Sludge Belcher
+[Turn 10, Step 39] Opponent: 카드 플레이 - Medivh, the Guardian (코스트: 8)
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Putrid Slime
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Putrid Slime
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 공격 - Imp[1/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 공격 - Rexxar[1/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (1): Murloc Tastyfin
+  Field: Deathwing[12/4]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (1)
+  Field: Imp[1/1], Imp[1/1], Mad Summoner[4/1], Imp[1/1], Medivh, the Guardian[7/7]
+[Turn 10, Step 40] Agent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 42] Agent: 공격 - Deathwing[12/4] -> Rexxar
+
+--- Game State (Turn 10, Step 43) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 4/10
+  Hand (0): 
+  Field: Deathwing[12/4], Murloc Tastyfin[3/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (1)
+  Field: Imp[1/1], Imp[1/1], Mad Summoner[4/1], Imp[1/1], Medivh, the Guardian[7/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

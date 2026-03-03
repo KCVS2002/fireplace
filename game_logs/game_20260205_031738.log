@@ -1,0 +1,196 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Acherus Veteran -> Murmy (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Acherus Veteran
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 공격 - Murmy[2/1] -> Jaina Proudmoore
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 4, Step 4] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (6): Tentacled Menace, Mana Giant, Hippogryph, Coldarra Drake, Recurring Villain, Infested Tauren
+  Field: Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+  Field: Murmy[2/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 4, Step 5] Opponent: 공격 - Murmy[2/1] -> Chillwind Yeti
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 5, Step 7] Agent: 공격 - Hippogryph[2/6] -> Murmy
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 5, Step 8] Agent: 공격 - Chillwind Yeti[4/3] -> Emperor Cobra
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (7): Tentacled Menace, Mana Giant, Coldarra Drake, Recurring Villain, Infested Tauren, Water Elemental, Apexis Smuggler
+  Field: Hippogryph[2/5]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (8)
+  Field: Cult Master[4/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 6, Step 10] Agent: 공격 - Hippogryph[2/5] -> Cult Master
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Trogg Beastrager (코스트: 2)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Coldarra Drake (코스트: 6)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (6): Tentacled Menace, Mana Giant, Recurring Villain, Infested Tauren, Apexis Smuggler, Micro Machine
+  Field: Hippogryph[2/1], Water Elemental[3/6], Coldarra Drake[6/6]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (7)
+  Field: Trogg Beastrager[3/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 7, Step 15] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 7, Step 15] Opponent: 공격 - Trogg Beastrager[3/2] -> Hippogryph
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Tentacled Menace (코스트: 5)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 9, Step 19] Agent: 카드 플레이 - Nozdormu (코스트: 6)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/9
+  Hand (7): Mana Giant, Recurring Villain, Infested Tauren, Apexis Smuggler, Micro Machine, Fen Creeper, Evasive Wyrm
+  Field: Water Elemental[3/6], Coldarra Drake[6/6], Tentacled Menace[6/5], Nozdormu[8/8]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (9)
+  Field: Haunted Creeper[2/3], Arcane Fletcher[3/3]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(98) → 18로 보정
+[Turn 9, Step 20] Agent: 공격 - Tentacled Menace[6/5] -> Haunted Creeper
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 9, Step 21] Agent: 공격 - Coldarra Drake[6/6] -> Arcane Fletcher
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Spectral Spider
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 9, Step 23] Agent: 공격 - Water Elemental[3/6] -> Spectral Spider
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Gadgetzan Socialite -> Nozdormu (코스트: 2)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Baron Geddon (코스트: 7)
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (8): Mana Giant, Recurring Villain, Infested Tauren, Apexis Smuggler, Micro Machine, Fen Creeper, Evasive Wyrm, Nerubian Prophet
+  Field: Water Elemental[3/3], Coldarra Drake[6/1], Tentacled Menace[6/1], Nozdormu[8/6]
+Opponent: Rexxar HP: 27, Mana: 0/9
+  Hand (8)
+  Field: Baron Geddon[7/5]
+[Turn 10, Step 25] Agent: 카드 플레이 - Recurring Villain (코스트: 5)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(55) → 13로 보정
+[Turn 10, Step 26] Agent: 공격 - Water Elemental[3/3] -> Rexxar
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(29) → 10로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Nozdormu
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 28] Agent: 공격 - Coldarra Drake[6/1] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 29] Agent: 공격 - Nozdormu[8/5] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (7): Mana Giant, Infested Tauren, Apexis Smuggler, Micro Machine, Fen Creeper, Evasive Wyrm, Nerubian Prophet
+  Field: Water Elemental[3/3], Coldarra Drake[6/1], Tentacled Menace[6/1], Nozdormu[8/5], Recurring Villain[3/6]
+Opponent: Rexxar HP: 10, Mana: 0/9
+  Hand (8)
+  Field: Baron Geddon[7/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 31] Agent: 공격 - Tentacled Menace[6/1] -> Baron Geddon
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Electrowright (코스트: 3)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(60) → 28로 보정
+[Turn 10, Step 33] Agent: 공격 - Recurring Villain[3/6] -> Electrowright
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(64) → 16로 보정
+[Turn 10, Step 34] Agent: 공격 - Water Elemental[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (7): Mana Giant, Infested Tauren, Apexis Smuggler, Fen Creeper, Evasive Wyrm, Nerubian Prophet, Doomsayer
+  Field: Water Elemental[3/3], Coldarra Drake[6/1], Nozdormu[8/5], Recurring Villain[3/3], Micro Machine[3/2]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (7)
+  Field: Stormwatcher[4/8]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(78) → 12로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Nozdormu
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(79) → 9로 보정
+[Turn 10, Step 36] Agent: 공격 - Coldarra Drake[6/1] -> Stormwatcher
+[Turn 10, Step 37] Agent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 38] Agent: 공격 - Nozdormu[8/4] -> Rexxar
+
+--- Game State (Turn 10, Step 39) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/10
+  Hand (6): Mana Giant, Infested Tauren, Apexis Smuggler, Fen Creeper, Nerubian Prophet, Doomsayer
+  Field: Water Elemental[3/3], Nozdormu[8/4], Recurring Villain[3/3], Micro Machine[3/2], Evasive Wyrm[5/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Stormwatcher[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

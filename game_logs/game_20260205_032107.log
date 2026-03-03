@@ -1,0 +1,264 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Sanguine Reveler
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (9): Bloodsail Corsair, Nerubian Egg, Star Aligner, The Coin, Recurring Villain, Kazakus, Skelemancer, Crazed Alchemist, Lost Spirit
+  Field: Gravelsnout Knight[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (7)
+  Field: Coldlight Oracle[2/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Crazed Alchemist -> Gravelsnout Knight (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 3, Step 6] Agent: 공격 - Gravelsnout Knight[3/2] -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 3, Step 8] Agent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 3, Step 9] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 공격 - Coldlight Oracle[2/2] -> Nerubian Egg
+[Turn 3, Step 9] Opponent: 영웅 능력 사용
+[Turn 3, Step 9] Opponent: 카드 플레이 - Twisted Worgen (코스트: 2)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Bloodsail Corsair, Star Aligner, Recurring Villain, Kazakus, Skelemancer, Lost Spirit, Kael'thas Sunstrider
+  Field: Gravelsnout Knight[3/2], Crazed Alchemist[2/2], Nerubian[4/4]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (7)
+  Field: Coldlight Oracle[2/2], Twisted Worgen[3/1]
+[Turn 4, Step 10] Agent: 공격 - Gravelsnout Knight[3/2] -> Rexxar
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(96) → 12로 보정
+[Turn 4, Step 11] Agent: 공격 - Nerubian[4/4] -> Rexxar
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 4, Step 12] Agent: 공격 - Crazed Alchemist[2/2] -> Coldlight Oracle
+[Turn 4, Step 13] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 4, Step 14] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 4, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (6): Bloodsail Corsair, Star Aligner, Recurring Villain, Kazakus, Skelemancer, Kael'thas Sunstrider
+  Field: Gravelsnout Knight[3/2], Nerubian[4/4], Lost Spirit[1/1]
+Opponent: Rexxar HP: 19, Mana: 0/4
+  Hand (7)
+  Field: Twisted Worgen[3/1]
+[Turn 4, Step 15] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 4, Step 15] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 15] Opponent: 카드 플레이 - Desert Obelisk (코스트: 5)
+[Turn 4, Step 15] Opponent: 공격 - Twisted Worgen[3/1] -> Jaina Proudmoore
+[Turn 4, Step 15] Opponent: 턴 종료
+[Turn 5, Step 16] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 유효하지 않은 액션 인덱스(20) → 1로 보정
+[Turn 5, Step 17] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 5, Step 18] Agent: 공격 - Gravelsnout Knight[3/2] -> Twisted Worgen
+[Turn 5, Step 19] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 5, Step 19] Agent: 영웅 능력 사용 -> Desert Obelisk
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/5
+  Hand (6): Star Aligner, Recurring Villain, Kazakus, Skelemancer, Kael'thas Sunstrider, Rabble Bouncer
+  Field: Nerubian[4/4], Lost Spirit[1/1], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 18, Mana: 0/5
+  Hand (7)
+  Field: Desert Obelisk[0/4]
+[Turn 5, Step 20] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 유효하지 않은 액션 인덱스(38) → 16로 보정
+[Turn 6, Step 21] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 6, Step 22] Agent: 유효하지 않은 액션 인덱스(41) → 3로 보정
+[Turn 6, Step 22] Agent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 6, Step 23] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 6, Step 23] Agent: 공격 - Nerubian[4/4] -> Rexxar
+[Turn 6, Step 24] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 6, Step 24] Agent: 공격 - Bloodsail Corsair[1/2] -> Frostwolf Warlord
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (6): Star Aligner, Recurring Villain, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scaleworm
+  Field: Nerubian[4/4], Lost Spirit[1/1], Skelemancer[2/2]
+Opponent: Rexxar HP: 13, Mana: 1/6
+  Hand (7)
+  Field: Desert Obelisk[0/4], Frostwolf Warlord[5/4]
+[Turn 6, Step 25] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 6, Step 25] Opponent: 공격 - Frostwolf Warlord[5/4] -> Jaina Proudmoore
+[Turn 6, Step 25] Opponent: 공격 - Ruststeed Raider[5/8] -> Nerubian
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 유효하지 않은 액션 인덱스(97) → 12로 보정
+[Turn 7, Step 26] Agent: 영웅 능력 사용 -> Frostwolf Warlord
+[Turn 7, Step 27] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 7, Step 27] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+[Turn 7, Step 28] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 7, Step 28] Agent: 공격 - Lost Spirit[1/1] -> Ruststeed Raider
+[Turn 7, Step 29] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 7, Step 29] Agent: 공격 - Skelemancer[3/2] -> Ruststeed Raider
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/7
+  Hand (6): Star Aligner, Recurring Villain, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scaleworm
+  Field: Skelemancer[3/1], Neferset Ritualist[3/3]
+Opponent: Rexxar HP: 13, Mana: 2/7
+  Hand (7)
+  Field: Desert Obelisk[0/4], Frostwolf Warlord[5/3]
+[Turn 7, Step 30] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 7, Step 30] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 30] Opponent: 턴 종료
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 8, Step 31] Agent: 공격 - Skelemancer[3/1] -> Frostwolf Warlord
+[Turn 8, Step 32] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 8, Step 32] Agent: 카드 플레이 - Recurring Villain (코스트: 5)
+[Turn 8, Step 33] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 8, Step 33] Agent: 영웅 능력 사용 -> Neferset Ritualist
+[Turn 8, Step 34] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 8, Step 34] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 34] Opponent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 8, Step 34] Opponent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 8, Step 34] Opponent: 영웅 능력 사용
+[Turn 8, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): C'Thun's Chosen, Star Aligner, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scaleworm, Scavenging Shivarra
+  Field: Neferset Ritualist[3/2], Recurring Villain[3/6]
+Opponent: Rexxar HP: 13, Mana: 1/9
+  Hand (7)
+  Field: Desert Obelisk[0/4], Wild Pyromancer[3/2], Gormok the Impaler[4/4]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(56) → 10로 보정
+[Turn 9, Step 35] Agent: 영웅 능력 사용 -> Desert Obelisk
+[Turn 9, Step 36] Agent: 카드 플레이 - Scaleworm (코스트: 4)
+[Turn 9, Step 37] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 9, Step 37] Agent: 공격 - Recurring Villain[3/6] -> Rexxar
+[Turn 9, Step 38] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 9, Step 38] Agent: 공격 - Neferset Ritualist[3/2] -> Rexxar
+[Turn 9, Step 39] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 9, Step 39] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 39] Opponent: 영웅 능력 사용
+[Turn 9, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Injured Blademaster, C'Thun's Chosen, Star Aligner, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scavenging Shivarra
+  Field: Neferset Ritualist[3/2], Recurring Villain[3/6], Scaleworm[4/4]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (8)
+  Field: Desert Obelisk[0/3], Wild Pyromancer[3/2], Gormok the Impaler[4/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Star Aligner (코스트: 7)
+[Turn 10, Step 41] Agent: 공격 - Scaleworm[4/4] -> Wild Pyromancer
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Gormok the Impaler
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 43] Agent: 공격 - Recurring Villain[3/6] -> Gormok the Impaler
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Injured Blademaster, C'Thun's Chosen, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scavenging Shivarra, Firetree Witchdoctor
+  Field: Neferset Ritualist[3/2], Recurring Villain[3/2], Scaleworm[4/1], Star Aligner[7/7]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (9)
+  Field: Desert Obelisk[0/3]
+[Turn 10, Step 45] Agent: 공격 - Recurring Villain[3/2] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Loot Hoarder (코스트: 2)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(48) → 23로 보정
+[Turn 10, Step 48] Agent: 공격 - Star Aligner[7/7] -> Loot Hoarder
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Injured Blademaster (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/10
+  Hand (7): Mogor the Ogre, C'Thun's Chosen, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scavenging Shivarra, Firetree Witchdoctor
+  Field: Neferset Ritualist[3/2], Recurring Villain[3/2], Scaleworm[4/1], Star Aligner[7/5], Injured Blademaster[4/3]
+Opponent: Rexxar HP: 4, Mana: 5/10
+  Hand (9)
+  Field: Desert Obelisk[0/3], Silithid Swarmer[3/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 50] Agent: 공격 - Neferset Ritualist[3/2] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 51] Agent: 공격 - Scaleworm[4/1] -> Silithid Swarmer
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 10, Step 53] Agent: 공격 - Recurring Villain[3/2] -> Silithid Swarmer
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Blowgill Sniper -> Jaina Proudmoore (코스트: 2)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (7): Mogor the Ogre, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scavenging Shivarra, Firetree Witchdoctor, Stoneskin Basilisk
+  Field: Neferset Ritualist[3/2], Star Aligner[7/5], Injured Blademaster[4/3], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 1, Mana: 8/10
+  Hand (9)
+  Field: Desert Obelisk[0/3], Blowgill Sniper[2/1]
+[Turn 10, Step 55] Agent: 공격 - Star Aligner[7/5] -> Rexxar
+
+--- Game State (Turn 10, Step 56) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (7): Mogor the Ogre, Kazakus, Kael'thas Sunstrider, Rabble Bouncer, Scavenging Shivarra, Firetree Witchdoctor, Stoneskin Basilisk
+  Field: Neferset Ritualist[3/2], Star Aligner[7/5], Injured Blademaster[4/3], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (9)
+  Field: Desert Obelisk[0/3], Blowgill Sniper[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

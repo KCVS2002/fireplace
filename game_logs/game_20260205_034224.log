@@ -1,0 +1,194 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Cursed Disciple, Auctionmaster Beardo, Mad Scientist, Skycap'n Kragg, Nerubian Unraveler, Lesser Ruby Spellstone, Stonetusk Boar
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Twilight Elder[3/4]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Twilight Elder
+[Turn 4, Step 8] Agent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Fire Plume Phoenix -> Jaina Proudmoore (코스트: 4)
+[Turn 4, Step 9] Opponent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 4, Step 9] Opponent: 공격 - Twilight Elder[3/3] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (8): Foe Reaper 4000, Cursed Disciple, Auctionmaster Beardo, Skycap'n Kragg, Nerubian Unraveler, Lesser Ruby Spellstone, Stonetusk Boar, Primordial Drake
+  Field: Mad Scientist[2/2]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (5)
+  Field: Twilight Elder[3/3], Fire Plume Phoenix[3/3], Angry Chicken[1/1]
+[Turn 5, Step 10] Agent: 공격 - Mad Scientist[2/2] -> Twilight Elder
+[Turn 5, Step 11] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Wing Blast -> Fire Plume Phoenix (코스트: 4)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (7): Foe Reaper 4000, Cursed Disciple, Skycap'n Kragg, Lesser Ruby Spellstone, Stonetusk Boar, Primordial Drake, Kooky Chemist
+  Field: Auctionmaster Beardo[3/4], Nerubian Unraveler[5/5]
+Opponent: Rexxar HP: 29, Mana: 2/6
+  Hand (5)
+  Field: Twilight Elder[3/1], Angry Chicken[1/1]
+[Turn 6, Step 15] Agent: 공격 - Auctionmaster Beardo[3/4] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Angry Chicken[1/1] -> Nerubian Unraveler
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Auctionmaster Beardo[3/4] -> Rexxar
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (9): Foe Reaper 4000, Cursed Disciple, Skycap'n Kragg, Lesser Ruby Spellstone, Stonetusk Boar, Primordial Drake, Kooky Chemist, Chillwind Yeti, Meteorologist
+  Field: Auctionmaster Beardo[3/4], Nerubian Unraveler[5/4]
+Opponent: Rexxar HP: 22, Mana: 2/8
+  Hand (5)
+  Field: Twilight Elder[3/1], Untamed Beastmaster[3/4], Emperor Cobra[2/3]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 21] Agent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+[Turn 8, Step 22] Agent: 공격 - Stonetusk Boar[1/1] -> Rexxar
+[Turn 8, Step 23] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 8, Step 24] Agent: 공격 - Nerubian Unraveler[5/4] -> Emperor Cobra
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (7): Foe Reaper 4000, Cursed Disciple, Skycap'n Kragg, Lesser Ruby Spellstone, Primordial Drake, Kooky Chemist, Meteorologist
+  Field: Auctionmaster Beardo[3/4], Stonetusk Boar[1/1], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 20, Mana: 2/8
+  Hand (5)
+  Field: Twilight Elder[3/1], Untamed Beastmaster[3/4]
+[Turn 8, Step 25] Agent: 공격 - Auctionmaster Beardo[3/4] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 8, Step 26] Opponent: 공격 - Untamed Beastmaster[3/4] -> Auctionmaster Beardo
+[Turn 8, Step 26] Opponent: 공격 - Twilight Elder[3/1] -> Jaina Proudmoore
+[Turn 8, Step 26] Opponent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Kooky Chemist -> Auctionmaster Beardo (코스트: 4)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Foe Reaper 4000, Cursed Disciple, Skycap'n Kragg, Lesser Ruby Spellstone, Primordial Drake, Meteorologist, Scarlet Crusader, Marsh Drake
+  Field: Auctionmaster Beardo[1/3], Stonetusk Boar[1/1], Chillwind Yeti[4/5], Kooky Chemist[4/4]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (5)
+  Field: Twilight Elder[3/1], Untamed Beastmaster[3/1], Clockwork Automaton[4/4], Mindbreaker[2/5]
+[Turn 10, Step 30] Agent: 공격 - Stonetusk Boar[1/1] -> Rexxar
+[Turn 10, Step 31] Agent: 공격 - Auctionmaster Beardo[1/3] -> Mindbreaker
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 공격 - Twilight Elder[3/1] -> Chillwind Yeti
+[Turn 10, Step 32] Opponent: 공격 - Mindbreaker[2/4] -> Auctionmaster Beardo
+[Turn 10, Step 32] Opponent: 공격 - Clockwork Automaton[4/4] -> Stonetusk Boar
+[Turn 10, Step 32] Opponent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Stormhammer (코스트: 3)
+[Turn 10, Step 32] Opponent: 공격 - Untamed Beastmaster[3/1] -> Chillwind Yeti
+[Turn 10, Step 32] Opponent: 공격 - Rexxar[3/12] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 10, Step 34] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (7): Foe Reaper 4000, Cursed Disciple, Skycap'n Kragg, Lesser Ruby Spellstone, Primordial Drake, Scarlet Crusader, Marsh Drake
+  Field: Kooky Chemist[4/4], Zombie Chow[2/3], Meteorologist[3/3]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (5)
+[Turn 10, Step 35] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Skycap'n Kragg (코스트: 7)
+[Turn 10, Step 38] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (7): Foe Reaper 4000, Cursed Disciple, Primordial Drake, Scarlet Crusader, Marsh Drake, Magic Trick, Whirliglider
+  Field: Kooky Chemist[4/4], Zombie Chow[2/3], Meteorologist[3/3], Skycap'n Kragg[4/6]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Rexxar[3/8] -> Kooky Chemist
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 10, Step 42] Agent: 선택 - Counterspell
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 10, Step 44] Agent: 공격 - Skycap'n Kragg[4/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (8): Foe Reaper 4000, Cursed Disciple, Primordial Drake, Scarlet Crusader, Marsh Drake, Red Mana Wyrm, Counterspell, Clockwork Gnome
+  Field: Kooky Chemist[4/1], Zombie Chow[2/3], Meteorologist[3/3], Skycap'n Kragg[4/6], Whirliglider[2/1], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (8): Foe Reaper 4000, Cursed Disciple, Primordial Drake, Scarlet Crusader, Marsh Drake, Red Mana Wyrm, Counterspell, Clockwork Gnome
+  Field: Kooky Chemist[4/1], Zombie Chow[2/3], Meteorologist[3/3], Skycap'n Kragg[4/6], Whirliglider[2/1], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

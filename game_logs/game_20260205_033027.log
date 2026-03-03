@@ -1,0 +1,378 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(59) → 5로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Saronite Taskmaster
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Saronite Taskmaster[2/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 공격 - Murloc Raider[2/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Saronite Taskmaster[2/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (6): Dragonhatcher, Sandbinder, Felsoul Inquisitor, Naga Sea Witch, Wild Pyromancer, Mischief Maker
+  Field: Scarab Egg[0/2]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+  Field: Murloc Raider[2/1], Saronite Taskmaster[2/2], River Crocolisk[2/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(65) → 10로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(28) → 6로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 5, Step 9] Opponent: 공격 - Saronite Taskmaster[2/2] -> Wild Pyromancer
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/6
+  Hand (7): Dragonhatcher, Sandbinder, Felsoul Inquisitor, Naga Sea Witch, Mischief Maker, Deathwing, Burly Rockjaw Trogg
+  Field: Scarab Egg[0/1], Free Agent[0/3]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Murloc Raider[2/1], River Crocolisk[2/3], Rustsworn Cultist[3/3], Rusted Devil[1/1]
+[Turn 6, Step 10] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(15) → 5로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 공격 - Rusted Devil[1/1] -> Free Agent
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(88) → 14로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Scarab
+[Turn 7, Step 14] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/7
+  Hand (7): Dragonhatcher, Felsoul Inquisitor, Naga Sea Witch, Mischief Maker, Deathwing, Magma Rager, Silithid Swarmer
+  Field: Scarab[1/1], Scarab[1/1], Free Agent[0/2], Sandbinder[2/4], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 29, Mana: 4/6
+  Hand (6)
+  Field: Murloc Raider[2/1], River Crocolisk[2/3], Rustsworn Cultist[3/3], Rusted Devil[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 7, Step 15] Agent: 공격 - Scarab[1/1] -> River Crocolisk
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 7, Step 16] Agent: 공격 - Sandbinder[2/4] -> Murloc Raider
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 7, Step 17] Agent: 공격 - Scarab[1/1] -> River Crocolisk
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 7, Step 18] Opponent: 공격 - Rusted Devil[1/1] -> Free Agent
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Burly Rockjaw Trogg[3/5] -> High Inquisitor Whitemane
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/8
+  Hand (8): Animated Avalanche, Dragonhatcher, Felsoul Inquisitor, Naga Sea Witch, Mischief Maker, Deathwing, Magma Rager, Silithid Swarmer
+  Field: Free Agent[0/1], Sandbinder[2/2]
+Opponent: Rexxar HP: 29, Mana: 0/7
+  Hand (6)
+  Field: River Crocolisk[2/1], Rustsworn Cultist[3/3], Rusted Devil[1/1], Rusted Devil[1/1], High Inquisitor Whitemane[6/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(80) → 14로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Rusted Devil
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Magma Rager (코스트: 3)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 8, Step 22] Agent: 공격 - Sandbinder[2/2] -> River Crocolisk
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Rusted Devil[1/1] -> Free Agent
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/9
+  Hand (7): Animated Avalanche, Dragonhatcher, Felsoul Inquisitor, Naga Sea Witch, Mischief Maker, Deathwing, Reno the Relicologist
+  Field: Magma Rager[5/1], Silithid Swarmer[3/5]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (7)
+  Field: Rustsworn Cultist[3/3], Rusted Devil[1/1], High Inquisitor Whitemane[6/5], Rusted Devil[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(50) → 10로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Rusted Devil
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 공격 - Rustsworn Cultist[3/3] -> Jaina Proudmoore
+[Turn 9, Step 26] Opponent: 공격 - High Inquisitor Whitemane[6/5] -> Jaina Proudmoore
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Animated Avalanche (코스트: 7)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Rusted Devil
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (8): Dragonhatcher, Felsoul Inquisitor, Naga Sea Witch, Mischief Maker, Deathwing, Reno the Relicologist, Arcane Giant, Sabretooth Stalker
+  Field: Magma Rager[5/1], Silithid Swarmer[3/5], Animated Avalanche[7/6]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (9)
+  Field: Rustsworn Cultist[3/3], High Inquisitor Whitemane[6/5]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Silithid Swarmer
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 10, Step 32] Agent: 공격 - Animated Avalanche[7/6] -> Rustsworn Cultist
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 33] Agent: 공격 - Magma Rager[5/1] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - High Inquisitor Whitemane[6/5] -> Magma Rager
+[Turn 10, Step 34] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 10, Step 34] Opponent: 선택 - Cinderstorm
+[Turn 10, Step 34] Opponent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (8): Dragonhatcher, Felsoul Inquisitor, Naga Sea Witch, Deathwing, Reno the Relicologist, Arcane Giant, Sabretooth Stalker, Mini-Mage
+  Field: Silithid Swarmer[3/4], Animated Avalanche[7/3], Mischief Maker[3/3]
+Opponent: Rexxar HP: 24, Mana: 3/10
+  Hand (9)
+  Field: Kabal Courier[2/2], Evasive Feywing[5/4]
+[Turn 10, Step 35] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Cinderstorm (코스트: 3)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(36) → 3로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Deathwing (코스트: 10)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (1): Emerald Reaver
+  Field: Deathwing[12/10]
+Opponent: Rexxar HP: 24, Mana: 0/10
+  Hand (7)
+  Field: Corrupted Seer[2/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 41] Agent: 공격 - Deathwing[12/10] -> Corrupted Seer
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(52) → 8로 보정
+[Turn 10, Step 43] Agent: 공격 - Deathwing[12/8] -> Kobold Stickyfinger
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Supreme Abyssal (코스트: 8)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 2/10
+  Hand (0): 
+  Field: Deathwing[12/4], Emerald Reaver[2/1], Supreme Abyssal[12/12]
+Opponent: Rexxar HP: 23, Mana: 5/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Deathwing
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Stormpike Commando -> Jaina Proudmoore (코스트: 5)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(82) → 12로 보정
+[Turn 10, Step 48] Agent: 공격 - Emerald Reaver[2/1] -> Stormpike Commando
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Scaleworm (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 6/10
+  Hand (1): Tentacle of N'Zoth
+  Field: Deathwing[12/3], Supreme Abyssal[12/12], Scaleworm[4/4]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Deathwing
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Deathwing[12/2] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 52] Opponent: 공격 - Batterhead[3/12] -> Deathwing
+[Turn 10, Step 52] Opponent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(14) → 3로 보정
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (3): Tentacle of N'Zoth, Zayle, Shadow Cloak, Dragonhatcher
+  Field: Supreme Abyssal[12/12], Scaleworm[4/4]
+Opponent: Rexxar HP: 11, Mana: 5/10
+  Hand (7)
+  Field: Acidic Swamp Ooze[3/2], Guild Recruiter[2/4], Jungle Panther[4/2]
+[Turn 10, Step 55] Agent: 공격 - Scaleworm[4/4] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 57] Agent: 공격 - Supreme Abyssal[12/12] -> Acidic Swamp Ooze
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 10, Step 58] Opponent: 공격 - Guild Recruiter[2/4] -> Scaleworm
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 59] Agent: 공격 - Dragonhatcher[2/4] -> Shimmering Courser
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (3): Portal Keeper, Tentacle of N'Zoth, Zayle, Shadow Cloak
+  Field: Supreme Abyssal[12/9], Scaleworm[4/2], Dragonhatcher[2/1]
+Opponent: Rexxar HP: 7, Mana: 4/10
+  Hand (6)
+  Field: Jungle Panther[4/2], Shimmering Courser[3/1], Emperor Cobra[2/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Dragonhatcher
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 61] Agent: 공격 - Scaleworm[4/2] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 10, Step 63] Agent: 공격 - Supreme Abyssal[12/9] -> Shimmering Courser
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (3): Tentacle of N'Zoth, Zayle, Shadow Cloak, Missile Launcher
+  Field: Supreme Abyssal[12/6], Scaleworm[4/2], Portal Keeper[5/2]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (7)
+  Field: Jungle Panther[4/2], Emperor Cobra[2/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(25) → 10로 보정
+[Turn 10, Step 65] Agent: 공격 - Supreme Abyssal[12/6] -> Emperor Cobra
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(24) → 6로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Earthen Ring Farseer -> Scaleworm (코스트: 3)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 68] Agent: 공격 - Portal Keeper[5/2] -> Kvaldir Raider
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (3): Tentacle of N'Zoth, Zayle, Shadow Cloak, Missile Launcher
+  Field: Scaleworm[4/4], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 3, Mana: 5/10
+  Hand (7)
+  Field: Jungle Panther[4/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Earthen Ring Farseer
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 72] Agent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Forbidden Flame -> Earthen Ring Farseer (코스트: 0)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 10, Step 74] Agent: 공격 - Scaleworm[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (2): Zayle, Shadow Cloak, Missile Launcher
+  Field: Scaleworm[4/4], Felhound[2/2], Tentacle of N'Zoth[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Jungle Panther[4/2]
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (2): Zayle, Shadow Cloak, Missile Launcher
+  Field: Scaleworm[4/4], Felhound[2/2], Tentacle of N'Zoth[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Jungle Panther[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,279 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (6): Batterhead, Hemet Nesingwary, Fallen Hero, Lil' Exorcist, Dragonslayer, Goblin Bomb
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (4)
+  Field: Infectious Sporeling[1/2]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 3, Step 7] Agent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 공격 - Infectious Sporeling[1/1] -> Goblin Bomb
+[Turn 3, Step 8] Opponent: 카드 플레이 - Gadgetzan Socialite -> Rexxar (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (8): Batterhead, Hemet Nesingwary, Fallen Hero, Lil' Exorcist, Dragonslayer, Font of Power, Plated Beetle, Stormwind Knight
+  Field: Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (6)
+  Field: Infectious Sporeling[1/1], Gadgetzan Socialite[2/2]
+[Turn 5, Step 10] Agent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 5, Step 11] Agent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Infectious Sporeling
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 공격 - Lil' Exorcist[2/3] -> Gadgetzan Socialite
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (8): Batterhead, Hemet Nesingwary, Fallen Hero, Dragonslayer, Font of Power, Plated Beetle, Stormwind Knight, Vilefiend
+  Field: Lil' Exorcist[2/1]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (7)
+  Field: Infectious Sporeling[1/2]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Fallen Hero (코스트: 2)
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Lil' Exorcist
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Fallen Hero[3/2] -> Psych-o-Tron
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (9): Azure Explorer, Batterhead, Hemet Nesingwary, Dragonslayer, Font of Power, Plated Beetle, Stormwind Knight, Vilefiend, Bull Dozer
+Opponent: Rexxar HP: 30, Mana: 4/8
+  Hand (7)
+  Field: Infectious Sporeling[1/2], Psych-o-Tron[3/4], Enhance-o Mechano[3/2]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Psych-o-Tron
+[Turn 8, Step 21] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 8, Step 22] Agent: 선택 - Astromancer Solarian
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 24] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/9
+  Hand (9): Azure Explorer, Batterhead, Hemet Nesingwary, Plated Beetle, Stormwind Knight, Vilefiend, Bull Dozer, Astromancer Solarian, Replicat-o-tron
+  Field: Dragonslayer[4/3]
+Opponent: Rexxar HP: 30, Mana: 9/9
+  Hand (8)
+  Field: Infectious Sporeling[1/2], Psych-o-Tron[3/3], Enhance-o Mechano[3/2]
+[Turn 9, Step 25] Agent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 9, Step 26] Opponent: 공격 - Enhance-o Mechano[3/2] -> Dragonslayer
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Bull Dozer (코스트: 9)
+[Turn 10, Step 28] Agent: 공격 - Vilefiend[2/2] -> Psych-o-Tron
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (9): Azure Explorer, Batterhead, Hemet Nesingwary, Plated Beetle, Stormwind Knight, Astromancer Solarian, Replicat-o-tron, Water Elemental, Dragon's Breath
+  Field: Bull Dozer[9/7]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2], Psych-o-Tron[3/1], Regeneratin' Thug[3/5]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Bull Dozer
+[Turn 10, Step 31] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+[Turn 10, Step 32] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+[Turn 10, Step 33] Agent: 카드 플레이 - Plated Beetle (코스트: 2)
+[Turn 10, Step 34] Agent: 공격 - Bull Dozer[9/7] -> Psych-o-Tron
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/10
+  Hand (6): Azure Explorer, Batterhead, Hemet Nesingwary, Stormwind Knight, Replicat-o-tron, Dragon's Breath
+  Field: Bull Dozer[9/4], Water Elemental[3/6], Astromancer Solarian[3/2], Plated Beetle[2/3]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (9)
+  Field: Infectious Sporeling[1/2], Regeneratin' Thug[3/5]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Regeneratin' Thug[3/5] -> Astromancer Solarian
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Bull Dozer[9/4] -> Regeneratin' Thug
+[Turn 10, Step 37] Agent: 공격 - Plated Beetle[2/3] -> Rexxar
+[Turn 10, Step 38] Agent: 카드 플레이 - Dragon's Breath -> Bull Dozer (코스트: 4)
+[Turn 10, Step 39] Agent: 카드 플레이 - Stormwind Knight (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (5): Am'gam Rager, Azure Explorer, Batterhead, Hemet Nesingwary, Replicat-o-tron
+  Field: Water Elemental[3/6], Plated Beetle[2/3], Stormwind Knight[2/5]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: Infectious Sporeling[1/2]
+[Turn 10, Step 40] Agent: 공격 - Water Elemental[3/6] -> Infectious Sporeling
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 공격 - Stormwind Knight[2/5] -> Rexxar
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Giggling Inventor (코스트: 6)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Infectious Sporeling
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Am'gam Rager, Azure Explorer, Batterhead, Hemet Nesingwary, Replicat-o-tron, Marsh Drake
+  Field: Infectious Sporeling[1/1], Plated Beetle[2/3], Stormwind Knight[2/5]
+Opponent: Rexxar HP: 25, Mana: 4/10
+  Hand (9)
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2]
+[Turn 10, Step 45] Agent: 공격 - Stormwind Knight[2/5] -> Annoy-o-Tron
+[Turn 10, Step 46] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+[Turn 10, Step 47] Agent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 10, Step 48] Agent: 공격 - Plated Beetle[2/3] -> Annoy-o-Tron
+[Turn 10, Step 49] Agent: 공격 - Infectious Sporeling[1/1] -> Annoy-o-Tron
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (4): Azure Explorer, Batterhead, Hemet Nesingwary, Marsh Drake
+  Field: Plated Beetle[2/2], Stormwind Knight[2/4], Am'gam Rager[1/5], Replicat-o-tron[3/3]
+Opponent: Rexxar HP: 25, Mana: 4/10
+  Hand (9)
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 공격 - Giggling Inventor[2/1] -> Replicat-o-tron
+[Turn 10, Step 50] Opponent: 카드 플레이 - Brainstormer (코스트: 3)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Arcane Tyrant (코스트: 5)
+[Turn 10, Step 50] Opponent: 공격 - Annoy-o-Tron[1/2] -> Stormwind Knight
+[Turn 10, Step 50] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Wisp (코스트: 0)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Wisp
+[Turn 10, Step 52] Agent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Omega Defender (코스트: 4)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 공격 - Corpsetaker[3/3] -> Bonechewer Brawler
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Azure Explorer, Batterhead, Hemet Nesingwary, Marsh Drake, Elemental Allies
+  Field: Plated Beetle[2/2], Stormwind Knight[2/3], Replicat-o-tron[3/1], Replicat-o-tron[3/1], Corpsetaker[3/1]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (5)
+  Field: Brainstormer[3/1], Arcane Tyrant[4/4], Omega Defender[12/6], Gentle Megasaur[5/4]
+[Turn 10, Step 55] Agent: 카드 플레이 - Azure Explorer (코스트: 4)
+[Turn 10, Step 56] Agent: 선택 - Crowd Roaster
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Brainstormer[3/1] -> Replicat-o-tron
+[Turn 10, Step 56] Opponent: 공격 - Gentle Megasaur[5/4] -> Replicat-o-tron
+[Turn 10, Step 56] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Replicat-o-tron[3/1] -> Omega Defender
+[Turn 10, Step 58] Agent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 59] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (4): Hemet Nesingwary, Marsh Drake, Crowd Roaster, Night Howler
+  Field: Plated Beetle[2/2], Replicat-o-tron[3/1], Azure Explorer[2/3], Batterhead[3/12]
+Opponent: Rexxar HP: 25, Mana: 3/10
+  Hand (5)
+  Field: Arcane Tyrant[4/4], Omega Defender[12/3], Gentle Megasaur[5/1], Clockwork Automaton[4/4]
+[Turn 10, Step 60] Agent: 공격 - Batterhead[3/12] -> Omega Defender
+[Turn 10, Step 61] Agent: 공격 - Replicat-o-tron[3/1] -> Arcane Tyrant
+[Turn 10, Step 62] Agent: 공격 - Azure Explorer[2/3] -> Gentle Megasaur
+[Turn 10, Step 63] Agent: 공격 - Plated Beetle[2/2] -> Rexxar
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 공격 - Arcane Tyrant[4/1] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 10, Step 64] Opponent: 공격 - Clockwork Automaton[4/4] -> Plated Beetle
+[Turn 10, Step 64] Opponent: 영웅 능력 사용
+[Turn 10, Step 64] Opponent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (6): Deck of Wonders, Hemet Nesingwary, Marsh Drake, Crowd Roaster, Night Howler, I Am Murloc
+Opponent: Rexxar HP: 23, Mana: 0/10
+  Hand (6)
+  Field: Arcane Tyrant[4/1], Clockwork Automaton[4/2], Elite Tauren Chieftain[5/5], Tinkertown Technician[4/4]
+[Turn 10, Step 65] Agent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 카드 플레이 - I Am Murloc (코스트: 4)
+[Turn 10, Step 67] Opponent: 카드 플레이 - Time Rewinder -> Murloc (코스트: 1)
+[Turn 10, Step 67] Opponent: 공격 - Clockwork Automaton[4/2] -> Jaina Proudmoore
+[Turn 10, Step 67] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 67] Opponent: 공격 - Arcane Tyrant[4/1] -> Jaina Proudmoore
+[Turn 10, Step 67] Opponent: 공격 - Elite Tauren Chieftain[5/5] -> Night Howler
+[Turn 10, Step 67] Opponent: 영웅 능력 사용
+[Turn 10, Step 67] Opponent: 공격 - Tinkertown Technician[4/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 4/10
+  Hand (5): Deck of Wonders, Hemet Nesingwary, Marsh Drake, Crowd Roaster, I Am Murloc
+Opponent: Rexxar HP: 23, Mana: 1/10
+  Hand (5)
+  Field: Arcane Tyrant[4/1], Clockwork Automaton[4/2], Elite Tauren Chieftain[5/2], Tinkertown Technician[4/4], Murloc[1/1], Murloc[1/1], Flame Juggler[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

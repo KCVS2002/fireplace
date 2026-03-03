@@ -1,0 +1,119 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 1, Step 3] Opponent: 공격 - Stonetusk Boar[1/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Snap Freeze -> Nerubian Egg (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (4): Frenzied Felwing, Soulbound Ashtongue, Simulacrum, Faceless Manipulator
+  Field: Swamp Leech[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (3)
+  Field: Stonetusk Boar[1/1], Nerubian Egg[0/2]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Stonetusk Boar[1/1] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Flame Juggler
+[Turn 3, Step 7] Agent: 카드 플레이 - Soulbound Ashtongue (코스트: 1)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 3, Step 8] Opponent: 공격 - Flame Juggler[2/2] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/4
+  Hand (4): Simulacrum, Faceless Manipulator, Bonemare, Dr. Boom
+  Field: Soulbound Ashtongue[1/4], Frenzied Felwing[3/2]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (3)
+  Field: Nerubian Egg[0/2], Flame Juggler[2/2], Mad Bomber[3/2]
+[Turn 4, Step 10] Agent: 공격 - Soulbound Ashtongue[1/4] -> Mad Bomber
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 4, Step 11] Opponent: 공격 - Mad Bomber[3/1] -> Frenzied Felwing
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Void Ripper (코스트: 3)
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 5, Step 13] Opponent: 공격 - Saronite Taskmaster[3/2] -> Soulbound Ashtongue
+[Turn 5, Step 13] Opponent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Toothy Chest
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/6
+  Hand (5): Simulacrum, Faceless Manipulator, Bonemare, Dr. Boom, Jar Dealer
+  Field: Void Ripper[3/3]
+Opponent: Rexxar HP: 29, Mana: 0/6
+  Hand (2)
+  Field: Nerubian[4/4], Flame Juggler[2/2], Saronite Taskmaster[3/1], Toothy Chest[0/3], History Buff[3/4]
+[Turn 6, Step 15] Agent: 공격 - Void Ripper[3/3] -> Saronite Taskmaster
+[Turn 6, Step 16] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+[Turn 6, Step 17] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - History Buff[3/4] -> Free Agent
+[Turn 6, Step 18] Opponent: 공격 - Toothy Chest[4/3] -> Jar Dealer
+[Turn 6, Step 18] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+[Turn 6, Step 18] Opponent: 공격 - Flame Juggler[2/2] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> History Buff
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/7
+  Hand (6): Faceless Manipulator, Bonemare, Dr. Boom, Jar Dealer, Daring Fire-Eater, Zilliax
+Opponent: Rexxar HP: 29, Mana: 0/7
+  Hand (1)
+  Field: Nerubian[4/4], Flame Juggler[2/2], Toothy Chest[4/2], History Buff[3/3], Injured Blademaster[4/3], Oasis Snapjaw[3/8]
+[Turn 7, Step 20] Agent: 카드 플레이 - Faceless Manipulator -> History Buff (코스트: 5)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 공격 - History Buff[3/3] -> History Buff
+[Turn 7, Step 21] Opponent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 7, Step 21] Opponent: 공격 - Oasis Snapjaw[3/8] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 공격 - Toothy Chest[4/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 공격 - Injured Blademaster[4/3] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 공격 - Flame Juggler[2/2] -> Jaina Proudmoore
+
+--- Game State (Turn 7, Step 22) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/7
+  Hand (5): Bonemare, Dr. Boom, Jar Dealer, Daring Fire-Eater, Zilliax
+Opponent: Rexxar HP: 29, Mana: 1/8
+  Hand (1)
+  Field: Nerubian[4/4], Flame Juggler[2/2], Toothy Chest[4/2], Injured Blademaster[4/3], Oasis Snapjaw[3/8], Doppelgangster[3/3], Doppelgangster[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

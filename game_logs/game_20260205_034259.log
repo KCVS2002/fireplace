@@ -1,0 +1,246 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Rocket Augmerchant (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 공격 - Rocket Augmerchant[2/1] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (5): Zul'Drak Ritualist, Faceless Rager, Living Monument, Firetree Witchdoctor, Hench-Clan Hag
+  Field: Rocket Augmerchant[2/1]
+Opponent: Rexxar HP: 28, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Rocket Augmerchant
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Faceless Rager (코스트: 3)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Pantry Spider (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Zul'Drak Ritualist (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (5): Bone Wraith, Living Monument, Firetree Witchdoctor, Hench-Clan Hag, Sunwalker
+  Field: Faceless Rager[5/1], Zul'Drak Ritualist[3/9]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (5)
+  Field: Wax Elemental[0/2], Pantry Spider[1/3], Dust Devil[3/1], Malchezaar's Imp[1/3], Shadowhoof Slayer[2/1], Cellar Spider[1/3]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 4, Step 10] Opponent: 공격 - Malchezaar's Imp[1/3] -> Zul'Drak Ritualist
+[Turn 4, Step 10] Opponent: 공격 - Dust Devil[3/1] -> Zul'Drak Ritualist
+[Turn 4, Step 10] Opponent: 공격 - Pantry Spider[1/3] -> Zul'Drak Ritualist
+[Turn 4, Step 10] Opponent: 공격 - Shadowhoof Slayer[2/1] -> Zul'Drak Ritualist
+[Turn 4, Step 10] Opponent: 공격 - Cellar Spider[1/3] -> Zul'Drak Ritualist
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Zul'Drak Ritualist
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 5, Step 12] Opponent: 공격 - Kvaldir Raider[6/6] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Kvaldir Raider
+[Turn 6, Step 14] Agent: 공격 - Faceless Rager[5/1] -> Wax Elemental
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/6
+  Hand (7): Bone Wraith, Living Monument, Firetree Witchdoctor, Hench-Clan Hag, Sunwalker, Nerubian Unraveler, Cursed Disciple
+  Field: Faceless Rager[5/1]
+Opponent: Rexxar HP: 28, Mana: 2/6
+  Hand (5)
+  Field: Wax Elemental[0/2], Kvaldir Raider[6/5], Nat Pagle[0/4]
+[Turn 6, Step 15] Agent: 카드 플레이 - Firetree Witchdoctor (코스트: 2)
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 6, Step 16] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - Sunwalker (코스트: 6)
+[Turn 7, Step 18] Agent: 공격 - Faceless Rager[5/1] -> Wax Elemental
+[Turn 7, Step 19] Agent: 공격 - Firetree Witchdoctor[2/2] -> Mindbreaker
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/7
+  Hand (6): Puzzle Box of Yogg-Saron, Bone Wraith, Living Monument, Hench-Clan Hag, Nerubian Unraveler, Cursed Disciple
+  Field: Faceless Rager[5/1], Sunwalker[4/5]
+Opponent: Rexxar HP: 28, Mana: 2/7
+  Hand (5)
+  Field: Kvaldir Raider[6/5], Nat Pagle[0/4], Mindbreaker[2/3]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 공격 - Kvaldir Raider[6/5] -> Sunwalker
+[Turn 7, Step 20] Opponent: 카드 플레이 - Emperor Thaurissan (코스트: 6)
+[Turn 7, Step 20] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 7, Step 20] Opponent: 공격 - Mindbreaker[2/3] -> Sunwalker
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Emperor Thaurissan
+[Turn 8, Step 22] Agent: 공격 - Faceless Rager[5/1] -> Nat Pagle
+[Turn 8, Step 23] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 8, Step 24] Opponent: 카드 플레이 - Micro Mummy (코스트: 1)
+[Turn 8, Step 24] Opponent: 영웅 능력 사용
+[Turn 8, Step 24] Opponent: 공격 - Emperor Thaurissan[5/4] -> Sunwalker
+[Turn 8, Step 24] Opponent: 카드 플레이 - Dinomancy (코스트: 1)
+[Turn 8, Step 24] Opponent: 공격 - Emperor Cobra[2/3] -> Cursed Disciple
+[Turn 8, Step 24] Opponent: 공격 - Kvaldir Raider[8/3] -> Cursed Revenant
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): Puzzle Box of Yogg-Saron, Bone Wraith, Living Monument, Hench-Clan Hag, Nerubian Unraveler, Cobalt Scalebane, Devilsaur Egg
+  Field: Faceless Rager[5/1]
+Opponent: Rexxar HP: 28, Mana: 0/9
+  Hand (6)
+  Field: Mosh'Ogg Announcer[7/5], Micro Mummy[1/2]
+[Turn 9, Step 25] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 9, Step 26] Agent: 공격 - Faceless Rager[5/1] -> Rexxar
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 28] Agent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Volcanic Drake (코스트: 5)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Puzzle Box of Yogg-Saron, Living Monument, Hench-Clan Hag, Nerubian Unraveler, Cobalt Scalebane, Kobold Monk
+  Field: Faceless Rager[5/1], Devilsaur Egg[0/3], Bone Wraith[2/5]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (5)
+  Field: Mosh'Ogg Announcer[8/5], Micro Mummy[1/2], Volcanic Drake[6/4], Backroom Bouncer[4/4]
+[Turn 10, Step 30] Agent: 공격 - Faceless Rager[5/1] -> Backroom Bouncer
+[Turn 10, Step 31] Agent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 10, Step 32] Agent: 공격 - Bone Wraith[2/5] -> Rexxar
+[Turn 10, Step 33] Agent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Scorp-o-matic -> Amalgam (코스트: 2)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Pit Crocolisk -> Devilsaur Egg (코스트: 8)
+[Turn 10, Step 34] Opponent: 공격 - Mosh'Ogg Announcer[8/5] -> Bone Wraith
+[Turn 10, Step 34] Opponent: 공격 - Volcanic Drake[6/4] -> Bone Wraith
+[Turn 10, Step 34] Opponent: 공격 - Micro Mummy[1/2] -> Hench-Clan Hag
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Puzzle Box of Yogg-Saron, Living Monument, Cobalt Scalebane, Kobold Monk, Snowflipper Penguin
+  Field: Devilsaur[5/5], Hench-Clan Hag[3/2], Amalgam[1/1], Nerubian Unraveler[5/5]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (4)
+  Field: Mosh'Ogg Announcer[9/3], Micro Mummy[1/1], Volcanic Drake[6/2], Scorp-o-matic[1/2], Pit Crocolisk[5/6]
+[Turn 10, Step 35] Agent: 공격 - Hench-Clan Hag[3/2] -> Micro Mummy
+[Turn 10, Step 36] Agent: 공격 - Devilsaur[5/5] -> Mosh'Ogg Announcer
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Scorp-o-matic
+[Turn 10, Step 38] Agent: 공격 - Amalgam[1/1] -> Rexxar
+[Turn 10, Step 39] Agent: 공격 - Nerubian Unraveler[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (5): Puzzle Box of Yogg-Saron, Living Monument, Cobalt Scalebane, Kobold Monk, Snowflipper Penguin
+  Field: Hench-Clan Hag[3/1], Amalgam[1/1], Nerubian Unraveler[5/5]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (4)
+  Field: Volcanic Drake[6/2], Scorp-o-matic[1/1], Pit Crocolisk[5/6]
+[Turn 10, Step 40] Agent: 카드 플레이 - Cobalt Scalebane (코스트: 5)
+[Turn 10, Step 41] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Volcanic Drake[6/2] -> Nerubian Unraveler
+[Turn 10, Step 42] Opponent: 공격 - Scorp-o-matic[1/1] -> Amalgam
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Cobalt Scalebane
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 영웅 능력 사용 -> Snowflipper Penguin
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Bomb Squad, Puzzle Box of Yogg-Saron, Living Monument, Kobold Monk, Learn Draconic
+  Field: Hench-Clan Hag[9/1], Cobalt Scalebane[5/4], Snowflipper Penguin[3/3]
+Opponent: Rexxar HP: 14, Mana: 8/10
+  Hand (6)
+  Field: Pit Crocolisk[5/6]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 공격 - Snowflipper Penguin[3/3] -> Pit Crocolisk
+[Turn 10, Step 47] Agent: 공격 - Hench-Clan Hag[9/1] -> Rexxar
+[Turn 10, Step 48] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 10, Step 49] Agent: 공격 - Cobalt Scalebane[5/4] -> Pit Crocolisk
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/10
+  Hand (4): Bomb Squad, Puzzle Box of Yogg-Saron, Living Monument, Learn Draconic
+  Field: Hench-Clan Hag[9/1], Kobold Monk[3/6]
+Opponent: Rexxar HP: 5, Mana: 8/10
+  Hand (6)
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Bog Creeper (코스트: 6)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Sky Claw (코스트: 3)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Flame Lance -> Sky Claw (코스트: 5)
+[Turn 10, Step 52] Agent: 카드 플레이 - Bomb Squad -> Microcopter (코스트: 5)
+[Turn 10, Step 53] Agent: 공격 - Hench-Clan Hag[9/1] -> Bog Creeper
+[Turn 10, Step 54] Agent: 공격 - Kobold Monk[3/6] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (3): Puzzle Box of Yogg-Saron, Living Monument, Learn Draconic
+  Field: Kobold Monk[3/6], Bomb Squad[2/2]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (5)
+  Field: Microcopter[1/1]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 58] Agent: 공격 - Kobold Monk[3/6] -> Rexxar
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/10
+  Hand (3): Puzzle Box of Yogg-Saron, Living Monument, The Voraxx
+  Field: Kobold Monk[3/6], Bomb Squad[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (6)
+  Field: Microcopter[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

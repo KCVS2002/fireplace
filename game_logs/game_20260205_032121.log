@@ -1,0 +1,367 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Guardian Augmerchant
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Mechanical Yeti, Foe Reaper 4000, Blackwing Technician, Unpowered Steambot, Eldritch Horror, Batterhead, Stormwatcher
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Candleshot (코스트: 1)
+[Turn 3, Step 6] Opponent: 카드 플레이 - Stablemaster (코스트: 3)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(59) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Rexxar[1/30] -> Blackwing Technician
+[Turn 4, Step 8] Opponent: 공격 - Stablemaster[4/2] -> Blackwing Technician
+[Turn 4, Step 8] Opponent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (8): Sabretooth Stalker, Mechanical Yeti, Foe Reaper 4000, Unpowered Steambot, Eldritch Horror, Batterhead, Stormwatcher, N'Zoth, the Corruptor
+Opponent: Rexxar HP: 29, Mana: 2/5
+  Hand (3)
+  Field: Scarlet Crusader[3/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 5, Step 10] Opponent: 공격 - Scarlet Crusader[3/1] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 공격 - Rexxar[1/29] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Licensed Adventurer
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Scarlet Crusader
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/7
+  Hand (9): Sabretooth Stalker, Mechanical Yeti, Foe Reaper 4000, Eldritch Horror, Batterhead, Stormwatcher, N'Zoth, the Corruptor, Splitting Festeroot, Night Howler
+  Field: Unpowered Steambot[0/9]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (4)
+  Field: Scarlet Crusader[3/1], Licensed Adventurer[3/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Blackwing Corruptor -> Licensed Adventurer (코스트: 5)
+[Turn 7, Step 16] Opponent: 공격 - Scarlet Crusader[3/1] -> Unpowered Steambot
+[Turn 7, Step 16] Opponent: 영웅 능력 사용
+[Turn 7, Step 16] Opponent: 공격 - Rexxar[1/29] -> Unpowered Steambot
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 8, Step 19] Agent: 공격 - Night Howler[3/4] -> Blackwing Corruptor
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (8): Mechanical Yeti, Foe Reaper 4000, Eldritch Horror, Batterhead, Stormwatcher, N'Zoth, the Corruptor, Splitting Festeroot, Eydis Darkbane
+  Field: Unpowered Steambot[0/5], Sabretooth Stalker[8/2]
+Opponent: Rexxar HP: 29, Mana: 1/8
+  Hand (4)
+  Field: Scarlet Crusader[3/1], Blackwing Corruptor[5/1], Emperor Cobra[2/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 8, Step 20] Opponent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(22) → 3로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Eldritch Horror (코스트: 8)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 공격 - Blackwing Corruptor[5/1] -> Unpowered Steambot
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 23] Agent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 10, Step 24] Agent: 공격 - Sabretooth Stalker[8/2] -> Amani War Bear
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (8): Mechanical Yeti, Foe Reaper 4000, Batterhead, N'Zoth, the Corruptor, Splitting Festeroot, Eydis Darkbane, Scaled Nightmare, Serpent Egg
+  Field: Eldritch Horror[6/10], Stormwatcher[4/8]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (4)
+  Field: Scarlet Crusader[3/1], Blackwing Corruptor[5/1], Emperor Cobra[2/3], Blazing Battlemage[2/2]
+[Turn 10, Step 25] Agent: 공격 - Eldritch Horror[6/10] -> Rexxar
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Blazing Battlemage[2/2] -> Eldritch Horror
+[Turn 10, Step 27] Opponent: 공격 - Scarlet Crusader[3/1] -> Eldritch Horror
+[Turn 10, Step 27] Opponent: 공격 - Emperor Cobra[2/3] -> Eydis Darkbane
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(78) → 18로 보정
+[Turn 10, Step 28] Agent: 공격 - Stormwatcher[4/8] -> Rexxar
+[Turn 10, Step 29] Agent: 카드 플레이 - Ray of Frost -> Eldritch Horror (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/10
+  Hand (8): Mechanical Yeti, Foe Reaper 4000, Batterhead, N'Zoth, the Corruptor, Splitting Festeroot, Scaled Nightmare, Serpent Egg, Ray of Frost
+  Field: Eldritch Horror[6/5], Stormwatcher[4/8]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (5)
+  Field: Blackwing Corruptor[5/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(25) → 8로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Ray of Frost -> Eldritch Horror (코스트: 1)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(41) → 20로 보정
+[Turn 10, Step 32] Agent: 공격 - Stormwatcher[4/8] -> Nerubian Unraveler
+[Turn 10, Step 33] Agent: 카드 플레이 - N'Zoth, the Corruptor (코스트: 10)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Eldritch Horror[6/3] -> Blackwing Corruptor
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (7): Mechanical Yeti, Foe Reaper 4000, Batterhead, Splitting Festeroot, Scaled Nightmare, Serpent Egg, Master of Ceremonies
+  Field: Stormwatcher[4/3], N'Zoth, the Corruptor[5/7]
+Opponent: Rexxar HP: 19, Mana: 4/10
+  Hand (5)
+  Field: Nerubian Unraveler[5/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Stormwatcher[4/3] -> Nerubian Unraveler
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+[Turn 10, Step 36] Opponent: 카드 플레이 - Gruul (코스트: 8)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(50) → 5로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Scaled Nightmare (코스트: 6)
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 39] Agent: 공격 - N'Zoth, the Corruptor[5/7] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (7): Mechanical Yeti, Foe Reaper 4000, Batterhead, Splitting Festeroot, Serpent Egg, Master of Ceremonies, Twilight Elder
+  Field: N'Zoth, the Corruptor[5/7], Scaled Nightmare[2/8]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (5)
+  Field: Gruul[8/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (7): Devilsaur Egg, Foe Reaper 4000, Batterhead, Splitting Festeroot, Master of Ceremonies, Twilight Elder, Cosmic Anomaly
+  Field: N'Zoth, the Corruptor[5/7], Scaled Nightmare[8/8], Serpent Egg[0/3], Mechanical Yeti[4/5]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (7)
+  Field: Gruul[12/12]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Scaled Nightmare
+[Turn 10, Step 47] Agent: 공격 - Mechanical Yeti[4/5] -> Gruul
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 48] Agent: 공격 - N'Zoth, the Corruptor[5/7] -> Gruul
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 49] Agent: 공격 - Scaled Nightmare[8/7] -> Gruul
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (7): Devilsaur Egg, Foe Reaper 4000, Batterhead, Master of Ceremonies, Twilight Elder, Cosmic Anomaly, Finicky Cloakfield
+  Field: Serpent Egg[0/3], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Reversing Switch -> Splitting Festeroot (코스트: 1)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(65) → 9로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Finicky Cloakfield -> Splitting Festeroot (코스트: 1)
+[Turn 10, Step 54] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (5): Foe Reaper 4000, Batterhead, Master of Ceremonies, Twilight Elder, Doomsayer
+  Field: Serpent Egg[0/3], Splitting Festeroot[4/4], Cosmic Anomaly[4/3], Devilsaur Egg[0/3]
+Opponent: Rexxar HP: 11, Mana: 9/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Ysera (코스트: 9)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(29) → 11로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Cosmic Anomaly
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Splitting Festeroot[4/4] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Ysera[4/12] -> Serpent Egg
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Foe Reaper 4000, Master of Ceremonies, Twilight Elder, Doomsayer, Grave Shambler, Nerubian Egg
+  Field: Sea Serpent[3/4], Splitting Festeroot[4/4], Cosmic Anomaly[4/2], Devilsaur Egg[0/3], Batterhead[3/12]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Ysera[4/12]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(97) → 5로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(65) → 21로 보정
+[Turn 10, Step 61] Agent: 공격 - Batterhead[3/12] -> Ysera
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Splitting Festeroot
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 10, Step 63] Agent: 공격 - Cosmic Anomaly[4/2] -> Ysera
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Foe Reaper 4000, Master of Ceremonies, Twilight Elder, Doomsayer, Nerubian Egg, Blast Wave
+  Field: Sea Serpent[3/4], Splitting Festeroot[4/3], Devilsaur Egg[0/3], Batterhead[3/8], Grave Shambler[4/4]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+  Field: Ysera[4/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(73) → 4로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 69] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (5): Master of Ceremonies, Twilight Elder, Nerubian Egg, Blast Wave, Arcane Anomaly
+  Field: Splitting Sapling[2/2], Splitting Sapling[2/2], Devilsaur[5/5], Foe Reaper 4000[6/9]
+Opponent: Rexxar HP: 5, Mana: 7/10
+  Hand (10)
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 70] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(97) → 12로 보정
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Foe Reaper 4000
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/10
+  Hand (4): Twilight Elder, Nerubian Egg, Blast Wave, Hoard Pillager
+  Field: Splitting Sapling[2/2], Splitting Sapling[2/2], Devilsaur[5/5], Foe Reaper 4000[6/8], Master of Ceremonies[4/2], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 75] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 77] Agent: 공격 - Splitting Sapling[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 78) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (3): Twilight Elder, Nerubian Egg, Blast Wave
+  Field: Splitting Sapling[2/2], Splitting Sapling[2/2], Devilsaur[5/5], Foe Reaper 4000[6/8], Master of Ceremonies[4/2], Arcane Anomaly[2/1], Hoard Pillager[4/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

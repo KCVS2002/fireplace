@@ -1,0 +1,262 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 공격 - Pyros[2/2] -> Mecharoo
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (5): Boisterous Bard, Gurubashi Chicken, Elise Starseeker, Stormwatcher, Ethereal Augmerchant
+  Field: Pyros[2/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+  Field: Jo-E Bot[1/1]
+[Turn 3, Step 5] Agent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Ethereal Augmerchant -> Gurubashi Chicken (코스트: 1)
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Ethereal Augmerchant
+[Turn 4, Step 9] Agent: 공격 - Pyros[2/1] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/4
+  Hand (4): Boisterous Bard, Elise Starseeker, Stormwatcher, Priestess of Elune
+  Field: Pyros[2/1]
+Opponent: Rexxar HP: 27, Mana: 3/3
+  Hand (6)
+  Field: Jo-E Bot[1/1]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 4, Step 10] Opponent: 공격 - Jo-E Bot[1/1] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Jo-E Bot
+[Turn 5, Step 12] Agent: 공격 - Boisterous Bard[3/2] -> Dirty Rat
+[Turn 5, Step 13] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 5, Step 14] Agent: 공격 - Skaterbot[1/1] -> Dirty Rat
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/5
+  Hand (3): Elise Starseeker, Stormwatcher, Priestess of Elune
+  Field: Pyros[2/1]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (6)
+  Field: Dirty Rat[2/2]
+[Turn 5, Step 15] Agent: 공격 - Pyros[2/1] -> Dirty Rat
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 영웅 능력 사용
+[Turn 6, Step 18] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/7
+  Hand (6): Elise Starseeker, Stormwatcher, Priestess of Elune, Pyros, Ravasaur Runt, Acidic Swamp Ooze
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (5)
+  Field: Ancient Watcher[4/5], Haunted Creeper[1/2], Frostwolf Grunt[2/2]
+[Turn 7, Step 20] Agent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 7, Step 21] Opponent: 공격 - Haunted Creeper[1/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 공격 - Frostwolf Grunt[2/2] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 카드 플레이 - Stormwatcher (코스트: 7)
+[Turn 8, Step 23] Agent: 공격 - Elise Starseeker[3/5] -> Frostwolf Grunt
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Ice Rager[5/2] -> Stormwatcher
+[Turn 8, Step 24] Opponent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/9
+  Hand (6): Priestess of Elune, Pyros, Ravasaur Runt, Acidic Swamp Ooze, Stoneskin Gargoyle, Murloc Raider
+  Field: Elise Starseeker[3/3], Stormwatcher[4/3]
+Opponent: Rexxar HP: 25, Mana: 4/8
+  Hand (5)
+  Field: Ancient Watcher[4/5], Haunted Creeper[1/2], Burly Rockjaw Trogg[3/5]
+[Turn 9, Step 25] Agent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 9, Step 26] Agent: 공격 - Elise Starseeker[3/3] -> Burly Rockjaw Trogg
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Haunted Creeper
+[Turn 9, Step 28] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 9, Step 29] Agent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/9
+  Hand (3): Priestess of Elune, Pyros, Stoneskin Gargoyle
+  Field: Stormwatcher[4/3], Murloc Raider[2/1], Acidic Swamp Ooze[3/2], Ravasaur Runt[2/2]
+Opponent: Rexxar HP: 25, Mana: 4/8
+  Hand (5)
+  Field: Ancient Watcher[4/5], Haunted Creeper[1/1], Burly Rockjaw Trogg[3/2]
+[Turn 9, Step 30] Agent: 선택 - Flaming Claws
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 공격 - Burly Rockjaw Trogg[3/2] -> Acidic Swamp Ooze
+[Turn 9, Step 30] Opponent: 공격 - Haunted Creeper[1/1] -> Jaina Proudmoore
+[Turn 9, Step 30] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 9, Step 30] Opponent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 9, Step 30] Opponent: 공격 - Ancient Watcher[4/5] -> Stormwatcher
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Pyros (코스트: 6)
+[Turn 10, Step 32] Agent: 공격 - Murloc Raider[2/1] -> Haunted Creeper
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Wailing Soul
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Ancient Watcher[4/1] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 공격 - Wailing Soul[3/4] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (4): Priestess of Elune, Stoneskin Gargoyle, Splitting Image, Puzzle Box of Yogg-Saron
+  Field: Pyros[6/6]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (5)
+  Field: Ancient Watcher[4/1], Bomb Lobber[3/3], Wailing Soul[3/4]
+[Turn 10, Step 35] Agent: 카드 플레이 - Puzzle Box of Yogg-Saron (코스트: 10)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 10, Step 36] Opponent: 영웅 능력 사용
+[Turn 10, Step 36] Opponent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 10, Step 38] Agent: 공격 - Guardian Spirit[2/2] -> Rexxar
+[Turn 10, Step 39] Agent: 카드 플레이 - Waterboy (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 5/10
+  Hand (4): Priestess of Elune, Stoneskin Gargoyle, Mind Control Tech, Ozruk
+  Field: Guardian Spirit[2/2], Waterboy[2/1]
+Opponent: Rexxar HP: 23, Mana: 2/10
+  Hand (3)
+  Field: Goboglide Tech[3/3]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Guardian Spirit
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Goboglide Tech[3/3] -> Guardian Spirit
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 10, Step 43] Agent: 공격 - Guardian Spirit[2/1] -> Gryphon
+[Turn 10, Step 44] Agent: 카드 플레이 - Priestess of Elune (코스트: 6)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/10
+  Hand (3): Stoneskin Gargoyle, Mind Control Tech, Ozruk
+  Field: Waterboy[2/1], Flight Master[3/4], Gryphon[2/2], Priestess of Elune[5/4]
+Opponent: Rexxar HP: 23, Mana: 2/10
+  Hand (3)
+  Field: Goboglide Tech[3/1], Xavius[7/5]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Xavius[7/5] -> Priestess of Elune
+[Turn 10, Step 45] Opponent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 10, Step 45] Opponent: 공격 - Goboglide Tech[3/1] -> Gryphon
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Waterboy
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (4): Mind Control Tech, Ozruk, Quicksand Elemental, Chromatic Egg
+  Field: Flight Master[3/4], Stoneskin Gargoyle[1/4]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (4)
+  Field: Grand Archivist[4/7]
+[Turn 10, Step 50] Agent: 공격 - Flight Master[3/4] -> Grand Archivist
+[Turn 10, Step 51] Agent: 카드 플레이 - Mind Control Tech (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Grand Archivist
+[Turn 10, Step 53] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Grand Archivist[4/3] -> Quicksand Elemental
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (3): Ozruk, Chromatic Egg, Kabal Lackey
+  Field: Mind Control Tech[3/3]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (5)
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> King Mukla
+[Turn 10, Step 58] Agent: 공격 - Mind Control Tech[3/3] -> Rexxar
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Gryphon[4/4] -> Mind Control Tech
+[Turn 10, Step 59] Opponent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 10, Step 59] Opponent: 공격 - King Mukla[5/4] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 10, Step 59] Opponent: 공격 - Gryphon[4/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (6): Ozruk, Chromatic Egg, Kabal Lackey, Bananas, Bananas, Sated Threshadon
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (4)
+  Field: Gryphon[4/4], Gryphon[4/1], Gryphon[4/4], King Mukla[5/4], Spiritsinger Umbra[3/4], Shimmering Courser[3/3]
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (6): Ozruk, Chromatic Egg, Kabal Lackey, Bananas, Bananas, Sated Threshadon
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (4)
+  Field: Gryphon[4/4], Gryphon[4/1], Gryphon[4/4], King Mukla[5/4], Spiritsinger Umbra[3/4], Shimmering Courser[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

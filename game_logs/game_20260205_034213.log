@@ -1,0 +1,205 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bomb Toss -> Jaina Proudmoore (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Chenvaala (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Duskboar, Whirliglider, Inkmaster Solia, Tentacled Menace, Cogmaster, Fire Hawk
+  Field: Chenvaala[2/5]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Goblin Bomb[0/2], Sewer Crawler[1/1], Giant Rat[2/3]
+[Turn 4, Step 5] Agent: 공격 - Chenvaala[2/5] -> Goblin Bomb
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Sewer Crawler[1/1] -> Whirliglider
+[Turn 4, Step 8] Opponent: 공격 - Giant Rat[2/3] -> Chenvaala
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 공격 - Chenvaala[2/3] -> Giant Rat
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (6): Duskboar, Inkmaster Solia, Tentacled Menace, Cogmaster, Fire Hawk, Amani War Bear
+  Field: Chenvaala[2/1], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Bearshark (코스트: 3)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Chenvaala
+[Turn 6, Step 14] Agent: 카드 플레이 - Overconfident Orc (코스트: 3)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (5): Duskboar, Inkmaster Solia, Tentacled Menace, Fire Hawk, Amani War Bear
+  Field: Goblin Bomb[0/2], Cogmaster[3/2], Overconfident Orc[3/6]
+Opponent: Rexxar HP: 28, Mana: 1/5
+  Hand (5)
+  Field: Bearshark[4/3], Lowly Squire[1/2]
+[Turn 6, Step 15] Agent: 공격 - Cogmaster[3/2] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 6, Step 16] Opponent: 공격 - Bearshark[4/3] -> Overconfident Orc
+[Turn 6, Step 16] Opponent: 공격 - Lowly Squire[1/2] -> Overconfident Orc
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Overconfident Orc[1/1] -> Rexxar
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Overconfident Orc
+[Turn 7, Step 19] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/7
+  Hand (5): Duskboar, Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper
+  Field: Goblin Bomb[0/2], Cogmaster[3/2], Fire Hawk[6/3]
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (5)
+  Field: Lowly Squire[1/1], Holomancer[3/3], Fire Hawk[1/1]
+[Turn 7, Step 20] Agent: 공격 - Cogmaster[3/2] -> Holomancer
+[Turn 7, Step 21] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Voodoo Doll -> Fire Hawk (코스트: 3)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 공격 - Duskboar[4/1] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 9/9
+  Hand (6): Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper, Mossy Horror, Flame Juggler
+  Field: Goblin Bomb[0/2], Fire Hawk[6/3], Duskboar[4/1]
+Opponent: Rexxar HP: 20, Mana: 4/8
+  Hand (5)
+  Field: Lowly Squire[1/1], Fire Hawk[1/1], Voodoo Doll[1/1], Zombie Chow[2/3]
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 9, Step 25] Opponent: 공격 - Fire Hawk[1/1] -> Fire Hawk
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 공격 - Duskboar[4/1] -> Voodoo Doll
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Hench-Clan Hag
+[Turn 10, Step 28] Agent: 카드 플레이 - Fireball -> Amalgam (코스트: 4)
+[Turn 10, Step 29] Agent: 공격 - Fire Hawk[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (6): Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper, Mossy Horror, Flame Juggler
+  Field: Goblin Bomb[0/2], Fire Hawk[6/2]
+Opponent: Rexxar HP: 14, Mana: 5/9
+  Hand (5)
+  Field: Lowly Squire[1/1], Zombie Chow[2/3], Hench-Clan Hag[3/2], Amalgam[1/1]
+[Turn 10, Step 30] Agent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Amalgam[1/1] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Zombie Chow
+[Turn 10, Step 33] Agent: 공격 - Flame Juggler[2/3] -> Tournament Attendee
+[Turn 10, Step 34] Agent: 카드 플레이 - Mossy Horror (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/10
+  Hand (5): Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper, Garrison Commander
+  Field: Fire Hawk[6/2], Mossy Horror[2/7]
+Opponent: Rexxar HP: 12, Mana: 9/10
+  Hand (5)
+  Field: Hench-Clan Hag[3/2]
+[Turn 10, Step 35] Agent: 공격 - Fire Hawk[6/2] -> Rexxar
+[Turn 10, Step 36] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Fire Hawk
+[Turn 10, Step 39] Agent: 공격 - Mossy Horror[2/7] -> Hench-Clan Hag
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (5): Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper, Shieldbreaker
+  Field: Fire Hawk[6/1], Mossy Horror[2/4], Garrison Commander[2/3]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 40] Agent: 공격 - Garrison Commander[2/3] -> Rexxar
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/10
+  Hand (5): Inkmaster Solia, Tentacled Menace, Amani War Bear, Void Ripper, Shieldbreaker
+  Field: Fire Hawk[6/1], Mossy Horror[2/4], Garrison Commander[2/3], Emerald Reaver[2/1]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 10, Step 46] Agent: 공격 - Garrison Commander[2/3] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Skycap'n Kragg (코스트: 7)
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Void Ripper (코스트: 3)
+[Turn 10, Step 49] Agent: 카드 플레이 - Stormwind Knight (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (3): Inkmaster Solia, Tentacled Menace, Shieldbreaker
+  Field: Fire Hawk[1/6], Mossy Horror[4/2], Garrison Commander[3/2], Emerald Reaver[1/2], Amani War Bear[7/5], Void Ripper[3/3], Stormwind Knight[2/5]
+Opponent: Rexxar HP: 1, Mana: 1/10
+  Hand (7)
+  Field: Skycap'n Kragg[6/4]
+[Turn 10, Step 50] Agent: 공격 - Fire Hawk[1/6] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (3): Inkmaster Solia, Tentacled Menace, Shieldbreaker
+  Field: Fire Hawk[1/6], Mossy Horror[4/2], Garrison Commander[3/2], Emerald Reaver[1/2], Amani War Bear[7/5], Void Ripper[3/3], Stormwind Knight[2/5]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (7)
+  Field: Skycap'n Kragg[6/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

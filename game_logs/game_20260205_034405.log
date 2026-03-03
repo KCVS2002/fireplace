@@ -1,0 +1,213 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Soulbound Ashtongue (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Soulbound Ashtongue
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 공격 - Soulbound Ashtongue[1/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Wee Spellstopper, Escaped Manasaber, Spellslinger, Alarm-o-Bot, Dread Raven, Freezing Potion
+  Field: Booty Bay Bookie[3/3]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Soulbound Ashtongue[1/3], Generous Mummy[5/4]
+[Turn 4, Step 5] Agent: 카드 플레이 - Wee Spellstopper (코스트: 3)
+[Turn 4, Step 6] Agent: 공격 - Booty Bay Bookie[3/3] -> Soulbound Ashtongue
+[Turn 4, Step 7] Agent: 카드 플레이 - Freezing Potion -> Rexxar (코스트: 0)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 4, Step 8] Opponent: 공격 - Generous Mummy[5/4] -> Wee Spellstopper
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 공격 - Booty Bay Bookie[3/2] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (5): Escaped Manasaber, Spellslinger, Alarm-o-Bot, Dread Raven, Kobold Monk
+  Field: Booty Bay Bookie[3/2]
+Opponent: Rexxar HP: 23, Mana: 1/4
+  Hand (5)
+  Field: Generous Mummy[5/2], Thrallmar Farseer[2/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Kobold Monk (코스트: 3)
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Booty Bay Bookie
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Generous Mummy[5/2] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 카드 플레이 - Arcane Servant (코스트: 2)
+[Turn 5, Step 12] Opponent: 공격 - Thrallmar Farseer[2/3] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 공격 - Thrallmar Farseer[2/3] -> Booty Bay Bookie
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 공격 - Kobold Monk[3/6] -> Echoing Ooze
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Arcane Servant[2/3] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 카드 플레이 - Arcane Tyrant (코스트: 5)
+[Turn 6, Step 14] Opponent: 공격 - Echoing Ooze[1/2] -> Kobold Monk
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 7/7
+  Hand (6): Escaped Manasaber, Spellslinger, Alarm-o-Bot, Dread Raven, Mad Summoner, Coldlight Seer
+  Field: Kobold Monk[3/4]
+Opponent: Rexxar HP: 23, Mana: 1/6
+  Hand (3)
+  Field: Generous Mummy[5/2], Arcane Servant[2/3], Arcane Tyrant[4/4]
+[Turn 7, Step 15] Agent: 카드 플레이 - Escaped Manasaber (코스트: 3)
+[Turn 7, Step 16] Agent: 카드 플레이 - Dread Raven (코스트: 2)
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Arcane Servant
+[Turn 7, Step 18] Agent: 공격 - Kobold Monk[3/4] -> Arcane Servant
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 공격 - Generous Mummy[5/2] -> Dread Raven
+[Turn 7, Step 19] Opponent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 7, Step 19] Opponent: 영웅 능력 사용
+[Turn 7, Step 19] Opponent: 공격 - Arcane Tyrant[4/4] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/8
+  Hand (5): Spellslinger, Alarm-o-Bot, Mad Summoner, Coldlight Seer, Jepetto Joybuzz
+  Field: Kobold Monk[3/2], Escaped Manasaber[3/5]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (3)
+  Field: Generous Mummy[5/1], Arcane Tyrant[4/4], Grook Fu Master[3/5]
+[Turn 8, Step 20] Agent: 공격 - Escaped Manasaber[3/5] -> Rexxar
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Grook Fu Master
+[Turn 8, Step 22] Agent: 공격 - Kobold Monk[3/2] -> Rexxar
+[Turn 8, Step 23] Agent: 카드 플레이 - Mad Summoner (코스트: 5)
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 8, Step 24] Opponent: 공격 - Arcane Tyrant[4/4] -> Kobold Monk
+[Turn 8, Step 24] Opponent: 공격 - Generous Mummy[5/1] -> Mad Summoner
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 9/9
+  Hand (5): Spellslinger, Alarm-o-Bot, Coldlight Seer, Jepetto Joybuzz, Xavius
+  Field: Escaped Manasaber[3/5], Imp[1/1], Imp[1/1], Imp[1/1]
+Opponent: Rexxar HP: 17, Mana: 3/8
+  Hand (3)
+  Field: Arcane Tyrant[4/1], Grook Fu Master[3/4], Bomb Lobber[3/3]
+[Turn 9, Step 25] Agent: 공격 - Escaped Manasaber[3/5] -> Bomb Lobber
+[Turn 9, Step 26] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 9, Step 27] Agent: 공격 - Imp[1/1] -> Arcane Tyrant
+[Turn 9, Step 28] Agent: 카드 플레이 - Spellslinger (코스트: 3)
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Escaped Manasaber
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 5/9
+  Hand (5): Alarm-o-Bot, Coldlight Seer, Jepetto Joybuzz, Xavius, Strength in Numbers
+  Field: Escaped Manasaber[3/1], Imp[1/1], Imp[1/1], Spellslinger[3/4]
+Opponent: Rexxar HP: 16, Mana: 3/8
+  Hand (4)
+  Field: Grook Fu Master[3/4]
+[Turn 9, Step 30] Agent: 공격 - Imp[1/1] -> Grook Fu Master
+[Turn 9, Step 31] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 카드 플레이 - Dragon's Breath -> Escaped Manasaber (코스트: 5)
+[Turn 9, Step 32] Opponent: 영웅 능력 사용
+[Turn 9, Step 32] Opponent: 공격 - Grook Fu Master[3/3] -> Jaina Proudmoore
+[Turn 9, Step 32] Opponent: 공격 - Grook Fu Master[3/3] -> Coldlight Seer
+[Turn 9, Step 32] Opponent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 9, Step 32] Opponent: 선택 - Ancestral Guardian
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Spellslinger[3/4] -> Rexxar
+[Turn 10, Step 34] Agent: 카드 플레이 - Xavius (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 4/10
+  Hand (4): Raid Leader, Alarm-o-Bot, Jepetto Joybuzz, Strength in Numbers
+  Field: Imp[1/1], Spellslinger[3/4], Xavius[7/5]
+Opponent: Rexxar HP: 13, Mana: 0/9
+  Hand (4)
+  Field: Grook Fu Master[3/1], Grimestreet Informant[1/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 36] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 37] Agent: 카드 플레이 - Strength in Numbers (코스트: 1)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Grook Fu Master[3/1] -> Spellslinger
+[Turn 10, Step 38] Opponent: 공격 - Grimestreet Informant[1/1] -> Xavian Satyr
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (5): Raid Leader, Alarm-o-Bot, Jepetto Joybuzz, Camouflaged Dirigible, Pit Crocolisk
+  Field: Imp[1/1], Spellslinger[3/1], Xavius[7/5]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (4)
+  Field: Tauren Warrior[2/3], Hoard Pillager[4/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Xavius
+[Turn 10, Step 41] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Imp[2/1] -> Tauren Warrior
+[Turn 10, Step 43] Agent: 공격 - Xavius[8/4] -> Tauren Warrior
+[Turn 10, Step 44] Agent: 공격 - Spellslinger[4/1] -> Hoard Pillager
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (4): Alarm-o-Bot, Jepetto Joybuzz, Camouflaged Dirigible, Pit Crocolisk
+  Field: Xavian Satyr[3/1], Raid Leader[2/2]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (4)
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Ancestral Guardian (코스트: 4)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Wobbling Runts (코스트: 6)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 공격 - Xavian Satyr[3/1] -> Rexxar
+[Turn 10, Step 47] Agent: 카드 플레이 - Pit Crocolisk -> Jaina Proudmoore (코스트: 8)
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (4): Alarm-o-Bot, Jepetto Joybuzz, Camouflaged Dirigible, Blackwater Pirate
+  Field: Xavian Satyr[3/1], Raid Leader[2/2], Toxfin[2/2], Pit Crocolisk[6/6]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (3)
+  Field: Ancestral Guardian[4/2], Wobbling Runts[2/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

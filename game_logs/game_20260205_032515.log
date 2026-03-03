@@ -1,0 +1,350 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Baleful Banker (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(15) → 6로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (5): Snowchugger, Arcane Blast, Snap Freeze, Gnomish Inventor, Hyldnir Frostrider
+  Field: Sir Finley Mrrgglton[1/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Baleful Banker[2/2]
+[Turn 3, Step 5] Agent: 선택 - Armor Up!
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 3, Step 5] Opponent: 공격 - Baleful Banker[2/2] -> Sir Finley Mrrgglton
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(36) → 8로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Gnomish Inventor (코스트: 4)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 4, Step 7] Agent: 공격 - Sir Finley Mrrgglton[1/1] -> Baleful Banker
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Ironbeak Owl -> Soup Vendor (코스트: 3)
+[Turn 4, Step 8] Opponent: 공격 - Soup Vendor[1/4] -> Gnomish Inventor
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(77) → 7로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Snap Freeze -> Ironbeak Owl (코스트: 2)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/5
+  Hand (6): Snowchugger, Arcane Blast, Hyldnir Frostrider, Priestess of Elune, Furnacefire Colossus, Jade Spirit
+  Field: Gnomish Inventor[2/3]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (5)
+  Field: Soup Vendor[1/2], Ironbeak Owl[2/1]
+[Turn 5, Step 10] Agent: 카드 플레이 - Arcane Blast -> Gnomish Inventor (코스트: 1)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(75) → 10로 보정
+[Turn 6, Step 12] Agent: 공격 - Gnomish Inventor[2/1] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(16) → 6로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Glacial Shard -> Rexxar (코스트: 1)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/6
+  Hand (4): Hyldnir Frostrider, Priestess of Elune, Furnacefire Colossus, Jade Spirit
+  Field: Gnomish Inventor[2/1], Glacial Shard[2/1], Snowchugger[2/3]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (6)
+  Field: Soup Vendor[1/2], Ironbeak Owl[2/1]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 7, Step 17] Agent: 공격 - Hyldnir Frostrider[4/4] -> Rexxar
+[Turn 7, Step 18] Agent: 영웅 능력 사용
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Ancient Brewmaster -> Soup Vendor (코스트: 4)
+[Turn 7, Step 19] Opponent: 공격 - Hench-Clan Sneak[3/3] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 공격 - Ironbeak Owl[2/1] -> Hyldnir Frostrider
+[Turn 7, Step 19] Opponent: 영웅 능력 사용
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (5): Priestess of Elune, Furnacefire Colossus, Jade Spirit, Tortollan Pilgrim, Primordial Drake
+  Field: Gnomish Inventor[2/1], Glacial Shard[2/1], Snowchugger[2/3], Hyldnir Frostrider[4/2]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (7)
+  Field: Hench-Clan Sneak[3/3], Ancient Brewmaster[5/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(28) → 9로 보정
+[Turn 8, Step 20] Agent: 공격 - Gnomish Inventor[2/1] -> Ancient Brewmaster
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(26) → 10로 보정
+[Turn 8, Step 21] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(48) → 9로 보정
+[Turn 8, Step 22] Agent: 공격 - Glacial Shard[2/1] -> Ancient Brewmaster
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(24) → 6로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Furnacefire Colossus (코스트: 6)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (4): Priestess of Elune, Jade Spirit, Tortollan Pilgrim, Primordial Drake
+  Field: Snowchugger[2/3], Hyldnir Frostrider[4/2], Furnacefire Colossus[6/6]
+Opponent: Rexxar HP: 22, Mana: 1/7
+  Hand (7)
+  Field: Hench-Clan Sneak[3/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 8, Step 25] Agent: 공격 - Hyldnir Frostrider[4/2] -> Hench-Clan Sneak
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(15) → 6로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 9, Step 29] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/9
+  Hand (4): Priestess of Elune, Tortollan Pilgrim, Primordial Drake, Gelbin Mekkatorque
+  Field: Snowchugger[2/3], Furnacefire Colossus[6/6], Jade Spirit[2/3], Jade Golem[1/1]
+Opponent: Rexxar HP: 20, Mana: 8/8
+  Hand (8)
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 9, Step 30] Agent: 공격 - Furnacefire Colossus[6/6] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Ozruk (코스트: 9)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(54) → 10로 보정
+[Turn 10, Step 32] Agent: 공격 - Jade Golem[1/1] -> Ozruk
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(16) → 6로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Priestess of Elune (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/10
+  Hand (4): Tortollan Pilgrim, Primordial Drake, Gelbin Mekkatorque, The Darkness
+  Field: Snowchugger[2/3], Furnacefire Colossus[6/6], Jade Spirit[2/3], Priestess of Elune[5/4]
+Opponent: Rexxar HP: 14, Mana: 0/9
+  Hand (8)
+  Field: Ozruk[5/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 35] Agent: 공격 - Jade Spirit[2/3] -> Ozruk
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Snowchugger[2/3] -> Ozruk
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 10, Step 37] Opponent: 공격 - Soup Vendor[1/4] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 38] Agent: 공격 - Furnacefire Colossus[6/6] -> Animated Shield
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(17) → 6로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (5): Tortollan Pilgrim, Primordial Drake, Gelbin Mekkatorque, The Darkness, Potion Vendor
+  Field: Furnacefire Colossus[6/6], Priestess of Elune[5/4]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (6)
+  Field: Soup Vendor[1/4], Dragon Breeder[2/3], Arcanosmith[3/2]
+[Turn 10, Step 40] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Burrowing Scorpid -> Potion Vendor (코스트: 4)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(70) → 13로 보정
+[Turn 10, Step 42] Agent: 공격 - Furnacefire Colossus[6/6] -> Dragon Breeder
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Ironbeak Owl -> Soup Vendor (코스트: 3)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(11) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Priestess of Elune[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/10
+  Hand (4): Tortollan Pilgrim, Primordial Drake, Gelbin Mekkatorque, The Darkness
+  Field: Furnacefire Colossus[6/4], Priestess of Elune[5/4], Ironbeak Owl[2/1]
+Opponent: Rexxar HP: 9, Mana: 6/10
+  Hand (6)
+  Field: Soup Vendor[1/4], Arcanosmith[3/2], Burrowing Scorpid[5/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Gelbin Mekkatorque (코스트: 6)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 10, Step 46] Opponent: 공격 - Arcanosmith[3/2] -> Furnacefire Colossus
+[Turn 10, Step 46] Opponent: 카드 플레이 - Hozen Healer -> Furnacefire Colossus (코스트: 4)
+[Turn 10, Step 46] Opponent: 공격 - Burrowing Scorpid[6/3] -> Ironbeak Owl
+[Turn 10, Step 46] Opponent: 공격 - Soup Vendor[1/4] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 47] Agent: 공격 - Furnacefire Colossus[6/6] -> Frostwolf Warlord
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(43) → 11로 보정
+[Turn 10, Step 48] Agent: 공격 - Gelbin Mekkatorque[6/6] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(16) → 5로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/10
+  Hand (4): Tortollan Pilgrim, Primordial Drake, The Darkness, Chillmaw
+  Field: Priestess of Elune[5/4], Gelbin Mekkatorque[6/6], Emboldener 3000[0/4]
+Opponent: Rexxar HP: 3, Mana: 1/10
+  Hand (5)
+  Field: Soup Vendor[1/4], Burrowing Scorpid[6/1], Frostwolf Warlord[7/1], Hozen Healer[2/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - The Darkness (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Priestess of Elune[5/4] -> Hozen Healer
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 10, Step 53] Agent: 공격 - Gelbin Mekkatorque[6/6] -> Soup Vendor
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/10
+  Hand (4): Tortollan Pilgrim, Primordial Drake, Chillmaw, Devilsaur Egg
+  Field: Priestess of Elune[5/2], Gelbin Mekkatorque[6/5], Emboldener 3000[0/4], The Darkness[20/20]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (6)
+  Field: Burrowing Scorpid[6/1], Frostwolf Warlord[7/1], Hozen Healer[3/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(12) → 3로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Hozen Healer[3/2] -> Chillmaw
+[Turn 10, Step 56] Opponent: 카드 플레이 - Waste Warden -> Priestess of Elune (코스트: 5)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 56] Opponent: 공격 - Burrowing Scorpid[6/1] -> Chillmaw
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Primordial Drake (코스트: 8)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (4): Tortollan Pilgrim, Primordial Drake, Blistering Rot, Wicked Skeleton
+  Field: The Darkness[20/20], Devilsaur Egg[1/2]
+Opponent: Rexxar HP: 3, Mana: 2/10
+  Hand (5)
+  Field: Putrid Slime[1/2], Primordial Drake[4/6]
+[Turn 10, Step 60] Agent: 카드 플레이 - Tortollan Pilgrim (코스트: 8)
+[Turn 10, Step 61] Agent: 선택 - Ice Block
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 61] Agent: 공격 - Devilsaur Egg[1/2] -> Putrid Slime
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 10, Step 63] Agent: 공격 - Devilsaur Egg[1/1] -> Primordial Drake
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(12) → 4로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 6/10
+  Hand (3): Primordial Drake, Blistering Rot, Wicked Skeleton
+  Field: The Darkness[20/20], Devilsaur[5/5], Tortollan Pilgrim[5/5], Hippogryph[2/6]
+Opponent: Rexxar HP: 3, Mana: 7/10
+  Hand (5)
+  Field: Putrid Slime[1/1], Primordial Drake[4/5], Auctionmaster Beardo[3/4]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Stormhammer (코스트: 3)
+[Turn 10, Step 65] Opponent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 10, Step 66] Agent: 공격 - Hippogryph[2/6] -> Putrid Slime
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Ice Block (코스트: 3)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 68] Agent: 공격 - Devilsaur[5/5] -> Primordial Drake
+[Turn 10, Step 69] Agent: 카드 플레이 - Blistering Rot (코스트: 3)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (2): Primordial Drake, Wicked Skeleton
+  Field: The Darkness[20/20], Devilsaur[5/1], Tortollan Pilgrim[5/5], Hippogryph[2/5], Blistering Rot[1/2]
+Opponent: Rexxar HP: 3, Mana: 2/10
+  Hand (5)
+  Field: Auctionmaster Beardo[3/4], Barista Lynchen[4/5]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 70] Agent: 공격 - Tortollan Pilgrim[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 71) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/10
+  Hand (2): Primordial Drake, Wicked Skeleton
+  Field: The Darkness[20/20], Devilsaur[5/1], Tortollan Pilgrim[5/5], Hippogryph[2/5], Blistering Rot[1/2]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (5)
+  Field: Auctionmaster Beardo[3/4], Barista Lynchen[4/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

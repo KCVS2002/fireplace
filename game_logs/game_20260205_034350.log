@@ -1,0 +1,161 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Rocket Augmerchant (코스트: 1)
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (4): Magic Dart Frog, Gnomeregan Infantry, High Priestess Jeklik, Eydis Darkbane
+  Field: Imprisoned Vilefiend[3/5], Rocket Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 카드 플레이 - Clear the Way (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Magic Dart Frog (코스트: 2)
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 8] Agent: 공격 - Rocket Augmerchant[2/1] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (5): Gnomeregan Infantry, High Priestess Jeklik, Eydis Darkbane, Hench-Clan Sneak, Furnacefire Colossus
+  Field: Imprisoned Vilefiend[3/5], Rocket Augmerchant[2/1], Magic Dart Frog[1/3]
+Opponent: Rexxar HP: 27, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 공격 - Magic Dart Frog[1/3] -> Rexxar
+[Turn 5, Step 11] Agent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Rocket Augmerchant[2/1] -> Rexxar
+[Turn 5, Step 14] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/5
+  Hand (4): Gnomeregan Infantry, High Priestess Jeklik, Hench-Clan Sneak, Furnacefire Colossus
+  Field: Imprisoned Vilefiend[3/5], Rocket Augmerchant[2/1], Magic Dart Frog[1/3], Eydis Darkbane[3/4]
+Opponent: Rexxar HP: 20, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 5, Step 15] Opponent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 5, Step 15] Opponent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 공격 - Magic Dart Frog[1/3] -> Rexxar
+[Turn 6, Step 17] Agent: 공격 - Eydis Darkbane[3/4] -> Springpaw
+[Turn 6, Step 18] Agent: 카드 플레이 - High Priestess Jeklik (코스트: 4)
+[Turn 6, Step 19] Agent: 공격 - Rocket Augmerchant[2/1] -> Novice Engineer
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/6
+  Hand (4): Gnomeregan Infantry, Hench-Clan Sneak, Furnacefire Colossus, Sergeant Sally
+  Field: Imprisoned Vilefiend[3/5], Magic Dart Frog[1/3], Eydis Darkbane[3/3], High Priestess Jeklik[3/4]
+Opponent: Rexxar HP: 19, Mana: 0/5
+  Hand (6)
+  Field: Grizzled Wizard[3/2]
+[Turn 6, Step 20] Agent: 영웅 능력 사용
+[Turn 6, Step 21] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Rexxar
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 24] Agent: 공격 - High Priestess Jeklik[3/4] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/7
+  Hand (5): Gnomeregan Infantry, Hench-Clan Sneak, Furnacefire Colossus, Sergeant Sally, Dire Mole
+  Field: Imprisoned Vilefiend[3/5], Magic Dart Frog[1/3], Eydis Darkbane[3/3], High Priestess Jeklik[3/4]
+Opponent: Rexxar HP: 11, Mana: 6/6
+  Hand (7)
+  Field: Grizzled Wizard[3/2]
+[Turn 7, Step 25] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Grizzled Wizard
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 7, Step 26] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 7, Step 26] Opponent: 공격 - Lynx[1/1] -> High Priestess Jeklik
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 공격 - Magic Dart Frog[1/3] -> Rexxar
+[Turn 8, Step 28] Agent: 공격 - Eydis Darkbane[3/3] -> Rexxar
+[Turn 8, Step 29] Agent: 공격 - High Priestess Jeklik[3/3] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/8
+  Hand (6): Gnomeregan Infantry, Hench-Clan Sneak, Furnacefire Colossus, Sergeant Sally, Dire Mole, Unstable Ghoul
+  Field: Imprisoned Vilefiend[3/2], Magic Dart Frog[1/3], Eydis Darkbane[3/3], High Priestess Jeklik[3/3]
+Opponent: Rexxar HP: 4, Mana: 1/7
+  Hand (6)
+  Field: Snapjaw Shellfighter[3/5], Lynx[1/1]
+[Turn 8, Step 30] Agent: 공격 - Imprisoned Vilefiend[3/2] -> Lynx
+[Turn 8, Step 31] Agent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 8, Step 32] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 8, Step 33] Agent: 영웅 능력 사용 -> Snapjaw Shellfighter
+[Turn 8, Step 34] Agent: 카드 플레이 - Dire Mole (코스트: 1)
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/8
+  Hand (3): Gnomeregan Infantry, Furnacefire Colossus, Sergeant Sally
+  Field: Imprisoned Vilefiend[3/1], Magic Dart Frog[1/3], Eydis Darkbane[3/3], High Priestess Jeklik[3/3], Hench-Clan Sneak[3/3], Unstable Ghoul[1/3], Dire Mole[1/3]
+Opponent: Rexxar HP: 4, Mana: 1/7
+  Hand (6)
+  Field: Snapjaw Shellfighter[3/1], Lynx[1/1]
+[Turn 8, Step 35] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 35] Opponent: 영웅 능력 사용
+[Turn 8, Step 35] Opponent: 공격 - Lynx[1/1] -> Unstable Ghoul
+[Turn 8, Step 35] Opponent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 8, Step 35] Opponent: 턴 종료
+[Turn 9, Step 36] Agent: 공격 - Dire Mole[1/3] -> Squire
+[Turn 9, Step 37] Agent: 영웅 능력 사용 -> Magic Dart Frog
+[Turn 9, Step 38] Agent: 공격 - Imprisoned Vilefiend[3/1] -> Lynx
+[Turn 9, Step 39] Agent: 공격 - Eydis Darkbane[3/3] -> Squire
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 7/9
+  Hand (4): Gnomeregan Infantry, Furnacefire Colossus, Sergeant Sally, Mossy Horror
+  Field: Magic Dart Frog[1/2], Eydis Darkbane[3/1], High Priestess Jeklik[3/3], Hench-Clan Sneak[3/3], Unstable Ghoul[1/2], Dire Mole[1/1]
+Opponent: Rexxar HP: 4, Mana: 1/8
+  Hand (6)
+  Field: Silver Hand Knight[4/4]
+[Turn 9, Step 40] Agent: 공격 - Unstable Ghoul[1/2] -> Rexxar
+[Turn 9, Step 41] Agent: 공격 - Hench-Clan Sneak[3/3] -> Silver Hand Knight
+[Turn 9, Step 42] Agent: 공격 - High Priestess Jeklik[3/3] -> Rexxar
+
+--- Game State (Turn 9, Step 43) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/9
+  Hand (4): Gnomeregan Infantry, Furnacefire Colossus, Sergeant Sally, Mossy Horror
+  Field: Magic Dart Frog[1/2], Eydis Darkbane[3/1], High Priestess Jeklik[3/3], Unstable Ghoul[1/2], Dire Mole[1/1]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (6)
+  Field: Silver Hand Knight[4/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

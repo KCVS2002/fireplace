@@ -1,0 +1,224 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 1, Step 2] Opponent: 공격 - Zealous Initiate[1/1] -> Jaina Proudmoore
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - Guardian Augmerchant -> Zealous Initiate (코스트: 1)
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 2, Step 4] Opponent: 공격 - Prince Keleseth[3/3] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (6): Emperor Cobra, Mad Summoner, The Coin, Worgen Greaser, Faceless Corruptor, Lil' Exorcist
+  Field: Guardian Augmerchant[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (3)
+  Field: Prince Keleseth[3/3], Vicious Fledgling[3/3]
+[Turn 3, Step 5] Agent: 공격 - Guardian Augmerchant[2/1] -> Rexxar
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Guardian Augmerchant
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Prince Keleseth[3/3] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 영웅 능력 사용
+[Turn 3, Step 7] Opponent: 공격 - Vicious Fledgling[3/3] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 선택 - Shrouding Mist
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/5
+  Hand (7): Gazlowe, Emperor Cobra, Mad Summoner, The Coin, Worgen Greaser, Faceless Corruptor, Greater Arcane Missiles
+  Field: Lil' Exorcist[2/3]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (5)
+  Field: Prince Keleseth[3/3], Vicious Fledgling[3/3]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Faceless Corruptor -> Lil' Exorcist (코스트: 5)
+[Turn 6, Step 14] Agent: 공격 - Faceless Corruptor[4/4] -> Prince Keleseth
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/6
+  Hand (6): Gazlowe, Emperor Cobra, Mad Summoner, Worgen Greaser, Greater Arcane Missiles, Twilight Guardian
+  Field: Faceless Corruptor[4/4], Faceless Corruptor[4/1]
+Opponent: Rexxar HP: 28, Mana: 6/6
+  Hand (6)
+  Field: Vicious Fledgling[3/3]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Vicious Fledgling[3/3] -> Faceless Corruptor
+[Turn 6, Step 15] Opponent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 6, Step 15] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 7, Step 17] Agent: 공격 - Faceless Corruptor[4/4] -> Feral Gibberer
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Imp[1/1] -> Loatheb
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/8
+  Hand (7): Sunstruck Henchman, Gazlowe, Emperor Cobra, Worgen Greaser, Greater Arcane Missiles, Twilight Guardian, Barnes
+  Field: Faceless Corruptor[4/3], Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1], Imp[1/1]
+Opponent: Rexxar HP: 28, Mana: 4/8
+  Hand (5)
+  Field: Loatheb[5/4], Genzo, the Shark[5/4]
+[Turn 8, Step 20] Agent: 공격 - Imp[1/1] -> Genzo, the Shark
+[Turn 8, Step 21] Agent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 8, Step 22] Agent: 공격 - Faceless Corruptor[4/3] -> Loatheb
+[Turn 8, Step 23] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Mad Summoner[4/4] -> Genzo, the Shark
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/8
+  Hand (6): Gazlowe, Emperor Cobra, Worgen Greaser, Greater Arcane Missiles, Twilight Guardian, Barnes
+  Field: Imp[1/1], Imp[1/1], Imp[1/1], Sunstruck Henchman[6/5]
+Opponent: Rexxar HP: 27, Mana: 4/8
+  Hand (5)
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 28] Agent: 카드 플레이 - Greater Arcane Missiles (코스트: 7)
+[Turn 9, Step 29] Agent: 공격 - Imp[1/1] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/9
+  Hand (6): Gazlowe, Emperor Cobra, Worgen Greaser, Twilight Guardian, Barnes, Dr. Boom
+  Field: Imp[1/1], Imp[1/1], Imp[1/1], Sunstruck Henchman[6/5]
+Opponent: Rexxar HP: 16, Mana: 7/9
+  Hand (6)
+[Turn 9, Step 30] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Witchwood Grizzly (코스트: 5)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - Imp[1/1] -> Witchwood Grizzly
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Sunstruck Henchman
+[Turn 10, Step 34] Agent: 카드 플레이 - Emperor Cobra (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 5/10
+  Hand (6): Gazlowe, Worgen Greaser, Twilight Guardian, Barnes, Dr. Boom, Mirror Entity
+  Field: Imp[1/1], Imp[1/1], Sunstruck Henchman[6/4], Emperor Cobra[2/3]
+Opponent: Rexxar HP: 15, Mana: 5/10
+  Hand (6)
+  Field: Witchwood Grizzly[3/10]
+[Turn 10, Step 35] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 10, Step 36] Agent: 공격 - Imp[1/1] -> Witchwood Grizzly
+[Turn 10, Step 37] Agent: 공격 - Imp[1/1] -> Witchwood Grizzly
+[Turn 10, Step 38] Agent: 공격 - Sunstruck Henchman[6/4] -> Witchwood Grizzly
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (6): Gazlowe, Worgen Greaser, Barnes, Dr. Boom, Mirror Entity, Loose Specimen
+  Field: Sunstruck Henchman[6/1], Emperor Cobra[2/3], Twilight Guardian[2/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (7)
+  Field: Witchwood Grizzly[3/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 41] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Twilight Guardian[2/6] -> Witchwood Grizzly
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (7): Gazlowe, Worgen Greaser, Barnes, Dr. Boom, Loose Specimen, Barista Lynchen, Finja, the Flying Star
+  Field: Sunstruck Henchman[6/1], Emperor Cobra[2/3], Twilight Guardian[2/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Emperor Cobra
+[Turn 10, Step 46] Agent: 카드 플레이 - Gazlowe (코스트: 6)
+[Turn 10, Step 47] Agent: 공격 - Twilight Guardian[2/3] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Sunstruck Henchman[6/1] -> Rexxar
+[Turn 10, Step 49] Agent: 공격 - Emperor Cobra[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 2/10
+  Hand (6): Worgen Greaser, Barnes, Dr. Boom, Loose Specimen, Barista Lynchen, Finja, the Flying Star
+  Field: Sunstruck Henchman[6/1], Emperor Cobra[2/2], Twilight Guardian[2/3], Gazlowe[3/6]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Headhunter's Hatchet (코스트: 2)
+[Turn 10, Step 50] Opponent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 10, Step 50] Opponent: 공격 - Rexxar[2/4] -> Jaina Proudmoore
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Bananas -> Gazlowe (코스트: 1)
+[Turn 10, Step 52] Agent: 카드 플레이 - Bananas -> King Mukla (코스트: 1)
+[Turn 10, Step 53] Agent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 10, Step 54] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 3/10
+  Hand (7): Barnes, Dr. Boom, Loose Specimen, Barista Lynchen, Finja, the Flying Star, Chopshop Copter, Junkbot
+  Field: Sunstruck Henchman[6/1], Emperor Cobra[2/2], Twilight Guardian[2/3], Gazlowe[4/7], River Crocolisk[2/3], Worgen Greaser[6/3], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 4, Mana: 3/10
+  Hand (7)
+  Field: River Crocolisk[2/3], King Mukla[6/6]
+[Turn 10, Step 55] Agent: 공격 - Emperor Cobra[2/2] -> River Crocolisk
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Worgen Greaser
+[Turn 10, Step 57] Agent: 공격 - River Crocolisk[2/3] -> Rexxar
+[Turn 10, Step 58] Agent: 공격 - Gazlowe[4/7] -> Rexxar
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (7): Barnes, Dr. Boom, Loose Specimen, Barista Lynchen, Finja, the Flying Star, Chopshop Copter, Junkbot
+  Field: Sunstruck Henchman[6/1], Twilight Guardian[2/3], Gazlowe[4/7], River Crocolisk[2/3], Worgen Greaser[6/2], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (7)
+  Field: King Mukla[6/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

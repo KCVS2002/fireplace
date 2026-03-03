@@ -1,0 +1,289 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (4): Disguised Wanderer, Breath of Sindragosa, Twilight Drake, Murmy
+  Field: Acidic Swamp Ooze[3/2]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+  Field: Rustsworn Initiate[2/2]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Rustsworn Initiate[2/2] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 4, Step 6] Agent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 공격 - Rustsworn Initiate[2/2] -> Acidic Swamp Ooze
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Murmy (코스트: 1)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (3): Breath of Sindragosa, Corrosive Sludge, Unexpected Results
+  Field: Twilight Drake[4/5], Disguised Wanderer[3/3], Murmy[1/1]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (7)
+  Field: Impcaster[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Impcaster[1/1] -> Twilight Drake
+[Turn 5, Step 10] Opponent: 카드 플레이 - Validated Doomsayer (코스트: 5)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(72) → 9로 보정
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(26) → 11로 보정
+[Turn 7, Step 13] Agent: 공격 - Disguised Wanderer[3/3] -> Rexxar
+[Turn 7, Step 14] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/7
+  Hand (4): Corrosive Sludge, Unexpected Results, The Voraxx, Forbidden Flame
+  Field: Twilight Drake[4/4], Disguised Wanderer[3/3], Murmy[1/1]
+Opponent: Rexxar HP: 26, Mana: 6/6
+  Hand (8)
+  Field: Validated Doomsayer[7/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(30) → 8로 보정
+[Turn 7, Step 15] Agent: 공격 - Twilight Drake[4/4] -> Validated Doomsayer
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Forbidden Flame -> Validated Doomsayer (코스트: 0)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 7, Step 17] Opponent: 선택 - Call of the Wild
+[Turn 7, Step 17] Opponent: 카드 플레이 - Midnight Drake (코스트: 4)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(60) → 9로 보정
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Vulpera Scoundrel
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 8, Step 19] Agent: 공격 - Disguised Wanderer[3/3] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/8
+  Hand (4): Corrosive Sludge, Unexpected Results, The Voraxx, Devoted Maniac
+  Field: Disguised Wanderer[3/3], Murmy[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (8)
+  Field: Vulpera Scoundrel[2/2], Midnight Drake[9/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Corrosive Sludge (코스트: 5)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 8, Step 21] Agent: 공격 - Murmy[1/1] -> Midnight Drake
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 8, Step 22] Opponent: 공격 - Midnight Drake[9/3] -> Jaina Proudmoore
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Bone Drake (코스트: 6)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(72) → 3로 보정
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/9
+  Hand (3): Unexpected Results, The Voraxx, Devoted Maniac
+  Field: Disguised Wanderer[3/3], Murmy[1/1], Corrosive Sludge[5/5], Bone Drake[6/5]
+Opponent: Rexxar HP: 22, Mana: 4/8
+  Hand (8)
+  Field: Vulpera Scoundrel[2/2], Midnight Drake[9/3], Arcane Fletcher[3/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(89) → 29로 보정
+[Turn 10, Step 26] Agent: 공격 - Bone Drake[6/5] -> Arcane Fletcher
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(99) → 11로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Murmy
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(30) → 8로 보정
+[Turn 10, Step 28] Agent: 공격 - Corrosive Sludge[5/5] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (3): Unexpected Results, The Voraxx, Animated Armor
+  Field: Disguised Wanderer[3/3], Corrosive Sludge[5/5], Bone Drake[6/2], Devoted Maniac[2/2]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (9)
+  Field: Vulpera Scoundrel[2/2], Midnight Drake[9/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 10, Step 31] Agent: 공격 - Devoted Maniac[2/2] -> Midnight Drake
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 32] Agent: 공격 - Disguised Wanderer[3/3] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (2): Unexpected Results, Hailbringer
+  Field: Disguised Wanderer[3/3], Corrosive Sludge[5/5], Bone Drake[6/2], The Voraxx[3/3], Animated Armor[4/4]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (10)
+  Field: Vulpera Scoundrel[2/2], Midnight Drake[9/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(81) → 9로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Bone Drake
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(39) → 11로 보정
+[Turn 10, Step 36] Agent: 공격 - The Voraxx[3/3] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 37] Agent: 공격 - Bone Drake[6/1] -> Vulpera Scoundrel
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 39] Agent: 공격 - Corrosive Sludge[5/5] -> Midnight Drake
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (2): Hailbringer, Nethrandamus
+  Field: Disguised Wanderer[3/3], The Voraxx[3/3], Animated Armor[4/4], Shadow Ascendant[2/2], Galvanizer[1/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 40] Agent: 공격 - Disguised Wanderer[3/3] -> Rexxar
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Mountain Giant (코스트: 3)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Demolisher (코스트: 3)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(66) → 32로 보정
+[Turn 10, Step 42] Agent: 공격 - Galvanizer[2/3] -> Cogmaster
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(86) → 14로 보정
+[Turn 10, Step 43] Agent: 공격 - Disguised Wanderer[3/3] -> Demolisher
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(72) → 9로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Shadow Ascendant
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (3): Hailbringer, Nethrandamus, Archmage Vargoth
+  Field: Disguised Wanderer[3/2], The Voraxx[3/3], Animated Armor[4/4], Shadow Ascendant[2/1]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (6)
+  Field: Mountain Giant[8/8], Demolisher[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 45] Agent: 공격 - The Voraxx[3/3] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(6) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Hailbringer (코스트: 5)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 공격 - Demolisher[1/1] -> Animated Armor
+[Turn 10, Step 47] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Archmage Vargoth (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/10
+  Hand (2): Nethrandamus, Bloodsail Raider
+  Field: Disguised Wanderer[3/2], The Voraxx[3/3], Animated Armor[4/3], Hailbringer[3/4], Ice Shard[2/2], Ice Shard[1/1], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (5)
+  Field: Mountain Giant[8/8], Ironfur Grizzly[3/3], Alarm-o-Bot[0/3], Nerub'ar Weblord[1/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(50) → 1로 보정
+[Turn 10, Step 50] Agent: 공격 - Disguised Wanderer[3/2] -> Ironfur Grizzly
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Animated Armor[4/3] -> Rexxar
+[Turn 10, Step 52] Agent: 공격 - The Voraxx[3/3] -> Mountain Giant
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Bloodsail Raider (코스트: 4)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(72) → 7로 보정
+[Turn 10, Step 54] Agent: 공격 - Ice Shard[2/2] -> Alarm-o-Bot
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (1): Nethrandamus
+  Field: Rustsworn Inquisitor[9/1], Animated Armor[4/3], Hailbringer[3/4], Ice Shard[2/2], Ice Shard[1/1], Archmage Vargoth[2/6], Bloodsail Raider[2/3]
+Opponent: Rexxar HP: 1, Mana: 5/10
+  Hand (5)
+  Field: Mountain Giant[8/5], Alarm-o-Bot[0/1], Nerub'ar Weblord[1/4]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(34) → 7로 보정
+[Turn 10, Step 55] Agent: 공격 - Ice Shard[1/1] -> Alarm-o-Bot
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Cheaty Anklebiter -> Mountain Giant (코스트: 4)
+[Turn 10, Step 56] Opponent: 공격 - Mountain Giant[8/4] -> Ice Shard
+[Turn 10, Step 56] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Hailbringer
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Bloodsail Raider[2/3] -> Mountain Giant
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Nerub'ar Weblord
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(99) → 14로 보정
+[Turn 10, Step 59] Agent: 공격 - Archmage Vargoth[2/6] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (2): Nethrandamus, Gnomish Experimenter
+  Field: Rustsworn Inquisitor[9/1], Animated Armor[4/3], Hailbringer[3/3], Ice Shard[2/2], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (5)
+  Field: Mountain Giant[8/1], Cheaty Anklebiter[2/1]
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (2): Nethrandamus, Gnomish Experimenter
+  Field: Rustsworn Inquisitor[9/1], Animated Armor[4/3], Hailbringer[3/3], Ice Shard[2/2], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (5)
+  Field: Mountain Giant[8/1], Cheaty Anklebiter[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

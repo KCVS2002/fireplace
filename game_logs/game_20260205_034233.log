@@ -1,0 +1,296 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (7): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Animated Armor, Rabble Bouncer, Argent Watchman, Duplicate
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 3, Step 5] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Argent Watchman (코스트: 2)
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Worgen Infiltrator[2/1] -> Argent Watchman
+[Turn 4, Step 8] Opponent: 카드 플레이 - Flare (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Duplicate (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/5
+  Hand (7): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Animated Armor, Rabble Bouncer, Cyclopian Horror, Ultrasaur
+  Field: Argent Watchman[2/2]
+Opponent: Rexxar HP: 30, Mana: 3/5
+  Hand (6)
+  Field: Devilsaur Egg[0/3]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Kodorider (코스트: 6)
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Forlorn Stalker (코스트: 3)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Devilsaur Egg
+[Turn 7, Step 14] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (7): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Rabble Bouncer, Cyclopian Horror, Ultrasaur, Jan'alai, the Dragonhawk
+  Field: Argent Watchman[2/2], Kodorider[3/5], War Kodo[3/5], Animated Armor[4/4]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (6)
+  Field: Devilsaur Egg[0/2], C'Thun's Chosen[4/2], Forlorn Stalker[4/2]
+[Turn 7, Step 15] Agent: 공격 - Kodorider[3/5] -> C'Thun's Chosen
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 공격 - Forlorn Stalker[4/2] -> Argent Watchman
+[Turn 7, Step 16] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 7, Step 16] Opponent: 카드 플레이 - Rhok'delar (코스트: 7)
+[Turn 7, Step 16] Opponent: 공격 - C'Thun's Chosen[4/2] -> Animated Armor
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 공격 - Kodorider[3/1] -> Rexxar
+[Turn 8, Step 18] Agent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Tentacle of N'Zoth
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/8
+  Hand (9): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Argent Watchman, The Boogeymonster
+  Field: Kodorider[3/1], War Kodo[3/5], War Kodo[3/5], Cyclopian Horror[3/5]
+Opponent: Rexxar HP: 27, Mana: 0/8
+  Hand (5)
+  Field: Devilsaur Egg[0/2], Tentacle of N'Zoth[2/1]
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Moat Lurker -> War Kodo (코스트: 6)
+[Turn 8, Step 20] Opponent: 카드 플레이 - Coliseum Manager (코스트: 3)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 공격 - Kodorider[3/1] -> Coliseum Manager
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 공격 - Rexxar[4/27] -> Cyclopian Horror
+[Turn 9, Step 22] Opponent: 공격 - Tentacle of N'Zoth[2/1] -> Cyclopian Horror
+[Turn 9, Step 22] Opponent: 공격 - Coliseum Manager[2/1] -> War Kodo
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 카드 플레이 - The Boogeymonster (코스트: 8)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (9): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Argent Watchman, Booty Bay Bookie
+  Field: War Kodo[3/2], The Boogeymonster[6/7]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (6)
+  Field: Devilsaur Egg[0/1], Moat Lurker[4/3]
+[Turn 10, Step 25] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 10, Step 26] Agent: 공격 - War Kodo[3/2] -> Rexxar
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> The Boogeymonster
+[Turn 10, Step 29] Agent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (8): Deck of Wonders, Quicksand Elemental, Faceless Corruptor, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Argent Watchman
+  Field: War Kodo[3/2], The Boogeymonster[6/6], Booty Bay Bookie[3/3], Bonechewer Vanguard[4/10]
+Opponent: Rexxar HP: 21, Mana: 3/10
+  Hand (7)
+  Field: Devilsaur Egg[0/1], Moat Lurker[4/3], Wrapped Golem[7/5], Scarab[1/1]
+[Turn 10, Step 30] Agent: 공격 - War Kodo[3/2] -> Scarab
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+[Turn 10, Step 31] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 33] Agent: 카드 플레이 - Argent Watchman (코스트: 2)
+[Turn 10, Step 34] Agent: 카드 플레이 - Faceless Corruptor -> The Boogeymonster (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (7): Deck of Wonders, Quicksand Elemental, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Volcanic Potion
+  Field: War Kodo[3/1], Faceless Corruptor[4/4], Booty Bay Bookie[3/3], Bonechewer Vanguard[4/10], Argent Watchman[2/4], Faceless Corruptor[4/4]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (6)
+  Field: Devilsaur Egg[0/1], Moat Lurker[4/3], Wrapped Golem[7/5], Scarab[1/1], Splitting Festeroot[5/5]
+[Turn 10, Step 35] Agent: 공격 - Booty Bay Bookie[3/3] -> Scarab
+[Turn 10, Step 36] Agent: 공격 - War Kodo[3/1] -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Faceless Corruptor[4/4] -> Devilsaur Egg
+[Turn 10, Step 38] Agent: 공격 - Faceless Corruptor[4/4] -> Moat Lurker
+[Turn 10, Step 39] Agent: 공격 - Bonechewer Vanguard[4/10] -> Splitting Festeroot
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (7): Deck of Wonders, Quicksand Elemental, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Volcanic Potion
+  Field: War Kodo[3/1], War Kodo[3/5], Booty Bay Bookie[3/2], Bonechewer Vanguard[4/5], Argent Watchman[2/4], Faceless Corruptor[4/4]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (6)
+  Field: Devilsaur[5/5], Wrapped Golem[7/5], Splitting Festeroot[5/1]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Devilsaur
+[Turn 10, Step 42] Agent: 공격 - Faceless Corruptor[4/4] -> Scarab
+[Turn 10, Step 43] Agent: 카드 플레이 - Volcanic Potion (코스트: 3)
+[Turn 10, Step 44] Agent: 공격 - War Kodo[3/3] -> Splitting Sapling
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/10
+  Hand (7): Deck of Wonders, Quicksand Elemental, Rabble Bouncer, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Dalaran Librarian
+  Field: War Kodo[3/1], Bonechewer Vanguard[4/3], Argent Watchman[2/2], Faceless Corruptor[4/1]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (7)
+  Field: Devilsaur[5/2], Wrapped Golem[7/3], Splitting Sapling[2/2], Woodchip[1/1], Woodchip[1/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Rabble Bouncer (코스트: 2)
+[Turn 10, Step 46] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 10, Step 47] Agent: 공격 - Bonechewer Vanguard[4/3] -> Woodchip
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Hyena Alpha (코스트: 4)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Argent Watchman
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Deck of Wonders, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Dalaran Librarian, Volcanosaur
+  Field: War Kodo[3/1], Bonechewer Vanguard[4/3], Argent Watchman[2/1], Faceless Corruptor[4/1], Rabble Bouncer[2/7], Quicksand Elemental[3/2]
+Opponent: Rexxar HP: 17, Mana: 6/10
+  Hand (7)
+  Field: Devilsaur[5/2], Wrapped Golem[7/3], Scarab[1/1], Splitting Sapling[2/2], Woodchip[1/1], Hyena Alpha[3/3]
+[Turn 10, Step 50] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 10, Step 51] Agent: 공격 - War Kodo[3/1] -> Scarab
+[Turn 10, Step 52] Agent: 공격 - Bonechewer Vanguard[4/3] -> Rexxar
+[Turn 10, Step 53] Agent: 공격 - Faceless Corruptor[4/1] -> Woodchip
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (6): Chillwind Yeti, Ultrasaur, Jan'alai, the Dragonhawk, Argent Watchman, Dalaran Librarian, Volcanosaur
+  Field: Bonechewer Vanguard[4/3], Argent Watchman[2/1], Rabble Bouncer[2/7], Quicksand Elemental[3/2]
+Opponent: Rexxar HP: 13, Mana: 6/10
+  Hand (7)
+  Field: Devilsaur[5/2], Wrapped Golem[7/3], Scarab[1/1], Splitting Sapling[2/2], Hyena Alpha[3/3], Frizz Kindleroost[5/4]
+[Turn 10, Step 55] Agent: 카드 플레이 - Argent Watchman (코스트: 2)
+[Turn 10, Step 56] Agent: 공격 - Bonechewer Vanguard[4/3] -> Scarab
+[Turn 10, Step 57] Agent: 공격 - Rabble Bouncer[2/7] -> Hyena Alpha
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Splitting Sapling
+[Turn 10, Step 59] Agent: 공격 - Quicksand Elemental[3/2] -> Frizz Kindleroost
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/10
+  Hand (5): Chillwind Yeti, Ultrasaur, Jan'alai, the Dragonhawk, Dalaran Librarian, Volcanosaur
+  Field: Bonechewer Vanguard[4/2], Argent Watchman[2/1], Rabble Bouncer[2/4], Argent Watchman[2/4]
+Opponent: Rexxar HP: 13, Mana: 6/10
+  Hand (7)
+  Field: Devilsaur[5/2], Wrapped Golem[7/3], Splitting Sapling[2/1], Hyena Alpha[3/1], Frizz Kindleroost[5/1]
+[Turn 10, Step 60] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 10, Step 61] Agent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 공격 - Rexxar[4/13] -> Rabble Bouncer
+[Turn 10, Step 62] Opponent: 카드 플레이 - Mayor Noggenfogger (코스트: 9)
+[Turn 10, Step 62] Opponent: 공격 - Devilsaur[5/2] -> Bonechewer Vanguard
+[Turn 10, Step 62] Opponent: 공격 - Splitting Sapling[2/1] -> Bonechewer Vanguard
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Scarab
+[Turn 10, Step 64] Agent: 카드 플레이 - Volcanosaur (코스트: 7)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (3): Ultrasaur, Jan'alai, the Dragonhawk, Whirlwind Tempest
+  Field: Bonechewer Vanguard[4/2], Argent Watchman[2/4], Chillwind Yeti[4/5], Dalaran Librarian[2/1], Volcanosaur[5/6]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (7)
+  Field: Wrapped Golem[7/2], Scarab[1/1], Woodchip[1/1], Woodchip[1/1], Hyena Alpha[3/1], Frizz Kindleroost[5/1], Mayor Noggenfogger[5/4]
+[Turn 10, Step 65] Agent: 선택 - Crackling Shield
+[Turn 10, Step 65] Agent: 선택 - Flaming Claws
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Woodchip[1/1] -> Bonechewer Vanguard
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 카드 플레이 - Jan'alai, the Dragonhawk (코스트: 7)
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Chillwind Yeti
+[Turn 10, Step 68] Agent: 공격 - Bonechewer Vanguard[4/2] -> Scarab
+[Turn 10, Step 69] Agent: 공격 - Dalaran Librarian[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (5): Blackwing Technician, Ultrasaur, Whirlwind Tempest, Corrupted Seer, Jar Dealer
+  Field: Bonechewer Vanguard[4/1], Argent Watchman[2/4], Chillwind Yeti[4/5], Volcanosaur[8/6], Jan'alai, the Dragonhawk[4/4], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (8)
+  Field: Wrapped Golem[7/2], Woodchip[1/1], Hyena Alpha[3/1], Frizz Kindleroost[5/1], Mayor Noggenfogger[5/4]
+[Turn 10, Step 70] Agent: 공격 - Chillwind Yeti[4/5] -> Wrapped Golem
+[Turn 10, Step 71] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 10, Step 72] Agent: 공격 - Volcanosaur[8/6] -> Rexxar
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (6): Blackwing Technician, Ultrasaur, Whirlwind Tempest, Corrupted Seer, Gadgetzan Auctioneer, Young Priestess
+  Field: Argent Watchman[2/2], Volcanosaur[8/4], Jan'alai, the Dragonhawk[4/2], Ragnaros the Firelord[8/6]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 75] Agent: 공격 - Volcanosaur[8/4] -> Rexxar
+
+--- Game State (Turn 10, Step 76) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (6): Blackwing Technician, Ultrasaur, Whirlwind Tempest, Corrupted Seer, Gadgetzan Auctioneer, Young Priestess
+  Field: Argent Watchman[2/2], Volcanosaur[8/4], Jan'alai, the Dragonhawk[4/2], Ragnaros the Firelord[8/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,131 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Injured Tol'vir (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Toothy Chest, Master Jouster, Ice Rager, Deathwing
+  Field: Injured Tol'vir[2/3], Zayle, Shadow Cloak[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Injured Tol'vir[2/3] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 공격 - Injured Tol'vir[2/3] -> Booty Bay Bookie
+[Turn 3, Step 8] Agent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 3, Step 9] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (4): The Lich King, Master Jouster, Ice Rager, Deathwing
+  Field: Zayle, Shadow Cloak[3/2], Toothy Chest[0/4]
+Opponent: Rexxar HP: 28, Mana: 1/3
+  Hand (5)
+  Field: Booty Bay Bookie[3/1]
+[Turn 3, Step 10] Agent: 공격 - Zayle, Shadow Cloak[3/2] -> Rexxar
+[Turn 3, Step 11] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 11] Opponent: 공격 - Booty Bay Bookie[3/1] -> Zayle, Shadow Cloak
+[Turn 3, Step 11] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 3, Step 11] Opponent: 영웅 능력 사용
+[Turn 3, Step 11] Opponent: 턴 종료
+[Turn 4, Step 12] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 4, Step 13] Agent: 공격 - Toothy Chest[4/4] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 4, Step 14] Opponent: 카드 플레이 - Hungry Crab (코스트: 3)
+[Turn 4, Step 14] Opponent: 공격 - Dalaran Librarian[2/3] -> Ice Rager
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (5): Ravenholdt Assassin, The Lich King, Master Jouster, Deathwing, Former Champ
+  Field: Toothy Chest[4/4]
+Opponent: Rexxar HP: 21, Mana: 1/5
+  Hand (4)
+  Field: Emerald Hive Queen[2/3], Hungry Crab[1/2]
+[Turn 5, Step 15] Agent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Toothy Chest[4/4] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 공격 - Emerald Hive Queen[2/3] -> Jaina Proudmoore
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 공격 - Former Champ[1/1] -> Hungry Crab
+[Turn 6, Step 19] Agent: 공격 - Toothy Chest[4/4] -> Emerald Hive Queen
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (5): Ravenholdt Assassin, The Lich King, Master Jouster, Deathwing, Fencing Coach
+  Field: Toothy Chest[4/2], Hotshot[5/5]
+Opponent: Rexxar HP: 17, Mana: 6/6
+  Hand (5)
+  Field: Hungry Crab[1/1]
+[Turn 6, Step 20] Agent: 카드 플레이 - Master Jouster (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Hotshot[5/5] -> Rexxar
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 공격 - Hotshot[5/5] -> Hungry Crab
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Master Jouster
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (5): Ravenholdt Assassin, The Lich King, Deathwing, Fencing Coach, Corpse Raiser
+  Field: Toothy Chest[4/2], Hotshot[5/4], Master Jouster[5/5]
+Opponent: Rexxar HP: 12, Mana: 7/7
+  Hand (6)
+[Turn 7, Step 25] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 7, Step 26] Agent: 공격 - Toothy Chest[4/2] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Master Jouster[5/5] -> Rexxar
+[Turn 7, Step 28] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 28] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 7, Step 28] Opponent: 카드 플레이 - Eydis Darkbane (코스트: 3)
+[Turn 7, Step 28] Opponent: 영웅 능력 사용
+[Turn 7, Step 28] Opponent: 턴 종료
+[Turn 8, Step 29] Agent: 공격 - Toothy Chest[4/2] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (5): Ravenholdt Assassin, The Lich King, Deathwing, Corpse Raiser, Lost Spirit
+  Field: Toothy Chest[4/2], Hotshot[5/4], Master Jouster[5/5], Fencing Coach[2/2]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (5)
+  Field: Eydis Darkbane[3/4]
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (5): Ravenholdt Assassin, The Lich King, Deathwing, Corpse Raiser, Lost Spirit
+  Field: Toothy Chest[4/2], Hotshot[5/4], Master Jouster[5/5], Fencing Coach[2/2]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (5)
+  Field: Eydis Darkbane[3/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

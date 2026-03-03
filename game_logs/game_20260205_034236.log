@@ -1,0 +1,316 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Teron Gorefiend, Summoning Stone, Frostwolf Grunt, Dire Wolf Alpha, Wasteland Scorpid
+  Field: Stonetusk Boar[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 공격 - Stonetusk Boar[1/1] -> Rexxar
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/4
+  Hand (6): Teron Gorefiend, Summoning Stone, Frostwolf Grunt, Dire Wolf Alpha, Wasteland Scorpid, Bolf Ramshield
+  Field: Stonetusk Boar[1/1], Silverback Patriarch[1/4]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (7)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 공격 - Stonetusk Boar[1/1] -> Rexxar
+[Turn 5, Step 12] Agent: 공격 - Silverback Patriarch[1/4] -> Coldlight Seer
+[Turn 5, Step 13] Agent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Frostwolf Grunt
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/5
+  Hand (6): Teron Gorefiend, Summoning Stone, Dire Wolf Alpha, Wasteland Scorpid, Bolf Ramshield, Belligerent Gnome
+  Field: Stonetusk Boar[1/1], Silverback Patriarch[1/2], Frostwolf Grunt[2/1]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (7)
+  Field: Coldlight Seer[2/2]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 공격 - Silverback Patriarch[1/2] -> Coldlight Seer
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Stonetusk Boar
+[Turn 6, Step 18] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (7): Teron Gorefiend, Summoning Stone, Dire Wolf Alpha, Wasteland Scorpid, Bolf Ramshield, Raging Worgen, Pantry Spider
+  Field: Frostwolf Grunt[2/1], Belligerent Gnome[1/4]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (9)
+  Field: Coldlight Seer[2/1]
+[Turn 7, Step 20] Agent: 카드 플레이 - Raging Worgen (코스트: 3)
+[Turn 7, Step 21] Agent: 카드 플레이 - Pantry Spider (코스트: 3)
+[Turn 7, Step 22] Agent: 공격 - Belligerent Gnome[1/4] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Bomb Toss -> Jaina Proudmoore (코스트: 2)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 7, Step 23] Opponent: 공격 - Coldlight Seer[2/1] -> Belligerent Gnome
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Belligerent Gnome
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/8
+  Hand (6): Mogu'shan Warden, Teron Gorefiend, Summoning Stone, Dire Wolf Alpha, Wasteland Scorpid, Bolf Ramshield
+  Field: Frostwolf Grunt[2/1], Belligerent Gnome[1/1], Raging Worgen[3/3], Pantry Spider[1/3], Cellar Spider[1/3]
+Opponent: Rexxar HP: 26, Mana: 0/8
+  Hand (8)
+  Field: Goblin Bomb[0/2], Xavius[7/5]
+[Turn 8, Step 25] Agent: 카드 플레이 - Summoning Stone (코스트: 5)
+[Turn 8, Step 26] Agent: 공격 - Belligerent Gnome[1/1] -> Xavius
+[Turn 8, Step 27] Agent: 공격 - Cellar Spider[1/3] -> Goblin Bomb
+[Turn 8, Step 28] Agent: 공격 - Raging Worgen[3/3] -> Xavius
+[Turn 8, Step 29] Agent: 공격 - Pantry Spider[1/3] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/8
+  Hand (5): Mogu'shan Warden, Teron Gorefiend, Dire Wolf Alpha, Wasteland Scorpid, Bolf Ramshield
+  Field: Frostwolf Grunt[2/1], Pantry Spider[1/3], Cellar Spider[1/3], Summoning Stone[0/6]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (8)
+  Field: Goblin Bomb[0/1], Xavius[7/1]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 8, Step 30] Opponent: 카드 플레이 - Dozing Marksman (코스트: 2)
+[Turn 8, Step 30] Opponent: 공격 - Xavius[7/1] -> Frostwolf Grunt
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Silver Vanguard
+[Turn 9, Step 32] Agent: 카드 플레이 - Wasteland Scorpid (코스트: 7)
+[Turn 9, Step 33] Agent: 공격 - Pantry Spider[1/3] -> Xavian Satyr
+[Turn 9, Step 34] Agent: 공격 - Cellar Spider[1/3] -> Dozing Marksman
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/9
+  Hand (5): Mogu'shan Warden, Teron Gorefiend, Dire Wolf Alpha, Bolf Ramshield, Icehowl
+  Field: Pantry Spider[1/1], Cellar Spider[1/3], Summoning Stone[0/6], Wasteland Scorpid[3/9]
+Opponent: Rexxar HP: 25, Mana: 0/9
+  Hand (7)
+  Field: Goblin Bomb[0/1], Xavian Satyr[2/1], Silver Vanguard[3/2], Dozing Marksman[4/3]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Cellar Spider
+[Turn 10, Step 38] Agent: 카드 플레이 - Teron Gorefiend (코스트: 3)
+[Turn 10, Step 39] Agent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (3): Dire Wolf Alpha, Bolf Ramshield, Icehowl
+  Field: Teron Gorefiend[3/4], Saronite Taskmaster[2/3]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Goblin Bomb[0/1], Xavian Satyr[2/1], Silver Vanguard[3/2], Dozing Marksman[4/3]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Dozing Marksman[4/3] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Teron Gorefiend[3/4] -> Xavian Satyr
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Silver Vanguard
+[Turn 10, Step 43] Agent: 카드 플레이 - Scorch -> Teron Gorefiend (코스트: 4)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Dozing Marksman[4/3] -> Mogu'shan Warden
+[Turn 10, Step 44] Opponent: 카드 플레이 - Leatherclad Hogleader (코스트: 6)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (4): Dire Wolf Alpha, Bolf Ramshield, Icehowl, Lesser Ruby Spellstone
+  Field: Saronite Taskmaster[2/3], Pantry Spider[2/4], Cellar Spider[2/4], Summoning Stone[1/7], Wasteland Scorpid[4/10], Mogu'shan Warden[2/4]
+Opponent: Rexxar HP: 25, Mana: 2/10
+  Hand (8)
+  Field: Goblin Bomb[0/1], Silver Vanguard[3/1], Dozing Marksman[4/1], Leatherclad Hogleader[6/6], Sunfury Protector[2/3]
+[Turn 10, Step 45] Agent: 공격 - Pantry Spider[2/4] -> Leatherclad Hogleader
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Cellar Spider
+[Turn 10, Step 47] Agent: 공격 - Cellar Spider[2/3] -> Leatherclad Hogleader
+[Turn 10, Step 48] Agent: 공격 - Saronite Taskmaster[2/3] -> Leatherclad Hogleader
+[Turn 10, Step 49] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (3): Dire Wolf Alpha, Icehowl, Lesser Ruby Spellstone
+  Field: Summoning Stone[1/7], Wasteland Scorpid[4/10], Mogu'shan Warden[2/4], Bolf Ramshield[3/9]
+Opponent: Rexxar HP: 25, Mana: 2/10
+  Hand (8)
+  Field: Free Agent[0/3], Goblin Bomb[0/1], Silver Vanguard[3/1], Dozing Marksman[4/1], Sunfury Protector[2/3]
+[Turn 10, Step 50] Agent: 카드 플레이 - Dire Wolf Alpha (코스트: 2)
+[Turn 10, Step 51] Agent: 공격 - Summoning Stone[1/7] -> Free Agent
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Sunfury Protector[2/3] -> Mogu'shan Warden
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Bolf Ramshield[4/9] -> Free Agent
+[Turn 10, Step 54] Agent: 공격 - Mogu'shan Warden[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (3): Icehowl, Lesser Ruby Spellstone, Meat Wagon
+  Field: Summoning Stone[1/7], Wasteland Scorpid[4/10], Mogu'shan Warden[2/2], Bolf Ramshield[4/9], Dire Wolf Alpha[2/2]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (9)
+  Field: Goblin Bomb[0/1], Silver Vanguard[3/1], Dozing Marksman[4/1], Sunfury Protector[2/1]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Wasteland Scorpid
+[Turn 10, Step 56] Agent: 공격 - Dire Wolf Alpha[2/2] -> Sunfury Protector
+[Turn 10, Step 57] Agent: 공격 - Wasteland Scorpid[4/9] -> Silver Vanguard
+[Turn 10, Step 58] Agent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 10, Step 59] Agent: 공격 - Summoning Stone[1/7] -> Dozing Marksman
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/10
+  Hand (2): Icehowl, Lesser Ruby Spellstone
+  Field: Summoning Stone[1/3], Wasteland Scorpid[4/6], Mogu'shan Warden[2/2], Bolf Ramshield[3/9], Meat Wagon[1/4]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (9)
+  Field: Goblin Bomb[0/1]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 10, Step 60] Opponent: 영웅 능력 사용
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Meat Wagon
+[Turn 10, Step 63] Agent: 공격 - Meat Wagon[1/3] -> Goblin Bomb
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (4): Icehowl, Baku the Mooneater, Netherwind Portal, Hippogryph
+  Field: Summoning Stone[1/3], Mechwarper[2/3], Wasteland Scorpid[4/6], Mogu'shan Warden[2/2], Bolf Ramshield[3/5], Meat Wagon[1/3]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (10)
+  Field: Dragon Egg[0/2]
+[Turn 10, Step 65] Agent: 카드 플레이 - Icehowl (코스트: 9)
+[Turn 10, Step 66] Agent: 공격 - Mechwarper[2/3] -> Rexxar
+[Turn 10, Step 67] Agent: 공격 - Bolf Ramshield[3/5] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Mogu'shan Warden[2/2] -> Dragon Egg
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (4): Baku the Mooneater, Netherwind Portal, Hippogryph, Octosari
+  Field: Summoning Stone[1/3], Mechwarper[2/3], Wasteland Scorpid[4/6], Mogu'shan Warden[2/2], Bolf Ramshield[3/5], Meat Wagon[1/3], Icehowl[10/10]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Black Whelp[2/1]
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Summoning Stone
+[Turn 10, Step 71] Agent: 공격 - Wasteland Scorpid[4/6] -> Rexxar
+[Turn 10, Step 72] Agent: 공격 - Mogu'shan Warden[2/2] -> Black Whelp
+[Turn 10, Step 73] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 10, Step 74] Agent: 공격 - Bolf Ramshield[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/10
+  Hand (3): Baku the Mooneater, Netherwind Portal, Octosari
+  Field: Summoning Stone[1/2], Mechwarper[2/3], Wasteland Scorpid[4/6], Bolf Ramshield[3/5], Meat Wagon[1/3], Icehowl[10/10], Hippogryph[2/6]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 75] Agent: 공격 - Meat Wagon[1/3] -> Rexxar
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 공격 - Bolf Ramshield[3/5] -> Rexxar
+[Turn 10, Step 78] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 카드 플레이 - High Inquisitor Whitemane (코스트: 7)
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (5): Baku the Mooneater, Netherwind Portal, Octosari, Echo of Medivh, Tomb Lurker
+  Field: Summoning Stone[1/2], Mechwarper[2/3], Wasteland Scorpid[4/6], Bolf Ramshield[3/4], Meat Wagon[1/3], Icehowl[10/10], Hippogryph[2/6]
+Opponent: Rexxar HP: 7, Mana: 3/10
+  Hand (9)
+  Field: High Inquisitor Whitemane[6/8]
+[Turn 10, Step 80] Agent: 공격 - Wasteland Scorpid[4/6] -> High Inquisitor Whitemane
+[Turn 10, Step 81] Agent: 공격 - Bolf Ramshield[3/4] -> Rexxar
+[Turn 10, Step 82] Agent: 카드 플레이 - Echo of Medivh (코스트: 4)
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Bolf Ramshield
+[Turn 10, Step 84] Agent: 카드 플레이 - Netherwind Portal (코스트: 3)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (9): Baku the Mooneater, Octosari, Tomb Lurker, Summoning Stone, Bolf Ramshield, Meat Wagon, Mechwarper, Icehowl, Hippogryph
+  Field: Summoning Stone[1/2], Southsea Squidface[4/4], Mechwarper[2/3], Bolf Ramshield[3/3], Meat Wagon[1/3], Icehowl[10/10], Hippogryph[2/6]
+Opponent: Rexxar HP: 4, Mana: 3/10
+  Hand (9)
+[Turn 10, Step 85] Agent: 공격 - Summoning Stone[1/2] -> Rexxar
+[Turn 10, Step 86] Agent: 공격 - Hippogryph[2/6] -> Rexxar
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 카드 플레이 - Cloaked Huntress (코스트: 3)
+[Turn 10, Step 87] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 10, Step 87] Opponent: 카드 플레이 - Crystallizer (코스트: 1)
+
+--- Game State (Turn 10, Step 88) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (9): Baku the Mooneater, Octosari, Tomb Lurker, Summoning Stone, Bolf Ramshield, Meat Wagon, Mechwarper, Icehowl, Hippogryph
+  Field: Summoning Stone[1/2], Southsea Squidface[4/4], Mechwarper[2/3], Bolf Ramshield[3/3], Meat Wagon[1/3], Icehowl[10/10], Hippogryph[2/6]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Cloaked Huntress[3/4], Savannah Highmane[6/5], Crystallizer[1/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

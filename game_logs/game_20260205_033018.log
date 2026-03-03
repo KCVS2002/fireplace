@@ -1,0 +1,314 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(11) → 5로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Arcanologist (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Mana Cyclone, Twilight Guardian, Unpowered Mauler, Faceless Rager, Volatile Elemental
+  Field: Arcanologist[2/3]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+  Field: Lorewalker Cho[0/4]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Arcanologist
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 3, Step 7] Agent: 공격 - Arcanologist[2/2] -> Emperor Cobra
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 3, Step 8] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(89) → 11로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Sewer Crawler
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/4
+  Hand (7): Mana Cyclone, Twilight Guardian, Unpowered Mauler, Faceless Rager, Volatile Elemental, Volcanic Drake, Grand Archivist
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (3)
+  Field: Lorewalker Cho[0/4], Emperor Cobra[2/1], Murloc Raider[2/1], Giant Rat[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 4, Step 10] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Stormhammer (코스트: 3)
+[Turn 4, Step 11] Opponent: 영웅 능력 사용
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Mana Cyclone[2/2] -> Emperor Cobra
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 5, Step 14] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (6): Twilight Guardian, Unpowered Mauler, Faceless Rager, Volcanic Drake, Grand Archivist, Soldier of Fortune
+  Field: Volatile Elemental[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (3)
+  Field: Lorewalker Cho[0/4], Murloc Raider[2/1], Giant Rat[2/3]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 6, Step 16] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 6, Step 18] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/7
+  Hand (7): Unpowered Mauler, Faceless Rager, Volcanic Drake, Grand Archivist, Soldier of Fortune, Bonemare, Deathwing, Dragonlord
+  Field: Volatile Elemental[1/1], Twilight Guardian[3/6]
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (6)
+  Field: Lorewalker Cho[0/4], Murloc Raider[2/1], Giant Rat[2/3], Countess Ashmore[6/6]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(37) → 13로 보정
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(55) → 10로 보정
+[Turn 7, Step 21] Agent: 공격 - Twilight Guardian[3/6] -> Rexxar
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(35) → 5로 보정
+[Turn 7, Step 22] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 7, Step 23] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 7, Step 24] Agent: 카드 플레이 - Faceless Rager -> Volatile Elemental (코스트: 3)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/7
+  Hand (5): Volcanic Drake, Grand Archivist, Soldier of Fortune, Bonemare, Deathwing, Dragonlord
+  Field: Volatile Elemental[1/1], Twilight Guardian[3/6], Unpowered Mauler[2/4], Faceless Rager[5/1]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Lorewalker Cho[0/4], Murloc Raider[2/1], Giant Rat[2/3], Countess Ashmore[6/5]
+[Turn 7, Step 25] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 영웅 능력 사용
+[Turn 7, Step 25] Opponent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 7, Step 25] Opponent: 공격 - Rexxar[3/23] -> Twilight Guardian
+[Turn 7, Step 25] Opponent: 공격 - Murloc Raider[3/2] -> Twilight Guardian
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(67) → 15로 보정
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Felfin Navigator
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 8, Step 27] Agent: 공격 - Faceless Rager[5/1] -> Rexxar
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 8, Step 28] Opponent: 영웅 능력 사용
+[Turn 8, Step 28] Opponent: 공격 - Rexxar[3/15] -> Jaina Proudmoore
+[Turn 8, Step 28] Opponent: 카드 플레이 - Muck Hunter (코스트: 5)
+[Turn 8, Step 28] Opponent: 공격 - Giant Rat[2/3] -> Jaina Proudmoore
+[Turn 8, Step 28] Opponent: 공격 - Countess Ashmore[6/5] -> Muckling
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 6)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/9
+  Hand (6): Volcanic Drake, Grand Archivist, Soldier of Fortune, Bonemare, Deathwing, Dragonlord, Ysera
+  Field: Volatile Elemental[1/1], Unpowered Mauler[2/4], Faceless Rager[5/1], Muckling[2/1], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 15, Mana: 0/9
+  Hand (5)
+  Field: Lorewalker Cho[0/4], Giant Rat[2/3], Countess Ashmore[6/3], Felfin Navigator[4/3], Nat Pagle[0/4], Muck Hunter[5/8]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Giant Rat
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(97) → 9로 보정
+[Turn 9, Step 31] Agent: 공격 - Faceless Rager[5/1] -> Lorewalker Cho
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 공격 - Felfin Navigator[4/3] -> Muckling
+[Turn 9, Step 32] Opponent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 9, Step 32] Opponent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 9, Step 32] Opponent: 공격 - Muck Hunter[5/8] -> Faceless Rager
+[Turn 9, Step 32] Opponent: 공격 - Giant Rat[2/2] -> Jaina Proudmoore
+[Turn 9, Step 32] Opponent: 공격 - Countess Ashmore[6/3] -> Sylvanas Windrunner
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Grand Archivist (코스트: 8)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(83) → 13로 보정
+[Turn 10, Step 34] Agent: 공격 - Volatile Elemental[1/1] -> Wrathion
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/10
+  Hand (6): Volcanic Drake, Soldier of Fortune, Bonemare, Deathwing, Dragonlord, Ysera, Goblin Bomb
+  Field: Unpowered Mauler[2/4], Nat Pagle[0/4], Grand Archivist[4/7]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (6)
+  Field: Giant Rat[2/2], Felfin Navigator[4/1], Muck Hunter[5/3], Wrathion[4/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 35] Opponent: 공격 - Muck Hunter[5/3] -> Grand Archivist
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(62) → 20로 보정
+[Turn 10, Step 36] Agent: 공격 - Grand Archivist[4/2] -> Wrathion
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(20) → 3로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Bonemare -> Unpowered Mauler (코스트: 8)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(17) → 7로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 39] Opponent: 공격 - Felfin Navigator[4/1] -> Unpowered Mauler
+[Turn 10, Step 39] Opponent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (8): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Ysera, Goblin Bomb, Big Bad Archmage, Shallow Gravedigger, Hench-Clan Hag
+  Field: Unpowered Mauler[6/4], Nat Pagle[0/3], Bonemare[5/5]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (5)
+  Field: Giant Rat[2/2], Injured Blademaster[4/3], Old Murk-Eye[2/4], Rattling Rascal[2/2], Skeletal Enforcer[5/5]
+[Turn 10, Step 40] Agent: 카드 플레이 - Goblin Bomb (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Ysera (코스트: 9)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 10, Step 42] Agent: 공격 - Bonemare[5/5] -> Rattling Rascal
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(80) → 6로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/10
+  Hand (8): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Big Bad Archmage, Shallow Gravedigger, Ysera Awakens, Dragon Egg, Quicksand Elemental
+  Field: Unpowered Mauler[6/4], Nat Pagle[0/3], Bonemare[5/3], Skeletal Enforcer[5/5], Goblin Bomb[0/2], Ysera[4/12], Hench-Clan Hag[3/3]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+  Field: Giant Rat[2/2], Injured Blademaster[4/3], Old Murk-Eye[2/4], Skeletal Enforcer[5/5]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Hench-Clan Hag
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(60) → 9로 보정
+[Turn 10, Step 46] Agent: 공격 - Skeletal Enforcer[5/5] -> Injured Blademaster
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 47] Agent: 공격 - Bonemare[5/3] -> Skeletal Enforcer
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Refreshment Vendor (코스트: 4)
+[Turn 10, Step 48] Opponent: 공격 - Old Murk-Eye[2/4] -> Unpowered Mauler
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(41) → 4로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Big Bad Archmage (코스트: 10)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (9): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Shallow Gravedigger, Ysera Awakens, Dragon Egg, Quicksand Elemental, Nightmare, Raid Leader
+  Field: Unpowered Mauler[6/2], Nat Pagle[0/3], Skeletal Enforcer[5/1], Goblin Bomb[0/2], Ysera[4/12], Hench-Clan Hag[3/2], Big Bad Archmage[6/6]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (5)
+  Field: Giant Rat[2/2], Sabretooth Stalker[8/2], Refreshment Vendor[3/5]
+[Turn 10, Step 50] Agent: 카드 플레이 - Nightmare -> Skeletal Enforcer (코스트: 0)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(23) → 10로 보정
+[Turn 10, Step 51] Agent: 공격 - Hench-Clan Hag[3/2] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Unpowered Mauler[6/2] -> Giant Rat
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 53] Agent: 공격 - Skeletal Enforcer[5/1] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Sabretooth Stalker[8/2] -> Ysera
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Shallow Gravedigger, Ysera Awakens, Dragon Egg, Quicksand Elemental, Raid Leader, Dream, Evolved Kobold
+  Field: Nat Pagle[0/3], Skeletal Enforcer[5/1], Goblin Bomb[0/2], Ysera[4/4], Hench-Clan Hag[3/2], Big Bad Archmage[6/6], Scavenging Shivarra[6/3]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+  Field: Refreshment Vendor[3/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Dream -> Hench-Clan Hag (코스트: 0)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(53) → 25로 보정
+[Turn 10, Step 56] Agent: 공격 - Big Bad Archmage[6/6] -> Refreshment Vendor
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(48) → 6로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Ysera
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (10): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Shallow Gravedigger, Ysera Awakens, Dragon Egg, Raid Leader, Evolved Kobold, Hench-Clan Hag, Nightmare
+  Field: Nat Pagle[0/3], Skeletal Enforcer[5/1], Goblin Bomb[0/2], Ysera[4/3], Big Bad Archmage[6/3], Scavenging Shivarra[6/3], Quicksand Elemental[3/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(63) → 17로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Quicksand Elemental
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 61] Agent: 공격 - Skeletal Enforcer[5/1] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(33) → 7로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Nightmare -> Scavenging Shivarra (코스트: 0)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 63] Agent: 공격 - Big Bad Archmage[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (9): Volcanic Drake, Soldier of Fortune, Deathwing, Dragonlord, Shallow Gravedigger, Ysera Awakens, Dragon Egg, Raid Leader, Evolved Kobold, Hench-Clan Hag
+  Field: Nat Pagle[0/3], Skeletal Enforcer[5/1], Goblin Bomb[0/2], Ysera[4/3], Big Bad Archmage[6/3], Scavenging Shivarra[6/3], Quicksand Elemental[3/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

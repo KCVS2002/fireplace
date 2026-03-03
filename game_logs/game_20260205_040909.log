@@ -1,0 +1,130 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Youthful Brewmaster -> Murloc Tidehunter (코스트: 2)
+[Turn 3, Step 4] Agent: 카드 플레이 - Soulbound Ashtongue (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Cloud Prince, Mimiron's Head, Siamat, Murloc Tidehunter
+  Field: Murloc Scout[1/1], Youthful Brewmaster[3/2], Soulbound Ashtongue[1/4]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 공격 - Murloc Scout[1/1] -> Rexxar
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 3, Step 6] Opponent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 4, Step 8] Agent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 4, Step 9] Agent: 공격 - Murloc Scout[1/1] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (3): Cloud Prince, Mimiron's Head, Siamat
+  Field: Murloc Scout[1/1], Youthful Brewmaster[3/2], Soulbound Ashtongue[1/4], Murloc Tidehunter[2/1], Murloc Scout[1/1], Huge Toad[3/2]
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (5)
+  Field: Ship's Cannon[2/3], Injured Kvaldir[2/1]
+[Turn 4, Step 10] Agent: 공격 - Youthful Brewmaster[3/2] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Soulbound Ashtongue[1/4] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Murloc Tidehunter[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Faceless Shambler -> Ship's Cannon (코스트: 4)
+[Turn 4, Step 13] Opponent: 공격 - Injured Kvaldir[2/1] -> Murloc Tidehunter
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (3): Mimiron's Head, Siamat, Glacial Mysteries
+  Field: Murloc Scout[1/1], Youthful Brewmaster[3/2], Soulbound Ashtongue[1/4], Murloc Scout[1/1], Huge Toad[3/2], Cloud Prince[4/4]
+Opponent: Rexxar HP: 22, Mana: 0/4
+  Hand (5)
+  Field: Ship's Cannon[2/3], Faceless Shambler[2/3]
+[Turn 5, Step 15] Agent: 공격 - Murloc Scout[1/1] -> Faceless Shambler
+[Turn 5, Step 16] Agent: 공격 - Youthful Brewmaster[3/2] -> Faceless Shambler
+[Turn 5, Step 17] Agent: 공격 - Soulbound Ashtongue[1/4] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Murloc Scout[1/1] -> Rexxar
+[Turn 5, Step 19] Agent: 공격 - Huge Toad[3/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (3): Mimiron's Head, Siamat, Glacial Mysteries
+  Field: Soulbound Ashtongue[1/4], Murloc Scout[1/1], Huge Toad[3/2], Cloud Prince[4/4]
+Opponent: Rexxar HP: 17, Mana: 0/4
+  Hand (5)
+  Field: Ship's Cannon[2/3]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 6, Step 22] Agent: 공격 - Soulbound Ashtongue[1/4] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Murloc Scout[1/1] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Huge Toad[3/2] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/6
+  Hand (3): Siamat, Glacial Mysteries, Coldwraith
+  Field: Soulbound Ashtongue[1/4], Murloc Scout[1/1], Huge Toad[3/2], Cloud Prince[4/4], Mimiron's Head[4/5]
+Opponent: Rexxar HP: 12, Mana: 5/5
+  Hand (6)
+  Field: Ship's Cannon[2/3]
+[Turn 6, Step 25] Agent: 공격 - Cloud Prince[4/4] -> Rexxar
+[Turn 6, Step 26] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 26] Opponent: 턴 종료
+[Turn 7, Step 27] Agent: 카드 플레이 - Siamat (코스트: 7)
+[Turn 7, Step 28] Agent: 선택 - Siamat's Wind
+[Turn 7, Step 28] Agent: 선택 - Siamat's Shield
+[Turn 7, Step 28] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 28] Opponent: 카드 플레이 - Imp Master (코스트: 3)
+[Turn 7, Step 28] Opponent: 공격 - Ship's Cannon[2/3] -> Soulbound Ashtongue
+[Turn 7, Step 28] Opponent: 영웅 능력 사용
+[Turn 7, Step 28] Opponent: 턴 종료
+[Turn 8, Step 29] Agent: 공격 - Mimiron's Head[4/5] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (4): Glacial Mysteries, Coldwraith, Dancing Swords, Rummaging Kobold
+  Field: Soulbound Ashtongue[1/2], Murloc Scout[1/1], Huge Toad[3/2], Cloud Prince[4/4], Mimiron's Head[4/5], Siamat[6/6]
+Opponent: Rexxar HP: 4, Mana: 2/7
+  Hand (7)
+  Field: Ship's Cannon[2/2], Imp Master[1/4], Imp[1/1]
+[Turn 8, Step 30] Agent: 공격 - Siamat[6/6] -> Rexxar
+
+--- Game State (Turn 8, Step 31) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (4): Glacial Mysteries, Coldwraith, Dancing Swords, Rummaging Kobold
+  Field: Soulbound Ashtongue[1/2], Murloc Scout[1/1], Huge Toad[3/2], Cloud Prince[4/4], Mimiron's Head[4/5], Siamat[6/6]
+Opponent: Rexxar HP: 0, Mana: 2/7
+  Hand (7)
+  Field: Ship's Cannon[2/2], Imp Master[1/4], Imp[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

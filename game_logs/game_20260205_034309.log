@@ -1,0 +1,224 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 1, Step 4] Opponent: 공격 - Hunting Mastiff[2/1] -> Murloc Tinyfin
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (5): Hemet Nesingwary, Belligerent Gnome, Bolf Ramshield, Blast Wave, Kirin Tor Tricaster
+  Field: Raven Familiar[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Raven Familiar
+[Turn 2, Step 6] Agent: 공격 - Raven Familiar[2/1] -> Rexxar
+[Turn 2, Step 7] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 7] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 2, Step 7] Opponent: 턴 종료
+[Turn 3, Step 8] Agent: 영웅 능력 사용 -> Raven Familiar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 3, Step 9] Opponent: 공격 - Silverback Patriarch[1/4] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (7): Batterhead, Hemet Nesingwary, Belligerent Gnome, Bolf Ramshield, Blast Wave, Kirin Tor Tricaster, Murloc Tidecaller
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (4)
+  Field: Silverback Patriarch[1/4], Rustsworn Cultist[3/3]
+[Turn 4, Step 10] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Belligerent Gnome
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Dragonbane (코스트: 4)
+[Turn 4, Step 12] Opponent: 공격 - Rustsworn Cultist[3/3] -> Belligerent Gnome
+[Turn 4, Step 12] Opponent: 공격 - Silverback Patriarch[1/4] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 14] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (6): Batterhead, Hemet Nesingwary, Bolf Ramshield, Blast Wave, Kirin Tor Tricaster, Loatheb
+  Field: Murloc Tidecaller[1/2]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (4)
+  Field: Silverback Patriarch[1/4], Rustsworn Cultist[3/1], Dragonbane[3/5]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 공격 - Dragonbane[3/5] -> Murloc Tidecaller
+[Turn 5, Step 15] Opponent: 영웅 능력 사용
+[Turn 5, Step 15] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 5, Step 15] Opponent: 공격 - Silverback Patriarch[1/4] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Silverback Patriarch
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Rustsworn Cultist[3/1] -> Spiritsinger Umbra
+[Turn 6, Step 18] Opponent: 카드 플레이 - Doppelgangster (코스트: 7)
+[Turn 6, Step 18] Opponent: 공격 - Dragonbane[3/4] -> Spiritsinger Umbra
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Silverback Patriarch
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/7
+  Hand (7): Batterhead, Hemet Nesingwary, Bolf Ramshield, Blast Wave, Kirin Tor Tricaster, Loatheb, Gluttonous Ooze
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (4)
+  Field: Silverback Patriarch[1/2], Dragonbane[3/1], Nerub'ar Weblord[1/4], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2]
+[Turn 7, Step 20] Agent: 카드 플레이 - Gluttonous Ooze (코스트: 5)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Doppelgangster[2/2] -> Gluttonous Ooze
+[Turn 7, Step 21] Opponent: 카드 플레이 - Stitched Tracker (코스트: 5)
+[Turn 7, Step 21] Opponent: 선택 - Deadscale Knight
+[Turn 7, Step 21] Opponent: 공격 - Doppelgangster[2/2] -> Gluttonous Ooze
+[Turn 7, Step 21] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 8, Step 23] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 8, Step 24] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 8, Step 24] Opponent: 공격 - Dragonbane[3/1] -> Bolf Ramshield
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 9/9
+  Hand (7): Spellward Jeweler, Batterhead, Hemet Nesingwary, Blast Wave, Kirin Tor Tricaster, Loatheb, Lone Champion
+  Field: Bolf Ramshield[3/6]
+Opponent: Rexxar HP: 27, Mana: 4/9
+  Hand (4)
+  Field: Silverback Patriarch[1/2], Nerub'ar Weblord[1/4], Doppelgangster[2/1], Stitched Tracker[2/2], Tournament Medic[1/8], Deadscale Knight[1/1]
+[Turn 9, Step 25] Agent: 공격 - Bolf Ramshield[3/6] -> Silverback Patriarch
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Stitched Tracker
+[Turn 9, Step 27] Agent: 카드 플레이 - Kirin Tor Tricaster (코스트: 4)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 공격 - Rusted Devil[1/1] -> Kirin Tor Tricaster
+[Turn 9, Step 28] Opponent: 공격 - Deadscale Knight[1/1] -> Bolf Ramshield
+[Turn 9, Step 28] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 9, Step 28] Opponent: 공격 - Doppelgangster[2/1] -> Bolf Ramshield
+[Turn 9, Step 28] Opponent: 공격 - Tournament Medic[1/8] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 공격 - Stitched Tracker[2/1] -> Kirin Tor Tricaster
+[Turn 9, Step 28] Opponent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 9, Step 28] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Loatheb (코스트: 7)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 3/10
+  Hand (6): Ancient Shade, Spellward Jeweler, Batterhead, Hemet Nesingwary, Blast Wave, Lone Champion
+  Field: Loatheb[5/5]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (3)
+  Field: Nerub'ar Weblord[1/4], Tournament Medic[1/8], Duskboar[4/1], The Boogeymonster[6/7]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 공격 - Tournament Medic[1/8] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 공격 - The Boogeymonster[6/7] -> Loatheb
+[Turn 10, Step 30] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 공격 - Duskboar[4/1] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Silithid Swarmer
+[Turn 10, Step 32] Agent: 카드 플레이 - Blast Wave (코스트: 5)
+[Turn 10, Step 33] Agent: 카드 플레이 - Snap Freeze -> Silithid Swarmer (코스트: 2)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Nerub'ar Weblord[1/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Anubisath Warbringer (코스트: 9)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (7): Ancient Shade, Spellward Jeweler, Batterhead, Hemet Nesingwary, Lone Champion, Mechanical Yeti, Wax Elemental
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (3)
+  Field: Nerub'ar Weblord[1/2], Tournament Medic[1/6], The Boogeymonster[8/2], Silithid Swarmer[3/2], Anubisath Warbringer[9/6]
+[Turn 10, Step 35] Agent: 카드 플레이 - Spellward Jeweler (코스트: 5)
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Spellward Jeweler
+[Turn 10, Step 37] Agent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 10, Step 38] Opponent: 공격 - Anubisath Warbringer[9/6] -> Wax Elemental
+[Turn 10, Step 38] Opponent: 공격 - The Boogeymonster[8/2] -> Wax Elemental
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Batterhead (코스트: 8)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (5): Ancient Shade, Hemet Nesingwary, Lone Champion, Mechanical Yeti, Echo of Medivh
+  Field: Spellward Jeweler[3/3], Batterhead[3/12]
+Opponent: Rexxar HP: 30, Mana: 6/10
+  Hand (3)
+  Field: Nerub'ar Weblord[1/2], Tournament Medic[1/6], The Boogeymonster[10/4], Silithid Swarmer[3/2], Anubisath Warbringer[9/6], Piloted Shredder[4/3]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Spellward Jeweler
+[Turn 10, Step 41] Agent: 공격 - Spellward Jeweler[3/2] -> The Boogeymonster
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Anubisath Warbringer[9/6] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Batterhead[3/12] -> The Boogeymonster
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Batterhead
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (6): Ancient Shade, Hemet Nesingwary, Lone Champion, Mechanical Yeti, Echo of Medivh, Skydiving Instructor
+  Field: Batterhead[3/1]
+Opponent: Rexxar HP: 30, Mana: 8/10
+  Hand (3)
+  Field: Nerub'ar Weblord[1/2], Tournament Medic[1/6], Silithid Swarmer[3/2], Anubisath Warbringer[9/6], Piloted Shredder[4/3], Soup Vendor[1/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Lone Champion (코스트: 5)
+[Turn 10, Step 46] Agent: 공격 - Batterhead[3/1] -> Nerub'ar Weblord
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Emerald Reaver (코스트: 1)
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (5): Ancient Shade, Hemet Nesingwary, Mechanical Yeti, Echo of Medivh, Skydiving Instructor
+  Field: Lone Champion[2/4]
+Opponent: Rexxar HP: 29, Mana: 9/10
+  Hand (3)
+  Field: Tournament Medic[1/6], Silithid Swarmer[3/2], Anubisath Warbringer[9/6], Piloted Shredder[4/3], Soup Vendor[1/4], Emerald Reaver[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

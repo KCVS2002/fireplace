@@ -1,0 +1,139 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Astromancer, Hoard Pillager, Argent Commander, Giggling Inventor, Leeroy Jenkins
+  Field: Jar Dealer[1/1]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (6): Astromancer, Hoard Pillager, Argent Commander, Giggling Inventor, Leeroy Jenkins, Argent Commander
+  Field: Jar Dealer[1/1], Twilight Elder[3/4]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+  Field: Witch's Cauldron[0/4]
+[Turn 4, Step 10] Agent: 공격 - Twilight Elder[3/4] -> Witch's Cauldron
+[Turn 4, Step 11] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Crackling Razormaw (코스트: 2)
+[Turn 4, Step 13] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 공격 - Drakeslayer[2/1] -> Witch's Cauldron
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/5
+  Hand (6): Astromancer, Argent Commander, Giggling Inventor, Leeroy Jenkins, Argent Commander, Archmage
+  Field: Jar Dealer[1/1], Twilight Elder[3/4], Hoard Pillager[4/2], Drakeslayer[2/1]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (5)
+  Field: Crackling Razormaw[3/2], Marsh Drake[5/4]
+[Turn 5, Step 15] Agent: 공격 - Twilight Elder[3/4] -> Marsh Drake
+[Turn 5, Step 16] Agent: 공격 - Jar Dealer[1/1] -> Crackling Razormaw
+[Turn 5, Step 17] Agent: 공격 - Hoard Pillager[4/2] -> Rexxar
+[Turn 5, Step 18] Agent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 5, Step 19] Agent: 공격 - Leeroy Jenkins[6/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/5
+  Hand (6): Astromancer, Argent Commander, Giggling Inventor, Argent Commander, Archmage, Acherus Veteran
+  Field: Hoard Pillager[4/2], Drakeslayer[2/1], Leeroy Jenkins[6/2]
+Opponent: Rexxar HP: 17, Mana: 0/5
+  Hand (5)
+  Field: Crackling Razormaw[3/1], Marsh Drake[5/1], Whelp[1/1], Whelp[1/1]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 공격 - Whelp[1/1] -> Drakeslayer
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 공격 - Hoard Pillager[4/2] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Leeroy Jenkins[6/2] -> Rexxar
+[Turn 6, Step 23] Agent: 영웅 능력 사용 -> Hoard Pillager
+[Turn 6, Step 24] Agent: 카드 플레이 - Acherus Veteran -> Hoard Pillager (코스트: 1)
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/6
+  Hand (6): Astromancer, Argent Commander, Giggling Inventor, Argent Commander, Archmage, Friendly Bartender
+  Field: Hoard Pillager[5/1], Leeroy Jenkins[6/2], Acherus Veteran[2/1]
+Opponent: Rexxar HP: 7, Mana: 6/6
+  Hand (6)
+  Field: Crackling Razormaw[3/1], Marsh Drake[5/1], Whelp[1/1]
+[Turn 6, Step 25] Agent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 6, Step 26] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 26] Opponent: 공격 - Crackling Razormaw[3/1] -> Jaina Proudmoore
+[Turn 6, Step 26] Opponent: 카드 플레이 - Quick Shot -> Hoard Pillager (코스트: 2)
+[Turn 6, Step 26] Opponent: 턴 종료
+[Turn 7, Step 27] Agent: 공격 - Friendly Bartender[2/3] -> Crackling Razormaw
+[Turn 7, Step 28] Agent: 공격 - Leeroy Jenkins[6/2] -> Whelp
+[Turn 7, Step 29] Agent: 영웅 능력 사용 -> Leeroy Jenkins
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/7
+  Hand (6): Astromancer, Argent Commander, Giggling Inventor, Argent Commander, Archmage, Spellbook Binder
+  Field: Acherus Veteran[2/1]
+Opponent: Rexxar HP: 7, Mana: 5/7
+  Hand (6)
+  Field: Marsh Drake[5/1]
+[Turn 7, Step 30] Agent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 7, Step 31] Agent: 공격 - Acherus Veteran[2/1] -> Rexxar
+[Turn 7, Step 32] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 32] Opponent: 턴 종료
+[Turn 8, Step 33] Agent: 공격 - Spellbook Binder[3/2] -> Rexxar
+[Turn 8, Step 34] Agent: 영웅 능력 사용 -> Marsh Drake
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/8
+  Hand (7): Astromancer, Argent Commander, Giggling Inventor, Argent Commander, Archmage, Polluted Hoarder, Felfin Navigator
+  Field: Acherus Veteran[2/1], Spellbook Binder[3/2]
+Opponent: Rexxar HP: 2, Mana: 8/8
+  Hand (7)
+[Turn 8, Step 35] Agent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 8, Step 36] Agent: 공격 - Acherus Veteran[2/1] -> Rexxar
+
+--- Game State (Turn 8, Step 37) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/8
+  Hand (6): Astromancer, Giggling Inventor, Argent Commander, Archmage, Polluted Hoarder, Felfin Navigator
+  Field: Acherus Veteran[2/1], Spellbook Binder[3/2], Argent Commander[4/2]
+Opponent: Rexxar HP: 0, Mana: 8/8
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

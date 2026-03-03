@@ -1,0 +1,345 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jeweled Macaw
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (6): Twilight Elder, Gnomeregan Infantry, Guardian Augmerchant, Burly Rockjaw Trogg, Puzzle Box of Yogg-Saron, Magtheridon
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 7] Agent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Spellshifter (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/5
+  Hand (8): Prince Taldaram, Twilight Elder, Gnomeregan Infantry, Burly Rockjaw Trogg, Puzzle Box of Yogg-Saron, Magtheridon, Mayor Noggenfogger, Corrupted Healbot
+  Field: Guardian Augmerchant[2/1]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+  Field: Spellshifter[1/4]
+[Turn 5, Step 10] Agent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Guardian Augmerchant[2/1] -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Book Wyrm -> Guardian Augmerchant (코스트: 6)
+[Turn 5, Step 13] Opponent: 공격 - Spellshifter[1/4] -> Jaina Proudmoore
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(94) → 18로 보정
+[Turn 6, Step 14] Agent: 공격 - Twilight Elder[3/4] -> Book Wyrm
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/6
+  Hand (8): Prince Taldaram, Gnomeregan Infantry, Burly Rockjaw Trogg, Puzzle Box of Yogg-Saron, Magtheridon, Mayor Noggenfogger, Corrupted Healbot, Malygos, Aspect of Magic
+  Field: Guardian Augmerchant[2/1], Twilight Elder[3/1]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (7)
+  Field: Spellshifter[1/4], Book Wyrm[3/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Spellshifter
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 6, Step 16] Agent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 6, Step 17] Agent: 공격 - Gnomeregan Infantry[1/4] -> Spellshifter
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 6, Step 18] Agent: 공격 - Guardian Augmerchant[2/1] -> Book Wyrm
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/7
+  Hand (8): Forgotten Torch, Prince Taldaram, Burly Rockjaw Trogg, Puzzle Box of Yogg-Saron, Magtheridon, Mayor Noggenfogger, Corrupted Healbot, Malygos, Aspect of Magic
+  Field: Twilight Elder[3/1], Gnomeregan Infantry[1/3]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (8)
+  Field: Spellshifter[1/2], Book Wyrm[3/1]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(40) → 16로 보정
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Book Wyrm
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 7, Step 21] Agent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 7, Step 22] Agent: 공격 - Gnomeregan Infantry[1/3] -> Spellshifter
+[Turn 7, Step 23] Agent: 공격 - Twilight Elder[3/1] -> Spellshifter
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 7, Step 24] Opponent: 영웅 능력 사용
+[Turn 7, Step 24] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/8
+  Hand (8): Forgotten Torch, Prince Taldaram, Puzzle Box of Yogg-Saron, Magtheridon, Mayor Noggenfogger, Corrupted Healbot, Malygos, Aspect of Magic, Gormok the Impaler
+  Field: Gnomeregan Infantry[1/2], Burly Rockjaw Trogg[3/5]
+Opponent: Rexxar HP: 27, Mana: 0/8
+  Hand (7)
+  Field: Guild Recruiter[2/4], Murloc Raider[2/1], Brave Archer[2/1]
+[Turn 8, Step 25] Agent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 8, Step 26] Agent: 카드 플레이 - Forgotten Torch -> Jaina Proudmoore (코스트: 3)
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(52) → 7로 보정
+[Turn 8, Step 27] Agent: 공격 - Burly Rockjaw Trogg[3/5] -> Murloc Raider
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(36) → 13로 보정
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Gormok the Impaler
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 7/9
+  Hand (7): Prince Taldaram, Puzzle Box of Yogg-Saron, Magtheridon, Mayor Noggenfogger, Corrupted Healbot, Malygos, Aspect of Magic, Evasive Feywing
+  Field: Gnomeregan Infantry[1/2], Burly Rockjaw Trogg[3/3], Gormok the Impaler[4/3]
+Opponent: Rexxar HP: 27, Mana: 9/9
+  Hand (8)
+  Field: Guild Recruiter[2/4], Brave Archer[2/1]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Mayor Noggenfogger (코스트: 9)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 32] Agent: 공격 - Gormok the Impaler[4/3] -> Scarab
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 33] Agent: 공격 - Gnomeregan Infantry[1/2] -> Brave Archer
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 34] Agent: 공격 - Burly Rockjaw Trogg[3/3] -> Wrapped Golem
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (7): Prince Taldaram, Puzzle Box of Yogg-Saron, Magtheridon, Corrupted Healbot, Malygos, Aspect of Magic, Evasive Feywing, EVIL Cable Rat
+  Field: Burly Rockjaw Trogg[3/3], Gormok the Impaler[4/2], Mayor Noggenfogger[5/4]
+Opponent: Rexxar HP: 24, Mana: 3/10
+  Hand (8)
+  Field: Guild Recruiter[2/4], Wrapped Golem[7/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Wrapped Golem[7/5] -> Mayor Noggenfogger
+[Turn 10, Step 35] Opponent: 공격 - Guild Recruiter[2/4] -> Gormok the Impaler
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(49) → 9로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(81) → 13로 보정
+[Turn 10, Step 37] Agent: 공격 - Gormok the Impaler[4/2] -> Wrapped Golem
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Prince Taldaram (코스트: 3)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(74) → 9로 보정
+[Turn 10, Step 39] Agent: 공격 - Burly Rockjaw Trogg[3/1] -> Wrapped Golem
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 5/10
+  Hand (7): Puzzle Box of Yogg-Saron, Magtheridon, Corrupted Healbot, Malygos, Aspect of Magic, Evasive Feywing, EVIL Cable Rat, Muck Hunter
+  Field: Burly Rockjaw Trogg[3/1], Gormok the Impaler[4/2], Mayor Noggenfogger[5/4], Prince Taldaram[3/3]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (9)
+  Field: Guild Recruiter[2/1], Wrapped Golem[7/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Malygos, Aspect of Magic (코스트: 5)
+[Turn 10, Step 41] Agent: 선택 - Malygos's Frostbolt
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Malygos's Frostbolt -> Jaina Proudmoore (코스트: 0)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 42] Agent: 공격 - Mayor Noggenfogger[5/4] -> Guild Recruiter
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Windfury Harpy (코스트: 6)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Corridor Creeper (코스트: 7)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 3/10
+  Hand (6): Puzzle Box of Yogg-Saron, Magtheridon, Corrupted Healbot, Evasive Feywing, EVIL Cable Rat, Muck Hunter
+  Field: Burly Rockjaw Trogg[3/1], Gormok the Impaler[4/2], Mayor Noggenfogger[5/4], Prince Taldaram[3/3], Malygos, Aspect of Magic[2/8], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (9)
+  Field: Guild Recruiter[2/1], Wrapped Golem[7/2], Scarab[1/1], Windfury Harpy[4/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(83) → 7로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Wrapped Golem
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Burly Rockjaw Trogg[3/1] -> Scarab
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 47] Agent: 공격 - Mayor Noggenfogger[5/4] -> Scarab
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 48] Agent: 공격 - Prince Taldaram[3/3] -> Scarab
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(53) → 8로 보정
+[Turn 10, Step 49] Agent: 공격 - Malygos, Aspect of Magic[2/8] -> Windfury Harpy
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (6): Puzzle Box of Yogg-Saron, Magtheridon, Corrupted Healbot, Evasive Feywing, EVIL Cable Rat, Muck Hunter
+  Field: Burly Rockjaw Trogg[3/1], Gormok the Impaler[4/2], Prince Taldaram[3/2], Malygos, Aspect of Magic[2/4], Corridor Creeper[2/4]
+Opponent: Rexxar HP: 9, Mana: 4/10
+  Hand (9)
+  Field: Guild Recruiter[2/1], Wrapped Golem[7/1], Windfury Harpy[4/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Gormok the Impaler[4/2] -> Wrapped Golem
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Windfury Harpy[4/3] -> Burly Rockjaw Trogg
+[Turn 10, Step 51] Opponent: 공격 - Guild Recruiter[2/1] -> Corridor Creeper
+[Turn 10, Step 51] Opponent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(54) → 10로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Corrupted Healbot (코스트: 5)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 54] Agent: 공격 - Prince Taldaram[3/2] -> The Voraxx
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 3/10
+  Hand (6): Molten Reflection, Puzzle Box of Yogg-Saron, Magtheridon, Evasive Feywing, EVIL Cable Rat, Muck Hunter
+  Field: Malygos, Aspect of Magic[2/4], Corridor Creeper[2/2], Corrupted Healbot[6/6]
+Opponent: Rexxar HP: 9, Mana: 6/10
+  Hand (9)
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(32) → 14로 보정
+[Turn 10, Step 57] Agent: 공격 - Corridor Creeper[2/2] -> Anubisath Sentinel
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(78) → 8로 보정
+[Turn 10, Step 58] Agent: 공격 - Malygos, Aspect of Magic[2/4] -> Rexxar
+[Turn 10, Step 59] Agent: 공격 - Corrupted Healbot[6/6] -> Anubisath Sentinel
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (7): Molten Reflection, Puzzle Box of Yogg-Saron, Magtheridon, Evasive Feywing, EVIL Cable Rat, Muck Hunter, Blazecaller
+  Field: Malygos, Aspect of Magic[2/4], Corrupted Healbot[6/2]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (8)
+  Field: Boneguard Lieutenant[6/6]
+[Turn 10, Step 60] Agent: 카드 플레이 - Molten Reflection -> Malygos, Aspect of Magic (코스트: 4)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Titanic Lackey -> Corrupted Healbot (코스트: 1)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 10, Step 63] Opponent: 카드 플레이 - Anubisath Sentinel (코스트: 5)
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 6/10
+  Hand (5): Puzzle Box of Yogg-Saron, Magtheridon, Evasive Feywing, Muck Hunter, Blazecaller
+  Field: Malygos, Aspect of Magic[2/4], Corrupted Healbot[6/4], Malygos, Aspect of Magic[2/4], EVIL Cable Rat[1/1], Titanic Lackey[1/1], Kezan Mystic[4/3]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (7)
+  Field: Boneguard Lieutenant[6/6], Soldier of Fortune[5/6], Anubisath Sentinel[4/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Kezan Mystic[4/3] -> Soldier of Fortune
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 68] Agent: 공격 - Malygos, Aspect of Magic[2/4] -> Hellfire Warder
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Hellfire Warder
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 4/10
+  Hand (5): Puzzle Box of Yogg-Saron, Evasive Feywing, Muck Hunter, Blazecaller, Arcane Breath
+  Field: Malygos, Aspect of Magic[2/3], Corrupted Healbot[6/4], Malygos, Aspect of Magic[2/4], EVIL Cable Rat[1/1], Titanic Lackey[1/1], Magtheridon[12/12]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (8)
+  Field: Boneguard Lieutenant[6/6], Soldier of Fortune[5/2], Anubisath Sentinel[4/4], Hellfire Warder[1/3], Hellfire Warder[1/1], Hellfire Warder[1/2]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(84) → 2로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Arcane Breath -> Malygos, Aspect of Magic (코스트: 1)
+[Turn 10, Step 71] Agent: 선택 - Sleepy Dragon
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(76) → 18로 보정
+[Turn 10, Step 71] Agent: 공격 - EVIL Cable Rat[1/1] -> Anubisath Sentinel
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(48) → 1로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Puzzle Box of Yogg-Saron (코스트: 10)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 74] Agent: 공격 - Malygos, Aspect of Magic[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 0/10
+  Hand (10): Evasive Feywing, Muck Hunter, Blazecaller, Sleepy Dragon, Angry Chicken, Echo of Medivh, Echo of Medivh, Spiteful Smith, Tinkertown Technician, Mecha'thun
+  Field: Malygos, Aspect of Magic[1/2], Corrupted Healbot[6/4], Malygos, Aspect of Magic[2/4], Titanic Lackey[1/1], Magtheridon[12/12], Ship's Cannon[2/3], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 10, Step 75] Agent: 공격 - Corrupted Healbot[6/4] -> Rexxar
+
+--- Game State (Turn 10, Step 76) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 0/10
+  Hand (10): Evasive Feywing, Muck Hunter, Blazecaller, Sleepy Dragon, Angry Chicken, Echo of Medivh, Echo of Medivh, Spiteful Smith, Tinkertown Technician, Mecha'thun
+  Field: Malygos, Aspect of Magic[1/2], Corrupted Healbot[6/4], Malygos, Aspect of Magic[2/4], Titanic Lackey[1/1], Magtheridon[12/12], Ship's Cannon[2/3], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

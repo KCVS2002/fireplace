@@ -1,0 +1,270 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 공격 - Undertaker[1/2] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (5): Faceless Summoner, Dragonkin Sorcerer, Fen Creeper, Pumpkin Peasant, Enhance-o Mechano
+  Field: Undertaker[1/2]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Undertaker
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 4, Step 8] Agent: 공격 - Undertaker[1/1] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): Faceless Summoner, Dragonkin Sorcerer, Fen Creeper, Pumpkin Peasant, Mana Addict, Helpless Hatchling
+  Field: Undertaker[1/1], Enhance-o Mechano[3/2]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (6)
+  Field: Gluttonous Ooze[3/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Gluttonous Ooze
+[Turn 5, Step 12] Agent: 공격 - Undertaker[1/1] -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Enhance-o Mechano[3/2] -> Gluttonous Ooze
+[Turn 5, Step 14] Agent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/5
+  Hand (4): Faceless Summoner, Dragonkin Sorcerer, Fen Creeper, Pumpkin Peasant
+  Field: Undertaker[2/1], Mana Addict[1/3], Helpless Hatchling[1/1]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 17] Agent: 카드 플레이 - Dragonkin Sorcerer (코스트: 4)
+[Turn 6, Step 18] Agent: 공격 - Mana Addict[1/3] -> Rexxar
+[Turn 6, Step 19] Agent: 공격 - Helpless Hatchling[1/1] -> Dollmaster Dorian
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (4): Faceless Summoner, Fen Creeper, Pumpkin Peasant, King Togwaggle
+  Field: Undertaker[2/1], Mana Addict[1/3], Dragonkin Sorcerer[3/5]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (6)
+  Field: Dollmaster Dorian[2/5]
+[Turn 6, Step 20] Agent: 공격 - Undertaker[2/1] -> Dollmaster Dorian
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 공격 - Dollmaster Dorian[2/3] -> Dragonkin Sorcerer
+[Turn 6, Step 21] Opponent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 6, Step 21] Opponent: 영웅 능력 사용
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 공격 - Mana Addict[1/3] -> Rexxar
+[Turn 7, Step 23] Agent: 카드 플레이 - Pumpkin Peasant (코스트: 3)
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Dragonkin Sorcerer
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/7
+  Hand (4): Faceless Summoner, Fen Creeper, King Togwaggle, Cobalt Spellkin
+  Field: Mana Addict[1/3], Dragonkin Sorcerer[3/2], Pumpkin Peasant[4/2]
+Opponent: Rexxar HP: 24, Mana: 0/6
+  Hand (6)
+  Field: Coppertail Imposter[4/4]
+[Turn 7, Step 25] Agent: 공격 - Dragonkin Sorcerer[3/2] -> Rexxar
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 7, Step 26] Opponent: 공격 - Coppertail Imposter[4/4] -> Jaina Proudmoore
+[Turn 7, Step 26] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 공격 - Drakeslayer[2/1] -> SI:7 Infiltrator
+[Turn 8, Step 28] Agent: 공격 - Pumpkin Peasant[4/2] -> Marsh Drake
+[Turn 8, Step 29] Agent: 카드 플레이 - Lotus Agents (코스트: 5)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/8
+  Hand (4): Faceless Summoner, Fen Creeper, King Togwaggle, Cobalt Spellkin
+  Field: Mana Addict[1/3], Dragonkin Sorcerer[3/2], Lotus Agents[5/3]
+Opponent: Rexxar HP: 21, Mana: 0/7
+  Hand (5)
+  Field: Coppertail Imposter[4/4]
+[Turn 8, Step 30] Agent: 선택 - Druid of the Fang
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 카드 플레이 - Traveling Healer -> Rexxar (코스트: 4)
+[Turn 8, Step 30] Opponent: 공격 - Coppertail Imposter[4/4] -> Jaina Proudmoore
+[Turn 8, Step 30] Opponent: 영웅 능력 사용
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 카드 플레이 - Druid of the Fang (코스트: 5)
+[Turn 9, Step 32] Agent: 공격 - Mana Addict[1/3] -> Coppertail Imposter
+[Turn 9, Step 33] Agent: 영웅 능력 사용 -> Traveling Healer
+[Turn 9, Step 34] Agent: 공격 - Dragonkin Sorcerer[3/2] -> Coppertail Imposter
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/9
+  Hand (5): Faceless Summoner, Fen Creeper, King Togwaggle, Cobalt Spellkin, Rustsworn Cultist
+  Field: Lotus Agents[5/3], Druid of the Fang[4/4]
+Opponent: Rexxar HP: 24, Mana: 2/8
+  Hand (5)
+  Field: Traveling Healer[3/2]
+[Turn 9, Step 35] Agent: 공격 - Lotus Agents[5/3] -> Traveling Healer
+[Turn 9, Step 36] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 36] Opponent: 영웅 능력 사용
+[Turn 9, Step 36] Opponent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 9, Step 36] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 9, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - King Togwaggle (코스트: 8)
+[Turn 10, Step 38] Agent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 10, Step 39] Agent: 선택 - Reinforce
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 10, Step 39] Opponent: 공격 - Captain Greenskin[5/6] -> King Togwaggle
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (5): Faceless Summoner, Fen Creeper, Cobalt Spellkin, Rustsworn Cultist, Fire Plume Phoenix
+  Field: Druid of the Fang[4/4], Sir Finley Mrrgglton[1/3]
+Opponent: Rexxar HP: 24, Mana: 5/10
+  Hand (5)
+  Field: Captain Greenskin[5/1], Sunborne Val'kyr[5/4]
+[Turn 10, Step 40] Agent: 카드 플레이 - Fire Plume Phoenix -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 41] Agent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 42] Agent: 카드 플레이 - Shooting Star -> Captain Greenskin (코스트: 1)
+[Turn 10, Step 43] Agent: 공격 - Druid of the Fang[4/4] -> Rexxar
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Ironfur Grizzly[3/3] -> Cobalt Spellkin
+[Turn 10, Step 44] Opponent: 공격 - Sunborne Val'kyr[5/3] -> Fire Plume Phoenix
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 카드 플레이 - Primordial Drake (코스트: 8)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (5): Faceless Summoner, Fen Creeper, Rustsworn Cultist, Arcane Missiles, Earthen Ring Farseer
+  Field: Druid of the Fang[4/2], Sir Finley Mrrgglton[1/1]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (5)
+  Field: Primordial Drake[4/6]
+[Turn 10, Step 45] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 10, Step 46] Agent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 47] Agent: 공격 - Druid of the Fang[4/2] -> Primordial Drake
+[Turn 10, Step 48] Agent: 공격 - Sir Finley Mrrgglton[1/1] -> Primordial Drake
+[Turn 10, Step 49] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (2): Faceless Summoner, Earthen Ring Farseer
+  Field: Fen Creeper[3/6], Rustsworn Cultist[3/3], Rusted Devil[1/1], Rusted Devil[1/1]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (5)
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 50] Opponent: 선택 - Jungle Panther
+[Turn 10, Step 50] Opponent: 선택 - Frozen Shadoweaver
+[Turn 10, Step 50] Opponent: 선택 - Unseen Saboteur
+[Turn 10, Step 50] Opponent: 선택 - Twin Tyrant
+[Turn 10, Step 50] Opponent: 선택 - Elven Archer
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Earthen Ring Farseer -> Jaina Proudmoore (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Rustsworn Cultist[3/3] -> Rexxar
+[Turn 10, Step 53] Agent: 공격 - Rusted Devil[1/1] -> Archivist Elysiana
+[Turn 10, Step 54] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 1/10
+  Hand (1): Exotic Mountseller
+  Field: Fen Creeper[3/6], Rustsworn Cultist[3/3], Rusted Devil[1/1], Earthen Ring Farseer[3/3], Faceless Summoner[5/5], Bogstrok Clacker[3/3]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (5)
+  Field: Archivist Elysiana[7/6]
+[Turn 10, Step 55] Agent: 공격 - Rusted Devil[1/1] -> Archivist Elysiana
+[Turn 10, Step 56] Agent: 공격 - Fen Creeper[3/6] -> Rexxar
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 10, Step 57] Opponent: 카드 플레이 - Spellbender (코스트: 3)
+[Turn 10, Step 57] Opponent: 공격 - Archivist Elysiana[7/5] -> Fen Creeper
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 공격 - Rusted Devil[1/1] -> Archivist Elysiana
+[Turn 10, Step 59] Agent: 공격 - Earthen Ring Farseer[3/3] -> Lost Tallstrider
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (2): Exotic Mountseller, Hunting Mastiff
+  Field: Rustsworn Cultist[3/3], Faceless Summoner[5/5], Bogstrok Clacker[3/3]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (4)
+  Field: Archivist Elysiana[7/1], Lost Tallstrider[5/1]
+[Turn 10, Step 60] Agent: 공격 - Faceless Summoner[5/5] -> Lost Tallstrider
+[Turn 10, Step 61] Agent: 카드 플레이 - Exotic Mountseller (코스트: 7)
+[Turn 10, Step 62] Agent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 63] Agent: 공격 - Bogstrok Clacker[3/3] -> Archivist Elysiana
+[Turn 10, Step 64] Agent: 공격 - Rustsworn Cultist[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 1/10
+  Hand (1): Hunting Mastiff
+  Field: Rustsworn Cultist[3/3], Exotic Mountseller[5/8], Hunting Mastiff[2/1]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (4)
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 10, Step 65] Opponent: 카드 플레이 - King's Ransom (코스트: 5)
+[Turn 10, Step 65] Opponent: 영웅 능력 사용
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Rustsworn Cultist[3/3] -> Rexxar
+[Turn 10, Step 67] Agent: 공격 - Exotic Mountseller[5/8] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Hunting Mastiff[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 69) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (2): King's Ransom, Twin Tyrant
+  Field: Rustsworn Cultist[3/3], Exotic Mountseller[5/8], Hunting Mastiff[2/1]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (3)
+  Field: Jungle Panther[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

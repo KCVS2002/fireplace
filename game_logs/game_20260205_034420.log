@@ -1,0 +1,274 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Beckoner of Evil (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Weaponized Piñata, Hench-Clan Hag, Mana Addict, Blizzard, Grimscale Oracle
+  Field: Beckoner of Evil[2/3], Fishflinger[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Beckoner of Evil[2/3] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 2, Step 6] Opponent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 공격 - Beckoner of Evil[2/3] -> Murloc Tidecaller
+[Turn 3, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 9] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (5): Harrison Jones, Weaponized Piñata, Hench-Clan Hag, Mana Addict, Blizzard
+  Field: Beckoner of Evil[2/2], Fishflinger[4/2], Grimscale Oracle[1/1]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (4)
+[Turn 3, Step 10] Agent: 공격 - Fishflinger[4/2] -> Rexxar
+[Turn 3, Step 11] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 11] Opponent: 영웅 능력 사용
+[Turn 3, Step 11] Opponent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 3, Step 11] Opponent: 턴 종료
+[Turn 4, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 13] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 4, Step 14] Agent: 공격 - Fishflinger[4/2] -> Dragon Breeder
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (5): Harrison Jones, Weaponized Piñata, Hench-Clan Hag, Blizzard, Coppertail Imposter
+  Field: Beckoner of Evil[2/2], Grimscale Oracle[1/1], Mana Addict[1/3]
+Opponent: Rexxar HP: 22, Mana: 0/4
+  Hand (4)
+[Turn 4, Step 15] Agent: 공격 - Beckoner of Evil[2/2] -> Rexxar
+[Turn 4, Step 16] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 4, Step 17] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 17] Opponent: 턴 종료
+[Turn 5, Step 18] Agent: 카드 플레이 - Weaponized Piñata (코스트: 4)
+[Turn 5, Step 19] Agent: 공격 - Beckoner of Evil[2/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (5): Harrison Jones, Hench-Clan Hag, Blizzard, Coppertail Imposter, Astromancer Solarian
+  Field: Beckoner of Evil[2/2], Grimscale Oracle[1/1], Mana Addict[1/3], Weaponized Piñata[4/3]
+Opponent: Rexxar HP: 17, Mana: 5/5
+  Hand (5)
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 영웅 능력 사용 -> Grimscale Oracle
+[Turn 6, Step 22] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+[Turn 6, Step 23] Agent: 공격 - Weaponized Piñata[4/3] -> Abomination
+[Turn 6, Step 24] Agent: 공격 - Mana Addict[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/6
+  Hand (6): Harrison Jones, Hench-Clan Hag, Blizzard, Coppertail Imposter, Captured Jormungar, Maexxna
+  Field: Mana Addict[1/1]
+Opponent: Rexxar HP: 14, Mana: 1/6
+  Hand (5)
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 7, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Mana Addict[1/1] -> Rexxar
+[Turn 7, Step 29] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 29] Opponent: 영웅 능력 사용
+[Turn 7, Step 29] Opponent: 카드 플레이 - Rotnest Drake (코스트: 5)
+[Turn 7, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (7): Harrison Jones, Hench-Clan Hag, Blizzard, Captured Jormungar, Maexxna, Servant of Kalimos, Night Prowler
+  Field: Mana Addict[1/1], Coppertail Imposter[4/4]
+Opponent: Rexxar HP: 12, Mana: 1/8
+  Hand (6)
+  Field: Rotnest Drake[6/5]
+[Turn 8, Step 30] Agent: 공격 - Mana Addict[1/1] -> Rexxar
+[Turn 8, Step 31] Agent: 카드 플레이 - Blizzard (코스트: 6)
+[Turn 8, Step 32] Agent: 공격 - Coppertail Imposter[4/4] -> Rotnest Drake
+[Turn 8, Step 33] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 33] Opponent: 턴 종료
+[Turn 9, Step 34] Agent: 카드 플레이 - Harrison Jones (코스트: 5)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/9
+  Hand (6): Hench-Clan Hag, Captured Jormungar, Maexxna, Servant of Kalimos, Night Prowler, Young Dragonhawk
+  Field: Mana Addict[1/1], Harrison Jones[5/4]
+Opponent: Rexxar HP: 11, Mana: 9/9
+  Hand (7)
+[Turn 9, Step 35] Agent: 영웅 능력 사용 -> Harrison Jones
+[Turn 9, Step 36] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 9, Step 37] Agent: 공격 - Mana Addict[1/1] -> Rexxar
+[Turn 9, Step 38] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 38] Opponent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 9, Step 38] Opponent: 카드 플레이 - Steamwheedle Sniper (코스트: 2)
+[Turn 9, Step 38] Opponent: 영웅 능력 사용
+[Turn 9, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Hench-Clan Hag, Captured Jormungar, Maexxna, Servant of Kalimos, Night Prowler, Humongous Razorleaf
+  Field: Mana Addict[1/1], Harrison Jones[5/3], Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (6)
+  Field: Doppelgangster[4/4], Doppelgangster[4/4], Doppelgangster[4/4], Steamwheedle Sniper[2/3]
+[Turn 10, Step 40] Agent: 공격 - Harrison Jones[5/3] -> Steamwheedle Sniper
+[Turn 10, Step 41] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 42] Agent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 10, Step 43] Agent: 공격 - Mana Addict[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (4): Hench-Clan Hag, Captured Jormungar, Maexxna, Night Prowler
+  Field: Mana Addict[1/1], Harrison Jones[5/1], Young Dragonhawk[1/1], Humongous Razorleaf[4/7], Servant of Kalimos[4/5]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (6)
+  Field: Doppelgangster[4/4], Doppelgangster[4/4], Doppelgangster[4/4]
+[Turn 10, Step 45] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 10, Step 46] Opponent: 공격 - Doppelgangster[4/4] -> Mana Addict
+[Turn 10, Step 46] Opponent: 공격 - Doppelgangster[4/4] -> Jaina Proudmoore
+[Turn 10, Step 46] Opponent: 공격 - Doppelgangster[4/4] -> Young Dragonhawk
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Servant of Kalimos[4/5] -> Polluted Hoarder
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 10, Step 49] Agent: 공격 - Harrison Jones[5/1] -> Doppelgangster
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (5): Hench-Clan Hag, Captured Jormungar, Maexxna, Night Prowler, Witchwood Grizzly
+  Field: Humongous Razorleaf[4/7], Servant of Kalimos[4/1]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (6)
+  Field: Doppelgangster[4/3], Doppelgangster[4/3], Grimestreet Smuggler[2/4]
+[Turn 10, Step 50] Agent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 10, Step 51] Agent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Grimestreet Smuggler[2/4] -> Amalgam
+[Turn 10, Step 52] Opponent: 공격 - Doppelgangster[4/3] -> Servant of Kalimos
+[Turn 10, Step 52] Opponent: 카드 플레이 - Naga Sea Witch (코스트: 8)
+[Turn 10, Step 52] Opponent: 공격 - Doppelgangster[4/3] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Hench-Clan Hag[3/3] -> Grimestreet Smuggler
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Night Prowler
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (4): Captured Jormungar, Maexxna, Witchwood Grizzly, Arcane Missiles
+  Field: Humongous Razorleaf[4/7], Hench-Clan Hag[3/1], Amalgam[1/1], Night Prowler[3/2]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (6)
+  Field: Doppelgangster[4/3], Naga Sea Witch[5/5]
+[Turn 10, Step 55] Agent: 카드 플레이 - Witchwood Grizzly (코스트: 5)
+[Turn 10, Step 56] Agent: 공격 - Night Prowler[3/2] -> Doppelgangster
+[Turn 10, Step 57] Agent: 공격 - Amalgam[1/1] -> Rexxar
+[Turn 10, Step 58] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Naga Sea Witch[5/4] -> Witchwood Grizzly
+[Turn 10, Step 59] Opponent: 카드 플레이 - Chef Nomi (코스트: 5)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Exotic Mountseller (코스트: 5)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (3): Captured Jormungar, Maexxna, Kalecgos
+  Field: Humongous Razorleaf[4/7], Hench-Clan Hag[3/1], Amalgam[1/1], Witchwood Grizzly[3/6]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: Naga Sea Witch[5/1], Chef Nomi[7/7], Exotic Mountseller[5/8]
+[Turn 10, Step 60] Agent: 공격 - Hench-Clan Hag[3/1] -> Exotic Mountseller
+[Turn 10, Step 61] Agent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 63] Agent: 공격 - Amalgam[1/1] -> Naga Sea Witch
+[Turn 10, Step 64] Agent: 공격 - Witchwood Grizzly[3/6] -> Exotic Mountseller
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 1/10
+  Hand (2): Maexxna, Kalecgos
+  Field: Humongous Razorleaf[4/6], Witchwood Grizzly[3/1], Captured Jormungar[5/9]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: Chef Nomi[7/7], Exotic Mountseller[5/2]
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 65] Opponent: 공격 - Exotic Mountseller[5/2] -> Witchwood Grizzly
+[Turn 10, Step 65] Opponent: 공격 - Charged Devilsaur[7/7] -> Humongous Razorleaf
+[Turn 10, Step 65] Opponent: 공격 - Chef Nomi[7/7] -> Captured Jormungar
+[Turn 10, Step 65] Opponent: 영웅 능력 사용
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 카드 플레이 - Teron Gorefiend (코스트: 3)
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Charged Devilsaur
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Chef Nomi
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (3): Maexxna, Kalecgos, Flamecannon
+  Field: Teron Gorefiend[3/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (6)
+  Field: Chef Nomi[7/1], Charged Devilsaur[7/2]
+[Turn 10, Step 70] Agent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 71] Agent: 카드 플레이 - Flamecannon (코스트: 2)
+[Turn 10, Step 72] Agent: 공격 - Teron Gorefiend[3/4] -> Charged Devilsaur
+[Turn 10, Step 73] Agent: 공격 - Captured Jormungar[6/10] -> Rexxar
+
+--- Game State (Turn 10, Step 74) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 0/10
+  Hand (1): Kalecgos
+  Field: Maexxna[2/8], Captured Jormungar[6/10]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

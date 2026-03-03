@@ -1,0 +1,239 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Midnight Drake, Huge Toad, Sideshow Spelleater, Grim Patron, Luna's Pocket Galaxy
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Toxfin (코스트: 1)
+[Turn 2, Step 5] Opponent: 카드 플레이 - Dalaran Librarian (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Toxfin
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/4
+  Hand (6): Midnight Drake, Sideshow Spelleater, Grim Patron, Luna's Pocket Galaxy, Violet Illusionist, Glacial Shard
+  Field: Huge Toad[3/2]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (4)
+  Field: Toxfin[1/1], Dalaran Librarian[3/4], Defender of Argus[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Defender of Argus[2/3] -> Huge Toad
+[Turn 4, Step 10] Opponent: 공격 - Dalaran Librarian[3/3] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 카드 플레이 - Gnomish Inventor (코스트: 4)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Bomb Toss -> Dalaran Librarian (코스트: 2)
+[Turn 5, Step 11] Opponent: 공격 - Gnomish Inventor[2/4] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Luna's Pocket Galaxy (코스트: 7)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 공격 - Toxfin[1/1] -> Jaina Proudmoore
+[Turn 7, Step 14] Opponent: 공격 - Dalaran Librarian[3/1] -> Jaina Proudmoore
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/8
+  Hand (9): Ethereal Conjurer, Midnight Drake, Sideshow Spelleater, Grim Patron, Violet Illusionist, Glacial Shard, Shattered Sun Cleric, Green Jelly, Jan'alai, the Dragonhawk
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (6)
+  Field: Toxfin[1/1], Dalaran Librarian[3/1], Gnomish Inventor[2/4], Goblin Bomb[0/2], Jade Spirit[2/3], Jade Golem[1/1]
+[Turn 8, Step 15] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Glacial Shard -> Rexxar (코스트: 1)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(78) → 3로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Shattered Sun Cleric -> Violet Illusionist (코스트: 3)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 9, Step 19] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 19] Opponent: 공격 - Jade Spirit[2/3] -> Glacial Shard
+[Turn 9, Step 19] Opponent: 카드 플레이 - Cobra Shot -> Jade Spirit (코스트: 5)
+[Turn 9, Step 19] Opponent: 공격 - Gnomish Inventor[2/4] -> Jaina Proudmoore
+[Turn 9, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 20) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (8): Ethereal Conjurer, Midnight Drake, Sideshow Spelleater, Grim Patron, Green Jelly, Jan'alai, the Dragonhawk, Proud Defender, Majordomo Executus
+  Field: Violet Illusionist[5/4], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 29, Mana: 5/10
+  Hand (7)
+  Field: Toxfin[1/1], Dalaran Librarian[3/1], Gnomish Inventor[2/4], Goblin Bomb[0/2], Jade Golem[1/1]
+[Turn 10, Step 20] Agent: 유효하지 않은 액션 인덱스(38) → 18로 보정
+[Turn 10, Step 20] Agent: 공격 - Violet Illusionist[5/4] -> Dalaran Librarian
+[Turn 10, Step 21] Agent: 유효하지 않은 액션 인덱스(40) → 18로 보정
+[Turn 10, Step 21] Agent: 공격 - Shattered Sun Cleric[3/2] -> Toxfin
+[Turn 10, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 23] Agent: 카드 플레이 - Midnight Drake (코스트: 4)
+[Turn 10, Step 24] Agent: 카드 플레이 - Proud Defender (코스트: 1)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (6): Ethereal Conjurer, Sideshow Spelleater, Grim Patron, Green Jelly, Jan'alai, the Dragonhawk, Majordomo Executus
+  Field: Violet Illusionist[5/1], Shattered Sun Cleric[3/1], Midnight Drake[8/4], Proud Defender[2/6]
+Opponent: Rexxar HP: 29, Mana: 5/10
+  Hand (7)
+  Field: Gnomish Inventor[2/4], Goblin Bomb[0/2], Jade Golem[1/1]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Majordomo Executus (코스트: 1)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 26] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 26] Opponent: 카드 플레이 - Scrapyard Colossus (코스트: 10)
+[Turn 10, Step 26] Opponent: 공격 - Jade Golem[1/1] -> Proud Defender
+[Turn 10, Step 26] Opponent: 공격 - Gnomish Inventor[2/4] -> Proud Defender
+[Turn 10, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(36) → 16로 보정
+[Turn 10, Step 28] Agent: 공격 - Shattered Sun Cleric[3/1] -> Scrapyard Colossus
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 29] Agent: 공격 - Proud Defender[2/3] -> Scrapyard Colossus
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 5/10
+  Hand (5): Ethereal Conjurer, Sideshow Spelleater, Green Jelly, Jan'alai, the Dragonhawk, Ragnaros the Firelord
+  Field: Violet Illusionist[5/1], Midnight Drake[8/4], Majordomo Executus[9/7], Grim Patron[3/3]
+Opponent: Rexxar HP: 29, Mana: 0/10
+  Hand (7)
+  Field: Gnomish Inventor[2/2], Goblin Bomb[0/2], Scrapyard Colossus[7/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 1)
+[Turn 10, Step 31] Agent: 선택 - Ice Block
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(77) → 13로 보정
+[Turn 10, Step 31] Agent: 공격 - Violet Illusionist[5/1] -> Scrapyard Colossus
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Ice Block (코스트: 3)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Blingtron 3000 (코스트: 5)
+[Turn 10, Step 33] Opponent: 공격 - Gnomish Inventor[2/2] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 공격 - Felcracked Colossus[7/7] -> Majordomo Executus
+[Turn 10, Step 33] Opponent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 33] Opponent: 공격 - Rexxar[4/29] -> Ethereal Conjurer
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(91) → 6로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Ragnaros the Firelord HP: 8, Mana: 8/10
+  Hand (5): Sideshow Spelleater, Green Jelly, Jan'alai, the Dragonhawk, Ragnaros the Firelord, Elise the Trailblazer
+  Field: Midnight Drake[8/4], Grim Patron[3/3]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (6)
+  Field: Gnomish Inventor[2/2], Goblin Bomb[0/2], Blingtron 3000[3/4], Doomsayer[0/7]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(62) → 14로 보정
+[Turn 10, Step 35] Agent: 공격 - Grim Patron[3/3] -> Blingtron 3000
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 36] Agent: 공격 - Midnight Drake[8/4] -> Gnomish Inventor
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Sideshow Spelleater (코스트: 6)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Elise the Trailblazer (코스트: 1)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Ragnaros the Firelord HP: 6, Mana: 3/10
+  Hand (4): Green Jelly, Jan'alai, the Dragonhawk, Ragnaros the Firelord, King Mukla
+  Field: Sideshow Spelleater[6/5], Elise the Trailblazer[5/5]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Ancient Brewmaster (코스트: 4)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Sideshow Spelleater[6/5] -> Ancient Brewmaster
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Green Jelly (코스트: 5)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Ragnaros the Firelord HP: 6, Mana: 5/10
+  Hand (3): Jan'alai, the Dragonhawk, King Mukla, Sunstruck Henchman
+  Field: Elise the Trailblazer[5/5], Ragnaros the Firelord[8/8], Green Jelly[3/3]
+Opponent: Rexxar HP: 5, Mana: 6/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - King Mukla (코스트: 1)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Ragnaros the Firelord HP: 6, Mana: 4/10
+  Hand (2): Jan'alai, the Dragonhawk, Sunstruck Henchman
+  Field: Elise the Trailblazer[5/5], Ragnaros the Firelord[8/8], Green Jelly[3/3], Green Ooze[1/2], King Mukla[5/5]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

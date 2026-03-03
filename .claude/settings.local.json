@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from rl_env import HearthstoneEnv, load_model, predict_with_mask; print\\(''rl_env imports OK''\\)\")",
+      "Bash(python -c \":*)"
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jar Dealer
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 3, Step 4] Opponent: 공격 - Violet Spellwing[2/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Eldritch Horror, Stormwind Champion, Piloted Shredder, Menagerie Magician, Stranglethorn Tiger, Siamat
+  Field: River Crocolisk[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Violet Spellwing[2/1], Raid Leader[2/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 4, Step 6] Agent: 공격 - River Crocolisk[2/3] -> Violet Spellwing
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+[Turn 5, Step 8] Opponent: 공격 - Raid Leader[2/2] -> Piloted Shredder
+[Turn 5, Step 8] Opponent: 카드 플레이 - Recombobulator -> Shallow Gravedigger (코스트: 2)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 공격 - Piloted Shredder[4/1] -> Recombobulator
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (7): Eldritch Horror, Stormwind Champion, Menagerie Magician, Stranglethorn Tiger, Siamat, Aluneth, Toxic Sewer Ooze
+  Field: River Crocolisk[2/1], Sorcerer's Apprentice[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: Devilsaur Egg[0/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> River Crocolisk
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Eggnapper (코스트: 3)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(81) → 15로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Eggnapper
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Rolling Fireball -> Raptor (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/7
+  Hand (6): Eldritch Horror, Stormwind Champion, Menagerie Magician, Stranglethorn Tiger, Siamat, Aluneth
+  Field: Sorcerer's Apprentice[3/2], Toxic Sewer Ooze[4/3]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (6)
+  Field: Devilsaur[5/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(50) → 16로 보정
+[Turn 8, Step 16] Agent: 공격 - Toxic Sewer Ooze[4/3] -> Devilsaur
+[Turn 8, Step 17] Agent: 공격 - Sorcerer's Apprentice[3/2] -> Rexxar
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Sorcerer's Apprentice
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/8
+  Hand (6): Eldritch Horror, Stormwind Champion, Menagerie Magician, Stranglethorn Tiger, Siamat, Aluneth
+  Field: Sorcerer's Apprentice[3/1], Blackwing Technician[2/4]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (7)
+  Field: Devilsaur[5/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 카드 플레이 - Stranglethorn Tiger (코스트: 5)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Blackwing Technician
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 9, Step 23] Agent: 공격 - Sorcerer's Apprentice[3/1] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (7): Eldritch Horror, Stormwind Champion, Menagerie Magician, Siamat, Aluneth, Ancient Brewmaster, Mogor's Champion
+  Field: Sorcerer's Apprentice[3/1], Blackwing Technician[2/3], Stranglethorn Tiger[5/5]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (9)
+  Field: Devilsaur[5/1]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(63) → 19로 보정
+[Turn 10, Step 25] Agent: 공격 - Blackwing Technician[2/3] -> Devilsaur
+[Turn 10, Step 26] Agent: 카드 플레이 - Menagerie Magician (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(98) → 10로 보정
+[Turn 10, Step 27] Agent: 공격 - Stranglethorn Tiger[7/7] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Antique Healbot (코스트: 5)
+[Turn 10, Step 28] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(69) → 21로 보정
+[Turn 10, Step 29] Agent: 공격 - Menagerie Magician[4/3] -> Patches the Pirate
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (7): Eldritch Horror, Stormwind Champion, Siamat, Aluneth, Ancient Brewmaster, Mogor's Champion, Ancient Mage
+  Field: Stranglethorn Tiger[7/7], Menagerie Magician[4/2]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (6)
+  Field: Antique Healbot[3/3], Walnut Sprite[3/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Ancient Brewmaster -> Stranglethorn Tiger (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(64) → 9로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Walnut Sprite
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 공격 - Ancient Brewmaster[5/4] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(53) → 17로 보정
+[Turn 10, Step 34] Agent: 공격 - Menagerie Magician[4/2] -> Walnut Sprite
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 10/10
+  Hand (8): Eldritch Horror, Stormwind Champion, Siamat, Aluneth, Mogor's Champion, Ancient Mage, Stranglethorn Tiger, Hoard Pillager
+  Field: Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (7)
+  Field: Antique Healbot[3/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(32) → 6로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 10, Step 36] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Witchwood Piper (코스트: 4)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (7): Eldritch Horror, Stormwind Champion, Siamat, Aluneth, Mogor's Champion, Stranglethorn Tiger, Arcane Flakmage
+  Field: Ancient Brewmaster[5/4], Ancient Mage[2/5], Hoard Pillager[4/2]
+Opponent: Rexxar HP: 19, Mana: 6/10
+  Hand (8)
+  Field: Antique Healbot[3/3], Witchwood Piper[3/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(84) → 16로 보정
+[Turn 10, Step 40] Agent: 공격 - Hoard Pillager[4/2] -> Witchwood Piper
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Eldritch Horror (코스트: 8)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Faceless Corruptor -> Antique Healbot (코스트: 5)
+[Turn 10, Step 42] Opponent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 10, Step 42] Opponent: 공격 - Faceless Corruptor[4/4] -> Ancient Brewmaster
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (6): Echo of Medivh, Stormwind Champion, Siamat, Aluneth, Stranglethorn Tiger, Arcane Flakmage
+  Field: Ancient Mage[2/5], Eldritch Horror[6/10], Mogor's Champion[8/5]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (7)
+  Field: Faceless Corruptor[4/4], Hoard Pillager[4/2]
+[Turn 10, Step 45] Agent: 카드 플레이 - Arcane Flakmage (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(13) → 6로 보정
+[Turn 10, Step 46] Agent: 공격 - Eldritch Horror[6/10] -> Hoard Pillager
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 10, Step 47] Agent: 공격 - Ancient Mage[2/5] -> Faceless Corruptor
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Aluneth (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (5): Echo of Medivh, Stormwind Champion, Siamat, Stranglethorn Tiger, Unpowered Mauler
+  Field: Ancient Mage[2/1], Eldritch Horror[6/6], Mogor's Champion[8/5], Arcane Flakmage[3/2]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (8)
+  Field: Faceless Corruptor[4/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(24) → 6로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Eldritch Horror
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Ancient Mage[2/1] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Eldritch Horror[6/5] -> Faceless Corruptor
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 53] Agent: 공격 - Mogor's Champion[8/5] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 54] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (5): Echo of Medivh, Stormwind Champion, Siamat, Stranglethorn Tiger, Unpowered Mauler
+  Field: Ancient Mage[2/1], Eldritch Horror[6/1], Mogor's Champion[8/5], Arcane Flakmage[3/2]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Dragonhawk Rider (코스트: 3)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(84) → 24로 보정
+[Turn 10, Step 57] Agent: 공격 - Mogor's Champion[8/5] -> Rexxar
+
+--- Game State (Turn 10, Step 58) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (8): Echo of Medivh, Stormwind Champion, Siamat, Stranglethorn Tiger, Grand Lackey Erkh, Sindragosa, Hippogryph, Grimestreet Smuggler
+  Field: Ancient Mage[2/1], Eldritch Horror[6/1], Mogor's Champion[8/5], Arcane Flakmage[3/2], Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (6)
+  Field: Dragonhawk Rider[3/3], Weasel Tunneler[1/1], Escaped Manasaber[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

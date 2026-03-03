@@ -1,0 +1,189 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Pack Tactics
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Rapid Fire -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Rapid Fire -> Rexxar (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Cheaty Anklebiter -> Rexxar (코스트: 2)
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Conjurer's Calling, Lightwarden, Fen Creeper, Bolf Ramshield
+  Field: Cheaty Anklebiter[2/1], Skaterbot[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 공격 - Cheaty Anklebiter[2/1] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 공격 - Cheaty Anklebiter[2/1] -> Rexxar
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Skaterbot
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/4
+  Hand (6): Conjurer's Calling, Lightwarden, Fen Creeper, Bolf Ramshield, Am'gam Rager, Burly Shovelfist
+  Field: Cheaty Anklebiter[2/1]
+Opponent: Rexxar HP: 24, Mana: 2/4
+  Hand (4)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 5, Step 12] Agent: 공격 - Cheaty Anklebiter[2/1] -> Rexxar
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Evolved Kobold (코스트: 4)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 공격 - Fen Creeper[3/6] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 6/6
+  Hand (7): Conjurer's Calling, Lightwarden, Bolf Ramshield, Am'gam Rager, Burly Shovelfist, Explodinator, Auctionmaster Beardo
+  Field: Cheaty Anklebiter[2/1], Fen Creeper[3/6]
+Opponent: Rexxar HP: 19, Mana: 2/6
+  Hand (4)
+  Field: Evolved Kobold[2/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Conjurer's Calling -> Fen Creeper (코스트: 4)
+[Turn 6, Step 16] Agent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 6, Step 17] Agent: 공격 - Cheaty Anklebiter[2/1] -> Evolved Kobold
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 6, Step 18] Opponent: 공격 - Evolved Kobold[3/3] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 공격 - Carrion Drake[3/7] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/7
+  Hand (8): Bolf Ramshield, Am'gam Rager, Burly Shovelfist, Explodinator, Auctionmaster Beardo, Conjurer's Calling, Puddlestomper, Spiteful Smith
+  Field: Carrion Drake[3/7], Lightwarden[1/2]
+Opponent: Rexxar HP: 16, Mana: 5/7
+  Hand (5)
+  Field: Evolved Kobold[3/3], Fishflinger[3/2]
+[Turn 7, Step 20] Agent: 카드 플레이 - Conjurer's Calling -> Lightwarden (코스트: 4)
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Fishflinger
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 공격 - Evolved Kobold[3/3] -> Carrion Drake
+[Turn 7, Step 22] Opponent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 7, Step 22] Opponent: 공격 - Fishflinger[4/1] -> Jaina Proudmoore
+[Turn 7, Step 22] Opponent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 8, Step 24] Agent: 카드 플레이 - Am'gam Rager (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (6): Bolf Ramshield, Burly Shovelfist, Auctionmaster Beardo, Puddlestomper, Spiteful Smith, Chromaggus
+  Field: Carrion Drake[3/4], Patches the Pirate[1/1], Mogu Cultist[1/1], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2], Am'gam Rager[1/5]
+Opponent: Rexxar HP: 16, Mana: 1/8
+  Hand (4)
+  Field: Fishflinger[4/1], Grimscale Oracle[1/1], Sabretooth Stalker[8/2]
+[Turn 8, Step 25] Agent: 공격 - Carrion Drake[3/4] -> Grimscale Oracle
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Sabretooth Stalker[8/2] -> Jaina Proudmoore
+[Turn 8, Step 26] Opponent: 카드 플레이 - Deathspeaker -> Sabretooth Stalker (코스트: 3)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 9, Step 28] Agent: 공격 - Am'gam Rager[1/5] -> Deathspeaker
+[Turn 9, Step 29] Agent: 공격 - Carrion Drake[3/3] -> Sabretooth Stalker
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 7/9
+  Hand (7): Marsh Drake, Bolf Ramshield, Burly Shovelfist, Auctionmaster Beardo, Puddlestomper, Spiteful Smith, Chromaggus
+  Field: Patches the Pirate[1/1], Mogu Cultist[1/1], Goblin Bomb[0/1], Explodinator[3/2], Goblin Bomb[0/2], Am'gam Rager[1/3]
+Opponent: Rexxar HP: 16, Mana: 6/9
+  Hand (4)
+  Field: Fishflinger[3/1], Deathspeaker[2/3]
+[Turn 9, Step 30] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 9, Step 31] Agent: 공격 - Mogu Cultist[1/1] -> Fishflinger
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 공격 - Deathspeaker[2/3] -> Patches the Pirate
+[Turn 9, Step 32] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 9, Step 32] Opponent: 공격 - Charged Devilsaur[7/7] -> Explodinator
+[Turn 9, Step 32] Opponent: 영웅 능력 사용
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 10, Step 34] Agent: 카드 플레이 - Ice Lance -> Charged Devilsaur (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 6/10
+  Hand (5): Bolf Ramshield, Burly Shovelfist, Puddlestomper, Spiteful Smith, Chromaggus
+  Field: Goblin Bomb[0/1], Goblin Bomb[0/2], Am'gam Rager[1/3], Auctionmaster Beardo[3/4], Marsh Drake[5/4]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (4)
+  Field: Deathspeaker[2/2], Charged Devilsaur[7/4], Drakeslayer[2/1]
+[Turn 10, Step 35] Agent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 10, Step 36] Agent: 공격 - Auctionmaster Beardo[3/4] -> Deathspeaker
+[Turn 10, Step 37] Agent: 공격 - Am'gam Rager[1/3] -> Charged Devilsaur
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Drakeslayer[2/1] -> Goblin Bomb
+[Turn 10, Step 38] Opponent: 카드 플레이 - Vereesa Windrunner (코스트: 7)
+[Turn 10, Step 38] Opponent: 공격 - Rexxar[2/14] -> Auctionmaster Beardo
+[Turn 10, Step 38] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 10, Step 38] Opponent: 공격 - Wolfrider[3/1] -> Marsh Drake
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Bolf Ramshield[3/9] -> Drakeslayer
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (5): Burly Shovelfist, Puddlestomper, Spiteful Smith, Chromaggus, Body Wrapper
+  Field: Goblin Bomb[0/2], Marsh Drake[5/1]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (3)
+  Field: Charged Devilsaur[7/3], Vereesa Windrunner[5/6]
+[Turn 10, Step 40] Agent: 카드 플레이 - Chromaggus (코스트: 8)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Marsh Drake
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Charged Devilsaur[7/3] -> Goblin Bomb
+[Turn 10, Step 42] Opponent: 공격 - Rexxar[2/9] -> Chromaggus
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Chromaggus[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 44) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (6): Burly Shovelfist, Puddlestomper, Spiteful Smith, Body Wrapper, Justicar Trueheart, Justicar Trueheart
+  Field: Chromaggus[6/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (4)
+  Field: Charged Devilsaur[7/3], Vereesa Windrunner[5/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

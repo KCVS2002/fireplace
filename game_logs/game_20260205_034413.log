@@ -1,0 +1,158 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (5): Spiteful Summoner, Dragonslayer, Kirin Tor Mage, Keening Banshee, Southsea Captain
+  Field: Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Kobold Sandtrooper[2/1] -> Dragonslayer
+[Turn 3, Step 7] Opponent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 3, Step 7] Opponent: 영웅 능력 사용
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Kirin Tor Mage (코스트: 3)
+[Turn 4, Step 9] Agent: 공격 - Dragonslayer[4/1] -> Temple Berserker
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/4
+  Hand (5): Spiteful Summoner, Keening Banshee, Southsea Captain, Novice Engineer, Corrupted Seer
+  Field: Unpowered Mauler[2/4], Kirin Tor Mage[4/3]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (5)
+  Field: Temple Berserker[3/1]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Temple Berserker[3/1] -> Kirin Tor Mage
+[Turn 4, Step 10] Opponent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Keening Banshee (코스트: 4)
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 5, Step 12] Opponent: 공격 - Dragonmaw Scorcher[3/6] -> Unpowered Mauler
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 14] Agent: 공격 - Keening Banshee[5/5] -> Dragonmaw Scorcher
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/6
+  Hand (6): Spiteful Summoner, Southsea Captain, Novice Engineer, Corrupted Seer, Bloodfen Raptor, Sunreaver Warmage
+  Field: Keening Banshee[5/2]
+Opponent: Rexxar HP: 28, Mana: 3/6
+  Hand (5)
+  Field: Gadgetzan Jouster[1/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Bloodfen Raptor (코스트: 2)
+[Turn 6, Step 16] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 6, Step 17] Opponent: 공격 - Gadgetzan Jouster[1/2] -> Novice Engineer
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Corrupted Seer (코스트: 6)
+[Turn 7, Step 19] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/7
+  Hand (4): Whirlwind Tempest, Spiteful Summoner, Southsea Captain, Sunreaver Warmage
+  Field: Corrupted Seer[2/3], Gadgetzan Jouster[2/3]
+Opponent: Rexxar HP: 28, Mana: 0/7
+  Hand (5)
+  Field: War Golem[7/5]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 8, Step 22] Opponent: 공격 - War Golem[7/5] -> Sunreaver Warmage
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 공격 - Corrupted Seer[2/3] -> Whelp
+[Turn 9, Step 24] Agent: 카드 플레이 - Whirlwind Tempest (코스트: 8)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/9
+  Hand (4): Spiteful Summoner, Southsea Captain, Hex Lord Malacrass, Dragonhawk Rider
+  Field: Corrupted Seer[2/2], Gadgetzan Jouster[2/3], Whirlwind Tempest[6/6]
+Opponent: Rexxar HP: 28, Mana: 0/9
+  Hand (6)
+  Field: War Golem[7/1], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1], Whelp[1/1]
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 공격 - Whelp[1/1] -> Corrupted Seer
+[Turn 9, Step 25] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 9, Step 25] Opponent: 공격 - Whelp[1/1] -> Corrupted Seer
+[Turn 9, Step 25] Opponent: 공격 - Whelp[1/1] -> Jaina Proudmoore
+[Turn 9, Step 25] Opponent: 공격 - Whelp[1/1] -> Gadgetzan Jouster
+[Turn 9, Step 25] Opponent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 9, Step 25] Opponent: 공격 - War Golem[7/1] -> Gadgetzan Jouster
+[Turn 9, Step 25] Opponent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 9, Step 25] Opponent: 공격 - Reckless Rocketeer[5/2] -> Jaina Proudmoore
+[Turn 9, Step 25] Opponent: 공격 - Onyxia[8/8] -> Jaina Proudmoore
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 27] Agent: 공격 - Whirlwind Tempest[6/6] -> Rexxar
+[Turn 10, Step 28] Agent: 카드 플레이 - Spiteful Summoner (코스트: 6)
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 공격 - Tentacle of N'Zoth[1/1] -> Spiteful Summoner
+[Turn 10, Step 29] Opponent: 공격 - Reckless Rocketeer[5/1] -> Jaina Proudmoore
+[Turn 10, Step 29] Opponent: 공격 - Vilefiend[2/1] -> Whirlwind Tempest
+[Turn 10, Step 29] Opponent: 카드 플레이 - Dinotamer Brann (코스트: 7)
+[Turn 10, Step 29] Opponent: 공격 - King Krush[8/8] -> Whirlwind Tempest
+[Turn 10, Step 29] Opponent: 공격 - Onyxia[8/7] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (4): Southsea Captain, Hex Lord Malacrass, Dragonhawk Rider, Eggnapper
+  Field: Spiteful Summoner[4/2]
+Opponent: Rexxar HP: 23, Mana: 3/10
+  Hand (4)
+  Field: Onyxia[8/7], Reckless Rocketeer[5/1], Dinotamer Brann[2/4], King Krush[8/2]
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (4): Southsea Captain, Hex Lord Malacrass, Dragonhawk Rider, Eggnapper
+  Field: Spiteful Summoner[4/2]
+Opponent: Rexxar HP: 23, Mana: 3/10
+  Hand (4)
+  Field: Onyxia[8/7], Reckless Rocketeer[5/1], Dinotamer Brann[2/4], King Krush[8/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

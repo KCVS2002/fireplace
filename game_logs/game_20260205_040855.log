@@ -1,0 +1,159 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 3, Step 4] Agent: 공격 - Licensed Adventurer[3/2] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Leeroy Jenkins, Pyros, Faceless Behemoth, Argent Squire
+  Field: Licensed Adventurer[3/2], Bronze Gatekeeper[1/5]
+Opponent: Rexxar HP: 27, Mana: 1/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 공격 - Licensed Adventurer[3/2] -> Silverback Patriarch
+[Turn 4, Step 7] Agent: 공격 - Bronze Gatekeeper[1/5] -> Silverback Patriarch
+[Turn 4, Step 8] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 4, Step 9] Agent: 카드 플레이 - Argent Squire (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/4
+  Hand (3): Leeroy Jenkins, Faceless Behemoth, Zola the Gorgon
+  Field: Licensed Adventurer[3/1], Bronze Gatekeeper[1/4], Pyros[2/2], Argent Squire[1/1]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (6)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 공격 - Licensed Adventurer[3/1] -> Kobold Sandtrooper
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Argent Squire
+[Turn 5, Step 13] Agent: 카드 플레이 - Zola the Gorgon -> Bronze Gatekeeper (코스트: 3)
+[Turn 5, Step 14] Agent: 공격 - Bronze Gatekeeper[1/4] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/5
+  Hand (4): Leeroy Jenkins, Faceless Behemoth, Sky Gen'ral Kragg, Bronze Gatekeeper
+  Field: Bronze Gatekeeper[1/4], Pyros[2/2], Argent Squire[1/1], Zola the Gorgon[2/2]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 공격 - Pyros[2/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 공격 - Argent Squire[1/1] -> Animated Shield
+[Turn 6, Step 19] Agent: 공격 - Zola the Gorgon[2/2] -> Animated Shield
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (5): Leeroy Jenkins, Faceless Behemoth, Sky Gen'ral Kragg, Bronze Gatekeeper, Ethereal Arcanist
+  Field: Bronze Gatekeeper[1/4], Pyros[2/2], Argent Squire[1/1], Zola the Gorgon[2/2]
+Opponent: Rexxar HP: 23, Mana: 1/5
+  Hand (6)
+  Field: Arcanosmith[3/2], Animated Shield[0/2]
+[Turn 6, Step 20] Agent: 영웅 능력 사용 -> Zola the Gorgon
+[Turn 6, Step 21] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 6, Step 22] Agent: 공격 - Bronze Gatekeeper[1/4] -> Animated Shield
+[Turn 6, Step 23] Agent: 공격 - Pyros[2/2] -> Animated Shield
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (5): Leeroy Jenkins, Faceless Behemoth, Bronze Gatekeeper, Ethereal Arcanist, Rabble Bouncer
+  Field: Bronze Gatekeeper[1/4], Pyros[2/2], Argent Squire[1/1], Zola the Gorgon[2/1], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 23, Mana: 6/6
+  Hand (7)
+  Field: Arcanosmith[3/2]
+[Turn 7, Step 25] Agent: 공격 - Pyros[2/2] -> Rexxar
+[Turn 7, Step 26] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Zola the Gorgon[2/1] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Sky Gen'ral Kragg[2/3] -> Rexxar
+[Turn 7, Step 29] Agent: 영웅 능력 사용 -> Zola the Gorgon
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/7
+  Hand (5): Leeroy Jenkins, Faceless Behemoth, Bronze Gatekeeper, Ethereal Arcanist, Rabble Bouncer
+  Field: Bronze Gatekeeper[1/4], Pyros[2/2], Argent Squire[1/1], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 16, Mana: 6/6
+  Hand (7)
+  Field: Arcanosmith[3/2]
+[Turn 7, Step 30] Agent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 7, Step 31] Agent: 공격 - Bronze Gatekeeper[1/4] -> Rexxar
+[Turn 7, Step 32] Agent: 공격 - Leeroy Jenkins[6/2] -> Rexxar
+[Turn 7, Step 33] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 33] Opponent: 공격 - Arcanosmith[3/2] -> Bronze Gatekeeper
+[Turn 7, Step 33] Opponent: 영웅 능력 사용
+[Turn 7, Step 33] Opponent: 공격 - Whelp[1/1] -> Sky Gen'ral Kragg
+[Turn 7, Step 33] Opponent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 7, Step 33] Opponent: 공격 - Whelp[1/1] -> Bronze Gatekeeper
+[Turn 7, Step 33] Opponent: 턴 종료
+[Turn 8, Step 34] Agent: 공격 - Leeroy Jenkins[6/2] -> Gluttonous Ooze
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/8
+  Hand (5): Faceless Behemoth, Bronze Gatekeeper, Ethereal Arcanist, Rabble Bouncer, Archmage Vargoth
+  Field: Pyros[2/2], Argent Squire[1/1], Sky Gen'ral Kragg[2/2]
+Opponent: Rexxar HP: 9, Mana: 2/7
+  Hand (7)
+  Field: Arcanosmith[3/1]
+[Turn 8, Step 35] Agent: 공격 - Sky Gen'ral Kragg[2/2] -> Rexxar
+[Turn 8, Step 36] Agent: 영웅 능력 사용 -> Sky Gen'ral Kragg
+[Turn 8, Step 37] Agent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 8, Step 38] Agent: 공격 - Pyros[2/2] -> Rexxar
+[Turn 8, Step 39] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+
+--- Game State (Turn 8, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/8
+  Hand (4): Faceless Behemoth, Ethereal Arcanist, Rabble Bouncer, Archmage Vargoth
+  Field: Pyros[2/2], Argent Squire[1/1], Sky Gen'ral Kragg[2/1], Bronze Gatekeeper[1/5]
+Opponent: Rexxar HP: 4, Mana: 2/7
+  Hand (7)
+  Field: Arcanosmith[3/1]
+[Turn 8, Step 40] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 40] Opponent: 턴 종료
+[Turn 9, Step 41] Agent: 공격 - Argent Squire[1/1] -> Arcanosmith
+[Turn 9, Step 42] Agent: 공격 - Pyros[2/2] -> Rexxar
+[Turn 9, Step 43] Agent: 공격 - Sky Gen'ral Kragg[2/1] -> Rexxar
+
+--- Game State (Turn 9, Step 44) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/9
+  Hand (5): Faceless Behemoth, Ethereal Arcanist, Rabble Bouncer, Archmage Vargoth, Golden Scarab
+  Field: Pyros[2/2], Sky Gen'ral Kragg[2/1], Bronze Gatekeeper[1/5]
+Opponent: Rexxar HP: 0, Mana: 8/8
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,354 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 2, Step 4] Opponent: 공격 - Dwarven Archaeologist[2/3] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (8): Overconfident Orc, Azure Explorer, Southsea Deckhand, Hungry Ettin, Felfin Navigator, Spider Tank, Ruststeed Raider, Skyfin
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Dwarven Archaeologist[2/3], Drakkari Trickster[3/4]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Dwarven Archaeologist
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 3, Step 6] Opponent: 공격 - Dwarven Archaeologist[2/2] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 카드 플레이 - Misdirection (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Drakkari Trickster
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/5
+  Hand (9): Overconfident Orc, Azure Explorer, Southsea Deckhand, Hungry Ettin, Spider Tank, Ruststeed Raider, Skyfin, Exotic Mountseller, Sky Gen'ral Kragg
+  Field: Felfin Navigator[4/4]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (5)
+  Field: Dwarven Archaeologist[2/2], Drakkari Trickster[3/3], Zombie Chow[2/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 5, Step 11] Agent: 공격 - Felfin Navigator[4/4] -> Dwarven Archaeologist
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Waste Warden -> Felfin Navigator (코스트: 5)
+[Turn 5, Step 12] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 공격 - Drakkari Trickster[3/3] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Spider Tank
+[Turn 6, Step 14] Agent: 공격 - Spider Tank[3/3] -> Waste Warden
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/6
+  Hand (9): Necrotic Geist, Overconfident Orc, Azure Explorer, Southsea Deckhand, Hungry Ettin, Ruststeed Raider, Skyfin, Exotic Mountseller, Sky Gen'ral Kragg
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (5)
+  Field: Drakkari Trickster[3/3], Zombie Chow[2/3]
+[Turn 6, Step 15] Agent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 6, Step 16] Agent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 6, Step 17] Opponent: 공격 - Drakkari Trickster[3/3] -> Overconfident Orc
+[Turn 6, Step 17] Opponent: 공격 - Zombie Chow[2/3] -> Overconfident Orc
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Overconfident Orc
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/8
+  Hand (9): Necrotic Geist, Azure Explorer, Hungry Ettin, Ruststeed Raider, Skyfin, Exotic Mountseller, Sky Gen'ral Kragg, Hogger, Wargear
+  Field: Southsea Deckhand[2/1]
+Opponent: Rexxar HP: 30, Mana: 5/8
+  Hand (5)
+  Field: Zombie Chow[2/2], Blackwald Pixie[3/4], Silithid Swarmer[3/5]
+[Turn 8, Step 20] Agent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Hogger
+[Turn 8, Step 22] Agent: 공격 - Southsea Deckhand[2/1] -> Blackwald Pixie
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Azure Explorer (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/9
+  Hand (8): Puzzle Box of Yogg-Saron, Necrotic Geist, Hungry Ettin, Ruststeed Raider, Skyfin, Exotic Mountseller, Sky Gen'ral Kragg, Wargear
+  Field: Hogger[4/3], Gnoll[2/2], Azure Explorer[2/3]
+Opponent: Rexxar HP: 30, Mana: 9/9
+  Hand (6)
+  Field: Zombie Chow[2/2], Blackwald Pixie[3/2], Silithid Swarmer[3/5]
+[Turn 9, Step 25] Agent: 선택 - Dragonmaw Scorcher
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 공격 - Hogger[4/3] -> Silithid Swarmer
+[Turn 10, Step 27] Agent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 10, Step 28] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 10, Step 29] Agent: 공격 - Gnoll[2/2] -> Zombie Chow
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (8): Puzzle Box of Yogg-Saron, Necrotic Geist, Hungry Ettin, Exotic Mountseller, Sky Gen'ral Kragg, Wargear, Dragonmaw Scorcher, Coldarra Drake
+  Field: Gnoll[2/2], Azure Explorer[2/3], Skyfin[3/3], Sir Finley of the Sands[2/3], Brrrloc[2/2], Ruststeed Raider[5/8]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (7)
+  Field: Blackwald Pixie[3/2], Silithid Swarmer[3/1]
+[Turn 10, Step 30] Agent: 공격 - Gnoll[2/2] -> Silithid Swarmer
+[Turn 10, Step 31] Agent: 공격 - Azure Explorer[2/3] -> Blackwald Pixie
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Kathrena Winterwisp (코스트: 8)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Necrotic Geist (코스트: 6)
+[Turn 10, Step 34] Agent: 공격 - Brrrloc[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (8): Puzzle Box of Yogg-Saron, Hungry Ettin, Exotic Mountseller, Sky Gen'ral Kragg, Wargear, Dragonmaw Scorcher, Coldarra Drake, Stormwind Knight
+  Field: Skyfin[3/3], Sir Finley of the Sands[2/1], Ruststeed Raider[1/8], Necrotic Geist[5/3]
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (6)
+  Field: Zombie Chow[2/3], Kathrena Winterwisp[6/6]
+[Turn 10, Step 35] Agent: 공격 - Skyfin[3/3] -> Zombie Chow
+[Turn 10, Step 36] Agent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 10, Step 37] Agent: 공격 - Sir Finley of the Sands[2/1] -> Kathrena Winterwisp
+[Turn 10, Step 38] Agent: 공격 - Stormwind Knight[2/5] -> Kathrena Winterwisp
+[Turn 10, Step 39] Agent: 공격 - Ruststeed Raider[1/8] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/10
+  Hand (7): Puzzle Box of Yogg-Saron, Hungry Ettin, Exotic Mountseller, Sky Gen'ral Kragg, Wargear, Dragonmaw Scorcher, Coldarra Drake
+  Field: Skyfin[3/1], Ruststeed Raider[1/8], Necrotic Geist[5/3]
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (6)
+  Field: Kathrena Winterwisp[6/2]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 10, Step 40] Opponent: 공격 - Kathrena Winterwisp[6/2] -> Ruststeed Raider
+[Turn 10, Step 40] Opponent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Ruststeed Raider[1/2] -> Eater of Secrets
+[Turn 10, Step 42] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 10, Step 43] Agent: 공격 - Skyfin[3/1] -> Unstable Ghoul
+[Turn 10, Step 44] Agent: 공격 - Necrotic Geist[5/2] -> Eater of Secrets
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (7): Puzzle Box of Yogg-Saron, Exotic Mountseller, Sky Gen'ral Kragg, Wargear, Dragonmaw Scorcher, Coldarra Drake, Microtech Controller
+  Field: Hungry Ettin[4/9]
+Opponent: Rexxar HP: 29, Mana: 0/10
+  Hand (4)
+  Field: Arcane Watcher[5/5], Blackwing Technician[2/3]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Harbinger Celestia (코스트: 4)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Exotic Mountseller (코스트: 7)
+[Turn 10, Step 48] Agent: 공격 - Hungry Ettin[4/9] -> Arcane Watcher
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Brann Bronzebeard
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/10
+  Hand (7): Puzzle Box of Yogg-Saron, Sky Gen'ral Kragg, Wargear, Dragonmaw Scorcher, Coldarra Drake, Microtech Controller, Nozdormu
+  Field: Hungry Ettin[4/4], Exotic Mountseller[5/8]
+Opponent: Rexxar HP: 28, Mana: 3/10
+  Hand (3)
+  Field: Arcane Watcher[5/1], Blackwing Technician[2/3], Brann Bronzebeard[2/3], Exotic Mountseller[5/8]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Acidmaw (코스트: 7)
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 공격 - Exotic Mountseller[5/8] -> Hungry Ettin
+[Turn 10, Step 50] Opponent: 공격 - Brann Bronzebeard[2/3] -> Jaina Proudmoore
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 10, Step 52] Agent: 공격 - Exotic Mountseller[5/8] -> Arcane Watcher
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Brann Bronzebeard
+[Turn 10, Step 54] Agent: 카드 플레이 - Microtech Controller (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (6): Puzzle Box of Yogg-Saron, Sky Gen'ral Kragg, Dragonmaw Scorcher, Coldarra Drake, Nozdormu, River Crocolisk
+  Field: Wargear[5/5], Microbot[1/1], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (3)
+  Field: Blackwing Technician[2/3], Acidmaw[4/2]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 공격 - Acidmaw[4/2] -> Wargear
+[Turn 10, Step 55] Opponent: 공격 - Blackwing Technician[2/3] -> Microbot
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Blackwing Technician
+[Turn 10, Step 58] Agent: 공격 - Microtech Controller[2/1] -> Blackwing Technician
+[Turn 10, Step 59] Agent: 카드 플레이 - River Crocolisk (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (5): Puzzle Box of Yogg-Saron, Dragonmaw Scorcher, Coldarra Drake, Nozdormu, Wargear
+  Field: Microbot[1/1], Sky Gen'ral Kragg[2/3], River Crocolisk[2/3]
+Opponent: Rexxar HP: 28, Mana: 8/10
+  Hand (4)
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 공격 - River Crocolisk[2/3] -> Rexxar
+[Turn 10, Step 62] Agent: 카드 플레이 - Puzzle Box of Yogg-Saron (코스트: 10)
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (8): Dragonmaw Scorcher, Coldarra Drake, Nozdormu, Wargear, Boulderfist Ogre, Skycap'n Kragg, Bloodworm, Cogmaster
+  Field: River Crocolisk[4/4]
+Opponent: Rexxar HP: 26, Mana: 5/10
+  Hand (5)
+  Field: Skelemancer[2/2]
+[Turn 10, Step 65] Agent: 공격 - River Crocolisk[4/4] -> Skelemancer
+[Turn 10, Step 66] Agent: 카드 플레이 - Skycap'n Kragg (코스트: 7)
+[Turn 10, Step 67] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 10, Step 68] Agent: 공격 - Skycap'n Kragg[4/6] -> Skeletal Flayer
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): Dragonmaw Scorcher, Coldarra Drake, Nozdormu, Wargear, Boulderfist Ogre, Bloodworm, Raid Leader
+  Field: River Crocolisk[4/2], Cogmaster[1/2]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (6)
+  Field: Skeletal Flayer[8/4]
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> River Crocolisk
+[Turn 10, Step 71] Agent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 영웅 능력 사용
+[Turn 10, Step 72] Opponent: 카드 플레이 - Mind Control Tech (코스트: 3)
+[Turn 10, Step 72] Opponent: 공격 - Skeletal Flayer[8/4] -> Wargear
+[Turn 10, Step 72] Opponent: 카드 플레이 - Microtech Controller (코스트: 3)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 74] Agent: 공격 - Cogmaster[4/2] -> Microbot
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/10
+  Hand (6): Dragonmaw Scorcher, Coldarra Drake, Nozdormu, Boulderfist Ogre, Bloodworm, Ethereal Arcanist
+  Field: River Crocolisk[5/1], Cogmaster[4/1], Wargear[6/5], Raid Leader[2/2]
+Opponent: Rexxar HP: 26, Mana: 1/10
+  Hand (4)
+  Field: Skeletal Flayer[8/2], Mind Control Tech[3/3], Microbot[1/1], Murmy[1/1]
+[Turn 10, Step 75] Agent: 카드 플레이 - Boulderfist Ogre (코스트: 6)
+[Turn 10, Step 76] Agent: 공격 - Wargear[6/5] -> Rexxar
+[Turn 10, Step 77] Agent: 공격 - River Crocolisk[5/1] -> Rexxar
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 공격 - Murmy[1/1] -> Boulderfist Ogre
+[Turn 10, Step 78] Opponent: 턴 종료
+[Turn 10, Step 79] Agent: 공격 - Raid Leader[2/2] -> Murmy
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Dragonmaw Scorcher, Coldarra Drake, Nozdormu, Bloodworm, Ethereal Arcanist, Missile Launcher
+  Field: River Crocolisk[5/1], Cogmaster[4/1], Wargear[6/5], Raid Leader[2/1], Boulderfist Ogre[7/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (5)
+  Field: Skeletal Flayer[8/2], Mind Control Tech[3/3], Microbot[1/1]
+[Turn 10, Step 80] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 80] Opponent: 턴 종료
+[Turn 10, Step 81] Agent: 공격 - Cogmaster[4/1] -> Mind Control Tech
+[Turn 10, Step 82] Agent: 카드 플레이 - Coldarra Drake (코스트: 6)
+[Turn 10, Step 83] Agent: 카드 플레이 - Rocket Augmerchant -> Wargear (코스트: 1)
+[Turn 10, Step 84] Agent: 영웅 능력 사용 -> Skeletal Flayer
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (5): Dragonmaw Scorcher, Nozdormu, Bloodworm, Ethereal Arcanist, Missile Launcher
+  Field: River Crocolisk[5/1], Wargear[6/4], Raid Leader[2/1], Boulderfist Ogre[7/6], Coldarra Drake[7/6], Rocket Augmerchant[3/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+  Field: Skeletal Flayer[8/1], Microbot[1/1]
+[Turn 10, Step 85] Agent: 공격 - River Crocolisk[5/1] -> Rexxar
+[Turn 10, Step 86] Agent: 공격 - Wargear[6/4] -> Skeletal Flayer
+[Turn 10, Step 87] Agent: 공격 - Boulderfist Ogre[7/6] -> Microbot
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 공격 - Coldarra Drake[7/6] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Dragonmaw Scorcher, Nozdormu, Bloodworm, Ethereal Arcanist, Missile Launcher, Elise Starseeker
+  Field: River Crocolisk[5/1], Raid Leader[2/1], Boulderfist Ogre[7/5], Coldarra Drake[7/6], Rocket Augmerchant[3/1]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Boulderfist Ogre
+[Turn 10, Step 91] Agent: 공격 - River Crocolisk[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 92) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (6): Dragonmaw Scorcher, Nozdormu, Bloodworm, Ethereal Arcanist, Missile Launcher, Elise Starseeker
+  Field: River Crocolisk[5/1], Raid Leader[2/1], Boulderfist Ogre[7/4], Coldarra Drake[7/6], Rocket Augmerchant[3/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,280 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/3
+  Hand (7): Darkmire Moonkin, Shattered Sun Cleric, Southsea Captain, Puddlestomper, Toothy Chest, Snap Freeze, Griftah
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Arcane Servant (코스트: 2)
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(68) → 12로 보정
+[Turn 4, Step 7] Agent: 공격 - Puddlestomper[3/2] -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Puddlestomper
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Arcane Flakmage (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (6): Darkmire Moonkin, Shattered Sun Cleric, Southsea Captain, Toothy Chest, Snap Freeze, Griftah
+  Field: Puddlestomper[3/1], Arcane Flakmage[3/2]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (6)
+  Field: Arcane Servant[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 5, Step 12] Agent: 선택 - Dragonling Mechanic
+[Turn 5, Step 12] Agent: 선택 - Captain Greenskin
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(6) → 1로 보정
+[Turn 5, Step 12] Agent: 공격 - Puddlestomper[3/1] -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Dire Wolf Alpha (코스트: 2)
+[Turn 5, Step 13] Opponent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 5, Step 13] Opponent: 공격 - Arcane Servant[3/3] -> Arcane Flakmage
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Snap Freeze -> Puddlestomper (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/6
+  Hand (7): Darkmire Moonkin, Shattered Sun Cleric, Southsea Captain, Toothy Chest, Book Wyrm, Dragonling Mechanic, Servant of Kalimos
+  Field: Puddlestomper[3/1], Griftah[4/5]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (7)
+  Field: Dire Wolf Alpha[2/2], Felfin Navigator[5/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Puddlestomper
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 6, Step 16] Opponent: 공격 - Dire Wolf Alpha[2/2] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(34) → 15로 보정
+[Turn 7, Step 17] Agent: 공격 - Griftah[4/5] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (9): Darkmire Moonkin, Shattered Sun Cleric, Southsea Captain, Toothy Chest, Book Wyrm, Dragonling Mechanic, Servant of Kalimos, Cult Apothecary, Chromaggus
+  Field: Griftah[4/5]
+Opponent: Rexxar HP: 19, Mana: 8/8
+  Hand (8)
+  Field: Dire Wolf Alpha[2/2], Felfin Navigator[5/4], Captain Greenskin[5/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Shattered Sun Cleric -> Griftah (코스트: 3)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(75) → 7로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 22] Agent: 공격 - Griftah[5/6] -> Dire Wolf Alpha
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Southsea Captain (코스트: 3)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Felfin Navigator[4/4] -> Southsea Captain
+[Turn 8, Step 24] Opponent: 공격 - Captain Greenskin[5/4] -> Griftah
+[Turn 8, Step 24] Opponent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (8): Argent Horserider, Darkmire Moonkin, Toothy Chest, Book Wyrm, Dragonling Mechanic, Servant of Kalimos, Cult Apothecary, Chromaggus
+  Field: Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 18, Mana: 3/9
+  Hand (8)
+  Field: Felfin Navigator[4/1], Reckless Rocketeer[5/2]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(40) → 6로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(73) → 8로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Reckless Rocketeer
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Princess Huhuran (코스트: 5)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Reckless Rocketeer
+[Turn 10, Step 29] Agent: 카드 플레이 - Glacial Shard -> Felfin Navigator (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/10
+  Hand (7): Argent Horserider, Darkmire Moonkin, Toothy Chest, Book Wyrm, Dragonling Mechanic, Cult Apothecary, Chromaggus
+  Field: Shattered Sun Cleric[3/2], Servant of Kalimos[4/5], Glacial Shard[2/1]
+Opponent: Rexxar HP: 18, Mana: 5/10
+  Hand (8)
+  Field: Felfin Navigator[4/1], Princess Huhuran[6/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(76) → 11로 보정
+[Turn 10, Step 30] Agent: 공격 - Servant of Kalimos[4/5] -> Felfin Navigator
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(61) → 7로 보정
+[Turn 10, Step 31] Agent: 공격 - Shattered Sun Cleric[3/2] -> Rexxar
+[Turn 10, Step 32] Agent: 카드 플레이 - Book Wyrm (코스트: 6)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 10, Step 33] Opponent: 공격 - Princess Huhuran[6/5] -> Book Wyrm
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(47) → 19로 보정
+[Turn 10, Step 34] Agent: 공격 - Shattered Sun Cleric[3/2] -> Nat Pagle
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (7): Argent Horserider, Darkmire Moonkin, Toothy Chest, Dragonling Mechanic, Cult Apothecary, Chromaggus, Dragonmaw Sky Stalker
+  Field: Shattered Sun Cleric[3/2], Servant of Kalimos[4/1], Glacial Shard[2/1]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (6)
+  Field: Princess Huhuran[6/2], Archmage[4/7], Nat Pagle[0/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(32) → 8로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(27) → 11로 보정
+[Turn 10, Step 36] Agent: 공격 - Servant of Kalimos[4/1] -> Nat Pagle
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(52) → 8로 보정
+[Turn 10, Step 37] Agent: 공격 - Glacial Shard[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(15) → 7로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): Argent Horserider, Darkmire Moonkin, Toothy Chest, Dragonling Mechanic, Cult Apothecary, Chromaggus, Splitting Festeroot
+  Field: Shattered Sun Cleric[3/2], Servant of Kalimos[4/1], Glacial Shard[2/1], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (7)
+  Field: Princess Huhuran[6/2], Archmage[4/7]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Shattered Sun Cleric
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 44] Agent: 공격 - Shattered Sun Cleric[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/10
+  Hand (5): Darkmire Moonkin, Toothy Chest, Cult Apothecary, Chromaggus, Splitting Festeroot
+  Field: Shattered Sun Cleric[3/1], Servant of Kalimos[4/1], Glacial Shard[2/1], Dragonmaw Sky Stalker[5/6], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Argent Horserider[2/1]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (7)
+  Field: Princess Huhuran[6/2], Archmage[4/7]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 45] Agent: 공격 - Servant of Kalimos[4/1] -> Archmage
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 46] Agent: 공격 - Glacial Shard[2/1] -> Princess Huhuran
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 공격 - Archmage[4/3] -> Dragonmaw Sky Stalker
+[Turn 10, Step 47] Opponent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(44) → 19로 보정
+[Turn 10, Step 48] Agent: 공격 - Dragonling Mechanic[2/4] -> Rexxar
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (5): Toothy Chest, Cult Apothecary, Chromaggus, Splitting Festeroot, Dalaran Aspirant
+  Field: Shattered Sun Cleric[3/1], Dragonmaw Sky Stalker[5/2], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Argent Horserider[2/1], Darkmire Moonkin[2/8]
+Opponent: Rexxar HP: 6, Mana: 5/10
+  Hand (7)
+  Field: Elise the Trailblazer[5/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Shattered Sun Cleric[3/1] -> Elise the Trailblazer
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Dragonmaw Sky Stalker[5/2] -> Elise the Trailblazer
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 53] Agent: 공격 - Argent Horserider[2/1] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 10, Step 54] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 54] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 10, Step 54] Opponent: 공격 - Bluegill Warrior[2/1] -> Darkmire Moonkin
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (5): Cult Apothecary, Chromaggus, Splitting Festeroot, Dalaran Aspirant, Questing Adventurer
+  Field: Dragonrider[3/4], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Argent Horserider[2/1], Darkmire Moonkin[2/6], Toothy Chest[4/4]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: The Beast[11/9]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(60) → 6로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 10, Step 56] Agent: 공격 - Argent Horserider[2/1] -> The Beast
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(78) → 15로 보정
+[Turn 10, Step 57] Agent: 공격 - Darkmire Moonkin[2/6] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(30) → 12로 보정
+[Turn 10, Step 58] Agent: 공격 - Mechanical Dragonling[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (5): Cult Apothecary, Chromaggus, Splitting Festeroot, Dalaran Aspirant, Questing Adventurer
+  Field: Dragonrider[3/4], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1], Argent Horserider[2/1], Darkmire Moonkin[2/6], Toothy Chest[4/4]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+  Field: The Beast[11/7], Emperor Cobra[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

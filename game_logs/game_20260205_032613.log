@@ -1,0 +1,160 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(19) → 3로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): King Mukla, Priestess of Elune, Voodoo Doll, Sathrovarr, Splitting Festeroot, Felsoul Inquisitor
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Voodoo Doll (코스트: 3)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(34) → 10로 보정
+[Turn 6, Step 8] Agent: 영웅 능력 사용 -> Voodoo Doll
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (6): King Mukla, Priestess of Elune, Sathrovarr, Splitting Festeroot, Fallen Hero, Fireball
+  Field: Felsoul Inquisitor[1/6]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (8)
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 6, Step 10] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 10] Opponent: 턴 종료
+[Turn 7, Step 11] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 7, Step 11] Agent: 공격 - Felsoul Inquisitor[1/6] -> Rexxar
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 7, Step 12] Agent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 7, Step 13] Agent: 카드 플레이 - Fallen Hero (코스트: 2)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/8
+  Hand (6): Priestess of Elune, Sathrovarr, Splitting Festeroot, Fireball, Corrosive Sludge, Violet Spellsword
+  Field: Felsoul Inquisitor[1/6], King Mukla[5/5], Fallen Hero[3/2]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 8, Step 15] Agent: 카드 플레이 - Splitting Festeroot (코스트: 8)
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(6) → 2로 보정
+[Turn 8, Step 16] Agent: 공격 - King Mukla[5/5] -> Rexxar
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 8, Step 17] Agent: 공격 - Fallen Hero[3/2] -> Rexxar
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/9
+  Hand (6): Priestess of Elune, Sathrovarr, Fireball, Corrosive Sludge, Violet Spellsword, Bomb Lobber
+  Field: Felsoul Inquisitor[1/6], King Mukla[5/5], Fallen Hero[3/2], Splitting Festeroot[4/4]
+Opponent: Rexxar HP: 18, Mana: 8/8
+  Hand (10)
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 9, Step 20] Agent: 공격 - King Mukla[5/5] -> Rexxar
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Corrosive Sludge (코스트: 5)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 9, Step 22] Agent: 공격 - Felsoul Inquisitor[1/6] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 9, Step 23] Agent: 공격 - Fallen Hero[3/2] -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 9, Step 24] Agent: 공격 - Splitting Festeroot[4/4] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/9
+  Hand (5): Priestess of Elune, Sathrovarr, Fireball, Violet Spellsword, Bomb Lobber
+  Field: Felsoul Inquisitor[1/6], King Mukla[5/5], Fallen Hero[3/2], Splitting Festeroot[4/4], Corrosive Sludge[5/5]
+Opponent: Rexxar HP: 5, Mana: 8/8
+  Hand (10)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 영웅 능력 사용
+[Turn 9, Step 25] Opponent: 카드 플레이 - Bananas -> Splitting Festeroot (코스트: 1)
+[Turn 9, Step 25] Opponent: 카드 플레이 - Sideshow Spelleater (코스트: 6)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 공격 - Splitting Festeroot[5/5] -> Sideshow Spelleater
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(83) → 21로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Felsoul Inquisitor
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(39) → 5로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Fireball -> King Mukla (코스트: 4)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 29] Agent: 공격 - Felsoul Inquisitor[1/4] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/10
+  Hand (5): Priestess of Elune, Sathrovarr, Violet Spellsword, Bomb Lobber, The Voraxx
+  Field: Felsoul Inquisitor[1/4], Fallen Hero[3/2], Splitting Sapling[2/2], Splitting Sapling[2/2], Corrosive Sludge[5/5]
+Opponent: Rexxar HP: 4, Mana: 0/9
+  Hand (8)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 31] Agent: 공격 - Fallen Hero[3/2] -> Rexxar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 영웅 능력 사용 -> Fallen Hero
+[Turn 10, Step 32] Opponent: 카드 플레이 - Burrowing Scorpid -> Rexxar (코스트: 4)
+
+--- Game State (Turn 10, Step 33) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/10
+  Hand (4): Priestess of Elune, Sathrovarr, Violet Spellsword, Bomb Lobber
+  Field: Felsoul Inquisitor[1/4], Fallen Hero[3/1], Splitting Sapling[2/2], Splitting Sapling[2/2], Corrosive Sludge[5/5], The Voraxx[3/3]
+Opponent: Rexxar HP: 0, Mana: 4/10
+  Hand (8)
+  Field: Burrowing Scorpid[5/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,113 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Disciple of C'Thun -> Jaina Proudmoore (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Raid Leader, Cosmic Anomaly, Sylvanas Windrunner, Splitting Festeroot, SI:7 Infiltrator, Dragonling Mechanic
+  Field: Disciple of C'Thun[2/1]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (8)
+[Turn 4, Step 5] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 4, Step 6] Agent: 공격 - Disciple of C'Thun[3/1] -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+[Turn 5, Step 9] Agent: 공격 - Disciple of C'Thun[3/1] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/5
+  Hand (5): Sylvanas Windrunner, Splitting Festeroot, SI:7 Infiltrator, Dragonling Mechanic, Grand Archivist
+  Field: Disciple of C'Thun[3/1], Raid Leader[2/2], Cosmic Anomaly[5/3]
+Opponent: Rexxar HP: 24, Mana: 4/4
+  Hand (9)
+[Turn 5, Step 10] Agent: 공격 - Raid Leader[2/2] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 5, Step 11] Opponent: 선택 - Nozdormu
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 공격 - Cosmic Anomaly[5/3] -> Rexxar
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Primordial Explorer
+[Turn 6, Step 14] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/6
+  Hand (5): Sylvanas Windrunner, Splitting Festeroot, Dragonling Mechanic, Grand Archivist, Prince Taldaram
+  Field: Disciple of C'Thun[3/1], Raid Leader[2/2], Cosmic Anomaly[5/3], SI:7 Infiltrator[6/4]
+Opponent: Rexxar HP: 17, Mana: 2/5
+  Hand (10)
+  Field: Primordial Explorer[2/2]
+[Turn 6, Step 15] Agent: 공격 - Disciple of C'Thun[3/1] -> Rexxar
+[Turn 6, Step 16] Agent: 공격 - Raid Leader[2/2] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Spellzerker (코스트: 2)
+[Turn 6, Step 17] Opponent: 공격 - Primordial Explorer[2/2] -> Jaina Proudmoore
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 공격 - SI:7 Infiltrator[6/4] -> Primordial Explorer
+[Turn 7, Step 19] Agent: 공격 - Raid Leader[2/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (6): Sylvanas Windrunner, Splitting Festeroot, Dragonling Mechanic, Grand Archivist, Prince Taldaram, Pyros
+  Field: Disciple of C'Thun[3/1], Raid Leader[2/2], Cosmic Anomaly[5/3]
+Opponent: Rexxar HP: 10, Mana: 2/6
+  Hand (7)
+  Field: Spellzerker[2/3], Runic Egg[0/2]
+[Turn 7, Step 20] Agent: 공격 - Cosmic Anomaly[5/3] -> Rexxar
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Spellzerker
+[Turn 7, Step 22] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 7, Step 23] Agent: 공격 - Disciple of C'Thun[3/1] -> Rexxar
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (6): Sylvanas Windrunner, Splitting Festeroot, Grand Archivist, Prince Taldaram, Pyros, Stranglethorn Tiger
+  Field: Disciple of C'Thun[3/1], Raid Leader[2/2], Cosmic Anomaly[5/3], Dragonling Mechanic[3/4], Mechanical Dragonling[3/1]
+Opponent: Rexxar HP: 2, Mana: 7/7
+  Hand (8)
+  Field: Spellzerker[2/2], Runic Egg[0/2]
+[Turn 8, Step 25] Agent: 공격 - Dragonling Mechanic[3/4] -> Runic Egg
+[Turn 8, Step 26] Agent: 공격 - Disciple of C'Thun[3/1] -> Rexxar
+
+--- Game State (Turn 8, Step 27) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (6): Sylvanas Windrunner, Splitting Festeroot, Grand Archivist, Prince Taldaram, Pyros, Stranglethorn Tiger
+  Field: Disciple of C'Thun[3/1], Raid Leader[2/2], Cosmic Anomaly[5/3], Dragonling Mechanic[3/4], Mechanical Dragonling[3/1]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (9)
+  Field: Spellzerker[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

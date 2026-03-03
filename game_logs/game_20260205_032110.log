@@ -1,0 +1,311 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Fallen Sun Cleric (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 3, Step 2] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 3, Step 3] Opponent: 공격 - Fallen Sun Cleric[2/1] -> Jaina Proudmoore
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Fallen Sun Cleric
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/4
+  Hand (6): Faceless Summoner, Boisterous Bard, Conjured Mirage, Linecracker, Acidic Swamp Ooze, Breath of Sindragosa
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 5, Step 7] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Rexxar
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Boisterous Bard (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (5): Faceless Summoner, Conjured Mirage, Linecracker, Breath of Sindragosa, Tomb Spider
+  Field: Acidic Swamp Ooze[3/3], Boisterous Bard[3/2]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 5, Step 10] Opponent: 카드 플레이 - Lance Carrier -> Mana Wraith (코스트: 3)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 공격 - Acidic Swamp Ooze[3/3] -> Lance Carrier
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Conjured Mirage (코스트: 5)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Stonehill Defender (코스트: 4)
+[Turn 6, Step 13] Opponent: 선택 - Wax Elemental
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(82) → 12로 보정
+[Turn 7, Step 14] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Stonehill Defender
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 7/7
+  Hand (6): Faceless Summoner, Linecracker, Breath of Sindragosa, Tomb Spider, Frizz Kindleroost, Cult Apothecary
+  Field: Acidic Swamp Ooze[3/1], Boisterous Bard[3/2]
+Opponent: Rexxar HP: 26, Mana: 2/6
+  Hand (6)
+  Field: Mana Wraith[4/2], Stonehill Defender[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(89) → 11로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Stonehill Defender
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 7, Step 16] Agent: 공격 - Boisterous Bard[3/2] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Mechanical Whelp (코스트: 7)
+[Turn 7, Step 17] Opponent: 공격 - Mana Wraith[4/2] -> Boisterous Bard
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(75) → 10로 보정
+[Turn 8, Step 19] Agent: 공격 - Acidic Swamp Ooze[3/1] -> Mechanical Whelp
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/8
+  Hand (6): Faceless Summoner, Linecracker, Breath of Sindragosa, Tomb Spider, Frizz Kindleroost, Cult Apothecary
+  Field: Conjured Mirage[3/10]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Mechanical Dragon[7/7]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 8, Step 21] Agent: 공격 - Conjured Mirage[3/10] -> Mechanical Dragon
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Spellweaver (코스트: 6)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(94) → 9로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Mechanical Dragon
+[Turn 9, Step 24] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/9
+  Hand (5): Linecracker, Breath of Sindragosa, Tomb Spider, Cult Apothecary, Grim Necromancer
+  Field: Frizz Kindleroost[6/4], Faceless Summoner[6/5], Raid Leader[2/2]
+Opponent: Rexxar HP: 23, Mana: 1/8
+  Hand (5)
+  Field: Mechanical Dragon[7/3], Spellweaver[4/4], Secretkeeper[1/2]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 영웅 능력 사용
+[Turn 9, Step 25] Opponent: 카드 플레이 - Hobgoblin (코스트: 3)
+[Turn 9, Step 25] Opponent: 공격 - Spellweaver[4/4] -> Faceless Summoner
+[Turn 9, Step 25] Opponent: 공격 - Mechanical Dragon[7/3] -> Frizz Kindleroost
+[Turn 9, Step 25] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 9, Step 25] Opponent: 공격 - Secretkeeper[1/2] -> Raid Leader
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Wax Elemental
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 27] Agent: 공격 - Raid Leader[2/1] -> Wax Elemental
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - Wyrmguard (코스트: 7)
+[Turn 10, Step 28] Opponent: 영웅 능력 사용
+[Turn 10, Step 28] Opponent: 공격 - Hobgoblin[2/3] -> Raid Leader
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(40) → 8로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (7): Linecracker, Breath of Sindragosa, Tomb Spider, Cult Apothecary, Grim Necromancer, Faceless Behemoth, Regeneratin' Thug
+  Field: Faceless Summoner[5/1]
+Opponent: Rexxar HP: 23, Mana: 1/10
+  Hand (4)
+  Field: Hobgoblin[2/1], Wyrmguard[3/11]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(28) → 8로 보정
+[Turn 10, Step 30] Agent: 공격 - Faceless Summoner[5/1] -> Hobgoblin
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 33] Agent: 선택 - Stoneskin Basilisk
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(15) → 4로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Tomb Spider
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (7): Linecracker, Breath of Sindragosa, Cult Apothecary, Grim Necromancer, Faceless Behemoth, Chromatic Egg, Stoneskin Basilisk
+  Field: Tomb Spider[3/2], Regeneratin' Thug[3/5]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (5)
+  Field: Wyrmguard[3/11]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(25) → 4로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Grim Necromancer (코스트: 4)
+[Turn 10, Step 37] Agent: 카드 플레이 - Scaled Nightmare (코스트: 4)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(48) → 12로 보정
+[Turn 10, Step 38] Agent: 공격 - Tomb Spider[3/2] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(22) → 7로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> The Beast
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (6): Linecracker, Breath of Sindragosa, Cult Apothecary, Faceless Behemoth, Chromatic Egg, Stoneskin Basilisk
+  Field: Tomb Spider[3/2], Regeneratin' Thug[3/5], Skeleton[1/1], Grim Necromancer[2/4], Skeleton[1/1], Scaled Nightmare[2/8]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (5)
+  Field: Wyrmguard[3/11], The Beast[9/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Scaled Nightmare
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 10, Step 42] Agent: 공격 - Regeneratin' Thug[3/5] -> The Beast
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(38) → 16로 보정
+[Turn 10, Step 43] Agent: 공격 - Skeleton[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(52) → 14로 보정
+[Turn 10, Step 44] Agent: 공격 - Grim Necromancer[2/4] -> Wyrmguard
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (7): Linecracker, Breath of Sindragosa, Cult Apothecary, Faceless Behemoth, Chromatic Egg, Stoneskin Basilisk, Sen'jin Shieldmasta
+  Field: Tomb Spider[3/2], Skeleton[1/1], Grim Necromancer[2/1], Skeleton[1/1], Scaled Nightmare[4/7]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (6)
+  Field: Wyrmguard[3/9], The Beast[9/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> The Beast
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(89) → 20로 보정
+[Turn 10, Step 47] Agent: 공격 - Scaled Nightmare[8/7] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/10
+  Hand (6): Linecracker, Faceless Behemoth, Chromatic Egg, Stoneskin Basilisk, Sen'jin Shieldmasta, Devilsaur Egg
+  Field: Tomb Spider[3/2], Skeleton[1/1], Grim Necromancer[2/1], Skeleton[1/1], Scaled Nightmare[8/7], Cult Apothecary[4/4]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (7)
+  Field: Wyrmguard[3/7], The Beast[9/2], Cat in a Hat[4/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 10, Step 50] Agent: 공격 - Skeleton[1/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(58) → 8로 보정
+[Turn 10, Step 51] Agent: 공격 - Skeleton[1/1] -> Wyrmguard
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(41) → 6로 보정
+[Turn 10, Step 52] Agent: 공격 - Grim Necromancer[2/1] -> The Beast
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 53] Agent: 공격 - Tomb Spider[3/2] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 공격 - Cat in a Hat[4/2] -> Jaina Proudmoore
+[Turn 10, Step 54] Opponent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 10, Step 54] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 10, Step 54] Opponent: 영웅 능력 사용
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (7): Linecracker, Faceless Behemoth, Chromatic Egg, Stoneskin Basilisk, Sen'jin Shieldmasta, Devilsaur Egg, Conjured Mirage
+  Field: Tomb Spider[3/2], Finkle Einhorn[3/3], Skeleton[1/1], Scaled Nightmare[16/7], Cult Apothecary[4/4]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (6)
+  Field: Wyrmguard[3/6], Cat in a Hat[4/2], Red Mana Wyrm[2/6], Mana Wraith[2/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(74) → 31로 보정
+[Turn 10, Step 55] Agent: 공격 - Skeleton[1/1] -> Red Mana Wyrm
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(39) → 2로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Chromatic Egg (코스트: 6)
+[Turn 10, Step 57] Agent: 선택 - Book Wyrm
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(40) → 19로 보정
+[Turn 10, Step 58] Agent: 공격 - Cult Apothecary[4/4] -> Red Mana Wyrm
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(89) → 9로 보정
+[Turn 10, Step 59] Agent: 공격 - Finkle Einhorn[3/3] -> Red Mana Wyrm
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (6): Linecracker, Faceless Behemoth, Stoneskin Basilisk, Sen'jin Shieldmasta, Devilsaur Egg, Conjured Mirage
+  Field: Tomb Spider[3/2], Finkle Einhorn[3/1], Scaled Nightmare[16/7], Cult Apothecary[4/2], Chromatic Egg[0/3]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (6)
+  Field: Wyrmguard[3/6], Cat in a Hat[4/2], Mana Wraith[2/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 60] Agent: 공격 - Tomb Spider[3/2] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 10, Step 61] Agent: 공격 - Scaled Nightmare[16/7] -> Cat in a Hat
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Tomb Lurker (코스트: 6)
+[Turn 10, Step 62] Opponent: 공격 - Mana Wraith[2/2] -> Cult Apothecary
+[Turn 10, Step 62] Opponent: 카드 플레이 - Stormhammer (코스트: 3)
+[Turn 10, Step 62] Opponent: 카드 플레이 - Crystallizer (코스트: 1)
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (6): Linecracker, Faceless Behemoth, Stoneskin Basilisk, Sen'jin Shieldmasta, Devilsaur Egg, Conjured Mirage
+  Field: Tomb Spider[3/2], Finkle Einhorn[3/1], Scaled Nightmare[16/3], Chromatic Egg[0/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+  Field: Wyrmguard[3/6], Tomb Lurker[5/3], Crystallizer[1/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

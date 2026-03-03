@@ -1,0 +1,387 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 공격 - Undertaker[1/2] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Undertaker
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (6): Skaterbot, Spellbook Binder, Dwarven Archaeologist, Mirror Entity, Drakkari Enchanter, Antique Healbot
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Undertaker[1/1]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Spellbook Binder, Dwarven Archaeologist, Mirror Entity, Drakkari Enchanter, Antique Healbot, Fire Hawk
+  Field: Stubborn Gastropod[1/2], Skaterbot[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (5)
+  Field: Devilsaur[5/5], Tinkmaster Overspark[3/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Bomb Squad -> Devilsaur (코스트: 5)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 5, Step 12] Agent: 공격 - Skaterbot[1/1] -> Tinkmaster Overspark
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 영웅 능력 사용
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/7
+  Hand (8): Spellbook Binder, Dwarven Archaeologist, Mirror Entity, Drakkari Enchanter, Antique Healbot, Fire Hawk, Dragonhawk Rider, Kirin Tor Tricaster
+  Field: Stubborn Gastropod[1/2], Bomb Squad[2/2]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (8)
+  Field: Tinkmaster Overspark[3/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(30) → 12로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Tinkmaster Overspark
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 7, Step 17] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 7, Step 19] Agent: 공격 - Bomb Squad[2/2] -> Tinkmaster Overspark
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/7
+  Hand (6): Spellbook Binder, Mirror Entity, Drakkari Enchanter, Antique Healbot, Dragonhawk Rider, Kirin Tor Tricaster
+  Field: Stubborn Gastropod[1/2], Dwarven Archaeologist[2/3], Fire Hawk[9/3]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (8)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 7, Step 20] Opponent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(59) → 11로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Dwarven Archaeologist
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(79) → 11로 보정
+[Turn 8, Step 22] Agent: 공격 - Dwarven Archaeologist[2/2] -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Primordial Drake (코스트: 8)
+[Turn 8, Step 23] Opponent: 공격 - Generous Mummy[5/2] -> Jaina Proudmoore
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Whirliglider (코스트: 1)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/9
+  Hand (7): Spellbook Binder, Mirror Entity, Drakkari Enchanter, Antique Healbot, Dragonhawk Rider, Kirin Tor Tricaster, Kael'thas Sunstrider
+  Field: Fire Hawk[9/1], Whirliglider[2/1], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 26, Mana: 1/9
+  Hand (7)
+  Field: Dragonmaw Poacher[4/2], Generous Mummy[5/2], Primordial Drake[4/6]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(75) → 7로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Kael'thas Sunstrider (코스트: 6)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Dragonmaw Poacher
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Wyrmguard (코스트: 7)
+[Turn 9, Step 27] Opponent: 공격 - Dragonmaw Poacher[4/1] -> Kael'thas Sunstrider
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(89) → 20로 보정
+[Turn 10, Step 28] Agent: 공격 - Whirliglider[2/1] -> Wyrmguard
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(75) → 15로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Wyrmguard
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (7): Spellbook Binder, Mirror Entity, Drakkari Enchanter, Antique Healbot, Dragonhawk Rider, Kirin Tor Tricaster, Kobold Stickyfinger
+  Field: Fire Hawk[9/1], Goblin Bomb[0/2], Kael'thas Sunstrider[4/3]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (7)
+  Field: Generous Mummy[5/2], Primordial Drake[4/6], Wyrmguard[4/8]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 10, Step 30] Agent: 공격 - Kael'thas Sunstrider[4/3] -> Primordial Drake
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(39) → 9로 보정
+[Turn 10, Step 31] Agent: 공격 - Fire Hawk[9/1] -> Wyrmguard
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Spellbook Binder (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Kirin Tor Tricaster (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 10/10
+  Hand (7): Mirror Entity, Drakkari Enchanter, Antique Healbot, Dragonhawk Rider, Kobold Stickyfinger, Fire Fly, Tournament Attendee
+  Field: Goblin Bomb[0/2], Spellbook Binder[3/2], Kirin Tor Tricaster[3/3]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (7)
+  Field: Generous Mummy[5/2], Primordial Drake[4/2], Salty Dog[7/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 35] Agent: 공격 - Spellbook Binder[3/2] -> Primordial Drake
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Drakkari Enchanter (코스트: 2)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(36) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Antique Healbot (코스트: 4)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(57) → 6로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 공격 - Kirin Tor Tricaster[3/3] -> Generous Mummy
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (5): Mirror Entity, Dragonhawk Rider, Kobold Stickyfinger, Fire Fly, Tournament Attendee
+  Field: Goblin Bomb[0/2], Drakkari Enchanter[1/5], Antique Healbot[3/3]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (7)
+  Field: Generous Mummy[5/1], Salty Dog[7/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(68) → 3로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Fire Fly (코스트: 0)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Tournament Attendee (코스트: 0)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Flame Elemental (코스트: 0)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Dragonhawk Rider (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (3): Mirror Entity, Kobold Stickyfinger, Apexis Blast
+  Field: Goblin Bomb[0/2], Drakkari Enchanter[1/5], Antique Healbot[3/3], Fire Fly[1/2], Tournament Attendee[2/1], Flame Elemental[1/2], Dragonhawk Rider[3/3]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (8)
+  Field: Generous Mummy[5/1], Salty Dog[7/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(94) → 10로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Apexis Blast -> Tournament Attendee (코스트: 4)
+[Turn 10, Step 46] Agent: 공격 - Flame Elemental[1/2] -> Salty Dog
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(96) → 21로 보정
+[Turn 10, Step 48] Agent: 공격 - Fire Fly[1/2] -> Salty Dog
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (3): Mirror Entity, Kobold Stickyfinger, Goblin Bomb
+  Field: Goblin Bomb[0/2], Drakkari Enchanter[1/5], Antique Healbot[3/3], Dragonhawk Rider[3/3]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (9)
+  Field: Generous Mummy[5/1], Salty Dog[7/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(29) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Goblin Bomb (코스트: 0)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 10, Step 51] Agent: 공격 - Antique Healbot[3/3] -> Salty Dog
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 10, Step 52] Agent: 공격 - Dragonhawk Rider[3/3] -> Generous Mummy
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 영웅 능력 사용
+[Turn 10, Step 54] Opponent: 카드 플레이 - Dread Corsair (코스트: 4)
+[Turn 10, Step 54] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (2): Kobold Stickyfinger, Sorcerer's Apprentice
+  Field: Goblin Bomb[0/2], Drakkari Enchanter[1/5], Goblin Bomb[0/2], Dread Corsair[3/3]
+Opponent: Rexxar HP: 25, Mana: 3/10
+  Hand (8)
+  Field: Dread Corsair[3/3], Lightwarden[1/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(20) → 7로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 10, Step 56] Agent: 공격 - Dread Corsair[3/3] -> Dread Corsair
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 58] Opponent: 공격 - Lightwarden[1/2] -> Jaina Proudmoore
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(70) → 10로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Arcanosmith
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (2): Sorcerer's Apprentice, Goboglide Tech
+  Field: Goblin Bomb[0/2], Drakkari Enchanter[1/5], Goblin Bomb[0/1], Kobold Stickyfinger[4/4]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (7)
+  Field: Lightwarden[1/2], Arcanosmith[3/1], Animated Shield[0/5], Xavius[7/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 64] Agent: 공격 - Drakkari Enchanter[1/5] -> Animated Shield
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (1): Sorcerer's Apprentice
+  Field: Goblin Bomb[0/1], Drakkari Enchanter[1/5], Goblin Bomb[0/1], Kobold Stickyfinger[4/4], Goboglide Tech[4/4], Devoted Maniac[2/2]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Lightwarden[1/2], Arcanosmith[3/1], Animated Shield[0/4], Xavius[7/5]
+[Turn 10, Step 65] Agent: 공격 - Goboglide Tech[4/4] -> Animated Shield
+[Turn 10, Step 66] Agent: 공격 - Kobold Stickyfinger[4/4] -> Arcanosmith
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 67] Agent: 공격 - Devoted Maniac[2/2] -> Xavius
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 공격 - Lightwarden[1/2] -> Goboglide Tech
+[Turn 10, Step 68] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 10, Step 68] Opponent: 공격 - Wyvern[5/5] -> Goblin Bomb
+[Turn 10, Step 68] Opponent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 10, Step 68] Opponent: 공격 - Xavius[7/3] -> Goblin Bomb
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(96) → 3로 보정
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (2): Sorcerer's Apprentice, Astral Rift
+  Field: Drakkari Enchanter[1/5], Kobold Stickyfinger[4/1], Goboglide Tech[4/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (8)
+  Field: Xavius[7/3], Xavian Satyr[2/1], Xavian Satyr[2/1], Wyvern[5/5], Regeneratin' Thug[3/5]
+[Turn 10, Step 70] Agent: 공격 - Goboglide Tech[4/3] -> Wyvern
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 71] Agent: 공격 - Drakkari Enchanter[1/5] -> Xavius
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 10, Step 72] Agent: 공격 - Kobold Stickyfinger[4/1] -> Xavian Satyr
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Astral Rift (코스트: 2)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Xavius[7/2] -> Jaina Proudmoore
+[Turn 10, Step 74] Opponent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 10, Step 74] Opponent: 카드 플레이 - Ironbeak Owl -> Injured Kvaldir (코스트: 3)
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (4): Sorcerer's Apprentice, Soot Spewer, Obsidian Destroyer, Spellslinger
+Opponent: Rexxar HP: 21, Mana: 6/10
+  Hand (7)
+  Field: Xavius[7/2], Xavian Satyr[2/1], Xavian Satyr[2/1], Wyvern[5/1], Regeneratin' Thug[3/5], Injured Kvaldir[2/1], Ironbeak Owl[2/1]
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Wyvern
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Sorcerer's Apprentice (코스트: 2)
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Spellslinger (코스트: 3)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(28) → 8로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Sound the Bells! -> Sorcerer's Apprentice (코스트: 1)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Sound the Bells! -> Xavius (코스트: 1)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 1/10
+  Hand (3): Soot Spewer, Obsidian Destroyer, Sound the Bells!
+  Field: Sorcerer's Apprentice[4/4], Spellslinger[3/4]
+Opponent: Rexxar HP: 21, Mana: 6/10
+  Hand (8)
+  Field: Xavius[8/4], Xavian Satyr[2/1], Xavian Satyr[2/1], Regeneratin' Thug[3/5], Injured Kvaldir[2/1], Ironbeak Owl[2/1]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(59) → 5로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Sound the Bells! -> Xavian Satyr (코스트: 1)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 공격 - Ironbeak Owl[2/1] -> Jaina Proudmoore
+[Turn 10, Step 81] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 10, Step 81] Opponent: 공격 - Xavian Satyr[2/1] -> Spellslinger
+[Turn 10, Step 81] Opponent: 공격 - Regeneratin' Thug[3/5] -> Spellslinger
+[Turn 10, Step 81] Opponent: 공격 - Xavian Satyr[3/3] -> Jaina Proudmoore
+[Turn 10, Step 81] Opponent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 10, Step 81] Opponent: 공격 - Xavius[8/4] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 82) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (2): Soot Spewer, Obsidian Destroyer
+  Field: Sorcerer's Apprentice[4/4]
+Opponent: Rexxar HP: 21, Mana: 7/10
+  Hand (7)
+  Field: Xavius[8/4], Xavian Satyr[3/3], Regeneratin' Thug[3/2], Injured Kvaldir[2/1], Ironbeak Owl[2/1], Depth Charge[0/5], Bloodmage Thalnos[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

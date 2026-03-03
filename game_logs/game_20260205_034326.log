@@ -1,0 +1,199 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 2, Step 3] Agent: 선택 - Soot Spewer
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/3
+  Hand (4): Platebreaker, Jungle Panther, Zola the Gorgon, Soot Spewer
+  Field: Saronite Taskmaster[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 8] Agent: 공격 - Saronite Taskmaster[2/3] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Cloakscale Chemist[1/2] -> Saronite Taskmaster
+[Turn 4, Step 9] Opponent: 카드 플레이 - Faerie Dragon (코스트: 2)
+[Turn 4, Step 9] Opponent: 영웅 능력 사용
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): Platebreaker, Jungle Panther, Zola the Gorgon, Soot Spewer, Mecha'thun, The Voraxx
+  Field: Saronite Taskmaster[2/2]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (6)
+  Field: Cloakscale Chemist[1/2], Faerie Dragon[3/2]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Youthful Brewmaster -> Cloakscale Chemist (코스트: 2)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 5, Step 11] Opponent: 공격 - Faerie Dragon[3/2] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 공격 - Cloakscale Chemist[1/2] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 6, Step 13] Agent: 공격 - Saronite Taskmaster[2/2] -> Rexxar
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Cloakscale Chemist
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/6
+  Hand (6): Platebreaker, Jungle Panther, Zola the Gorgon, Soot Spewer, Mecha'thun, The Voraxx
+  Field: Saronite Taskmaster[2/2], Kezan Mystic[4/3]
+Opponent: Rexxar HP: 24, Mana: 1/5
+  Hand (6)
+  Field: Faerie Dragon[3/2], Youthful Brewmaster[3/2], Cloakscale Chemist[1/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Cloakscale Chemist[1/1] -> Saronite Taskmaster
+[Turn 6, Step 15] Opponent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 6, Step 15] Opponent: 공격 - Youthful Brewmaster[3/2] -> Kezan Mystic
+[Turn 6, Step 15] Opponent: 공격 - Faerie Dragon[3/2] -> Saronite Taskmaster
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 7, Step 17] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 7, Step 18] Opponent: 공격 - Sightless Ranger[3/4] -> Soot Spewer
+[Turn 7, Step 18] Opponent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 공격 - Blackwald Pixie[3/4] -> Jaina Proudmoore
+[Turn 8, Step 19] Opponent: 공격 - Sightless Ranger[3/1] -> Regeneratin' Thug
+[Turn 8, Step 19] Opponent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 8, Step 19] Opponent: 공격 - Felfin Navigator[4/4] -> Regeneratin' Thug
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): Platebreaker, Jungle Panther, Zola the Gorgon, Mecha'thun, The Voraxx, Stubborn Gastropod, Recurring Villain
+Opponent: Rexxar HP: 24, Mana: 1/8
+  Hand (5)
+  Field: Free Agent[0/3], Blackwald Pixie[3/4], Felfin Navigator[4/1], Captured Jormungar[5/9]
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Captured Jormungar
+[Turn 9, Step 21] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+[Turn 9, Step 22] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Blackwald Pixie
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (6): Platebreaker, Jungle Panther, Zola the Gorgon, Mecha'thun, Recurring Villain, Chillmaw
+  Field: The Voraxx[3/3], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (6)
+  Field: Free Agent[0/3], Blackwald Pixie[3/3], Felfin Navigator[4/1], Captured Jormungar[5/8]
+[Turn 10, Step 25] Agent: 카드 플레이 - Zola the Gorgon -> The Voraxx (코스트: 3)
+[Turn 10, Step 26] Agent: 카드 플레이 - Platebreaker (코스트: 5)
+[Turn 10, Step 27] Agent: 공격 - The Voraxx[3/3] -> Free Agent
+[Turn 10, Step 28] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 공격 - Captured Jormungar[5/8] -> Stubborn Gastropod
+[Turn 10, Step 29] Opponent: 공격 - Felfin Navigator[4/1] -> Zola the Gorgon
+[Turn 10, Step 29] Opponent: 공격 - Blackwald Pixie[3/3] -> Platebreaker
+[Turn 10, Step 29] Opponent: 카드 플레이 - Whirlwind Tempest (코스트: 8)
+[Turn 10, Step 29] Opponent: 영웅 능력 사용
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (6): Jungle Panther, Mecha'thun, Recurring Villain, Chillmaw, The Voraxx, Tainted Zealot
+  Field: The Voraxx[3/3], Platebreaker[5/2]
+Opponent: Rexxar HP: 23, Mana: 0/10
+  Hand (6)
+  Field: Whirlwind Tempest[6/6]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> The Voraxx
+[Turn 10, Step 31] Agent: 카드 플레이 - Recurring Villain (코스트: 5)
+[Turn 10, Step 32] Agent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 10, Step 33] Agent: 공격 - The Voraxx[3/2] -> Rexxar
+[Turn 10, Step 34] Agent: 공격 - Platebreaker[5/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (4): Mecha'thun, Chillmaw, The Voraxx, Tainted Zealot
+  Field: The Voraxx[3/2], Platebreaker[5/2], Recurring Villain[3/6], Jungle Panther[4/2]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (6)
+  Field: Whirlwind Tempest[6/6]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Whirlwind Tempest[6/6] -> Platebreaker
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 37] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 10, Step 38] Agent: 공격 - Recurring Villain[3/6] -> Whirlwind Tempest
+[Turn 10, Step 39] Agent: 공격 - The Voraxx[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (3): Mecha'thun, The Voraxx, Fight Promoter
+  Field: The Voraxx[3/2], Jungle Panther[4/2], Chillmaw[6/6], Tainted Zealot[1/1]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 40] Agent: 공격 - Jungle Panther[4/2] -> Rexxar
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Chillmaw[6/6] -> Infested Goblin
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Tainted Zealot
+[Turn 10, Step 44] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (4): Steel Rager, Mecha'thun, The Voraxx, Fight Promoter
+  Field: The Voraxx[3/2], Jungle Panther[4/2], Chillmaw[6/4], Tainted Zealot[1/1]
+Opponent: Rexxar HP: 7, Mana: 7/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 공격 - Jungle Panther[4/2] -> Rexxar
+[Turn 10, Step 46] Agent: 공격 - The Voraxx[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (4): Steel Rager, Mecha'thun, The Voraxx, Fight Promoter
+  Field: The Voraxx[3/2], Jungle Panther[4/2], Chillmaw[6/4], Tainted Zealot[1/1]
+Opponent: Rexxar HP: 0, Mana: 7/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

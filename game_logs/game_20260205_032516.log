@@ -1,0 +1,292 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Elven Archer -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Beaming Sidekick (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(48) → 4로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 2, Step 3] Agent: 공격 - Elven Archer[1/1] -> Beaming Sidekick
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Incanter's Flow, Wyrmrest Purifier, Weasel Tunneler, Gilnean Royal Guard
+  Field: Friendly Bartender[2/3]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+  Field: Beaming Sidekick[1/1]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 3, Step 5] Agent: 공격 - Friendly Bartender[2/3] -> Beaming Sidekick
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Friendly Bartender
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Blowgill Sniper -> Jaina Proudmoore (코스트: 2)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(19) → 8로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Blowgill Sniper
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/4
+  Hand (4): Incanter's Flow, Wyrmrest Purifier, Gilnean Royal Guard, Licensed Adventurer
+  Field: Friendly Bartender[2/1], Weasel Tunneler[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Weasel Tunneler
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(45) → 9로 보정
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Fel Orc Soulfiend
+[Turn 6, Step 14] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/6
+  Hand (5): Incanter's Flow, Gilnean Royal Guard, Licensed Adventurer, Portal Keeper, Fungalmancer
+  Field: Friendly Bartender[2/1], Wyrmrest Purifier[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: Fel Orc Soulfiend[3/6]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Fel Orc Soulfiend[3/4] -> Wyrmrest Purifier
+[Turn 6, Step 15] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 6, Step 15] Opponent: 공격 - Rexxar[2/30] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(98) → 10로 보정
+[Turn 7, Step 16] Agent: 공격 - Friendly Bartender[2/1] -> Fel Orc Soulfiend
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 7, Step 18] Opponent: 공격 - Rexxar[2/30] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/8
+  Hand (6): Incanter's Flow, Gilnean Royal Guard, Portal Keeper, Fungalmancer, Polymorph, Steam Surger
+  Field: Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (6)
+  Field: Mogor's Champion[8/5]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Portal Keeper
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Mogor's Champion[8/5] -> Licensed Adventurer
+[Turn 8, Step 22] Opponent: 카드 플레이 - Sightless Ranger (코스트: 5)
+[Turn 8, Step 22] Opponent: 영웅 능력 사용
+[Turn 8, Step 22] Opponent: 공격 - Sightless Ranger[3/4] -> Licensed Adventurer
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(91) → 7로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Fungalmancer (코스트: 5)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/9
+  Hand (5): Incanter's Flow, Gilnean Royal Guard, Dragon's Fury, Steam Surger, Stargazer Luna
+  Field: Fungalmancer[2/2]
+Opponent: Rexxar HP: 30, Mana: 1/8
+  Hand (6)
+  Field: Bat[1/1], Sightless Ranger[3/1], Bat[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Scaled Nightmare (코스트: 6)
+[Turn 9, Step 25] Opponent: 공격 - Bat[1/1] -> Jaina Proudmoore
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Bat
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 28] Agent: 공격 - Fungalmancer[2/2] -> Scaled Nightmare
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (4): Incanter's Flow, Deck of Wonders, Steam Surger, Stargazer Luna
+  Field: Gilnean Royal Guard[8/3]
+Opponent: Rexxar HP: 30, Mana: 3/9
+  Hand (6)
+  Field: Sightless Ranger[3/1], Bat[1/1], Scaled Nightmare[2/6]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 30] Agent: 공격 - Gilnean Royal Guard[8/3] -> Scaled Nightmare
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Sightless Ranger[3/1] -> Gilnean Royal Guard
+[Turn 10, Step 31] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 10, Step 31] Opponent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(81) → 5로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Shooting Star -> Amalgam (코스트: 1)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 10, Step 34] Opponent: 공격 - Amalgam[1/1] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 10, Step 34] Opponent: 공격 - Hench-Clan Hag[3/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 공격 - Shrieking Shroom[1/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 공격 - Murloc Tidecaller[1/2] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Incanter's Flow, Steam Surger, Stargazer Luna, Black Cat, Ray of Frost
+Opponent: Rexxar HP: 30, Mana: 3/10
+  Hand (4)
+  Field: Hench-Clan Hag[3/2], Amalgam[1/1], Shrieking Shroom[1/2], Murloc Tidecaller[1/2], Rattling Rascal[2/2], Skeletal Enforcer[5/5], Scarlet Crusader[3/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(30) → 9로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Ray of Frost -> Rattling Rascal (코스트: 1)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Ray of Frost -> Amalgam (코스트: 1)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Amalgam
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Scarlet Crusader[3/1] -> Stargazer Luna
+[Turn 10, Step 39] Opponent: 카드 플레이 - Carnivorous Cube -> Rattling Rascal (코스트: 5)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Incanter's Flow, Steam Surger, Black Cat, Cloud Prince, Blast Wave
+  Field: Stargazer Luna[2/1], Skeletal Enforcer[5/5]
+Opponent: Rexxar HP: 30, Mana: 5/10
+  Hand (4)
+  Field: Hench-Clan Hag[3/2], Shrieking Shroom[1/2], Eternium Rover[1/3], Murloc Tidecaller[1/2], Skeletal Enforcer[5/5], Scarlet Crusader[3/1], Carnivorous Cube[4/6]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Murloc Tidecaller
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(83) → 17로 보정
+[Turn 10, Step 41] Agent: 공격 - Skeletal Enforcer[5/5] -> Eternium Rover
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(58) → 16로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(98) → 5로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Blast Wave (코스트: 5)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 3/10
+  Hand (9): Incanter's Flow, Steam Surger, Black Cat, Cloud Prince, Polymorph: Boar, Unstable Portal, Shatter, Flame Lance, Unstable Portal
+  Field: Skeletal Enforcer[5/2]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (5)
+  Field: Skeletal Enforcer[5/3], Carnivorous Cube[4/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Black Cat (코스트: 3)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 46] Agent: 공격 - Skeletal Enforcer[5/2] -> Skeletal Enforcer
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Halazzi, the Lynx (코스트: 5)
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Black Cat[3/3] -> Carnivorous Cube
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (9): Incanter's Flow, Steam Surger, Cloud Prince, Polymorph: Boar, Unstable Portal, Shatter, Flame Lance, Unstable Portal, Messenger Raven
+Opponent: Rexxar HP: 30, Mana: 2/10
+  Hand (10)
+  Field: Carnivorous Cube[4/1], Weasel Tunneler[1/1], Halazzi, the Lynx[3/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Flame Lance -> Weasel Tunneler (코스트: 5)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Polymorph: Boar -> Halazzi, the Lynx (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Pyros (코스트: 2)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/10
+  Hand (6): Incanter's Flow, Steam Surger, Unstable Portal, Shatter, Unstable Portal, Messenger Raven
+  Field: Cloud Prince[4/4], Pyros[2/2]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (10)
+  Field: Carnivorous Cube[4/1], Boar[4/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(97) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Carnivorous Cube[4/1] -> Jaina Proudmoore
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 57) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (6): Incanter's Flow, Steam Surger, Unstable Portal, Shatter, Unstable Portal, Messenger Raven
+  Field: Cloud Prince[4/4], Pyros[2/2]
+Opponent: Rexxar HP: 30, Mana: 8/10
+  Hand (10)
+  Field: Carnivorous Cube[4/1], Boar[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

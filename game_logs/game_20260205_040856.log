@@ -1,0 +1,509 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Mogu'shan Warden, Oondasta, Azalina Soulthief, Ancient Mage
+  Field: Dragon Egg[0/2], Hench-Clan Hogsteed[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Rat Pack (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Ice Block (코스트: 3)
+[Turn 3, Step 7] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Rat Pack
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (5): Mogu'shan Warden, Oondasta, Azalina Soulthief, Ancient Mage, Kobold Apprentice
+  Field: Dragon Egg[0/2], Hench-Clan Squire[1/1]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/2]
+[Turn 4, Step 10] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 4, Step 11] Opponent: 공격 - Rat Pack[2/2] -> Mogu'shan Warden
+[Turn 4, Step 11] Opponent: 공격 - Rat Pack[2/2] -> Mogu'shan Warden
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Hench-Clan Squire[1/1] -> Kvaldir Raider
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Kvaldir Raider
+[Turn 5, Step 14] Agent: 카드 플레이 - Kobold Apprentice (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (4): Oondasta, Azalina Soulthief, Ancient Mage, Tomb Spider
+  Field: Dragon Egg[0/2], Mogu'shan Warden[1/3], Kobold Apprentice[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1]
+[Turn 5, Step 15] Agent: 공격 - Mogu'shan Warden[1/3] -> Rexxar
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 5, Step 16] Opponent: 공격 - Rat Pack[2/2] -> Mogu'shan Warden
+[Turn 5, Step 16] Opponent: 카드 플레이 - Webspinner (코스트: 1)
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 공격 - Kobold Apprentice[2/1] -> Overconfident Orc
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 6, Step 19] Agent: 카드 플레이 - Ancient Mage (코스트: 4)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (4): Oondasta, Azalina Soulthief, Tomb Spider, Mogor's Champion
+  Field: Dragon Egg[0/2], Mogu'shan Warden[1/1], Ancient Mage[2/5]
+Opponent: Rexxar HP: 27, Mana: 2/6
+  Hand (5)
+  Field: Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/1], Overconfident Orc[1/4], Webspinner[1/1]
+[Turn 6, Step 20] Agent: 공격 - Mogu'shan Warden[1/1] -> Overconfident Orc
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 7, Step 23] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 7, Step 24] Agent: 선택 - Silverback Patriarch
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/8
+  Hand (6): Oondasta, Azalina Soulthief, Mogor's Champion, Arena Patron, Silverback Patriarch, Madder Bomber
+  Field: Dragon Egg[0/2], Ancient Mage[2/5], Tomb Spider[3/3]
+Opponent: Rexxar HP: 27, Mana: 8/8
+  Hand (7)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Overconfident Orc[1/3], Webspinner[1/1]
+[Turn 8, Step 25] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 8, Step 26] Agent: 카드 플레이 - Mogor's Champion (코스트: 6)
+[Turn 8, Step 27] Agent: 공격 - Ancient Mage[2/5] -> Overconfident Orc
+[Turn 8, Step 28] Agent: 공격 - Tomb Spider[3/3] -> Overconfident Orc
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 공격 - Rat Pack[2/1] -> Ancient Mage
+[Turn 8, Step 29] Opponent: 카드 플레이 - Dinotamer Brann (코스트: 7)
+[Turn 8, Step 29] Opponent: 공격 - Rat Pack[2/2] -> Mogor's Champion
+[Turn 8, Step 29] Opponent: 공격 - Rat Pack[2/1] -> Dragon Egg
+[Turn 8, Step 29] Opponent: 공격 - Webspinner[1/1] -> Tomb Spider
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 9/9
+  Hand (6): Oondasta, Azalina Soulthief, Arena Patron, Silverback Patriarch, Madder Bomber, Mortuary Machine
+  Field: Black Whelp[2/1], Ancient Mage[2/2], Tomb Spider[3/1], Mogor's Champion[8/3]
+Opponent: Rexxar HP: 27, Mana: 2/9
+  Hand (8)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Dinotamer Brann[2/4]
+[Turn 9, Step 30] Agent: 공격 - Ancient Mage[2/2] -> Rat Pack
+[Turn 9, Step 31] Agent: 공격 - Tomb Spider[3/1] -> Rexxar
+[Turn 9, Step 32] Agent: 공격 - Mogor's Champion[8/3] -> Rexxar
+[Turn 9, Step 33] Agent: 공격 - Black Whelp[2/1] -> Rat Pack
+[Turn 9, Step 34] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 7/9
+  Hand (6): Oondasta, Azalina Soulthief, Arena Patron, Silverback Patriarch, Madder Bomber, Mortuary Machine
+  Field: Tomb Spider[3/1], Mogor's Champion[8/1]
+Opponent: Rexxar HP: 24, Mana: 2/9
+  Hand (8)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Dinotamer Brann[2/4]
+[Turn 9, Step 35] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 9, Step 36] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 36] Opponent: 영웅 능력 사용
+[Turn 9, Step 36] Opponent: 공격 - Rat Pack[2/2] -> Tomb Spider
+[Turn 9, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 공격 - Mogor's Champion[8/1] -> Rat Pack
+[Turn 10, Step 38] Agent: 공격 - Azalina Soulthief[3/3] -> Dinotamer Brann
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (9): Infectious Sporeling, Humongous Razorleaf, Hidden Cache, Gorillabot A-3, Flight Master, Batterhead, Gluttonous Ooze, Messenger Raven, E.M.P. Operative
+  Field: Azalina Soulthief[3/1]
+Opponent: Rexxar HP: 24, Mana: 8/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Dinotamer Brann[2/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 10, Step 41] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 42] Agent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Rat Pack[2/2] -> Humongous Razorleaf
+[Turn 10, Step 43] Opponent: 공격 - Rat Pack[2/2] -> Infectious Sporeling
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 공격 - Azalina Soulthief[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (7): Waste Warden, Gorillabot A-3, Flight Master, Batterhead, Gluttonous Ooze, Messenger Raven, E.M.P. Operative
+  Field: Azalina Soulthief[3/1], Humongous Razorleaf[4/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Dinotamer Brann[2/1]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 46] Agent: 카드 플레이 - E.M.P. Operative (코스트: 5)
+[Turn 10, Step 47] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (6): Waste Warden, Gorillabot A-3, Batterhead, Gluttonous Ooze, Messenger Raven, Echo of Medivh
+  Field: Azalina Soulthief[3/1], Humongous Razorleaf[4/4], E.M.P. Operative[3/3], Flight Master[3/4], Gryphon[2/2]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Gryphon[2/2], Rat Pack[2/2], Rat Pack[2/2], Dinotamer Brann[2/1]
+[Turn 10, Step 50] Agent: 공격 - Azalina Soulthief[3/1] -> Dinotamer Brann
+[Turn 10, Step 51] Agent: 공격 - Flight Master[3/4] -> Rat Pack
+[Turn 10, Step 52] Agent: 공격 - Gryphon[2/2] -> Rat Pack
+[Turn 10, Step 53] Agent: 카드 플레이 - Echo of Medivh (코스트: 4)
+[Turn 10, Step 54] Agent: 공격 - E.M.P. Operative[3/3] -> Rat Pack
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/10
+  Hand (8): Waste Warden, Gorillabot A-3, Batterhead, Gluttonous Ooze, Messenger Raven, Humongous Razorleaf, E.M.P. Operative, Flight Master
+  Field: Humongous Razorleaf[4/4], E.M.P. Operative[3/1], Flight Master[3/2]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Gryphon[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 55] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Gryphon[2/2] -> Humongous Razorleaf
+[Turn 10, Step 56] Opponent: 공격 - Infectious Sporeling[1/2] -> E.M.P. Operative
+[Turn 10, Step 56] Opponent: 공격 - Rat Pack[2/2] -> Infectious Sporeling
+[Turn 10, Step 56] Opponent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Youthful Brewmaster -> Gorillabot A-3 (코스트: 2)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Youthful Brewmaster
+[Turn 10, Step 58] Agent: 공격 - Gorillabot A-3[3/4] -> Infectious Sporeling
+[Turn 10, Step 59] Agent: 카드 플레이 - Blizzard (코스트: 6)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/10
+  Hand (7): Waste Warden, Batterhead, Gluttonous Ooze, Messenger Raven, Humongous Razorleaf, E.M.P. Operative, Flight Master
+  Field: Humongous Razorleaf[4/2], Flight Master[3/2], Infectious Sporeling[1/2]
+Opponent: Rexxar HP: 21, Mana: 2/10
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2]
+[Turn 10, Step 60] Agent: 공격 - Flight Master[3/2] -> Rexxar
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 공격 - Rat Pack[2/2] -> Infectious Sporeling
+[Turn 10, Step 61] Opponent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 10, Step 61] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 61] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 61] Opponent: 공격 - Rat Pack[2/2] -> Humongous Razorleaf
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Flight Master[3/2] -> Rat Pack
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 64] Agent: 카드 플레이 - Messenger Raven (코스트: 3)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (7): Waste Warden, Batterhead, Gluttonous Ooze, Humongous Razorleaf, E.M.P. Operative, Flight Master, Night Prowler
+  Field: Messenger Raven[5/4]
+Opponent: Rexxar HP: 18, Mana: 4/10
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/6]
+[Turn 10, Step 65] Agent: 선택 - Babbling Book
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Messenger Raven[5/4] -> Rexxar
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 68] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 69] Agent: 카드 플레이 - Zealous Initiate (코스트: 1)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (8): Waste Warden, Batterhead, Gluttonous Ooze, Humongous Razorleaf, E.M.P. Operative, Flight Master, Night Prowler, Arcane Intellect
+  Field: Messenger Raven[5/4], Babbling Book[1/1], Zealous Initiate[1/1]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/6]
+[Turn 10, Step 70] Agent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 71] Opponent: 공격 - Rat Pack[2/2] -> Night Prowler
+[Turn 10, Step 71] Opponent: 공격 - Drakonid Crusher[6/6] -> Zealous Initiate
+[Turn 10, Step 71] Opponent: 공격 - Rat Pack[2/2] -> Messenger Raven
+[Turn 10, Step 71] Opponent: 공격 - Rat Pack[2/1] -> Babbling Book
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 73] Agent: 공격 - Night Prowler[4/2] -> Rat Pack
+[Turn 10, Step 74] Agent: 카드 플레이 - Effigy (코스트: 3)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (7): Waste Warden, Batterhead, Gluttonous Ooze, Humongous Razorleaf, E.M.P. Operative, Flight Master, Arcane Intellect
+  Field: Messenger Raven[5/2]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/5]
+[Turn 10, Step 75] Agent: 공격 - Messenger Raven[5/2] -> Rat Pack
+[Turn 10, Step 76] Agent: 카드 플레이 - E.M.P. Operative (코스트: 5)
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 영웅 능력 사용
+[Turn 10, Step 77] Opponent: 공격 - Drakonid Crusher[6/5] -> E.M.P. Operative
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 공격 - Myra Rotspring[4/2] -> Rat Pack
+[Turn 10, Step 79] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (7): Waste Warden, Batterhead, Gluttonous Ooze, Humongous Razorleaf, Flight Master, Arcane Intellect, Giggling Inventor
+Opponent: Rexxar HP: 12, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/2]
+[Turn 10, Step 80] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 81] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Flight Master
+[Turn 10, Step 84] Agent: 공격 - Gryphon[2/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (6): Waste Warden, Batterhead, Gluttonous Ooze, Arcane Intellect, Giggling Inventor, Illuminator
+  Field: Humongous Razorleaf[4/8], Flight Master[3/3]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Gryphon[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/2]
+[Turn 10, Step 85] Agent: 공격 - Flight Master[3/3] -> Rexxar
+[Turn 10, Step 86] Agent: 카드 플레이 - Batterhead (코스트: 8)
+[Turn 10, Step 87] Agent: 공격 - Batterhead[3/12] -> Rat Pack
+[Turn 10, Step 88] Agent: 공격 - Batterhead[3/10] -> Rat Pack
+[Turn 10, Step 89] Agent: 공격 - Batterhead[3/8] -> Rat Pack
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (5): Waste Warden, Gluttonous Ooze, Arcane Intellect, Giggling Inventor, Illuminator
+  Field: Humongous Razorleaf[4/8], Flight Master[3/3], Batterhead[3/6]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Gryphon[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/2]
+[Turn 10, Step 90] Agent: 공격 - Batterhead[3/6] -> Rat Pack
+[Turn 10, Step 91] Agent: 공격 - Batterhead[3/4] -> Rat Pack
+[Turn 10, Step 92] Agent: 공격 - Batterhead[3/2] -> Rat Pack
+[Turn 10, Step 93] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 93] Opponent: 턴 종료
+[Turn 10, Step 94] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (6): Waste Warden, Gluttonous Ooze, Arcane Intellect, Giggling Inventor, Illuminator, Stormpike Commando
+  Field: Humongous Razorleaf[4/8], Flight Master[3/3]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Gryphon[2/2], Rat Pack[2/1], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Drakonid Crusher[6/2]
+[Turn 10, Step 95] Agent: 공격 - Flight Master[3/3] -> Gryphon
+[Turn 10, Step 96] Agent: 카드 플레이 - Stormpike Commando -> Rat Pack (코스트: 5)
+[Turn 10, Step 97] Agent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 공격 - Rat Pack[2/2] -> Stormpike Commando
+[Turn 10, Step 98] Opponent: 공격 - Infectious Sporeling[1/2] -> Humongous Razorleaf
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 공격 - Infectious Sporeling[1/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (5): Aluneth, Waste Warden, Arcane Intellect, Giggling Inventor, Illuminator
+  Field: Flight Master[3/1], Gluttonous Ooze[3/3]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Drakonid Crusher[6/2]
+[Turn 10, Step 100] Agent: 공격 - Flight Master[3/1] -> Rat Pack
+[Turn 10, Step 101] Agent: 공격 - Gluttonous Ooze[3/3] -> Rat Pack
+[Turn 10, Step 102] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 103] Agent: 카드 플레이 - Arcane Intellect (코스트: 3)
+[Turn 10, Step 104] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (5): Aluneth, Waste Warden, Giggling Inventor, Illuminator, Eccentric Scribe
+  Field: Gluttonous Ooze[3/1], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Drakonid Crusher[6/2]
+[Turn 10, Step 105] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 105] Opponent: 턴 종료
+[Turn 10, Step 106] Agent: 공격 - Gluttonous Ooze[3/1] -> Rat Pack
+[Turn 10, Step 107] Agent: 공격 - Chillwind Yeti[4/5] -> Rat Pack
+[Turn 10, Step 108] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 109] Agent: 카드 플레이 - Giggling Inventor (코스트: 6)
+
+--- Game State (Turn 10, Step 110) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (5): Aluneth, Waste Warden, Illuminator, Eccentric Scribe, Light's Champion
+  Field: Chillwind Yeti[4/3], Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Drakonid Crusher[6/2]
+[Turn 10, Step 110] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 110] Opponent: 공격 - Rat Pack[2/2] -> Annoy-o-Tron
+[Turn 10, Step 110] Opponent: 공격 - Rat Pack[2/2] -> Annoy-o-Tron
+[Turn 10, Step 110] Opponent: 영웅 능력 사용
+[Turn 10, Step 110] Opponent: 턴 종료
+[Turn 10, Step 111] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 10, Step 112] Agent: 공격 - Giggling Inventor[2/1] -> Rat Pack
+[Turn 10, Step 113] Agent: 공격 - Annoy-o-Tron[1/2] -> Rat Pack
+[Turn 10, Step 114] Agent: 공격 - Chillwind Yeti[4/3] -> Rat Pack
+
+--- Game State (Turn 10, Step 115) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (6): Aluneth, Waste Warden, Illuminator, Eccentric Scribe, Light's Champion, Griftah
+  Field: Chillwind Yeti[4/1]
+Opponent: Rexxar HP: 8, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Drakonid Crusher[6/2]
+[Turn 10, Step 115] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 10, Step 116] Agent: 카드 플레이 - Light's Champion (코스트: 3)
+[Turn 10, Step 117] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 117] Opponent: 공격 - Drakonid Crusher[6/2] -> Light's Champion
+[Turn 10, Step 117] Opponent: 턴 종료
+[Turn 10, Step 118] Agent: 공격 - Chillwind Yeti[4/1] -> Rat Pack
+[Turn 10, Step 119] Agent: 공격 - Illuminator[2/4] -> Rat Pack
+
+--- Game State (Turn 10, Step 120) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (5): Aluneth, Waste Warden, Eccentric Scribe, Griftah, Whirlwind Tempest
+  Field: Illuminator[2/2]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1]
+[Turn 10, Step 120] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 121] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 10, Step 122] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 122] Opponent: 턴 종료
+[Turn 10, Step 123] Agent: 공격 - Illuminator[2/2] -> Infectious Sporeling
+[Turn 10, Step 124] Agent: 공격 - Eccentric Scribe[6/4] -> Rat Pack
+
+--- Game State (Turn 10, Step 125) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (5): Aluneth, Waste Warden, Griftah, Whirlwind Tempest, Sneaky Devil
+  Field: Infectious Sporeling[1/2], Eccentric Scribe[6/2]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2]
+[Turn 10, Step 125] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 126] Agent: 카드 플레이 - Waste Warden -> Rat Pack (코스트: 5)
+[Turn 10, Step 127] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 127] Opponent: 공격 - Rat Pack[2/2] -> Infectious Sporeling
+[Turn 10, Step 127] Opponent: 공격 - Rat Pack[2/2] -> Eccentric Scribe
+[Turn 10, Step 127] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 127] Opponent: 공격 - Rat Pack[2/2] -> Waste Warden
+[Turn 10, Step 127] Opponent: 턴 종료
+[Turn 10, Step 128] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+[Turn 10, Step 129] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 130) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Aluneth, Griftah, Whirlwind Tempest, Sneaky Devil
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Vengeful Scroll[1/1], Waste Warden[3/1]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Infectious Sporeling[1/2], Rat Pack[2/2]
+[Turn 10, Step 130] Agent: 공격 - Vengeful Scroll[1/1] -> Rexxar
+[Turn 10, Step 131] Agent: 공격 - Waste Warden[3/1] -> Rexxar
+[Turn 10, Step 132] Agent: 공격 - Vengeful Scroll[1/1] -> Rat Pack
+[Turn 10, Step 133] Agent: 영웅 능력 사용 -> Vengeful Scroll
+[Turn 10, Step 134] Agent: 카드 플레이 - Aluneth (코스트: 6)
+
+--- Game State (Turn 10, Step 135) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (3): Griftah, Whirlwind Tempest, Sneaky Devil
+  Field: Vengeful Scroll[1/1], Vengeful Scroll[1/1], Waste Warden[3/1]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Infectious Sporeling[1/2], Rat Pack[2/2]
+[Turn 10, Step 135] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 135] Opponent: 턴 종료
+[Turn 10, Step 136] Agent: 공격 - Vengeful Scroll[1/1] -> Rat Pack
+[Turn 10, Step 137] Agent: 공격 - Waste Warden[3/1] -> Rat Pack
+[Turn 10, Step 138] Agent: 공격 - Vengeful Scroll[1/1] -> Rat Pack
+[Turn 10, Step 139] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 140) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (3): Griftah, Whirlwind Tempest, Sneaky Devil
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Infectious Sporeling[1/2], Rat Pack[2/1]
+[Turn 10, Step 140] Agent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 10, Step 141] Agent: 선택 - Mountain Giant
+[Turn 10, Step 141] Agent: 선택 - Sunfury Protector
+[Turn 10, Step 141] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 142) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 4/10
+  Hand (3): Whirlwind Tempest, Sneaky Devil, Mountain Giant
+  Field: Griftah[4/5]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Infectious Sporeling[1/2], Rat Pack[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

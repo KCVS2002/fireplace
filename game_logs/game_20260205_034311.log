@@ -1,0 +1,243 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/2
+  Hand (5): Faceless Rager, Muck Hunter, Tasty Flyfish, Giggling Inventor, Oasis Snapjaw
+  Field: Deadscale Knight[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+  Field: Huge Toad[3/2]
+[Turn 2, Step 5] Agent: 공격 - Deadscale Knight[1/1] -> Huge Toad
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Waterboy (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Hobgoblin (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/4
+  Hand (6): Faceless Rager, Muck Hunter, Tasty Flyfish, Giggling Inventor, Oasis Snapjaw, Chromaggus
+  Field: Hobgoblin[2/3]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (4)
+  Field: Huge Toad[3/1], Waterboy[2/1], Zombie Chow[2/3]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Boisterous Bard (코스트: 3)
+[Turn 4, Step 10] Opponent: 공격 - Waterboy[2/2] -> Hobgoblin
+[Turn 4, Step 10] Opponent: 공격 - Huge Toad[3/2] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Boisterous Bard
+[Turn 5, Step 12] Agent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 5, Step 13] Agent: 공격 - Hobgoblin[2/1] -> Rexxar
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 영웅 능력 사용
+[Turn 5, Step 14] Opponent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 5, Step 14] Opponent: 공격 - Huge Toad[3/2] -> Hobgoblin
+[Turn 5, Step 14] Opponent: 공격 - Zombie Chow[2/4] -> Brann Bronzebeard
+[Turn 5, Step 14] Opponent: 공격 - Boisterous Bard[3/1] -> Brann Bronzebeard
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/6
+  Hand (7): Faceless Rager, Muck Hunter, Tasty Flyfish, Giggling Inventor, Oasis Snapjaw, Chromaggus, Shimmering Tempest
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (4)
+  Field: Zombie Chow[2/2], Mechanical Yeti[4/5]
+[Turn 6, Step 15] Agent: 카드 플레이 - Shimmering Tempest (코스트: 2)
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 17] Agent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Zombie Chow[2/2] -> Tasty Flyfish
+[Turn 6, Step 18] Opponent: 공격 - Mechanical Yeti[4/5] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 카드 플레이 - Starving Buzzard (코스트: 5)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Pint-Sized Summoner (코스트: 2)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Wing Commander (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/7
+  Hand (5): Faceless Rager, Muck Hunter, Giggling Inventor, Oasis Snapjaw, Chromaggus
+  Field: Shimmering Tempest[2/1], Wing Commander[4/5]
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (3)
+  Field: Mechanical Yeti[4/5], Starving Buzzard[3/2], Pint-Sized Summoner[2/2]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Wing Commander
+[Turn 7, Step 21] Agent: 공격 - Shimmering Tempest[2/1] -> Pint-Sized Summoner
+[Turn 7, Step 22] Agent: 카드 플레이 - Arcane Blast -> Mechanical Yeti (코스트: 1)
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+[Turn 7, Step 23] Opponent: 공격 - Mechanical Yeti[4/3] -> Wing Commander
+[Turn 7, Step 23] Opponent: 카드 플레이 - Arfus (코스트: 4)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Reversing Switch -> Fjola Lightbane (코스트: 1)
+[Turn 7, Step 23] Opponent: 공격 - Starving Buzzard[3/2] -> Jaina Proudmoore
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Safeguard (코스트: 6)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/8
+  Hand (6): Faceless Rager, Muck Hunter, Giggling Inventor, Oasis Snapjaw, Chromaggus, Finicky Cloakfield
+  Field: Safeguard[4/5]
+Opponent: Rexxar HP: 27, Mana: 0/8
+  Hand (3)
+  Field: Starving Buzzard[3/2], Fjola Lightbane[4/3], Arfus[2/2]
+[Turn 8, Step 25] Agent: 영웅 능력 사용 -> Fjola Lightbane
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Safeguard[4/5] -> Hungry Ettin
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Fjola Lightbane
+[Turn 9, Step 29] Agent: 공격 - Novice Engineer[1/1] -> Hungry Ettin
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/9
+  Hand (7): Faceless Rager, Muck Hunter, Giggling Inventor, Oasis Snapjaw, Chromaggus, Finicky Cloakfield, Gyrocopter
+  Field: Safeguard[4/1]
+Opponent: Rexxar HP: 27, Mana: 3/9
+  Hand (3)
+  Field: Starving Buzzard[3/2], Fjola Lightbane[4/2], Arfus[2/2], Hungry Ettin[4/5]
+[Turn 9, Step 30] Agent: 카드 플레이 - Muck Hunter (코스트: 5)
+[Turn 9, Step 31] Agent: 카드 플레이 - Finicky Cloakfield -> Safeguard (코스트: 1)
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 공격 - Arfus[2/2] -> Safeguard
+[Turn 9, Step 32] Opponent: 카드 플레이 - Cobra Shot -> Muckling (코스트: 5)
+[Turn 9, Step 32] Opponent: 공격 - Muckling[2/1] -> Vault Safe
+[Turn 9, Step 32] Opponent: 카드 플레이 - Masked Contender (코스트: 3)
+[Turn 9, Step 32] Opponent: 공격 - Hungry Ettin[4/5] -> Vault Safe
+[Turn 9, Step 32] Opponent: 영웅 능력 사용
+[Turn 9, Step 32] Opponent: 공격 - Starving Buzzard[3/2] -> Jaina Proudmoore
+[Turn 9, Step 32] Opponent: 공격 - Fjola Lightbane[4/2] -> Muck Hunter
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Hungry Ettin
+[Turn 10, Step 34] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (5): Faceless Rager, Giggling Inventor, Oasis Snapjaw, Chromaggus, Arcane Devourer
+  Field: Muck Hunter[5/4], Gyrocopter[4/5]
+Opponent: Rexxar HP: 27, Mana: 0/10
+  Hand (3)
+  Field: Starving Buzzard[3/2], Muckling[2/1], Hungry Ettin[4/4], Masked Contender[2/4]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Starving Buzzard[3/2] -> Gyrocopter
+[Turn 10, Step 35] Opponent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 10, Step 35] Opponent: 공격 - Masked Contender[2/4] -> Muck Hunter
+[Turn 10, Step 35] Opponent: 공격 - Muckling[2/1] -> Muck Hunter
+[Turn 10, Step 35] Opponent: 공격 - Hungry Ettin[4/4] -> Gyrocopter
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Faceless Rager (코스트: 3)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Blowgill Sniper -> Magic Carpet (코스트: 2)
+[Turn 10, Step 37] Opponent: 공격 - Magic Carpet[1/5] -> Faceless Rager
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 공격 - Eater of Secrets[2/4] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Eater of Secrets
+[Turn 10, Step 39] Agent: 카드 플레이 - Giggling Inventor (코스트: 6)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 2/10
+  Hand (5): Oasis Snapjaw, Chromaggus, Arcane Devourer, Ragnaros the Firelord, Netherwind Portal
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 27, Mana: 6/10
+  Hand (2)
+  Field: Eater of Secrets[2/3], Blowgill Sniper[2/1]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Blowgill Sniper[2/1] -> Annoy-o-Tron
+[Turn 10, Step 40] Opponent: 공격 - Eater of Secrets[2/3] -> Annoy-o-Tron
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 10, Step 43] Agent: 공격 - Giggling Inventor[2/1] -> Eater of Secrets
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 0/10
+  Hand (5): Oasis Snapjaw, Chromaggus, Ragnaros the Firelord, Netherwind Portal, Disguised Wanderer
+  Field: Annoy-o-Tron[1/2], Annoy-o-Tron[1/1], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (3)
+[Turn 10, Step 45] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Frostmourne (코스트: 7)
+[Turn 10, Step 46] Opponent: 공격 - Rexxar[5/27] -> Annoy-o-Tron
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Chromaggus (코스트: 8)
+[Turn 10, Step 48] Agent: 공격 - Arcane Devourer[5/5] -> Rexxar
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Arcane Devourer
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 0/10
+  Hand (5): Al'ar, Oasis Snapjaw, Ragnaros the Firelord, Netherwind Portal, Disguised Wanderer
+  Field: Annoy-o-Tron[1/2], Arcane Devourer[5/4], Chromaggus[8/10]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (2)
+  Field: Potion Vendor[1/1]
+[Turn 10, Step 50] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Rexxar[5/20] -> Annoy-o-Tron
+[Turn 10, Step 51] Opponent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (5): Al'ar, Oasis Snapjaw, Ragnaros the Firelord, Netherwind Portal, Disguised Wanderer
+  Field: Arcane Devourer[5/4], Chromaggus[8/10]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (2)
+  Field: Potion Vendor[1/1], Grotesque Dragonhawk[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

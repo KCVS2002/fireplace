@@ -1,0 +1,162 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/3
+  Hand (5): Mechanical Whelp, Deep Freeze, Shade of Naxxramas, Sludge Belcher, Half-Time Scavenger
+  Field: Angry Chicken[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+  Field: Mana Wraith[2/2]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Bloodfen Raptor (코스트: 3)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Shade of Naxxramas (코스트: 4)
+[Turn 4, Step 9] Agent: 공격 - Angry Chicken[1/1] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (5): Mechanical Whelp, Deep Freeze, Sludge Belcher, Half-Time Scavenger, Anomalus
+  Field: Angry Chicken[1/1], Shade of Naxxramas[2/2]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (5)
+  Field: Mana Wraith[2/2], Bloodfen Raptor[3/2]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 공격 - Angry Chicken[1/1] -> Bloodfen Raptor
+[Turn 5, Step 12] Agent: 카드 플레이 - Half-Time Scavenger (코스트: 5)
+[Turn 5, Step 13] Agent: 공격 - Shade of Naxxramas[3/3] -> Rexxar
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Hunter's Mark -> Shade of Naxxramas (코스트: 2)
+[Turn 5, Step 14] Opponent: 공격 - Mana Wraith[2/2] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 5, Step 14] Opponent: 카드 플레이 - Target Dummy (코스트: 1)
+[Turn 5, Step 14] Opponent: 공격 - Bloodfen Raptor[3/1] -> Shade of Naxxramas
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (6): Kalecgos, Mechanical Whelp, Deep Freeze, Sludge Belcher, Anomalus, Puzzle Box of Yogg-Saron
+  Field: Half-Time Scavenger[3/5]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (4)
+  Field: Mana Wraith[2/2], Target Dummy[0/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Sludge Belcher (코스트: 6)
+[Turn 6, Step 16] Agent: 공격 - Half-Time Scavenger[3/5] -> Target Dummy
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Auctionmaster Beardo (코스트: 4)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 공격 - Half-Time Scavenger[3/5] -> Mana Wraith
+[Turn 7, Step 19] Agent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (5): Kalecgos, Deep Freeze, Anomalus, Puzzle Box of Yogg-Saron, Ancient Shade
+  Field: Half-Time Scavenger[3/3], Sludge Belcher[3/5], Mechanical Whelp[2/2]
+Opponent: Rexxar HP: 24, Mana: 2/6
+  Hand (4)
+  Field: Auctionmaster Beardo[3/4]
+[Turn 7, Step 20] Agent: 공격 - Sludge Belcher[3/5] -> Rexxar
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 공격 - Sludge Belcher[3/3] -> Auctionmaster Beardo
+[Turn 8, Step 23] Agent: 공격 - Mechanical Dragon[7/7] -> Auctionmaster Beardo
+[Turn 8, Step 24] Agent: 공격 - Half-Time Scavenger[3/1] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (6): Kalecgos, Deep Freeze, Anomalus, Puzzle Box of Yogg-Saron, Ancient Shade, Unpowered Steambot
+  Field: Half-Time Scavenger[3/1], Putrid Slime[1/2], Mechanical Dragon[7/4]
+Opponent: Rexxar HP: 18, Mana: 7/7
+  Hand (5)
+[Turn 8, Step 25] Agent: 카드 플레이 - Deep Freeze -> Rexxar (코스트: 8)
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Halazzi, the Lynx (코스트: 5)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 공격 - Putrid Slime[1/2] -> Rexxar
+[Turn 9, Step 28] Agent: 공격 - Mechanical Dragon[7/4] -> Rexxar
+[Turn 9, Step 29] Agent: 공격 - Water Elemental[3/6] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (6): Kalecgos, Anomalus, Puzzle Box of Yogg-Saron, Ancient Shade, Unpowered Steambot, Bloodsail Corsair
+  Field: Half-Time Scavenger[3/1], Putrid Slime[1/2], Mechanical Dragon[7/4], Water Elemental[3/6], Water Elemental[3/6]
+Opponent: Rexxar HP: 7, Mana: 3/8
+  Hand (10)
+  Field: Halazzi, the Lynx[3/2]
+[Turn 9, Step 30] Agent: 공격 - Water Elemental[3/6] -> Rexxar
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Water Elemental
+[Turn 9, Step 32] Agent: 카드 플레이 - Ancient Shade (코스트: 4)
+[Turn 9, Step 33] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 9, Step 34] Agent: 공격 - Half-Time Scavenger[3/1] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/9
+  Hand (4): Kalecgos, Anomalus, Puzzle Box of Yogg-Saron, Unpowered Steambot
+  Field: Half-Time Scavenger[3/1], Putrid Slime[1/2], Mechanical Dragon[7/4], Water Elemental[3/5], Water Elemental[3/6], Ancient Shade[7/4], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 1, Mana: 3/8
+  Hand (10)
+  Field: Halazzi, the Lynx[3/2]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 9, Step 35] Opponent: 영웅 능력 사용
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Mechanical Dragon[7/4] -> Cyclopian Horror
+[Turn 10, Step 37] Agent: 공격 - Water Elemental[3/5] -> Cyclopian Horror
+[Turn 10, Step 38] Agent: 공격 - Putrid Slime[1/2] -> Halazzi, the Lynx
+[Turn 10, Step 39] Agent: 공격 - Ancient Shade[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Earthen Ring Farseer, Kalecgos, Anomalus, Puzzle Box of Yogg-Saron, Unpowered Steambot
+  Field: Half-Time Scavenger[3/1], Mechanical Dragon[7/1], Water Elemental[3/2], Water Elemental[3/6], Ancient Shade[7/4], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 0, Mana: 3/9
+  Hand (9)
+  Field: Halazzi, the Lynx[3/1]
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (5): Earthen Ring Farseer, Kalecgos, Anomalus, Puzzle Box of Yogg-Saron, Unpowered Steambot
+  Field: Half-Time Scavenger[3/1], Mechanical Dragon[7/1], Water Elemental[3/2], Water Elemental[3/6], Ancient Shade[7/4], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 0, Mana: 3/9
+  Hand (9)
+  Field: Halazzi, the Lynx[3/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

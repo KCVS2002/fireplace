@@ -1,0 +1,160 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Elven Archer -> Rexxar (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 공격 - Elven Archer[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (5): Argent Squire, Netherspite Historian, Nightblade, Onyxia, Cone of Cold
+  Field: Elven Archer[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (5)
+  Field: Micro Machine[2/2]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Micro Machine
+[Turn 3, Step 6] Agent: 공격 - Elven Archer[1/1] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Microtech Controller (코스트: 3)
+[Turn 3, Step 7] Opponent: 공격 - Micro Machine[3/1] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 4, Step 9] Agent: 공격 - Elven Archer[1/1] -> Microtech Controller
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/4
+  Hand (5): Argent Squire, Netherspite Historian, Nightblade, Onyxia, Cone of Cold
+  Field: Overconfident Orc[3/6]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (5)
+  Field: Micro Machine[4/1], Microbot[1/1], Microbot[1/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Micro Machine[5/1] -> Overconfident Orc
+[Turn 4, Step 11] Opponent: 공격 - Microbot[1/1] -> Overconfident Orc
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Cone of Cold -> Microbot (코스트: 4)
+[Turn 5, Step 13] Agent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 5, Step 14] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (3): Netherspite Historian, Nightblade, Onyxia
+  Field: Argent Squire[1/1], Zombie Chow[2/3]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Stormpike Commando -> Zombie Chow (코스트: 5)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 17] Agent: 공격 - Zombie Chow[2/1] -> Rexxar
+[Turn 6, Step 18] Agent: 공격 - Argent Squire[1/1] -> Rexxar
+[Turn 6, Step 19] Agent: 카드 플레이 - Netherspite Historian (코스트: 2)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/6
+  Hand (3): Nightblade, Onyxia, Priestess of Elune
+  Field: Argent Squire[1/1], Zombie Chow[2/1], Netherspite Historian[1/3]
+Opponent: Rexxar HP: 23, Mana: 0/5
+  Hand (6)
+  Field: Stormpike Commando[4/2]
+[Turn 6, Step 20] Agent: 선택 - Ysera
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 6, Step 20] Opponent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 6, Step 20] Opponent: 공격 - Stormpike Commando[4/2] -> Zombie Chow
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 공격 - Netherspite Historian[1/3] -> Quicksand Elemental
+[Turn 7, Step 22] Agent: 공격 - Argent Squire[1/1] -> Stormpike Commando
+[Turn 7, Step 23] Agent: 영웅 능력 사용 -> Worgen Greaser
+[Turn 7, Step 24] Agent: 카드 플레이 - Nightblade (코스트: 5)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/7
+  Hand (4): Onyxia, Priestess of Elune, Ysera, Murmy
+  Field: Argent Squire[1/1], Nightblade[4/4]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (5)
+  Field: Stormpike Commando[4/1], Quicksand Elemental[3/1], Worgen Greaser[6/2]
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 카드 플레이 - Tunnel Blaster (코스트: 7)
+[Turn 7, Step 25] Opponent: 공격 - Stormpike Commando[4/1] -> Nightblade
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 카드 플레이 - Priestess of Elune (코스트: 6)
+[Turn 8, Step 27] Agent: 공격 - Argent Squire[1/1] -> Tunnel Blaster
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 공격 - Worgen Greaser[6/2] -> Jaina Proudmoore
+[Turn 8, Step 29] Opponent: 카드 플레이 - Gahz'rilla (코스트: 7)
+[Turn 8, Step 29] Opponent: 카드 플레이 - Hot Air Balloon (코스트: 1)
+[Turn 8, Step 29] Opponent: 공격 - Quicksand Elemental[3/1] -> Priestess of Elune
+[Turn 8, Step 29] Opponent: 공격 - Tunnel Blaster[3/6] -> Jaina Proudmoore
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 9/9
+  Hand (5): Onyxia, Ysera, Murmy, Tar Creeper, Vicious Scalehide
+  Field: Priestess of Elune[5/1]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (4)
+  Field: Worgen Greaser[6/2], Tunnel Blaster[3/6], Gahz'rilla[6/9], Hot Air Balloon[1/2]
+[Turn 9, Step 30] Agent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 9, Step 31] Agent: 영웅 능력 사용 -> Murmy
+[Turn 9, Step 32] Agent: 공격 - Priestess of Elune[5/1] -> Tunnel Blaster
+[Turn 9, Step 33] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 9, Step 34] Agent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/9
+  Hand (2): Onyxia, Ysera
+  Field: Murmy[1/1], Tar Creeper[1/5], Vicious Scalehide[1/3]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (4)
+  Field: Worgen Greaser[6/2], Tunnel Blaster[3/1], Gahz'rilla[6/9], Hot Air Balloon[1/2]
+[Turn 9, Step 35] Agent: 공격 - Vicious Scalehide[1/3] -> Tunnel Blaster
+[Turn 9, Step 36] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 36] Opponent: 카드 플레이 - Validated Doomsayer (코스트: 5)
+[Turn 9, Step 36] Opponent: 카드 플레이 - Nine Lives (코스트: 3)
+[Turn 9, Step 36] Opponent: 선택 - Tunnel Blaster
+[Turn 9, Step 36] Opponent: 공격 - Gahz'rilla[24/3] -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 37) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/9
+  Hand (2): Onyxia, Ysera
+Opponent: Rexxar HP: 25, Mana: 1/9
+  Hand (4)
+  Field: Gahz'rilla[24/3], Validated Doomsayer[0/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

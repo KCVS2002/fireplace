@@ -1,0 +1,387 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Flame Geyser -> Rexxar (코스트: 2)
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (6): Faceless Shambler, Devoted Maniac, Twin Tyrant, Mogor's Champion, Flame Elemental, Barnes
+Opponent: Rexxar HP: 27, Mana: 0/2
+  Hand (4)
+  Field: Unstable Ghoul[1/3]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 공격 - Unstable Ghoul[1/3] -> Jaina Proudmoore
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(59) → 5로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Unstable Ghoul
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 3, Step 7] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 3, Step 8] Opponent: 공격 - Unstable Ghoul[1/2] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Transmogrifier
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/4
+  Hand (7): Faceless Shambler, Devoted Maniac, Twin Tyrant, Mogor's Champion, Barnes, Tinkmaster Overspark, Ship's Cannon
+  Field: Flame Elemental[1/2]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (4)
+  Field: Unstable Ghoul[1/2], Transmogrifier[2/2], Garrison Commander[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 4, Step 10] Agent: 공격 - Flame Elemental[1/2] -> Unstable Ghoul
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 4, Step 11] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 공격 - Transmogrifier[2/2] -> Flame Elemental
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 5, Step 14] Agent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/5
+  Hand (6): Faceless Shambler, Devoted Maniac, Twin Tyrant, Mogor's Champion, Barnes, Font of Power
+  Field: Ship's Cannon[2/3], Tinkmaster Overspark[3/3]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (5)
+  Field: Unstable Ghoul[1/1], Devilsaur[5/5], Garrison Commander[2/3]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 5, Step 15] Agent: 공격 - Ship's Cannon[2/3] -> Unstable Ghoul
+[Turn 5, Step 16] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 공격 - Garrison Commander[2/2] -> Ship's Cannon
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(40) → 1로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Faceless Shambler -> Tinkmaster Overspark (코스트: 4)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 6, Step 18] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 6, Step 19] Agent: 선택 - Dragoncaller Alanna
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(55) → 3로 보정
+[Turn 6, Step 19] Agent: 공격 - Tinkmaster Overspark[3/2] -> Devilsaur
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (6): Devoted Maniac, Twin Tyrant, Mogor's Champion, Barnes, Font of Power, Dragoncaller Alanna
+  Field: Faceless Shambler[3/2]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (6)
+  Field: Devilsaur[5/1]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 6, Step 20] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 6, Step 21] Agent: 선택 - Hex Lord Malacrass
+[Turn 6, Step 21] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 카드 플레이 - Exotic Mountseller (코스트: 7)
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 카드 플레이 - Hex Lord Malacrass (코스트: 8)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 8, Step 24] Agent: 공격 - Faceless Shambler[3/2] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (10): Devoted Maniac, Twin Tyrant, Mogor's Champion, Barnes, Dragoncaller Alanna, Raging Worgen, Tol'vir Stoneshaper, Faceless Shambler, Devoted Maniac, Twin Tyrant
+  Field: Faceless Shambler[3/2], Hex Lord Malacrass[5/5]
+Opponent: Rexxar HP: 24, Mana: 1/8
+  Hand (7)
+  Field: Devilsaur[5/1], Exotic Mountseller[5/8]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 8, Step 25] Opponent: 카드 플레이 - Dark Pharaoh Tekahn (코스트: 5)
+[Turn 8, Step 25] Opponent: 공격 - Exotic Mountseller[5/8] -> Faceless Shambler
+[Turn 8, Step 25] Opponent: 공격 - Devilsaur[5/1] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(78) → 9로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 9, Step 27] Agent: 공격 - Devoted Maniac[2/2] -> Exotic Mountseller
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(50) → 14로 보정
+[Turn 9, Step 28] Agent: 공격 - Hex Lord Malacrass[5/5] -> Devilsaur
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Faceless Shambler (코스트: 4)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/9
+  Hand (8): Devoted Maniac, Twin Tyrant, Mogor's Champion, Barnes, Dragoncaller Alanna, Raging Worgen, Tol'vir Stoneshaper, Twin Tyrant
+  Field: Faceless Shambler[1/1]
+Opponent: Rexxar HP: 24, Mana: 1/9
+  Hand (6)
+  Field: Exotic Mountseller[5/3], Illuminator[2/4], Dark Pharaoh Tekahn[4/4]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(37) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Ravenholdt Assassin (코스트: 7)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Tol'vir Stoneshaper (코스트: 4)
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 10, Step 33] Agent: 공격 - Faceless Shambler[1/1] -> Illuminator
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (7): Twin Tyrant, Mogor's Champion, Barnes, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Mad Summoner
+  Field: Tol'vir Stoneshaper[3/5], Devoted Maniac[2/2]
+Opponent: Rexxar HP: 23, Mana: 3/10
+  Hand (6)
+  Field: Exotic Mountseller[5/3], Illuminator[2/3], Dark Pharaoh Tekahn[4/4], Ravenholdt Assassin[7/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(61) → 13로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Dark Pharaoh Tekahn
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(31) → 15로 보정
+[Turn 10, Step 37] Agent: 공격 - Devoted Maniac[2/2] -> Dark Pharaoh Tekahn
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - King Krush (코스트: 9)
+[Turn 10, Step 39] Opponent: 공격 - Ravenholdt Assassin[7/1] -> Tol'vir Stoneshaper
+[Turn 10, Step 39] Opponent: 공격 - Exotic Mountseller[5/3] -> Twin Tyrant
+[Turn 10, Step 39] Opponent: 공격 - Dark Pharaoh Tekahn[4/1] -> Twin Tyrant
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Polluted Hoarder, Mogor's Champion, Barnes, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Mad Summoner, Alarm-o-Bot
+  Field: Twin Tyrant[4/1]
+Opponent: Rexxar HP: 23, Mana: 1/10
+  Hand (7)
+  Field: King Krush[8/8]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(72) → 12로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> King Krush
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 42] Agent: 공격 - Twin Tyrant[4/1] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Gazlowe (코스트: 6)
+[Turn 10, Step 43] Opponent: 공격 - King Krush[8/7] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(97) → 31로 보정
+[Turn 10, Step 44] Agent: 공격 - Imp[1/1] -> King Krush
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (8): Polluted Hoarder, Mogor's Champion, Barnes, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Alarm-o-Bot, Duskboar
+  Field: Twin Tyrant[4/1], Imp[1/1], Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (7)
+  Field: King Krush[8/6], Gazlowe[3/6]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - King Krush[8/6] -> Imp
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(41) → 7로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 10, Step 47] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Mad Summoner[4/4] -> King Krush
+[Turn 10, Step 49] Agent: 카드 플레이 - Barnes (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (7): Polluted Hoarder, Mogor's Champion, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Duskboar, Transmogrifier
+  Field: Twin Tyrant[4/1], Imp[1/1], Imp[1/1], Imp[1/1], Alarm-o-Bot[0/3], Barnes[3/4], Meat Wagon[1/1]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (8)
+  Field: King Krush[8/1], Gazlowe[3/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(36) → 15로 보정
+[Turn 10, Step 50] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Twin Tyrant
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Imp[1/1] -> Gazlowe
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - King Krush[8/1] -> Alarm-o-Bot
+[Turn 10, Step 53] Opponent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(98) → 20로 보정
+[Turn 10, Step 54] Agent: 공격 - Imp[1/1] -> King Krush
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (8): Polluted Hoarder, Mogor's Champion, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Duskboar, Transmogrifier, The Black Knight
+  Field: Imp[1/1], Barnes[3/4], Meat Wagon[1/1]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (6)
+  Field: Gazlowe[3/5], Azalina Soulthief[3/3], Duskboar[4/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(85) → 27로 보정
+[Turn 10, Step 55] Agent: 공격 - Meat Wagon[1/1] -> Azalina Soulthief
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(60) → 10로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(63) → 15로 보정
+[Turn 10, Step 57] Agent: 공격 - Barnes[3/4] -> Duskboar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 58] Agent: 공격 - Imp[1/1] -> Azalina Soulthief
+[Turn 10, Step 59] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 4/10
+  Hand (7): Mogor's Champion, Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Duskboar, Transmogrifier, The Black Knight
+  Field: Meat Wagon[1/4], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 16, Mana: 1/10
+  Hand (6)
+  Field: Gazlowe[3/5], Azalina Soulthief[3/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(43) → 20로 보정
+[Turn 10, Step 63] Agent: 공격 - Transmogrifier[2/3] -> Gazlowe
+[Turn 10, Step 64] Agent: 카드 플레이 - Mogor's Champion (코스트: 6)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 4/10
+  Hand (5): Dragoncaller Alanna, Raging Worgen, Twin Tyrant, The Black Knight, Trade Prince Gallywix
+  Field: Wax Elemental[0/2], Polluted Hoarder[4/2], Mogor's Champion[8/5]
+Opponent: Rexxar HP: 16, Mana: 2/10
+  Hand (6)
+  Field: Gazlowe[3/3], Azalina Soulthief[3/1], Twin Tyrant[4/10]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(22) → 8로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Wax Elemental
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 66] Agent: 공격 - Polluted Hoarder[4/2] -> Azalina Soulthief
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(72) → 4로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(18) → 5로 보정
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Gazlowe
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 2/10
+  Hand (6): Dragoncaller Alanna, Raging Worgen, Twin Tyrant, Trade Prince Gallywix, Chef Nomi, Mana Addict
+  Field: Wax Elemental[0/2], Mogor's Champion[8/5], The Black Knight[4/5]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (7)
+  Field: Gazlowe[3/2], Twin Tyrant[4/10]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 10, Step 71] Agent: 공격 - Mogor's Champion[8/5] -> Gazlowe
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Dragoncaller Alanna (코스트: 9)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(78) → 12로 보정
+[Turn 10, Step 74] Agent: 공격 - The Black Knight[4/5] -> Boar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (5): Raging Worgen, Twin Tyrant, Trade Prince Gallywix, Chef Nomi, Unpowered Mauler
+  Field: Wax Elemental[0/2], Mogor's Champion[8/5], The Black Knight[4/4], Mana Addict[1/3], Dragoncaller Alanna[3/3]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (5)
+  Field: Gazlowe[3/2], Twin Tyrant[4/10], Razorfen Hunter[2/3], Polluted Hoarder[4/2], Transmogrifier[2/3]
+[Turn 10, Step 75] Agent: 공격 - Mogor's Champion[8/5] -> Transmogrifier
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 76] Agent: 공격 - Mana Addict[1/3] -> Polluted Hoarder
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 77] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 77] Opponent: 영웅 능력 사용
+[Turn 10, Step 77] Opponent: 공격 - Gazlowe[3/2] -> Wax Elemental
+[Turn 10, Step 77] Opponent: 턴 종료
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(86) → 24로 보정
+[Turn 10, Step 78] Agent: 공격 - The Black Knight[4/4] -> Polluted Hoarder
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Trade Prince Gallywix (코스트: 6)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 4/10
+  Hand (5): Raging Worgen, Twin Tyrant, Chef Nomi, Unpowered Mauler, Twin Tyrant
+  Field: Mogor's Champion[8/3], Dragoncaller Alanna[3/3], Trade Prince Gallywix[5/8]
+Opponent: Rexxar HP: 8, Mana: 8/10
+  Hand (7)
+  Field: Gazlowe[3/2], Twin Tyrant[4/10], Transmogrifier[2/3]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(86) → 6로 보정
+[Turn 10, Step 81] Agent: 공격 - Dragoncaller Alanna[3/3] -> Rexxar
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(10) → 4로 보정
+[Turn 10, Step 82] Agent: 공격 - Mogor's Champion[8/3] -> Twin Tyrant
+
+--- Game State (Turn 10, Step 83) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 2/10
+  Hand (5): Raging Worgen, Twin Tyrant, Chef Nomi, Unpowered Mauler, Twin Tyrant
+  Field: Mogor's Champion[8/3], Dragoncaller Alanna[3/3], Trade Prince Gallywix[5/8]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (7)
+  Field: Gazlowe[3/2], Twin Tyrant[4/10], Transmogrifier[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

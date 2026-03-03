@@ -1,0 +1,348 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 공격 - Golakka Crawler[2/3] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Arcane Blast, Hobgoblin, Khadgar, Streetwise Investigator, Abomination, Ancient Watcher, Lost Spirit
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Golakka Crawler[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Arcane Blast -> Golakka Crawler (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 영웅 능력 사용
+[Turn 3, Step 7] Opponent: 공격 - Golakka Crawler[2/1] -> Ancient Watcher
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Cone of Cold -> Ancient Watcher (코스트: 4)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/5
+  Hand (6): Hobgoblin, Khadgar, Streetwise Investigator, Abomination, Lost Spirit, Emerald Hive Queen
+  Field: Ancient Watcher[4/2]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (6)
+  Field: Mad Bomber[3/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Streetwise Investigator (코스트: 5)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Menagerie Magician (코스트: 5)
+[Turn 5, Step 11] Opponent: 공격 - Mad Bomber[3/2] -> Streetwise Investigator
+[Turn 5, Step 11] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Khadgar (코스트: 2)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/7
+  Hand (5): Hobgoblin, Abomination, Lost Spirit, Emerald Hive Queen, Mo'arg Artificer
+  Field: Ancient Watcher[4/2], Streetwise Investigator[4/3], Flame Juggler[2/3], Khadgar[2/2]
+Opponent: Rexxar HP: 28, Mana: 3/7
+  Hand (5)
+  Field: Menagerie Magician[4/4], Stegodon[2/6]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(71) → 7로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 7, Step 16] Agent: 공격 - Streetwise Investigator[4/3] -> Stegodon
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Hobgoblin (코스트: 3)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 7, Step 18] Agent: 공격 - Flame Juggler[2/3] -> Stegodon
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (5): Abomination, Lost Spirit, Emerald Hive Queen, Mo'arg Artificer, Grizzled Wizard
+  Field: Ancient Watcher[4/2], Streetwise Investigator[4/1], Flame Juggler[2/1], Khadgar[2/2], Hobgoblin[2/3]
+Opponent: Rexxar HP: 27, Mana: 8/8
+  Hand (6)
+  Field: Menagerie Magician[4/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(40) → 18로 보정
+[Turn 8, Step 20] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(51) → 11로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Flame Juggler
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 8, Step 22] Opponent: 공격 - Menagerie Magician[4/4] -> Hobgoblin
+[Turn 8, Step 22] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(56) → 10로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Streetwise Investigator
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): Abomination, Lost Spirit, Emerald Hive Queen, Mo'arg Artificer, Grizzled Wizard, Barnes, Masked Contender
+  Field: Ancient Watcher[4/2], Khadgar[2/2]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (7)
+  Field: Spitting Camel[2/4], Cult Master[4/2]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(56) → 5로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(72) → 6로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Masked Contender (코스트: 3)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 10, Step 27] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (4): Abomination, Lost Spirit, Mo'arg Artificer, Barnes
+  Field: Ancient Watcher[4/2], Khadgar[2/2], Grizzled Wizard[3/2], Masked Contender[2/4], Emerald Hive Queen[2/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (7)
+  Field: Spitting Camel[2/4], Cult Master[4/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Mo'arg Artificer (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(93) → 18로 보정
+[Turn 10, Step 32] Agent: 공격 - Grizzled Wizard[3/2] -> Cult Master
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(40) → 6로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Khadgar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Masked Contender[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (4): Abomination, Lost Spirit, Barnes, Silithid Swarmer
+  Field: Ancient Watcher[4/2], Masked Contender[2/4], Emerald Hive Queen[2/3], Mo'arg Artificer[2/4]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (8)
+  Field: Spitting Camel[2/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 35] Opponent: 공격 - Spitting Camel[2/4] -> Ancient Watcher
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 10, Step 36] Agent: 공격 - Masked Contender[2/4] -> Chillmaw
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Mad Summoner (코스트: 8)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Imp
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (5): Abomination, Lost Spirit, Barnes, Silithid Swarmer, Elven Archer
+  Field: Emerald Hive Queen[2/3], Mo'arg Artificer[2/4], Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (9)
+  Field: Chillmaw[6/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(30) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Abomination (코스트: 7)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 10, Step 41] Agent: 공격 - Imp[1/1] -> Chillmaw
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Elven Archer -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Deathaxe Punisher (코스트: 4)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Trogg Beastrager (코스트: 2)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (4): Lost Spirit, Barnes, Silithid Swarmer, Big Bad Archmage
+  Field: Elven Archer[1/1]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (7)
+  Field: Nightmare Amalgam[3/4], Deathaxe Punisher[3/3], Trogg Beastrager[3/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 10, Step 47] Agent: 공격 - Elven Archer[1/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(63) → 8로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Deathaxe Punisher
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/10
+  Hand (4): Barnes, Silithid Swarmer, Big Bad Archmage, Lil' Exorcist
+  Field: Elven Archer[1/1], Lost Spirit[1/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (8)
+  Field: Nightmare Amalgam[3/4], Deathaxe Punisher[3/2], Trogg Beastrager[3/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 10, Step 52] Opponent: 공격 - Nightmare Amalgam[3/4] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 공격 - Trogg Beastrager[3/2] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 카드 플레이 - Feign Death (코스트: 2)
+[Turn 10, Step 52] Opponent: 공격 - Deathaxe Punisher[3/2] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Big Bad Archmage (코스트: 10)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 54] Agent: 공격 - Lost Spirit[1/1] -> Deathaxe Punisher
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 0/10
+  Hand (2): Carnivorous Cube, Barnes
+  Field: Silithid Swarmer[4/5], Big Bad Archmage[7/6]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (7)
+  Field: Nightmare Amalgam[3/4], Deathaxe Punisher[3/1], Trogg Beastrager[3/2], Twin Tyrant[4/10]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Trogg Beastrager[3/2] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 10, Step 55] Opponent: 공격 - Nightmare Amalgam[3/4] -> Big Bad Archmage
+[Turn 10, Step 55] Opponent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 10, Step 55] Opponent: 공격 - Twin Tyrant[4/10] -> Big Bad Archmage
+[Turn 10, Step 55] Opponent: 공격 - Deathaxe Punisher[3/1] -> Silithid Swarmer
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(38) → 16로 보정
+[Turn 10, Step 56] Agent: 공격 - Giggling Inventor[2/1] -> Nightmare Amalgam
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Carnivorous Cube -> Silithid Swarmer (코스트: 5)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Carnivorous Cube
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (3): Nerubian Prophet, Barnes, Guardian Augmerchant
+  Field: Carnivorous Cube[4/5]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (7)
+  Field: Nightmare Amalgam[3/2], Deathaxe Punisher[3/1], Trogg Beastrager[3/2], Twin Tyrant[4/10], Enhance-o Mechano[3/2], Volcanic Drake[6/4]
+[Turn 10, Step 60] Agent: 공격 - Carnivorous Cube[4/5] -> Nightmare Amalgam
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(77) → 9로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(89) → 8로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Guardian Augmerchant -> Carnivorous Cube (코스트: 1)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Trogg Beastrager[3/2] -> Guardian Augmerchant
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (3): Nerubian Prophet, Barnes, Body Wrapper
+  Field: Carnivorous Cube[4/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (8)
+  Field: Deathaxe Punisher[3/1], Trogg Beastrager[3/2], Twin Tyrant[4/10], Enhance-o Mechano[3/2], Volcanic Drake[6/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 10, Step 66] Agent: 선택 - Big Bad Archmage
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 66] Agent: 공격 - Carnivorous Cube[4/1] -> Deathaxe Punisher
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(63) → 1로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Nerubian Prophet (코스트: 4)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 공격 - Volcanic Drake[6/4] -> Body Wrapper
+[Turn 10, Step 68] Opponent: 공격 - Enhance-o Mechano[3/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 69) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (1): Barnes
+  Field: Carnivorous Cube[4/1], Nerubian Prophet[4/4]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Trogg Beastrager[3/2], Twin Tyrant[4/10], Enhance-o Mechano[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

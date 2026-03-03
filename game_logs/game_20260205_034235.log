@@ -1,0 +1,266 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Timber Wolf (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Timber Wolf[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 공격 - Zombie Chow[2/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Zombie Chow
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (7): Old Murk-Eye, Violet Teacher, Sunfury Protector, Spiritsinger Umbra, Drakonid Crusher, Leeroy Jenkins, Prince Malchezaar
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (4)
+  Field: Zombie Chow[2/2], Timber Wolf[1/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 공격 - Timber Wolf[1/1] -> Sunfury Protector
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 영웅 능력 사용
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 6, Step 9] Agent: 공격 - Leeroy Jenkins[6/2] -> Zombie Chow
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/6
+  Hand (7): Old Murk-Eye, Violet Teacher, Spiritsinger Umbra, Drakonid Crusher, Prince Malchezaar, Marsh Drake, Countess Ashmore
+  Field: Sunfury Protector[2/2]
+Opponent: Rexxar HP: 29, Mana: 3/5
+  Hand (6)
+  Field: Whelp[1/1], Whelp[1/1]
+[Turn 6, Step 10] Agent: 공격 - Sunfury Protector[2/2] -> Whelp
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 14] Agent: 공격 - Sunfury Protector[2/1] -> Avian Watcher
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/7
+  Hand (7): Old Murk-Eye, Spiritsinger Umbra, Drakonid Crusher, Prince Malchezaar, Marsh Drake, Countess Ashmore, Temporus
+  Field: Violet Teacher[3/5]
+Opponent: Rexxar HP: 28, Mana: 1/6
+  Hand (6)
+  Field: Whelp[1/1], Avian Watcher[4/5]
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 카드 플레이 - Prince Malchezaar (코스트: 5)
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Whelp
+[Turn 8, Step 18] Agent: 공격 - Violet Teacher[3/5] -> Avian Watcher
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 9/9
+  Hand (8): Skelemancer, Old Murk-Eye, Spiritsinger Umbra, Drakonid Crusher, Marsh Drake, Countess Ashmore, Temporus, Frizz Kindleroost
+  Field: Violet Teacher[3/1], Prince Malchezaar[5/6]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (7)
+  Field: Avian Watcher[4/2]
+[Turn 9, Step 20] Agent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 22] Agent: 공격 - Prince Malchezaar[5/6] -> Avian Watcher
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 영웅 능력 사용
+[Turn 9, Step 23] Opponent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 9, Step 23] Opponent: 카드 플레이 - Revenge of the Wild (코스트: 2)
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Stegodon
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/10
+  Hand (8): Old Murk-Eye, Spiritsinger Umbra, Drakonid Crusher, Marsh Drake, Countess Ashmore, Temporus, Frizz Kindleroost, Nat, the Darkfisher
+  Field: Violet Teacher[3/1], Prince Malchezaar[5/2], Skelemancer[2/2]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (6)
+  Field: Stegodon[2/5]
+[Turn 10, Step 25] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 25] Opponent: 공격 - Stegodon[2/5] -> Violet Teacher
+[Turn 10, Step 25] Opponent: 영웅 능력 사용
+[Turn 10, Step 25] Opponent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 10, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 27] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 영웅 능력 사용
+[Turn 10, Step 28] Opponent: 카드 플레이 - Gurubashi Berserker (코스트: 5)
+[Turn 10, Step 28] Opponent: 공격 - Jepetto Joybuzz[6/6] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 카드 플레이 - Waste Warden -> Old Murk-Eye (코스트: 1)
+[Turn 10, Step 28] Opponent: 공격 - Stegodon[2/2] -> Jaina Proudmoore
+[Turn 10, Step 28] Opponent: 카드 플레이 - Ancient Brewmaster -> Stegodon (코스트: 1)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Prince Malchezaar[5/2] -> Jepetto Joybuzz
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (9): Spiritsinger Umbra, Drakonid Crusher, Marsh Drake, Countess Ashmore, Temporus, Frizz Kindleroost, Nat, the Darkfisher, Onyxia, Unseen Saboteur
+  Field: Skelemancer[2/2], Old Murk-Eye[2/1]
+Opponent: Rexxar HP: 27, Mana: 1/10
+  Hand (7)
+  Field: Jepetto Joybuzz[6/1], Gurubashi Berserker[2/7], Waste Warden[1/1], Ancient Brewmaster[1/1]
+[Turn 10, Step 30] Agent: 공격 - Old Murk-Eye[2/1] -> Jepetto Joybuzz
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Skelemancer
+[Turn 10, Step 32] Agent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 10, Step 33] Agent: 공격 - Skelemancer[2/1] -> Ancient Brewmaster
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Gurubashi Berserker[2/7] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (10): Spiritsinger Umbra, Drakonid Crusher, Marsh Drake, Temporus, Frizz Kindleroost, Nat, the Darkfisher, Onyxia, Unseen Saboteur, Majordomo Executus, Clockwork Giant
+  Field: Countess Ashmore[6/6]
+Opponent: Rexxar HP: 27, Mana: 5/10
+  Hand (7)
+  Field: Gurubashi Berserker[2/7], Waste Warden[1/1], Spiked Hogrider[5/5]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Gurubashi Berserker
+[Turn 10, Step 36] Agent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 10, Step 37] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 10, Step 38] Agent: 공격 - Countess Ashmore[6/6] -> Rexxar
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Spiked Hogrider[5/5] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 카드 플레이 - To My Side! (코스트: 6)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (9): Spiritsinger Umbra, Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Majordomo Executus, Clockwork Giant, Arena Fanatic
+  Field: Countess Ashmore[6/4], Drakonid Crusher[6/4], Nat, the Darkfisher[2/2]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (8)
+  Field: Gurubashi Berserker[5/6], Waste Warden[1/1], Spiked Hogrider[5/5], Ironfur Grizzly[3/3], Huffer[4/2]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 카드 플레이 - Clockwork Giant (코스트: 4)
+[Turn 10, Step 42] Agent: 공격 - Drakonid Crusher[6/4] -> Ironfur Grizzly
+[Turn 10, Step 43] Agent: 공격 - Countess Ashmore[6/4] -> Huffer
+[Turn 10, Step 44] Agent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 0/10
+  Hand (7): Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Majordomo Executus, Arena Fanatic
+  Field: Drakonid Crusher[6/1], Nat, the Darkfisher[2/2], Clockwork Giant[8/8], Spiritsinger Umbra[3/4]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (8)
+  Field: Gurubashi Berserker[5/6], Waste Warden[1/1], Spiked Hogrider[5/5]
+[Turn 10, Step 45] Agent: 공격 - Nat, the Darkfisher[2/2] -> Waste Warden
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Nat, the Darkfisher[2/1] -> Gurubashi Berserker
+[Turn 10, Step 48] Agent: 공격 - Clockwork Giant[8/8] -> Gurubashi Berserker
+[Turn 10, Step 49] Agent: 카드 플레이 - Majordomo Executus (코스트: 9)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Ragnaros the Firelord HP: 8, Mana: 1/10
+  Hand (7): Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Arena Fanatic, Book of Specters
+  Field: Drakonid Crusher[6/1], Spiritsinger Umbra[3/4], Majordomo Executus[9/7]
+Opponent: Rexxar HP: 21, Mana: 5/10
+  Hand (9)
+  Field: Spiked Hogrider[5/5], Sewer Crawler[1/1], Giant Rat[2/3]
+[Turn 10, Step 50] Agent: 공격 - Spiritsinger Umbra[3/4] -> Giant Rat
+[Turn 10, Step 51] Agent: 공격 - Drakonid Crusher[6/1] -> Rexxar
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 10, Step 52] Opponent: 공격 - Spiked Hogrider[5/5] -> Drakonid Crusher
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 카드 플레이 - Sergeant Sally (코스트: 3)
+[Turn 10, Step 52] Opponent: 공격 - Sewer Crawler[1/1] -> Spiritsinger Umbra
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 카드 플레이 - Book of Specters (코스트: 2)
+[Turn 10, Step 54] Agent: 공격 - Spiritsinger Umbra[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Ragnaros the Firelord HP: 6, Mana: 8/10
+  Hand (10): Faceless Summoner, Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Arena Fanatic, Geosculptor Yip, Coldlight Oracle, Rabble Bouncer
+  Field: Spiritsinger Umbra[3/1], Majordomo Executus[9/7]
+Opponent: Rexxar HP: 12, Mana: 1/10
+  Hand (8)
+  Field: Coppertail Imposter[4/4], Sergeant Sally[1/1]
+[Turn 10, Step 55] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 56] Agent: 공격 - Majordomo Executus[9/7] -> Sergeant Sally
+[Turn 10, Step 57] Agent: 영웅 능력 사용
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 영웅 능력 사용
+[Turn 10, Step 58] Opponent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Coppertail Imposter[4/3] -> Sky Claw
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Ragnaros the Firelord HP: 4, Mana: 10/10
+  Hand (10): Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Arena Fanatic, Geosculptor Yip, Coldlight Oracle, Rabble Bouncer, Night Howler
+  Field: Majordomo Executus[9/5], Faceless Summoner[5/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (9)
+  Field: Coppertail Imposter[4/2], Target Dummy[0/2]
+[Turn 10, Step 60] Agent: 카드 플레이 - Night Howler (코스트: 4)
+[Turn 10, Step 61] Agent: 공격 - Faceless Summoner[5/4] -> Target Dummy
+[Turn 10, Step 62] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 10, Step 63] Agent: 공격 - Majordomo Executus[9/5] -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Ragnaros the Firelord HP: 4, Mana: 3/10
+  Hand (10): Marsh Drake, Temporus, Frizz Kindleroost, Onyxia, Unseen Saboteur, Arena Fanatic, Geosculptor Yip, Rabble Bouncer, Dark Pharaoh Tekahn, Scarlet Crusader
+  Field: Majordomo Executus[9/5], Faceless Summoner[5/4], Night Howler[3/4], Coldlight Oracle[2/2]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+  Field: Coppertail Imposter[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,429 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Unstable Portal (코스트: 2)
+[Turn 3, Step 4] Agent: 카드 플레이 - Vulpera Scoundrel (코스트: 0)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (4): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender
+  Field: Master Swordsmith[1/3], Vulpera Scoundrel[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Angry Chicken[1/1], Bonechewer Brawler[2/3]
+[Turn 3, Step 5] Agent: 선택 - Elemental Evocation
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Bonechewer Brawler[2/3] -> Master Swordsmith
+[Turn 3, Step 5] Opponent: 공격 - Angry Chicken[1/1] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Master Swordsmith
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Angry Chicken[1/1] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/5
+  Hand (6): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender, Unstable Ghoul, Goblin Blastmage
+  Field: Vulpera Scoundrel[3/3]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (5)
+  Field: Angry Chicken[1/1], Bonechewer Brawler[4/2], Shrieking Shroom[1/2], Shifter Zerus[1/1]
+[Turn 5, Step 10] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 5, Step 11] Agent: 공격 - Vulpera Scoundrel[3/3] -> Bonechewer Brawler
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 5, Step 12] Opponent: 카드 플레이 - Arcane Servant (코스트: 2)
+[Turn 5, Step 12] Opponent: 공격 - Shifter Zerus[1/1] -> Unstable Ghoul
+[Turn 5, Step 12] Opponent: 공격 - Angry Chicken[1/1] -> Unstable Ghoul
+[Turn 5, Step 12] Opponent: 공격 - Shrieking Shroom[1/2] -> Unstable Ghoul
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Arcane Servant
+[Turn 6, Step 14] Agent: 카드 플레이 - Bananas -> Arcane Servant (코스트: 1)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/6
+  Hand (7): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender, Goblin Blastmage, Bananas, Giggling Inventor
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (4)
+  Field: King Mukla[5/4], Arcane Servant[3/2]
+[Turn 6, Step 15] Agent: 카드 플레이 - Bananas -> King Mukla (코스트: 1)
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Damaged Stegotron (코스트: 6)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 카드 플레이 - Refreshment Vendor (코스트: 4)
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 공격 - Damaged Stegotron[5/6] -> Refreshment Vendor
+[Turn 7, Step 19] Opponent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 7, Step 19] Opponent: 공격 - Arcane Servant[3/2] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 공격 - King Mukla[6/5] -> Jaina Proudmoore
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/8
+  Hand (7): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender, Goblin Blastmage, Giggling Inventor, Target Dummy
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (3)
+  Field: King Mukla[6/5], Arcane Servant[3/2], Damaged Stegotron[5/3], Kobold Geomancer[2/2], Amalgam[1/1], Hench-Clan Hag[3/3], Amalgam[1/1]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Kobold Geomancer
+[Turn 8, Step 21] Agent: 카드 플레이 - Giggling Inventor (코스트: 6)
+[Turn 8, Step 22] Agent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 공격 - Kobold Geomancer[2/1] -> Annoy-o-Tron
+[Turn 8, Step 23] Opponent: 공격 - Amalgam[1/1] -> Target Dummy
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Amalgam
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/9
+  Hand (6): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender, Goblin Blastmage, Xavius
+  Field: Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Target Dummy[0/1]
+Opponent: Rexxar HP: 30, Mana: 8/8
+  Hand (4)
+  Field: King Mukla[6/5], Arcane Servant[3/2], Damaged Stegotron[5/3], Hench-Clan Hag[3/3], Amalgam[1/1]
+[Turn 9, Step 25] Agent: 카드 플레이 - Goblin Blastmage (코스트: 4)
+[Turn 9, Step 26] Agent: 공격 - Annoy-o-Tron[1/2] -> Damaged Stegotron
+[Turn 9, Step 27] Agent: 공격 - Giggling Inventor[2/1] -> Damaged Stegotron
+[Turn 9, Step 28] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Voodoo Doll -> Hench-Clan Hag (코스트: 3)
+[Turn 9, Step 29] Opponent: 공격 - Hench-Clan Hag[3/3] -> Annoy-o-Tron
+[Turn 9, Step 29] Opponent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 9, Step 29] Opponent: 선택 - Superior Potion
+[Turn 9, Step 29] Opponent: 선택 - Mystic Wool
+[Turn 9, Step 29] Opponent: 선택 - Heart of Fire
+[Turn 9, Step 29] Opponent: 영웅 능력 사용
+[Turn 9, Step 29] Opponent: 공격 - King Mukla[6/5] -> Annoy-o-Tron
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Fight Promoter, Book Wyrm, Defias Cleaner, Khartut Defender, Xavius, Gyrocopter
+  Field: Target Dummy[0/1], Goblin Blastmage[5/4]
+Opponent: Rexxar HP: 29, Mana: 0/9
+  Hand (4)
+  Field: King Mukla[6/4], Hench-Clan Hag[3/2], Voodoo Doll[1/1], Kazakus[3/3]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Hench-Clan Hag
+[Turn 10, Step 31] Agent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 10, Step 32] Agent: 공격 - Goblin Blastmage[5/4] -> Rexxar
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Kazakus Potion -> Kazakus (코스트: 10)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Sheep[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Book Wyrm, Defias Cleaner, Khartut Defender, Xavius, Gyrocopter, Kobold Stickyfinger
+  Field: Sheep[1/1], Sheep[1/1], Sheep[1/1]
+Opponent: Rexxar HP: 23, Mana: 0/10
+  Hand (4)
+  Field: Sheep[1/1], Sheep[1/1], Sheep[1/1], Sheep[1/1]
+[Turn 10, Step 35] Agent: 카드 플레이 - Book Wyrm -> Sheep (코스트: 6)
+[Turn 10, Step 36] Agent: 공격 - Sheep[1/1] -> Rexxar
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Sheep
+[Turn 10, Step 38] Agent: 공격 - Sheep[1/1] -> Sheep
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 10, Step 39] Opponent: 공격 - Sheep[1/1] -> Jaina Proudmoore
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (6): Defias Cleaner, Khartut Defender, Xavius, Gyrocopter, Kobold Stickyfinger, Pyroblast
+  Field: Sheep[1/1], Sheep[1/1], Book Wyrm[3/6]
+Opponent: Rexxar HP: 22, Mana: 3/10
+  Hand (4)
+  Field: Sheep[1/1], Sheep[1/1], Silver Vanguard[3/3]
+[Turn 10, Step 40] Agent: 공격 - Sheep[1/1] -> Silver Vanguard
+[Turn 10, Step 41] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Sheep[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Book Wyrm[3/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (5): Defias Cleaner, Khartut Defender, Xavius, Kobold Stickyfinger, Pyroblast
+  Field: Sheep[1/1], Book Wyrm[3/6], Gyrocopter[4/5]
+Opponent: Rexxar HP: 17, Mana: 3/10
+  Hand (4)
+  Field: Sheep[1/1], Sheep[1/1], Silver Vanguard[3/2]
+[Turn 10, Step 45] Agent: 공격 - Gyrocopter[4/5] -> Sheep
+[Turn 10, Step 46] Agent: 공격 - Gyrocopter[4/4] -> Silver Vanguard
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Oondasta (코스트: 9)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 10, Step 47] Opponent: 선택 - Life Tap
+[Turn 10, Step 47] Opponent: 공격 - Sheep[1/1] -> Sheep
+[Turn 10, Step 47] Opponent: 공격 - Oondasta[7/7] -> Gyrocopter
+[Turn 10, Step 47] Opponent: 공격 - Tortollan Primalist[5/4] -> Book Wyrm
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Book Wyrm
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (7): Defias Cleaner, Khartut Defender, Xavius, Kobold Stickyfinger, Pyroblast, Defias Cleaner, Kobold Stickyfinger
+  Field: Barista Lynchen[4/5]
+Opponent: Rexxar HP: 17, Mana: 0/10
+  Hand (2)
+  Field: Tortollan Primalist[5/1], Oondasta[8/3], Timber Wolf[1/1], Sir Finley Mrrgglton[1/3]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 52] Agent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 53] Agent: 공격 - Barista Lynchen[4/5] -> Oondasta
+[Turn 10, Step 54] Agent: 카드 플레이 - Blackwing Technician (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/10
+  Hand (6): Defias Cleaner, Khartut Defender, Xavius, Pyroblast, Defias Cleaner, Kobold Stickyfinger
+  Field: Kobold Stickyfinger[4/4], Blackwing Technician[2/4]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (3)
+  Field: Tortollan Primalist[5/1], Timber Wolf[1/1], Sir Finley Mrrgglton[1/3]
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Tortollan Primalist[5/1] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 카드 플레이 - Grievous Bite -> Tortollan Primalist (코스트: 2)
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 카드 플레이 - Second-Rate Bruiser (코스트: 5)
+[Turn 10, Step 55] Opponent: 공격 - Sir Finley Mrrgglton[1/3] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Defias Cleaner (코스트: 6)
+[Turn 10, Step 57] Agent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 58] Agent: 공격 - Blackwing Technician[2/4] -> Second-Rate Bruiser
+[Turn 10, Step 59] Agent: 공격 - Kobold Stickyfinger[4/4] -> Second-Rate Bruiser
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (5): Defias Cleaner, Khartut Defender, Xavius, Pyroblast, Kobold Stickyfinger
+  Field: Defias Cleaner[5/7], Silithid Swarmer[3/5]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (3)
+  Field: Sir Finley Mrrgglton[1/3]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 영웅 능력 사용
+[Turn 10, Step 60] Opponent: 공격 - Sir Finley Mrrgglton[1/3] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 카드 플레이 - Boommaster Flark (코스트: 7)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Defias Cleaner
+[Turn 10, Step 62] Agent: 카드 플레이 - Defias Cleaner -> Goblin Bomb (코스트: 6)
+[Turn 10, Step 63] Agent: 공격 - Defias Cleaner[5/6] -> Sir Finley Mrrgglton
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 10, Step 64] Opponent: 공격 - Boommaster Flark[5/5] -> Defias Cleaner
+[Turn 10, Step 64] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (6): Khartut Defender, Xavius, Pyroblast, Kobold Stickyfinger, Cobalt Spellkin, N'Zoth, the Corruptor
+  Field: Defias Cleaner[5/5], Silithid Swarmer[3/5], Defias Cleaner[5/2]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (2)
+  Field: Goblin Bomb[0/2], Goblin Bomb[0/2], Goblin Bomb[0/2], Goblin Bomb[0/2], Sunreaver Warmage[4/4], Millhouse Manastorm[4/4], Transmogrifier[2/3]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Millhouse Manastorm
+[Turn 10, Step 66] Agent: 공격 - Defias Cleaner[5/5] -> Sunreaver Warmage
+[Turn 10, Step 67] Agent: 공격 - Defias Cleaner[5/2] -> Goblin Bomb
+[Turn 10, Step 68] Agent: 카드 플레이 - Pyroblast -> Goblin Bomb (코스트: 0)
+[Turn 10, Step 69] Agent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 3/10
+  Hand (4): Khartut Defender, Xavius, Cobalt Spellkin, N'Zoth, the Corruptor
+  Field: Defias Cleaner[5/1], Silithid Swarmer[3/5], Defias Cleaner[5/2], Kobold Stickyfinger[4/4]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (2)
+  Field: Goblin Bomb[0/2], Goblin Bomb[0/2], Millhouse Manastorm[4/3], Transmogrifier[2/3]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Zilliax (코스트: 5)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 10, Step 70] Opponent: 공격 - Hippogryph[2/6] -> Kobold Stickyfinger
+[Turn 10, Step 70] Opponent: 공격 - Zilliax[3/2] -> Defias Cleaner
+[Turn 10, Step 70] Opponent: 공격 - Millhouse Manastorm[4/3] -> Kobold Stickyfinger
+[Turn 10, Step 70] Opponent: 공격 - Transmogrifier[2/3] -> Silithid Swarmer
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Zilliax
+[Turn 10, Step 72] Agent: 카드 플레이 - Cobalt Spellkin (코스트: 5)
+[Turn 10, Step 73] Agent: 카드 플레이 - Arcane Breath -> Silithid Swarmer (코스트: 1)
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Hippogryph[2/2] -> Cobalt Spellkin
+[Turn 10, Step 74] Opponent: 카드 플레이 - Fiery Bat (코스트: 1)
+[Turn 10, Step 74] Opponent: 공격 - Zilliax[3/1] -> Silithid Swarmer
+[Turn 10, Step 74] Opponent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (6): Khartut Defender, Xavius, N'Zoth, the Corruptor, Hozen Healer, Evocation, Kazakus
+  Field: Defias Cleaner[5/2], Cobalt Spellkin[3/3]
+Opponent: Rexxar HP: 19, Mana: 5/10
+  Hand (0)
+  Field: Goblin Bomb[0/2], Goblin Bomb[0/2], Fiery Bat[2/1], Unpowered Steambot[0/9]
+[Turn 10, Step 75] Agent: 카드 플레이 - Hozen Healer -> Goblin Bomb (코스트: 4)
+[Turn 10, Step 76] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 10, Step 77] Agent: 공격 - Defias Cleaner[5/2] -> Unpowered Steambot
+[Turn 10, Step 78] Agent: 공격 - Cobalt Spellkin[3/3] -> Unpowered Steambot
+[Turn 10, Step 79] Agent: 카드 플레이 - Forbidden Flame -> Goblin Bomb (코스트: 0)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 0/10
+  Hand (9): Khartut Defender, Xavius, N'Zoth, the Corruptor, Kazakus, Flamestrike, Arcane Intellect, Dragon's Fury, Freezing Potion, Polymorph: Boar
+  Field: Defias Cleaner[5/2], Cobalt Spellkin[3/3], Hozen Healer[2/6]
+Opponent: Rexxar HP: 19, Mana: 5/10
+  Hand (0)
+  Field: Goblin Bomb[0/2], Fiery Bat[2/1], Unpowered Steambot[0/1]
+[Turn 10, Step 80] Agent: 카드 플레이 - Freezing Potion -> Goblin Bomb (코스트: 0)
+[Turn 10, Step 81] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 81] Opponent: 영웅 능력 사용
+[Turn 10, Step 81] Opponent: 공격 - Fiery Bat[2/1] -> Defias Cleaner
+[Turn 10, Step 81] Opponent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 10, Step 81] Opponent: 턴 종료
+[Turn 10, Step 82] Agent: 공격 - Cobalt Spellkin[3/2] -> Unpowered Steambot
+[Turn 10, Step 83] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 84] Agent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 7/10
+  Hand (4): Khartut Defender, Xavius, N'Zoth, the Corruptor, Kazakus
+  Field: Cobalt Spellkin[3/2], Hozen Healer[2/6], Southsea Deckhand[2/1]
+Opponent: Rexxar HP: 16, Mana: 3/10
+  Hand (1)
+  Field: Goblin Bomb[0/2], Grook Fu Master[3/5]
+[Turn 10, Step 85] Agent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 86] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 86] Opponent: 턴 종료
+[Turn 10, Step 87] Agent: 카드 플레이 - N'Zoth, the Corruptor (코스트: 10)
+[Turn 10, Step 88] Agent: 공격 - Xavius[7/5] -> Grook Fu Master
+[Turn 10, Step 89] Agent: 공격 - Hozen Healer[2/6] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 0/10
+  Hand (3): Khartut Defender, Kazakus, Anomalus
+  Field: Cobalt Spellkin[3/2], Hozen Healer[2/6], Southsea Deckhand[2/1], Xavius[7/2], Xavian Satyr[2/1], N'Zoth, the Corruptor[5/7], Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (2)
+  Field: Goblin Bomb[0/2]
+[Turn 10, Step 90] Agent: 공격 - Cobalt Spellkin[3/2] -> Goblin Bomb
+[Turn 10, Step 91] Agent: 공격 - Southsea Deckhand[2/1] -> Rexxar
+[Turn 10, Step 92] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 92] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 92] Opponent: 영웅 능력 사용
+[Turn 10, Step 92] Opponent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 10, Step 92] Opponent: 턴 종료
+[Turn 10, Step 93] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 94] Agent: 공격 - Hozen Healer[2/6] -> Injured Blademaster
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (4): Khartut Defender, Kazakus, Anomalus, Frost Nova
+  Field: Cobalt Spellkin[3/2], Hozen Healer[2/2], Southsea Deckhand[2/1], Xavius[7/2], Xavian Satyr[2/1], N'Zoth, the Corruptor[5/7], Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 10, Mana: 0/10
+  Hand (2)
+  Field: Injured Blademaster[4/1], Clockwork Knight[5/5]
+[Turn 10, Step 95] Agent: 공격 - Southsea Deckhand[2/1] -> Clockwork Knight
+[Turn 10, Step 96] Agent: 카드 플레이 - Frost Nova (코스트: 3)
+[Turn 10, Step 97] Agent: 공격 - N'Zoth, the Corruptor[5/7] -> Injured Blademaster
+[Turn 10, Step 98] Agent: 공격 - Cobalt Spellkin[3/2] -> Rexxar
+[Turn 10, Step 99] Agent: 공격 - Unstable Ghoul[1/3] -> Clockwork Knight
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (3): Khartut Defender, Kazakus, Anomalus
+  Field: Cobalt Spellkin[3/1], Hozen Healer[2/1], Xavius[7/1], N'Zoth, the Corruptor[5/2]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (2)
+  Field: Clockwork Knight[5/1]
+[Turn 10, Step 100] Agent: 공격 - Xavius[7/1] -> Clockwork Knight
+[Turn 10, Step 101] Agent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 10, Step 102] Agent: 선택 - Superior Potion
+[Turn 10, Step 102] Agent: 선택 - Shadow Oil
+[Turn 10, Step 102] Agent: 선택 - Ichor of Undeath
+[Turn 10, Step 102] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 102] Opponent: 턴 종료
+[Turn 10, Step 103] Agent: 공격 - Hozen Healer[2/1] -> Rexxar
+[Turn 10, Step 104] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 4/10
+  Hand (3): Anomalus, Kazakus Potion, Tournament Attendee
+  Field: Cobalt Spellkin[3/1], Hozen Healer[2/1], N'Zoth, the Corruptor[5/2], Kazakus[3/3], Khartut Defender[3/4]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (2)
+[Turn 10, Step 105] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 106] Agent: 공격 - Kazakus[3/3] -> Rexxar
+[Turn 10, Step 107] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 10, Step 108] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 109) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 1/10
+  Hand (2): Anomalus, Kazakus Potion
+  Field: Cobalt Spellkin[3/1], Hozen Healer[2/1], N'Zoth, the Corruptor[5/2], Kazakus[3/3], Khartut Defender[3/4], Tournament Attendee[2/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (2)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

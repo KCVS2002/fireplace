@@ -1,0 +1,198 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 2, Step 2] Opponent: 공격 - Lowly Squire[1/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+[Turn 3, Step 4] Opponent: 선택 - Volcanic Might
+[Turn 3, Step 4] Opponent: 공격 - Lowly Squire[1/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 공격 - Leper Gnome[1/1] -> Puddlestomper
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/4
+  Hand (6): Dwarven Archaeologist, Underbelly Ooze, Skydiving Instructor, Evasive Wyrm, Lost Spirit, Young Priestess
+  Field: Puddlestomper[3/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Lowly Squire[1/2], Pterrordax Hatchling[3/3]
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 공격 - Lowly Squire[1/2] -> Puddlestomper
+[Turn 4, Step 5] Opponent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 4, Step 5] Opponent: 영웅 능력 사용
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Dwarven Archaeologist
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 5, Step 8] Opponent: 카드 플레이 - Raptor Hatchling (코스트: 1)
+[Turn 5, Step 8] Opponent: 공격 - Tasty Flyfish[2/2] -> Jaina Proudmoore
+[Turn 5, Step 8] Opponent: 공격 - Pterrordax Hatchling[3/3] -> Dwarven Archaeologist
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Raptor Hatchling
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/6
+  Hand (7): Underbelly Ooze, Skydiving Instructor, Evasive Wyrm, Lost Spirit, Young Priestess, Amani War Bear, Evasive Feywing
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (3)
+  Field: Pterrordax Hatchling[3/1], Tasty Flyfish[2/2], Elise Starseeker[3/5]
+[Turn 6, Step 10] Agent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 6, Step 11] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 공격 - Tasty Flyfish[2/2] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 6, Step 12] Opponent: 공격 - Pterrordax Hatchling[3/1] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 공격 - Elise Starseeker[3/5] -> Young Priestess
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 7, Step 14] Agent: 공격 - Lost Spirit[1/2] -> Pterrordax Hatchling
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 3/7
+  Hand (5): Underbelly Ooze, Skydiving Instructor, Evasive Wyrm, Amani War Bear, Flamestrike
+  Field: Evasive Feywing[6/4]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (3)
+  Field: Tasty Flyfish[2/2], Elise Starseeker[3/3], Kobold Monk[3/6]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Kobold Monk
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Ironbeak Owl -> Evasive Feywing (코스트: 3)
+[Turn 7, Step 16] Opponent: 공격 - Kobold Monk[3/5] -> Evasive Feywing
+[Turn 7, Step 16] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 7, Step 16] Opponent: 공격 - Elise Starseeker[3/3] -> Drakeslayer
+[Turn 7, Step 16] Opponent: 공격 - Tasty Flyfish[2/2] -> Jaina Proudmoore
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Tasty Flyfish
+[Turn 8, Step 18] Agent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 8, Step 19] Agent: 카드 플레이 - Skydiving Instructor (코스트: 3)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/8
+  Hand (4): Underbelly Ooze, Evasive Wyrm, Amani War Bear, Flamestrike
+  Field: Evasive Feywing[5/1], Lone Champion[2/4], Skydiving Instructor[2/2], Swamp Dragon Egg[0/3]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (2)
+  Field: Tasty Flyfish[2/1], Ironbeak Owl[2/1], Marsh Drake[5/4]
+[Turn 8, Step 20] Agent: 공격 - Evasive Feywing[5/1] -> Tasty Flyfish
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 카드 플레이 - Guardian Augmerchant -> Ironbeak Owl (코스트: 1)
+[Turn 8, Step 21] Opponent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 8, Step 21] Opponent: 공격 - Marsh Drake[5/4] -> Lone Champion
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Skydiving Instructor
+[Turn 9, Step 23] Agent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 9, Step 24] Agent: 공격 - Skydiving Instructor[2/1] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 4/9
+  Hand (5): Underbelly Ooze, Evasive Wyrm, Amani War Bear, Flamestrike, Sergeant Sally
+  Field: Lone Champion[2/4], Skydiving Instructor[2/1], Swamp Dragon Egg[0/3], Brightwing[3/2]
+Opponent: Rexxar HP: 28, Mana: 2/8
+  Hand (1)
+  Field: Marsh Drake[5/2], Guardian Augmerchant[2/1], Burgly Bully[4/6]
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 공격 - Guardian Augmerchant[2/1] -> Skydiving Instructor
+[Turn 9, Step 25] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 9, Step 25] Opponent: 공격 - Burgly Bully[4/6] -> Brightwing
+[Turn 9, Step 25] Opponent: 영웅 능력 사용
+[Turn 9, Step 25] Opponent: 공격 - Marsh Drake[5/2] -> Jaina Proudmoore
+[Turn 9, Step 25] Opponent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Salty Dog
+[Turn 10, Step 27] Agent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 10, Step 28] Agent: 공격 - Lone Champion[2/4] -> Burgly Bully
+[Turn 10, Step 29] Agent: 공격 - Evasive Wyrm[5/3] -> Burgly Bully
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (5): Underbelly Ooze, Amani War Bear, Flamestrike, Sergeant Sally, Baleful Banker
+  Field: Swamp Dragon Egg[0/3], Evasive Wyrm[5/3]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (0)
+  Field: Marsh Drake[5/2], Tentacle of N'Zoth[1/1], Salty Dog[7/3]
+[Turn 10, Step 30] Agent: 카드 플레이 - Baleful Banker -> Swamp Dragon Egg (코스트: 2)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 영웅 능력 사용
+[Turn 10, Step 31] Opponent: 공격 - Marsh Drake[5/2] -> Swamp Dragon Egg
+[Turn 10, Step 31] Opponent: 공격 - Salty Dog[7/3] -> Evasive Wyrm
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - Baleful Banker[2/2] -> Rexxar
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 1/10
+  Hand (5): Amani War Bear, Flamestrike, Sergeant Sally, Twin Tyrant, Crowd Roaster
+  Field: Baleful Banker[2/2], Underbelly Ooze[3/5]
+Opponent: Rexxar HP: 26, Mana: 8/10
+  Hand (1)
+  Field: Marsh Drake[5/2], Tentacle of N'Zoth[1/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Baleful Banker[2/2] -> Rexxar
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Marsh Drake
+[Turn 10, Step 38] Agent: 공격 - Underbelly Ooze[3/5] -> Marsh Drake
+[Turn 10, Step 39] Agent: 카드 플레이 - Netherwind Portal (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (5): Amani War Bear, Flamestrike, Sergeant Sally, Twin Tyrant, Crowd Roaster
+  Field: Baleful Banker[2/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (2)
+  Field: Tentacle of N'Zoth[1/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Sergeant Sally (코스트: 3)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 42) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (4): Amani War Bear, Flamestrike, Twin Tyrant, Crowd Roaster
+  Field: Baleful Banker[2/2], Sergeant Sally[1/1]
+Opponent: Rexxar HP: 24, Mana: 8/10
+  Hand (3)
+  Field: Tentacle of N'Zoth[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

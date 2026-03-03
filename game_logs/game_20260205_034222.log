@@ -1,0 +1,217 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - Shattered Sun Cleric -> Recombobulator (코스트: 3)
+[Turn 3, Step 3] Opponent: 공격 - Recombobulator[4/3] -> Jaina Proudmoore
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/4
+  Hand (7): Electrowright, Hench-Clan Sneak, Ice Barrier, Archivist Elysiana, Temple Berserker, Depth Charge, Mad Bomber
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (5)
+  Field: Recombobulator[4/3], Shattered Sun Cleric[3/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Electrowright (코스트: 3)
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Electrowright
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (7): Hench-Clan Sneak, Ice Barrier, Archivist Elysiana, Depth Charge, Mad Bomber, Gnomish Experimenter, Sabretooth Stalker
+  Field: Temple Berserker[1/2], Electrowright[3/2]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (7)
+  Field: Recombobulator[4/3], Shattered Sun Cleric[3/2]
+[Turn 6, Step 10] Agent: 공격 - Electrowright[3/2] -> Recombobulator
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 12] Agent: 공격 - Temple Berserker[1/2] -> Shattered Sun Cleric
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 공격 - Temple Berserker[3/1] -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (8): Hench-Clan Sneak, Ice Barrier, Archivist Elysiana, Depth Charge, Mad Bomber, Gnomish Experimenter, Sabretooth Stalker, Gadgetzan Jouster
+  Field: Temple Berserker[3/1]
+Opponent: Rexxar HP: 25, Mana: 6/6
+  Hand (8)
+  Field: Shattered Sun Cleric[3/1]
+[Turn 7, Step 15] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 7, Step 16] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 공격 - Gadgetzan Jouster[2/3] -> Shattered Sun Cleric
+[Turn 8, Step 19] Agent: 공격 - Temple Berserker[3/1] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (7): Blatant Decoy, Hench-Clan Sneak, Ice Barrier, Archivist Elysiana, Depth Charge, Mad Bomber, Gnomish Experimenter
+  Field: Temple Berserker[3/1], Sabretooth Stalker[8/2]
+Opponent: Rexxar HP: 22, Mana: 7/7
+  Hand (9)
+[Turn 8, Step 20] Agent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 8, Step 21] Agent: 카드 플레이 - Gnomish Experimenter (코스트: 3)
+[Turn 8, Step 22] Agent: 카드 플레이 - Ice Lance -> Temple Berserker (코스트: 1)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 공격 - Gnomish Experimenter[3/2] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (6): Foe Reaper 4000, Blatant Decoy, Ice Barrier, Archivist Elysiana, Depth Charge, Mad Bomber
+  Field: Temple Berserker[3/1], Sabretooth Stalker[8/2], Hench-Clan Sneak[3/3], Gnomish Experimenter[3/2]
+Opponent: Rexxar HP: 19, Mana: 6/8
+  Hand (10)
+[Turn 9, Step 25] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 공격 - Hench-Clan Sneak[3/1] -> Rexxar
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 29] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/10
+  Hand (5): Foe Reaper 4000, Blatant Decoy, Ice Barrier, Archivist Elysiana, Coldlight Seer
+  Field: Temple Berserker[3/1], Sabretooth Stalker[8/2], Hench-Clan Sneak[3/1], Gnomish Experimenter[3/1], Mad Bomber[3/2], Depth Charge[0/5]
+Opponent: Rexxar HP: 15, Mana: 9/9
+  Hand (10)
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Dollmaster Dorian
+[Turn 10, Step 32] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 10, Step 33] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Spark Drill (코스트: 6)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 34] Opponent: 공격 - Spark Drill[5/1] -> Coldlight Seer
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Foe Reaper 4000, Blatant Decoy, Archivist Elysiana, Bluegill Warrior, Ice Rager
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (9)
+  Field: Dragonling Mechanic[2/4], Mechanical Dragonling[2/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Dragonling Mechanic
+[Turn 10, Step 36] Agent: 카드 플레이 - Foe Reaper 4000 (코스트: 8)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Mechanical Dragonling[2/1] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (4): Blatant Decoy, Archivist Elysiana, Ice Rager, Scaled Nightmare
+  Field: Foe Reaper 4000[6/9], Bluegill Warrior[2/1]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+  Field: Dragonling Mechanic[2/3], Mechanical Dragonling[2/1]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Darkspeaker -> Dragonling Mechanic (코스트: 5)
+[Turn 10, Step 40] Opponent: 공격 - Mechanical Dragonling[2/1] -> Foe Reaper 4000
+[Turn 10, Step 40] Opponent: 카드 플레이 - Stormhammer (코스트: 3)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 40] Opponent: 공격 - Spark[1/1] -> Foe Reaper 4000
+[Turn 10, Step 40] Opponent: 공격 - Dragonling Mechanic[3/6] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 공격 - Rexxar[3/15] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 42] Agent: 공격 - Foe Reaper 4000[6/6] -> Dragonling Mechanic
+[Turn 10, Step 43] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 10, Step 44] Agent: 공격 - Bluegill Warrior[2/1] -> Darkspeaker
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (4): Blatant Decoy, Archivist Elysiana, Ice Rager, Scaled Nightmare
+  Field: Foe Reaper 4000[6/3], Alarm-o-Bot[0/3]
+Opponent: Rexxar HP: 15, Mana: 1/10
+  Hand (7)
+  Field: Darkspeaker[2/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Rexxar[3/15] -> Foe Reaper 4000
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 48] Agent: 선택 - Living Monument
+[Turn 10, Step 48] Agent: 선택 - Burly Rockjaw Trogg
+[Turn 10, Step 48] Agent: 선택 - Mountain Giant
+[Turn 10, Step 48] Agent: 선택 - Snowflipper Penguin
+[Turn 10, Step 48] Agent: 선택 - Gilblin Stalker
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 공격 - Archivist Elysiana[7/7] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (4): Hecklebot, Blatant Decoy, Alarm-o-Bot, Mountain Giant
+  Field: Scaled Nightmare[4/8], Ice Rager[5/2], Archivist Elysiana[7/7]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (9)
+  Field: Darkspeaker[2/1]
+[Turn 10, Step 50] Agent: 카드 플레이 - Mountain Giant (코스트: 9)
+[Turn 10, Step 51] Agent: 공격 - Scaled Nightmare[4/8] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (3): Hecklebot, Blatant Decoy, Alarm-o-Bot
+  Field: Scaled Nightmare[4/8], Ice Rager[5/2], Archivist Elysiana[7/7], Mountain Giant[8/8]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+  Field: Darkspeaker[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

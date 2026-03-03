@@ -1,0 +1,461 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Target Dummy
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Bonechewer Brawler, Kalecgos, Illuminator, Temple Berserker, Soldier of Fortune, Meteorologist, Finja, the Flying Star
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Target Dummy[0/1]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Rat Pack (코스트: 3)
+[Turn 4, Step 7] Opponent: 카드 플레이 - Freezing Trap (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(71) → 6로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Finja, the Flying Star (코스트: 5)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 5, Step 9] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/6
+  Hand (9): Rumbletusk Shaker, Bonechewer Brawler, Kalecgos, Illuminator, Temple Berserker, Soldier of Fortune, Meteorologist, Crazed Alchemist, Fire Hawk
+  Field: Finja, the Flying Star[2/4], Hellfire Warder[1/3], Hellfire Warder[1/3], Hellfire Warder[1/3]
+Opponent: Rexxar HP: 29, Mana: 0/6
+  Hand (5)
+  Field: Target Dummy[0/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Crazed Alchemist -> Hellfire Warder (코스트: 2)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 6, Step 12] Agent: 공격 - Hellfire Warder[3/1] -> Target Dummy
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(50) → 4로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Temple Berserker (코스트: 2)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/7
+  Hand (8): Rumbletusk Shaker, Bonechewer Brawler, Kalecgos, Hellfire Warder, Soldier of Fortune, Meteorologist, Fire Hawk, Captain's Parrot
+  Field: Finja, the Flying Star[2/4], Hellfire Warder[1/3], Hellfire Warder[1/3], Crazed Alchemist[2/2], Illuminator[2/4], Temple Berserker[1/2]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (6)
+  Field: Target Dummy[0/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(64) → 20로 보정
+[Turn 7, Step 15] Agent: 공격 - Crazed Alchemist[2/2] -> Target Dummy
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(71) → 23로 보정
+[Turn 7, Step 16] Agent: 공격 - Illuminator[2/4] -> Rat Pack
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(79) → 1로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Rumbletusk Shaker (코스트: 4)
+[Turn 7, Step 18] Agent: 공격 - Finja, the Flying Star[2/4] -> Rat Pack
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(16) → 7로 보정
+[Turn 7, Step 19] Agent: 공격 - Hellfire Warder[1/3] -> Rat Pack
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/7
+  Hand (7): Bonechewer Brawler, Kalecgos, Hellfire Warder, Soldier of Fortune, Meteorologist, Fire Hawk, Captain's Parrot
+  Field: Finja, the Flying Star[2/2], Hellfire Warder[1/3], Hellfire Warder[1/1], Crazed Alchemist[2/2], Illuminator[2/2], Temple Berserker[1/2], Rumbletusk Shaker[3/2]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (6)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 7, Step 20] Agent: 공격 - Hellfire Warder[1/3] -> Rat Pack
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(86) → 28로 보정
+[Turn 8, Step 23] Agent: 공격 - Rumbletusk Shaker[3/2] -> Rat Pack
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(82) → 20로 보정
+[Turn 8, Step 24] Agent: 공격 - Crazed Alchemist[2/2] -> Rat Pack
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/8
+  Hand (8): Bonechewer Brawler, Kalecgos, Hellfire Warder, Soldier of Fortune, Meteorologist, Fire Hawk, Captain's Parrot, Wretched Tiller
+  Field: Finja, the Flying Star[2/2], Hellfire Warder[1/1], Hellfire Warder[1/1], Illuminator[2/2], Temple Berserker[1/2], Rumbletusk Breaker[3/2]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (7)
+  Field: Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Hellfire Warder[1/1] -> Rat Pack
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 8, Step 27] Agent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(47) → 22로 보정
+[Turn 8, Step 28] Agent: 공격 - Temple Berserker[1/2] -> Rat Pack
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 8, Step 29] Agent: 공격 - Finja, the Flying Star[2/2] -> Rat Pack
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/8
+  Hand (6): Bonechewer Brawler, Kalecgos, Hellfire Warder, Meteorologist, Fire Hawk, Captain's Parrot
+  Field: Hellfire Warder[1/1], Illuminator[2/2], Temple Berserker[3/1], Rumbletusk Breaker[3/2], Soldier of Fortune[5/6], Wretched Tiller[1/1]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (7)
+  Field: Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 8, Step 30] Agent: 공격 - Illuminator[2/2] -> Rat Pack
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 8, Step 31] Agent: 공격 - Hellfire Warder[1/1] -> Rat Pack
+[Turn 8, Step 32] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 8, Step 32] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 32] Opponent: 공격 - Rat Pack[2/2] -> Soldier of Fortune
+[Turn 8, Step 32] Opponent: 공격 - Rat Pack[2/2] -> Temple Berserker
+[Turn 8, Step 32] Opponent: 공격 - Rat Pack[2/2] -> Soldier of Fortune
+[Turn 8, Step 32] Opponent: 공격 - Rat Pack[2/2] -> Wretched Tiller
+[Turn 8, Step 32] Opponent: 공격 - Rat Pack[2/1] -> Soldier of Fortune
+[Turn 8, Step 32] Opponent: 턴 종료
+[Turn 9, Step 33] Agent: 카드 플레이 - Captain's Parrot (코스트: 2)
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(42) → 19로 보정
+[Turn 9, Step 34] Agent: 공격 - Rumbletusk Breaker[3/2] -> Rat Pack
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/9
+  Hand (6): Bonechewer Brawler, Kalecgos, Hellfire Warder, Meteorologist, Fire Hawk, Frostwolf Warlord
+  Field: Captain's Parrot[1/1]
+Opponent: Rexxar HP: 29, Mana: 9/9
+  Hand (8)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 9, Step 35] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 36] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 9, Step 36] Agent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 9, Step 37] Agent: 유효하지 않은 액션 인덱스(89) → 2로 보정
+[Turn 9, Step 37] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 9, Step 38] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 9, Step 38] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 38] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Brawler
+[Turn 9, Step 38] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Brawler
+[Turn 9, Step 38] Opponent: 영웅 능력 사용
+[Turn 9, Step 38] Opponent: 공격 - Rat Pack[2/2] -> Fire Hawk
+[Turn 9, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 10, Step 39] Agent: 공격 - Captain's Parrot[1/1] -> Rat Pack
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Kalecgos, Hellfire Warder, Meteorologist, Frostwolf Warlord, Stormwind Champion
+  Field: Fire Hawk[9/1]
+Opponent: Rexxar HP: 29, Mana: 8/10
+  Hand (9)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(56) → 12로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 10, Step 41] Agent: 공격 - Fire Hawk[9/1] -> Rat Pack
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 공격 - Rat Pack[2/2] -> Meteorologist
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (5): Kalecgos, Hellfire Warder, Frostwolf Warlord, Stormwind Champion, Holomancer
+  Field: Meteorologist[3/1]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 46] Agent: 공격 - Meteorologist[3/1] -> Rat Pack
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Hellfire Warder (코스트: 3)
+[Turn 10, Step 48] Agent: 공격 - Hellfire Warder[1/3] -> Rat Pack
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Rat Pack[2/2] -> Hellfire Warder
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (4): Kalecgos, Stormwind Champion, Holomancer, Mekgineer Thermaplugg
+  Field: Frostwolf Warlord[5/5]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 10, Step 51] Agent: 공격 - Frostwolf Warlord[5/5] -> Rat Pack
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/2] -> Holomancer
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/1] -> Frostwolf Warlord
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/1] -> Holomancer
+[Turn 10, Step 52] Opponent: 공격 - Rat Pack[2/2] -> Frostwolf Warlord
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (3): Kalecgos, Mekgineer Thermaplugg, Bonechewer Vanguard
+  Field: Stormwind Champion[6/6]
+Opponent: Rexxar HP: 28, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Stormwind Champion[6/6] -> Rat Pack
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(68) → 12로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Stormwind Champion
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Rat Pack[2/2] -> Stormwind Champion
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Stormwind Champion[6/1] -> Rat Pack
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Bonemare, Kalecgos, Mekgineer Thermaplugg, Bonechewer Vanguard, Argent Commander
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(83) → 17로 보정
+[Turn 10, Step 63] Agent: 공격 - Bonechewer Vanguard[4/10] -> Rat Pack
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Rat Pack
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (5): Bonemare, Kalecgos, Mekgineer Thermaplugg, Argent Commander, Sludge Belcher
+  Field: Bonechewer Vanguard[4/8]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Bonemare -> Bonechewer Vanguard (코스트: 8)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 영웅 능력 사용
+[Turn 10, Step 66] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Vanguard
+[Turn 10, Step 66] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Vanguard
+[Turn 10, Step 66] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Vanguard
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 10, Step 67] Agent: 공격 - Bonechewer Vanguard[8/6] -> Rexxar
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(86) → 9로 보정
+[Turn 10, Step 69] Agent: 공격 - Bonemare[5/5] -> Rat Pack
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (5): Kalecgos, Mekgineer Thermaplugg, Argent Commander, Sludge Belcher, SN1P-SN4P
+  Field: Bonechewer Vanguard[8/6], Bonemare[5/3]
+Opponent: Rexxar HP: 20, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 10, Step 71] Agent: 공격 - Argent Commander[4/2] -> Rat Pack
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(95) → 19로 보정
+[Turn 10, Step 73] Agent: 공격 - Bonechewer Vanguard[8/6] -> Rat Pack
+[Turn 10, Step 74] Agent: 공격 - Argent Commander[4/2] -> Rat Pack
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (5): Kalecgos, Mekgineer Thermaplugg, Sludge Belcher, SN1P-SN4P, Witchwood Piper
+  Field: Bonechewer Vanguard[8/4], Bonemare[5/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Vanguard
+[Turn 10, Step 75] Opponent: 공격 - Rat Pack[2/2] -> Bonechewer Vanguard
+[Turn 10, Step 75] Opponent: 공격 - Rat Pack[2/2] -> Bonemare
+[Turn 10, Step 75] Opponent: 공격 - Rat Pack[2/2] -> Bonemare
+[Turn 10, Step 75] Opponent: 영웅 능력 사용
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 5)
+[Turn 10, Step 78] Agent: 선택 - Volcanic Potion
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(76) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 공격 - Rat Pack[2/2] -> SN1P-SN4P
+[Turn 10, Step 79] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+[Turn 10, Step 79] Opponent: 공격 - Rat Pack[2/1] -> SN1P-SN4P
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (6): Kalecgos, Mekgineer Thermaplugg, Sludge Belcher, Witchwood Piper, Volcanic Potion, Living Monument
+  Field: Ethereal Conjurer[6/3], Microbot[1/1], Microbot[1/1]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(71) → 32로 보정
+[Turn 10, Step 80] Agent: 공격 - Microbot[1/1] -> Rexxar
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(52) → 20로 보정
+[Turn 10, Step 81] Agent: 공격 - Ethereal Conjurer[6/3] -> Rat Pack
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(87) → 12로 보정
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(28) → 6로 보정
+[Turn 10, Step 83] Agent: 공격 - Microbot[1/1] -> Rat Pack
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 4/10
+  Hand (6): Kalecgos, Mekgineer Thermaplugg, Sludge Belcher, Volcanic Potion, Living Monument, Evasive Chimaera
+  Field: Ethereal Conjurer[6/1], Microbot[1/1], Witchwood Piper[3/3]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Magtheridon[12/12]
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(69) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(98) → 18로 보정
+[Turn 10, Step 86] Agent: 영웅 능력 사용 -> Witchwood Piper
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 87] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 87] Opponent: 공격 - Rat Pack[2/1] -> Witchwood Piper
+[Turn 10, Step 87] Opponent: 턴 종료
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(74) → 8로 보정
+[Turn 10, Step 88] Agent: 카드 플레이 - Frozen Clone (코스트: 3)
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (8): Kalecgos, Mekgineer Thermaplugg, Sludge Belcher, Volcanic Potion, Living Monument, Evasive Chimaera, Bloodworm, Backstreet Leper
+  Field: Ethereal Conjurer[6/1], Microbot[1/1]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(90) → 24로 보정
+[Turn 10, Step 90] Agent: 공격 - Ethereal Conjurer[6/1] -> Rat Pack
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(36) → 11로 보정
+[Turn 10, Step 91] Agent: 영웅 능력 사용 -> Rat Pack
+[Turn 10, Step 92] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(41) → 8로 보정
+[Turn 10, Step 93] Agent: 공격 - Microbot[1/1] -> Rat Pack
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 10, Step 94] Agent: 카드 플레이 - Backstreet Leper (코스트: 3)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 0/10
+  Hand (6): Kalecgos, Mekgineer Thermaplugg, Volcanic Potion, Living Monument, Evasive Chimaera, Bloodworm
+  Field: Sludge Belcher[3/5], Backstreet Leper[3/1]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (10)
+  Field: Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+[Turn 10, Step 95] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 95] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 95] Opponent: 영웅 능력 사용
+[Turn 10, Step 95] Opponent: 공격 - Rat Pack[2/1] -> Sludge Belcher
+[Turn 10, Step 95] Opponent: 공격 - Rat Pack[2/2] -> Sludge Belcher
+[Turn 10, Step 95] Opponent: 공격 - Rat Pack[2/1] -> Sludge Belcher
+[Turn 10, Step 95] Opponent: 공격 - Rat Pack[2/2] -> Putrid Slime
+[Turn 10, Step 95] Opponent: 공격 - Rat Pack[2/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 96) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (6): Kalecgos, Mekgineer Thermaplugg, Volcanic Potion, Living Monument, Evasive Chimaera, Bloodworm
+  Field: Backstreet Leper[3/1]
+Opponent: Rexxar HP: 18, Mana: 8/10
+  Hand (10)
+  Field: Rat Pack[2/2], Rat Pack[2/2], Rat Pack[2/1], Rat Pack[2/1], Rat Pack[2/2], Rat Pack[2/2], Magtheridon[12/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

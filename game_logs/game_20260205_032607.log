@@ -1,0 +1,463 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Ethereal Augmerchant (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Ethereal Augmerchant
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/3
+  Hand (4): C'Thun's Chosen, Master of Ceremonies, Living Monument, Crazed Alchemist
+  Field: Violet Spellwing[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(22) → 6로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Violet Spellwing
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(11) → 2로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/5
+  Hand (6): C'Thun's Chosen, Master of Ceremonies, Living Monument, Crazed Alchemist, Pit Fighter, Worgen Abomination
+Opponent: Rexxar HP: 26, Mana: 2/4
+  Hand (7)
+  Field: Bloodsail Raider[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Crazed Alchemist -> Bloodsail Raider (코스트: 2)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 6, Step 14] Agent: 공격 - Crazed Alchemist[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/6
+  Hand (5): C'Thun's Chosen, Living Monument, Pit Fighter, Worgen Abomination, Volatile Elemental
+  Field: Crazed Alchemist[2/2], Master of Ceremonies[4/2]
+Opponent: Rexxar HP: 23, Mana: 5/5
+  Hand (8)
+  Field: Bloodsail Raider[3/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(20) → 5로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 7, Step 17] Agent: 선택 - Violet Spellwing
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Crazed Alchemist
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 7, Step 18] Agent: 공격 - Crazed Alchemist[2/1] -> Bloodsail Raider
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 7, Step 19] Agent: 공격 - Master of Ceremonies[4/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (5): C'Thun's Chosen, Living Monument, Pit Fighter, Worgen Abomination, Volatile Elemental
+  Field: Master of Ceremonies[4/2], Body Wrapper[4/4]
+Opponent: Rexxar HP: 19, Mana: 6/6
+  Hand (9)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 8, Step 23] Agent: 공격 - Master of Ceremonies[4/2] -> Rexxar
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (4): Living Monument, Pit Fighter, Worgen Abomination, Nat, the Darkfisher
+  Field: Master of Ceremonies[4/2], Body Wrapper[4/4], Volatile Elemental[1/1], C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 15, Mana: 7/7
+  Hand (10)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Rotten Applebaum (코스트: 5)
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 9, Step 28] Agent: 공격 - C'Thun's Chosen[4/2] -> Rotten Applebaum
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Disciple of C'Thun -> Worgen Abomination (코스트: 3)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Maiev Shadowsong -> Worgen Abomination (코스트: 4)
+[Turn 9, Step 29] Opponent: 영웅 능력 사용
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (5): Living Monument, Pit Fighter, Nat, the Darkfisher, Gnomeregan Infantry, Night Prowler
+  Field: Master of Ceremonies[4/2], Body Wrapper[4/4], Volatile Elemental[1/1], C'Thun's Chosen[4/2], Worgen Abomination[6/4]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (8)
+  Field: Disciple of C'Thun[2/1], Maiev Shadowsong[4/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(89) → 4로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(28) → 13로 보정
+[Turn 10, Step 32] Agent: 공격 - C'Thun's Chosen[4/2] -> Disciple of C'Thun
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 33] Agent: 공격 - Body Wrapper[4/4] -> Maiev Shadowsong
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (3): Living Monument, Pit Fighter, Gnomeregan Infantry
+  Field: Master of Ceremonies[4/2], Volatile Elemental[1/1], Worgen Abomination[6/4], Night Prowler[3/3], Nat, the Darkfisher[2/4]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (8)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Waste Warden -> Master of Ceremonies (코스트: 5)
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (4): Living Monument, Gnomeregan Infantry, Eldritch Horror, Doomsayer
+  Field: Volatile Elemental[1/1], Worgen Abomination[6/1], Night Prowler[3/3], Nat, the Darkfisher[2/1], Pit Fighter[5/3]
+Opponent: Rexxar HP: 18, Mana: 3/10
+  Hand (9)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(78) → 10로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Nat, the Darkfisher
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 42] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 43] Agent: 공격 - Night Prowler[3/3] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Pit Fighter[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (3): Living Monument, Eldritch Horror, Doomsayer
+  Field: Volatile Elemental[1/1], Worgen Abomination[6/1], Night Prowler[3/3], Pit Fighter[5/3], Gnomeregan Infantry[1/4]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 10, Step 46] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Baron Rivendare (코스트: 4)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(16) → 4로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Microbot
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 10, Step 49] Opponent: 공격 - Microbot[1/1] -> Jaina Proudmoore
+[Turn 10, Step 49] Opponent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+[Turn 10, Step 49] Opponent: 영웅 능력 사용
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (4): Living Monument, Eldritch Horror, Quicksand Elemental, Jar Dealer
+  Field: Baron Rivendare[1/7]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (8)
+  Field: Microbot[1/1], Tanglefur Mystic[3/4], Backroom Bouncer[4/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Microbot
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 53] Agent: 공격 - Baron Rivendare[1/7] -> Backroom Bouncer
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 5/10
+  Hand (3): Living Monument, Eldritch Horror, Darkmire Moonkin
+  Field: Baron Rivendare[1/4], Quicksand Elemental[3/2], Jar Dealer[1/1]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (9)
+  Field: Tanglefur Mystic[1/4], Backroom Bouncer[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 10, Step 55] Opponent: 공격 - Tanglefur Mystic[3/4] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 카드 플레이 - Toxfin (코스트: 1)
+[Turn 10, Step 55] Opponent: 공격 - Backroom Bouncer[5/3] -> Quicksand Elemental
+[Turn 10, Step 55] Opponent: 카드 플레이 - Scorp-o-matic -> Baron Rivendare (코스트: 2)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jar Dealer
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (4): Living Monument, Eldritch Horror, Violet Spellsword, Goldshire Footman
+  Field: Worgen Infiltrator[2/1], Darkmire Moonkin[2/8]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (8)
+  Field: Tanglefur Mystic[3/4], Wyrmrest Purifier[3/2], Toxfin[1/2], Scorp-o-matic[1/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(36) → 13로 보정
+[Turn 10, Step 60] Agent: 공격 - Worgen Infiltrator[2/1] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(27) → 9로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Toxfin
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 64] Agent: 공격 - Darkmire Moonkin[2/8] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 3/10
+  Hand (2): Living Monument, Eldritch Horror
+  Field: Worgen Infiltrator[2/1], Darkmire Moonkin[2/8], Violet Spellsword[1/6], Goldshire Footman[1/2]
+Opponent: Rexxar HP: 5, Mana: 10/10
+  Hand (8)
+  Field: Tanglefur Mystic[3/4], Wyrmrest Purifier[3/2], Toxfin[1/1], Scorp-o-matic[1/2]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Scorp-o-matic[1/2] -> Goldshire Footman
+[Turn 10, Step 65] Opponent: 카드 플레이 - Rusty Recycler (코스트: 5)
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Tanglefur Mystic
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 68] Agent: 공격 - Goldshire Footman[1/1] -> Rusty Recycler
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 69] Agent: 공격 - Worgen Infiltrator[2/1] -> Rusty Recycler
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 0/10
+  Hand (2): Living Monument, Eldritch Horror
+  Field: Darkmire Moonkin[2/8], Violet Spellsword[1/6], Marin the Fox[6/6]
+Opponent: Rexxar HP: 9, Mana: 5/10
+  Hand (8)
+  Field: Tanglefur Mystic[3/3], Wyrmrest Purifier[3/2], Toxfin[1/1], Scorp-o-matic[1/1], Rusty Recycler[2/3], Master Chest[0/8]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 공격 - Scorp-o-matic[1/1] -> Marin the Fox
+[Turn 10, Step 70] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 10, Step 70] Opponent: 공격 - Tanglefur Mystic[3/3] -> Violet Spellsword
+[Turn 10, Step 70] Opponent: 공격 - Toxfin[1/1] -> Violet Spellsword
+[Turn 10, Step 70] Opponent: 카드 플레이 - Lance Carrier -> Rusty Recycler (코스트: 2)
+[Turn 10, Step 70] Opponent: 공격 - Wyrmrest Purifier[3/2] -> Violet Spellsword
+[Turn 10, Step 70] Opponent: 공격 - Rusty Recycler[4/3] -> Marin the Fox
+[Turn 10, Step 70] Opponent: 영웅 능력 사용
+[Turn 10, Step 70] Opponent: 공격 - Master Chest[1/9] -> Darkmire Moonkin
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(35) → 10로 보정
+[Turn 10, Step 71] Agent: 영웅 능력 사용 -> Master Chest
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 10, Step 72] Agent: 공격 - Darkmire Moonkin[2/7] -> Lance Carrier
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 카드 플레이 - Vryghoul (코스트: 3)
+[Turn 10, Step 73] Opponent: 공격 - Lance Carrier[2/1] -> Marin the Fox
+[Turn 10, Step 73] Opponent: 공격 - Master Chest[1/6] -> Jaina Proudmoore
+[Turn 10, Step 73] Opponent: 카드 플레이 - Master's Call (코스트: 3)
+[Turn 10, Step 73] Opponent: 선택 - Arcane Fletcher
+[Turn 10, Step 73] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 73] Opponent: 턴 종료
+[Turn 10, Step 74] Agent: 카드 플레이 - Eldritch Horror (코스트: 8)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (3): Living Monument, Ravasaur Runt, Shu'ma
+  Field: Darkmire Moonkin[2/5], Eldritch Horror[6/10]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: Tanglefur Mystic[4/3], Wyrmrest Purifier[4/2], Master Chest[1/6], Mukla's Champion[5/4], Vryghoul[3/1], Arcane Fletcher[3/3]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(46) → 8로 보정
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Mukla's Champion
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(44) → 15로 보정
+[Turn 10, Step 77] Agent: 공격 - Darkmire Moonkin[2/5] -> Rexxar
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(43) → 21로 보정
+[Turn 10, Step 78] Agent: 공격 - Eldritch Horror[6/10] -> Arcane Fletcher
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (5): Living Monument, Ravasaur Runt, Shu'ma, Sated Threshadon, Shattered Sun Cleric
+  Field: Darkmire Moonkin[2/5], Eldritch Horror[6/7]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (8)
+  Field: Tanglefur Mystic[4/3], Wyrmrest Purifier[4/2], Master Chest[1/6], Mukla's Champion[5/3], Vryghoul[3/1]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Wyrmrest Purifier
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Shattered Sun Cleric -> Eldritch Horror (코스트: 3)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(20) → 6로 보정
+[Turn 10, Step 82] Agent: 공격 - Darkmire Moonkin[2/5] -> Mukla's Champion
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 10, Step 83] Agent: 공격 - Eldritch Horror[7/8] -> Master Chest
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 84] Agent: 카드 플레이 - Zarog's Crown (코스트: 3)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (4): Living Monument, Ravasaur Runt, Shu'ma, Sated Threshadon
+  Field: Eldritch Horror[7/7], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (8)
+  Field: Tanglefur Mystic[4/3], Wyrmrest Purifier[4/1], Mukla's Champion[5/1], Vryghoul[3/1]
+[Turn 10, Step 85] Agent: 선택 - Jan'alai, the Dragonhawk
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 85] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 85] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 10, Step 85] Opponent: 턴 종료
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(53) → 23로 보정
+[Turn 10, Step 86] Agent: 공격 - Shattered Sun Cleric[3/2] -> Mukla's Champion
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(32) → 11로 보정
+[Turn 10, Step 87] Agent: 영웅 능력 사용 -> Eldritch Horror
+[Turn 10, Step 88] Agent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 89] Agent: 공격 - Eldritch Horror[7/6] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 1/10
+  Hand (4): Blood of The Ancient One, Living Monument, Ravasaur Runt, Shu'ma
+  Field: Eldritch Horror[7/6], Jan'alai, the Dragonhawk[4/4], Sated Threshadon[5/7]
+Opponent: Rexxar HP: 4, Mana: 8/10
+  Hand (8)
+  Field: Tanglefur Mystic[4/3], Wyrmrest Purifier[4/1], Vryghoul[3/1], Ironfur Grizzly[3/3]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 10, Step 90] Agent: 공격 - Jan'alai, the Dragonhawk[4/4] -> Ironfur Grizzly
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(45) → 19로 보정
+[Turn 10, Step 92] Agent: 공격 - Jan'alai, the Dragonhawk[4/1] -> Tanglefur Mystic
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 93] Agent: 카드 플레이 - Shu'ma (코스트: 7)
+[Turn 10, Step 94] Agent: 유효하지 않은 액션 인덱스(73) → 13로 보정
+[Turn 10, Step 94] Agent: 공격 - Sated Threshadon[5/7] -> Wyrmrest Purifier
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/10
+  Hand (4): Blood of The Ancient One, Living Monument, Ravasaur Runt, Steel Rager
+  Field: Eldritch Horror[7/6], Sated Threshadon[5/3], Shu'ma[1/7]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (8)
+  Field: Vryghoul[3/1]
+[Turn 10, Step 95] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 96] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 96] Agent: 공격 - Eldritch Horror[7/6] -> Vryghoul
+[Turn 10, Step 97] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 97] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 98) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 1/10
+  Hand (4): Blood of The Ancient One, Living Monument, Ravasaur Runt, Steel Rager
+  Field: Eldritch Horror[7/3], Sated Threshadon[5/3], Tentacle[1/1], Tentacle[1/1], Shu'ma[1/7], Tentacle[1/1], Tentacle[1/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+  Field: Ghoul[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

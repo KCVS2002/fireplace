@@ -1,0 +1,276 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Tuskarr Fisherman (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(59) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 3, Step 3] Agent: 공격 - Tuskarr Fisherman[2/3] -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Spiteful Summoner, Sorcerer's Apprentice, Spitting Camel, Mekgineer Thermaplugg, Wild Pyromancer, Witchwood Grizzly
+  Field: Tuskarr Fisherman[2/3]
+Opponent: Rexxar HP: 28, Mana: 3/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Sorcerer's Apprentice (코스트: 2)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 5, Step 7] Opponent: 카드 플레이 - Burrowing Scorpid -> Sorcerer's Apprentice (코스트: 4)
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 6, Step 8] Agent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(23) → 11로 보정
+[Turn 6, Step 9] Agent: 공격 - Wolfrider[3/1] -> Clockwork Gnome
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/6
+  Hand (6): Spiteful Summoner, Spitting Camel, Mekgineer Thermaplugg, Wild Pyromancer, Witchwood Grizzly, Molten Giant
+  Field: Tuskarr Fisherman[2/3]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (6)
+  Field: Escaped Manasaber[3/5], Burrowing Scorpid[5/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 6, Step 10] Agent: 공격 - Tuskarr Fisherman[2/3] -> Rexxar
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Waste Warden -> Escaped Manasaber (코스트: 5)
+[Turn 6, Step 12] Opponent: 공격 - Escaped Manasaber[3/2] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(63) → 15로 보정
+[Turn 7, Step 13] Agent: 공격 - Spitting Camel[2/1] -> Waste Warden
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 7, Step 14] Agent: 공격 - Tuskarr Fisherman[2/2] -> Escaped Manasaber
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (6): Spiteful Summoner, Mekgineer Thermaplugg, Wild Pyromancer, Witchwood Grizzly, Molten Giant, Ozruk
+Opponent: Rexxar HP: 26, Mana: 1/6
+  Hand (6)
+  Field: Waste Warden[3/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Waste Warden
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Witchwood Grizzly (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/8
+  Hand (5): Spiteful Summoner, Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer
+  Field: Wild Pyromancer[3/2], Witchwood Grizzly[3/11]
+Opponent: Rexxar HP: 25, Mana: 7/7
+  Hand (7)
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Kael'thas Sunstrider (코스트: 7)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(25) → 10로 보정
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Kael'thas Sunstrider
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Spiteful Summoner (코스트: 6)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 9, Step 23] Agent: 공격 - Wild Pyromancer[3/2] -> Kael'thas Sunstrider
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 9, Step 24] Agent: 공격 - Witchwood Grizzly[3/11] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/9
+  Hand (5): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Dragonmaw Scorcher
+  Field: Witchwood Grizzly[3/11], Spiteful Summoner[4/4], Kaboom Bot[2/2]
+Opponent: Rexxar HP: 22, Mana: 1/8
+  Hand (7)
+  Field: Kael'thas Sunstrider[4/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(25) → 4로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(98) → 23로 보정
+[Turn 10, Step 28] Agent: 공격 - Dragonmaw Scorcher[3/6] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(67) → 21로 보정
+[Turn 10, Step 29] Agent: 공격 - Kaboom Bot[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (6): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Dark Iron Dwarf, Scorp-o-matic
+  Field: Witchwood Grizzly[3/10], Spiteful Summoner[4/3], Kaboom Bot[2/1], Dragonmaw Scorcher[3/6]
+Opponent: Rexxar HP: 17, Mana: 3/10
+  Hand (8)
+  Field: Kael'thas Sunstrider[4/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(59) → 17로 보정
+[Turn 10, Step 30] Agent: 공격 - Witchwood Grizzly[3/10] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(84) → 8로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Dark Iron Dwarf -> Dragonmaw Scorcher (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Spiteful Summoner
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Marked Shot -> Spiteful Summoner (코스트: 4)
+[Turn 10, Step 34] Opponent: 선택 - Grievous Bite
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Kobold Monk
+  Field: Witchwood Grizzly[3/10], Kaboom Bot[2/1], Dragonmaw Scorcher[3/6], Dark Iron Dwarf[4/4], Scorp-o-matic[1/2]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (9)
+  Field: Kael'thas Sunstrider[4/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(71) → 23로 보정
+[Turn 10, Step 36] Agent: 공격 - Scorp-o-matic[1/2] -> Kael'thas Sunstrider
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Kael'thas Sunstrider[4/1] -> Witchwood Grizzly
+[Turn 10, Step 37] Opponent: 공격 - Rexxar[5/14] -> Witchwood Grizzly
+[Turn 10, Step 37] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Justicar Trueheart (코스트: 6)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(74) → 20로 보정
+[Turn 10, Step 38] Agent: 공격 - Kaboom Bot[2/1] -> Justicar Trueheart
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(80) → 4로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (6): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Tomb Spider, Dread Raven
+  Field: Witchwood Grizzly[3/1], Dragonmaw Scorcher[3/6], Dark Iron Dwarf[4/4], Kobold Monk[3/6]
+Opponent: Rexxar HP: 14, Mana: 3/10
+  Hand (8)
+  Field: Depth Charge[0/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(64) → 13로 보정
+[Turn 10, Step 40] Agent: 공격 - Dragonmaw Scorcher[3/6] -> Rexxar
+[Turn 10, Step 41] Agent: 공격 - Witchwood Grizzly[3/1] -> Depth Charge
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 43] Agent: 선택 - Giant Mastodon
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 10, Step 44] Agent: 공격 - Dark Iron Dwarf[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (6): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Dread Raven, Giant Mastodon
+  Field: Witchwood Grizzly[3/1], Dragonmaw Scorcher[3/6], Dark Iron Dwarf[4/4], Kobold Monk[3/6], Tomb Spider[3/3]
+Opponent: Rexxar HP: 7, Mana: 3/10
+  Hand (8)
+  Field: Depth Charge[0/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Rexxar[5/7] -> Dragonmaw Scorcher
+[Turn 10, Step 45] Opponent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Grievous Bite -> Ogre Magi (코스트: 2)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Metaltooth Leaper (코스트: 3)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(35) → 9로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Metaltooth Leaper
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (6): Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Giant Mastodon, Grimestreet Smuggler
+  Field: Kobold Monk[3/1], Abomination[4/4], Dread Raven[6/4]
+Opponent: Rexxar HP: 7, Mana: 2/10
+  Hand (6)
+  Field: Ogre Magi[4/1], Toshley[5/5], Metaltooth Leaper[3/2], Wax Elemental[0/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 카드 플레이 - Finicky Cloakfield -> Wax Elemental (코스트: 1)
+[Turn 10, Step 50] Opponent: 공격 - Metaltooth Leaper[3/2] -> Abomination
+[Turn 10, Step 50] Opponent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Finicky Cloakfield -> Ogre Magi (코스트: 1)
+[Turn 10, Step 50] Opponent: 공격 - Toshley[5/5] -> Abomination
+[Turn 10, Step 50] Opponent: 카드 플레이 - Reversing Switch -> Wax Elemental (코스트: 1)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(68) → 12로 보정
+[Turn 10, Step 51] Agent: 공격 - Dread Raven[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Clockwork Automaton, Mekgineer Thermaplugg, Molten Giant, Ozruk, Azure Explorer, Giant Mastodon, Grimestreet Smuggler
+  Field: Dread Raven[6/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (4)
+  Field: Kobold Stickyfinger[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

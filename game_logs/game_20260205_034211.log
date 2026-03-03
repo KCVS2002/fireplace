@@ -1,0 +1,380 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (7): Recurring Villain, Acolyte of Pain, Emperor Thaurissan, Dragon's Breath, Dollmaster Dorian, Breath of Sindragosa, Saronite Chain Gang
+  Field: Nat Pagle[0/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Spark Engine[2/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Saronite Chain Gang
+[Turn 5, Step 9] Agent: 공격 - Saronite Chain Gang[2/3] -> Spark Engine
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/5
+  Hand (6): Recurring Villain, Emperor Thaurissan, Dragon's Breath, Dollmaster Dorian, Breath of Sindragosa, Evasive Wyrm
+  Field: Nat Pagle[0/4], Saronite Chain Gang[2/1], Saronite Chain Gang[2/2], Acolyte of Pain[1/3]
+Opponent: Rexxar HP: 30, Mana: 2/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 공격 - Saronite Chain Gang[2/2] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Emperor Thaurissan (코스트: 6)
+[Turn 6, Step 13] Agent: 공격 - Saronite Chain Gang[2/1] -> Terrorguard Escapee
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (8): Recurring Villain, Dragon's Breath, Dollmaster Dorian, Breath of Sindragosa, Evasive Wyrm, Worgen Infiltrator, Leyline Manipulator, Garrison Commander
+  Field: Nat Pagle[0/4], Huntress[1/1], Saronite Chain Gang[2/2], Acolyte of Pain[1/3], Emperor Thaurissan[5/5]
+Opponent: Rexxar HP: 28, Mana: 6/6
+  Hand (8)
+  Field: Terrorguard Escapee[3/5]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Saronite Chain Gang
+[Turn 7, Step 16] Agent: 카드 플레이 - Dragon's Breath -> Saronite Chain Gang (코스트: 4)
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 공격 - Emperor Thaurissan[5/5] -> Terrorguard Escapee
+[Turn 8, Step 19] Agent: 공격 - Acolyte of Pain[1/3] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (9): Recurring Villain, Dollmaster Dorian, Breath of Sindragosa, Evasive Wyrm, Worgen Infiltrator, Leyline Manipulator, Garrison Commander, Subject 9, Blizzard
+  Field: Nat Pagle[0/4], Huntress[1/1], Acolyte of Pain[1/3], Emperor Thaurissan[5/2]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (9)
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 카드 플레이 - Evasive Wyrm (코스트: 3)
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 23] Agent: 카드 플레이 - Garrison Commander (코스트: 0)
+[Turn 9, Step 24] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 0)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/9
+  Hand (7): Recurring Villain, Dollmaster Dorian, Breath of Sindragosa, Leyline Manipulator, Subject 9, Blizzard, Elise the Trailblazer
+  Field: Nat Pagle[0/4], Huntress[1/1], Acolyte of Pain[1/3], Emperor Thaurissan[5/2], Evasive Wyrm[5/3], Garrison Commander[2/3], Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 27, Mana: 8/8
+  Hand (10)
+[Turn 9, Step 25] Agent: 공격 - Emperor Thaurissan[5/2] -> Rexxar
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 9, Step 27] Agent: 공격 - Huntress[1/1] -> Rexxar
+[Turn 9, Step 28] Agent: 공격 - Acolyte of Pain[1/3] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (8): Old Murk-Eye, Recurring Villain, Dollmaster Dorian, Breath of Sindragosa, Leyline Manipulator, Subject 9, Blizzard, Elise the Trailblazer
+  Field: Nat Pagle[0/3], Huntress[1/1], Acolyte of Pain[1/3], Emperor Thaurissan[5/2], Evasive Wyrm[5/3], Garrison Commander[2/3], Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 20, Mana: 5/9
+  Hand (9)
+  Field: Phantom Freebooter[3/3]
+[Turn 10, Step 30] Agent: 공격 - Huntress[1/1] -> Phantom Freebooter
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 0)
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 10, Step 34] Agent: 카드 플레이 - Recurring Villain (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/10
+  Hand (6): Old Murk-Eye, Dollmaster Dorian, Leyline Manipulator, Subject 9, Blizzard, Elise the Trailblazer
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/3], Emperor Thaurissan[5/2], Evasive Wyrm[5/3], Garrison Commander[2/3], Recurring Villain[3/6]
+Opponent: Rexxar HP: 20, Mana: 5/9
+  Hand (9)
+[Turn 10, Step 35] Agent: 카드 플레이 - Elise the Trailblazer (코스트: 4)
+[Turn 10, Step 36] Agent: 공격 - Emperor Thaurissan[5/2] -> Rexxar
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 공격 - Elise the Trailblazer[5/5] -> Scarab Egg
+[Turn 10, Step 39] Agent: 공격 - Emperor Thaurissan[5/2] -> Scarab
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (6): Old Murk-Eye, Dollmaster Dorian, Leyline Manipulator, Subject 9, Blizzard, Disguised Wanderer
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/3], Emperor Thaurissan[5/1], Evasive Wyrm[5/3], Garrison Commander[2/3], Recurring Villain[3/6], Elise the Trailblazer[5/5]
+Opponent: Rexxar HP: 15, Mana: 6/10
+  Hand (8)
+  Field: Scarab[1/1], Scarab[1/1], Bug Collector[2/1], Locust[1/1]
+[Turn 10, Step 40] Agent: 공격 - Garrison Commander[2/3] -> Scarab
+[Turn 10, Step 41] Agent: 공격 - Evasive Wyrm[5/3] -> Locust
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Recurring Villain
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Bug Collector
+[Turn 10, Step 44] Agent: 공격 - Recurring Villain[3/5] -> Scarab
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/10
+  Hand (6): Old Murk-Eye, Dollmaster Dorian, Leyline Manipulator, Subject 9, Blizzard, Disguised Wanderer
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/3], Emperor Thaurissan[5/1], Evasive Wyrm[5/3], Garrison Commander[2/2], Recurring Villain[3/4], Elise the Trailblazer[5/5]
+Opponent: Rexxar HP: 15, Mana: 6/10
+  Hand (8)
+[Turn 10, Step 45] Agent: 카드 플레이 - Blizzard (코스트: 3)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 46] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> River Crocolisk
+[Turn 10, Step 48] Agent: 공격 - Recurring Villain[3/4] -> Hyldnir Frostrider
+[Turn 10, Step 49] Agent: 공격 - Evasive Wyrm[5/3] -> River Crocolisk
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (7): Old Murk-Eye, Dollmaster Dorian, Leyline Manipulator, Subject 9, Disguised Wanderer, Wyrmguard, Zoobot
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/3], Emperor Thaurissan[5/1], Evasive Wyrm[5/1], Garrison Commander[2/2], Elise the Trailblazer[5/5]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (6)
+  Field: Recruiter[5/4], Hyldnir Frostrider[4/1]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 51] Agent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Emperor Thaurissan[5/1] -> Recruiter
+[Turn 10, Step 53] Agent: 카드 플레이 - Old Murk-Eye (코스트: 2)
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Hozen Healer -> Zoobot (코스트: 4)
+[Turn 10, Step 54] Opponent: 영웅 능력 사용
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (6): Dollmaster Dorian, Leyline Manipulator, Subject 9, Disguised Wanderer, Wyrmguard, Un'Goro Pack
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/3], Evasive Wyrm[6/2], Garrison Commander[2/2], Elise the Trailblazer[5/5], Zoobot[3/3], Old Murk-Eye[2/4]
+Opponent: Rexxar HP: 15, Mana: 4/10
+  Hand (6)
+  Field: Hyldnir Frostrider[4/1], Hozen Healer[2/6]
+[Turn 10, Step 55] Agent: 공격 - Acolyte of Pain[1/3] -> Hozen Healer
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Elise the Trailblazer
+[Turn 10, Step 57] Agent: 공격 - Zoobot[3/3] -> Rexxar
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 10, Step 59] Agent: 공격 - Garrison Commander[2/1] -> Hozen Healer
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/10
+  Hand (7): Dollmaster Dorian, Leyline Manipulator, Subject 9, Disguised Wanderer, Wyrmguard, Un'Goro Pack, Phantom Freebooter
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/1], Evasive Wyrm[6/2], Elise the Trailblazer[5/4], Zoobot[3/3], Old Murk-Eye[2/4]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (6)
+  Field: Hyldnir Frostrider[4/1], Hozen Healer[2/3]
+[Turn 10, Step 60] Agent: 공격 - Old Murk-Eye[2/4] -> Hyldnir Frostrider
+[Turn 10, Step 61] Agent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 10, Step 62] Agent: 카드 플레이 - Leyline Manipulator (코스트: 0)
+[Turn 10, Step 63] Agent: 카드 플레이 - Un'Goro Pack (코스트: 2)
+[Turn 10, Step 64] Agent: 공격 - Evasive Wyrm[6/2] -> Hozen Healer
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (9): Dollmaster Dorian, Subject 9, Disguised Wanderer, Wyrmguard, Jeweled Macaw, Adaptation, Thunder Lizard, Ravenous Pterrordax, Ultrasaur
+  Field: Nat Pagle[0/3], Acolyte of Pain[1/1], Elise the Trailblazer[5/4], Zoobot[3/3], Phantom Freebooter[3/3], Leyline Manipulator[4/5]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (6)
+[Turn 10, Step 65] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 0)
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 10, Step 66] Opponent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 공격 - Dollmaster Dorian[2/6] -> Servant of Kalimos
+[Turn 10, Step 68] Agent: 카드 플레이 - Adaptation -> Nat Pagle (코스트: 1)
+[Turn 10, Step 69] Agent: 선택 - Liquid Membrane
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 공격 - Hench-Clan Thug[3/3] -> Nat Pagle
+[Turn 10, Step 69] Opponent: 공격 - Servant of Kalimos[4/3] -> Elise the Trailblazer
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (10): Eater of Secrets, Subject 9, Disguised Wanderer, Wyrmguard, Jeweled Macaw, Thunder Lizard, Ravenous Pterrordax, Ultrasaur, Explodinator, Moroes
+  Field: Acolyte of Pain[1/1], Zoobot[3/3], Phantom Freebooter[3/3], Leyline Manipulator[4/5], Dollmaster Dorian[2/2]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (6)
+  Field: Hench-Clan Thug[3/3]
+[Turn 10, Step 70] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 10, Step 71] Agent: 카드 플레이 - Ravenous Pterrordax -> Phantom Freebooter (코스트: 4)
+[Turn 10, Step 72] Agent: 선택 - Volcanic Might
+[Turn 10, Step 72] Agent: 선택 - Shrouding Mist
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Da Undatakah (코스트: 8)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 72] Opponent: 공격 - Hench-Clan Thug[3/3] -> Eater of Secrets
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 카드 플레이 - Moroes (코스트: 3)
+[Turn 10, Step 74] Agent: 공격 - Eater of Secrets[2/1] -> Hench-Clan Thug
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/10
+  Hand (8): Subject 9, Disguised Wanderer, Wyrmguard, Jeweled Macaw, Thunder Lizard, Ultrasaur, Explodinator, Frozen Clone
+  Field: Acolyte of Pain[1/1], Zoobot[3/3], Leyline Manipulator[4/5], Dollmaster Dorian[2/1], Ravenous Pterrordax[5/5], Moroes[1/1]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (5)
+  Field: Da Undatakah[8/5], Flame Juggler[2/3]
+[Turn 10, Step 75] Agent: 공격 - Leyline Manipulator[4/5] -> Da Undatakah
+[Turn 10, Step 76] Agent: 카드 플레이 - Subject 9 (코스트: 0)
+[Turn 10, Step 77] Agent: 공격 - Ravenous Pterrordax[5/5] -> Da Undatakah
+[Turn 10, Step 78] Agent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 10, Step 79] Agent: 공격 - Zoobot[3/3] -> Scarab
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/10
+  Hand (7): Disguised Wanderer, Wyrmguard, Thunder Lizard, Ultrasaur, Explodinator, Frozen Clone, Sandwasp Queen
+  Field: Acolyte of Pain[1/1], Zoobot[3/2], Dollmaster Dorian[2/1], Moroes[1/1], Subject 9[4/4], Jeweled Macaw[1/1]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (5)
+  Field: Scarab[1/1], Scarab[1/1], Flame Juggler[2/3]
+[Turn 10, Step 80] Agent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Subject 9
+[Turn 10, Step 82] Agent: 공격 - Acolyte of Pain[1/1] -> Scarab
+[Turn 10, Step 83] Agent: 공격 - Dollmaster Dorian[2/1] -> Flame Juggler
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 카드 플레이 - Genn Greymane (코스트: 6)
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Disguised Wanderer, Wyrmguard, Ultrasaur, Explodinator, Frozen Clone, Sandwasp Queen, Grim Necromancer, Sludge Belcher
+  Field: Zoobot[3/2], Moroes[1/1], Steward[1/1], Subject 9[4/3], Jeweled Macaw[1/1], Thunder Lizard[3/3]
+Opponent: Rexxar HP: 12, Mana: 4/10
+  Hand (5)
+  Field: Scarab[1/1], Flame Juggler[2/1], Genn Greymane[6/5]
+[Turn 10, Step 85] Agent: 공격 - Zoobot[3/2] -> Genn Greymane
+[Turn 10, Step 86] Agent: 카드 플레이 - Ultrasaur (코스트: 10)
+[Turn 10, Step 87] Agent: 공격 - Subject 9[4/3] -> Rexxar
+[Turn 10, Step 88] Agent: 공격 - Jeweled Macaw[1/1] -> Scarab
+[Turn 10, Step 89] Agent: 공격 - Steward[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (7): Disguised Wanderer, Wyrmguard, Explodinator, Frozen Clone, Sandwasp Queen, Grim Necromancer, Sludge Belcher
+  Field: Moroes[1/1], Steward[1/1], Subject 9[4/3], Thunder Lizard[3/3], Ultrasaur[7/14]
+Opponent: Rexxar HP: 7, Mana: 4/10
+  Hand (5)
+  Field: Flame Juggler[2/1], Genn Greymane[6/2]
+[Turn 10, Step 90] Agent: 공격 - Thunder Lizard[3/3] -> Genn Greymane
+[Turn 10, Step 91] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 91] Opponent: 카드 플레이 - Ysera (코스트: 9)
+[Turn 10, Step 91] Opponent: 공격 - Flame Juggler[2/1] -> Subject 9
+[Turn 10, Step 91] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 91] Opponent: 공격 - Spark[1/1] -> Steward
+[Turn 10, Step 91] Opponent: 턴 종료
+[Turn 10, Step 92] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 93] Agent: 공격 - Moroes[1/1] -> Ysera
+[Turn 10, Step 94] Agent: 카드 플레이 - Sandwasp Queen (코스트: 2)
+
+--- Game State (Turn 10, Step 95) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/10
+  Hand (9): Disguised Wanderer, Wyrmguard, Explodinator, Frozen Clone, Grim Necromancer, Sludge Belcher, Stormpike Commando, Sandwasp, Sandwasp
+  Field: Steward[1/1], Subject 9[4/1], Ultrasaur[7/14], Sandwasp Queen[3/1]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (5)
+  Field: Ysera[4/11]
+[Turn 10, Step 95] Agent: 공격 - Steward[1/1] -> Ysera
+[Turn 10, Step 96] Agent: 카드 플레이 - Stormpike Commando -> Subject 9 (코스트: 5)
+[Turn 10, Step 97] Agent: 카드 플레이 - Disguised Wanderer (코스트: 1)
+[Turn 10, Step 98] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 98] Opponent: 카드 플레이 - Quick Shot -> Disguised Wanderer (코스트: 2)
+[Turn 10, Step 98] Opponent: 공격 - Ysera[4/10] -> Rustsworn Inquisitor
+[Turn 10, Step 98] Opponent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 10, Step 98] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 98] Opponent: 턴 종료
+[Turn 10, Step 99] Agent: 영웅 능력 사용 -> Sandwasp Queen
+
+--- Game State (Turn 10, Step 100) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (8): Wyrmguard, Explodinator, Frozen Clone, Grim Necromancer, Sludge Belcher, Sandwasp, Sandwasp, Volatile Elemental
+  Field: Ultrasaur[7/14], Stormpike Commando[4/2]
+Opponent: Rexxar HP: 6, Mana: 2/10
+  Hand (4)
+  Field: Ysera[4/1], Puddlestomper[3/2], Arcane Fletcher[3/3]
+[Turn 10, Step 100] Agent: 카드 플레이 - Frozen Clone (코스트: 3)
+[Turn 10, Step 101] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 102] Agent: 공격 - Stormpike Commando[4/2] -> Ysera
+[Turn 10, Step 103] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 103] Opponent: 카드 플레이 - Bone Drake (코스트: 6)
+[Turn 10, Step 103] Opponent: 턴 종료
+[Turn 10, Step 104] Agent: 공격 - Sludge Belcher[3/5] -> Bone Drake
+
+--- Game State (Turn 10, Step 105) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (9): Wyrmguard, Explodinator, Grim Necromancer, Sandwasp, Sandwasp, Volatile Elemental, Bone Drake, Bone Drake, Frozen Shadoweaver
+  Field: Ultrasaur[7/14], Putrid Slime[1/2]
+Opponent: Rexxar HP: 6, Mana: 4/10
+  Hand (4)
+  Field: Puddlestomper[3/2], Arcane Fletcher[3/3], Bone Drake[6/2]
+[Turn 10, Step 105] Agent: 카드 플레이 - Frozen Shadoweaver -> Bone Drake (코스트: 3)
+[Turn 10, Step 106] Agent: 공격 - Ultrasaur[7/14] -> Rexxar
+
+--- Game State (Turn 10, Step 107) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 7/10
+  Hand (8): Wyrmguard, Explodinator, Grim Necromancer, Sandwasp, Sandwasp, Volatile Elemental, Bone Drake, Bone Drake
+  Field: Ultrasaur[7/14], Putrid Slime[1/2], Frozen Shadoweaver[4/3]
+Opponent: Rexxar HP: 0, Mana: 4/10
+  Hand (4)
+  Field: Puddlestomper[3/2], Arcane Fletcher[3/3], Bone Drake[6/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

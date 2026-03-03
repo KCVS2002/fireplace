@@ -1,0 +1,285 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Frostbolt -> Rexxar (코스트: 2)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (6): Snowflipper Penguin, Duskboar, Firelands Portal, Garrison Commander, Wargear, Gyrocopter
+Opponent: Rexxar HP: 27, Mana: 1/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Duskboar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Spellbreaker (코스트: 4)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Piloted Reaper (코스트: 4)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (6): Snowflipper Penguin, Firelands Portal, Garrison Commander, Wargear, Gyrocopter, Cryomancer
+  Field: Piloted Reaper[4/3]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (7)
+  Field: Spellbreaker[4/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(82) → 6로 보정
+[Turn 7, Step 12] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(80) → 10로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Piloted Reaper
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/7
+  Hand (6): Firelands Portal, Wargear, Gyrocopter, Cryomancer, Icicle, Twin Emperor Vek'lor
+  Field: Piloted Reaper[4/2], Garrison Commander[2/3], Snowflipper Penguin[1/1]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (9)
+  Field: Spellbreaker[4/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(8) → 2로 보정
+[Turn 7, Step 16] Agent: 공격 - Piloted Reaper[4/2] -> Spellbreaker
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(29) → 12로 보정
+[Turn 8, Step 19] Agent: 공격 - Garrison Commander[2/3] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/8
+  Hand (6): Firelands Portal, Wargear, Cryomancer, Icicle, Twin Emperor Vek'lor, Belligerent Gnome
+  Field: Garrison Commander[2/3], Snowflipper Penguin[1/1], Gyrocopter[4/5]
+Opponent: Rexxar HP: 24, Mana: 5/8
+  Hand (9)
+  Field: Spider Tank[3/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(84) → 9로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Snowflipper Penguin
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 8, Step 21] Agent: 공격 - Gyrocopter[4/5] -> Spider Tank
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Cobra Shot -> Garrison Commander (코스트: 5)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Cave Hydra (코스트: 3)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Firelands Portal -> Jaina Proudmoore (코스트: 7)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/9
+  Hand (6): Wargear, Cryomancer, Icicle, Twin Emperor Vek'lor, Belligerent Gnome, Shield of Galakrond
+  Field: Gyrocopter[4/2], Ethereal Conjurer[6/3]
+Opponent: Rexxar HP: 23, Mana: 1/9
+  Hand (8)
+  Field: Cave Hydra[2/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 9, Step 25] Agent: 공격 - Gyrocopter[4/2] -> Cave Hydra
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - The Darkness (코스트: 4)
+[Turn 9, Step 26] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 9, Step 26] Opponent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(20) → 9로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(29) → 5로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Cryomancer (코스트: 5)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (5): Wargear, Icicle, Twin Emperor Vek'lor, Shield of Galakrond, Amani Berserker
+  Field: Belligerent Gnome[2/4], Cryomancer[5/5]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (6)
+  Field: The Darkness[20/20], Cloakscale Chemist[1/2], Troll Batrider[3/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Kvaldir Raider (코스트: 5)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(80) → 14로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Cryomancer
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(26) → 10로 보정
+[Turn 10, Step 32] Agent: 공격 - Belligerent Gnome[2/4] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(50) → 11로 보정
+[Turn 10, Step 33] Agent: 공격 - Cryomancer[5/4] -> Troll Batrider
+[Turn 10, Step 34] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (5): Wargear, Icicle, Twin Emperor Vek'lor, Shield of Galakrond, Former Champ
+  Field: Belligerent Gnome[2/4], Cryomancer[5/1], Amani Berserker[2/3]
+Opponent: Rexxar HP: 20, Mana: 5/10
+  Hand (6)
+  Field: The Darkness[20/20], Cloakscale Chemist[1/2], Kvaldir Raider[4/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Icicle -> Belligerent Gnome (코스트: 2)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Houndmaster (코스트: 4)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 10, Step 36] Opponent: 선택 - Dragonkin Sorcerer
+[Turn 10, Step 36] Opponent: 공격 - Cloakscale Chemist[1/2] -> Belligerent Gnome
+[Turn 10, Step 36] Opponent: 공격 - Kvaldir Raider[4/4] -> Belligerent Gnome
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Corpse Raiser -> Chromatic Egg (코스트: 5)
+[Turn 10, Step 37] Opponent: 공격 - Houndmaster[4/3] -> Cryomancer
+[Turn 10, Step 37] Opponent: 공격 - Kvaldir Raider[4/2] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(45) → 20로 보정
+[Turn 10, Step 38] Agent: 공격 - Amani Berserker[2/3] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(95) → 15로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Cloakscale Chemist
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (6): Wargear, Twin Emperor Vek'lor, Shield of Galakrond, Former Champ, Nerubian Egg, Pyroblast
+  Field: Amani Berserker[2/3]
+Opponent: Rexxar HP: 18, Mana: 5/10
+  Hand (5)
+  Field: The Darkness[20/20], Cloakscale Chemist[1/1], Kvaldir Raider[4/2], Chromatic Egg[0/3], Corpse Raiser[3/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 10, Step 43] Agent: 공격 - Amani Berserker[2/3] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 7/10
+  Hand (5): Wargear, Twin Emperor Vek'lor, Former Champ, Nerubian Egg, Pyroblast
+  Field: Amani Berserker[2/3], Shield of Galakrond[4/5], Jar Dealer[1/1]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (6)
+  Field: The Darkness[20/20], Cloakscale Chemist[1/1], Kvaldir Raider[4/2], Chromatic Egg[0/3], Corpse Raiser[3/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(23) → 3로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 10, Step 46] Agent: 공격 - Shield of Galakrond[4/5] -> Corpse Raiser
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(76) → 17로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Cloakscale Chemist
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (4): Wargear, Twin Emperor Vek'lor, Pyroblast, Polluted Hoarder
+  Field: Amani Berserker[2/3], Shield of Galakrond[4/2], Jar Dealer[1/1], Former Champ[1/1], Hotshot[5/5], Nerubian Egg[0/2], Master Chest[0/8]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (5)
+  Field: The Darkness[20/20], Kvaldir Raider[4/2], Chromatic Egg[0/3], Mana Addict[1/3], Marin the Fox[6/6]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 10, Step 50] Agent: 공격 - Shield of Galakrond[4/2] -> Mana Addict
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(47) → 13로 보정
+[Turn 10, Step 51] Agent: 공격 - Hotshot[5/5] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(73) → 8로 보정
+[Turn 10, Step 52] Agent: 공격 - Jar Dealer[1/1] -> Marin the Fox
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 53] Agent: 공격 - Amani Berserker[2/3] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Alleycat (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 7/10
+  Hand (4): Wargear, Twin Emperor Vek'lor, Pyroblast, Polluted Hoarder
+  Field: Amani Berserker[2/3], Shield of Galakrond[4/1], Former Champ[1/1], Hotshot[5/5], Nerubian Egg[0/2], Master Chest[0/8], Alleycat[1/1]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (5)
+  Field: The Darkness[20/20], Kvaldir Raider[4/2], Chromatic Egg[0/3], Marin the Fox[6/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 55] Agent: 공격 - Former Champ[1/1] -> Marin the Fox
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Twin Emperor Vek'lor (코스트: 7)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Pyroblast -> Rexxar (코스트: 10)
+
+--- Game State (Turn 10, Step 59) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/10
+  Hand (3): Wargear, Polluted Hoarder, Nerubian Unraveler
+  Field: Amani Berserker[2/3], Shield of Galakrond[4/1], Hotshot[5/5], Nerubian Egg[0/2], Master Chest[0/8], Alleycat[1/1], Twin Emperor Vek'lor[4/6]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (6)
+  Field: The Darkness[20/20], Kvaldir Raider[4/2], Chromatic Egg[0/3], Marin the Fox[6/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

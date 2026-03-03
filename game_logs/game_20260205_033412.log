@@ -1,0 +1,322 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Ice Lance -> Rexxar (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Voodoo Doctor -> Rexxar (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Arcane Artificer (코스트: 1)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 2, Step 3] Opponent: 공격 - Voodoo Doctor[2/1] -> Jaina Proudmoore
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Sunreaver Spy (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (3): Elite Tauren Chieftain, Azerite Elemental, Emerald Reaver
+  Field: Arcane Artificer[1/2], Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Voodoo Doctor[2/1], Imprisoned Vilefiend[3/5]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Voodoo Doctor[2/1] -> Emerald Reaver
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Arcane Artificer
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Swamp Dragon Egg (코스트: 1)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Imprisoned Vilefiend[3/5] -> Arcane Artificer
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (5): Elite Tauren Chieftain, Azerite Elemental, Archmage Antonidas, Soldier of Fortune, Jungle Panther
+  Field: Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (5)
+  Field: Imprisoned Vilefiend[3/4], Swamp Dragon Egg[0/3], Sharkfin Fan[2/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Sunreaver Spy
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 6, Step 12] Agent: 공격 - Sunreaver Spy[2/2] -> Imprisoned Vilefiend
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Imprisoned Vilefiend[3/2] -> Jaina Proudmoore
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/7
+  Hand (5): Azerite Elemental, Archmage Antonidas, Soldier of Fortune, Tanglefur Mystic, Rogues Do It...
+  Field: Jungle Panther[4/2], Elite Tauren Chieftain[5/5]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Imprisoned Vilefiend[3/2], Swamp Dragon Egg[0/3], Sharkfin Fan[2/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Sharkfin Fan
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 공격 - Imprisoned Vilefiend[3/2] -> Jaina Proudmoore
+[Turn 7, Step 16] Opponent: 영웅 능력 사용
+[Turn 7, Step 16] Opponent: 공격 - Sharkfin Fan[2/1] -> Jaina Proudmoore
+[Turn 7, Step 16] Opponent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(47) → 16로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Swamp Dragon Egg
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(57) → 13로 보정
+[Turn 8, Step 18] Agent: 공격 - Jungle Panther[4/2] -> Imprisoned Vilefiend
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - Rogues Do It... -> Jaina Proudmoore (코스트: 4)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 2/8
+  Hand (6): Azerite Elemental, Archmage Antonidas, Soldier of Fortune, Tanglefur Mystic, C'Thun, Sunreaver Warmage
+  Field: Elite Tauren Chieftain[5/5]
+Opponent: Rexxar HP: 30, Mana: 0/7
+  Hand (7)
+  Field: Swamp Dragon Egg[0/2], Sharkfin Fan[2/1], Cult Apothecary[4/4]
+[Turn 8, Step 20] Agent: 공격 - Elite Tauren Chieftain[5/5] -> Sharkfin Fan
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(23) → 8로 보정
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Archmage Antonidas (코스트: 7)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 9, Step 24] Agent: 공격 - Elite Tauren Chieftain[5/3] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/9
+  Hand (6): Azerite Elemental, Soldier of Fortune, Tanglefur Mystic, C'Thun, Sunreaver Warmage, Refreshment Vendor
+  Field: Elite Tauren Chieftain[5/3], Archmage Antonidas[5/7]
+Opponent: Rexxar HP: 24, Mana: 8/8
+  Hand (8)
+  Field: Swamp Dragon Egg[0/2], Cult Apothecary[4/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 9, Step 25] Opponent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(65) → 15로 보정
+[Turn 10, Step 27] Agent: 공격 - Elite Tauren Chieftain[5/3] -> Rexxar
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(99) → 19로 보정
+[Turn 10, Step 28] Agent: 공격 - Archmage Antonidas[5/7] -> Ravencaller
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(99) → 1로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Azerite Elemental (코스트: 5)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (5): Soldier of Fortune, Tanglefur Mystic, C'Thun, Refreshment Vendor, Sen'jin Shieldmasta
+  Field: Elite Tauren Chieftain[5/3], Archmage Antonidas[5/5], Sunreaver Warmage[4/4], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 19, Mana: 4/9
+  Hand (9)
+  Field: Swamp Dragon Egg[0/2], Cult Apothecary[4/4], Dwarven Archaeologist[2/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Fiendish Servant (코스트: 1)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Bonemare -> Swamp Dragon Egg (코스트: 8)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(28) → 6로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Elite Tauren Chieftain
+[Turn 10, Step 33] Agent: 공격 - Azerite Elemental[2/7] -> Swamp Dragon Egg
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Elite Tauren Chieftain[5/2] -> Swamp Dragon Egg
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 3/10
+  Hand (5): Soldier of Fortune, Tanglefur Mystic, C'Thun, Refreshment Vendor, Sen'jin Shieldmasta
+  Field: Archmage Antonidas[5/5], Sunreaver Warmage[4/4], Azerite Elemental[2/3], Al'ar[7/3]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (9)
+  Field: Cult Apothecary[4/4], Dwarven Archaeologist[2/3], Fiendish Servant[2/1], Bonemare[5/5]
+[Turn 10, Step 35] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 10, Step 36] Opponent: 선택 - Corruption
+[Turn 10, Step 36] Opponent: 공격 - Cult Apothecary[4/4] -> Sunreaver Warmage
+[Turn 10, Step 36] Opponent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 10, Step 36] Opponent: 공격 - Fiendish Servant[2/1] -> Al'ar
+[Turn 10, Step 36] Opponent: 공격 - Bonemare[5/5] -> Jaina Proudmoore
+[Turn 10, Step 36] Opponent: 공격 - Dwarven Archaeologist[4/3] -> Azerite Elemental
+[Turn 10, Step 36] Opponent: 카드 플레이 - Corruption -> Archmage Antonidas (코스트: 1)
+[Turn 10, Step 36] Opponent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 카드 플레이 - Lab Recruiter -> Al'ar (코스트: 2)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(39) → 18로 보정
+[Turn 10, Step 39] Agent: 공격 - Al'ar[7/1] -> Belligerent Gnome
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 4/10
+  Hand (4): C'Thun, Refreshment Vendor, Sen'jin Shieldmasta, Silver Hand Knight
+  Field: Archmage Antonidas[5/5], Ashes of Al'ar[0/3], Tanglefur Mystic[3/4], Lab Recruiter[3/2], Soldier of Fortune[5/6]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (7)
+  Field: Dwarven Archaeologist[4/1], Bonemare[5/5], Kabal Courier[2/2], Proud Defender[2/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Refreshment Vendor (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Soldier of Fortune
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(43) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Soldier of Fortune[5/5] -> Proud Defender
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 4/10
+  Hand (3): C'Thun, Silver Hand Knight, Southsea Deckhand
+  Field: Al'ar[7/3], Tanglefur Mystic[3/4], Lab Recruiter[3/2], Soldier of Fortune[5/3], Refreshment Vendor[3/5], Sen'jin Shieldmasta[3/5]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (9)
+  Field: Dwarven Archaeologist[4/1], Bonemare[5/5], Kabal Courier[2/2], Proud Defender[2/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 45] Agent: 공격 - Tanglefur Mystic[3/4] -> Proud Defender
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(66) → 10로 보정
+[Turn 10, Step 46] Agent: 공격 - Refreshment Vendor[3/5] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 47] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 47] Opponent: 공격 - Dwarven Archaeologist[4/1] -> Sen'jin Shieldmasta
+[Turn 10, Step 47] Opponent: 공격 - Bonemare[5/5] -> Sen'jin Shieldmasta
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Soldier of Fortune[5/3] -> Kabal Courier
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(49) → 23로 보정
+[Turn 10, Step 49] Agent: 공격 - Refreshment Vendor[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (4): C'Thun, Silver Hand Knight, Southsea Deckhand, Salty Dog
+  Field: Al'ar[7/3], Tanglefur Mystic[3/2], Lab Recruiter[3/2], Soldier of Fortune[5/1], Refreshment Vendor[3/5]
+Opponent: Rexxar HP: 17, Mana: 0/10
+  Hand (9)
+  Field: Bonemare[5/2], Charged Devilsaur[7/7]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(29) → 6로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(32) → 6로 보정
+[Turn 10, Step 51] Agent: 공격 - Al'ar[7/3] -> Charged Devilsaur
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 53] Agent: 공격 - Lab Recruiter[3/2] -> Bonemare
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - I Am Murloc (코스트: 4)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (4): C'Thun, Southsea Deckhand, Salty Dog, Silver Hand Regent
+  Field: Al'ar[7/3], Tanglefur Mystic[3/2], Soldier of Fortune[5/1], Refreshment Vendor[3/5], Silver Hand Knight[4/4], Squire[2/2]
+Opponent: Rexxar HP: 16, Mana: 6/10
+  Hand (9)
+  Field: Murloc[1/1], Murloc[1/1], Murloc[1/1]
+[Turn 10, Step 55] Agent: 공격 - Silver Hand Knight[4/4] -> Murloc
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(91) → 15로 보정
+[Turn 10, Step 57] Agent: 공격 - Refreshment Vendor[3/5] -> Murloc
+[Turn 10, Step 58] Agent: 공격 - Soldier of Fortune[5/1] -> Murloc
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(97) → 6로 보정
+[Turn 10, Step 59] Agent: 공격 - Squire[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (4): C'Thun, Southsea Deckhand, Salty Dog, Silver Hand Regent
+  Field: Al'ar[7/3], Tanglefur Mystic[3/2], Refreshment Vendor[3/4], Silver Hand Knight[4/3], Squire[2/2]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (10)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 10, Step 60] Agent: 공격 - Tanglefur Mystic[3/2] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 10, Step 61] Agent: 공격 - Al'ar[7/3] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (3): Hobgoblin, C'Thun, Southsea Deckhand
+  Field: Al'ar[7/3], Tanglefur Mystic[3/2], Refreshment Vendor[3/4], Silver Hand Knight[4/3], Squire[2/2], Salty Dog[7/4], Silver Hand Regent[3/3]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(19) → 2로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 66] Agent: 공격 - Silver Hand Knight[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 67) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (3): Hobgoblin, C'Thun, Southsea Deckhand
+  Field: Al'ar[7/3], Tanglefur Mystic[3/2], Refreshment Vendor[3/4], Silver Hand Knight[4/3], Squire[2/2], Salty Dog[7/4], Silver Hand Regent[3/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

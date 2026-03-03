@@ -1,0 +1,165 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Bloodscalp Strategist (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/3
+  Hand (7): Gadgetzan Auctioneer, Barista Lynchen, Fencing Coach, Stegodon, Rustsworn Initiate, Dirty Rat, Earthen Ring Farseer
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Bloodscalp Strategist[2/4]
+[Turn 3, Step 5] Agent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 3, Step 6] Opponent: 공격 - Bloodscalp Strategist[2/4] -> Rustsworn Initiate
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Impcaster
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Lesser Emerald Spellstone (코스트: 5)
+[Turn 4, Step 8] Opponent: 공격 - Bone Wraith[2/5] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 공격 - Bloodscalp Strategist[2/2] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Earthen Ring Farseer -> Wolf (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/5
+  Hand (7): Gadgetzan Auctioneer, Barista Lynchen, Fencing Coach, Stegodon, Dirty Rat, Hakkar, the Soulflayer, Bog Creeper
+  Field: Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (5)
+  Field: Bloodscalp Strategist[2/2], Bone Wraith[2/5], Wolf[3/3], Wolf[3/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 공격 - Bloodscalp Strategist[2/2] -> Dirty Rat
+[Turn 5, Step 11] Opponent: 공격 - Bone Wraith[2/5] -> Dirty Rat
+[Turn 5, Step 11] Opponent: 카드 플레이 - Voodoo Doctor -> Earthen Ring Farseer (코스트: 1)
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 6, Step 13] Agent: 공격 - Earthen Ring Farseer[3/3] -> Bone Wraith
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Junkbot
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (6): Gadgetzan Auctioneer, Barista Lynchen, Fencing Coach, Hakkar, the Soulflayer, Bog Creeper, Gurubashi Chicken
+  Field: Earthen Ring Farseer[3/1], Dirty Rat[2/2], Stegodon[2/6]
+Opponent: Rexxar HP: 30, Mana: 3/6
+  Hand (4)
+  Field: Bone Wraith[2/1], Junkbot[1/4], Wolf[3/3], Wolf[3/3], Voodoo Doctor[2/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Wolf[3/3] -> Stegodon
+[Turn 6, Step 15] Opponent: 공격 - Junkbot[1/4] -> Stegodon
+[Turn 6, Step 15] Opponent: 공격 - Wolf[3/3] -> Stegodon
+[Turn 6, Step 15] Opponent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 6, Step 15] Opponent: 공격 - Voodoo Doctor[2/1] -> Dirty Rat
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Wolf
+[Turn 7, Step 17] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Bone Wraith[2/1] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 공격 - Wolf[3/1] -> Earthen Ring Farseer
+[Turn 7, Step 18] Opponent: 카드 플레이 - Violet Wurm (코스트: 8)
+[Turn 7, Step 18] Opponent: 공격 - Captured Jormungar[5/9] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 공격 - Junkbot[1/2] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Fencing Coach[2/2] -> Bone Wraith
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/8
+  Hand (7): Big Ol' Whelp, Gadgetzan Auctioneer, Barista Lynchen, Hakkar, the Soulflayer, Bog Creeper, Gurubashi Chicken, Arcane Tyrant
+Opponent: Rexxar HP: 30, Mana: 0/8
+  Hand (4)
+  Field: Junkbot[1/2], Captured Jormungar[5/9], Violet Wurm[7/7]
+[Turn 8, Step 20] Agent: 카드 플레이 - Barista Lynchen (코스트: 5)
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Barista Lynchen
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 8, Step 22] Opponent: 공격 - Junkbot[2/3] -> Barista Lynchen
+[Turn 8, Step 22] Opponent: 카드 플레이 - Deathlord (코스트: 3)
+[Turn 8, Step 22] Opponent: 공격 - Captured Jormungar[6/10] -> Barista Lynchen
+[Turn 8, Step 22] Opponent: 공격 - Violet Wurm[8/8] -> Jaina Proudmoore
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 4/9
+  Hand (7): Big Ol' Whelp, Gadgetzan Auctioneer, Hakkar, the Soulflayer, Bog Creeper, Gurubashi Chicken, Arcane Tyrant, Big Ol' Whelp
+  Field: Golden Scarab[2/2]
+Opponent: Rexxar HP: 29, Mana: 1/9
+  Hand (3)
+  Field: Captured Jormungar[6/6], Violet Wurm[8/8], Barnes[4/5], Stormwind Champion[1/1], Deathlord[3/9]
+[Turn 9, Step 25] Agent: 선택 - Proud Defender
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Malygos (코스트: 9)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Deathlord
+[Turn 10, Step 27] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 5)
+[Turn 10, Step 28] Agent: 공격 - Golden Scarab[2/2] -> Deathlord
+[Turn 10, Step 29] Agent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (8): Big Ol' Whelp, Gadgetzan Auctioneer, Hakkar, the Soulflayer, Bog Creeper, Arcane Tyrant, Proud Defender, Steel Rager, Clockwork Automaton
+  Field: Big Ol' Whelp[5/5], Gurubashi Chicken[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (3)
+  Field: Captured Jormungar[6/6], Violet Wurm[8/8], Barnes[4/5], Stormwind Champion[1/1], Deathlord[3/6], Malygos[5/13]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 공격 - Violet Wurm[8/8] -> Big Ol' Whelp
+[Turn 10, Step 30] Opponent: 공격 - Barnes[4/5] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Captured Jormungar
+[Turn 10, Step 32] Agent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 34) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 4/10
+  Hand (8): Big Ol' Whelp, Gadgetzan Auctioneer, Hakkar, the Soulflayer, Bog Creeper, Arcane Tyrant, Steel Rager, Clockwork Automaton, Mojomaster Zihi
+  Field: Gurubashi Chicken[1/1], Proud Defender[2/6]
+Opponent: Rexxar HP: 29, Mana: 8/10
+  Hand (5)
+  Field: Captured Jormungar[6/5], Violet Wurm[8/3], Barnes[4/5], Stormwind Champion[1/1], Deathlord[3/6], Malygos[5/13]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

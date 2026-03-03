@@ -1,0 +1,196 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 공격 - Violet Spellwing[1/1] -> Rexxar
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Violet Spellwing
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (6): Desert Hare, Dark Iron Dwarf, Big Ol' Whelp, Replicating Menace, Arcane Missiles, Dragonhatcher
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (7)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 3, Step 5] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/5
+  Hand (7): Desert Hare, Dark Iron Dwarf, Big Ol' Whelp, Replicating Menace, Dragonhatcher, Stargazer Luna, Corrupted Seer
+Opponent: Rexxar HP: 25, Mana: 2/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Generous Mummy (코스트: 3)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Guardian Augmerchant -> Generous Mummy (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 13] Agent: 카드 플레이 - Dark Iron Dwarf -> Desert Hare (코스트: 3)
+[Turn 6, Step 14] Agent: 공격 - Desert Hare[3/1] -> Generous Mummy
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/6
+  Hand (6): Big Ol' Whelp, Replicating Menace, Dragonhatcher, Stargazer Luna, Corrupted Seer, Sylvanas Windrunner
+  Field: Desert Hare[1/1], Desert Hare[1/1], Dark Iron Dwarf[4/4]
+Opponent: Rexxar HP: 24, Mana: 1/5
+  Hand (6)
+  Field: Generous Mummy[5/3], Guardian Augmerchant[2/1]
+[Turn 6, Step 15] Agent: 카드 플레이 - Replicating Menace (코스트: 3)
+[Turn 6, Step 16] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Maiev Shadowsong -> Replicating Menace (코스트: 4)
+[Turn 6, Step 17] Opponent: 공격 - Generous Mummy[5/3] -> Desert Hare
+[Turn 6, Step 17] Opponent: 공격 - Guardian Augmerchant[2/1] -> Desert Hare
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 4)
+[Turn 7, Step 19] Agent: 공격 - Dark Iron Dwarf[4/4] -> Generous Mummy
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/7
+  Hand (6): Dragonhatcher, Stargazer Luna, Corrupted Seer, Sylvanas Windrunner, Whizbang the Wonderful, Y'Shaarj, Rage Unbound
+  Field: Replicating Menace[3/1], Big Ol' Whelp[5/5]
+Opponent: Rexxar HP: 23, Mana: 2/6
+  Hand (6)
+  Field: Generous Mummy[5/1], Maiev Shadowsong[4/3]
+[Turn 7, Step 20] Agent: 카드 플레이 - Stargazer Luna (코스트: 2)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Big Ol' Whelp
+[Turn 8, Step 23] Agent: 카드 플레이 - Sylvanas Windrunner (코스트: 5)
+[Turn 8, Step 24] Agent: 공격 - Big Ol' Whelp[5/4] -> Maiev Shadowsong
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (5): Mind Control Tech, Dragonhatcher, Corrupted Seer, Whizbang the Wonderful, Y'Shaarj, Rage Unbound
+  Field: Replicating Menace[3/1], Stargazer Luna[2/4], Sylvanas Windrunner[5/5]
+Opponent: Rexxar HP: 23, Mana: 7/7
+  Hand (7)
+  Field: Generous Mummy[5/1]
+[Turn 8, Step 25] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Corrupted Seer (코스트: 5)
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 29] Agent: 공격 - Sylvanas Windrunner[5/3] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/9
+  Hand (5): Mind Control Tech, Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz
+  Field: Microbot[1/1], Microbot[1/1], Microbot[1/1], Stargazer Luna[2/2], Sylvanas Windrunner[5/3], Corrupted Seer[2/3]
+Opponent: Rexxar HP: 16, Mana: 8/8
+  Hand (8)
+[Turn 9, Step 30] Agent: 공격 - Stargazer Luna[2/2] -> Rexxar
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Puddlestomper (코스트: 2)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Linecracker (코스트: 7)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - Sylvanas Windrunner[5/3] -> Rexxar
+[Turn 10, Step 33] Agent: 공격 - Microbot[1/1] -> Linecracker
+[Turn 10, Step 34] Agent: 카드 플레이 - Safeguard (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (6): Mind Control Tech, Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz, Mini-Mage
+  Field: Microbot[1/1], Microbot[1/1], Stargazer Luna[2/2], Sylvanas Windrunner[5/3], Corrupted Seer[2/3], Safeguard[4/5]
+Opponent: Rexxar HP: 9, Mana: 0/9
+  Hand (7)
+  Field: Puddlestomper[3/2], Linecracker[5/9]
+[Turn 10, Step 35] Agent: 공격 - Stargazer Luna[2/2] -> Puddlestomper
+[Turn 10, Step 36] Agent: 카드 플레이 - Mind Control Tech (코스트: 3)
+[Turn 10, Step 37] Agent: 공격 - Corrupted Seer[2/3] -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Microbot[1/1] -> Linecracker
+[Turn 10, Step 39] Agent: 공격 - Microbot[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/10
+  Hand (5): Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz, Mini-Mage
+  Field: Microbot[1/1], Sylvanas Windrunner[5/3], Corrupted Seer[2/3], Safeguard[4/5], Mind Control Tech[3/3]
+Opponent: Rexxar HP: 6, Mana: 0/9
+  Hand (7)
+  Field: Linecracker[5/8]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Omega Defender (코스트: 4)
+[Turn 10, Step 40] Opponent: 공격 - Linecracker[5/8] -> Safeguard
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Omega Defender
+[Turn 10, Step 42] Agent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 10, Step 43] Agent: 공격 - Sylvanas Windrunner[5/3] -> Omega Defender
+[Turn 10, Step 44] Agent: 카드 플레이 - Waterboy (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (4): Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz
+  Field: Microbot[1/1], Corrupted Seer[2/3], Vault Safe[0/5], Mind Control Tech[3/3], Mini-Mage[4/1], Linecracker[5/10], Waterboy[2/1]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (6)
+  Field: Blatant Decoy[5/5]
+[Turn 10, Step 45] Agent: 공격 - Microbot[1/1] -> Blatant Decoy
+[Turn 10, Step 46] Agent: 공격 - Mind Control Tech[3/3] -> Blatant Decoy
+[Turn 10, Step 47] Agent: 공격 - Corrupted Seer[2/3] -> Rexxar
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 카드 플레이 - Gluttonous Ooze (코스트: 3)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Gluttonous Ooze
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz, Injured Kvaldir
+  Field: Corrupted Seer[2/3], Vault Safe[0/5], Mini-Mage[4/1], Linecracker[5/10]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: Blatant Decoy[5/1], Bomb Lobber[3/3], Gluttonous Ooze[3/2]
+[Turn 10, Step 50] Agent: 공격 - Linecracker[5/10] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Dragonhatcher, Whizbang the Wonderful, Y'Shaarj, Rage Unbound, Jepetto Joybuzz, Injured Kvaldir
+  Field: Corrupted Seer[2/3], Vault Safe[0/5], Mini-Mage[4/1], Linecracker[10/10]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+  Field: Blatant Decoy[5/1], Bomb Lobber[3/3], Gluttonous Ooze[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

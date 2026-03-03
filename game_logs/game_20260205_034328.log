@@ -1,0 +1,131 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Toxfin (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Toxfin
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/2
+  Hand (5): Amani War Bear, Neferset Ritualist, Polymorph, Pit Fighter, Mortuary Machine
+  Field: Toxfin[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Toxfin[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Ethereal Augmerchant -> Toxfin (코스트: 1)
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 3, Step 8] Opponent: 영웅 능력 사용
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Polymorph -> Ethereal Augmerchant (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/4
+  Hand (5): Banana Buffoon, Corrupted Healbot, Amani War Bear, Pit Fighter, Mortuary Machine
+  Field: Neferset Ritualist[2/3]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (5)
+  Field: Sheep[1/1], Frostwolf Grunt[2/2]
+[Turn 4, Step 10] Agent: 공격 - Neferset Ritualist[2/3] -> Frostwolf Grunt
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 4, Step 11] Opponent: 공격 - Sheep[1/1] -> Neferset Ritualist
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Mortuary Machine (코스트: 5)
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 5, Step 13] Opponent: 공격 - Arcanosmith[3/2] -> Mortuary Machine
+[Turn 5, Step 13] Opponent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Mortuary Machine
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (6): Banana Buffoon, Corrupted Healbot, Amani War Bear, Pit Fighter, Sunborne Val'kyr, Worgen Infiltrator
+  Field: Mortuary Machine[8/4]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (4)
+  Field: Animated Shield[0/5], Alarm-o-Bot[0/3], Nat, the Darkfisher[2/4]
+[Turn 6, Step 15] Agent: 공격 - Mortuary Machine[8/4] -> Animated Shield
+[Turn 6, Step 16] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 6, Step 17] Agent: 카드 플레이 - Bananas -> Mortuary Machine (코스트: 1)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Bone Drake (코스트: 6)
+[Turn 6, Step 18] Opponent: 공격 - Nat, the Darkfisher[2/4] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 공격 - Hungry Dragon[5/6] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/7
+  Hand (6): Corrupted Healbot, Amani War Bear, Pit Fighter, Worgen Infiltrator, Bananas, Serpent Egg
+  Field: Mortuary Machine[9/5], Banana Buffoon[2/4], Sunborne Val'kyr[5/4]
+Opponent: Rexxar HP: 29, Mana: 1/7
+  Hand (4)
+  Field: Hungry Dragon[5/6], Nat, the Darkfisher[2/4], Bone Drake[6/5]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Banana Buffoon
+[Turn 7, Step 21] Agent: 공격 - Mortuary Machine[9/5] -> Hungry Dragon
+[Turn 7, Step 22] Agent: 공격 - Banana Buffoon[2/3] -> Bone Drake
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 7, Step 23] Opponent: 공격 - Nat, the Darkfisher[2/4] -> Jaina Proudmoore
+[Turn 7, Step 23] Opponent: 공격 - Bone Drake[6/3] -> Jaina Proudmoore
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 6/8
+  Hand (7): Corrupted Healbot, Amani War Bear, Pit Fighter, Worgen Infiltrator, Bananas, Serpent Egg, Ragnaros the Firelord
+  Field: Sunborne Val'kyr[5/4]
+Opponent: Rexxar HP: 29, Mana: 5/8
+  Hand (4)
+  Field: Nat, the Darkfisher[2/4], Bone Drake[6/3], Alarm-o-Bot[0/3]
+[Turn 8, Step 25] Agent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 8, Step 26] Agent: 카드 플레이 - Bananas -> Sunborne Val'kyr (코스트: 1)
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Rotten Applebaum (코스트: 5)
+[Turn 8, Step 27] Opponent: 공격 - Bone Drake[6/3] -> Jaina Proudmoore
+[Turn 8, Step 27] Opponent: 공격 - Elise Starseeker[3/5] -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 28) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/8
+  Hand (5): Corrupted Healbot, Amani War Bear, Pit Fighter, Worgen Infiltrator, Ragnaros the Firelord
+  Field: Sunborne Val'kyr[6/5], Serpent Egg[0/3]
+Opponent: Rexxar HP: 29, Mana: 4/9
+  Hand (4)
+  Field: Nat, the Darkfisher[2/4], Bone Drake[6/3], Elise Starseeker[3/5], Rotten Applebaum[4/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

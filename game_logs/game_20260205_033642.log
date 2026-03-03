@@ -1,0 +1,312 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 공격 - Garrison Commander[2/3] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Medivh's Valet, The Black Knight, Hozen Healer, Angry Chicken, Rockpool Hunter, Sated Threshadon, Mana Addict
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Garrison Commander[2/3]
+[Turn 3, Step 5] Agent: 카드 플레이 - Medivh's Valet (코스트: 2)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Medivh's Valet
+[Turn 4, Step 8] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Garrison Commander[2/3] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 카드 플레이 - Explosive Sheep (코스트: 2)
+[Turn 4, Step 9] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (7): The Black Knight, Hozen Healer, Rockpool Hunter, Sated Threshadon, Mana Addict, Wobbling Runts, Bloodfen Raptor
+  Field: Medivh's Valet[2/2], Angry Chicken[1/1]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (5)
+  Field: Garrison Commander[2/3], Explosive Sheep[1/1], Injured Blademaster[4/3]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Medivh's Valet
+[Turn 6, Step 13] Agent: 공격 - Angry Chicken[1/1] -> Garrison Commander
+[Turn 6, Step 14] Agent: 카드 플레이 - Hozen Healer -> Explosive Sheep (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (7): The Black Knight, Rockpool Hunter, Sated Threshadon, Mana Addict, Wobbling Runts, Bloodfen Raptor, Lorewalker Cho
+  Field: Medivh's Valet[2/1], Hozen Healer[2/6]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (6)
+  Field: Garrison Commander[2/1], Explosive Sheep[1/1], Injured Blademaster[4/3]
+[Turn 6, Step 15] Agent: 공격 - Medivh's Valet[2/1] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 공격 - Medivh's Valet[2/1] -> Explosive Sheep
+[Turn 7, Step 19] Agent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/7
+  Hand (7): Arena Fanatic, The Black Knight, Rockpool Hunter, Sated Threshadon, Mana Addict, Wobbling Runts, Bloodfen Raptor
+  Field: Hozen Healer[2/4], Lorewalker Cho[0/4]
+Opponent: Rexxar HP: 26, Mana: 7/7
+  Hand (7)
+  Field: Injured Blademaster[4/1]
+[Turn 7, Step 20] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Injured Blademaster[4/1] -> Lorewalker Cho
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 공격 - Hozen Healer[2/4] -> Injured Blademaster
+[Turn 8, Step 23] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 8, Step 24] Agent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (5): Arena Fanatic, Sated Threshadon, Wobbling Runts, Bloodfen Raptor, Golakka Crawler
+  Field: Mana Addict[1/3], The Black Knight[4/5], Rockpool Hunter[2/3]
+Opponent: Rexxar HP: 26, Mana: 8/8
+  Hand (8)
+[Turn 8, Step 25] Agent: 공격 - Mana Addict[1/3] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 8, Step 26] Opponent: 공격 - Wolfrider[3/1] -> Rockpool Hunter
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Wobbling Runts (코스트: 6)
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Mana Addict
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 9, Step 29] Opponent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (6): Arena Fanatic, Sated Threshadon, Bloodfen Raptor, Golakka Crawler, Ticket Scalper, Proud Defender
+  Field: Mana Addict[1/2], The Black Knight[4/5], Wobbling Runts[2/6]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: Brightwing[3/2], Boom Bot[1/1], Dr. Boom[7/7], Boom Bot[1/1], Zayle, Shadow Cloak[3/2]
+[Turn 10, Step 30] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 10, Step 31] Agent: 공격 - The Black Knight[4/5] -> Boom Bot
+[Turn 10, Step 32] Agent: 카드 플레이 - Bloodfen Raptor (코스트: 2)
+[Turn 10, Step 33] Agent: 공격 - Mana Addict[1/2] -> Brightwing
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (5): Arena Fanatic, Sated Threshadon, Ticket Scalper, Proud Defender, Tomb Spider
+  Field: The Black Knight[4/4], Wobbling Runts[2/6], Golakka Crawler[2/3], Bloodfen Raptor[3/2]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Brightwing[3/1], Dr. Boom[7/7], Boom Bot[1/1], Zayle, Shadow Cloak[3/2]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Zayle, Shadow Cloak
+[Turn 10, Step 36] Agent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 37] Agent: 공격 - Bloodfen Raptor[3/2] -> Dr. Boom
+[Turn 10, Step 38] Agent: 공격 - Golakka Crawler[2/3] -> Dr. Boom
+[Turn 10, Step 39] Agent: 공격 - Wobbling Runts[2/6] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (4): Arena Fanatic, Ticket Scalper, Proud Defender, Tomb Spider
+  Field: The Black Knight[4/4], Wobbling Runts[2/6], Sated Threshadon[5/7]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (8)
+  Field: Brightwing[3/1], Dr. Boom[7/2], Boom Bot[1/1], Zayle, Shadow Cloak[3/1]
+[Turn 10, Step 40] Agent: 공격 - The Black Knight[4/4] -> Brightwing
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Zayle, Shadow Cloak[3/1] -> The Black Knight
+[Turn 10, Step 41] Opponent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Boom Bot
+[Turn 10, Step 43] Agent: 카드 플레이 - Ticket Scalper (코스트: 4)
+[Turn 10, Step 44] Agent: 공격 - Wobbling Runts[2/5] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 4/10
+  Hand (4): Arena Fanatic, Proud Defender, Tomb Spider, Explosive Runes
+  Field: Wobbling Runts[2/5], Sated Threshadon[5/7], Ticket Scalper[5/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (7)
+  Field: Dr. Boom[7/2], Former Champ[1/1], Hotshot[5/5], Blubber Baron[4/4]
+[Turn 10, Step 45] Agent: 공격 - Sated Threshadon[5/7] -> Hotshot
+[Turn 10, Step 46] Agent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 공격 - Ticket Scalper[5/3] -> Dr. Boom
+[Turn 10, Step 49] Agent: 공격 - Sated Threshadon[5/2] -> Blubber Baron
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (6): Weaponized Piñata, Arena Fanatic, Tomb Spider, Explosive Runes, Frozen Shadoweaver, Hoard Pillager
+  Field: Wobbling Runts[2/5], Primalfin[1/1], Primalfin[1/1], Primalfin[1/1], Proud Defender[2/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+  Field: Former Champ[1/1]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Former Champ
+[Turn 10, Step 51] Agent: 공격 - Proud Defender[2/6] -> Rexxar
+[Turn 10, Step 52] Agent: 카드 플레이 - Weaponized Piñata (코스트: 4)
+[Turn 10, Step 53] Agent: 카드 플레이 - Explosive Runes (코스트: 3)
+[Turn 10, Step 54] Agent: 공격 - Wobbling Runts[2/5] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (4): Arena Fanatic, Tomb Spider, Frozen Shadoweaver, Hoard Pillager
+  Field: Wobbling Runts[2/5], Primalfin[1/1], Primalfin[1/1], Primalfin[1/1], Proud Defender[2/6], Weaponized Piñata[4/3]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 카드 플레이 - Scorp-o-matic -> Primalfin (코스트: 2)
+[Turn 10, Step 57] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 10, Step 58] Agent: 선택 - Captain's Parrot
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Lady Liadrin (코스트: 7)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Weaponized Piñata[4/3] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (5): Arena Fanatic, Frozen Shadoweaver, Hoard Pillager, Captain's Parrot, Youthful Brewmaster
+  Field: Wobbling Runts[2/5], Primalfin[1/1], Primalfin[1/1], Proud Defender[2/6], Weaponized Piñata[4/3], Scorp-o-matic[1/2], Tomb Spider[3/3]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (8)
+  Field: Lady Liadrin[4/6]
+[Turn 10, Step 60] Agent: 공격 - Tomb Spider[3/3] -> Lady Liadrin
+[Turn 10, Step 61] Agent: 카드 플레이 - Youthful Brewmaster -> Primalfin (코스트: 2)
+[Turn 10, Step 62] Agent: 공격 - Wobbling Runts[2/5] -> Lady Liadrin
+[Turn 10, Step 63] Agent: 카드 플레이 - Primalfin (코스트: 1)
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 5/10
+  Hand (4): Arena Fanatic, Frozen Shadoweaver, Hoard Pillager, Captain's Parrot
+  Field: Wobbling Runts[2/1], Primalfin[1/1], Proud Defender[2/6], Weaponized Piñata[4/3], Scorp-o-matic[1/2], Youthful Brewmaster[3/2], Primalfin[1/1]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (8)
+  Field: Lady Liadrin[4/1]
+[Turn 10, Step 65] Agent: 공격 - Scorp-o-matic[1/2] -> Rexxar
+[Turn 10, Step 66] Agent: 공격 - Proud Defender[2/6] -> Rexxar
+[Turn 10, Step 67] Agent: 공격 - Primalfin[1/1] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Primalfin[1/1] -> Lady Liadrin
+[Turn 10, Step 69] Agent: 카드 플레이 - Arena Fanatic (코스트: 4)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (3): Frozen Shadoweaver, Hoard Pillager, Captain's Parrot
+  Field: Wobbling Runts[2/1], Primalfin[1/1], Proud Defender[2/6], Weaponized Piñata[4/3], Scorp-o-matic[1/2], Youthful Brewmaster[3/2], Arena Fanatic[2/3]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (8)
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Proud Defender[2/6] -> Patches the Pirate
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Primalfin
+[Turn 10, Step 73] Agent: 공격 - Scorp-o-matic[1/2] -> Rexxar
+[Turn 10, Step 74] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/10
+  Hand (3): Frozen Shadoweaver, Captain's Parrot, Scarab Egg
+  Field: Wobbling Runts[2/1], Proud Defender[2/5], Weaponized Piñata[4/3], Scorp-o-matic[1/2], Youthful Brewmaster[3/2], Arena Fanatic[2/3], Hoard Pillager[5/3]
+Opponent: Rexxar HP: 5, Mana: 9/10
+  Hand (8)
+[Turn 10, Step 75] Agent: 공격 - Arena Fanatic[2/3] -> Rexxar
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Arena Fanatic
+[Turn 10, Step 78] Agent: 공격 - Wobbling Runts[2/1] -> Rexxar
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 10, Step 79] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 10, Step 79] Opponent: 공격 - Wyvern[5/5] -> Proud Defender
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (5): Frozen Shadoweaver, Captain's Parrot, Scarab Egg, Beckoner of Evil, Stubborn Gastropod
+  Field: Wobbling Runts[2/1], Weaponized Piñata[4/3], Scorp-o-matic[1/2], Youthful Brewmaster[3/2], Arena Fanatic[2/2], Hoard Pillager[5/3]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (9)
+  Field: Ancient Mage[2/5], Wyvern[5/3]
+[Turn 10, Step 80] Agent: 공격 - Wobbling Runts[2/1] -> Wyvern
+[Turn 10, Step 81] Agent: 공격 - Weaponized Piñata[4/3] -> Ancient Mage
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Ancient Mage
+[Turn 10, Step 83] Agent: 공격 - Youthful Brewmaster[3/2] -> Wyvern
+[Turn 10, Step 84] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/10
+  Hand (4): Frozen Shadoweaver, Captain's Parrot, Scarab Egg, Beckoner of Evil
+  Field: Rascally Runt[2/2], Wily Runt[2/2], Weaponized Piñata[4/1], Scorp-o-matic[1/2], Arena Fanatic[2/2], Hoard Pillager[5/3], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (9)
+[Turn 10, Step 85] Agent: 공격 - Hoard Pillager[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 86) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/10
+  Hand (4): Frozen Shadoweaver, Captain's Parrot, Scarab Egg, Beckoner of Evil
+  Field: Rascally Runt[2/2], Wily Runt[2/2], Weaponized Piñata[4/1], Scorp-o-matic[1/2], Arena Fanatic[2/2], Hoard Pillager[5/3], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (9)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

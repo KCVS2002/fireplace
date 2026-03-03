@@ -1,0 +1,225 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 2, Step 3] Agent: 선택 - Volcanic Potion
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 3, Step 4] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (7): Wild Pyromancer, Alarm-o-Bot, Grimestreet Informant, The Coin, Snap Freeze, Volcanic Potion, Demented Frostcaller
+  Field: Volatile Elemental[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Tauren Warrior[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Tol'vir Stoneshaper (코스트: 4)
+[Turn 3, Step 5] Opponent: 공격 - Tauren Warrior[2/3] -> Volatile Elemental
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Tol'vir Stoneshaper
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 4, Step 9] Opponent: 공격 - Tauren Warrior[5/2] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 4, Step 9] Opponent: 공격 - Tol'vir Stoneshaper[3/1] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/5
+  Hand (7): Wild Pyromancer, Alarm-o-Bot, Grimestreet Informant, Snap Freeze, Volcanic Potion, Demented Frostcaller, Ice Walker
+  Field: Backstreet Leper[3/1]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (3)
+  Field: Tauren Warrior[5/2], Tol'vir Stoneshaper[3/1], Mana Addict[1/3], Toothy Chest[0/4]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(51) → 11로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 5, Step 11] Agent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Toothy Chest[4/4] -> Ice Walker
+[Turn 6, Step 13] Opponent: 공격 - Mana Addict[1/3] -> Demented Frostcaller
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/7
+  Hand (6): Wild Pyromancer, Snap Freeze, Volcanic Potion, Alarm-o-Bot, Sea Giant, Wailing Soul
+  Field: Backstreet Leper[3/1], Demented Frostcaller[2/3], Grimestreet Informant[1/1]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (5)
+  Field: Tauren Warrior[5/2], Tol'vir Stoneshaper[3/1], Mana Addict[1/1], Toothy Chest[4/3]
+[Turn 7, Step 15] Agent: 선택 - Farraki Battleaxe
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(39) → 14로 보정
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 16] Agent: 카드 플레이 - Snap Freeze -> Toothy Chest (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(57) → 17로 보정
+[Turn 8, Step 18] Agent: 공격 - Backstreet Leper[3/1] -> Tauren Warrior
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(37) → 14로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Grimestreet Informant
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 6/8
+  Hand (7): Wild Pyromancer, Volcanic Potion, Alarm-o-Bot, Sea Giant, Wailing Soul, Farraki Battleaxe, Arcane Watcher
+  Field: Demented Frostcaller[2/3]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (6)
+  Field: Tol'vir Stoneshaper[3/1], Mana Addict[1/1], Toothy Chest[4/3]
+[Turn 8, Step 20] Agent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 8, Step 21] Agent: 공격 - Demented Frostcaller[2/3] -> Toothy Chest
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Core Rager (코스트: 4)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(29) → 9로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(86) → 8로 보정
+[Turn 9, Step 24] Agent: 공격 - Wailing Soul[3/5] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/9
+  Hand (7): Wild Pyromancer, Volcanic Potion, Alarm-o-Bot, Sea Giant, Farraki Battleaxe, Arcane Watcher, Starscryer
+  Field: Wailing Soul[3/5]
+Opponent: Rexxar HP: 24, Mana: 5/9
+  Hand (6)
+  Field: Tol'vir Stoneshaper[3/1], Mana Addict[1/1], Toothy Chest[4/1], Core Rager[4/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(71) → 7로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Starscryer (코스트: 2)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(53) → 4로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Sea Giant (코스트: 4)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 9, Step 27] Opponent: 공격 - Toothy Chest[4/1] -> Wailing Soul
+[Turn 9, Step 27] Opponent: 카드 플레이 - Scarlet Webweaver (코스트: 6)
+[Turn 9, Step 27] Opponent: 공격 - Tol'vir Stoneshaper[3/1] -> Wailing Soul
+[Turn 9, Step 27] Opponent: 공격 - Core Rager[4/4] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 공격 - Mana Addict[1/1] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 공격 - Starscryer[3/1] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(72) → 12로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Sea Giant
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 8/10
+  Hand (6): Wild Pyromancer, Volcanic Potion, Alarm-o-Bot, Farraki Battleaxe, Arcane Watcher, Grim Patron
+  Field: Starscryer[3/1], Sea Giant[8/7]
+Opponent: Rexxar HP: 21, Mana: 2/10
+  Hand (5)
+  Field: Mana Addict[1/1], Core Rager[4/4], Boneguard Lieutenant[3/2], Scarlet Webweaver[5/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Farraki Battleaxe (코스트: 5)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Volcanic Potion (코스트: 1)
+[Turn 10, Step 32] Agent: 공격 - Sea Giant[8/5] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 33] Agent: 공격 - Jaina Proudmoore[3/12] -> Core Rager
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (5): Wild Pyromancer, Alarm-o-Bot, Arcane Watcher, Grim Patron, Frozen Shadoweaver
+  Field: Sea Giant[8/5]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (6)
+  Field: Scarlet Webweaver[5/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Frozen Shadoweaver -> Scarlet Webweaver (코스트: 3)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(27) → 13로 보정
+[Turn 10, Step 36] Agent: 공격 - Jaina Proudmoore[3/8] -> Scarlet Webweaver
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(43) → 3로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 39] Agent: 공격 - Sea Giant[8/5] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 0/10
+  Hand (3): Wild Pyromancer, Alarm-o-Bot, Arcane Watcher
+  Field: Sea Giant[8/5], Frozen Shadoweaver[4/3], Grim Patron[5/5]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (6)
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(32) → 3로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(48) → 19로 보정
+[Turn 10, Step 42] Agent: 공격 - Frozen Shadoweaver[4/3] -> Explodinator
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(95) → 15로 보정
+[Turn 10, Step 43] Agent: 공격 - Grim Patron[5/5] -> Goblin Bomb
+[Turn 10, Step 44] Agent: 공격 - Sea Giant[8/5] -> Goblin Bomb
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (3): Wild Pyromancer, Alarm-o-Bot, Hench-Clan Thug
+  Field: Sea Giant[8/5], Grim Patron[5/5], Arcane Watcher[7/8]
+Opponent: Rexxar HP: 4, Mana: 6/10
+  Hand (6)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (3): Wild Pyromancer, Alarm-o-Bot, Hench-Clan Thug
+  Field: Sea Giant[8/5], Grim Patron[5/5], Arcane Watcher[7/8]
+Opponent: Rexxar HP: 4, Mana: 6/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

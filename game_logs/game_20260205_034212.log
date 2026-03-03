@@ -1,0 +1,216 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun
+  Field: Haunted Creeper[1/2]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 2, Step 5] Opponent: 카드 플레이 - Venomizer (코스트: 2)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 공격 - Haunted Creeper[1/2] -> Venomizer
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Venomizer
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 3, Step 8] Opponent: 공격 - Zombie Chow[2/3] -> Spectral Spider
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 공격 - Spectral Spider[1/1] -> Zombie Chow
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (7): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Infested Goblin, Untamed Beastmaster
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (3)
+  Field: Zombie Chow[2/1], Daring Reporter[4/4]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Beaming Sidekick -> Daring Reporter (코스트: 1)
+[Turn 4, Step 10] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 4, Step 10] Opponent: 공격 - Daring Reporter[4/6] -> Jaina Proudmoore
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Beaming Sidekick
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Daring Reporter[6/8] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/7
+  Hand (9): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Infested Goblin, Untamed Beastmaster, Al'ar, Arcane Devourer
+  Field: Hench-Clan Sneak[3/3]
+Opponent: Rexxar HP: 29, Mana: 6/7
+  Hand (3)
+  Field: Zombie Chow[2/1], Daring Reporter[7/9], Beaming Sidekick[1/1], Young Dragonhawk[1/1]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Zombie Chow
+[Turn 7, Step 16] Agent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 7, Step 17] Agent: 공격 - Hench-Clan Sneak[3/3] -> Young Dragonhawk
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 공격 - Daring Reporter[7/9] -> Hench-Clan Sneak
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (10): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Infested Goblin, Untamed Beastmaster, Arcane Devourer, Candletaker, Grook Fu Master
+  Field: Al'ar[7/3]
+Opponent: Rexxar HP: 29, Mana: 6/9
+  Hand (5)
+  Field: Daring Reporter[9/8], Beaming Sidekick[1/1], Squirming Tentacle[2/4]
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Al'ar
+[Turn 9, Step 21] Agent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 9, Step 22] Opponent: 공격 - Beaming Sidekick[1/1] -> Jaina Proudmoore
+[Turn 9, Step 22] Opponent: 공격 - Daring Reporter[9/8] -> Grook Fu Master
+[Turn 9, Step 22] Opponent: 공격 - Squirming Tentacle[2/4] -> Al'ar
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 23] Opponent: 공격 - Beaming Sidekick[1/1] -> Al'ar
+[Turn 10, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (10): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Infested Goblin, Untamed Beastmaster, Arcane Devourer, Candletaker, Maiden of the Lake
+  Field: Al'ar[7/2]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (8)
+  Field: Daring Reporter[10/6], Arcane Devourer[5/5]
+[Turn 10, Step 25] Agent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Arcane Devourer
+[Turn 10, Step 27] Agent: 카드 플레이 - Candletaker (코스트: 3)
+[Turn 10, Step 28] Agent: 공격 - Al'ar[7/2] -> Daring Reporter
+[Turn 10, Step 29] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (9): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Infested Goblin, Untamed Beastmaster, Arcane Devourer, Subject 9
+  Field: Al'ar[7/3], Maiden of the Lake[2/6], Candletaker[3/2]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (10)
+  Field: Arcane Devourer[5/4]
+[Turn 10, Step 30] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 33] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 10, Step 34] Agent: 공격 - Candletaker[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (7): Kalecgos, Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Untamed Beastmaster, Arcane Devourer
+  Field: Al'ar[7/3], Maiden of the Lake[2/6], Candletaker[3/2], Infested Goblin[2/3], Subject 9[4/4]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (10)
+  Field: Arcane Devourer[5/4]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 카드 플레이 - Kalecgos (코스트: 10)
+[Turn 10, Step 37] Agent: 선택 - Frozen Clone
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Anubisath Warbringer (코스트: 9)
+[Turn 10, Step 37] Opponent: 공격 - Arcane Devourer[5/4] -> Infested Goblin
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Anubisath Warbringer
+[Turn 10, Step 39] Agent: 공격 - Candletaker[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/10
+  Hand (10): Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Untamed Beastmaster, Arcane Devourer, Kabal Crystal Runner, Frozen Clone, Scarab, Scarab
+  Field: Al'ar[7/3], Maiden of the Lake[2/6], Candletaker[3/2], Subject 9[4/4], Kalecgos[4/12]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (9)
+  Field: Arcane Devourer[5/2], Anubisath Warbringer[9/5]
+[Turn 10, Step 40] Agent: 공격 - Subject 9[4/4] -> Rexxar
+[Turn 10, Step 41] Agent: 공격 - Maiden of the Lake[2/6] -> Arcane Devourer
+[Turn 10, Step 42] Agent: 공격 - Kalecgos[4/12] -> Rexxar
+[Turn 10, Step 43] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 공격 - Anubisath Warbringer[9/5] -> Arcane Devourer
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (10): Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Untamed Beastmaster, Kabal Crystal Runner, Frozen Clone, Scarab, Scarab, Bilefin Tidehunter
+  Field: Al'ar[7/3], Maiden of the Lake[2/1], Candletaker[3/2], Subject 9[4/4], Kalecgos[4/12]
+Opponent: Rexxar HP: 13, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 카드 플레이 - Scarab (코스트: 1)
+[Turn 10, Step 46] Agent: 공격 - Al'ar[7/3] -> Rexxar
+[Turn 10, Step 47] Agent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 10, Step 48] Agent: 공격 - Maiden of the Lake[2/1] -> Rexxar
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (8): Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Kabal Crystal Runner, Frozen Clone, Scarab, Bilefin Tidehunter
+  Field: Al'ar[7/3], Maiden of the Lake[2/1], Candletaker[3/2], Subject 9[4/4], Kalecgos[4/12], Scarab[1/1], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 3, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 공격 - Kalecgos[4/12] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (8): Aberrant Berserker, Eerie Statue, Kael'thas Sunstrider, Hired Gun, Kabal Crystal Runner, Frozen Clone, Scarab, Bilefin Tidehunter
+  Field: Al'ar[7/3], Maiden of the Lake[2/1], Candletaker[3/2], Subject 9[4/4], Kalecgos[4/12], Scarab[1/1], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,222 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 공격 - Unstable Ghoul[1/3] -> Undertaker
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (5): Faceless Lurker, Mad Summoner, Kobold Stickyfinger, Mountain Giant, Spirit of the Dragonhawk
+  Field: Unstable Ghoul[1/2]
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (5)
+  Field: Undertaker[1/1]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 4, Step 7] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 4, Step 7] Opponent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 4, Step 7] Opponent: 공격 - Igneous Elemental[2/3] -> Unstable Ghoul
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Faceless Lurker (코스트: 5)
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/6
+  Hand (7): Mad Summoner, Kobold Stickyfinger, Mountain Giant, Spirit of the Dragonhawk, Illuminator, Explodinator, Mana Cyclone
+  Field: Faceless Lurker[3/6]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (4)
+  Field: Igneous Elemental[2/1], Target Dummy[0/1], Witch's Cauldron[0/3]
+[Turn 6, Step 10] Agent: 카드 플레이 - Mountain Giant (코스트: 6)
+[Turn 6, Step 11] Agent: 공격 - Faceless Lurker[3/6] -> Target Dummy
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 6, Step 12] Opponent: 공격 - Igneous Elemental[2/1] -> Faceless Lurker
+[Turn 6, Step 12] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Faceless Lurker
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/7
+  Hand (6): Mad Summoner, Kobold Stickyfinger, Spirit of the Dragonhawk, Illuminator, Mana Cyclone, Ogre Magi
+  Field: Faceless Lurker[3/3], Mountain Giant[8/8], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/6
+  Hand (4)
+  Field: Witch's Cauldron[0/3], Flame Elemental[1/2], Flame Elemental[1/2]
+[Turn 7, Step 15] Agent: 공격 - Mountain Giant[8/8] -> Flame Elemental
+[Turn 7, Step 16] Agent: 공격 - Faceless Lurker[3/3] -> Witch's Cauldron
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Lotus Agents (코스트: 5)
+[Turn 7, Step 17] Opponent: 선택 - Violet Haze
+[Turn 7, Step 17] Opponent: 카드 플레이 - Violet Haze (코스트: 2)
+[Turn 7, Step 17] Opponent: 공격 - Flame Elemental[1/2] -> Faceless Lurker
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Illuminator (코스트: 3)
+[Turn 8, Step 19] Agent: 공격 - Faceless Lurker[3/2] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/8
+  Hand (6): Mad Summoner, Kobold Stickyfinger, Spirit of the Dragonhawk, Mana Cyclone, Ogre Magi, Hungry Dragon
+  Field: Faceless Lurker[3/2], Mountain Giant[8/7], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2], Illuminator[2/4]
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (6)
+  Field: Lotus Agents[5/3]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 21] Agent: 공격 - Mountain Giant[8/7] -> Lotus Agents
+[Turn 8, Step 22] Agent: 카드 플레이 - Spirit of the Dragonhawk (코스트: 2)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 8, Step 23] Opponent: 영웅 능력 사용
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Harvest Golem (코스트: 3)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Expired Merchant (코스트: 2)
+[Turn 9, Step 24] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 9, Step 24] Opponent: 공격 - Bonechewer Brawler[2/3] -> Faceless Lurker
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (7): Mad Summoner, Kobold Stickyfinger, Mana Cyclone, Ogre Magi, Hungry Dragon, Psych-o-Tron, Jeweled Scarab
+  Field: Mountain Giant[8/2], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2], Illuminator[2/4], Spirit of the Dragonhawk[0/3]
+Opponent: Rexxar HP: 26, Mana: 1/9
+  Hand (2)
+  Field: Harvest Golem[2/3], Expired Merchant[2/1], Ice Rager[5/2]
+[Turn 10, Step 25] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 10, Step 26] Agent: 공격 - Explodinator[3/2] -> Rexxar
+[Turn 10, Step 27] Agent: 공격 - Illuminator[2/4] -> Rexxar
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 29] Agent: 공격 - Mountain Giant[8/2] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (6): Mad Summoner, Kobold Stickyfinger, Ogre Magi, Hungry Dragon, Psych-o-Tron, Jeweled Scarab
+  Field: Mountain Giant[8/2], Goblin Bomb[0/2], Explodinator[3/2], Goblin Bomb[0/2], Illuminator[2/4], Spirit of the Dragonhawk[0/3], Mana Cyclone[2/2]
+Opponent: Rexxar HP: 12, Mana: 1/9
+  Hand (2)
+  Field: Harvest Golem[2/3], Expired Merchant[2/1], Ice Rager[5/2]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Wandering Monster (코스트: 2)
+[Turn 10, Step 30] Opponent: 공격 - Harvest Golem[2/3] -> Goblin Bomb
+[Turn 10, Step 30] Opponent: 공격 - Ice Rager[5/2] -> Mana Cyclone
+[Turn 10, Step 30] Opponent: 공격 - Expired Merchant[2/1] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 영웅 능력 사용
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Explodinator[3/2] -> Harvest Golem
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Goblin Bomb
+[Turn 10, Step 33] Agent: 공격 - Illuminator[2/3] -> Emperor Cobra
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 공격 - Expired Merchant[2/1] -> Goblin Bomb
+[Turn 10, Step 34] Opponent: 카드 플레이 - The Skeleton Knight (코스트: 9)
+[Turn 10, Step 34] Opponent: 공격 - Venture Co. Mercenary[7/6] -> Spirit of the Dragonhawk
+[Turn 10, Step 34] Opponent: 공격 - Damaged Golem[2/1] -> Mountain Giant
+[Turn 10, Step 34] Opponent: 공격 - Emperor Cobra[2/1] -> Jaina Proudmoore
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (8): Shrieking Shroom, Mad Summoner, Kobold Stickyfinger, Ogre Magi, Hungry Dragon, Psych-o-Tron, Jeweled Scarab, Fungalmancer
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (1)
+  Field: Expired Merchant[2/1], Venture Co. Mercenary[7/6], Emperor Cobra[2/1], The Skeleton Knight[7/4]
+[Turn 10, Step 35] Agent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 10, Step 36] Agent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Expired Merchant[2/1] -> Ogre Magi
+[Turn 10, Step 37] Opponent: 공격 - Venture Co. Mercenary[7/6] -> Imp
+[Turn 10, Step 37] Opponent: 공격 - Emperor Cobra[2/1] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 공격 - The Skeleton Knight[7/4] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 카드 플레이 - Griftah (코스트: 7)
+[Turn 10, Step 37] Opponent: 선택 - Deadscale Knight
+[Turn 10, Step 37] Opponent: 선택 - Lone Champion
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 공격 - Ogre Magi[4/2] -> Emperor Cobra
+[Turn 10, Step 39] Agent: 공격 - Imp[1/1] -> The Skeleton Knight
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (8): Shrieking Shroom, Kobold Stickyfinger, Hungry Dragon, Psych-o-Tron, Jeweled Scarab, Fungalmancer, Deadscale Knight, Depth Charge
+  Field: Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (4)
+  Field: Venture Co. Mercenary[7/5], The Skeleton Knight[7/3], Griftah[4/5]
+[Turn 10, Step 40] Agent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Griftah
+[Turn 10, Step 42] Agent: 공격 - Imp[1/1] -> Griftah
+[Turn 10, Step 43] Agent: 공격 - Imp[1/1] -> Rexxar
+[Turn 10, Step 44] Agent: 카드 플레이 - Deadscale Knight (코스트: 1)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (6): Shrieking Shroom, Kobold Stickyfinger, Hungry Dragon, Jeweled Scarab, Fungalmancer, Depth Charge
+  Field: Imp[1/1], Mad Summoner[4/4], Psych-o-Tron[3/4], Deadscale Knight[1/1]
+Opponent: Rexxar HP: 8, Mana: 1/10
+  Hand (4)
+  Field: Venture Co. Mercenary[7/5], The Skeleton Knight[7/3], Griftah[4/3], Lil' Exorcist[2/2]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - The Skeleton Knight[7/3] -> Psych-o-Tron
+[Turn 10, Step 45] Opponent: 공격 - Lil' Exorcist[2/2] -> Psych-o-Tron
+[Turn 10, Step 45] Opponent: 공격 - Griftah[4/3] -> Psych-o-Tron
+[Turn 10, Step 45] Opponent: 공격 - Venture Co. Mercenary[7/5] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 46) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 2/10
+  Hand (6): Shrieking Shroom, Kobold Stickyfinger, Hungry Dragon, Jeweled Scarab, Fungalmancer, Depth Charge
+  Field: Imp[1/1], Mad Summoner[4/4], Deadscale Knight[1/1]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (6)
+  Field: Venture Co. Mercenary[7/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

@@ -1,0 +1,258 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/2
+  Hand (5): Mana Addict, Soggoth the Slitherer, Elemental Allies, Twilight Elder, Fight Promoter
+  Field: Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (4)
+  Field: Cogmaster[1/2]
+[Turn 2, Step 5] Agent: 카드 플레이 - Elemental Allies (코스트: 1)
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 2, Step 6] Opponent: 공격 - Cogmaster[1/2] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 공격 - Worgen Infiltrator[2/1] -> Rexxar
+[Turn 3, Step 8] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 3, Step 9] Agent: 영웅 능력 사용 -> Snowflipper Penguin
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (4): Mana Addict, Soggoth the Slitherer, Twilight Elder, Fight Promoter
+  Field: Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (4)
+  Field: Cogmaster[1/2], Humongous Razorleaf[4/8]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 공격 - Cogmaster[1/2] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 카드 플레이 - Dwarven Sharpshooter (코스트: 1)
+[Turn 3, Step 10] Opponent: 영웅 능력 사용 -> Worgen Infiltrator
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Infested Tauren (코스트: 4)
+[Turn 4, Step 12] Opponent: 공격 - Dwarven Sharpshooter[1/3] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 4, Step 12] Opponent: 공격 - Cogmaster[1/2] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Cogmaster
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/5
+  Hand (5): Soggoth the Slitherer, Twilight Elder, Fight Promoter, Ancient of Blossoms, Hench-Clan Thug
+  Field: Mana Addict[1/3]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (3)
+  Field: Cogmaster[1/1], Humongous Razorleaf[4/7], Dwarven Sharpshooter[1/3], Infested Tauren[2/3], Injured Kvaldir[2/1]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 6, Step 17] Agent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 공격 - Dwarven Sharpshooter[1/3] -> Mana Addict
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Cogmaster
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/7
+  Hand (6): Mimiron's Head, Soggoth the Slitherer, Fight Promoter, Ancient of Blossoms, Hench-Clan Thug, Piloted Reaper
+  Field: Mana Addict[1/2], Twilight Elder[3/4]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (5)
+  Field: Humongous Razorleaf[4/4], Dwarven Sharpshooter[1/2], Infested Tauren[2/3], Injured Kvaldir[2/1]
+[Turn 7, Step 20] Agent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 7, Step 21] Agent: 공격 - Mana Addict[1/2] -> Infested Tauren
+[Turn 7, Step 22] Agent: 공격 - Twilight Elder[3/4] -> Infested Tauren
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 영웅 능력 사용 -> Slime
+[Turn 7, Step 23] Opponent: 카드 플레이 - Bomb Squad -> Mimiron's Head (코스트: 5)
+[Turn 7, Step 23] Opponent: 공격 - Dwarven Sharpshooter[1/2] -> Jaina Proudmoore
+[Turn 7, Step 23] Opponent: 공격 - Injured Kvaldir[2/1] -> Twilight Elder
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Piloted Reaper (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/8
+  Hand (5): Soggoth the Slitherer, Fight Promoter, Ancient of Blossoms, Hench-Clan Thug, Emerald Hive Queen
+  Field: Piloted Reaper[4/3]
+Opponent: Rexxar HP: 28, Mana: 1/8
+  Hand (5)
+  Field: Humongous Razorleaf[4/4], Dwarven Sharpshooter[1/2], Bomb Squad[2/2]
+[Turn 8, Step 25] Agent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Serpent Ward (코스트: 2)
+[Turn 8, Step 27] Opponent: 공격 - Bomb Squad[2/2] -> Emerald Hive Queen
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 공격 - Emerald Hive Queen[2/1] -> Dwarven Sharpshooter
+[Turn 9, Step 29] Agent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 2/9
+  Hand (4): Soggoth the Slitherer, Fight Promoter, Ancient of Blossoms, Hench-Clan Thug
+  Field: Piloted Reaper[4/3], Darkmire Moonkin[2/8]
+Opponent: Rexxar HP: 23, Mana: 7/9
+  Hand (5)
+  Field: Humongous Razorleaf[4/4], Serpent Ward[0/2]
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Piloted Reaper
+[Turn 9, Step 31] Agent: 공격 - Piloted Reaper[4/2] -> Rexxar
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 9, Step 32] Opponent: 공격 - Wyvern[5/5] -> Piloted Reaper
+[Turn 9, Step 32] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 9, Step 32] Opponent: 공격 - Rexxar[2/19] -> Jaina Proudmoore
+[Turn 9, Step 32] Opponent: 영웅 능력 사용
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Soggoth the Slitherer (코스트: 9)
+[Turn 10, Step 34] Agent: 공격 - Darkmire Moonkin[2/8] -> Wyvern
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (4): Fight Promoter, Ancient of Blossoms, Hench-Clan Thug, Injured Tol'vir
+  Field: Darkmire Moonkin[2/2], Soggoth the Slitherer[5/9]
+Opponent: Rexxar HP: 19, Mana: 0/10
+  Hand (5)
+  Field: Humongous Razorleaf[4/4], Serpent Ward[0/2]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Sated Threshadon (코스트: 7)
+[Turn 10, Step 35] Opponent: 공격 - Rexxar[2/19] -> Soggoth the Slitherer
+[Turn 10, Step 35] Opponent: 영웅 능력 사용
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Sated Threshadon
+[Turn 10, Step 37] Agent: 공격 - Soggoth the Slitherer[5/7] -> Rexxar
+[Turn 10, Step 38] Agent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 10, Step 39] Agent: 카드 플레이 - Injured Tol'vir (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (5): Ancient of Blossoms, Hench-Clan Thug, Hailbringer, Murmy, Arcane Amplifier
+  Field: Darkmire Moonkin[2/2], Soggoth the Slitherer[5/7], Fight Promoter[4/4], Injured Tol'vir[2/3]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (5)
+  Field: Humongous Razorleaf[4/4], Serpent Ward[0/2], Sated Threshadon[5/6]
+[Turn 10, Step 40] Agent: 공격 - Darkmire Moonkin[2/2] -> Humongous Razorleaf
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Unleash the Beast (코스트: 6)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Injured Tol'vir[2/3] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Soggoth the Slitherer[5/7] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Fight Promoter[4/4] -> Sated Threshadon
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (6): Ancient of Blossoms, Hench-Clan Thug, Hailbringer, Murmy, Arcane Amplifier, Auctionmaster Beardo
+  Field: Soggoth the Slitherer[5/7], Injured Tol'vir[2/3]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (4)
+  Field: Humongous Razorleaf[4/2], Serpent Ward[0/2], Sated Threshadon[5/2], Wyvern[5/5]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 10, Step 47] Agent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Wyvern[5/5] -> Soggoth the Slitherer
+[Turn 10, Step 48] Opponent: 카드 플레이 - Argent Horserider (코스트: 3)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 10, Step 48] Opponent: 공격 - Argent Horserider[2/1] -> Injured Tol'vir
+[Turn 10, Step 48] Opponent: 공격 - Sated Threshadon[5/2] -> Ancient of Blossoms
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Guardian Augmerchant -> Murmy (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 9/10
+  Hand (4): Hench-Clan Thug, Hailbringer, Arcane Amplifier, Auctionmaster Beardo
+  Field: Soggoth the Slitherer[5/2], Injured Tol'vir[2/1], Murmy[1/1], Ancient of Blossoms[3/3], Guardian Augmerchant[2/1]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (3)
+  Field: Humongous Razorleaf[4/2], Serpent Ward[0/2], Primalfin[1/1], Primalfin[1/1], Primalfin[1/1], Argent Horserider[2/1], Dragonslayer[4/3]
+[Turn 10, Step 50] Agent: 공격 - Injured Tol'vir[2/1] -> Primalfin
+[Turn 10, Step 51] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Soggoth the Slitherer[5/2] -> Primalfin
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Ancient of Blossoms
+[Turn 10, Step 54] Agent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 1/10
+  Hand (2): Hailbringer, Arcane Amplifier
+  Field: Soggoth the Slitherer[5/1], Murmy[1/1], Ancient of Blossoms[3/2], Guardian Augmerchant[2/1], Auctionmaster Beardo[3/4], Hench-Clan Thug[3/3]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (3)
+  Field: Humongous Razorleaf[4/2], Serpent Ward[0/2], Primalfin[1/1], Argent Horserider[2/1], Dragonslayer[4/3]
+[Turn 10, Step 55] Agent: 공격 - Ancient of Blossoms[3/2] -> Primalfin
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Argent Horserider[2/1] -> Ancient of Blossoms
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Guardian Augmerchant[2/1] -> Dragonslayer
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Hench-Clan Thug
+[Turn 10, Step 59] Agent: 공격 - Auctionmaster Beardo[3/4] -> Dragonslayer
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 8/10
+  Hand (3): Hailbringer, Arcane Amplifier, Marin the Fox
+  Field: Soggoth the Slitherer[5/1], Murmy[1/1], Hench-Clan Thug[3/2]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (4)
+  Field: Humongous Razorleaf[4/2], Serpent Ward[0/2]
+[Turn 10, Step 60] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 61] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 62) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 5/10
+  Hand (2): Hailbringer, Marin the Fox
+  Field: Soggoth the Slitherer[5/1], Murmy[1/1], Hench-Clan Thug[3/2], Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 2, Mana: 3/10
+  Hand (4)
+  Field: Humongous Razorleaf[4/2], Serpent Ward[0/2], Chillmaw[6/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

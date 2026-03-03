@@ -1,0 +1,222 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 공격 - Worgen Infiltrator[2/1] -> Rexxar
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Wrathion, Harrison Jones, Utgarde Grapplesniper, Majordomo Executus, Tanglefur Mystic, Dragoncaller Alanna
+  Field: Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 23, Mana: 0/3
+  Hand (6)
+  Field: Ornery Tortoise[3/5]
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 4, Step 5] Opponent: 공격 - Ornery Tortoise[3/5] -> Worgen Infiltrator
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Scavenger's Ingenuity (코스트: 2)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Silverback Patriarch
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/6
+  Hand (8): Wrathion, Harrison Jones, Utgarde Grapplesniper, Majordomo Executus, Dragoncaller Alanna, Cogmaster, Museum Curator, Steam Surger
+  Field: Tanglefur Mystic[3/4]
+Opponent: Rexxar HP: 22, Mana: 3/5
+  Hand (8)
+  Field: Ornery Tortoise[3/3], Silverback Patriarch[1/3]
+[Turn 6, Step 10] Agent: 카드 플레이 - Museum Curator (코스트: 2)
+[Turn 6, Step 11] Agent: 선택 - Unstable Ghoul
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 공격 - Silverback Patriarch[1/3] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 공격 - Ornery Tortoise[3/3] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 6, Step 11] Opponent: 영웅 능력 사용
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 7, Step 13] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+[Turn 7, Step 14] Agent: 공격 - Museum Curator[1/2] -> Silverback Patriarch
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/7
+  Hand (7): Wrathion, Harrison Jones, Utgarde Grapplesniper, Majordomo Executus, Dragoncaller Alanna, Cogmaster, Boompistol Bully
+  Field: Tanglefur Mystic[3/4], Museum Curator[1/1], Unstable Ghoul[1/3], Steam Surger[5/4]
+Opponent: Rexxar HP: 22, Mana: 1/6
+  Hand (8)
+  Field: Ornery Tortoise[3/3], Silverback Patriarch[1/2], Tauren Warrior[2/3]
+[Turn 7, Step 15] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Corridor Creeper (코스트: 7)
+[Turn 7, Step 16] Opponent: 공격 - Ornery Tortoise[3/3] -> Unstable Ghoul
+[Turn 7, Step 16] Opponent: 공격 - Tauren Warrior[5/2] -> Steam Surger
+[Turn 7, Step 16] Opponent: 공격 - Silverback Patriarch[1/1] -> Cogmaster
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 8, Step 18] Agent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 8, Step 19] Agent: 공격 - Tanglefur Mystic[3/3] -> Ornery Tortoise
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (6): Wrathion, Harrison Jones, Majordomo Executus, Dragoncaller Alanna, Boompistol Bully, Young Dragonhawk
+  Field: Parachute Brigand[2/2], Utgarde Grapplesniper[5/5]
+Opponent: Rexxar HP: 22, Mana: 0/7
+  Hand (9)
+  Field: Corridor Creeper[4/6]
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Razorpetal Lasher (코스트: 2)
+[Turn 8, Step 20] Opponent: 공격 - Corridor Creeper[4/6] -> Parachute Brigand
+[Turn 8, Step 20] Opponent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 8, Step 20] Opponent: 카드 플레이 - Razorpetal -> Jaina Proudmoore (코스트: 1)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Corridor Creeper
+[Turn 9, Step 23] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 9, Step 24] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 24] Opponent: 카드 플레이 - Walking Fountain (코스트: 8)
+[Turn 9, Step 24] Opponent: 공격 - Sludge Belcher[3/5] -> Boompistol Bully
+[Turn 9, Step 24] Opponent: 공격 - Corridor Creeper[4/3] -> Boompistol Bully
+[Turn 9, Step 24] Opponent: 공격 - Razorpetal Lasher[2/2] -> Utgarde Grapplesniper
+[Turn 9, Step 24] Opponent: 공격 - Walking Fountain[4/8] -> Utgarde Grapplesniper
+[Turn 9, Step 24] Opponent: 공격 - Walking Fountain[4/3] -> Young Dragonhawk
+[Turn 9, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (6): Wrathion, Harrison Jones, Majordomo Executus, Dragoncaller Alanna, Mirror Image, Waterboy
+Opponent: Rexxar HP: 30, Mana: 1/9
+  Hand (8)
+  Field: Putrid Slime[1/2], Walking Fountain[4/2]
+[Turn 10, Step 25] Agent: 카드 플레이 - Majordomo Executus (코스트: 9)
+[Turn 10, Step 26] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Deathwing, Dragonlord (코스트: 10)
+[Turn 10, Step 27] Opponent: 공격 - Putrid Slime[1/2] -> Mirror Image
+[Turn 10, Step 27] Opponent: 공격 - Walking Fountain[4/2] -> Mirror Image
+[Turn 10, Step 27] Opponent: 공격 - Walking Fountain[4/2] -> Mirror Image
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Majordomo Executus
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (4): Wrathion, Dragoncaller Alanna, Waterboy, Soggoth the Slitherer
+  Field: Majordomo Executus[9/6], Harrison Jones[5/4]
+Opponent: Rexxar HP: 30, Mana: 0/10
+  Hand (8)
+  Field: Putrid Slime[1/2], Walking Fountain[4/2], Deathwing, Dragonlord[12/12]
+[Turn 10, Step 30] Agent: 카드 플레이 - Waterboy (코스트: 2)
+[Turn 10, Step 31] Agent: 공격 - Majordomo Executus[9/6] -> Putrid Slime
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Frost Giant (코스트: 9)
+[Turn 10, Step 32] Opponent: 공격 - Deathwing, Dragonlord[12/12] -> Jaina Proudmoore
+[Turn 10, Step 32] Opponent: 공격 - Walking Fountain[4/2] -> Harrison Jones
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Frost Giant
+[Turn 10, Step 34] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 7/10
+  Hand (4): Wrathion, Dragoncaller Alanna, Soggoth the Slitherer, Libram of Hope
+  Field: Majordomo Executus[9/5], Waterboy[2/1], Babbling Book[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (8)
+  Field: Deathwing, Dragonlord[12/12], Frost Giant[8/7]
+[Turn 10, Step 35] Agent: 공격 - Waterboy[2/1] -> Frost Giant
+[Turn 10, Step 36] Agent: 공격 - Majordomo Executus[9/5] -> Rexxar
+[Turn 10, Step 37] Agent: 카드 플레이 - Wrathion (코스트: 6)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 10, Step 38] Opponent: 공격 - Deathwing, Dragonlord[12/12] -> Wrathion
+[Turn 10, Step 38] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Dragoncaller Alanna (코스트: 9)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (3): Soggoth the Slitherer, Libram of Hope, Tomb Lurker
+  Field: Majordomo Executus[9/5], Babbling Book[1/1], Finja, the Flying Star[2/4], Dragoncaller Alanna[3/3]
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (7)
+  Field: Deathwing, Dragonlord[12/8], Frost Giant[8/5], Dirty Rat[2/6], War Golem[7/7]
+[Turn 10, Step 40] Agent: 공격 - Majordomo Executus[9/5] -> Dirty Rat
+[Turn 10, Step 41] Agent: 공격 - Finja, the Flying Star[2/4] -> War Golem
+[Turn 10, Step 42] Agent: 공격 - Babbling Book[1/1] -> Frost Giant
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Deathwing, Dragonlord[12/8] -> Dragoncaller Alanna
+[Turn 10, Step 43] Opponent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 10, Step 43] Opponent: 선택 - Dragonkin Sorcerer
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Libram of Hope -> Frost Giant (코스트: 9)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 1/10
+  Hand (3): Soggoth the Slitherer, Tomb Lurker, Jepetto Joybuzz
+  Field: Majordomo Executus[9/3], Ancient Guardian[8/8]
+Opponent: Rexxar HP: 21, Mana: 2/10
+  Hand (7)
+  Field: Deathwing, Dragonlord[12/5], Frost Giant[8/8], War Golem[7/5], Grim Patron[3/3], Primordial Explorer[2/3]
+[Turn 10, Step 45] Agent: 공격 - Majordomo Executus[9/3] -> Grim Patron
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Spellweaver (코스트: 6)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 공격 - Deathwing, Dragonlord[12/5] -> Ancient Guardian
+[Turn 10, Step 46] Opponent: 공격 - Frost Giant[8/8] -> Ancient Guardian
+[Turn 10, Step 46] Opponent: 공격 - War Golem[7/5] -> Ragnaros the Firelord
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Ragnaros the Firelord HP: 0, Mana: 1/10
+  Hand (3): Soggoth the Slitherer, Tomb Lurker, Jepetto Joybuzz
+Opponent: Rexxar HP: 21, Mana: 1/10
+  Hand (5)
+  Field: Dragonkin Sorcerer[3/5], War Golem[7/5], Primordial Explorer[2/3], Spellweaver[4/4], Mecharoo[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

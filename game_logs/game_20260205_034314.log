@@ -1,0 +1,283 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Kabal Lackey (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Kabal Lackey[2/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Zephrys the Great (코스트: 2)
+[Turn 2, Step 4] Opponent: 선택 - Backstab
+[Turn 2, Step 4] Opponent: 카드 플레이 - Backstab -> Golakka Crawler (코스트: 0)
+[Turn 2, Step 4] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Opponent: 카드 플레이 - Abusive Sergeant -> Zephrys the Great (코스트: 1)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Frostwolf Grunt, Mogu Cultist, River Crocolisk, Reckless Rocketeer
+  Field: Kabal Lackey[2/1], Golakka Crawler[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (4)
+  Field: Zephrys the Great[3/2], Abusive Sergeant[1/1]
+[Turn 3, Step 5] Agent: 공격 - Kabal Lackey[2/1] -> Rexxar
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 7] Agent: 공격 - Golakka Crawler[2/1] -> Zephrys the Great
+[Turn 3, Step 8] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Dwarven Sharpshooter (코스트: 1)
+[Turn 3, Step 9] Opponent: 공격 - Abusive Sergeant[1/1] -> Mogu Cultist
+[Turn 3, Step 9] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (4): Frostwolf Grunt, River Crocolisk, Reckless Rocketeer, Boneguard Lieutenant
+  Field: Kabal Lackey[2/1]
+Opponent: Rexxar HP: 26, Mana: 1/3
+  Hand (4)
+  Field: Dwarven Sharpshooter[1/3], Jeweled Macaw[1/1]
+[Turn 4, Step 10] Agent: 공격 - Kabal Lackey[2/1] -> Jeweled Macaw
+[Turn 4, Step 11] Agent: 카드 플레이 - Boneguard Lieutenant (코스트: 2)
+[Turn 4, Step 12] Agent: 영웅 능력 사용 -> Boneguard Lieutenant
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 공격 - Dwarven Sharpshooter[1/3] -> Boneguard Lieutenant
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (4): Frostwolf Grunt, River Crocolisk, Reckless Rocketeer, Seaforium Bomber
+  Field: Boneguard Lieutenant[3/2]
+Opponent: Rexxar HP: 25, Mana: 4/4
+  Hand (5)
+[Turn 5, Step 15] Agent: 공격 - Boneguard Lieutenant[3/2] -> Rexxar
+[Turn 5, Step 16] Agent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Burrowing Scorpid -> Frostwolf Grunt (코스트: 4)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Armagedillo (코스트: 6)
+[Turn 6, Step 19] Opponent: 공격 - Burrowing Scorpid[5/2] -> Jaina Proudmoore
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/7
+  Hand (4): Reckless Rocketeer, Seaforium Bomber, Loatheb, Bloodmage Thalnos
+  Field: Boneguard Lieutenant[3/2], River Crocolisk[2/3]
+Opponent: Rexxar HP: 22, Mana: 0/6
+  Hand (5)
+  Field: Burrowing Scorpid[5/2], Armagedillo[4/7]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> River Crocolisk
+[Turn 7, Step 21] Agent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 7, Step 22] Agent: 공격 - Boneguard Lieutenant[3/3] -> Armagedillo
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Loatheb (코스트: 5)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/8
+  Hand (3): Reckless Rocketeer, Bloodmage Thalnos, Elite Tauren Chieftain
+  Field: River Crocolisk[2/2], Seaforium Bomber[5/5], Loatheb[5/5]
+Opponent: Rexxar HP: 22, Mana: 5/7
+  Hand (6)
+  Field: Burrowing Scorpid[5/2], Armagedillo[4/4]
+[Turn 8, Step 25] Agent: 영웅 능력 사용 -> River Crocolisk
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Armagedillo[4/4] -> River Crocolisk
+[Turn 8, Step 26] Opponent: 공격 - Burrowing Scorpid[5/2] -> Seaforium Bomber
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Stablemaster -> Emerald Reaver (코스트: 3)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Emerald Reaver
+[Turn 9, Step 28] Agent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 9, Step 29] Agent: 공격 - Loatheb[5/5] -> Armagedillo
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/9
+  Hand (3): Reckless Rocketeer, Elite Tauren Chieftain, Master of Ceremonies
+  Field: Loatheb[5/1], Bloodmage Thalnos[1/1]
+Opponent: Rexxar HP: 21, Mana: 0/8
+  Hand (4)
+  Field: Echoing Ooze[1/2], Echoing Ooze[1/2], Stablemaster[4/2]
+[Turn 9, Step 30] Agent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 9, Step 31] Opponent: 공격 - Echoing Ooze[1/2] -> Jaina Proudmoore
+[Turn 9, Step 31] Opponent: 공격 - Echoing Ooze[1/2] -> Bloodmage Thalnos
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Stablemaster
+[Turn 10, Step 33] Agent: 카드 플레이 - Stoneskin Basilisk (코스트: 3)
+[Turn 10, Step 34] Agent: 공격 - Loatheb[5/1] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (3): Scarlet Crusader, Reckless Rocketeer, Elite Tauren Chieftain
+  Field: Loatheb[5/1], Master of Ceremonies[6/4], Stoneskin Basilisk[1/1]
+Opponent: Rexxar HP: 11, Mana: 7/9
+  Hand (4)
+  Field: Echoing Ooze[1/1], Echoing Ooze[1/2], Stablemaster[4/1], Ancient Watcher[4/5]
+[Turn 10, Step 35] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 10, Step 36] Agent: 공격 - Master of Ceremonies[6/4] -> Stablemaster
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Echoing Ooze[1/2] -> Scarlet Crusader
+[Turn 10, Step 37] Opponent: 공격 - Echoing Ooze[1/1] -> Stoneskin Basilisk
+[Turn 10, Step 37] Opponent: 카드 플레이 - Mad Summoner (코스트: 6)
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Imp
+[Turn 10, Step 39] Agent: 공격 - Scarlet Crusader[3/1] -> Ancient Watcher
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (3): Reckless Rocketeer, Elite Tauren Chieftain, Dune Sculptor
+  Field: Loatheb[5/1], Stoneskin Basilisk[1/1]
+Opponent: Rexxar HP: 11, Mana: 2/10
+  Hand (4)
+  Field: Ancient Watcher[4/2], Imp[1/1], Imp[1/1], Mad Summoner[4/4], Imp[1/1], Imp[1/1]
+[Turn 10, Step 40] Agent: 공격 - Loatheb[5/1] -> Imp
+[Turn 10, Step 41] Agent: 공격 - Stoneskin Basilisk[1/1] -> Ancient Watcher
+[Turn 10, Step 42] Agent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 10, Step 43] Agent: 카드 플레이 - Dune Sculptor (코스트: 3)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 카드 플레이 - Heroic Innkeeper (코스트: 8)
+[Turn 10, Step 44] Opponent: 공격 - Imp[1/1] -> Elite Tauren Chieftain
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 공격 - Mad Summoner[4/4] -> Dune Sculptor
+[Turn 10, Step 44] Opponent: 공격 - Imp[1/1] -> Elite Tauren Chieftain
+[Turn 10, Step 44] Opponent: 공격 - Imp[1/1] -> Elite Tauren Chieftain
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (3): Reckless Rocketeer, Power of the Horde, Fen Creeper
+  Field: Elite Tauren Chieftain[5/2]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (5)
+  Field: Mad Summoner[4/1], Heroic Innkeeper[12/12]
+[Turn 10, Step 45] Agent: 공격 - Elite Tauren Chieftain[5/2] -> Heroic Innkeeper
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 47] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Heroic Innkeeper[12/7] -> Fen Creeper
+[Turn 10, Step 48] Opponent: 카드 플레이 - North Sea Kraken -> Rexxar (코스트: 9)
+[Turn 10, Step 48] Opponent: 공격 - Mad Summoner[4/1] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Power of the Horde (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 6/10
+  Hand (2): Reckless Rocketeer, Portal Keeper
+  Field: Thrallmar Farseer[2/3]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (4)
+  Field: Mad Summoner[4/1], Heroic Innkeeper[12/4], North Sea Kraken[9/7], Murmy[1/1]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 51] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 공격 - North Sea Kraken[9/7] -> Thrallmar Farseer
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 54] Agent: 공격 - Portal Keeper[5/2] -> Heroic Innkeeper
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (2): Reckless Rocketeer, Dwarven Archaeologist
+Opponent: Rexxar HP: 5, Mana: 8/10
+  Hand (5)
+  Field: Mad Summoner[4/1], North Sea Kraken[9/5], Murmy[1/1]
+[Turn 10, Step 55] Agent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Murmy[1/1] -> Reckless Rocketeer
+[Turn 10, Step 56] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Burrowing Scorpid -> Reckless Rocketeer (코스트: 4)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 카드 플레이 - Zoobot (코스트: 3)
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> North Sea Kraken
+[Turn 10, Step 59] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 3/10
+  Hand (0): 
+  Field: Zoobot[3/3], Dwarven Archaeologist[2/3]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (3)
+  Field: Mad Summoner[4/1], North Sea Kraken[9/4], Murmy[1/1], Skaterbot[1/1], Burrowing Scorpid[5/2], Rustsworn Cultist[3/3]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Mad Summoner[4/1] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 공격 - Burrowing Scorpid[5/2] -> Dwarven Archaeologist
+[Turn 10, Step 60] Opponent: 공격 - Murmy[1/1] -> Zoobot
+[Turn 10, Step 60] Opponent: 카드 플레이 - Faceless Rager -> Skaterbot (코스트: 3)
+[Turn 10, Step 60] Opponent: 공격 - North Sea Kraken[9/4] -> Zoobot
+[Turn 10, Step 60] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 62] Agent: 공격 - Felhound[2/2] -> Skaterbot
+[Turn 10, Step 63] Agent: 카드 플레이 - Bomb Lobber (코스트: 5)
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 공격 - Faceless Rager[5/1] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (0): 
+  Field: Felhound[2/1], Bomb Lobber[3/3]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (3)
+  Field: Mad Summoner[4/1], North Sea Kraken[9/1], Rusted Devil[1/1], Rusted Devil[1/1], Faceless Rager[5/1], Rusted Devil[1/1]
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (0): 
+  Field: Felhound[2/1], Bomb Lobber[3/3]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (3)
+  Field: Mad Summoner[4/1], North Sea Kraken[9/1], Rusted Devil[1/1], Rusted Devil[1/1], Faceless Rager[5/1], Rusted Devil[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

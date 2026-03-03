@@ -1,0 +1,163 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Guardian Augmerchant -> Dragon Egg (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Black Whelp
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Guardian Augmerchant[2/1] -> Dragon Egg
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Subject 9, Traveling Healer, Sharkfin Fan, Sindragosa, Spider Tank, Shallow Gravedigger
+  Field: Dragon Egg[0/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Guardian Augmerchant[2/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Traveling Healer -> Rexxar (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 공격 - Guardian Augmerchant[2/1] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Spider Tank
+[Turn 5, Step 9] Agent: 공격 - Traveling Healer[3/2] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/5
+  Hand (5): Subject 9, Sharkfin Fan, Sindragosa, Shallow Gravedigger, Argent Commander
+  Field: Dragon Egg[0/1], Traveling Healer[3/2], Spider Tank[3/3]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (7)
+  Field: Guardian Augmerchant[2/1]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 5, Step 10] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 5, Step 10] Opponent: 공격 - Guardian Augmerchant[2/1] -> Dragon Egg
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 공격 - Black Whelp[2/1] -> Guardian Augmerchant
+[Turn 6, Step 12] Agent: 카드 플레이 - Sharkfin Fan (코스트: 2)
+[Turn 6, Step 13] Agent: 공격 - Spider Tank[3/3] -> Walnut Sprite
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Traveling Healer
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/6
+  Hand (5): Corrosive Sludge, Subject 9, Sindragosa, Shallow Gravedigger, Argent Commander
+  Field: Traveling Healer[3/2], Sharkfin Fan[2/2]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (6)
+  Field: Master Swordsmith[1/3]
+[Turn 6, Step 15] Agent: 공격 - Traveling Healer[3/2] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 영웅 능력 사용
+[Turn 6, Step 16] Opponent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 6, Step 16] Opponent: 공격 - Master Swordsmith[1/3] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Traveling Healer[3/2] -> Master Swordsmith
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 19] Agent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/7
+  Hand (5): Corrosive Sludge, Subject 9, Sindragosa, Argent Commander, Brainstormer
+  Field: Traveling Healer[3/1], Sharkfin Fan[2/2], Shallow Gravedigger[3/1]
+Opponent: Rexxar HP: 23, Mana: 0/6
+  Hand (6)
+  Field: Meat Wagon[2/4]
+[Turn 7, Step 20] Agent: 공격 - Sharkfin Fan[2/2] -> Rexxar
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Meat Wagon[2/4] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 7, Step 21] Opponent: 영웅 능력 사용
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Traveling Healer
+[Turn 8, Step 23] Agent: 카드 플레이 - Brainstormer (코스트: 3)
+[Turn 8, Step 24] Agent: 공격 - Shallow Gravedigger[3/1] -> Questing Explorer
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/8
+  Hand (6): Corrosive Sludge, Subject 9, Sindragosa, Argent Commander, Maiden of the Lake, Rattling Rascal
+  Field: Sharkfin Fan[2/2], Brainstormer[3/1]
+Opponent: Rexxar HP: 21, Mana: 3/7
+  Hand (6)
+  Field: Meat Wagon[2/4]
+[Turn 8, Step 25] Agent: 공격 - Sharkfin Fan[2/2] -> Meat Wagon
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 영웅 능력 사용
+[Turn 8, Step 26] Opponent: 공격 - Meat Wagon[2/2] -> Brainstormer
+[Turn 8, Step 26] Opponent: 카드 플레이 - Harvest Golem (코스트: 3)
+[Turn 8, Step 26] Opponent: 카드 플레이 - Fencing Coach (코스트: 3)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 공격 - Harvest Golem[2/3] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 공격 - Fencing Coach[2/2] -> Subject 9
+[Turn 9, Step 28] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 9, Step 28] Opponent: 공격 - Overconfident Orc[3/6] -> Jaina Proudmoore
+[Turn 9, Step 28] Opponent: 영웅 능력 사용
+[Turn 9, Step 28] Opponent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 7/10
+  Hand (7): Corrosive Sludge, Sindragosa, Argent Commander, Maiden of the Lake, Rattling Rascal, Arcane Dynamo, Chillwind Yeti
+  Field: Subject 9[4/2]
+Opponent: Rexxar HP: 21, Mana: 3/9
+  Hand (4)
+  Field: Overconfident Orc[3/6], Harvest Golem[2/3], Young Priestess[2/1], Djinni of Zephyrs[4/7]
+[Turn 10, Step 30] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Harvest Golem
+[Turn 10, Step 32] Agent: 공격 - Subject 9[4/2] -> Overconfident Orc
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Hemet, Jungle Hunter (코스트: 6)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 카드 플레이 - Argent Watchman (코스트: 2)
+[Turn 10, Step 33] Opponent: 공격 - Overconfident Orc[1/2] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 공격 - Young Priestess[2/1] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 공격 - Djinni of Zephyrs[4/7] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 34) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (6): Corrosive Sludge, Sindragosa, Argent Commander, Maiden of the Lake, Rattling Rascal, Arcane Dynamo
+  Field: Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (3)
+  Field: Overconfident Orc[1/2], Harvest Golem[2/2], Young Priestess[2/1], Djinni of Zephyrs[4/7], Hemet, Jungle Hunter[6/6], Argent Watchman[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

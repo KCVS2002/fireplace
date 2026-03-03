@@ -1,0 +1,183 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Novice Engineer
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (6): Don Han'Cho, Loose Specimen, Kobold Stickyfinger, Sorcerer's Apprentice, Maiev Shadowsong, Huge Toad
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Sorcerer's Apprentice (코스트: 2)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 4, Step 9] Agent: 공격 - Sorcerer's Apprentice[3/2] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/4
+  Hand (6): Don Han'Cho, Loose Specimen, Kobold Stickyfinger, Maiev Shadowsong, Portal Keeper, Devilsaur Egg
+  Field: Sorcerer's Apprentice[3/2], Huge Toad[3/2]
+Opponent: Rexxar HP: 27, Mana: 4/4
+  Hand (6)
+  Field: Deadscale Knight[1/1]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 카드 플레이 - Tomb Lurker (코스트: 5)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 공격 - Huge Toad[3/2] -> Deadscale Knight
+[Turn 5, Step 14] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (6): Don Han'Cho, Loose Specimen, Kobold Stickyfinger, Maiev Shadowsong, Portal Keeper, Krul the Unshackled
+  Field: Sorcerer's Apprentice[3/2], Huge Toad[3/1], Devilsaur Egg[0/3]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (6)
+  Field: Tomb Lurker[5/3]
+[Turn 5, Step 15] Agent: 공격 - Sorcerer's Apprentice[3/2] -> Tomb Lurker
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 공격 - Huge Toad[3/1] -> Rexxar
+[Turn 6, Step 18] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 6, Step 19] Agent: 영웅 능력 사용 -> Huge Toad
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (6): Don Han'Cho, Loose Specimen, Kobold Stickyfinger, Maiev Shadowsong, Krul the Unshackled, Spark Engine
+  Field: Devilsaur Egg[0/3], Portal Keeper[5/2]
+Opponent: Rexxar HP: 25, Mana: 6/6
+  Hand (7)
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 카드 플레이 - Ice Block (코스트: 3)
+[Turn 7, Step 22] Agent: 카드 플레이 - Maiev Shadowsong -> Devilsaur Egg (코스트: 4)
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Frozen Crusher (코스트: 6)
+[Turn 7, Step 23] Opponent: 공격 - Savannah Highmane[6/5] -> Maiev Shadowsong
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Portal Keeper
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/8
+  Hand (6): Don Han'Cho, Loose Specimen, Kobold Stickyfinger, Krul the Unshackled, Spark Engine, Prince Malchezaar
+  Field: Devilsaur Egg[0/3], Portal Keeper[5/1]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (7)
+  Field: Savannah Highmane[6/1], Frozen Crusher[8/8]
+[Turn 8, Step 25] Agent: 카드 플레이 - Loose Specimen (코스트: 5)
+[Turn 8, Step 26] Agent: 공격 - Portal Keeper[5/1] -> Frozen Crusher
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 8, Step 27] Opponent: 공격 - Savannah Highmane[6/1] -> Jaina Proudmoore
+[Turn 8, Step 27] Opponent: 공격 - Frozen Crusher[8/3] -> Jaina Proudmoore
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Pit Crocolisk -> Jaina Proudmoore (코스트: 8)
+[Turn 9, Step 29] Opponent: 공격 - Savannah Highmane[6/1] -> Felhound
+[Turn 9, Step 29] Opponent: 공격 - Wasteland Assassin[4/2] -> Jaina Proudmoore
+[Turn 9, Step 29] Opponent: 영웅 능력 사용
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (7): Rotten Applebaum, Don Han'Cho, Kobold Stickyfinger, Krul the Unshackled, Spark Engine, Prince Malchezaar, Banana Buffoon
+  Field: Devilsaur Egg[0/3]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (7)
+  Field: Hyena[2/2], Hyena[2/2], Frozen Crusher[8/3], Wasteland Assassin[4/2], Pit Crocolisk[5/6]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 31] Agent: 카드 플레이 - Rotten Applebaum (코스트: 5)
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Sathrovarr -> Frozen Crusher (코스트: 9)
+[Turn 10, Step 32] Opponent: 공격 - Wasteland Assassin[4/2] -> Rotten Applebaum
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 6/10
+  Hand (7): Don Han'Cho, Kobold Stickyfinger, Krul the Unshackled, Prince Malchezaar, Banana Buffoon, North Sea Kraken, Spark
+  Field: Devilsaur Egg[0/3], Rotten Applebaum[4/1], Spark Engine[2/1]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (8)
+  Field: Hyena[2/2], Hyena[2/2], Frozen Crusher[8/3], Wasteland Assassin[4/1], Pit Crocolisk[5/6], Sathrovarr[5/5], Frozen Crusher[8/3]
+[Turn 10, Step 35] Agent: 공격 - Rotten Applebaum[4/1] -> Hyena
+[Turn 10, Step 36] Agent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 37] Agent: 공격 - Spark[1/1] -> Frozen Crusher
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Sathrovarr
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (7): Don Han'Cho, Kobold Stickyfinger, Krul the Unshackled, Prince Malchezaar, Banana Buffoon, North Sea Kraken, Y'Shaarj, Rage Unbound
+  Field: Devilsaur Egg[0/3], Spark Engine[2/1]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (9)
+  Field: Hyena[2/2], Frozen Crusher[8/2], Wasteland Assassin[4/1], Pit Crocolisk[5/6], Sathrovarr[5/4], Frozen Crusher[8/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Banana Buffoon (코스트: 3)
+[Turn 10, Step 41] Agent: 공격 - Spark Engine[2/1] -> Hyena
+[Turn 10, Step 42] Agent: 카드 플레이 - Kobold Stickyfinger (코스트: 5)
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Frozen Crusher (코스트: 6)
+[Turn 10, Step 43] Opponent: 공격 - Frozen Crusher[8/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 44) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (7): Don Han'Cho, Krul the Unshackled, Prince Malchezaar, North Sea Kraken, Y'Shaarj, Rage Unbound, Bananas, Bananas
+  Field: Devilsaur Egg[0/3], Banana Buffoon[2/2], Kobold Stickyfinger[4/4]
+Opponent: Rexxar HP: 24, Mana: 4/10
+  Hand (9)
+  Field: Frozen Crusher[8/2], Wasteland Assassin[4/1], Pit Crocolisk[5/6], Sathrovarr[5/4], Frozen Crusher[8/3], Frozen Crusher[8/8]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

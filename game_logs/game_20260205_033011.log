@@ -1,0 +1,341 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/2
+  Hand (5): Dread Raven, Tinkertown Technician, Duskboar, Psych-o-Tron, Phantom Militia
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (4)
+  Field: Mistress of Mixtures[2/2]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Murloc Tastyfin (코스트: 4)
+[Turn 3, Step 7] Opponent: 공격 - Mistress of Mixtures[2/2] -> Phantom Militia
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 4, Step 8] Opponent: 공격 - Murloc Tastyfin[3/2] -> Phantom Militia
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Fencing Coach (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (6): Dread Raven, Tinkertown Technician, Duskboar, Psych-o-Tron, Corridor Creeper, Bone Wraith
+  Field: Fencing Coach[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: SN1P-SN4P[2/3]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> SN1P-SN4P
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - SN1P-SN4P[2/2] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 5, Step 12] Opponent: 영웅 능력 사용
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 6, Step 14] Agent: 공격 - Fencing Coach[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (5): Dread Raven, Tinkertown Technician, Corridor Creeper, Bone Wraith, Demented Frostcaller
+  Field: Fencing Coach[2/2], Duskboar[4/1], Psych-o-Tron[3/4]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (6)
+  Field: SN1P-SN4P[2/2], Coppertail Imposter[4/4]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - SN1P-SN4P[2/2] -> Psych-o-Tron
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Coppertail Imposter
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 7, Step 18] Agent: 공격 - Psych-o-Tron[3/4] -> Abomination
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 7, Step 19] Agent: 공격 - Fencing Coach[2/2] -> Abomination
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/7
+  Hand (5): Tinkertown Technician, Corridor Creeper, Bone Wraith, Demented Frostcaller, Abomination
+  Field: Dread Raven[6/2]
+Opponent: Rexxar HP: 26, Mana: 0/7
+  Hand (6)
+  Field: Coppertail Imposter[4/1]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 7, Step 20] Opponent: 공격 - Coppertail Imposter[4/1] -> Dread Raven
+[Turn 7, Step 20] Opponent: 카드 플레이 - Rocket Augmerchant -> Coldlight Oracle (코스트: 1)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(73) → 8로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Corridor Creeper (코스트: 0)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Coldlight Oracle[2/1] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 카드 플레이 - Crowd Roaster -> Corridor Creeper (코스트: 7)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 9/9
+  Hand (7): Gormok the Impaler, Tinkertown Technician, Bone Wraith, Demented Frostcaller, Abomination, Stormwind Champion, Psych-o-Tron
+  Field: Gadgetzan Auctioneer[4/4], Corridor Creeper[2/5]
+Opponent: Rexxar HP: 25, Mana: 2/9
+  Hand (7)
+  Field: Coldlight Oracle[2/1], Rocket Augmerchant[2/1], Crowd Roaster[7/4]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(49) → 3로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(43) → 21로 보정
+[Turn 9, Step 26] Agent: 공격 - Corridor Creeper[2/5] -> Crowd Roaster
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(90) → 5로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 9, Step 28] Agent: 공격 - Gadgetzan Auctioneer[4/4] -> Crowd Roaster
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Lone Champion (코스트: 3)
+[Turn 9, Step 29] Opponent: 공격 - Coldlight Oracle[2/1] -> Bone Wraith
+[Turn 9, Step 29] Opponent: 카드 플레이 - Spark Drill (코스트: 6)
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (6): Gormok the Impaler, Tinkertown Technician, Demented Frostcaller, Abomination, Stormwind Champion, Al'ar
+  Field: Bone Wraith[2/3], Psych-o-Tron[3/4]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (6)
+  Field: Rocket Augmerchant[2/1], Lone Champion[2/4], Spark Drill[5/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(51) → 9로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Psych-o-Tron
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 32] Agent: 공격 - Psych-o-Tron[3/4] -> Lone Champion
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(12) → 5로 보정
+[Turn 10, Step 33] Agent: 공격 - Bone Wraith[2/3] -> Lone Champion
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (5): Demented Frostcaller, Abomination, Stormwind Champion, Al'ar, Emergency Coolant
+  Field: Bone Wraith[2/1], Psych-o-Tron[3/2], Gormok the Impaler[4/4], Tinkertown Technician[4/4]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (6)
+  Field: Rocket Augmerchant[2/1], Lone Champion[2/2], Spark Drill[5/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 10, Step 35] Opponent: 공격 - Lone Champion[2/4] -> Psych-o-Tron
+[Turn 10, Step 35] Opponent: 공격 - Spark Drill[5/1] -> Bone Wraith
+[Turn 10, Step 35] Opponent: 공격 - Rocket Augmerchant[2/1] -> Bone Wraith
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Abomination (코스트: 5)
+[Turn 10, Step 37] Agent: 카드 플레이 - Emergency Coolant -> Injured Blademaster (코스트: 1)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Demented Frostcaller (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Lone Champion[2/1] -> Abomination
+[Turn 10, Step 39] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 10, Step 39] Opponent: 공격 - Unstable Ghoul[1/3] -> Abomination
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (4): Manic Soulcaster, Kazakus, Stormwind Champion, Al'ar
+  Field: Gormok the Impaler[4/1], Tinkertown Technician[4/1], Demented Frostcaller[2/1]
+Opponent: Rexxar HP: 25, Mana: 6/10
+  Hand (6)
+  Field: Injured Blademaster[4/2], Darkscale Healer[4/2], Sunstruck Henchman[6/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(88) → 7로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Manic Soulcaster -> Tinkertown Technician (코스트: 3)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(86) → 11로 보정
+[Turn 10, Step 42] Agent: 공격 - Demented Frostcaller[2/1] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Al'ar (코스트: 5)
+[Turn 10, Step 44] Agent: 공격 - Gormok the Impaler[4/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/10
+  Hand (2): Kazakus, Stormwind Champion
+  Field: Gormok the Impaler[4/1], Tinkertown Technician[4/1], Demented Frostcaller[2/1], Manic Soulcaster[3/4], Al'ar[7/3]
+Opponent: Rexxar HP: 19, Mana: 6/10
+  Hand (6)
+  Field: Injured Blademaster[4/2], Darkscale Healer[4/2], Sunstruck Henchman[6/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 45] Agent: 공격 - Tinkertown Technician[4/1] -> Sunstruck Henchman
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(9) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 10, Step 47] Agent: 공격 - Gormok the Impaler[4/1] -> Injured Blademaster
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(91) → 11로 보정
+[Turn 10, Step 48] Agent: 공격 - Demented Frostcaller[2/1] -> Darkscale Healer
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Al'ar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (3): Kazakus, Stormwind Champion, Shieldbreaker
+  Field: Manic Soulcaster[3/4], Al'ar[7/2]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 50] Agent: 공격 - Al'ar[7/2] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(12) → 2로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Manic Soulcaster[4/5] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Dark Iron Dwarf -> Stormwind Champion (코스트: 4)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Al'ar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (3): Kazakus, Shieldbreaker, Hecklebot
+  Field: Manic Soulcaster[4/5], Al'ar[8/2], Stormwind Champion[6/6]
+Opponent: Rexxar HP: 8, Mana: 3/10
+  Hand (6)
+  Field: Dark Iron Dwarf[4/4], Spark[1/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 10, Step 55] Agent: 공격 - Al'ar[8/2] -> Spark
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Dread Corsair (코스트: 4)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Stormwind Champion
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(36) → 4로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Shieldbreaker -> Dread Corsair (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 3/10
+  Hand (2): Kazakus, Hecklebot
+  Field: Manic Soulcaster[4/5], Al'ar[8/1], Stormwind Champion[6/5], Tinkertown Technician[4/4], Shieldbreaker[3/2]
+Opponent: Rexxar HP: 8, Mana: 6/10
+  Hand (6)
+  Field: Dark Iron Dwarf[4/4], Dread Corsair[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 60] Agent: 공격 - Manic Soulcaster[4/5] -> Dark Iron Dwarf
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 61] Opponent: 공격 - Dread Corsair[3/3] -> Tinkertown Technician
+[Turn 10, Step 61] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 61] Opponent: 공격 - Spark[1/1] -> Shieldbreaker
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(33) → 11로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Dragonhatcher
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Kazakus (코스트: 4)
+[Turn 10, Step 64] Agent: 선택 - Lesser Potion
+[Turn 10, Step 64] Agent: 선택 - Kingsblood
+[Turn 10, Step 64] Agent: 선택 - Felbloom
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(66) → 10로 보정
+[Turn 10, Step 64] Agent: 공격 - Tinkertown Technician[4/1] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 4/10
+  Hand (3): Hecklebot, Kobold Sandtrooper, Kazakus Potion
+  Field: Manic Soulcaster[4/1], Al'ar[8/1], Stormwind Champion[6/5], Tinkertown Technician[4/1], Shieldbreaker[3/1], Kazakus[4/4]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: Dragonhatcher[2/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(35) → 11로 보정
+[Turn 10, Step 65] Agent: 공격 - Shieldbreaker[3/1] -> Dragonhatcher
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 67] Agent: 공격 - Manic Soulcaster[4/1] -> King's Elekk
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 10, Step 68] Agent: 공격 - Al'ar[8/1] -> Rexxar
+
+--- Game State (Turn 10, Step 69) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 0/10
+  Hand (2): Kobold Sandtrooper, Kazakus Potion
+  Field: Al'ar[8/1], Stormwind Champion[6/5], Tinkertown Technician[4/1], Kazakus[4/4], Hecklebot[4/9]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (5)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

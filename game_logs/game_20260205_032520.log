@@ -1,0 +1,283 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Pit Commander, Blingtron 3000, Ironbeak Owl, Felsoul Inquisitor, Servant of Yogg-Saron
+  Field: Rockpool Hunter[2/3]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rockpool Hunter
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Duskhaven Hunter (코스트: 3)
+[Turn 3, Step 7] Opponent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Ur'zul Horror (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (7): Wrathguard, Blingtron 3000, Ironbeak Owl, Felsoul Inquisitor, Servant of Yogg-Saron, Hakkar, the Soulflayer, Blazing Battlemage
+  Field: Rockpool Hunter[2/2], Ravencaller[2/1], Ur'zul Horror[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (5)
+  Field: Duskhaven Hunter[5/2], Gadgetzan Jouster[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 공격 - Gadgetzan Jouster[2/3] -> Rockpool Hunter
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Ironbeak Owl -> Ravencaller (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Duskhaven Hunter[5/2] -> Ravencaller
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/7
+  Hand (8): Fearsome Doomguard, Blingtron 3000, Felsoul Inquisitor, Servant of Yogg-Saron, Hakkar, the Soulflayer, Kalecgos, Glacial Mysteries, Sathrovarr
+  Field: Ur'zul Horror[2/1], Ironbeak Owl[2/1], Blazing Battlemage[2/2]
+Opponent: Rexxar HP: 29, Mana: 7/7
+  Hand (8)
+  Field: Gadgetzan Jouster[2/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(98) → 13로 보정
+[Turn 7, Step 15] Agent: 공격 - Ironbeak Owl[2/1] -> Rexxar
+[Turn 7, Step 16] Agent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 7, Step 17] Agent: 공격 - Blazing Battlemage[2/2] -> Gadgetzan Jouster
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(10) → 3로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Ur'zul Horror
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Lost Soul (코스트: 1)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (7): Fearsome Doomguard, Blingtron 3000, Servant of Yogg-Saron, Hakkar, the Soulflayer, Kalecgos, Glacial Mysteries, Sathrovarr
+  Field: Ironbeak Owl[2/1], Felsoul Inquisitor[1/6], Lost Soul[2/1]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (8)
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Heroic Innkeeper (코스트: 8)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 영웅 능력 사용
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Glacial Mysteries (코스트: 8)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 9, Step 23] Agent: 공격 - Ironbeak Owl[2/1] -> Heroic Innkeeper
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 9, Step 24] Agent: 공격 - Lost Soul[2/1] -> Heroic Innkeeper
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/9
+  Hand (8): Wretched Reclaimer, Blingtron 3000, Servant of Yogg-Saron, Hakkar, the Soulflayer, Kalecgos, Sathrovarr, Wild Pyromancer, Azalina Soulthief
+  Field: Felsoul Inquisitor[1/6]
+Opponent: Rexxar HP: 27, Mana: 7/9
+  Hand (9)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 9, Step 25] Agent: 공격 - Felsoul Inquisitor[1/6] -> Rexxar
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Servant of Yogg-Saron (코스트: 5)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/10
+  Hand (8): Chameleos, Blingtron 3000, Hakkar, the Soulflayer, Kalecgos, Sathrovarr, Azalina Soulthief, Goblin Sapper, Wasteland Assassin
+  Field: Felsoul Inquisitor[1/6], Servant of Yogg-Saron[5/4], Wild Pyromancer[3/2]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Faerie Dragon (코스트: 2)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Brainstormer (코스트: 3)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Servant of Yogg-Saron[5/4] -> Drakkari Enchanter
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Kalecgos (코스트: 10)
+[Turn 10, Step 33] Agent: 선택 - Breath of Sindragosa
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Gazlowe (코스트: 6)
+[Turn 10, Step 33] Opponent: 공격 - Faerie Dragon[3/2] -> Felsoul Inquisitor
+[Turn 10, Step 33] Opponent: 공격 - Brainstormer[3/1] -> Felsoul Inquisitor
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(43) → 20로 보정
+[Turn 10, Step 34] Agent: 공격 - Servant of Yogg-Saron[5/3] -> Sky Gen'ral Kragg
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 10/10
+  Hand (10): Burgly Bully, Blingtron 3000, Hakkar, the Soulflayer, Sathrovarr, Azalina Soulthief, Goblin Sapper, Wasteland Assassin, Arfus, Breath of Sindragosa, Demented Frostcaller
+  Field: Servant of Yogg-Saron[5/1], Wild Pyromancer[3/2], Kalecgos[4/12]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (6)
+  Field: Faerie Dragon[3/1], Gazlowe[3/6]
+[Turn 10, Step 35] Agent: 공격 - Kalecgos[4/12] -> Faerie Dragon
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(82) → 19로 보정
+[Turn 10, Step 36] Agent: 공격 - Wild Pyromancer[3/2] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(34) → 15로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Servant of Yogg-Saron
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Goblin Sapper (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/10
+  Hand (8): Blingtron 3000, Hakkar, the Soulflayer, Sathrovarr, Azalina Soulthief, Wasteland Assassin, Arfus, Breath of Sindragosa, Demented Frostcaller
+  Field: Wild Pyromancer[3/2], Kalecgos[4/9], Burgly Bully[4/6], Goblin Sapper[6/4]
+Opponent: Rexxar HP: 23, Mana: 0/10
+  Hand (6)
+  Field: Gazlowe[3/6]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 0)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 10, Step 41] Opponent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(96) → 21로 보정
+[Turn 10, Step 42] Agent: 공격 - Wild Pyromancer[3/1] -> Gazlowe
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(38) → 11로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(76) → 12로 보정
+[Turn 10, Step 44] Agent: 공격 - Burgly Bully[4/5] -> Burgly Bully
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (8): Bonfire Elemental, Blingtron 3000, Hakkar, the Soulflayer, Sathrovarr, Azalina Soulthief, Wasteland Assassin, Arfus, Demented Frostcaller
+  Field: Kalecgos[4/8], Burgly Bully[4/1], Goblin Sapper[2/3]
+Opponent: Rexxar HP: 23, Mana: 3/10
+  Hand (5)
+  Field: Sunfury Protector[2/3], Burgly Bully[4/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(17) → 4로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 10, Step 46] Agent: 공격 - Kalecgos[4/8] -> Burgly Bully
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 47] Agent: 공격 - Goblin Sapper[2/3] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/10
+  Hand (6): Beckoner of Evil, Violet Illusionist, Ice Rager, Duskhaven Hunter, Mosh'Ogg Enforcer, Cyclopian Horror
+  Field: Kalecgos[4/4], Burgly Bully[4/1], Goblin Sapper[6/3], Wasteland Assassin[4/2], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (6)
+  Field: Sunfury Protector[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(76) → 13로 보정
+[Turn 10, Step 50] Agent: 공격 - Kalecgos[4/4] -> Rexxar
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Wasteland Assassin
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Goblin Sapper[6/3] -> Sunfury Protector
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(71) → 2로 보정
+[Turn 10, Step 53] Agent: 공격 - Wasteland Assassin[4/1] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Beckoner of Evil, Violet Illusionist, Ice Rager, Duskhaven Hunter, Mosh'Ogg Enforcer, Cyclopian Horror, Night Prowler
+  Field: Kalecgos[4/4], Burgly Bully[4/1], Goblin Sapper[6/1], Wasteland Assassin[4/1], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(97) → 17로 보정
+[Turn 10, Step 55] Agent: 공격 - Goblin Sapper[6/1] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(82) → 6로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 57] Agent: 공격 - Burgly Bully[4/1] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Pint-Sized Summoner (코스트: 2)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(79) → 21로 보정
+[Turn 10, Step 59] Agent: 공격 - Goblin Sapper[6/1] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Beckoner of Evil, Violet Illusionist, Ice Rager, Duskhaven Hunter, Mosh'Ogg Enforcer, Night Prowler, Phantom Freebooter
+  Field: Kalecgos[4/4], Burgly Bully[4/1], Goblin Sapper[6/1], Wasteland Assassin[4/1], Azalina Soulthief[3/3], Cyclopian Horror[3/3]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (7)
+  Field: Pint-Sized Summoner[2/2]
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Beckoner of Evil, Violet Illusionist, Ice Rager, Duskhaven Hunter, Mosh'Ogg Enforcer, Night Prowler, Phantom Freebooter
+  Field: Kalecgos[4/4], Burgly Bully[4/1], Goblin Sapper[6/1], Wasteland Assassin[4/1], Azalina Soulthief[3/3], Cyclopian Horror[3/3]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (7)
+  Field: Pint-Sized Summoner[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

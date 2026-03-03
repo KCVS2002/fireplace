@@ -1,0 +1,314 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Am'gam Rager (코스트: 3)
+[Turn 3, Step 4] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Bloodmage Thalnos
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (7): Nefarian, Open the Waygate, Flame Lance, Unexpected Results, Fen Creeper, Apexis Smuggler, Genzo, the Shark
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Nerub'ar Weblord[1/3], Am'gam Rager[1/5]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Am'gam Rager
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 8] Agent: 카드 플레이 - Apexis Smuggler (코스트: 2)
+[Turn 5, Step 9] Agent: 카드 플레이 - Zombie Chow (코스트: 1)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/5
+  Hand (6): Nefarian, Open the Waygate, Flame Lance, Unexpected Results, Fen Creeper, Genzo, the Shark
+  Field: Apexis Smuggler[2/3], Zombie Chow[2/3]
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+  Field: Nerub'ar Weblord[1/3], Am'gam Rager[1/4]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 공격 - Nerub'ar Weblord[1/3] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 공격 - Am'gam Rager[1/4] -> Zombie Chow
+[Turn 5, Step 10] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Flame Lance -> Untamed Beastmaster (코스트: 5)
+[Turn 6, Step 12] Agent: 공격 - Zombie Chow[2/2] -> Am'gam Rager
+[Turn 6, Step 13] Agent: 공격 - Apexis Smuggler[2/3] -> Rexxar
+[Turn 6, Step 14] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (5): Nefarian, Unexpected Results, Fen Creeper, Genzo, the Shark, Boisterous Bard
+  Field: Apexis Smuggler[2/3], Zombie Chow[2/1]
+Opponent: Rexxar HP: 27, Mana: 0/5
+  Hand (6)
+  Field: Nerub'ar Weblord[1/3]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Apexis Smuggler[2/3] -> Nerub'ar Weblord
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Apexis Smuggler
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Marsh Drake (코스트: 5)
+[Turn 7, Step 18] Opponent: 영웅 능력 사용
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 공격 - Drakeslayer[2/1] -> Nerub'ar Weblord
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (7): Nozdormu, Nefarian, Unexpected Results, Fen Creeper, Genzo, the Shark, Boisterous Bard, Eerie Statue
+  Field: Apexis Smuggler[2/1], Zombie Chow[2/1]
+Opponent: Rexxar HP: 27, Mana: 0/7
+  Hand (7)
+  Field: Marsh Drake[5/4]
+[Turn 8, Step 20] Agent: 공격 - Apexis Smuggler[2/1] -> Rexxar
+[Turn 8, Step 21] Agent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 8, Step 22] Opponent: 공격 - Marsh Drake[5/4] -> Apexis Smuggler
+[Turn 8, Step 22] Opponent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Fight Promoter
+[Turn 9, Step 24] Agent: 공격 - Zombie Chow[2/1] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (7): Nozdormu, Nefarian, Unexpected Results, Fen Creeper, Boisterous Bard, Eerie Statue, Deck of Wonders
+  Field: Zombie Chow[2/1], Genzo, the Shark[5/4]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (6)
+  Field: Marsh Drake[5/2], Fight Promoter[4/3], Kobold Geomancer[2/2]
+[Turn 9, Step 25] Agent: 공격 - Genzo, the Shark[5/4] -> Kobold Geomancer
+[Turn 9, Step 26] Agent: 카드 플레이 - Eerie Statue (코스트: 4)
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Genzo, the Shark
+[Turn 10, Step 29] Agent: 공격 - Genzo, the Shark[5/1] -> Fight Promoter
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (7): Nozdormu, Nefarian, Unexpected Results, Fen Creeper, Boisterous Bard, Deck of Wonders, Coldlight Seer
+  Field: Zombie Chow[2/1], Eerie Statue[7/7]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (7)
+  Field: Marsh Drake[5/2]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Silent Knight (코스트: 3)
+[Turn 10, Step 30] Opponent: 공격 - Marsh Drake[5/2] -> Eerie Statue
+[Turn 10, Step 30] Opponent: 카드 플레이 - Wrapped Golem (코스트: 7)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Eerie Statue
+[Turn 10, Step 33] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 10, Step 34] Agent: 공격 - Zombie Chow[2/1] -> Scarab
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (6): Nozdormu, Nefarian, Fen Creeper, Boisterous Bard, Deck of Wonders, Old Murk-Eye
+  Field: Eerie Statue[7/1], Ancient Watcher[4/5], Immortal Prelate[1/3], Coldlight Seer[2/3]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (6)
+  Field: Silent Knight[2/2], Wrapped Golem[7/5]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Wrapped Golem
+[Turn 10, Step 37] Agent: 공격 - Coldlight Seer[2/3] -> Scarab
+[Turn 10, Step 38] Agent: 카드 플레이 - Fen Creeper (코스트: 5)
+[Turn 10, Step 39] Agent: 공격 - Immortal Prelate[1/3] -> Wrapped Golem
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (6): Nozdormu, Nefarian, Boisterous Bard, Deck of Wonders, Old Murk-Eye, Chillmaw
+  Field: Eerie Statue[7/1], Ancient Watcher[4/5], Coldlight Seer[2/2], Fen Creeper[3/6]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (7)
+  Field: Silent Knight[2/2], Wrapped Golem[7/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Boisterous Bard (코스트: 3)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Corpse Widow (코스트: 5)
+[Turn 10, Step 41] Opponent: 공격 - Silent Knight[2/2] -> Fen Creeper
+[Turn 10, Step 41] Opponent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 10, Step 41] Opponent: 공격 - Wrapped Golem[7/3] -> Fen Creeper
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Boisterous Bard[3/2] -> Scarab
+[Turn 10, Step 43] Agent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 44] Agent: 공격 - Coldlight Seer[2/3] -> Wrapped Golem
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/10
+  Hand (5): Nefarian, Deck of Wonders, Old Murk-Eye, Chillmaw, Rusty Recycler
+  Field: Eerie Statue[7/2], Ancient Watcher[4/6], Boisterous Bard[3/1], Nozdormu[8/8]
+Opponent: Rexxar HP: 28, Mana: 2/10
+  Hand (6)
+  Field: Silent Knight[2/2], Corpse Widow[4/6], Magic Carpet[1/6]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 45] Opponent: 공격 - Magic Carpet[1/6] -> Ancient Watcher
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 공격 - Nozdormu[8/8] -> Booty Bay Bodyguard
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Corpse Widow
+[Turn 10, Step 48] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 49] Agent: 공격 - Old Murk-Eye[2/4] -> Magic Carpet
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/10
+  Hand (5): Nefarian, Deck of Wonders, Chillmaw, Rusty Recycler, Acidic Swamp Ooze
+  Field: Eerie Statue[7/2], Ancient Watcher[4/5], Boisterous Bard[3/1], Nozdormu[8/3], Old Murk-Eye[2/3]
+Opponent: Rexxar HP: 28, Mana: 5/10
+  Hand (6)
+  Field: Silent Knight[2/2], Corpse Widow[4/5]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Call Pet (코스트: 2)
+[Turn 10, Step 50] Opponent: 공격 - Silent Knight[2/2] -> Old Murk-Eye
+[Turn 10, Step 50] Opponent: 공격 - Corpse Widow[4/5] -> Old Murk-Eye
+[Turn 10, Step 50] Opponent: 카드 플레이 - Scrapyard Colossus (코스트: 8)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Boisterous Bard[3/1] -> Scrapyard Colossus
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Eerie Statue
+[Turn 10, Step 54] Agent: 공격 - Nozdormu[8/3] -> Scrapyard Colossus
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/10
+  Hand (5): Nefarian, Deck of Wonders, Chillmaw, Rusty Recycler, Acidic Swamp Ooze
+  Field: Ancient Watcher[4/5], Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 28, Mana: 0/10
+  Hand (6)
+  Field: Corpse Widow[4/3], Felcracked Colossus[7/7]
+[Turn 10, Step 55] Agent: 카드 플레이 - Deck of Wonders (코스트: 5)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Venture Co. Mercenary
+[Turn 10, Step 58] Agent: 카드 플레이 - Chillmaw (코스트: 7)
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Veranus (코스트: 9)
+[Turn 10, Step 59] Opponent: 공격 - Corpse Widow[4/3] -> Chillmaw
+[Turn 10, Step 59] Opponent: 공격 - Venture Co. Mercenary[7/1] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 공격 - Felcracked Colossus[7/4] -> Jaina Proudmoore
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Nefarian, Rusty Recycler, Acidic Swamp Ooze, Maexxna, Kvaldir Raider
+Opponent: Rexxar HP: 28, Mana: 1/10
+  Hand (6)
+  Field: Felcracked Colossus[7/4], Venture Co. Mercenary[7/1], Veranus[7/3]
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Felcracked Colossus
+[Turn 10, Step 61] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 카드 플레이 - Kael'thas Sunstrider (코스트: 7)
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 10/10
+  Hand (5): Nefarian, Rusty Recycler, Maexxna, Kvaldir Raider, Cult Sorcerer
+  Field: Acidic Swamp Ooze[3/2], Kael'thas Sunstrider[4/7]
+Opponent: Rexxar HP: 28, Mana: 10/10
+  Hand (8)
+  Field: Felcracked Colossus[7/3], Venture Co. Mercenary[7/1], Veranus[7/3]
+[Turn 10, Step 65] Agent: 카드 플레이 - Rusty Recycler (코스트: 5)
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 67] Agent: 공격 - Kael'thas Sunstrider[4/7] -> Felcracked Colossus
+[Turn 10, Step 68] Agent: 카드 플레이 - Cult Sorcerer (코스트: 2)
+[Turn 10, Step 69] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (3): Nefarian, Maexxna, Kvaldir Raider
+  Field: Acidic Swamp Ooze[3/2], Rusty Recycler[2/6], Cult Sorcerer[3/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (8)
+  Field: Venture Co. Mercenary[7/1], Veranus[7/3]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Deathaxe Punisher (코스트: 7)
+[Turn 10, Step 70] Opponent: 공격 - Venture Co. Mercenary[7/1] -> Rusty Recycler
+[Turn 10, Step 70] Opponent: 영웅 능력 사용
+[Turn 10, Step 70] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 10, Step 70] Opponent: 공격 - Veranus[7/3] -> Jaina Proudmoore
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Maexxna
+[Turn 10, Step 73] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Rexxar
+[Turn 10, Step 74] Agent: 공격 - Cult Sorcerer[3/2] -> Deathaxe Punisher
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 2/10
+  Hand (3): Nefarian, Kvaldir Raider, Demented Frostcaller
+  Field: Acidic Swamp Ooze[3/2], Maexxna[2/7]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (7)
+  Field: Veranus[7/3], Depth Charge[0/5]
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 75] Opponent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 10, Step 75] Opponent: 영웅 능력 사용
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 77) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (4): Nefarian, Kvaldir Raider, Demented Frostcaller, Darkscale Healer
+  Field: Maexxna[4/4]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (6)
+  Field: Twilight Drake[5/9], Mad Hatter[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

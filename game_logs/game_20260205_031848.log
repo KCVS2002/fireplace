@@ -1,0 +1,289 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(9) → 4로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (7): Zayle, Shadow Cloak, Doomed Apprentice, Skulking Geist, Devoted Maniac, Regeneratin' Thug, Ice Barrier, Cogmaster
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(26) → 5로 보정
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Felfin Navigator[4/4] -> Cogmaster
+[Turn 4, Step 8] Opponent: 영웅 능력 사용
+[Turn 4, Step 8] Opponent: 카드 플레이 - Faerie Dragon (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Devoted Maniac (코스트: 4)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/5
+  Hand (7): Zayle, Shadow Cloak, Doomed Apprentice, Skulking Geist, Regeneratin' Thug, Ice Barrier, Twilight Guardian, Anubisath Warbringer
+  Field: Devoted Maniac[2/2]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (6)
+  Field: Felfin Navigator[4/3], Faerie Dragon[3/2]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 5, Step 10] Opponent: 공격 - Stormwind Knight[2/5] -> Devoted Maniac
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Felfin Navigator[4/3] -> Doomed Apprentice
+[Turn 6, Step 13] Opponent: 카드 플레이 - Serpent Egg (코스트: 2)
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 공격 - Stormwind Knight[2/3] -> Jaina Proudmoore
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 카드 플레이 - Skulking Geist (코스트: 6)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/7
+  Hand (7): Zayle, Shadow Cloak, Regeneratin' Thug, Ice Barrier, Twilight Guardian, Anubisath Warbringer, Witchwood Piper, Skycap'n Kragg
+  Field: Skulking Geist[4/6]
+Opponent: Rexxar HP: 28, Mana: 3/7
+  Hand (6)
+  Field: Faerie Dragon[3/2], Stormwind Knight[2/3], Serpent Egg[0/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 7, Step 15] Opponent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(89) → 11로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Voodoo Doll -> Burly Rockjaw Trogg (코스트: 3)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(95) → 15로 보정
+[Turn 8, Step 17] Agent: 공격 - Skulking Geist[4/6] -> Faerie Dragon
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 카드 플레이 - Grievous Bite -> Burly Rockjaw Trogg (코스트: 2)
+[Turn 8, Step 18] Opponent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 9, Step 19] Agent: 영웅 능력 사용 -> Voodoo Doll
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/9
+  Hand (8): Zayle, Shadow Cloak, Regeneratin' Thug, Ice Barrier, Twilight Guardian, Anubisath Warbringer, Witchwood Piper, Skycap'n Kragg, Sylvanas Windrunner
+  Field: Skulking Geist[4/3]
+Opponent: Rexxar HP: 28, Mana: 1/9
+  Hand (4)
+  Field: Stormwind Knight[2/3], Serpent Egg[0/2], Hoarding Dragon[5/5], Drakonid Crusher[6/6]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(18) → 5로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Witchwood Piper (코스트: 4)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(66) → 3로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 9, Step 22] Agent: 공격 - Skulking Geist[4/3] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/10
+  Hand (7): Zayle, Shadow Cloak, Regeneratin' Thug, Twilight Guardian, Anubisath Warbringer, Skycap'n Kragg, Sylvanas Windrunner, Replicat-o-tron
+  Field: Skulking Geist[4/3], Witchwood Piper[3/3], Parachute Brigand[2/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (5)
+  Field: Stormwind Knight[2/3], Serpent Egg[0/2], Hoarding Dragon[5/5], Drakonid Crusher[6/6]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(96) → 3로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(53) → 26로 보정
+[Turn 10, Step 26] Agent: 공격 - Parachute Brigand[2/2] -> Drakonid Crusher
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(29) → 8로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Drakonid Crusher
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 10, Step 28] Agent: 공격 - Skulking Geist[4/3] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 29] Agent: 공격 - Witchwood Piper[3/3] -> Hoarding Dragon
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (6): Zayle, Shadow Cloak, Regeneratin' Thug, Anubisath Warbringer, Skycap'n Kragg, Sylvanas Windrunner, Replicat-o-tron
+  Field: Skulking Geist[4/3], Twilight Guardian[2/6]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (5)
+  Field: Stormwind Knight[2/3], Serpent Egg[0/2], Hoarding Dragon[5/2], Drakonid Crusher[6/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(48) → 22로 보정
+[Turn 10, Step 31] Agent: 공격 - Twilight Guardian[2/6] -> Stormwind Knight
+[Turn 10, Step 32] Agent: 공격 - Skulking Geist[4/3] -> Hoarding Dragon
+[Turn 10, Step 33] Agent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(40) → 10로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Stormwind Knight
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 6/10
+  Hand (8): Regeneratin' Thug, Anubisath Warbringer, Skycap'n Kragg, Sylvanas Windrunner, Replicat-o-tron, Defender of Argus, The Coin, The Coin
+  Field: Twilight Guardian[2/4], Zayle, Shadow Cloak[3/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (6)
+  Field: Serpent Egg[0/2], Drakonid Crusher[6/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(92) → 1로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Regeneratin' Thug (코스트: 4)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(63) → 1로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Fjola Lightbane, Anubisath Warbringer, Skycap'n Kragg, Sylvanas Windrunner, Defender of Argus
+  Field: Twilight Guardian[2/4], Zayle, Shadow Cloak[3/2], Replicat-o-tron[3/3], Replicat-o-tron[3/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (7)
+  Field: Serpent Egg[0/2], Drakonid Crusher[6/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(74) → 22로 보정
+[Turn 10, Step 40] Agent: 공격 - Replicat-o-tron[3/3] -> Drakonid Crusher
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(81) → 9로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Twilight Guardian
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 10, Step 42] Agent: 공격 - Zayle, Shadow Cloak[3/2] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Replicat-o-tron[3/3] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/10
+  Hand (4): Anubisath Warbringer, Skycap'n Kragg, Sylvanas Windrunner, Defender of Argus
+  Field: Twilight Guardian[2/3], Zayle, Shadow Cloak[3/2], Replicat-o-tron[3/3], Fjola Lightbane[3/4]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (7)
+  Field: Serpent Egg[0/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Twilight Guardian[2/3] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(34) → 11로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Defender of Argus
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(15) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Skycap'n Kragg (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (3): Anubisath Warbringer, Sylvanas Windrunner, Djinni of Zephyrs
+  Field: Twilight Guardian[2/3], Replicat-o-tron[3/3], Replicat-o-tron[3/3], Fjola Lightbane[4/5], Defender of Argus[2/2], Skycap'n Kragg[4/6]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (8)
+  Field: Serpent Egg[0/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(42) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Replicat-o-tron[3/3] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 51] Agent: 공격 - Replicat-o-tron[3/3] -> Serpent Egg
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Fjola Lightbane[4/5] -> Sea Serpent
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(51) → 3로 보정
+[Turn 10, Step 53] Agent: 공격 - Skycap'n Kragg[4/6] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 54] Agent: 공격 - Defender of Argus[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (3): Anubisath Warbringer, Sylvanas Windrunner, Djinni of Zephyrs
+  Field: Twilight Guardian[2/3], Replicat-o-tron[3/3], Replicat-o-tron[3/3], Fjola Lightbane[4/2], Defender of Argus[2/2], Skycap'n Kragg[4/6]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Hunter's Mark -> Defender of Argus (코스트: 2)
+[Turn 10, Step 55] Opponent: 영웅 능력 사용
+[Turn 10, Step 55] Opponent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+[Turn 10, Step 55] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Skycap'n Kragg[4/5] -> Runic Egg
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 58] Agent: 공격 - Twilight Guardian[2/2] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 10, Step 59] Agent: 공격 - Replicat-o-tron[3/2] -> Dragonmaw Scorcher
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (4): Anubisath Warbringer, Sylvanas Windrunner, Djinni of Zephyrs, Phantom Militia
+  Field: Twilight Guardian[2/2], Replicat-o-tron[3/2], Fjola Lightbane[4/1], Skycap'n Kragg[4/5]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (7)
+  Field: Dragonmaw Scorcher[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Phantom Militia (코스트: 3)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 61] Agent: 공격 - Replicat-o-tron[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 62) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/10
+  Hand (4): Anubisath Warbringer, Sylvanas Windrunner, Djinni of Zephyrs, Phantom Militia
+  Field: Twilight Guardian[2/2], Replicat-o-tron[3/2], Fjola Lightbane[4/1], Skycap'n Kragg[4/5], Phantom Militia[2/4]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Dragonmaw Scorcher[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

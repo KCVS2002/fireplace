@@ -1,0 +1,124 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Secretkeeper (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Silvermoon Guardian, Muck Hunter, Tentacled Menace, Echo of Medivh
+  Field: Secretkeeper[1/2], Quicksand Elemental[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 8] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Quicksand Elemental[3/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (5): Silvermoon Guardian, Muck Hunter, Tentacled Menace, Echo of Medivh, Nexus-Champion Saraad
+  Field: Secretkeeper[1/2], Quicksand Elemental[3/2]
+Opponent: Rexxar HP: 25, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 영웅 능력 사용
+[Turn 3, Step 10] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 3, Step 10] Opponent: 선택 - Wandering Monster
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Silvermoon Guardian (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Quicksand Elemental[3/2] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 카드 플레이 - Wandering Monster (코스트: 2)
+[Turn 4, Step 14] Opponent: 카드 플레이 - Gnomish Experimenter (코스트: 3)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): Muck Hunter, Tentacled Menace, Echo of Medivh, Nexus-Champion Saraad, Grim Necromancer, Fishflinger
+  Field: Secretkeeper[1/2], Quicksand Elemental[3/2], Silvermoon Guardian[3/3]
+Opponent: Rexxar HP: 21, Mana: 0/5
+  Hand (7)
+  Field: Gnomish Experimenter[3/2]
+[Turn 5, Step 15] Agent: 카드 플레이 - Muck Hunter (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Secretkeeper[1/2] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Quicksand Elemental[3/2] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Silvermoon Guardian[3/3] -> Rexxar
+[Turn 5, Step 19] Agent: 공격 - Muck Hunter[5/8] -> Gnomish Experimenter
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/5
+  Hand (5): Tentacled Menace, Echo of Medivh, Nexus-Champion Saraad, Grim Necromancer, Fishflinger
+  Field: Quicksand Elemental[3/2], Silvermoon Guardian[3/3], Muck Hunter[5/5]
+Opponent: Rexxar HP: 15, Mana: 0/5
+  Hand (7)
+  Field: Muckling[2/1], Muckling[2/1], Shadowfiend[3/2]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 공격 - Muckling[2/1] -> Muck Hunter
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Tentacled Menace (코스트: 5)
+[Turn 6, Step 22] Agent: 카드 플레이 - Ancient Brewmaster -> Quicksand Elemental (코스트: 1)
+[Turn 6, Step 23] Agent: 공격 - Silvermoon Guardian[3/3] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Muck Hunter[5/3] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (6): Echo of Medivh, Nexus-Champion Saraad, Grim Necromancer, Fishflinger, Drakonid Crusher, Quicksand Elemental
+  Field: Silvermoon Guardian[3/3], Muck Hunter[5/3], Tentacled Menace[6/5], Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 7, Mana: 6/6
+  Hand (9)
+  Field: Muckling[2/1], Shadowfiend[3/2]
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 공격 - Shadowfiend[3/2] -> Silvermoon Guardian
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 카드 플레이 - Echo of Medivh (코스트: 4)
+[Turn 7, Step 27] Agent: 카드 플레이 - Fishflinger (코스트: 2)
+[Turn 7, Step 28] Agent: 공격 - Silvermoon Guardian[3/3] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Muck Hunter[5/3] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/7
+  Hand (10): Nexus-Champion Saraad, Grim Necromancer, Drakonid Crusher, Quicksand Elemental, Sneed's Old Shredder, Silvermoon Guardian, Muck Hunter, Tentacled Menace, Ancient Brewmaster, Hydrologist
+  Field: Silvermoon Guardian[3/3], Muck Hunter[5/3], Tentacled Menace[6/5], Ancient Brewmaster[5/4], Fishflinger[3/2]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (10)
+  Field: Muckling[2/1]
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/7
+  Hand (10): Nexus-Champion Saraad, Grim Necromancer, Drakonid Crusher, Quicksand Elemental, Sneed's Old Shredder, Silvermoon Guardian, Muck Hunter, Tentacled Menace, Ancient Brewmaster, Hydrologist
+  Field: Silvermoon Guardian[3/3], Muck Hunter[5/3], Tentacled Menace[6/5], Ancient Brewmaster[5/4], Fishflinger[3/2]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (10)
+  Field: Muckling[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,190 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 영웅 능력 사용
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/2
+  Hand (4): Mogu'shan Warden, Cabalist's Tome, Saronite Chain Gang, Ancient Mysteries
+  Field: Grimscale Oracle[1/1], Mistress of Mixtures[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Runic Egg[0/2]
+[Turn 2, Step 5] Agent: 카드 플레이 - Ancient Mysteries (코스트: 2)
+[Turn 2, Step 6] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 2, Step 7] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 2, Step 8] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 8] Opponent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 2, Step 8] Opponent: 선택 - Evasive Feywing
+[Turn 2, Step 8] Opponent: 턴 종료
+[Turn 3, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (4): Mogu'shan Warden, Cabalist's Tome, Saronite Chain Gang, Rattling Rascal
+  Field: Grimscale Oracle[1/1], Mistress of Mixtures[2/2]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (5)
+  Field: Runic Egg[0/2], Golden Scarab[2/2]
+[Turn 3, Step 10] Agent: 공격 - Grimscale Oracle[1/1] -> Rexxar
+[Turn 3, Step 11] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 3, Step 12] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 12] Opponent: 영웅 능력 사용
+[Turn 3, Step 12] Opponent: 공격 - Golden Scarab[2/2] -> Grimscale Oracle
+[Turn 3, Step 12] Opponent: 턴 종료
+[Turn 4, Step 13] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 4, Step 14] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/4
+  Hand (4): Cabalist's Tome, Saronite Chain Gang, Rattling Rascal, Saronite Chain Gang
+  Field: Mistress of Mixtures[2/2], Mogu'shan Warden[1/7]
+Opponent: Rexxar HP: 22, Mana: 2/4
+  Hand (6)
+  Field: Runic Egg[0/2], Golden Scarab[2/1]
+[Turn 4, Step 15] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 15] Opponent: 공격 - Golden Scarab[2/1] -> Mogu'shan Warden
+[Turn 4, Step 15] Opponent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 4, Step 15] Opponent: 턴 종료
+[Turn 5, Step 16] Agent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 5, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 18] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 5, Step 19] Agent: 공격 - Mogu'shan Warden[1/5] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (4): Cabalist's Tome, Saronite Chain Gang, Rattling Rascal, Saronite Chain Gang
+  Field: Mistress of Mixtures[2/2], Mogu'shan Warden[1/5], Flesheating Ghoul[2/3]
+Opponent: Rexxar HP: 19, Mana: 1/5
+  Hand (6)
+  Field: Runic Egg[0/2], Evasive Feywing[5/4]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 5, Step 20] Opponent: 영웅 능력 사용
+[Turn 5, Step 20] Opponent: 공격 - Evasive Feywing[5/4] -> Mogu'shan Warden
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 6, Step 22] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Flesheating Ghoul[3/3] -> Rexxar
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 카드 플레이 - Stranglethorn Tiger (코스트: 5)
+[Turn 6, Step 24] Opponent: 영웅 능력 사용
+[Turn 6, Step 24] Opponent: 공격 - Kobold Monk[3/6] -> Mistress of Mixtures
+[Turn 6, Step 24] Opponent: 공격 - Evasive Feywing[5/3] -> Flesheating Ghoul
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/7
+  Hand (8): Saronite Chain Gang, Rattling Rascal, Saronite Chain Gang, Coldarra Drake, Flame Ward, Frost Nova, Incanter's Flow, Missile Launcher
+Opponent: Rexxar HP: 18, Mana: 0/7
+  Hand (6)
+  Field: Runic Egg[0/2], Kobold Monk[3/4], Stranglethorn Tiger[5/5]
+[Turn 7, Step 25] Agent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+[Turn 7, Step 26] Agent: 카드 플레이 - Flame Ward (코스트: 3)
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 카드 플레이 - Waste Warden -> Kobold Monk (코스트: 5)
+[Turn 7, Step 27] Opponent: 카드 플레이 - Duskhaven Hunter (코스트: 3)
+[Turn 7, Step 27] Opponent: 공격 - Kobold Monk[3/1] -> Jaina Proudmoore
+[Turn 7, Step 27] Opponent: 공격 - Stranglethorn Tiger[5/2] -> Jaina Proudmoore
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 8, Step 29] Agent: 카드 플레이 - Saronite Chain Gang (코스트: 4)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/8
+  Hand (5): Coldarra Drake, Frost Nova, Incanter's Flow, Missile Launcher, Netherspite Historian
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5], Saronite Chain Gang[2/3], Saronite Chain Gang[2/3]
+Opponent: Rexxar HP: 18, Mana: 0/8
+  Hand (6)
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 8, Step 30] Opponent: 영웅 능력 사용
+[Turn 8, Step 30] Opponent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 8, Step 30] Opponent: 공격 - Bluegill Warrior[2/1] -> Saronite Chain Gang
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 카드 플레이 - Coldarra Drake (코스트: 6)
+[Turn 9, Step 32] Agent: 카드 플레이 - Frost Nova (코스트: 3)
+[Turn 9, Step 33] Agent: 공격 - Rattling Rascal[2/2] -> Rexxar
+[Turn 9, Step 34] Agent: 공격 - Skeletal Enforcer[5/5] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/9
+  Hand (4): Incanter's Flow, Missile Launcher, Netherspite Historian, Arcane Breath
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5], Saronite Chain Gang[2/3], Saronite Chain Gang[2/1], Coldarra Drake[6/6]
+Opponent: Rexxar HP: 11, Mana: 0/9
+  Hand (5)
+  Field: Sunreaver Warmage[4/4]
+[Turn 9, Step 35] Agent: 공격 - Saronite Chain Gang[2/3] -> Rexxar
+[Turn 9, Step 36] Agent: 공격 - Saronite Chain Gang[2/1] -> Rexxar
+[Turn 9, Step 37] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 37] Opponent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 9, Step 37] Opponent: 카드 플레이 - Skelemancer (코스트: 5)
+[Turn 9, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Shield of Galakrond
+[Turn 10, Step 39] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/10
+  Hand (4): Missile Launcher, Netherspite Historian, Arcane Breath, Mo'arg Artificer
+  Field: Rattling Rascal[2/2], Skeletal Enforcer[5/5], Saronite Chain Gang[2/3], Saronite Chain Gang[2/1], Coldarra Drake[6/6]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (4)
+  Field: Sunreaver Warmage[4/4], Shield of Galakrond[4/4], Skelemancer[2/2]
+[Turn 10, Step 40] Agent: 카드 플레이 - Missile Launcher (코스트: 6)
+[Turn 10, Step 41] Agent: 공격 - Rattling Rascal[2/2] -> Shield of Galakrond
+[Turn 10, Step 42] Agent: 공격 - Skeletal Enforcer[5/5] -> Shield of Galakrond
+[Turn 10, Step 43] Agent: 공격 - Saronite Chain Gang[2/3] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Saronite Chain Gang[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (3): Netherspite Historian, Arcane Breath, Mo'arg Artificer
+  Field: Skeletal Enforcer[5/1], Saronite Chain Gang[2/3], Saronite Chain Gang[2/1], Coldarra Drake[6/6], Missile Launcher[4/4]
+Opponent: Rexxar HP: 3, Mana: 0/10
+  Hand (4)
+  Field: Skeletal Enforcer[5/5], Sunreaver Warmage[4/4], Skelemancer[2/2]
+[Turn 10, Step 45] Agent: 공격 - Coldarra Drake[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 46) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/10
+  Hand (3): Netherspite Historian, Arcane Breath, Mo'arg Artificer
+  Field: Skeletal Enforcer[5/1], Saronite Chain Gang[2/3], Saronite Chain Gang[2/1], Coldarra Drake[6/6], Missile Launcher[4/4]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (4)
+  Field: Skeletal Enforcer[5/5], Sunreaver Warmage[4/4], Skelemancer[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

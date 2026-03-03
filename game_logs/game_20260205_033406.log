@@ -1,0 +1,184 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (6): Arcane Giant, Hippogryph, Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 2, Step 5] Opponent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Dirty Rat
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 3, Step 7] Opponent: 공격 - Dirty Rat[2/5] -> Arcane Giant
+[Turn 3, Step 7] Opponent: 공격 - Rexxar[1/30] -> Arcane Giant
+[Turn 3, Step 7] Opponent: 공격 - Hungry Crab[1/2] -> Arcane Giant
+[Turn 3, Step 7] Opponent: 공격 - Locust[1/1] -> Arcane Giant
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(70) → 1로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Sorcerer's Apprentice (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/4
+  Hand (6): Hippogryph, Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor, Elise Starseeker
+  Field: Arcane Giant[8/3], Sorcerer's Apprentice[3/2]
+Opponent: Rexxar HP: 22, Mana: 1/4
+  Hand (4)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 5, Step 11] Agent: 공격 - Arcane Giant[8/3] -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 5, Step 13] Opponent: 공격 - Rexxar[1/14] -> Sorcerer's Apprentice
+[Turn 5, Step 13] Opponent: 공격 - Locust[1/1] -> Sorcerer's Apprentice
+[Turn 5, Step 13] Opponent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/6
+  Hand (7): Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor, Elise Starseeker, Corrupted Healbot, Frozen Crusher
+  Field: Arcane Giant[8/3], Hippogryph[2/6]
+Opponent: Rexxar HP: 11, Mana: 0/6
+  Hand (4)
+  Field: Ebon Dragonsmith[3/4], Annoy-o-Tron[1/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Arcane Giant
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 6, Step 16] Agent: 공격 - Arcane Giant[8/2] -> Annoy-o-Tron
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(46) → 14로 보정
+[Turn 7, Step 19] Agent: 공격 - Arcane Giant[8/1] -> Annoy-o-Tron
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/7
+  Hand (7): Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor, Elise Starseeker, Corrupted Healbot, Frozen Crusher
+  Field: Hippogryph[2/6], Tentacle of N'Zoth[1/1]
+Opponent: Rexxar HP: 11, Mana: 7/7
+  Hand (5)
+  Field: Ebon Dragonsmith[3/4]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 7, Step 21] Agent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 7, Step 22] Agent: 공격 - Hippogryph[2/6] -> Ebon Dragonsmith
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(58) → 8로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Freezing Potion -> Sunstruck Henchman (코스트: 0)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/8
+  Hand (6): Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor, Corrupted Healbot, Frozen Crusher
+  Field: Hippogryph[2/3], Tentacle of N'Zoth[1/1], Elise Starseeker[3/5]
+Opponent: Rexxar HP: 11, Mana: 4/8
+  Hand (5)
+  Field: Ebon Dragonsmith[3/2], Sunstruck Henchman[6/5]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(97) → 9로 보정
+[Turn 8, Step 25] Agent: 영웅 능력 사용 -> Hippogryph
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(22) → 7로 보정
+[Turn 8, Step 26] Agent: 공격 - Hippogryph[2/2] -> Ebon Dragonsmith
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 8, Step 27] Agent: 공격 - Tentacle of N'Zoth[1/1] -> Rexxar
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 8, Step 28] Agent: 카드 플레이 - Corrupted Healbot (코스트: 5)
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (6): Mecha'thun, Portal Keeper, Fen Creeper, Blackwing Corruptor, Frozen Crusher, Sylvanas Windrunner
+  Field: Tentacle of N'Zoth[1/1], Elise Starseeker[3/5], Corrupted Healbot[6/6]
+Opponent: Rexxar HP: 10, Mana: 9/9
+  Hand (6)
+  Field: Sunstruck Henchman[6/5]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 9, Step 31] Agent: 공격 - Elise Starseeker[3/5] -> Rexxar
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Elise Starseeker
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 9, Step 33] Agent: 공격 - Tentacle of N'Zoth[1/1] -> Sunstruck Henchman
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 9, Step 34] Agent: 공격 - Corrupted Healbot[6/5] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/9
+  Hand (5): Mecha'thun, Fen Creeper, Blackwing Corruptor, Frozen Crusher, Sylvanas Windrunner
+  Field: Elise Starseeker[3/3], Corrupted Healbot[6/5], Portal Keeper[5/1]
+Opponent: Rexxar HP: 1, Mana: 9/9
+  Hand (6)
+  Field: Sunstruck Henchman[6/3]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Furbolg Mossbinder -> Sunstruck Henchman (코스트: 5)
+[Turn 9, Step 35] Opponent: 공격 - Rexxar[1/1] -> Corrupted Healbot
+
+--- Game State (Turn 9, Step 36) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/9
+  Hand (5): Mecha'thun, Fen Creeper, Blackwing Corruptor, Frozen Crusher, Sylvanas Windrunner
+  Field: Elise Starseeker[3/3], Corrupted Healbot[6/4], Portal Keeper[5/1]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (6)
+  Field: Moss Elemental[6/6], Furbolg Mossbinder[1/1], Locust[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

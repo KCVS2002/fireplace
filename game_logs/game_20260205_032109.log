@@ -1,0 +1,264 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(5) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(21) → 7로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 2, Step 3] Agent: 공격 - Blazing Battlemage[2/2] -> Dirty Rat
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 2, Step 4] Agent: 공격 - Arcane Giant[8/8] -> Dirty Rat
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (3): Cheaty Anklebiter, Dwarven Archaeologist, Tomb Spider
+  Field: Arcane Giant[8/6]
+Opponent: Rexxar HP: 30, Mana: 0/1
+  Hand (4)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Cheaty Anklebiter -> Jaina Proudmoore (코스트: 2)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Spawn of N'Zoth (코스트: 3)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(62) → 10로 보정
+[Turn 4, Step 8] Agent: 공격 - Arcane Giant[8/6] -> Spawn of N'Zoth
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Cheaty Anklebiter
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (4): Dwarven Archaeologist, Tomb Spider, Fel Orc Soulfiend, Gyrocopter
+  Field: Arcane Giant[8/4]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 4, Step 10] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Arfus (코스트: 4)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(50) → 11로 보정
+[Turn 5, Step 12] Agent: 공격 - Dwarven Archaeologist[2/3] -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(98) → 10로 보정
+[Turn 5, Step 13] Agent: 공격 - Arcane Giant[8/4] -> Arfus
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/6
+  Hand (5): Tomb Spider, Fel Orc Soulfiend, Gyrocopter, Boompistol Bully, Rhonin
+  Field: Arcane Giant[8/2], Dwarven Archaeologist[2/3]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (7)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Fel Orc Soulfiend (코스트: 3)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(37) → 5로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Fel Orc Soulfiend
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 6, Step 17] Agent: 공격 - Arcane Giant[8/2] -> Rexxar
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 영웅 능력 사용
+[Turn 6, Step 18] Opponent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Lowly Squire (코스트: 0)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/7
+  Hand (4): Gyrocopter, Boompistol Bully, Rhonin, Violet Teacher
+  Field: Arcane Giant[8/2], Dwarven Archaeologist[2/3], Fel Orc Soulfiend[3/4], Tomb Spider[3/3]
+Opponent: Rexxar HP: 20, Mana: 0/6
+  Hand (6)
+  Field: Ebon Dragonsmith[3/4], Lowly Squire[1/2]
+[Turn 7, Step 20] Agent: 선택 - Witchwood Grizzly
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 7, Step 20] Agent: 공격 - Dwarven Archaeologist[2/3] -> Ebon Dragonsmith
+[Turn 7, Step 21] Agent: 공격 - Arcane Giant[8/2] -> Ebon Dragonsmith
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 7, Step 23] Agent: 공격 - Fel Orc Soulfiend[3/4] -> Lowly Squire
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(53) → 0로 보정
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 카드 플레이 - Grim Patron (코스트: 5)
+[Turn 7, Step 24] Opponent: 영웅 능력 사용
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (6): Gyrocopter, Boompistol Bully, Rhonin, Violet Teacher, Witchwood Grizzly, Giant Wasp
+  Field: Fel Orc Soulfiend[3/1], Tomb Spider[3/3]
+Opponent: Rexxar HP: 20, Mana: 0/7
+  Hand (6)
+  Field: Grim Patron[3/3]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 8, Step 26] Agent: 카드 플레이 - Boompistol Bully (코스트: 5)
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 8, Step 27] Agent: 공격 - Tomb Spider[3/3] -> Grim Patron
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Boompistol Bully
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 7/9
+  Hand (5): Gyrocopter, Rhonin, Violet Teacher, Witchwood Grizzly, Thunder Lizard
+  Field: Giant Wasp[2/2], Boompistol Bully[5/4]
+Opponent: Rexxar HP: 20, Mana: 8/8
+  Hand (7)
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 9, Step 30] Agent: 공격 - Boompistol Bully[5/4] -> Rexxar
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(32) → 2로 보정
+[Turn 9, Step 31] Agent: 카드 플레이 - Violet Teacher (코스트: 4)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 9, Step 32] Agent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 9, Step 33] Agent: 공격 - Giant Wasp[2/2] -> Rexxar
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(21) → 0로 보정
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 카드 플레이 - Death and Decay (코스트: 3)
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (4): Gyrocopter, Rhonin, Witchwood Grizzly, Furious Ettin
+  Field: Boompistol Bully[5/1], Violet Teacher[3/2]
+Opponent: Rexxar HP: 13, Mana: 6/9
+  Hand (7)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Boompistol Bully
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Yogg-Saron, Hope's End (코스트: 10)
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Furious Ettin (코스트: 7)
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 39] Agent: 공격 - Violet Teacher[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 1/10
+  Hand (4): Gyrocopter, Rhonin, Witchwood Grizzly, Evasive Drakonid
+  Field: Violet Teacher[3/2], Furious Ettin[5/9]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (7)
+  Field: Yogg-Saron, Hope's End[7/5], Soup Vendor[1/7]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 카드 플레이 - Witchwood Grizzly (코스트: 4)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Gyrocopter (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 10, Step 44] Agent: 공격 - Furious Ettin[5/9] -> Soup Vendor
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/10
+  Hand (4): Rhonin, Evasive Drakonid, Mimiron's Head, Thunder Lizard
+  Field: Violet Teacher[3/2], Furious Ettin[5/8], Witchwood Grizzly[3/11], Gyrocopter[4/5]
+Opponent: Rexxar HP: 9, Mana: 7/10
+  Hand (8)
+  Field: Yogg-Saron, Hope's End[7/5], Soup Vendor[1/2], Silithid Swarmer[3/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 45] Agent: 공격 - Gyrocopter[4/5] -> Soup Vendor
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 10, Step 46] Agent: 공격 - Gyrocopter[4/4] -> Silithid Swarmer
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 47] Agent: 공격 - Violet Teacher[3/2] -> Silithid Swarmer
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (4): Rhonin, Mimiron's Head, Thunder Lizard, Old Murk-Eye
+  Field: Furious Ettin[5/8], Witchwood Grizzly[3/11], Gyrocopter[4/1], Evasive Drakonid[7/7]
+Opponent: Rexxar HP: 9, Mana: 8/10
+  Hand (8)
+  Field: Yogg-Saron, Hope's End[7/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Witchwood Grizzly
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Witchwood Grizzly[3/10] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(8) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Gyrocopter[4/1] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(32) → 12로 보정
+[Turn 10, Step 54] Agent: 공격 - Furious Ettin[5/8] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Rhonin, Mimiron's Head, Thunder Lizard, Old Murk-Eye, Portal Overfiend
+  Field: Furious Ettin[5/8], Witchwood Grizzly[3/10], Gyrocopter[4/1], Evasive Drakonid[7/7]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+  Field: Yogg-Saron, Hope's End[7/5]
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (5): Rhonin, Mimiron's Head, Thunder Lizard, Old Murk-Eye, Portal Overfiend
+  Field: Furious Ettin[5/8], Witchwood Grizzly[3/10], Gyrocopter[4/1], Evasive Drakonid[7/7]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (9)
+  Field: Yogg-Saron, Hope's End[7/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

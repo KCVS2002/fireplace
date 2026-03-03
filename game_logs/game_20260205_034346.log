@@ -1,0 +1,226 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Guardian Augmerchant
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Apexis Smuggler (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Soot Spewer, Jungle Panther, Kirin Tor Mage, Arcanosaur, Madder Bomber, Darkmire Moonkin
+  Field: Apexis Smuggler[2/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+  Field: Frostwolf Grunt[2/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+[Turn 4, Step 6] Agent: 공격 - Apexis Smuggler[2/3] -> Frostwolf Grunt
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 9] Agent: 공격 - Soot Spewer[3/3] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/5
+  Hand (6): Jungle Panther, Kirin Tor Mage, Arcanosaur, Madder Bomber, Darkmire Moonkin, Servant of Yogg-Saron
+  Field: Apexis Smuggler[2/1], Soot Spewer[3/3]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (5)
+[Turn 5, Step 10] Agent: 카드 플레이 - Kirin Tor Mage (코스트: 3)
+[Turn 5, Step 11] Agent: 공격 - Apexis Smuggler[2/1] -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Phalanx Commander (코스트: 5)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Phalanx Commander[4/5] -> Kirin Tor Mage
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 6, Step 14] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (6): Arcanosaur, Madder Bomber, Darkmire Moonkin, Servant of Yogg-Saron, Ice Rager, Dancing Swords
+  Field: Apexis Smuggler[2/1], Soot Spewer[3/3], Jungle Panther[4/2]
+Opponent: Rexxar HP: 24, Mana: 1/6
+  Hand (4)
+  Field: Phalanx Commander[4/1], Mechwarper[2/3], Zealous Initiate[1/1]
+[Turn 7, Step 15] Agent: 카드 플레이 - Arcanosaur (코스트: 6)
+[Turn 7, Step 16] Agent: 공격 - Apexis Smuggler[2/1] -> Phalanx Commander
+[Turn 7, Step 17] Agent: 공격 - Jungle Panther[4/2] -> Mechwarper
+[Turn 7, Step 18] Agent: 공격 - Soot Spewer[3/3] -> Zealous Initiate
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Wicked Skeleton (코스트: 4)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (6): Unexpected Results, Madder Bomber, Darkmire Moonkin, Servant of Yogg-Saron, Ice Rager, Dancing Swords
+  Field: Soot Spewer[3/2], Arcanosaur[3/3]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (3)
+  Field: Wicked Skeleton[1/1], Bilefin Tidehunter[2/1], Ooze[1/1]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Bilefin Tidehunter
+[Turn 8, Step 21] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 8, Step 22] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 공격 - Ooze[1/1] -> Arcanosaur
+[Turn 8, Step 23] Opponent: 공격 - Wicked Skeleton[1/1] -> Murloc Warleader
+[Turn 8, Step 23] Opponent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 공격 - Ice Rager[5/2] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (5): Madder Bomber, Darkmire Moonkin, Servant of Yogg-Saron, Dancing Swords, Micro Machine
+  Field: Soot Spewer[3/2], Arcanosaur[3/2], Ice Rager[5/2], Murloc Warleader[3/2], Warmaul Challenger[1/10]
+Opponent: Rexxar HP: 19, Mana: 0/8
+  Hand (2)
+  Field: Subject 9[4/4], Rummaging Kobold[3/5]
+[Turn 9, Step 25] Agent: 카드 플레이 - Madder Bomber (코스트: 5)
+[Turn 9, Step 26] Agent: 영웅 능력 사용 -> Madder Bomber
+[Turn 9, Step 27] Agent: 공격 - Soot Spewer[3/2] -> Rexxar
+[Turn 9, Step 28] Agent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 9, Step 29] Agent: 공격 - Arcanosaur[3/2] -> Subject 9
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/9
+  Hand (3): Darkmire Moonkin, Servant of Yogg-Saron, Dancing Swords
+  Field: Soot Spewer[3/2], Ice Rager[5/1], Murloc Warleader[3/1], Warmaul Challenger[1/9], Madder Bomber[5/3], Micro Machine[1/2]
+Opponent: Rexxar HP: 15, Mana: 0/8
+  Hand (2)
+  Field: Subject 9[4/1], Rummaging Kobold[3/5]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 영웅 능력 사용
+[Turn 9, Step 30] Opponent: 공격 - Subject 9[4/1] -> Soot Spewer
+[Turn 9, Step 30] Opponent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 9, Step 30] Opponent: 공격 - Rummaging Kobold[3/5] -> Micro Machine
+[Turn 9, Step 30] Opponent: 카드 플레이 - Soldier of Fortune (코스트: 2)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Warmaul Challenger[1/9] -> Rexxar
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 33] Agent: 공격 - Madder Bomber[5/3] -> Soldier of Fortune
+[Turn 10, Step 34] Agent: 공격 - Murloc Warleader[3/1] -> Ebon Dragonsmith
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/10
+  Hand (4): Darkmire Moonkin, Servant of Yogg-Saron, Dancing Swords, Angry Chicken
+  Field: Ice Rager[5/1], Warmaul Challenger[1/9]
+Opponent: Rexxar HP: 14, Mana: 1/9
+  Hand (1)
+  Field: Rummaging Kobold[3/3], Ebon Dragonsmith[3/1], Soldier of Fortune[5/1]
+[Turn 10, Step 35] Agent: 공격 - Ice Rager[5/1] -> Soldier of Fortune
+[Turn 10, Step 36] Agent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+[Turn 10, Step 37] Agent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Rummaging Kobold[3/3] -> Jaina Proudmoore
+[Turn 10, Step 38] Opponent: 카드 플레이 - Dragonbane (코스트: 4)
+[Turn 10, Step 38] Opponent: 공격 - Ebon Dragonsmith[3/1] -> Darkmire Moonkin
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 카드 플레이 - Dancing Swords (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (2): Servant of Yogg-Saron, Amani War Bear
+  Field: Warmaul Challenger[1/9], Darkmire Moonkin[2/5], Angry Chicken[1/1], Dancing Swords[4/4]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (1)
+  Field: Rummaging Kobold[3/3], Dragonbane[3/5]
+[Turn 10, Step 40] Agent: 공격 - Warmaul Challenger[1/9] -> Dragonbane
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Rummaging Kobold[3/3] -> Darkmire Moonkin
+[Turn 10, Step 42] Opponent: 공격 - Dragonbane[3/4] -> Angry Chicken
+[Turn 10, Step 42] Opponent: 영웅 능력 사용
+[Turn 10, Step 42] Opponent: 카드 플레이 - To My Side! (코스트: 6)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Warmaul Challenger[1/6] -> Leokk
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rummaging Kobold
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (3): Servant of Yogg-Saron, Amani War Bear, Steel Rager
+  Field: Warmaul Challenger[1/4], Darkmire Moonkin[2/2], Dancing Swords[4/4]
+Opponent: Rexxar HP: 13, Mana: 2/10
+  Hand (1)
+  Field: Dragonbane[4/3], Leokk[2/3]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 10, Step 45] Opponent: 공격 - Dragonbane[4/3] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 공격 - Leokk[2/3] -> Jaina Proudmoore
+[Turn 10, Step 45] Opponent: 카드 플레이 - Kindly Grandmother (코스트: 2)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 10, Step 47] Agent: 공격 - Dancing Swords[4/4] -> Leokk
+[Turn 10, Step 48] Agent: 카드 플레이 - Steel Rager (코스트: 4)
+[Turn 10, Step 49] Agent: 공격 - Warmaul Challenger[1/4] -> Dragonbane
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (2): Servant of Yogg-Saron, Amani War Bear
+  Field: Warmaul Challenger[1/1], Darkmire Moonkin[2/2], Dancing Swords[4/2], Phantom Freebooter[3/3], Steel Rager[5/1]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (0)
+  Field: Dragonbane[3/2], Replicating Menace[3/1], Kindly Grandmother[1/1]
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Phantom Freebooter
+[Turn 10, Step 51] Agent: 공격 - Darkmire Moonkin[2/2] -> Rexxar
+[Turn 10, Step 52] Agent: 공격 - Steel Rager[5/1] -> Replicating Menace
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 공격 - Microbot[1/1] -> Phantom Freebooter
+[Turn 10, Step 53] Opponent: 공격 - Kindly Grandmother[1/1] -> Phantom Freebooter
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (2): Servant of Yogg-Saron, Amani War Bear
+  Field: Warmaul Challenger[1/1], Darkmire Moonkin[2/2], Dancing Swords[4/2]
+Opponent: Rexxar HP: 11, Mana: 8/10
+  Hand (1)
+  Field: Dragonbane[3/2], Microbot[1/1], Microbot[1/1], Big Bad Wolf[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

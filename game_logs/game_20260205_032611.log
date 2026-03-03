@@ -1,0 +1,380 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Hot Air Balloon (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 공격 - Hot Air Balloon[1/3] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 3, Step 2] Agent: 카드 플레이 - Spellzerker (코스트: 2)
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 4, Step 4] Agent: 카드 플레이 - Effigy (코스트: 3)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/4
+  Hand (5): Prince Keleseth, Captain's Parrot, Firelands Portal, Bomb Squad, Shield of Galakrond
+  Field: Spellzerker[2/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Hot Air Balloon[1/4]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 4, Step 5] Agent: 공격 - Spellzerker[2/3] -> Rexxar
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 공격 - Hot Air Balloon[1/5] -> Spellzerker
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(34) → 2로 보정
+[Turn 6, Step 8] Agent: 카드 플레이 - Captain's Parrot (코스트: 2)
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/6
+  Hand (6): Prince Keleseth, Firelands Portal, Bomb Squad, Shield of Galakrond, Recombobulator, Lost Spirit
+  Field: Spellzerker[2/2], Captain's Parrot[1/1]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (7)
+  Field: Hot Air Balloon[1/4], Rockpool Hunter[2/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(70) → 6로 보정
+[Turn 6, Step 10] Agent: 공격 - Spellzerker[2/2] -> Hot Air Balloon
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Prince Keleseth (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 공격 - Rockpool Hunter[2/3] -> Spellzerker
+[Turn 6, Step 12] Opponent: 공격 - Hot Air Balloon[1/3] -> Prince Keleseth
+[Turn 6, Step 12] Opponent: 카드 플레이 - Former Champ (코스트: 5)
+[Turn 6, Step 12] Opponent: 카드 플레이 - Angry Chicken (코스트: 1)
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 공격 - Captain's Parrot[1/1] -> Former Champ
+[Turn 7, Step 14] Agent: 카드 플레이 - Firelands Portal -> Prince Keleseth (코스트: 7)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/7
+  Hand (5): Bomb Squad, Shield of Galakrond, Recombobulator, Lost Spirit, Unexpected Results
+  Field: Archmage Arugal[2/2], Voodoo Hexxer[2/7]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (6)
+  Field: Hot Air Balloon[1/1], Rockpool Hunter[2/1], Hotshot[5/5], Angry Chicken[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 7, Step 15] Agent: 공격 - Archmage Arugal[2/2] -> Hotshot
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 7, Step 16] Opponent: 카드 플레이 - Hench-Clan Thug (코스트: 3)
+[Turn 7, Step 16] Opponent: 공격 - Rockpool Hunter[2/1] -> Voodoo Hexxer
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Bomb Squad -> Angry Chicken (코스트: 5)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 8, Step 19] Agent: 공격 - Voodoo Hexxer[2/5] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (5): Shield of Galakrond, Recombobulator, Lost Spirit, Unexpected Results, Mana Reservoir
+  Field: Voodoo Hexxer[2/5], Bomb Squad[2/2]
+Opponent: Rexxar HP: 26, Mana: 0/7
+  Hand (5)
+  Field: Hot Air Balloon[1/2], Hotshot[5/3], Burrowing Scorpid[5/2], Hench-Clan Thug[3/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 8, Step 20] Opponent: 공격 - Hench-Clan Thug[3/3] -> Voodoo Hexxer
+[Turn 8, Step 20] Opponent: 공격 - Hot Air Balloon[1/3] -> Voodoo Hexxer
+[Turn 8, Step 20] Opponent: 공격 - Burrowing Scorpid[5/2] -> Voodoo Hexxer
+[Turn 8, Step 20] Opponent: 공격 - Hotshot[5/3] -> Bomb Squad
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(90) → 12로 보정
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Gilnean Royal Guard
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 23] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (5): Shield of Galakrond, Recombobulator, Unexpected Results, Mana Reservoir, Tanglefur Mystic
+  Field: Lost Spirit[1/1], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (6)
+  Field: Hot Air Balloon[1/2], Hotshot[5/1], Hench-Clan Thug[3/1], Gilnean Royal Guard[8/3]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Recombobulator -> Lost Spirit (코스트: 2)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(42) → 6로 보정
+[Turn 10, Step 26] Agent: 영웅 능력 사용 -> Hench-Clan Thug
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 10, Step 27] Opponent: 선택 - Hecklebot
+[Turn 10, Step 27] Opponent: 카드 플레이 - Baited Arrow -> Mechanical Dragonling (코스트: 5)
+[Turn 10, Step 27] Opponent: 공격 - Hot Air Balloon[1/3] -> Recombobulator
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(54) → 10로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Recombobulator
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (4): Unexpected Results, Mana Reservoir, Tanglefur Mystic, Annoy-o-Tron
+  Field: Mana Reservoir[0/6], Dragonling Mechanic[2/4], Shield of Galakrond[4/5]
+Opponent: Rexxar HP: 26, Mana: 4/10
+  Hand (6)
+  Field: Hotshot[5/1], Gilnean Royal Guard[8/3], Devilsaur[5/5]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 30] Agent: 공격 - Dragonling Mechanic[2/4] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(91) → 10로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Dragonling Mechanic
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Whirliglider (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (4): Unexpected Results, Mana Reservoir, Annoy-o-Tron, Flight Master
+  Field: Mana Reservoir[0/6], Dragonling Mechanic[2/3], Shield of Galakrond[4/5], Tanglefur Mystic[3/4], Whirliglider[2/1], Goblin Bomb[0/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (8)
+  Field: Hotshot[5/1], Gilnean Royal Guard[8/3], Devilsaur[5/5]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(39) → 5로 보정
+[Turn 10, Step 35] Agent: 공격 - Dragonling Mechanic[2/3] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(73) → 8로 보정
+[Turn 10, Step 36] Agent: 공격 - Shield of Galakrond[4/5] -> Devilsaur
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 38] Agent: 공격 - Tanglefur Mystic[3/4] -> Devilsaur
+[Turn 10, Step 39] Agent: 카드 플레이 - Mana Reservoir (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (2): Unexpected Results, Annoy-o-Tron
+  Field: Mana Reservoir[0/6], Dragonling Mechanic[2/3], Whirliglider[2/1], Goblin Bomb[0/2], Flight Master[3/4], Gryphon[2/2], Mana Reservoir[0/6]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: Hotshot[5/1], Gilnean Royal Guard[8/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Gilnean Royal Guard[8/3] -> Gryphon
+[Turn 10, Step 40] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Beaming Sidekick -> Animated Shield (코스트: 1)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(83) → 11로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Arcanosmith
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 43] Agent: 공격 - Dragonling Mechanic[2/3] -> Animated Shield
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (3): Unexpected Results, Deathspeaker, Volcanosaur
+  Field: Mana Reservoir[0/6], Dragonling Mechanic[2/3], Whirliglider[2/1], Goblin Bomb[0/2], Flight Master[3/4], Mana Reservoir[0/6], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (8)
+  Field: Hotshot[5/1], Gilnean Royal Guard[8/1], Arcanosmith[3/1], Animated Shield[0/5], Beaming Sidekick[1/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(90) → 14로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 공격 - Beaming Sidekick[1/2] -> Annoy-o-Tron
+[Turn 10, Step 46] Opponent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 10, Step 46] Opponent: 공격 - Gilnean Royal Guard[8/1] -> Annoy-o-Tron
+[Turn 10, Step 46] Opponent: 공격 - Arcanosmith[3/1] -> Whirliglider
+[Turn 10, Step 46] Opponent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 46] Opponent: 공격 - Hotshot[5/1] -> Flight Master
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Hecklebot
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Deathspeaker (코스트: 3)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Mossy Horror[2/7] -> Deathspeaker
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (4): Unexpected Results, Volcanosaur, Portal Keeper, Flight Master
+  Field: Deathspeaker[2/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (8)
+  Field: Hecklebot[3/7], Mossy Horror[2/5]
+[Turn 10, Step 50] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Volcanosaur (코스트: 7)
+[Turn 10, Step 52] Agent: 선택 - Volcanic Might
+[Turn 10, Step 52] Agent: 선택 - Massive
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Deathspeaker[2/2] -> Hecklebot
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(60) → 12로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Mechwarper
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (3): Unexpected Results, Portal Keeper, C'Thun
+  Field: Flight Master[3/4], Gryphon[2/2], Volcanosaur[6/7]
+Opponent: Rexxar HP: 20, Mana: 8/10
+  Hand (8)
+  Field: Hecklebot[3/5], Mossy Horror[2/5], Gryphon[2/2], Mechwarper[2/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 55] Agent: 공격 - Flight Master[3/4] -> Hecklebot
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 56] Agent: 공격 - Volcanosaur[6/7] -> Hecklebot
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 공격 - Gryphon[2/2] -> Volcanosaur
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 카드 플레이 - Unexpected Results (코스트: 3)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(76) → 13로 보정
+[Turn 10, Step 59] Agent: 공격 - Flight Master[3/1] -> Mossy Horror
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (3): Portal Keeper, C'Thun, Gluttonous Ooze
+  Field: Gryphon[2/2], Volcanosaur[6/2], Shadowy Figure[2/2], Amani Berserker[2/3]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (9)
+  Field: Mossy Horror[2/2], Mechwarper[2/2]
+[Turn 10, Step 60] Agent: 공격 - Gryphon[2/2] -> Mechwarper
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Seaforium Bomber (코스트: 5)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 10, Step 61] Opponent: 공격 - Mossy Horror[2/2] -> Volcanosaur
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(95) → 10로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Mukla's Champion
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(15) → 5로 보정
+[Turn 10, Step 63] Agent: 공격 - Shadowy Figure[2/2] -> Seaforium Bomber
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 64] Opponent: 카드 플레이 - Armored Warhorse (코스트: 4)
+[Turn 10, Step 64] Opponent: 공격 - Mukla's Champion[4/2] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 공격 - Armored Warhorse[5/3] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 공격 - Seaforium Bomber[5/3] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (5): Portal Keeper, C'Thun, Gluttonous Ooze, Jeweled Scarab, Boompistol Bully
+  Field: Amani Berserker[2/3]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Seaforium Bomber[5/3], Mukla's Champion[4/2], Millhouse Manastorm[4/4], Blackwater Pirate[2/5], Armored Warhorse[5/3]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Armored Warhorse
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 10, Step 66] Agent: 공격 - Amani Berserker[2/3] -> Armored Warhorse
+[Turn 10, Step 67] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(83) → 2로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Jeweled Scarab (코스트: 2)
+[Turn 10, Step 69] Agent: 선택 - Illuminator
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (5): Silvermoon Guardian, C'Thun, Gluttonous Ooze, Boompistol Bully, Illuminator
+  Field: Portal Keeper[5/2], Jeweled Scarab[1/1], Felhound[2/2], Felhound[2/2]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (7)
+  Field: Seaforium Bomber[5/3], Mukla's Champion[4/2], Millhouse Manastorm[4/4], Blackwater Pirate[2/5]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(47) → 13로 보정
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Jeweled Scarab
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 10, Step 71] Agent: 공격 - Portal Keeper[5/2] -> Millhouse Manastorm
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 72] Agent: 공격 - Felhound[2/2] -> Blackwater Pirate
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 73] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 73] Opponent: 카드 플레이 - Arcane Giant (코스트: 9)
+[Turn 10, Step 73] Opponent: 공격 - Seaforium Bomber[5/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 74) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 8/10
+  Hand (5): Silvermoon Guardian, C'Thun, Gluttonous Ooze, Boompistol Bully, Illuminator
+  Field: Felhound[2/2]
+Opponent: Rexxar HP: 20, Mana: 1/10
+  Hand (7)
+  Field: Seaforium Bomber[5/3], Mukla's Champion[4/2], Blackwater Pirate[2/3], Arcane Giant[8/8]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

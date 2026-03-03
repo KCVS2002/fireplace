@@ -1,0 +1,304 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Book of Specters (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Wax Elemental
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (7): Fel Reaver, Galvanizer, Blizzard, Mistress of Mixtures, Living Dragonbreath, Garrison Commander, SI:7 Infiltrator
+  Field: Wax Elemental[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+  Field: Recombobulator[3/2]
+[Turn 3, Step 5] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Webspinner (코스트: 1)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/5
+  Hand (7): Fel Reaver, Galvanizer, Blizzard, Living Dragonbreath, SI:7 Infiltrator, Puzzle Box of Yogg-Saron, Shrieking Shroom
+  Field: Wax Elemental[0/2], Mistress of Mixtures[2/2], Garrison Commander[2/3]
+Opponent: Rexxar HP: 30, Mana: 3/4
+  Hand (5)
+  Field: Recombobulator[3/2], Webspinner[1/1], Zealous Initiate[1/1]
+[Turn 5, Step 10] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Frozen Shadoweaver -> Jaina Proudmoore (코스트: 3)
+[Turn 5, Step 11] Opponent: 공격 - Recombobulator[3/2] -> Wax Elemental
+[Turn 5, Step 11] Opponent: 공격 - Zealous Initiate[1/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 공격 - Webspinner[1/1] -> Garrison Commander
+[Turn 5, Step 11] Opponent: 카드 플레이 - Gurubashi Offering (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 6, Step 13] Agent: 공격 - Mistress of Mixtures[2/2] -> Zealous Initiate
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/6
+  Hand (7): Fel Reaver, Blizzard, Living Dragonbreath, SI:7 Infiltrator, Puzzle Box of Yogg-Saron, Shrieking Shroom, Nerub'ar Weblord
+  Field: Mistress of Mixtures[2/1], Garrison Commander[2/2], Galvanizer[1/2]
+Opponent: Rexxar HP: 28, Mana: 1/5
+  Hand (5)
+  Field: Recombobulator[3/2], Frozen Shadoweaver[4/3], Gurubashi Offering[1/3]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 6, Step 16] Agent: 공격 - Garrison Commander[2/1] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 공격 - Recombobulator[3/2] -> Mistress of Mixtures
+[Turn 6, Step 17] Opponent: 카드 플레이 - Toxic Arrow -> Galvanizer (코스트: 2)
+[Turn 6, Step 17] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Garrison Commander
+[Turn 6, Step 17] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Frozen Shadoweaver
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/7
+  Hand (7): Fel Reaver, Blizzard, Living Dragonbreath, Puzzle Box of Yogg-Saron, Shrieking Shroom, Nerub'ar Weblord, Arcanosmith
+  Field: SI:7 Infiltrator[5/4]
+Opponent: Rexxar HP: 30, Mana: 2/6
+  Hand (4)
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Bad Luck Albatross (코스트: 4)
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> SI:7 Infiltrator
+[Turn 8, Step 22] Agent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 8, Step 23] Agent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 8, Step 24] Agent: 공격 - SI:7 Infiltrator[5/3] -> Bad Luck Albatross
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/8
+  Hand (6): Fel Reaver, Blizzard, Puzzle Box of Yogg-Saron, Nerub'ar Weblord, Arcanosmith, Eldritch Horror
+  Field: Living Dragonbreath[3/4], Shrieking Shroom[1/2]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (4)
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Bolf Ramshield (코스트: 6)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 공격 - Wartbringer[2/1] -> Bolf Ramshield
+[Turn 9, Step 27] Agent: 카드 플레이 - Blizzard (코스트: 6)
+[Turn 9, Step 28] Agent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 9, Step 29] Agent: 공격 - Shrieking Shroom[1/2] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/9
+  Hand (5): Fel Reaver, Puzzle Box of Yogg-Saron, Arcanosmith, Eldritch Horror, Frizz Kindleroost
+  Field: Living Dragonbreath[3/4], Shrieking Shroom[1/2], Nerub'ar Weblord[1/4]
+Opponent: Rexxar HP: 30, Mana: 2/8
+  Hand (4)
+  Field: Bolf Ramshield[3/4]
+[Turn 9, Step 30] Agent: 공격 - Living Dragonbreath[3/4] -> Rexxar
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Gormok the Impaler -> Rexxar (코스트: 6)
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Gormok the Impaler
+[Turn 10, Step 34] Agent: 공격 - Living Dragonbreath[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/10
+  Hand (5): Fel Reaver, Puzzle Box of Yogg-Saron, Arcanosmith, Eldritch Horror, Frizz Kindleroost
+  Field: Living Dragonbreath[3/4], Shrieking Shroom[1/2], Pit Snake[2/1], Nerub'ar Weblord[1/4], Gormok the Impaler[4/3]
+Opponent: Rexxar HP: 30, Mana: 7/9
+  Hand (4)
+  Field: Ancient Watcher[4/5]
+[Turn 10, Step 35] Agent: 공격 - Shrieking Shroom[1/2] -> Rexxar
+[Turn 10, Step 36] Agent: 공격 - Nerub'ar Weblord[1/4] -> Ancient Watcher
+[Turn 10, Step 37] Agent: 공격 - Pit Snake[2/1] -> Rexxar
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 10, Step 38] Opponent: 카드 플레이 - Bronze Explorer (코스트: 3)
+[Turn 10, Step 38] Opponent: 선택 - Sleepy Dragon
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Skaterbot[1/1] -> Target Dummy
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 10/10
+  Hand (6): Fel Reaver, Puzzle Box of Yogg-Saron, Arcanosmith, Eldritch Horror, Frizz Kindleroost, Body Wrapper
+  Field: Living Dragonbreath[3/4], Shrieking Shroom[1/2], Skaterbot[1/1], Pit Snake[2/1], Gormok the Impaler[4/3]
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (4)
+  Field: Ancient Watcher[4/4], Grand Crusader[5/5], Target Dummy[0/1], Bronze Explorer[2/3]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Living Dragonbreath
+[Turn 10, Step 41] Agent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 42] Agent: 공격 - Gormok the Impaler[4/3] -> Target Dummy
+[Turn 10, Step 43] Agent: 공격 - Living Dragonbreath[3/3] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Shrieking Shroom[1/2] -> Grand Crusader
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/10
+  Hand (5): Fel Reaver, Puzzle Box of Yogg-Saron, Eldritch Horror, Frizz Kindleroost, Body Wrapper
+  Field: Living Dragonbreath[3/3], Skaterbot[1/1], Pit Snake[2/1], Gormok the Impaler[4/3], Arcanosmith[3/2], Animated Shield[0/5]
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (4)
+  Field: Ancient Watcher[4/4], Grand Crusader[5/4], Bronze Explorer[2/3]
+[Turn 10, Step 45] Agent: 공격 - Pit Snake[2/1] -> Grand Crusader
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Sleepy Dragon (코스트: 9)
+[Turn 10, Step 46] Opponent: 공격 - Bronze Explorer[2/3] -> Animated Shield
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Skaterbot
+[Turn 10, Step 48] Agent: 카드 플레이 - Frizz Kindleroost (코스트: 4)
+[Turn 10, Step 49] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/10
+  Hand (4): Fel Reaver, Puzzle Box of Yogg-Saron, Eldritch Horror, Apexis Smuggler
+  Field: Living Dragonbreath[3/3], Gormok the Impaler[4/3], Arcanosmith[3/2], Animated Shield[0/3], Frizz Kindleroost[5/4], Body Wrapper[4/4]
+Opponent: Rexxar HP: 30, Mana: 1/10
+  Hand (4)
+  Field: Ancient Watcher[4/4], Bronze Explorer[2/3], Sleepy Dragon[4/12]
+[Turn 10, Step 50] Agent: 선택 - Garrison Commander
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Frenzied Felwing (코스트: 4)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Veranus (코스트: 6)
+[Turn 10, Step 50] Opponent: 공격 - Bronze Explorer[2/3] -> Animated Shield
+[Turn 10, Step 50] Opponent: 공격 - Sleepy Dragon[4/12] -> Jaina Proudmoore
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Body Wrapper
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Veranus[7/6] -> Frizz Kindleroost
+[Turn 10, Step 52] Opponent: 공격 - Bronze Explorer[2/3] -> Arcanosmith
+[Turn 10, Step 52] Opponent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 52] Opponent: 공격 - Sleepy Dragon[4/12] -> Living Dragonbreath
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 카드 플레이 - Apexis Smuggler (코스트: 2)
+[Turn 10, Step 54] Agent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/10
+  Hand (4): Fel Reaver, Puzzle Box of Yogg-Saron, Eldritch Horror, Nerubian Prophet
+  Field: Gormok the Impaler[4/1], Apexis Smuggler[2/3], Toxic Sewer Ooze[4/3]
+Opponent: Rexxar HP: 30, Mana: 5/10
+  Hand (3)
+  Field: Ancient Watcher[4/4], Sleepy Dragon[4/9], Frenzied Felwing[3/2], Veranus[7/1], Shield of Galakrond[4/5]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Shield of Galakrond
+[Turn 10, Step 56] Agent: 공격 - Gormok the Impaler[4/1] -> Sleepy Dragon
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Venomancer (코스트: 5)
+[Turn 10, Step 57] Opponent: 공격 - Veranus[7/1] -> Toxic Sewer Ooze
+[Turn 10, Step 57] Opponent: 영웅 능력 사용
+[Turn 10, Step 57] Opponent: 공격 - Frenzied Felwing[3/2] -> Jaina Proudmoore
+[Turn 10, Step 57] Opponent: 공격 - Sleepy Dragon[4/5] -> Apexis Smuggler
+[Turn 10, Step 57] Opponent: 공격 - Shield of Galakrond[4/4] -> Jaina Proudmoore
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Sleepy Dragon
+[Turn 10, Step 59] Agent: 카드 플레이 - Fel Reaver (코스트: 4)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 4/10
+  Hand (4): Puzzle Box of Yogg-Saron, Eldritch Horror, Nerubian Prophet, Garrison Commander
+  Field: Fel Reaver[8/8]
+Opponent: Rexxar HP: 30, Mana: 3/10
+  Hand (3)
+  Field: Ancient Watcher[4/4], Sleepy Dragon[4/2], Frenzied Felwing[3/2], Shield of Galakrond[4/4], Venomancer[2/5]
+[Turn 10, Step 60] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 10, Step 61] Opponent: 공격 - Frenzied Felwing[3/2] -> Fel Reaver
+[Turn 10, Step 61] Opponent: 공격 - Sleepy Dragon[4/2] -> Jaina Proudmoore
+[Turn 10, Step 61] Opponent: 공격 - Shield of Galakrond[4/4] -> Fel Reaver
+[Turn 10, Step 61] Opponent: 공격 - Venomancer[2/5] -> Jaina Proudmoore
+[Turn 10, Step 61] Opponent: 영웅 능력 사용
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 카드 플레이 - Crazed Alchemist -> Ancient Watcher (코스트: 2)
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 64] Agent: 카드 플레이 - Nerubian Prophet (코스트: 4)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 2/10
+  Hand (2): Puzzle Box of Yogg-Saron, Eldritch Horror
+  Field: Fel Reaver[8/1], Garrison Commander[2/3], Crazed Alchemist[2/2], Nerubian Prophet[4/4]
+Opponent: Rexxar HP: 29, Mana: 0/10
+  Hand (3)
+  Field: Ancient Watcher[4/4], Sleepy Dragon[4/2], Venomancer[2/5], The Boogeymonster[6/7]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Garrison Commander
+[Turn 10, Step 66] Agent: 공격 - Fel Reaver[8/1] -> Sleepy Dragon
+[Turn 10, Step 67] Agent: 공격 - Garrison Commander[2/2] -> The Boogeymonster
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 공격 - Venomancer[2/5] -> Crazed Alchemist
+[Turn 10, Step 68] Opponent: 카드 플레이 - Ancient Harbinger (코스트: 6)
+[Turn 10, Step 68] Opponent: 공격 - The Boogeymonster[6/5] -> Nerubian Prophet
+[Turn 10, Step 68] Opponent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 카드 플레이 - Albatross (코스트: 1)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 9/10
+  Hand (2): Puzzle Box of Yogg-Saron, Eldritch Horror
+  Field: Albatross[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/10
+  Hand (2)
+  Field: Ancient Watcher[4/4], Venomancer[2/3], The Boogeymonster[8/3], Ancient Harbinger[4/6], Tar Creeper[3/5]
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Tar Creeper
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 10, Step 71] Opponent: 공격 - Ancient Harbinger[4/6] -> Jaina Proudmoore
+[Turn 10, Step 71] Opponent: 공격 - Venomancer[2/3] -> Jaina Proudmoore
+[Turn 10, Step 71] Opponent: 공격 - The Boogeymonster[8/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 72) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 7/10
+  Hand (2): Puzzle Box of Yogg-Saron, Eldritch Horror
+  Field: Albatross[1/1]
+Opponent: Rexxar HP: 29, Mana: 6/10
+  Hand (3)
+  Field: Ancient Watcher[4/4], Venomancer[2/3], The Boogeymonster[8/3], Ancient Harbinger[4/6], Tar Creeper[1/4], C'Thun's Chosen[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

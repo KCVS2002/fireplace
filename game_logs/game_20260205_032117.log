@@ -1,0 +1,347 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Explosive Trap
+[Turn 1, Step 0] Opponent: 카드 플레이 - Wisp (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Zayle, Shadow Cloak (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Wisp[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Wisp[1/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 카드 플레이 - Scalerider (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Underbelly Ooze, Mana Addict, Countess Ashmore, King Togwaggle, Infested Goblin, Evasive Drakonid
+  Field: Zayle, Shadow Cloak[3/2]
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (4)
+  Field: Wisp[1/1], Scalerider[3/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Scalerider
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 4, Step 6] Agent: 공격 - Zayle, Shadow Cloak[3/2] -> Wisp
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Scalerider[3/2] -> Mana Addict
+[Turn 4, Step 8] Opponent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Scalerider[3/1] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 5, Step 9] Opponent: 공격 - Replicating Menace[3/1] -> Zayle, Shadow Cloak
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (8): Underbelly Ooze, Countess Ashmore, King Togwaggle, Infested Goblin, Evasive Drakonid, Replicat-o-tron, Rogues Do It..., Lost Spirit
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (5)
+  Field: Scalerider[3/1], Microbot[1/1], Microbot[1/1], Microbot[1/1], Elite Tauren Chieftain[5/5]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Scalerider
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Replicat-o-tron (코스트: 4)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 카드 플레이 - Emerald Hive Queen (코스트: 1)
+[Turn 6, Step 12] Opponent: 공격 - Elite Tauren Chieftain[5/5] -> Jaina Proudmoore
+[Turn 6, Step 12] Opponent: 공격 - Microbot[1/1] -> Replicat-o-tron
+[Turn 6, Step 12] Opponent: 영웅 능력 사용
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(74) → 22로 보정
+[Turn 7, Step 13] Agent: 공격 - Replicat-o-tron[3/2] -> Microbot
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(66) → 9로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Rogues Do It... -> Replicat-o-tron (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/7
+  Hand (8): Underbelly Ooze, Countess Ashmore, King Togwaggle, Infested Goblin, Evasive Drakonid, Lost Spirit, Bad Luck Albatross, Silverback Patriarch
+Opponent: Rexxar HP: 29, Mana: 3/6
+  Hand (5)
+  Field: Microbot[1/1], Elite Tauren Chieftain[5/5], Emerald Hive Queen[2/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(12) → 3로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 카드 플레이 - King Togwaggle (코스트: 8)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 8, Step 18] Agent: 공격 - Silverback Patriarch[1/4] -> Microbot
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Flesheating Ghoul (코스트: 5)
+[Turn 8, Step 19] Opponent: 공격 - Elite Tauren Chieftain[5/5] -> Silverback Patriarch
+[Turn 8, Step 19] Opponent: 공격 - Emerald Hive Queen[2/3] -> Jaina Proudmoore
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 9/9
+  Hand (8): Underbelly Ooze, Countess Ashmore, Infested Goblin, Evasive Drakonid, Lost Spirit, Bad Luck Albatross, Faceless Summoner, Gurubashi Berserker
+  Field: King Togwaggle[5/5]
+Opponent: Rexxar HP: 29, Mana: 3/8
+  Hand (7)
+  Field: Elite Tauren Chieftain[5/4], Emerald Hive Queen[2/3], Flesheating Ghoul[3/3]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(68) → 11로 보정
+[Turn 9, Step 20] Agent: 영웅 능력 사용 -> Elite Tauren Chieftain
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Evasive Drakonid (코스트: 7)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 9, Step 22] Agent: 공격 - King Togwaggle[5/5] -> Elite Tauren Chieftain
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 카드 플레이 - Griftah (코스트: 6)
+[Turn 9, Step 23] Opponent: 선택 - Dollmaster Dorian
+[Turn 9, Step 23] Opponent: 선택 - Fungal Enchanter
+[Turn 9, Step 23] Opponent: 영웅 능력 사용
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(82) → 6로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 4/10
+  Hand (8): Underbelly Ooze, Countess Ashmore, Infested Goblin, Lost Spirit, Bad Luck Albatross, Gurubashi Berserker, Dollmaster Dorian, Drakonid Crusher
+  Field: Evasive Drakonid[7/7], Faceless Summoner[5/5], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 29, Mana: 1/9
+  Hand (8)
+  Field: Emerald Hive Queen[2/3], Flesheating Ghoul[5/3], Griftah[4/5]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(97) → 7로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용 -> Flesheating Ghoul
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 26] Agent: 공격 - Evasive Drakonid[7/7] -> Flesheating Ghoul
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 카드 플레이 - I Am Murloc (코스트: 4)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 공격 - Evasive Drakonid[7/2] -> Griftah
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (10): Naga Corsair, Underbelly Ooze, Countess Ashmore, Infested Goblin, Lost Spirit, Bad Luck Albatross, Gurubashi Berserker, Dollmaster Dorian, Drakonid Crusher, Blackwater Pirate
+  Field: Faceless Summoner[5/5], Untamed Beastmaster[3/4]
+Opponent: Rexxar HP: 29, Mana: 6/10
+  Hand (9)
+  Field: Emerald Hive Queen[2/3], Murloc[1/1], Murloc[1/1], Murloc[1/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(95) → 8로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(33) → 7로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(31) → 5로 보정
+[Turn 10, Step 32] Agent: 공격 - Faceless Summoner[5/5] -> Murloc
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(33) → 5로 보정
+[Turn 10, Step 33] Agent: 공격 - Untamed Beastmaster[3/4] -> Murloc
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (10): Naga Corsair, Underbelly Ooze, Countess Ashmore, Infested Goblin, Lost Spirit, Bad Luck Albatross, Gurubashi Berserker, Drakonid Crusher, Blackwater Pirate, Ogre Brute
+  Field: Faceless Summoner[5/4], Untamed Beastmaster[3/3], Dollmaster Dorian[2/6]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (10)
+  Field: Emerald Hive Queen[2/3], Murloc[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(42) → 15로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Untamed Beastmaster
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(95) → 15로 보정
+[Turn 10, Step 36] Agent: 공격 - Untamed Beastmaster[3/2] -> Emerald Hive Queen
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(91) → 1로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(99) → 4로 보정
+[Turn 10, Step 39] Agent: 공격 - Dollmaster Dorian[2/6] -> Murloc
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (8): Underbelly Ooze, Countess Ashmore, Lost Spirit, Bad Luck Albatross, Gurubashi Berserker, Drakonid Crusher, Blackwater Pirate, Ogre Brute
+  Field: Faceless Summoner[5/4], Dollmaster Dorian[2/5], Naga Corsair[5/4], Infested Goblin[2/3]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 10, Step 41] Agent: 공격 - Dollmaster Dorian[2/5] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(31) → 5로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Faceless Summoner
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (9): Countess Ashmore, Lost Spirit, Bad Luck Albatross, Gurubashi Berserker, Drakonid Crusher, Blackwater Pirate, Ogre Brute, Genn Greymane, Scavenger's Ingenuity
+  Field: Faceless Summoner[5/1], Dollmaster Dorian[2/3], Naga Corsair[5/2], Infested Goblin[2/1], Underbelly Ooze[3/5]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(36) → 14로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Naga Corsair
+[Turn 10, Step 46] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(36) → 10로 보정
+[Turn 10, Step 47] Agent: 공격 - Naga Corsair[5/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(84) → 4로 보정
+[Turn 10, Step 49] Agent: 공격 - Underbelly Ooze[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 0/10
+  Hand (7): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Genn Greymane, Scavenger's Ingenuity
+  Field: Faceless Summoner[5/1], Dollmaster Dorian[2/3], Naga Corsair[5/1], Infested Goblin[2/1], Underbelly Ooze[3/5], Lost Spirit[1/1], Drakonid Crusher[6/6]
+Opponent: Rexxar HP: 19, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Infested Goblin[2/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 10, Step 51] Agent: 공격 - Dollmaster Dorian[2/3] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 카드 플레이 - Fungal Enchanter (코스트: 3)
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Underbelly Ooze[3/5] -> Fungal Enchanter
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(63) → 12로 보정
+[Turn 10, Step 54] Agent: 공격 - Dollmaster Dorian[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 10/10
+  Hand (8): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Genn Greymane, Scavenger's Ingenuity, Wild Bloodstinger
+  Field: Faceless Summoner[5/1], Dollmaster Dorian[2/3], Naga Corsair[5/1], Infested Goblin[2/1], Underbelly Ooze[3/2], Lost Spirit[1/1], Drakonid Crusher[6/6]
+Opponent: Rexxar HP: 15, Mana: 7/10
+  Hand (9)
+[Turn 10, Step 55] Agent: 공격 - Infested Goblin[2/1] -> Rexxar
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Windfury Harpy (코스트: 6)
+[Turn 10, Step 56] Opponent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Forbidden Flame -> Faceless Summoner (코스트: 0)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - King's Ransom (코스트: 5)
+[Turn 10, Step 57] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 10, Step 57] Opponent: 공격 - Bonechewer Brawler[2/3] -> Infested Goblin
+[Turn 10, Step 57] Opponent: 공격 - Bonechewer Brawler[4/1] -> Faceless Summoner
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(69) → 34로 보정
+[Turn 10, Step 58] Agent: 공격 - Drakonid Crusher[6/6] -> Enhance-o Mechano
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(97) → 16로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Lost Spirit
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (10): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Genn Greymane, Scavenger's Ingenuity, Wild Bloodstinger, Faceless Lurker, King's Ransom
+  Field: Dollmaster Dorian[3/3], Naga Corsair[6/1], Underbelly Ooze[4/2], Drakonid Crusher[7/3]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (6)
+  Field: Windfury Harpy[4/5]
+[Turn 10, Step 60] Agent: 카드 플레이 - Scavenger's Ingenuity (코스트: 2)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Wild Bloodstinger (코스트: 6)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 62] Agent: 공격 - Underbelly Ooze[4/2] -> Rexxar
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 63] Agent: 공격 - Dollmaster Dorian[3/3] -> Windfury Harpy
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (9): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Genn Greymane, Faceless Lurker, King's Ransom, Meteorologist
+  Field: Naga Corsair[6/1], Underbelly Ooze[4/2], Drakonid Crusher[7/3], Wild Bloodstinger[6/4]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (6)
+  Field: Windfury Harpy[4/2]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Genn Greymane (코스트: 6)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 67] Agent: 공격 - Underbelly Ooze[4/2] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Wild Bloodstinger[6/4] -> Windfury Harpy
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Crystallizer (코스트: 1)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 2/10
+  Hand (8): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Faceless Lurker, King's Ransom, Meteorologist
+  Field: Naga Corsair[6/1], Underbelly Ooze[4/2], Drakonid Crusher[7/3], Genn Greymane[6/5]
+Opponent: Rexxar HP: 0, Mana: 9/10
+  Hand (6)
+  Field: Crystallizer[1/3]
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 2/10
+  Hand (8): Countess Ashmore, Bad Luck Albatross, Gurubashi Berserker, Blackwater Pirate, Ogre Brute, Faceless Lurker, King's Ransom, Meteorologist
+  Field: Naga Corsair[6/1], Underbelly Ooze[4/2], Drakonid Crusher[7/3], Genn Greymane[6/5]
+Opponent: Rexxar HP: 0, Mana: 9/10
+  Hand (6)
+  Field: Crystallizer[1/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

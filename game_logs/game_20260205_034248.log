@@ -1,0 +1,350 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Frozen Shadoweaver -> Jaina Proudmoore (코스트: 3)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (7): Ozruk, Doomsayer, Microtech Controller, Core Hound, Imprisoned Observer, Aya Blackpaw, Belligerent Gnome
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (4)
+  Field: Shieldbearer[0/4], Frozen Shadoweaver[4/3]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Shieldbearer
+[Turn 5, Step 8] Agent: 카드 플레이 - Microtech Controller (코스트: 3)
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (9): Ozruk, Doomsayer, Core Hound, Imprisoned Observer, Aya Blackpaw, Belligerent Gnome, Night Prowler, Saboteur, Arcane Artificer
+  Field: Microbot[1/1], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 30, Mana: 3/6
+  Hand (6)
+  Field: Shieldbearer[0/4], Frozen Shadoweaver[4/3], Young Priestess[2/1]
+[Turn 6, Step 10] Agent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Microbot
+[Turn 6, Step 11] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 6, Step 11] Opponent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 6, Step 11] Opponent: 공격 - Young Priestess[2/1] -> Doomsayer
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Night Prowler (코스트: 4)
+[Turn 7, Step 13] Agent: 카드 플레이 - Belligerent Gnome (코스트: 2)
+[Turn 7, Step 14] Agent: 카드 플레이 - Arcane Artificer (코스트: 1)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/7
+  Hand (6): Ozruk, Core Hound, Imprisoned Observer, Aya Blackpaw, Saboteur, Moat Lurker
+  Field: Night Prowler[6/6], Belligerent Gnome[1/4], Arcane Artificer[1/2]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (5)
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 카드 플레이 - Moat Lurker -> Arcane Artificer (코스트: 6)
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 카드 플레이 - Core Hound (코스트: 7)
+[Turn 9, Step 19] Agent: 영웅 능력 사용 -> Belligerent Gnome
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (6): Ozruk, Imprisoned Observer, Aya Blackpaw, Saboteur, Tentacle of N'Zoth, Scarab Egg
+  Field: Night Prowler[6/6], Belligerent Gnome[1/3], Moat Lurker[3/3], Core Hound[9/5]
+Opponent: Rexxar HP: 30, Mana: 9/9
+  Hand (7)
+[Turn 9, Step 20] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 20] Opponent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 9, Step 20] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 9, Step 20] Opponent: 카드 플레이 - Metaltooth Leaper (코스트: 3)
+[Turn 9, Step 20] Opponent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 9, Step 20] Opponent: 턴 종료
+[Turn 10, Step 21] Agent: 공격 - Belligerent Gnome[1/3] -> Kobold Sandtrooper
+[Turn 10, Step 22] Agent: 공격 - Core Hound[9/5] -> Acidic Swamp Ooze
+[Turn 10, Step 23] Agent: 공격 - Night Prowler[6/6] -> Rexxar
+[Turn 10, Step 24] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (8): Windfury Harpy, Ozruk, Imprisoned Observer, Aya Blackpaw, Saboteur, Tentacle of N'Zoth, Scarab Egg, Micro Machine
+  Field: Night Prowler[6/6], Belligerent Gnome[1/1], Moat Lurker[3/3], Core Hound[9/2]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (5)
+  Field: Metaltooth Leaper[3/3], Grizzled Wizard[3/2]
+[Turn 10, Step 25] Agent: 공격 - Belligerent Gnome[1/1] -> Metaltooth Leaper
+[Turn 10, Step 26] Agent: 공격 - Moat Lurker[3/3] -> Rexxar
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 28] Agent: 카드 플레이 - Aya Blackpaw (코스트: 6)
+[Turn 10, Step 29] Agent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/10
+  Hand (6): Windfury Harpy, Ozruk, Imprisoned Observer, Saboteur, Scarab Egg, Micro Machine
+  Field: Night Prowler[6/6], Moat Lurker[3/3], Core Hound[9/2], Aya Blackpaw[5/3], Jade Golem[1/1], Tentacle of N'Zoth[1/1]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (5)
+  Field: Metaltooth Leaper[3/2], Grizzled Wizard[3/2]
+[Turn 10, Step 30] Agent: 공격 - Night Prowler[6/6] -> Grizzled Wizard
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 공격 - Metaltooth Leaper[3/2] -> Core Hound
+[Turn 10, Step 31] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Windfury Harpy (코스트: 6)
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 34] Agent: 공격 - Aya Blackpaw[5/3] -> Charged Devilsaur
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (6): Ozruk, Imprisoned Observer, Saboteur, Scarab Egg, Micro Machine, Mad Hatter
+  Field: Night Prowler[6/3], Moat Lurker[3/3], Jade Golem[2/2], Jade Golem[1/1], Tentacle of N'Zoth[1/1], Windfury Harpy[4/5]
+Opponent: Rexxar HP: 19, Mana: 2/10
+  Hand (5)
+  Field: Charged Devilsaur[7/2]
+[Turn 10, Step 35] Agent: 공격 - Night Prowler[6/3] -> Charged Devilsaur
+[Turn 10, Step 36] Agent: 공격 - Jade Golem[1/1] -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Moat Lurker[3/3] -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Tentacle of N'Zoth[1/1] -> Rexxar
+[Turn 10, Step 39] Agent: 카드 플레이 - Scarab Egg (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (5): Ozruk, Imprisoned Observer, Saboteur, Micro Machine, Mad Hatter
+  Field: Moat Lurker[3/3], Jade Golem[2/2], Jade Golem[1/1], Tentacle of N'Zoth[1/1], Windfury Harpy[4/5], Scarab Egg[0/2]
+Opponent: Rexxar HP: 14, Mana: 2/10
+  Hand (5)
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Desert Camel (코스트: 3)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Kabal Chemist (코스트: 4)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Jade Golem[2/2] -> Kabal Chemist
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Desert Camel[2/4] -> Jade Golem
+[Turn 10, Step 42] Opponent: 공격 - Kabal Chemist[3/1] -> Moat Lurker
+[Turn 10, Step 42] Opponent: 카드 플레이 - Evasive Feywing (코스트: 4)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Tentacle of N'Zoth[1/1] -> Desert Camel
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Evasive Feywing[5/3] -> Windfury Harpy
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (8): Justicar Trueheart, Ozruk, Imprisoned Observer, Saboteur, Micro Machine, Mad Hatter, Hench-Clan Hogsteed, Tortollan Pilgrim
+  Field: Arcane Artificer[1/1], Scarab Egg[0/1]
+Opponent: Rexxar HP: 14, Mana: 3/10
+  Hand (6)
+  Field: Desert Camel[2/1], Ruststeed Raider[1/8]
+[Turn 10, Step 45] Agent: 카드 플레이 - Tortollan Pilgrim (코스트: 8)
+[Turn 10, Step 46] Agent: 선택 - Cone of Cold
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Snake Trap (코스트: 2)
+[Turn 10, Step 46] Opponent: 카드 플레이 - Potion of Madness -> Arcane Artificer (코스트: 1)
+[Turn 10, Step 46] Opponent: 공격 - Arcane Artificer[1/2] -> Tortollan Pilgrim
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Justicar Trueheart (코스트: 6)
+[Turn 10, Step 48] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Tortollan Pilgrim
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (6): Ozruk, Imprisoned Observer, Saboteur, Micro Machine, Mad Hatter, Hemet Nesingwary
+  Field: Scarab Egg[0/1], Tortollan Pilgrim[5/2], Justicar Trueheart[6/3], Hench-Clan Hogsteed[2/1]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (4)
+  Field: Ruststeed Raider[1/7], Countess Ashmore[6/6]
+[Turn 10, Step 50] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Ruststeed Raider
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Snake[1/1] -> Jaina Proudmoore
+[Turn 10, Step 51] Opponent: 공격 - Countess Ashmore[6/6] -> Tortollan Pilgrim
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 10, Step 53] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 54] Agent: 카드 플레이 - Mad Hatter (코스트: 4)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (5): Ozruk, Imprisoned Observer, Saboteur, Micro Machine, Hemet Nesingwary
+  Field: Scarab Egg[0/1], Justicar Trueheart[6/3], Hench-Clan Squire[1/1], Humongous Razorleaf[5/9], Mad Hatter[3/2]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (5)
+  Field: Ruststeed Raider[1/5], Snake[2/2], Snake[1/1], Snake[2/2]
+[Turn 10, Step 55] Agent: 공격 - Justicar Trueheart[6/3] -> Ruststeed Raider
+[Turn 10, Step 56] Agent: 공격 - Hench-Clan Squire[1/1] -> Snake
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 10, Step 59] Agent: 공격 - Justicar Trueheart[6/2] -> Snake
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (5): Drakkari Enchanter, Ozruk, Imprisoned Observer, Micro Machine, Hemet Nesingwary
+  Field: Scarab Egg[0/1], Humongous Razorleaf[5/9], Mad Hatter[3/2], Saboteur[4/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (6)
+  Field: Snake[1/1], Snake[2/2]
+[Turn 10, Step 60] Agent: 카드 플레이 - Hemet Nesingwary -> Snake (코스트: 5)
+[Turn 10, Step 61] Agent: 공격 - Mad Hatter[3/2] -> Snake
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 카드 플레이 - Lotus Agents (코스트: 5)
+[Turn 10, Step 63] Opponent: 선택 - EVIL Totem
+[Turn 10, Step 63] Opponent: 카드 플레이 - EVIL Totem (코스트: 2)
+[Turn 10, Step 63] Opponent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 공격 - Scarab[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (5): Drakkari Enchanter, Ozruk, Imprisoned Observer, Micro Machine, Ethereal Conjurer
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Humongous Razorleaf[5/9], Mad Hatter[3/1], Saboteur[4/3], Hemet Nesingwary[6/3]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (6)
+  Field: Lotus Agents[5/3], EVIL Totem[0/2], Thunder Lizard[3/3]
+[Turn 10, Step 65] Agent: 공격 - Mad Hatter[3/1] -> Lotus Agents
+[Turn 10, Step 66] Agent: 공격 - Hemet Nesingwary[6/3] -> Thunder Lizard
+[Turn 10, Step 67] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 68] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+[Turn 10, Step 69] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 5)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (3): Drakkari Enchanter, Ozruk, Micro Machine
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Humongous Razorleaf[5/7], Saboteur[4/3], Imprisoned Observer[4/5], Ethereal Conjurer[6/3]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (6)
+  Field: EVIL Totem[0/2]
+[Turn 10, Step 70] Agent: 선택 - Counterspell
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Acidmaw (코스트: 7)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 공격 - Scarab[1/1] -> EVIL Totem
+[Turn 10, Step 72] Agent: 카드 플레이 - Cone of Cold -> Humongous Razorleaf (코스트: 4)
+[Turn 10, Step 73] Agent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 10, Step 74] Agent: 영웅 능력 사용 -> Scarab
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (3): Drakkari Enchanter, Ozruk, Counterspell
+  Field: Scarab[1/1], Imprisoned Observer[4/5], Ethereal Conjurer[6/3], Micro Machine[1/2]
+Opponent: Rexxar HP: 14, Mana: 3/10
+  Hand (7)
+  Field: Acidmaw[4/2]
+[Turn 10, Step 75] Agent: 공격 - Ethereal Conjurer[6/3] -> Rexxar
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 카드 플레이 - Kobold Lackey -> Acidmaw (코스트: 1)
+[Turn 10, Step 76] Opponent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 10, Step 76] Opponent: 카드 플레이 - Titanic Lackey -> Kobold Lackey (코스트: 1)
+[Turn 10, Step 76] Opponent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Kobold Lackey
+[Turn 10, Step 78] Agent: 공격 - Hellfire Warder[1/3] -> Rexxar
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 공격 - Half-Time Scavenger[3/3] -> Hellfire Warder
+[Turn 10, Step 79] Opponent: 영웅 능력 사용
+[Turn 10, Step 79] Opponent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 10, Step 79] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (5): Drakkari Enchanter, Ozruk, Counterspell, Coldlight Seer, Fossilized Devilsaur
+  Field: Scarab[1/1], Imprisoned Observer[5/6], Ethereal Conjurer[6/3], Micro Machine[6/3], Hellfire Warder[1/3], Hellfire Warder[2/4]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (3)
+  Field: Half-Time Scavenger[3/2], Magtheridon[12/12], Mad Hatter[3/2], Untamed Beastmaster[3/4]
+[Turn 10, Step 80] Agent: 공격 - Scarab[1/1] -> Rexxar
+[Turn 10, Step 81] Agent: 영웅 능력 사용 -> Mad Hatter
+[Turn 10, Step 82] Agent: 공격 - Hellfire Warder[1/3] -> Untamed Beastmaster
+[Turn 10, Step 83] Agent: 공격 - Imprisoned Observer[5/6] -> Half-Time Scavenger
+[Turn 10, Step 84] Agent: 공격 - Hellfire Warder[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (5): Drakkari Enchanter, Ozruk, Counterspell, Coldlight Seer, Fossilized Devilsaur
+  Field: Scarab[1/1], Imprisoned Observer[5/3], Ethereal Conjurer[6/3], Micro Machine[6/3], Hellfire Warder[2/4]
+Opponent: Rexxar HP: 4, Mana: 1/10
+  Hand (3)
+  Field: Magtheridon[12/12], Untamed Beastmaster[3/3]
+[Turn 10, Step 85] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 10, Step 86] Agent: 공격 - Ethereal Conjurer[6/3] -> Untamed Beastmaster
+[Turn 10, Step 87] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 10, Step 88] Agent: 공격 - Micro Machine[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 89) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/10
+  Hand (3): Drakkari Enchanter, Ozruk, Fossilized Devilsaur
+  Field: Scarab[1/1], Imprisoned Observer[5/3], Micro Machine[6/3], Hellfire Warder[2/4], Coldlight Seer[2/3]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (3)
+  Field: Magtheridon[12/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

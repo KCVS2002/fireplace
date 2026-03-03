@@ -1,0 +1,230 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Brave Archer (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 1, Step 3] Opponent: 공격 - Brave Archer[2/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - River Crocolisk (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Power of Creation, Gadgetzan Auctioneer, Desert Hare, Icicle
+  Field: Potion Vendor[1/1], River Crocolisk[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (3)
+  Field: Brave Archer[2/1], Nerub'ar Weblord[1/4]
+[Turn 2, Step 5] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 공격 - Brave Archer[2/1] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Icicle -> Brave Archer (코스트: 2)
+[Turn 3, Step 8] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - River Crocolisk[2/3] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/3
+  Hand (4): Power of Creation, Gadgetzan Auctioneer, Desert Hare, Oondasta
+  Field: Potion Vendor[1/1], River Crocolisk[2/3]
+Opponent: Rexxar HP: 26, Mana: 1/3
+  Hand (4)
+  Field: Nerub'ar Weblord[1/4]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 3, Step 10] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - River Crocolisk[2/3] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Grave Shambler[4/4] -> River Crocolisk
+[Turn 4, Step 14] Opponent: 카드 플레이 - Ironbeak Owl -> Mechanical Yeti (코스트: 5)
+[Turn 4, Step 14] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Jaina Proudmoore
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 5/5
+  Hand (5): Power of Creation, Gadgetzan Auctioneer, Desert Hare, Oondasta, Giggling Inventor
+  Field: Potion Vendor[1/1], Mechanical Yeti[4/5]
+Opponent: Rexxar HP: 23, Mana: 0/5
+  Hand (4)
+  Field: Nerub'ar Weblord[1/4], Grave Shambler[4/2], Ironbeak Owl[2/1]
+[Turn 5, Step 15] Agent: 카드 플레이 - Desert Hare (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Mechanical Yeti[4/5] -> Rexxar
+[Turn 5, Step 18] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 18] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 5, Step 18] Opponent: 공격 - Grave Shambler[4/2] -> Mechanical Yeti
+[Turn 5, Step 18] Opponent: 공격 - Ironbeak Owl[2/1] -> Mechanical Yeti
+[Turn 5, Step 18] Opponent: 영웅 능력 사용
+[Turn 5, Step 18] Opponent: 공격 - Nerub'ar Weblord[1/4] -> Desert Hare
+[Turn 5, Step 18] Opponent: 턴 종료
+[Turn 6, Step 19] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/6
+  Hand (4): Power of Creation, Oondasta, Giggling Inventor, Sir Finley Mrrgglton
+  Field: Potion Vendor[1/1], Desert Hare[1/1], Desert Hare[1/1], Gadgetzan Auctioneer[4/4]
+Opponent: Rexxar HP: 18, Mana: 0/6
+  Hand (4)
+  Field: Nerub'ar Weblord[1/3], Genzo, the Shark[5/4]
+[Turn 6, Step 20] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 공격 - Nerub'ar Weblord[1/3] -> Gadgetzan Auctioneer
+[Turn 6, Step 23] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 6, Step 23] Opponent: 공격 - Genzo, the Shark[5/4] -> Gadgetzan Auctioneer
+[Turn 6, Step 23] Opponent: 영웅 능력 사용
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Giggling Inventor (코스트: 6)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/7
+  Hand (4): Power of Creation, Oondasta, Sir Finley Mrrgglton, Galvanizer
+  Field: Potion Vendor[1/1], Desert Hare[1/1], Desert Hare[1/1], Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 15, Mana: 1/7
+  Hand (4)
+  Field: Arcane Fletcher[3/3]
+[Turn 7, Step 25] Agent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 7, Step 26] Agent: 선택 - Shapeshift
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 7, Step 26] Opponent: 영웅 능력 사용
+[Turn 7, Step 26] Opponent: 공격 - Arcane Fletcher[4/4] -> Annoy-o-Tron
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 영웅 능력 사용
+[Turn 8, Step 28] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 8, Step 29] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/8
+  Hand (4): Darkmire Moonkin, Power of Creation, Oondasta, Galvanizer
+  Field: Potion Vendor[1/1], Desert Hare[1/1], Desert Hare[1/1], Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Sir Finley Mrrgglton[1/3]
+Opponent: Rexxar HP: 13, Mana: 1/8
+  Hand (4)
+  Field: Arcane Fletcher[4/3], Mukla's Champion[5/4]
+[Turn 8, Step 30] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 8, Step 31] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 8, Step 32] Agent: 공격 - Giggling Inventor[2/1] -> Rexxar
+[Turn 8, Step 33] Agent: 공격 - Annoy-o-Tron[1/2] -> Rexxar
+[Turn 8, Step 34] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Rexxar
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 6/8
+  Hand (4): Darkmire Moonkin, Power of Creation, Oondasta, Galvanizer
+  Field: Potion Vendor[1/1], Desert Hare[1/1], Desert Hare[1/1], Annoy-o-Tron[1/2], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Sir Finley Mrrgglton[1/3]
+Opponent: Rexxar HP: 7, Mana: 1/8
+  Hand (4)
+  Field: Arcane Fletcher[4/3], Mukla's Champion[5/4]
+[Turn 8, Step 35] Agent: 공격 - Jaina Proudmoore[1/15] -> Rexxar
+[Turn 8, Step 36] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 36] Opponent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 8, Step 36] Opponent: 카드 플레이 - Silvermoon Guardian (코스트: 4)
+[Turn 8, Step 36] Opponent: 공격 - Arcane Fletcher[4/3] -> Annoy-o-Tron
+[Turn 8, Step 36] Opponent: 공격 - Mukla's Champion[5/4] -> Annoy-o-Tron
+[Turn 8, Step 36] Opponent: 턴 종료
+[Turn 9, Step 37] Agent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+[Turn 9, Step 38] Agent: 영웅 능력 사용
+[Turn 9, Step 39] Agent: 공격 - Potion Vendor[1/1] -> Conjured Mirage
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/9
+  Hand (4): Power of Creation, Oondasta, Galvanizer, Felsoul Inquisitor
+  Field: Desert Hare[1/1], Desert Hare[1/1], Giggling Inventor[2/1], Annoy-o-Tron[1/2], Sir Finley Mrrgglton[1/3], Darkmire Moonkin[2/8]
+Opponent: Rexxar HP: 6, Mana: 1/9
+  Hand (3)
+  Field: Arcane Fletcher[4/2], Mukla's Champion[5/3], Conjured Mirage[3/9], Silvermoon Guardian[3/3]
+[Turn 9, Step 40] Agent: 공격 - Desert Hare[1/1] -> Conjured Mirage
+[Turn 9, Step 41] Agent: 공격 - Desert Hare[1/1] -> Conjured Mirage
+[Turn 9, Step 42] Agent: 공격 - Giggling Inventor[2/1] -> Conjured Mirage
+[Turn 9, Step 43] Agent: 공격 - Annoy-o-Tron[1/2] -> Conjured Mirage
+[Turn 9, Step 44] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Conjured Mirage
+
+--- Game State (Turn 9, Step 45) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/9
+  Hand (4): Power of Creation, Oondasta, Galvanizer, Felsoul Inquisitor
+  Field: Darkmire Moonkin[2/8]
+Opponent: Rexxar HP: 6, Mana: 1/9
+  Hand (3)
+  Field: Arcane Fletcher[4/2], Mukla's Champion[5/3], Conjured Mirage[3/3], Silvermoon Guardian[3/3]
+[Turn 9, Step 45] Agent: 공격 - Jaina Proudmoore[1/15] -> Conjured Mirage
+[Turn 9, Step 46] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 46] Opponent: 공격 - Mukla's Champion[5/3] -> Darkmire Moonkin
+[Turn 9, Step 46] Opponent: 영웅 능력 사용
+[Turn 9, Step 46] Opponent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 9, Step 46] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 9, Step 46] Opponent: 공격 - Arcane Fletcher[5/3] -> Jaina Proudmoore
+[Turn 9, Step 46] Opponent: 공격 - Silvermoon Guardian[4/4] -> Jaina Proudmoore
+[Turn 9, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Power of Creation (코스트: 8)
+[Turn 10, Step 48] Agent: 선택 - Windfury Harpy
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Daring Reporter[4/4] -> Darkmire Moonkin
+[Turn 10, Step 48] Opponent: 공격 - Arcane Fletcher[5/3] -> Windfury Harpy
+[Turn 10, Step 48] Opponent: 카드 플레이 - North Sea Kraken -> Silvermoon Guardian (코스트: 9)
+[Turn 10, Step 48] Opponent: 공격 - Unstable Ghoul[1/3] -> Jaina Proudmoore
+[Turn 10, Step 48] Opponent: 공격 - Silvermoon Guardian[4/4] -> Windfury Harpy
+[Turn 10, Step 48] Opponent: 공격 - Mukla's Champion[6/2] -> Windfury Harpy
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 카드 플레이 - Oondasta (코스트: 9)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 1/10
+  Hand (4): Galvanizer, Felsoul Inquisitor, Master Swordsmith, Khartut Defender
+  Field: Oondasta[7/7]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (2)
+  Field: Daring Reporter[5/3], Unstable Ghoul[1/3], North Sea Kraken[9/7]
+[Turn 10, Step 50] Agent: 공격 - Oondasta[7/7] -> Unstable Ghoul
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 10, Step 51] Opponent: 공격 - Daring Reporter[5/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 52) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (4): Galvanizer, Felsoul Inquisitor, Master Swordsmith, Khartut Defender
+  Field: Oondasta[7/5]
+Opponent: Rexxar HP: 6, Mana: 1/10
+  Hand (1)
+  Field: Daring Reporter[5/2], North Sea Kraken[9/6], Bonechewer Vanguard[4/10], Micro Machine[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

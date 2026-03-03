@@ -1,0 +1,254 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Ethereal Augmerchant (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Ethereal Augmerchant
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 2, Step 3] Opponent: 공격 - Deadscale Knight[1/3] -> Jaina Proudmoore
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Fallen Sun Cleric (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/3
+  Hand (4): Utgarde Grapplesniper, Astral Rift, Violet Spellsword, Cloud Prince
+  Field: Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Deadscale Knight[1/3], Coldlight Seer[2/3]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 공격 - Fallen Sun Cleric[2/1] -> Haunted Creeper
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Deadscale Knight
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 5, Step 9] Opponent: 공격 - Deadscale Knight[1/2] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 공격 - Spectral Spider[1/1] -> Jaina Proudmoore
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (7): Utgarde Grapplesniper, Astral Rift, Violet Spellsword, Cloud Prince, Arcane Devourer, Grand Crusader, Hyldnir Frostrider
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (5)
+  Field: Deadscale Knight[1/2], Coldlight Seer[2/3], Spectral Spider[1/1], Spectral Spider[1/1], Stalagg[7/4]
+[Turn 6, Step 10] Agent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 공격 - Stalagg[7/4] -> Hyldnir Frostrider
+[Turn 6, Step 11] Opponent: 공격 - Deadscale Knight[1/2] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 6, Step 11] Opponent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 카드 플레이 - Astral Rift (코스트: 0)
+[Turn 7, Step 13] Agent: 카드 플레이 - Kooky Chemist -> Spectral Spider (코스트: 4)
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Kooky Chemist
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (7): Utgarde Grapplesniper, Violet Spellsword, Cloud Prince, Arcane Devourer, Grand Crusader, Tak Nozwhisker, Primordial Drake
+  Field: Kooky Chemist[4/3]
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (4)
+  Field: Deadscale Knight[1/2], Coldlight Seer[2/3], Spectral Spider[1/1], Spectral Spider[1/1], Emperor Cobra[2/3], Millhouse Manastorm[4/4]
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Coldlight Seer
+[Turn 8, Step 17] Agent: 카드 플레이 - Silent Knight (코스트: 3)
+[Turn 8, Step 18] Agent: 공격 - Kooky Chemist[4/3] -> Spectral Spider
+[Turn 8, Step 19] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 19] Opponent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 8, Step 19] Opponent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 8, Step 19] Opponent: 공격 - Millhouse Manastorm[4/4] -> Kooky Chemist
+[Turn 8, Step 19] Opponent: 공격 - Spectral Spider[1/1] -> Jaina Proudmoore
+[Turn 8, Step 19] Opponent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 8, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 9/9
+  Hand (8): Utgarde Grapplesniper, Violet Spellsword, Cloud Prince, Arcane Devourer, Grand Crusader, Tak Nozwhisker, Primordial Drake, Rolling Fireball
+  Field: Silent Knight[2/2]
+Opponent: Rexxar HP: 30, Mana: 2/8
+  Hand (3)
+  Field: Deadscale Knight[1/2], Coldlight Seer[2/2], Spectral Spider[1/1], Emperor Cobra[2/3], Ancient Watcher[4/5], Southsea Deckhand[2/1], Desert Hare[1/1]
+[Turn 9, Step 20] Agent: 공격 - Silent Knight[2/2] -> Rexxar
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Desert Hare
+[Turn 9, Step 22] Agent: 카드 플레이 - Rolling Fireball -> Coldlight Seer (코스트: 5)
+[Turn 9, Step 23] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 23] Opponent: 턴 종료
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Silent Knight
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (8): Utgarde Grapplesniper, Violet Spellsword, Cloud Prince, Arcane Devourer, Grand Crusader, Tak Nozwhisker, Primordial Drake, Sunfury Protector
+  Field: Silent Knight[2/2]
+Opponent: Rexxar HP: 28, Mana: 9/9
+  Hand (4)
+  Field: Deadscale Knight[1/2], Ancient Watcher[4/3], Southsea Deckhand[2/1]
+[Turn 10, Step 25] Agent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 10, Step 26] Agent: 공격 - Silent Knight[2/2] -> Southsea Deckhand
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Deadscale Knight[1/2] -> Twilight Drake
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Utgarde Grapplesniper
+[Turn 10, Step 29] Agent: 카드 플레이 - Primordial Drake (코스트: 8)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (7): Violet Spellsword, Cloud Prince, Arcane Devourer, Grand Crusader, Tak Nozwhisker, Sunfury Protector, Rockpool Hunter
+  Field: Utgarde Grapplesniper[5/2], Primordial Drake[4/6]
+Opponent: Rexxar HP: 29, Mana: 10/10
+  Hand (6)
+  Field: Ancient Watcher[4/1]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Medivh, the Guardian (코스트: 8)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 30] Opponent: 공격 - Rexxar[1/29] -> Primordial Drake
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Medivh, the Guardian
+[Turn 10, Step 32] Agent: 공격 - Utgarde Grapplesniper[5/2] -> Medivh, the Guardian
+[Turn 10, Step 33] Agent: 카드 플레이 - Arcane Devourer (코스트: 8)
+[Turn 10, Step 34] Agent: 공격 - Primordial Drake[4/5] -> Ancient Watcher
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (7): Violet Spellsword, Cloud Prince, Grand Crusader, Tak Nozwhisker, Sunfury Protector, Rockpool Hunter, Arena Treasure Chest
+  Field: Primordial Drake[4/1], Arcane Devourer[5/5]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (5)
+  Field: Medivh, the Guardian[7/1], Lost Spirit[1/1]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Rexxar[1/25] -> Primordial Drake
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 37] Agent: 카드 플레이 - Tak Nozwhisker (코스트: 7)
+[Turn 10, Step 38] Agent: 공격 - Arcane Devourer[5/5] -> Medivh, the Guardian
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Rexxar[1/21] -> Tak Nozwhisker
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (8): Clockwork Knight, Violet Spellsword, Cloud Prince, Grand Crusader, Sunfury Protector, Rockpool Hunter, Arena Treasure Chest, Malygos, Aspect of Magic
+  Field: Tak Nozwhisker[6/5]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (7)
+  Field: Lost Spirit[1/1]
+[Turn 10, Step 40] Agent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Tak Nozwhisker
+[Turn 10, Step 42] Agent: 공격 - Tak Nozwhisker[6/4] -> Lost Spirit
+[Turn 10, Step 43] Agent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 10, Step 44] Opponent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (8): Clockwork Knight, Violet Spellsword, Cloud Prince, Sunfury Protector, Arena Treasure Chest, Malygos, Aspect of Magic, Dragonrider Talritha, Arch-Thief Rafaam
+  Field: Tak Nozwhisker[6/3], Grand Crusader[5/5], Rockpool Hunter[2/3]
+Opponent: Rexxar HP: 15, Mana: 2/10
+  Hand (6)
+  Field: Escaped Manasaber[3/5], Bilefin Tidehunter[2/1], Ooze[1/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 10, Step 46] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 10, Step 47] Agent: 공격 - Tak Nozwhisker[6/3] -> Ooze
+[Turn 10, Step 48] Agent: 공격 - Grand Crusader[5/5] -> Rexxar
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Grand Crusader
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/10
+  Hand (6): Clockwork Knight, Cloud Prince, Arena Treasure Chest, Malygos, Aspect of Magic, Dragonrider Talritha, Arch-Thief Rafaam
+  Field: Tak Nozwhisker[6/2], Grand Crusader[5/4], Rockpool Hunter[2/3], Violet Spellsword[1/6], Sunfury Protector[2/3]
+Opponent: Rexxar HP: 10, Mana: 2/10
+  Hand (6)
+  Field: Escaped Manasaber[3/5], Bilefin Tidehunter[2/1]
+[Turn 10, Step 50] Agent: 공격 - Rockpool Hunter[2/3] -> Rexxar
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 영웅 능력 사용
+[Turn 10, Step 52] Opponent: 카드 플레이 - Savannah Highmane (코스트: 6)
+[Turn 10, Step 52] Opponent: 공격 - Escaped Manasaber[3/5] -> Violet Spellsword
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 공격 - Tak Nozwhisker[6/2] -> Rexxar
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Sunfury Protector
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (8): Clockwork Knight, Cloud Prince, Arena Treasure Chest, Malygos, Aspect of Magic, Dragonrider Talritha, Arch-Thief Rafaam, Zoobot, Glacial Shard
+  Field: Tak Nozwhisker[6/2], Grand Crusader[5/4], Rockpool Hunter[2/3], Violet Spellsword[1/3], Sunfury Protector[2/2]
+Opponent: Rexxar HP: 2, Mana: 2/10
+  Hand (7)
+  Field: Escaped Manasaber[3/4], Bilefin Tidehunter[2/1], Savannah Highmane[6/5]
+[Turn 10, Step 55] Agent: 공격 - Sunfury Protector[2/2] -> Savannah Highmane
+[Turn 10, Step 56] Agent: 카드 플레이 - Glacial Shard -> Rexxar (코스트: 1)
+[Turn 10, Step 57] Agent: 공격 - Grand Crusader[5/4] -> Bilefin Tidehunter
+[Turn 10, Step 58] Agent: 공격 - Violet Spellsword[1/3] -> Rexxar
+[Turn 10, Step 59] Agent: 카드 플레이 - Zoobot (코스트: 3)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (6): Clockwork Knight, Cloud Prince, Arena Treasure Chest, Malygos, Aspect of Magic, Dragonrider Talritha, Arch-Thief Rafaam
+  Field: Tak Nozwhisker[6/2], Grand Crusader[5/2], Rockpool Hunter[3/4], Violet Spellsword[1/3], Glacial Shard[2/1], Zoobot[3/3]
+Opponent: Rexxar HP: 1, Mana: 2/10
+  Hand (7)
+  Field: Escaped Manasaber[3/4], Savannah Highmane[6/3]
+[Turn 10, Step 60] Agent: 카드 플레이 - Dragonrider Talritha (코스트: 3)
+[Turn 10, Step 61] Agent: 공격 - Rockpool Hunter[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 62) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (5): Clockwork Knight, Cloud Prince, Arena Treasure Chest, Malygos, Aspect of Magic, Arch-Thief Rafaam
+  Field: Tak Nozwhisker[6/2], Grand Crusader[5/2], Rockpool Hunter[3/4], Violet Spellsword[1/3], Glacial Shard[2/1], Zoobot[3/3], Dragonrider Talritha[3/3]
+Opponent: Rexxar HP: 0, Mana: 2/10
+  Hand (7)
+  Field: Escaped Manasaber[3/4], Savannah Highmane[6/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

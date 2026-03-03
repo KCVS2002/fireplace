@@ -1,0 +1,308 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(22) → 2로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (6): Mogu'shan Warden, Transmogrifier, Leeroy Jenkins, Emperor Cobra, Pyros, Snowchugger
+  Field: Kobold Sandtrooper[2/1]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (8)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(23) → 10로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Mogu'shan Warden
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(38) → 3로 보정
+[Turn 5, Step 8] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 5, Step 9] Agent: 공격 - Kobold Sandtrooper[2/1] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/5
+  Hand (5): Transmogrifier, Leeroy Jenkins, Emperor Cobra, Snowchugger, Disguised Wanderer
+  Field: Kobold Sandtrooper[2/1], Mogu'shan Warden[1/6], Pyros[2/2]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 5, Step 10] Agent: 공격 - Mogu'shan Warden[1/6] -> Rexxar
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 영웅 능력 사용 -> Mogu'shan Warden
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(70) → 7로 보정
+[Turn 6, Step 13] Agent: 공격 - Mogu'shan Warden[1/5] -> Rexxar
+[Turn 6, Step 14] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/6
+  Hand (5): Transmogrifier, Leeroy Jenkins, Emperor Cobra, Disguised Wanderer, Jar Dealer
+  Field: Kobold Sandtrooper[2/1], Mogu'shan Warden[1/5], Pyros[2/2], Snowchugger[2/3]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (9)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(52) → 2로 보정
+[Turn 6, Step 15] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 6, Step 16] Agent: 공격 - Kobold Sandtrooper[2/1] -> Rexxar
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Baleful Banker (코스트: 2)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Ethereal Augmerchant -> Pyros (코스트: 1)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Mogu'shan Warden
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(50) → 8로 보정
+[Turn 7, Step 19] Agent: 공격 - Kobold Sandtrooper[2/1] -> Ethereal Augmerchant
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/7
+  Hand (5): Subject 9, Transmogrifier, Leeroy Jenkins, Emperor Cobra, Disguised Wanderer
+  Field: Mogu'shan Warden[1/4], Pyros[2/1], Snowchugger[2/3], Jar Dealer[1/1]
+Opponent: Rexxar HP: 21, Mana: 1/6
+  Hand (7)
+  Field: Baleful Banker[2/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(38) → 10로 보정
+[Turn 7, Step 20] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 7, Step 21] Agent: 공격 - Pyros[2/1] -> Baleful Banker
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(92) → 12로 보정
+[Turn 8, Step 23] Agent: 영웅 능력 사용 -> Jar Dealer
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/8
+  Hand (7): Subject 9, Transmogrifier, Leeroy Jenkins, Emperor Cobra, Disguised Wanderer, Pyros, Spirit of the Dead
+  Field: Mogu'shan Warden[1/4], Snowchugger[2/3], Feral Gibberer[1/1]
+Opponent: Rexxar HP: 19, Mana: 7/7
+  Hand (8)
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(33) → 6로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Spirit of the Dead (코스트: 1)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(68) → 2로 보정
+[Turn 8, Step 26] Agent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 8, Step 27] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 27] Opponent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 8, Step 27] Opponent: 공격 - Gilnean Royal Guard[3/8] -> Mogu'shan Warden
+[Turn 8, Step 27] Opponent: 턴 종료
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 9, Step 28] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 9, Step 29] Agent: 카드 플레이 - Barrens Stablehand (코스트: 7)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/9
+  Hand (4): Subject 9, Leeroy Jenkins, Disguised Wanderer, Pyros
+  Field: Mogu'shan Warden[1/1], Snowchugger[2/3], Feral Gibberer[1/1], Spirit of the Dead[0/3], Emperor Cobra[2/3], Transmogrifier[2/3], Barrens Stablehand[4/4]
+Opponent: Rexxar HP: 19, Mana: 0/8
+  Hand (8)
+  Field: Gilnean Royal Guard[3/8]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(72) → 3로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Mogu'shan Warden
+[Turn 10, Step 32] Agent: 카드 플레이 - Twin Emperor Vek'lor (코스트: 7)
+[Turn 10, Step 33] Agent: 공격 - Snowchugger[2/3] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(85) → 4로 보정
+[Turn 10, Step 34] Agent: 공격 - Emperor Cobra[2/3] -> Gilnean Royal Guard
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/10
+  Hand (4): Subject 9, Leeroy Jenkins, Disguised Wanderer, Pyros
+  Field: Snowchugger[2/3], Feral Gibberer[1/1], Spirit of the Dead[0/3], Transmogrifier[2/3], Barrens Stablehand[4/4], Twin Emperor Vek'lor[4/6]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Transmogrifier[2/3] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Barrens Stablehand[4/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Feral Gibberer[1/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (5): Subject 9, Leeroy Jenkins, Disguised Wanderer, Pyros, Baron Geddon
+  Field: Snowchugger[2/3], Feral Gibberer[1/1], Spirit of the Dead[0/3], Transmogrifier[2/3], Barrens Stablehand[4/4], Twin Emperor Vek'lor[4/6], Feral Gibberer[1/1]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (9)
+  Field: Whelp[1/1], Whelp[1/1], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1], Whelp[1/1]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Whelp
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(78) → 35로 보정
+[Turn 10, Step 41] Agent: 공격 - Twin Emperor Vek'lor[4/6] -> Whelp
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(66) → 4로 보정
+[Turn 10, Step 42] Agent: 공격 - Snowchugger[2/3] -> Whelp
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(78) → 15로 보정
+[Turn 10, Step 43] Agent: 공격 - Barrens Stablehand[4/4] -> Whelp
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(21) → 8로 보정
+[Turn 10, Step 44] Agent: 공격 - Transmogrifier[2/3] -> Onyxia
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (5): Subject 9, Leeroy Jenkins, Disguised Wanderer, Pyros, Baron Geddon
+  Field: Snowchugger[2/2], Feral Gibberer[1/1], Spirit of the Dead[0/3], Barrens Stablehand[4/3], Twin Emperor Vek'lor[4/5], Feral Gibberer[1/1]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (9)
+  Field: Whelp[1/1], Whelp[1/1], Onyxia[8/6]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(39) → 15로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Onyxia
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(26) → 1로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(72) → 12로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Whelp
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/10
+  Hand (7): Leeroy Jenkins, Disguised Wanderer, Pyros, Baron Geddon, Murloc Tidecaller, Questing Adventurer, Mirror Entity
+  Field: Snowchugger[2/2], Feral Gibberer[1/1], Spirit of the Dead[0/3], Barrens Stablehand[4/3], Twin Emperor Vek'lor[4/5], Feral Gibberer[1/1], Subject 9[4/4]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (10)
+  Field: Whelp[1/1], Onyxia[8/5], Booty Bay Bodyguard[5/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Barrens Stablehand[4/3] -> Booty Bay Bodyguard
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(71) → 6로 보정
+[Turn 10, Step 52] Agent: 공격 - Feral Gibberer[1/1] -> Onyxia
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 53] Agent: 공격 - Twin Emperor Vek'lor[4/5] -> Onyxia
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 10, Step 54] Agent: 공격 - Feral Gibberer[1/1] -> Whelp
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/10
+  Hand (6): Leeroy Jenkins, Disguised Wanderer, Pyros, Baron Geddon, Murloc Tidecaller, Questing Adventurer
+  Field: Snowchugger[2/2], Spirit of the Dead[0/3], Subject 9[4/4]
+Opponent: Rexxar HP: 10, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Pyros (코스트: 6)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 10, Step 59] Agent: 공격 - Subject 9[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/10
+  Hand (6): Leeroy Jenkins, Baron Geddon, Murloc Tidecaller, Questing Adventurer, Ghastly Conjurer, Mana Wyrm
+  Field: Snowchugger[2/2], Spirit of the Dead[0/3], Subject 9[4/4], Pyros[6/6], Disguised Wanderer[3/3]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 10, Step 60] Agent: 공격 - Snowchugger[2/2] -> Rexxar
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Spitting Camel (코스트: 2)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 10, Step 61] Opponent: 카드 플레이 - Bronze Gatekeeper (코스트: 3)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Leeroy Jenkins (코스트: 5)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(78) → 2로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 10, Step 64] Opponent: 공격 - Spitting Camel[2/4] -> Spirit of the Dead
+[Turn 10, Step 64] Opponent: 카드 플레이 - Headhunter's Hatchet (코스트: 2)
+[Turn 10, Step 64] Opponent: 공격 - Bronze Gatekeeper[1/4] -> Spitting Camel
+[Turn 10, Step 64] Opponent: 공격 - Rexxar[2/3] -> Spitting Camel
+[Turn 10, Step 64] Opponent: 공격 - Clockwork Automaton[4/4] -> Subject 9
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (7): Baron Geddon, Murloc Tidecaller, Questing Adventurer, Ghastly Conjurer, Mana Wyrm, Power of Creation, Blatant Decoy
+  Field: Snowchugger[2/2], Spirit of the Dead[0/1], Pyros[6/6], Disguised Wanderer[3/3], Spitting Camel[2/1], Leeroy Jenkins[6/2]
+Opponent: Rexxar HP: 1, Mana: 7/10
+  Hand (6)
+  Field: Spitting Camel[2/4], Bronze Gatekeeper[1/1], Cogmaster[3/2]
+[Turn 10, Step 65] Agent: 공격 - Pyros[6/6] -> Bronze Gatekeeper
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(75) → 15로 보정
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Spitting Camel
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(93) → 8로 보정
+[Turn 10, Step 67] Agent: 공격 - Snowchugger[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (7): Baron Geddon, Murloc Tidecaller, Questing Adventurer, Ghastly Conjurer, Mana Wyrm, Power of Creation, Blatant Decoy
+  Field: Snowchugger[2/2], Spirit of the Dead[0/1], Pyros[6/5], Disguised Wanderer[3/3], Leeroy Jenkins[6/2]
+Opponent: Rexxar HP: 0, Mana: 7/10
+  Hand (6)
+  Field: Spitting Camel[2/4], Cogmaster[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

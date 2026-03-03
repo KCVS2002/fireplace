@@ -1,0 +1,238 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Pint-Sized Summoner (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Injured Tol'vir (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 카드 플레이 - Guardian Augmerchant -> Injured Tol'vir (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(93) → 5로 보정
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Injured Tol'vir
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/3
+  Hand (4): Open the Waygate, Ebon Dragonsmith, Kel'Thuzad, Arcane Amplifier
+  Field: Injured Tol'vir[2/2], Depth Charge[0/5]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Pint-Sized Summoner[2/2], Guardian Augmerchant[2/1]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 3, Step 5] Agent: 공격 - Injured Tol'vir[2/2] -> Pint-Sized Summoner
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Guardian Augmerchant[2/1] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (5): Ebon Dragonsmith, Kel'Thuzad, Arcane Amplifier, Brightwing, Tinkertown Technician
+Opponent: Rexxar HP: 29, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Augmented Porcupine (코스트: 3)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Defias Cleaner -> Augmented Porcupine (코스트: 6)
+[Turn 6, Step 13] Opponent: 공격 - Augmented Porcupine[2/4] -> Arcane Amplifier
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Gnomish Inventor (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/7
+  Hand (6): Ebon Dragonsmith, Kel'Thuzad, Brightwing, Tinkertown Technician, Master Oakheart, Leper Gnome
+  Field: Arcane Amplifier[2/3], Gnomish Inventor[2/4]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (6)
+  Field: Augmented Porcupine[2/2], Defias Cleaner[5/7]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(62) → 10로 보정
+[Turn 7, Step 15] Agent: 공격 - Arcane Amplifier[2/3] -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Brightwing (코스트: 3)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 공격 - Augmented Porcupine[2/2] -> Arcane Amplifier
+[Turn 7, Step 17] Opponent: 카드 플레이 - Acidmaw (코스트: 7)
+[Turn 7, Step 17] Opponent: 공격 - Defias Cleaner[5/7] -> Gnomish Inventor
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 8, Step 18] Agent: 공격 - Arcane Amplifier[2/1] -> Rexxar
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/8
+  Hand (7): Ebon Dragonsmith, Kel'Thuzad, Tinkertown Technician, Master Oakheart, Leper Gnome, Trade Prince Gallywix, Cryomancer
+  Field: Arcane Amplifier[2/1], Brightwing[3/2]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (6)
+  Field: Acidmaw[4/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 공격 - Acidmaw[4/2] -> Brightwing
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(26) → 12로 보정
+[Turn 9, Step 22] Agent: 공격 - Arcane Amplifier[2/1] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(22) → 9로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Cryomancer (코스트: 5)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/9
+  Hand (6): Kel'Thuzad, Tinkertown Technician, Master Oakheart, Leper Gnome, Trade Prince Gallywix, Fight Promoter
+  Field: Arcane Amplifier[2/1], Ebon Dragonsmith[3/4], Cryomancer[5/5]
+Opponent: Rexxar HP: 19, Mana: 8/8
+  Hand (7)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - North Sea Kraken -> Jaina Proudmoore (코스트: 9)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Burrowing Scorpid -> Ebon Dragonsmith (코스트: 4)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(60) → 3로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(40) → 8로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Burrowing Scorpid
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 10, Step 29] Agent: 공격 - Cryomancer[5/5] -> North Sea Kraken
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (5): Kel'Thuzad, Tinkertown Technician, Master Oakheart, Trade Prince Gallywix, Fight Promoter
+  Field: Arcane Amplifier[2/1], Ebon Dragonsmith[3/2], Leper Gnome[1/1]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (7)
+  Field: North Sea Kraken[9/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 10, Step 30] Agent: 공격 - Arcane Amplifier[2/1] -> North Sea Kraken
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Tinkertown Technician (코스트: 3)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 10, Step 32] Agent: 공격 - Ebon Dragonsmith[3/2] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 10, Step 33] Opponent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 10, Step 33] Opponent: 영웅 능력 사용
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Kel'Thuzad (코스트: 6)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 4/10
+  Hand (4): Master Oakheart, Trade Prince Gallywix, Fight Promoter, Faerie Dragon
+  Field: Ebon Dragonsmith[3/2], Leper Gnome[1/1], Tinkertown Technician[3/3], Kel'Thuzad[6/8]
+Opponent: Rexxar HP: 16, Mana: 2/10
+  Hand (6)
+  Field: Phantom Freebooter[3/3], Galvanizer[1/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(31) → 12로 보정
+[Turn 10, Step 35] Agent: 공격 - Ebon Dragonsmith[3/2] -> Galvanizer
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(24) → 11로 보정
+[Turn 10, Step 36] Agent: 공격 - Tinkertown Technician[3/3] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(61) → 6로 보정
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Tinkertown Technician
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 38] Agent: 공격 - Leper Gnome[1/1] -> Phantom Freebooter
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Missile Launcher (코스트: 5)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (5): Master Oakheart, Trade Prince Gallywix, Fight Promoter, Faerie Dragon, Salty Dog
+  Field: Tinkertown Technician[3/1], Kel'Thuzad[6/7]
+Opponent: Rexxar HP: 8, Mana: 5/10
+  Hand (6)
+  Field: Phantom Freebooter[3/1], Missile Launcher[4/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(96) → 6로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(43) → 10로 보정
+[Turn 10, Step 41] Agent: 공격 - Kel'Thuzad[6/7] -> Missile Launcher
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Fight Promoter (코스트: 6)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Phantom Freebooter[3/1] -> Tinkertown Technician
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Faerie Dragon (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (4): Master Oakheart, Trade Prince Gallywix, Salty Dog, Teron Gorefiend
+  Field: Kel'Thuzad[6/3], Tinkertown Technician[3/3], Fight Promoter[4/4], Faerie Dragon[3/2]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 47] Agent: 공격 - Fight Promoter[4/4] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(55) → 1로 보정
+[Turn 10, Step 48] Agent: 공격 - Kel'Thuzad[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 49) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 1/10
+  Hand (3): Master Oakheart, Trade Prince Gallywix, Teron Gorefiend
+  Field: Kel'Thuzad[6/3], Tinkertown Technician[3/3], Fight Promoter[4/4], Faerie Dragon[3/2], Salty Dog[7/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

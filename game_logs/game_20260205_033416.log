@@ -1,0 +1,292 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 영웅 능력 사용
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (7): Duplicate, Tunnel Blaster, Sky Gen'ral Kragg, Microtech Controller, Sunfury Protector, Pantry Spider, Kobold Monk
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Pantry Spider (코스트: 3)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Street Trickster (코스트: 3)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(73) → 9로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Pantry Spider
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 4, Step 8] Agent: 공격 - Pantry Spider[1/2] -> Rexxar
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 4, Step 9] Agent: 공격 - Cellar Spider[1/3] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/4
+  Hand (7): Duplicate, Tunnel Blaster, Sky Gen'ral Kragg, Microtech Controller, Sunfury Protector, Kobold Monk, Dread Raven
+  Field: Pantry Spider[1/2], Cellar Spider[1/3]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (5)
+  Field: Street Trickster[0/7]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 4, Step 10] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Toxmonger (코스트: 4)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(87) → 21로 보정
+[Turn 5, Step 12] Agent: 공격 - Sunfury Protector[2/3] -> Toxmonger
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(80) → 4로 보정
+[Turn 5, Step 13] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(24) → 3로 보정
+[Turn 5, Step 14] Agent: 공격 - Pantry Spider[1/2] -> Toxmonger
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (6): Octosari, Duplicate, Tunnel Blaster, Sky Gen'ral Kragg, Microtech Controller, Dread Raven
+  Field: Cellar Spider[1/3], Sunfury Protector[2/1], Kobold Monk[3/6]
+Opponent: Rexxar HP: 27, Mana: 1/5
+  Hand (5)
+  Field: Street Trickster[0/7], Toxmonger[2/1]
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 5, Step 15] Opponent: 카드 플레이 - Shroom Brewer -> Sunfury Protector (코스트: 4)
+[Turn 5, Step 15] Opponent: 공격 - Toxmonger[2/1] -> Cellar Spider
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(29) → 8로 보정
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Street Trickster
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(54) → 12로 보정
+[Turn 6, Step 17] Agent: 공격 - Kobold Monk[3/6] -> Street Trickster
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 6, Step 18] Agent: 공격 - Sunfury Protector[2/3] -> Shroom Brewer
+[Turn 6, Step 19] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 6, Step 19] Agent: 카드 플레이 - Duplicate (코스트: 3)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/6
+  Hand (6): Octosari, Tunnel Blaster, Sky Gen'ral Kragg, Microtech Controller, Dread Raven, Violet Wurm
+  Field: Cellar Spider[1/1], Kobold Monk[3/6]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (4)
+  Field: Street Trickster[0/3], Shroom Brewer[4/2]
+[Turn 6, Step 20] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(49) → 9로 보정
+[Turn 7, Step 22] Agent: 공격 - Kobold Monk[3/6] -> Shroom Brewer
+[Turn 7, Step 23] Agent: 공격 - Cellar Spider[1/1] -> Street Trickster
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 7, Step 24] Opponent: 카드 플레이 - Desert Camel (코스트: 3)
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 8/8
+  Hand (8): Octosari, Tunnel Blaster, Sky Gen'ral Kragg, Microtech Controller, Dread Raven, Violet Wurm, Master Oakheart, Boisterous Bard
+  Field: Cellar Spider[1/1], Kobold Monk[3/2], Wax Elemental[0/2]
+Opponent: Rexxar HP: 27, Mana: 1/8
+  Hand (4)
+  Field: Street Trickster[0/2], Cyclopian Horror[3/5], Desert Camel[2/4], Injured Kvaldir[2/4]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(21) → 2로 보정
+[Turn 8, Step 25] Agent: 카드 플레이 - Tunnel Blaster (코스트: 7)
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 8, Step 26] Agent: 공격 - Kobold Monk[3/2] -> Cyclopian Horror
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 8, Step 27] Agent: 공격 - Cellar Spider[1/1] -> Cyclopian Horror
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 8, Step 28] Opponent: 공격 - Cyclopian Horror[3/1] -> Tunnel Blaster
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 카드 플레이 - Dread Raven (코스트: 3)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/9
+  Hand (7): Octosari, Sky Gen'ral Kragg, Microtech Controller, Violet Wurm, Master Oakheart, Boisterous Bard, Guardian Augmerchant
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/4], Dread Raven[6/4]
+Opponent: Rexxar HP: 27, Mana: 4/9
+  Hand (4)
+  Field: Street Trickster[0/2], Desert Camel[2/4], Injured Kvaldir[2/4], Stalagg[7/4]
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Stalagg
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Haunted Creeper (코스트: 2)
+[Turn 9, Step 31] Opponent: 공격 - Injured Kvaldir[2/4] -> Wax Elemental
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(41) → 14로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Microtech Controller (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/10
+  Hand (6): Octosari, Sky Gen'ral Kragg, Violet Wurm, Master Oakheart, Boisterous Bard, Guardian Augmerchant
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/6], Dread Raven[6/4], Darkscale Healer[4/5], Microbot[1/1], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 27, Mana: 8/10
+  Hand (4)
+  Field: Street Trickster[0/2], Desert Camel[2/4], Injured Kvaldir[2/4], Stalagg[7/3], Haunted Creeper[1/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(33) → 7로 보정
+[Turn 10, Step 35] Agent: 공격 - Dread Raven[6/4] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Tunnel Blaster[3/6] -> Street Trickster
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(69) → 24로 보정
+[Turn 10, Step 38] Agent: 공격 - Dread Raven[6/4] -> Haunted Creeper
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Desert Camel
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (7): Octosari, Sky Gen'ral Kragg, Violet Wurm, Master Oakheart, Boisterous Bard, Guardian Augmerchant, Flame Ward
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/6], Dread Raven[6/3], Darkscale Healer[4/5], Microbot[1/1], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (5)
+  Field: Desert Camel[2/3], Injured Kvaldir[2/4], Stalagg[7/3], Spectral Spider[1/1], Spectral Spider[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(55) → 23로 보정
+[Turn 10, Step 40] Agent: 공격 - Microtech Controller[2/1] -> Stalagg
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(84) → 2로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(30) → 4로 보정
+[Turn 10, Step 42] Agent: 공격 - Tunnel Blaster[3/6] -> Injured Kvaldir
+[Turn 10, Step 43] Agent: 공격 - Darkscale Healer[4/5] -> Injured Kvaldir
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Microbot[1/1] -> Stalagg
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/10
+  Hand (6): Octosari, Violet Wurm, Master Oakheart, Boisterous Bard, Guardian Augmerchant, Flame Ward
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/4], Dread Raven[6/3], Darkscale Healer[4/3], Microbot[1/1], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (5)
+  Field: Desert Camel[2/3], Spectral Spider[1/1], Spectral Spider[1/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(46) → 14로 보정
+[Turn 10, Step 45] Agent: 공격 - Microbot[1/1] -> Spectral Spider
+[Turn 10, Step 46] Agent: 카드 플레이 - Guardian Augmerchant -> Spectral Spider (코스트: 1)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Flame Ward (코스트: 3)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 48] Opponent: 공격 - Desert Camel[2/3] -> Tunnel Blaster
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(38) → 13로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Guardian Augmerchant
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (5): Octosari, Violet Wurm, Master Oakheart, Boisterous Bard, Burgly Bully
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/2], Dread Raven[6/3], Darkscale Healer[4/3], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 21, Mana: 6/10
+  Hand (5)
+  Field: Crowd Favorite[4/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Violet Wurm (코스트: 8)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 공격 - Sky Gen'ral Kragg[2/3] -> Crowd Favorite
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Wax Elemental
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/10
+  Hand (4): Octosari, Master Oakheart, Boisterous Bard, Kobold Sandtrooper
+  Field: Wax Elemental[0/1], Tunnel Blaster[3/2], Dread Raven[6/3], Darkscale Healer[4/3], Violet Wurm[7/7], Burgly Bully[4/6]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (6)
+  Field: Crowd Favorite[4/2]
+[Turn 10, Step 55] Agent: 공격 - Darkscale Healer[4/3] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 56] Agent: 공격 - Tunnel Blaster[3/2] -> Rexxar
+[Turn 10, Step 57] Agent: 공격 - Violet Wurm[7/7] -> Crowd Favorite
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(39) → 14로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Bloodsail Raider
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/10
+  Hand (5): Octosari, Master Oakheart, Boisterous Bard, Kobold Sandtrooper, Fight Promoter
+  Field: Wax Elemental[0/1], Tunnel Blaster[3/2], Dread Raven[6/3], Darkscale Healer[4/3], Violet Wurm[7/3], Burgly Bully[4/6]
+Opponent: Rexxar HP: 14, Mana: 8/10
+  Hand (6)
+  Field: Bloodsail Raider[2/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(42) → 12로 보정
+[Turn 10, Step 60] Agent: 공격 - Violet Wurm[7/3] -> Bloodsail Raider
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 10, Step 61] Agent: 공격 - Dread Raven[6/3] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Boisterous Bard (코스트: 3)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 63] Agent: 공격 - Burgly Bully[4/7] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 64] Agent: 공격 - Darkscale Healer[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/10
+  Hand (4): Octosari, Master Oakheart, Kobold Sandtrooper, Fight Promoter
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/3], Dread Raven[6/4], Darkscale Healer[4/4], Violet Wurm[7/2], Burgly Bully[4/7], Boisterous Bard[3/2]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (6)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/10
+  Hand (4): Octosari, Master Oakheart, Kobold Sandtrooper, Fight Promoter
+  Field: Wax Elemental[0/2], Tunnel Blaster[3/3], Dread Raven[6/4], Darkscale Healer[4/4], Violet Wurm[7/2], Burgly Bully[4/7], Boisterous Bard[3/2]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

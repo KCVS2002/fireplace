@@ -1,0 +1,278 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Elven Archer -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Dread Raven
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 공격 - Elven Archer[1/1] -> Jaina Proudmoore
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 3, Step 2] Agent: 영웅 능력 사용 -> Elven Archer
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 카드 플레이 - Earthen Ring Farseer -> Rexxar (코스트: 3)
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/4
+  Hand (7): Breath of Sindragosa, Infested Tauren, Silver Hand Knight, Nefarian, Ornery Tortoise, Overconfident Orc, Weasel Tunneler
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Earthen Ring Farseer[3/3]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 6, Step 8] Agent: 영웅 능력 사용 -> Earthen Ring Farseer
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 6, Step 9] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 9] Opponent: 영웅 능력 사용
+[Turn 6, Step 9] Opponent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 6, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (9): Breath of Sindragosa, Infested Tauren, Nefarian, Ornery Tortoise, Overconfident Orc, Weasel Tunneler, Anubisath Warbringer, Dr. Boom, Crowd Favorite
+  Field: Silver Hand Knight[4/4], Squire[2/2]
+Opponent: Rexxar HP: 30, Mana: 2/6
+  Hand (7)
+  Field: Earthen Ring Farseer[3/2], Gilblin Stalker[2/3]
+[Turn 7, Step 10] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 7, Step 10] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 7, Step 11] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 7, Step 11] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 1)
+[Turn 7, Step 12] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 12] Opponent: 카드 플레이 - Candletaker (코스트: 3)
+[Turn 7, Step 12] Opponent: 턴 종료
+[Turn 8, Step 13] Agent: 유효하지 않은 액션 인덱스(22) → 5로 보정
+[Turn 8, Step 13] Agent: 카드 플레이 - Weasel Tunneler (코스트: 1)
+[Turn 8, Step 14] Agent: 유효하지 않은 액션 인덱스(74) → 6로 보정
+[Turn 8, Step 14] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/8
+  Hand (7): Ravencaller, Infested Tauren, Nefarian, Ornery Tortoise, Overconfident Orc, Anubisath Warbringer, Dr. Boom
+  Field: Silver Hand Knight[4/4], Squire[2/2], Weasel Tunneler[1/1], Crowd Favorite[4/4]
+Opponent: Rexxar HP: 28, Mana: 4/7
+  Hand (7)
+  Field: Gilblin Stalker[2/3], Candletaker[3/2]
+[Turn 8, Step 15] Agent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 8, Step 16] Agent: 공격 - Squire[2/2] -> Candletaker
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 영웅 능력 사용 -> Ravencaller
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(77) → 9로 보정
+[Turn 9, Step 19] Agent: 공격 - Silver Hand Knight[4/4] -> Candletaker
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/9
+  Hand (9): Infested Tauren, Nefarian, Ornery Tortoise, Overconfident Orc, Anubisath Warbringer, Dr. Boom, Crimson Sigil Runner, Gadgetzan Jouster, Young Priestess
+  Field: Silver Hand Knight[4/1], Weasel Tunneler[1/1], Crowd Favorite[5/5]
+Opponent: Rexxar HP: 28, Mana: 4/8
+  Hand (7)
+  Field: Gilblin Stalker[2/3], Old Murk-Eye[2/4]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(59) → 11로 보정
+[Turn 9, Step 20] Agent: 공격 - Crowd Favorite[5/5] -> Old Murk-Eye
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(61) → 7로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 9, Step 22] Agent: 공격 - Weasel Tunneler[1/1] -> Rexxar
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Overconfident Orc (코스트: 3)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/9
+  Hand (6): Infested Tauren, Nefarian, Anubisath Warbringer, Dr. Boom, Crimson Sigil Runner, Gadgetzan Jouster
+  Field: Silver Hand Knight[4/1], Weasel Tunneler[1/1], Crowd Favorite[6/4], Young Priestess[2/1], Overconfident Orc[3/6], Ornery Tortoise[3/5]
+Opponent: Rexxar HP: 27, Mana: 4/8
+  Hand (7)
+  Field: Gilblin Stalker[2/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(17) → 0로 보정
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(38) → 16로 보정
+[Turn 10, Step 26] Agent: 공격 - Silver Hand Knight[4/1] -> Rexxar
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Crimson Sigil Runner (코스트: 1)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Crowd Favorite
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 29] Agent: 공격 - Crowd Favorite[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (6): Infested Tauren, Nefarian, Anubisath Warbringer, Dr. Boom, Gadgetzan Jouster, Chillwind Yeti
+  Field: Silver Hand Knight[4/1], Weasel Tunneler[1/1], Crowd Favorite[6/3], Young Priestess[2/1], Overconfident Orc[3/6], Ornery Tortoise[3/6], Crimson Sigil Runner[1/1]
+Opponent: Rexxar HP: 17, Mana: 9/9
+  Hand (8)
+  Field: Gilblin Stalker[2/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(36) → 3로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Silver Hand Knight
+[Turn 10, Step 32] Agent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 10, Step 33] Agent: 공격 - Crimson Sigil Runner[1/1] -> Gilblin Stalker
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(70) → 10로 보정
+[Turn 10, Step 34] Agent: 공격 - Crowd Favorite[7/4] -> Wailing Soul
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 7/10
+  Hand (6): Infested Tauren, Nefarian, Anubisath Warbringer, Dr. Boom, Chillwind Yeti, Hungry Dragon
+  Field: Weasel Tunneler[1/1], Crowd Favorite[7/1], Young Priestess[2/1], Overconfident Orc[3/7], Ornery Tortoise[3/6], Gadgetzan Jouster[1/2]
+Opponent: Rexxar HP: 17, Mana: 6/10
+  Hand (8)
+  Field: Gilblin Stalker[2/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(29) → 3로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(17) → 8로 보정
+[Turn 10, Step 36] Agent: 공격 - Ornery Tortoise[3/6] -> Gilblin Stalker
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Overconfident Orc[3/7] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 38] Agent: 공격 - Young Priestess[2/1] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 39] Agent: 공격 - Weasel Tunneler[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 3/10
+  Hand (5): Infested Tauren, Nefarian, Anubisath Warbringer, Dr. Boom, Hungry Dragon
+  Field: Weasel Tunneler[1/1], Crowd Favorite[7/1], Young Priestess[2/1], Overconfident Orc[3/7], Ornery Tortoise[3/4], Gadgetzan Jouster[1/2], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 11, Mana: 6/10
+  Hand (8)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Lock and Load (코스트: 2)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 10, Step 42] Opponent: 카드 플레이 - Keening Banshee (코스트: 4)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Ornery Tortoise[3/5] -> Keening Banshee
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(85) → 13로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Overconfident Orc
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (7): Infested Tauren, Nefarian, Anubisath Warbringer, Dr. Boom, Hungry Dragon, Ravencaller, Mad Summoner
+  Field: Weasel Tunneler[1/2], Crowd Favorite[7/1], Young Priestess[2/1], Overconfident Orc[1/6], Gadgetzan Jouster[1/2], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 24, Mana: 1/10
+  Hand (7)
+  Field: Cult Apothecary[4/4], Keening Banshee[5/2]
+[Turn 10, Step 45] Agent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(29) → 10로 보정
+[Turn 10, Step 46] Agent: 공격 - Overconfident Orc[1/6] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 47] Agent: 공격 - Weasel Tunneler[1/2] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(48) → 9로 보정
+[Turn 10, Step 48] Agent: 공격 - Gadgetzan Jouster[1/2] -> Keening Banshee
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 49] Agent: 공격 - Crowd Favorite[8/2] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (6): Infested Tauren, Nefarian, Anubisath Warbringer, Hungry Dragon, Ravencaller, Mad Summoner
+  Field: Weasel Tunneler[1/2], Crowd Favorite[8/2], Young Priestess[2/1], Overconfident Orc[1/6], Chillwind Yeti[4/5], Dr. Boom[7/7]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (7)
+  Field: Cult Apothecary[4/4], Keening Banshee[5/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 50] Agent: 공격 - Chillwind Yeti[4/5] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - Young Priestess[2/1] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Cult Apothecary[4/4] -> Overconfident Orc
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(94) → 22로 보정
+[Turn 10, Step 53] Agent: 공격 - Crowd Favorite[8/2] -> Cult Apothecary
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(88) → 10로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Weasel Tunneler
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (7): Infested Tauren, Nefarian, Anubisath Warbringer, Hungry Dragon, Ravencaller, Mad Summoner, Rattling Rascal
+  Field: Weasel Tunneler[1/1], Young Priestess[2/1], Overconfident Orc[1/3], Chillwind Yeti[4/5], Dr. Boom[7/7]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (8)
+  Field: Keening Banshee[5/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(22) → 6로 보정
+[Turn 10, Step 55] Agent: 공격 - Weasel Tunneler[1/1] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(21) → 7로 보정
+[Turn 10, Step 56] Agent: 공격 - Young Priestess[2/1] -> Keening Banshee
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(50) → 5로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Infested Tauren (코스트: 4)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 10, Step 59] Agent: 공격 - Dr. Boom[7/7] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (5): Nefarian, Anubisath Warbringer, Hungry Dragon, Ravencaller, Mad Summoner
+  Field: Weasel Tunneler[1/1], Overconfident Orc[1/3], Chillwind Yeti[4/5], Dr. Boom[7/7], Rattling Rascal[2/2], Skeletal Enforcer[5/5], Infested Tauren[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (5): Nefarian, Anubisath Warbringer, Hungry Dragon, Ravencaller, Mad Summoner
+  Field: Weasel Tunneler[1/1], Overconfident Orc[1/3], Chillwind Yeti[4/5], Dr. Boom[7/7], Rattling Rascal[2/2], Skeletal Enforcer[5/5], Infested Tauren[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,328 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(13) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(6) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 공격 - Jeweled Macaw[1/1] -> Lost Spirit
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Witch's Cauldron (코스트: 3)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (5): Yogg-Saron, Hope's End, Rustsworn Cultist, Twilight Summoner, Demented Frostcaller, Madam Goya
+  Field: Witch's Cauldron[0/4]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(19) → 5로 보정
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 5, Step 7] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Ghastly Conjurer (코스트: 4)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/6
+  Hand (7): Yogg-Saron, Hope's End, Rustsworn Cultist, Twilight Summoner, Demented Frostcaller, Madam Goya, Bog Creeper, Mirror Image
+  Field: Witch's Cauldron[0/4], Ghastly Conjurer[2/6]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (8)
+  Field: Giant Wasp[2/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(28) → 11로 보정
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 7, Step 14] Agent: 공격 - Ghastly Conjurer[2/6] -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (6): Yogg-Saron, Hope's End, Twilight Summoner, Demented Frostcaller, Madam Goya, Bog Creeper, Sabretooth Stalker
+  Field: Witch's Cauldron[0/4], Ghastly Conjurer[2/6], Mirror Image[0/2], Mirror Image[0/2], Rustsworn Cultist[3/3]
+Opponent: Rexxar HP: 25, Mana: 6/6
+  Hand (9)
+  Field: Giant Wasp[2/2]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(49) → 9로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Rustsworn Cultist
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(64) → 1로 보정
+[Turn 8, Step 18] Agent: 공격 - Ghastly Conjurer[2/6] -> Rexxar
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 8, Step 19] Agent: 공격 - Rustsworn Cultist[3/2] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/8
+  Hand (6): Yogg-Saron, Hope's End, Twilight Summoner, Demented Frostcaller, Madam Goya, Bog Creeper, Ice Rager
+  Field: Witch's Cauldron[0/4], Ghastly Conjurer[2/6], Mirror Image[0/2], Mirror Image[0/2], Rustsworn Cultist[3/2], Sabretooth Stalker[8/2]
+Opponent: Rexxar HP: 20, Mana: 7/7
+  Hand (10)
+  Field: Giant Wasp[2/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 공격 - Giant Wasp[2/2] -> Mirror Image
+[Turn 8, Step 20] Opponent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 8, Step 20] Opponent: 영웅 능력 사용
+[Turn 8, Step 20] Opponent: 카드 플레이 - Evasive Chimaera (코스트: 2)
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 공격 - Ghastly Conjurer[2/6] -> Goblin Bomb
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(82) → 6로 보정
+[Turn 9, Step 22] Agent: 카드 플레이 - Madam Goya -> Rustsworn Cultist (코스트: 6)
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(52) → 6로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(86) → 9로 보정
+[Turn 9, Step 24] Agent: 공격 - Rusted Devil[1/1] -> Explodinator
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/9
+  Hand (6): Yogg-Saron, Hope's End, Twilight Summoner, Demented Frostcaller, Bog Creeper, Ice Rager, Happy Ghoul
+  Field: Witch's Cauldron[0/4], Ghastly Conjurer[2/6], Mirror Image[0/1], Archmage[4/7], Sabretooth Stalker[8/2], Madam Goya[4/3]
+Opponent: Rexxar HP: 20, Mana: 0/8
+  Hand (8)
+  Field: Giant Wasp[2/2], Goblin Bomb[0/2], Explodinator[3/1], Evasive Chimaera[2/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 9, Step 25] Agent: 공격 - Sabretooth Stalker[8/2] -> Giant Wasp
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 9, Step 26] Opponent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 9, Step 26] Opponent: 공격 - Explodinator[3/1] -> Mirror Image
+[Turn 9, Step 26] Opponent: 공격 - Evasive Chimaera[2/1] -> Witch's Cauldron
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 공격 - Madam Goya[4/3] -> Crowd Favorite
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Demented Frostcaller (코스트: 4)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(79) → 39로 보정
+[Turn 10, Step 29] Agent: 공격 - Rusted Devil[1/1] -> Harrison Jones
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (6): Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Ice Rager, Happy Ghoul, Font of Power
+  Field: Ghastly Conjurer[2/6], Archmage[4/7], Rusted Devil[1/1], Demented Frostcaller[2/4]
+Opponent: Rexxar HP: 20, Mana: 0/9
+  Hand (7)
+  Field: Goblin Bomb[0/2], Explodinator[3/1], Evasive Chimaera[2/1], Crowd Favorite[5/1], Harrison Jones[5/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Ghastly Conjurer
+[Turn 10, Step 31] Agent: 공격 - Rusted Devil[1/1] -> Evasive Chimaera
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(27) → 12로 보정
+[Turn 10, Step 32] Agent: 공격 - Archmage[4/7] -> Explodinator
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(49) → 21로 보정
+[Turn 10, Step 34] Agent: 공격 - Archmage[4/4] -> Goblin Bomb
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (7): Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Ice Rager, Happy Ghoul, Font of Power, Rustsworn Cultist
+  Field: Ghastly Conjurer[2/5], Archmage[4/4], Demented Frostcaller[2/4]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (8)
+  Field: Crowd Favorite[5/1], Harrison Jones[5/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(47) → 5로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Archmage
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 10, Step 38] Agent: 선택 - Curio Collector
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(19) → 9로 보정
+[Turn 10, Step 38] Agent: 공격 - Demented Frostcaller[2/4] -> Harrison Jones
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 카드 플레이 - Conjured Mirage (코스트: 4)
+[Turn 10, Step 39] Opponent: 공격 - Crowd Favorite[5/1] -> Archmage
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 10, Step 39] Opponent: 공격 - Harrison Jones[5/1] -> Ghastly Conjurer
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (7): Blood of The Ancient One, Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Ice Rager, Rustsworn Cultist, Curio Collector
+  Field: Rusted Devil[1/1]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (7)
+  Field: Conjured Mirage[3/10], Troll Batrider[3/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(49) → 7로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Curio Collector (코스트: 5)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(29) → 7로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Troll Batrider
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 42] Agent: 공격 - Rusted Devil[1/1] -> Conjured Mirage
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Boisterous Bard (코스트: 3)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 10, Step 44] Agent: 공격 - Curio Collector[4/4] -> Cult Apothecary
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (7): Blood of The Ancient One, Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Ice Rager, Rustsworn Cultist, Crystallizer
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (6)
+  Field: Troll Batrider[3/3], Boisterous Bard[3/2]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(80) → 3로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Crystallizer (코스트: 1)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 10, Step 49] Agent: 공격 - Rustsworn Cultist[3/3] -> Boisterous Bard
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 0/10
+  Hand (4): Blood of The Ancient One, Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper
+  Field: Crystallizer[1/3], Ice Rager[5/2]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (6)
+  Field: Troll Batrider[3/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 10, Step 50] Opponent: 공격 - Troll Batrider[3/3] -> Ice Rager
+[Turn 10, Step 50] Opponent: 카드 플레이 - Spider Bomb (코스트: 3)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Blood of The Ancient One (코스트: 9)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 52] Agent: 공격 - Crystallizer[1/3] -> Sen'jin Shieldmasta
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Anubisath Warbringer (코스트: 9)
+[Turn 10, Step 53] Opponent: 공격 - Spider Bomb[2/2] -> Jaina Proudmoore
+[Turn 10, Step 53] Opponent: 공격 - Sen'jin Shieldmasta[3/4] -> Blood of The Ancient One
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Knife Juggler (코스트: 2)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (4): Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Cheaty Anklebiter
+  Field: Blood of The Ancient One[9/6], Knife Juggler[2/2]
+Opponent: Rexxar HP: 22, Mana: 1/10
+  Hand (5)
+  Field: Spider Bomb[2/2], Anubisath Warbringer[9/6]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Cheaty Anklebiter -> Rexxar (코스트: 2)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 10, Step 57] Agent: 공격 - Blood of The Ancient One[9/6] -> Anubisath Warbringer
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 공격 - Spider Bomb[2/2] -> Cheaty Anklebiter
+[Turn 10, Step 58] Opponent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 10, Step 58] Opponent: 카드 플레이 - Faerie Dragon (코스트: 2)
+[Turn 10, Step 58] Opponent: 영웅 능력 사용
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(38) → 6로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (4): Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Servant of Yogg-Saron
+Opponent: Rexxar HP: 18, Mana: 3/10
+  Hand (4)
+  Field: Tauren Warrior[2/3], Faerie Dragon[6/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(68) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 10, Step 60] Opponent: 공격 - Faerie Dragon[6/5] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 카드 플레이 - Giant Mastodon (코스트: 9)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Tauren Warrior[2/3] -> Jaina Proudmoore
+[Turn 10, Step 63] Opponent: 공격 - Giant Mastodon[9/13] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (7): Yogg-Saron, Hope's End, Twilight Summoner, Bog Creeper, Servant of Yogg-Saron, Dragoncaller Alanna, Puddlestomper, Jepetto Joybuzz
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (6)
+  Field: Tauren Warrior[2/3], Faerie Dragon[6/5], Dragonmaw Sky Stalker[8/9], Giant Mastodon[9/13]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

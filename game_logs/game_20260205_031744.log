@@ -1,0 +1,221 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(45) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Tasty Flyfish (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(79) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (5): Chillwind Yeti, Desert Hare, Spellward Jeweler, Naga Corsair, Wing Commander
+  Field: Tasty Flyfish[2/2]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 카드 플레이 - Naga Corsair (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Desert Hare
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(8) → 3로 보정
+[Turn 5, Step 9] Agent: 공격 - Naga Corsair[5/4] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/5
+  Hand (4): Chillwind Yeti, Spellward Jeweler, Wing Commander, Arcanosaur
+  Field: Tasty Flyfish[2/2], Naga Corsair[5/4], Desert Hare[1/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 25, Mana: 3/4
+  Hand (8)
+  Field: Springpaw[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Springpaw[1/1] -> Tasty Flyfish
+[Turn 5, Step 10] Opponent: 카드 플레이 - Avian Watcher (코스트: 5)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(74) → 11로 보정
+[Turn 6, Step 11] Agent: 영웅 능력 사용 -> Desert Hare
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(27) → 7로 보정
+[Turn 6, Step 12] Agent: 공격 - Naga Corsair[5/4] -> Avian Watcher
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Chillwind Yeti (코스트: 4)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(89) → 4로 보정
+[Turn 6, Step 14] Agent: 공격 - Desert Hare[1/1] -> Avian Watcher
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (4): Spellward Jeweler, Wing Commander, Arcanosaur, Ancient Harbinger
+  Field: Tasty Flyfish[2/1], Naga Corsair[5/1], Chillwind Yeti[4/5]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (8)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Arcanosaur (코스트: 6)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(44) → 20로 보정
+[Turn 8, Step 19] Agent: 공격 - Chillwind Yeti[4/5] -> Rockpool Hunter
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/8
+  Hand (4): Stargazer Luna, Wing Commander, Ancient Harbinger, Bog Creeper
+  Field: Tasty Flyfish[2/1], Naga Corsair[5/1], Chillwind Yeti[4/3], Arcanosaur[3/3], Spellward Jeweler[3/4]
+Opponent: Rexxar HP: 25, Mana: 5/7
+  Hand (8)
+  Field: Toxicologist[2/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(25) → 8로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Toxicologist
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 8, Step 21] Agent: 공격 - Tasty Flyfish[2/1] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 8, Step 22] Agent: 공격 - Naga Corsair[5/1] -> Toxicologist
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Traveling Healer -> Tasty Flyfish (코스트: 4)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(58) → 6로 보정
+[Turn 9, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 7/9
+  Hand (5): Stargazer Luna, Wing Commander, Ancient Harbinger, Bog Creeper, Bittertide Hydra
+  Field: Tasty Flyfish[2/2], Chillwind Yeti[4/3], Arcanosaur[3/3], Spellward Jeweler[3/4]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (7)
+  Field: Tournament Medic[1/8], Traveling Healer[3/2]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(52) → 16로 보정
+[Turn 9, Step 25] Agent: 공격 - Spellward Jeweler[3/4] -> Tournament Medic
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 공격 - Traveling Healer[3/2] -> Spellward Jeweler
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(82) → 13로 보정
+[Turn 10, Step 27] Agent: 영웅 능력 사용 -> Traveling Healer
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 10, Step 28] Agent: 공격 - Tasty Flyfish[2/2] -> Tournament Medic
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Bittertide Hydra (코스트: 5)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/10
+  Hand (5): Stargazer Luna, Wing Commander, Ancient Harbinger, Bog Creeper, Archmage
+  Field: Tasty Flyfish[2/1], Chillwind Yeti[4/3], Arcanosaur[3/3], Bittertide Hydra[8/8]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (8)
+  Field: Tournament Medic[1/3], Traveling Healer[3/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 10, Step 30] Agent: 공격 - Chillwind Yeti[4/3] -> Traveling Healer
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(71) → 14로 보정
+[Turn 10, Step 32] Agent: 공격 - Tasty Flyfish[2/1] -> Tournament Medic
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(77) → 13로 보정
+[Turn 10, Step 33] Agent: 공격 - Arcanosaur[3/3] -> Tournament Medic
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Wing Commander (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 6/10
+  Hand (5): Archmage Vargoth, Stargazer Luna, Ancient Harbinger, Bog Creeper, Archmage
+  Field: Arcanosaur[3/2], Bittertide Hydra[8/8], Wing Commander[2/5]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(18) → 7로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Arcanosaur
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Archmage Vargoth (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(85) → 1로 보정
+[Turn 10, Step 37] Agent: 공격 - Bittertide Hydra[8/8] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(61) → 13로 보정
+[Turn 10, Step 39] Agent: 공격 - Bittertide Hydra[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 10/10
+  Hand (5): Stargazer Luna, Ancient Harbinger, Bog Creeper, Archmage, Mossy Horror
+  Field: Arcanosaur[3/1], Bittertide Hydra[8/8], Wing Commander[2/5], Archmage Vargoth[2/6]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Mossy Horror (코스트: 6)
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(18) → 4로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Mossy Horror
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/10
+  Hand (4): Stargazer Luna, Ancient Harbinger, Bog Creeper, Arcane Dynamo
+  Field: Arcanosaur[3/1], Bittertide Hydra[8/8], Mossy Horror[2/6], Archmage[4/7]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 45] Agent: 공격 - Arcanosaur[3/1] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Bittertide Hydra[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/10
+  Hand (4): Stargazer Luna, Ancient Harbinger, Bog Creeper, Arcane Dynamo
+  Field: Arcanosaur[3/1], Bittertide Hydra[8/8], Mossy Horror[2/6], Archmage[4/7]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

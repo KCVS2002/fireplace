@@ -1,0 +1,272 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Lance Carrier (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 3, Step 4] Agent: 공격 - Lance Carrier[1/2] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (4): Baku the Mooneater, Arcane Watcher, Bonechewer Vanguard, Elise the Trailblazer
+  Field: Lance Carrier[1/2], Transfer Student[2/2]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+  Field: Gurubashi Chicken[1/1]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 카드 플레이 - Venomizer (코스트: 2)
+[Turn 3, Step 5] Opponent: 공격 - Gurubashi Chicken[1/1] -> Transfer Student
+[Turn 3, Step 5] Opponent: 카드 플레이 - Soulbound Ashtongue (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 공격 - Lance Carrier[1/2] -> Soulbound Ashtongue
+[Turn 4, Step 7] Agent: 공격 - Transfer Student[2/1] -> Soulbound Ashtongue
+[Turn 4, Step 8] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (5): Baku the Mooneater, Bonechewer Vanguard, Elise the Trailblazer, Guild Recruiter, Mana Wyrm
+  Field: Lance Carrier[1/1], Arcane Watcher[5/6]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (5)
+  Field: Venomizer[2/2], Soulbound Ashtongue[1/1]
+[Turn 5, Step 10] Agent: 공격 - Lance Carrier[1/1] -> Rexxar
+[Turn 5, Step 11] Agent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Venomizer[2/2] -> Elise the Trailblazer
+[Turn 5, Step 12] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 5, Step 12] Opponent: 공격 - Soulbound Ashtongue[1/1] -> Arcane Watcher
+[Turn 5, Step 12] Opponent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 6, Step 14] Agent: 공격 - Lance Carrier[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/6
+  Hand (4): Baku the Mooneater, Bonechewer Vanguard, Mana Wyrm, Messenger Raven
+  Field: Lance Carrier[1/1], Arcane Watcher[5/5], Guild Recruiter[2/4], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 19, Mana: 0/5
+  Hand (5)
+  Field: Imprisoned Vilefiend[3/5]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Guild Recruiter[2/4] -> Nerubian Egg
+[Turn 7, Step 17] Agent: 공격 - Annoy-o-Tron[1/2] -> Nerubian
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 7, Step 19] Agent: 카드 플레이 - Microtech Controller (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/7
+  Hand (4): Baku the Mooneater, Bonechewer Vanguard, Mana Wyrm, Messenger Raven
+  Field: Lance Carrier[1/1], Arcane Watcher[5/5], Guild Recruiter[2/4], Annoy-o-Tron[1/1], Microbot[1/1], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 19, Mana: 2/6
+  Hand (5)
+  Field: Imprisoned Vilefiend[3/5], Nerubian[4/3]
+[Turn 7, Step 20] Agent: 공격 - Lance Carrier[1/1] -> Rexxar
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 공격 - Microbot[1/1] -> Imprisoned Vilefiend
+[Turn 8, Step 23] Agent: 공격 - Annoy-o-Tron[1/1] -> Spiteful Smith
+[Turn 8, Step 24] Agent: 공격 - Microbot[1/1] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 8/8
+  Hand (5): Baku the Mooneater, Bonechewer Vanguard, Mana Wyrm, Messenger Raven, Elemental Evocation
+  Field: Lance Carrier[1/1], Arcane Watcher[5/5], Guild Recruiter[2/4], Microtech Controller[2/1], Microbot[1/1]
+Opponent: Rexxar HP: 17, Mana: 2/7
+  Hand (5)
+  Field: Imprisoned Vilefiend[3/4], Nerubian[4/3], Spiteful Smith[4/5]
+[Turn 8, Step 25] Agent: 공격 - Microtech Controller[2/1] -> Imprisoned Vilefiend
+[Turn 8, Step 26] Agent: 공격 - Lance Carrier[1/1] -> Imprisoned Vilefiend
+[Turn 8, Step 27] Agent: 공격 - Guild Recruiter[2/4] -> Nerubian
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Microbot
+[Turn 8, Step 29] Agent: 카드 플레이 - Mana Wyrm (코스트: 2)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/8
+  Hand (4): Baku the Mooneater, Bonechewer Vanguard, Messenger Raven, Elemental Evocation
+  Field: Arcane Watcher[5/5], Mana Wyrm[1/3]
+Opponent: Rexxar HP: 17, Mana: 2/7
+  Hand (5)
+  Field: Imprisoned Vilefiend[3/1], Nerubian[4/1], Spiteful Smith[4/5]
+[Turn 8, Step 30] Agent: 카드 플레이 - Messenger Raven (코스트: 3)
+[Turn 8, Step 31] Agent: 선택 - Babbling Book
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 공격 - Nerubian[4/1] -> Jaina Proudmoore
+[Turn 8, Step 31] Opponent: 카드 플레이 - Boommaster Flark (코스트: 7)
+[Turn 8, Step 31] Opponent: 공격 - Imprisoned Vilefiend[3/1] -> Messenger Raven
+[Turn 8, Step 31] Opponent: 공격 - Spiteful Smith[4/5] -> Mana Wyrm
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Spiteful Smith
+[Turn 9, Step 33] Agent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 9, Step 34] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/9
+  Hand (3): Baku the Mooneater, Babbling Book, Silver Vanguard
+  Field: Arcane Watcher[5/5], Bonechewer Vanguard[4/10]
+Opponent: Rexxar HP: 17, Mana: 1/8
+  Hand (5)
+  Field: Nerubian[4/1], Spiteful Smith[4/3], Goblin Bomb[0/2], Boommaster Flark[5/5], Goblin Bomb[0/2], Goblin Bomb[0/2]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Bonechewer Vanguard[4/10] -> Rexxar
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Boommaster Flark
+[Turn 10, Step 38] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 39] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/10
+  Hand (3): Baku the Mooneater, Baron Rivendare, Call to Adventure
+  Field: Arcane Watcher[5/5], Bonechewer Vanguard[4/10], Babbling Book[1/1], Silver Vanguard[3/3]
+Opponent: Rexxar HP: 13, Mana: 9/9
+  Hand (6)
+  Field: Nerubian[4/1], Spiteful Smith[4/3], Goblin Bomb[0/2], Boommaster Flark[5/4], Goblin Bomb[0/2], Goblin Bomb[0/2]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Babbling Book[1/1] -> Goblin Bomb
+[Turn 10, Step 42] Agent: 공격 - Silver Vanguard[3/3] -> Goblin Bomb
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Silver Vanguard
+[Turn 10, Step 44] Agent: 카드 플레이 - Baron Rivendare (코스트: 4)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/10
+  Hand (3): Baku the Mooneater, Call to Adventure, Sergeant Sally
+  Field: Arcane Watcher[5/5], Bonechewer Vanguard[4/10], Babbling Book[1/1], Silver Vanguard[3/2], Baron Rivendare[1/7]
+Opponent: Rexxar HP: 13, Mana: 10/10
+  Hand (7)
+  Field: Nerubian[4/1], Spiteful Smith[4/3], Boommaster Flark[5/4], Goblin Bomb[0/2], Goblin Bomb[0/2]
+[Turn 10, Step 45] Agent: 카드 플레이 - Call to Adventure (코스트: 3)
+[Turn 10, Step 46] Agent: 공격 - Bonechewer Vanguard[4/10] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Shaky Zipgunner (코스트: 3)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 10, Step 47] Opponent: 공격 - Amani War Bear[5/7] -> Bonechewer Vanguard
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Silver Vanguard
+[Turn 10, Step 49] Agent: 카드 플레이 - Sergeant Sally (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/10
+  Hand (3): Baku the Mooneater, Vicious Scalehide, Volcanosaur
+  Field: Arcane Watcher[5/5], Bonechewer Vanguard[4/5], Babbling Book[1/1], Silver Vanguard[3/1], Baron Rivendare[1/7], Sergeant Sally[1/1]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (6)
+  Field: Nerubian[4/1], Spiteful Smith[4/3], Boommaster Flark[5/4], Goblin Bomb[0/2], Goblin Bomb[0/2], Shaky Zipgunner[3/3], Amani War Bear[5/3]
+[Turn 10, Step 50] Agent: 카드 플레이 - Vicious Scalehide (코스트: 2)
+[Turn 10, Step 51] Agent: 공격 - Bonechewer Vanguard[4/5] -> Amani War Bear
+[Turn 10, Step 52] Agent: 공격 - Vicious Scalehide[3/5] -> Shaky Zipgunner
+[Turn 10, Step 53] Agent: 공격 - Baron Rivendare[1/7] -> Spiteful Smith
+[Turn 10, Step 54] Agent: 공격 - Silver Vanguard[3/1] -> Boommaster Flark
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (2): Baku the Mooneater, Volcanosaur
+  Field: Arcane Watcher[5/5], Babbling Book[1/1], Hex Lord Malacrass[5/5], Supreme Abyssal[12/12], Baron Rivendare[1/3], Sergeant Sally[1/1], Vicious Scalehide[3/2]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (6)
+  Field: Nerubian[4/1], Spiteful Smith[4/2], Boommaster Flark[5/1], Goblin Bomb[0/2], Goblin Bomb[0/2]
+[Turn 10, Step 55] Agent: 공격 - Babbling Book[1/1] -> Rexxar
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 공격 - Nerubian[4/1] -> Hex Lord Malacrass
+[Turn 10, Step 56] Opponent: 공격 - Spiteful Smith[4/2] -> Sergeant Sally
+[Turn 10, Step 56] Opponent: 카드 플레이 - Kaboom Bot (코스트: 3)
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 공격 - Baron Rivendare[1/1] -> Bloodworm
+[Turn 10, Step 58] Agent: 공격 - Supreme Abyssal[12/10] -> Kaboom Bot
+[Turn 10, Step 59] Agent: 카드 플레이 - Baku the Mooneater (코스트: 9)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 1/10
+  Hand (2): Volcanosaur, Gentle Megasaur
+  Field: Arcane Watcher[5/3], Supreme Abyssal[12/2], Baku the Mooneater[7/8]
+Opponent: Rexxar HP: 12, Mana: 0/10
+  Hand (5)
+  Field: Bloodworm[4/3]
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Bloodworm[4/3] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 공격 - Baku the Mooneater[7/8] -> SI:7 Infiltrator
+[Turn 10, Step 62] Agent: 공격 - Supreme Abyssal[12/2] -> Bloodworm
+[Turn 10, Step 63] Agent: 카드 플레이 - Volcanosaur (코스트: 7)
+[Turn 10, Step 64] Agent: 선택 - Flaming Claws
+[Turn 10, Step 64] Agent: 선택 - Lightning Speed
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 영웅 능력 사용
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 10/10
+  Hand (3): Dragonmaw Poacher, Gentle Megasaur, SN1P-SN4P
+  Field: Arcane Watcher[5/3], Baku the Mooneater[7/3], Volcanosaur[8/6]
+Opponent: Rexxar HP: 20, Mana: 8/10
+  Hand (6)
+[Turn 10, Step 65] Agent: 공격 - Volcanosaur[8/6] -> Rexxar
+[Turn 10, Step 66] Agent: 공격 - Volcanosaur[8/6] -> Rexxar
+[Turn 10, Step 67] Agent: 카드 플레이 - Dragonmaw Poacher (코스트: 4)
+[Turn 10, Step 68] Agent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 10, Step 69] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (1): SN1P-SN4P
+  Field: Arcane Watcher[5/3], Baku the Mooneater[7/3], Volcanosaur[8/6], Dragonmaw Poacher[4/4], Gentle Megasaur[5/4]
+Opponent: Rexxar HP: 4, Mana: 8/10
+  Hand (6)
+[Turn 10, Step 70] Agent: 공격 - Baku the Mooneater[7/3] -> Rexxar
+
+--- Game State (Turn 10, Step 71) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (1): SN1P-SN4P
+  Field: Arcane Watcher[5/3], Baku the Mooneater[7/3], Volcanosaur[8/6], Dragonmaw Poacher[4/4], Gentle Megasaur[5/4]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (6)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

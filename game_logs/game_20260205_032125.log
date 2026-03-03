@@ -1,0 +1,252 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(29) → 5로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(64) → 4로 보정
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (6): Desert Hare, Violet Spellwing, Beckoner of Evil, Rummaging Kobold, Ice Walker, SN1P-SN4P
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 3, Step 6] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (7): Beckoner of Evil, Rummaging Kobold, Ice Walker, SN1P-SN4P, Golakka Crawler, Shrieking Shroom, Young Dragonhawk
+  Field: Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1], Violet Spellwing[1/1]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(40) → 16로 보정
+[Turn 6, Step 12] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(19) → 0로 보정
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (7): Beckoner of Evil, Ice Walker, SN1P-SN4P, Golakka Crawler, Shrieking Shroom, Silver Hand Knight, Wind-up Burglebot
+  Field: Desert Hare[1/1], Desert Hare[1/1], Desert Hare[1/1], Violet Spellwing[1/1], Young Dragonhawk[1/1], Rummaging Kobold[1/3]
+Opponent: Rexxar HP: 28, Mana: 7/7
+  Hand (9)
+  Field: Recruiter[5/4]
+[Turn 7, Step 15] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(66) → 12로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Desert Hare
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 7, Step 17] Agent: 공격 - Desert Hare[1/1] -> Recruiter
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(60) → 8로 보정
+[Turn 7, Step 18] Agent: 공격 - Violet Spellwing[1/1] -> Recruiter
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 7, Step 19] Agent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/7
+  Hand (8): Beckoner of Evil, Ice Walker, Golakka Crawler, Shrieking Shroom, Silver Hand Knight, Wind-up Burglebot, Arcane Missiles, SN1P-SN4P
+  Field: Desert Hare[1/1], Young Dragonhawk[1/1], Rummaging Kobold[1/3], SN1P-SN4P[2/3]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (9)
+  Field: Recruiter[5/2]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 공격 - Recruiter[5/2] -> Desert Hare
+[Turn 8, Step 21] Opponent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 8, Step 21] Opponent: 카드 플레이 - Lance Carrier -> Stormwind Knight (코스트: 2)
+[Turn 8, Step 21] Opponent: 카드 플레이 - Shattered Sun Cleric -> Stormwind Knight (코스트: 3)
+[Turn 8, Step 21] Opponent: 공격 - Stormwind Knight[5/6] -> SN1P-SN4P
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Shattered Sun Cleric
+[Turn 9, Step 23] Agent: 카드 플레이 - Beckoner of Evil (코스트: 2)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(41) → 13로 보정
+[Turn 9, Step 24] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/9
+  Hand (8): Ice Walker, Golakka Crawler, Shrieking Shroom, Silver Hand Knight, Wind-up Burglebot, Arcane Missiles, Harrison Jones, Kaboom Bot
+  Field: Young Dragonhawk[1/1], Rummaging Kobold[1/3], Microbot[1/1], Microbot[1/1], Beckoner of Evil[2/3]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (7)
+  Field: Recruiter[5/1], Stormwind Knight[5/4], Lance Carrier[1/2], Shattered Sun Cleric[3/1]
+[Turn 9, Step 25] Agent: 카드 플레이 - Kaboom Bot (코스트: 3)
+[Turn 9, Step 26] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 9, Step 27] Agent: 공격 - Young Dragonhawk[1/1] -> Recruiter
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(61) → 7로 보정
+[Turn 9, Step 28] Agent: 공격 - Microbot[1/1] -> Lance Carrier
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 9, Step 29] Agent: 공격 - Microbot[1/1] -> Stormwind Knight
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (6): Ice Walker, Shrieking Shroom, Silver Hand Knight, Wind-up Burglebot, Arcane Missiles, Harrison Jones
+  Field: Rummaging Kobold[1/3], Beckoner of Evil[2/3], Kaboom Bot[2/2], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (7)
+  Field: Stormwind Knight[5/3], Lance Carrier[1/1], Shattered Sun Cleric[3/1]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Voodoo Doll -> Shattered Sun Cleric (코스트: 3)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(66) → 27로 보정
+[Turn 10, Step 32] Agent: 공격 - Beckoner of Evil[2/3] -> Shattered Sun Cleric
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(59) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Ice Walker (코스트: 2)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(91) → 4로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/10
+  Hand (6): Shrieking Shroom, Silver Hand Knight, Wind-up Burglebot, Harrison Jones, Drakkari Trickster, Fire Hawk
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/2], Golakka Crawler[2/3], Ice Walker[1/3]
+Opponent: Rexxar HP: 25, Mana: 7/10
+  Hand (8)
+  Field: Stormwind Knight[5/2], Lance Carrier[1/1]
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Stormwind Knight
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 10, Step 37] Agent: 공격 - Kaboom Bot[2/2] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 38] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 공격 - Lance Carrier[1/1] -> Kaboom Bot
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (6): Shrieking Shroom, Wind-up Burglebot, Harrison Jones, Drakkari Trickster, Fire Hawk, Elise the Trailblazer
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/1], Golakka Crawler[2/3], Ice Walker[1/3], Silver Hand Knight[4/4], Squire[2/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Stormwind Knight[5/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(76) → 7로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Ice Walker
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 42] Agent: 공격 - Golakka Crawler[2/3] -> Stormwind Knight
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 43] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(13) → 6로 보정
+[Turn 10, Step 44] Agent: 공격 - Silver Hand Knight[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (5): Shrieking Shroom, Wind-up Burglebot, Drakkari Trickster, Fire Hawk, Elise the Trailblazer
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/1], Ice Walker[1/2], Silver Hand Knight[4/4], Squire[2/2], Harrison Jones[5/4]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(28) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 47] Agent: 공격 - Kaboom Bot[2/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Shrieking Shroom, Wind-up Burglebot, Drakkari Trickster, Elise the Trailblazer, Menagerie Magician
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/1], Ice Walker[1/2], Silver Hand Knight[4/4], Squire[2/2], Harrison Jones[5/4], Fire Hawk[10/3]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 10, Step 50] Agent: 공격 - Kaboom Bot[2/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(8) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(46) → 4로 보정
+[Turn 10, Step 52] Agent: 공격 - Harrison Jones[5/4] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(18) → 3로 보정
+[Turn 10, Step 53] Agent: 공격 - Squire[2/2] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 10, Step 54] Agent: 공격 - Ice Walker[1/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Shrieking Shroom, Wind-up Burglebot, Drakkari Trickster, Elise the Trailblazer, Menagerie Magician
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/1], Ice Walker[1/2], Silver Hand Knight[4/4], Squire[2/2], Harrison Jones[5/4], Fire Hawk[10/3]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 10, Step 55] Agent: 공격 - Silver Hand Knight[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 56) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Shrieking Shroom, Wind-up Burglebot, Drakkari Trickster, Elise the Trailblazer, Menagerie Magician
+  Field: Rummaging Kobold[1/3], Kaboom Bot[2/1], Ice Walker[1/2], Silver Hand Knight[4/4], Squire[2/2], Harrison Jones[5/4], Fire Hawk[10/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

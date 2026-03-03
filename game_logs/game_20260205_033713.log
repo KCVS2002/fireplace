@@ -1,0 +1,342 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(94) → 1로 보정
+[Turn 1, Step 0] Agent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(61) → 0로 보정
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(93) → 2로 보정
+[Turn 2, Step 2] Agent: 카드 플레이 - Patches the Pirate (코스트: 1)
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (5): Bilefin Tidehunter, Twilight Summoner, Imprisoned Observer, Half-Time Scavenger, Parachute Brigand
+  Field: Guardian Augmerchant[2/1], Patches the Pirate[1/1]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Scrap Shot -> Bilefin Tidehunter (코스트: 4)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 카드 플레이 - Stormpike Commando -> Guardian Augmerchant (코스트: 5)
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 6, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(50) → 6로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - The Voraxx (코스트: 4)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (5): Twilight Summoner, Imprisoned Observer, Half-Time Scavenger, Parachute Brigand, Flame Juggler
+  Field: Patches the Pirate[1/1], Ooze[1/1], The Voraxx[3/3]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (7)
+  Field: Stormpike Commando[4/2]
+[Turn 6, Step 10] Agent: 공격 - Patches the Pirate[1/1] -> Stormpike Commando
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 6, Step 11] Agent: 공격 - Ooze[1/1] -> Stormpike Commando
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(89) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 7, Step 13] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 13] Opponent: 카드 플레이 - Kaboom Bot (코스트: 3)
+[Turn 7, Step 13] Opponent: 턴 종료
+[Turn 8, Step 14] Agent: 유효하지 않은 액션 인덱스(67) → 11로 보정
+[Turn 8, Step 14] Agent: 영웅 능력 사용 -> Kaboom Bot
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/8
+  Hand (7): Twilight Summoner, Imprisoned Observer, Half-Time Scavenger, Parachute Brigand, Flame Juggler, Silver Vanguard, Boisterous Bard
+  Field: The Voraxx[3/3]
+Opponent: Rexxar HP: 29, Mana: 4/7
+  Hand (8)
+  Field: Kaboom Bot[2/1]
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(82) → 1로 보정
+[Turn 8, Step 15] Agent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(54) → 4로 보정
+[Turn 8, Step 16] Agent: 공격 - The Voraxx[3/3] -> Kaboom Bot
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(7) → 1로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(67) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 9, Step 19] Agent: 카드 플레이 - Lil' Exorcist (코스트: 3)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/9
+  Hand (5): Imprisoned Observer, Half-Time Scavenger, Flame Juggler, Silver Vanguard, Boisterous Bard
+  Field: The Voraxx[3/1], Faceless Destroyer[5/5], Parachute Brigand[2/2], Lil' Exorcist[2/3]
+Opponent: Rexxar HP: 29, Mana: 8/8
+  Hand (9)
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 9, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(50) → 14로 보정
+[Turn 10, Step 23] Agent: 공격 - Faceless Destroyer[5/5] -> Rexxar
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(40) → 6로 보정
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (5): Imprisoned Observer, Flame Juggler, Silver Vanguard, Boisterous Bard, Ethereal Conjurer
+  Field: The Voraxx[3/1], Faceless Destroyer[5/5], Parachute Brigand[2/2], Lil' Exorcist[2/3], Half-Time Scavenger[3/5]
+Opponent: Rexxar HP: 24, Mana: 9/9
+  Hand (10)
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 10, Step 25] Agent: 공격 - The Voraxx[3/1] -> Rexxar
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Boisterous Bard (코스트: 3)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 카드 플레이 - Mini-Mage (코스트: 4)
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(90) → 10로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Parachute Brigand
+[Turn 10, Step 29] Agent: 공격 - Parachute Brigand[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/10
+  Hand (5): Imprisoned Observer, Flame Juggler, Silver Vanguard, Ethereal Conjurer, Transmogrifier
+  Field: The Voraxx[3/2], Faceless Destroyer[5/6], Parachute Brigand[2/2], Lil' Exorcist[2/4], Half-Time Scavenger[3/6], Boisterous Bard[3/2]
+Opponent: Rexxar HP: 19, Mana: 6/10
+  Hand (9)
+  Field: Mini-Mage[4/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(21) → 10로 보정
+[Turn 10, Step 30] Agent: 공격 - Boisterous Bard[3/2] -> Rexxar
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(71) → 1로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+[Turn 10, Step 32] Agent: 공격 - Half-Time Scavenger[3/6] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 33] Agent: 공격 - Faceless Destroyer[5/6] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 34] Agent: 공격 - The Voraxx[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/10
+  Hand (4): Flame Juggler, Silver Vanguard, Ethereal Conjurer, Transmogrifier
+  Field: The Voraxx[3/2], Faceless Destroyer[5/6], Parachute Brigand[2/2], Lil' Exorcist[2/4], Half-Time Scavenger[3/6], Boisterous Bard[3/2], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 5, Mana: 6/10
+  Hand (9)
+  Field: Mini-Mage[4/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Mok'Nathal Lion (코스트: 4)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Voodoo Doll -> Faceless Destroyer (코스트: 3)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 10, Step 35] Opponent: 공격 - Mok'Nathal Lion[5/2] -> Lil' Exorcist
+[Turn 10, Step 35] Opponent: 공격 - Mini-Mage[4/1] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(85) → 25로 보정
+[Turn 10, Step 36] Agent: 공격 - Half-Time Scavenger[3/6] -> Mini-Mage
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 37] Opponent: 공격 - Voodoo Doll[1/1] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(28) → 5로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Polluted Hoarder (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Boisterous Bard
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/10
+  Hand (5): Flame Juggler, Silver Vanguard, Ethereal Conjurer, Transmogrifier, Twilight Geomancer
+  Field: The Voraxx[3/2], Parachute Brigand[2/2], Half-Time Scavenger[3/2], Boisterous Bard[3/1], Imprisoned Observer[4/5], Polluted Hoarder[4/2]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (7)
+  Field: Troggzor the Earthinator[6/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 10, Step 40] Agent: 공격 - Half-Time Scavenger[3/2] -> Troggzor the Earthinator
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(25) → 5로 보정
+[Turn 10, Step 41] Agent: 공격 - The Voraxx[3/2] -> Troggzor the Earthinator
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 44] Agent: 공격 - Boisterous Bard[3/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/10
+  Hand (3): Silver Vanguard, Ethereal Conjurer, Transmogrifier
+  Field: Parachute Brigand[2/2], Boisterous Bard[3/1], Imprisoned Observer[4/5], Polluted Hoarder[4/2], Flame Juggler[2/3], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 1, Mana: 1/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Cyclopian Horror
+[Turn 10, Step 47] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 48] Agent: 공격 - Parachute Brigand[2/2] -> Cyclopian Horror
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 10, Step 49] Opponent: 공격 - Cyclopian Horror[5/8] -> Twilight Geomancer
+[Turn 10, Step 49] Opponent: 공격 - Spiritsinger Umbra[3/4] -> Boisterous Bard
+[Turn 10, Step 49] Opponent: 카드 플레이 - Aberrant Berserker (코스트: 4)
+[Turn 10, Step 49] Opponent: 영웅 능력 사용
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (4): Ethereal Conjurer, Transmogrifier, Bluegill Warrior, Jan'alai, the Dragonhawk
+  Field: Imprisoned Observer[4/5], Polluted Hoarder[4/2], Flame Juggler[2/3], Silver Vanguard[3/3]
+Opponent: Rexxar HP: 1, Mana: 0/10
+  Hand (5)
+  Field: Cyclopian Horror[5/7], Spiritsinger Umbra[3/1], Cyclopian Horror[3/9], Aberrant Berserker[3/5]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(44) → 21로 보정
+[Turn 10, Step 50] Agent: 공격 - Silver Vanguard[3/3] -> Cyclopian Horror
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Aberrant Berserker[3/5] -> Flame Juggler
+[Turn 10, Step 51] Opponent: 공격 - Cyclopian Horror[3/9] -> Polluted Hoarder
+[Turn 10, Step 51] Opponent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(85) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Servant of Kalimos[4/5] -> Imprisoned Observer
+[Turn 10, Step 52] Opponent: 공격 - Cyclopian Horror[3/5] -> Imprisoned Observer
+[Turn 10, Step 52] Opponent: 카드 플레이 - Traveling Healer -> Cyclopian Horror (코스트: 4)
+[Turn 10, Step 52] Opponent: 카드 플레이 - Ravencaller (코스트: 3)
+[Turn 10, Step 52] Opponent: 공격 - Spiritsinger Umbra[3/1] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 공격 - Cyclopian Horror[5/4] -> Jaina Proudmoore
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(33) → 16로 보정
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Ravencaller
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Wyrmguard (코스트: 7)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 1/10
+  Hand (6): Ethereal Conjurer, Transmogrifier, Bluegill Warrior, Jan'alai, the Dragonhawk, Crazed Worshipper, Hungry Ettin
+  Field: Wyrmguard[3/11]
+Opponent: Rexxar HP: 1, Mana: 3/10
+  Hand (6)
+  Field: Cyclopian Horror[5/4], Spiritsinger Umbra[3/1], Cyclopian Horror[3/4], Aberrant Berserker[5/3], Servant of Kalimos[4/1], Traveling Healer[3/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 공격 - Traveling Healer[3/2] -> Wyrmguard
+[Turn 10, Step 55] Opponent: 카드 플레이 - Spirit of the Rhino (코스트: 1)
+[Turn 10, Step 55] Opponent: 공격 - Aberrant Berserker[5/3] -> Wyrmguard
+[Turn 10, Step 55] Opponent: 공격 - Servant of Kalimos[4/1] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 공격 - Spiritsinger Umbra[3/1] -> Jaina Proudmoore
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(87) → 15로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Wyrmguard
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(99) → 9로 보정
+[Turn 10, Step 57] Agent: 공격 - Wyrmguard[3/2] -> Cyclopian Horror
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Hungry Ettin (코스트: 6)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Cyclopian Horror[3/1] -> Hungry Ettin
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 3, Mana: 10/10
+  Hand (7): Ethereal Conjurer, Transmogrifier, Bluegill Warrior, Jan'alai, the Dragonhawk, Crazed Worshipper, Amani War Bear, Crazed Alchemist
+  Field: Hungry Ettin[4/7]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (7)
+  Field: Cyclopian Horror[5/4], Friendly Bartender[2/3], Spiritsinger Umbra[3/1], Servant of Kalimos[4/1], Traveling Healer[3/2], Spirit of the Rhino[0/3]
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Cyclopian Horror
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(74) → 14로 보정
+[Turn 10, Step 61] Agent: 공격 - Hungry Ettin[4/7] -> Cyclopian Horror
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Crazed Worshipper (코스트: 5)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Dispatch Kodo -> Friendly Bartender (코스트: 4)
+[Turn 10, Step 64] Opponent: 공격 - Servant of Kalimos[4/1] -> Hungry Ettin
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (6): Ethereal Conjurer, Bluegill Warrior, Jan'alai, the Dragonhawk, Amani War Bear, Crazed Alchemist, Mimiron's Head
+  Field: Transmogrifier[2/1], Crazed Worshipper[3/4]
+Opponent: Rexxar HP: 1, Mana: 6/10
+  Hand (7)
+  Field: Spirit of the Rhino[0/1], Dispatch Kodo[2/2]
+[Turn 10, Step 65] Agent: 공격 - Crazed Worshipper[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 66) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (6): Ethereal Conjurer, Bluegill Warrior, Jan'alai, the Dragonhawk, Amani War Bear, Crazed Alchemist, Mimiron's Head
+  Field: Transmogrifier[2/1], Crazed Worshipper[3/4]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (7)
+  Field: Spirit of the Rhino[0/1], Dispatch Kodo[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

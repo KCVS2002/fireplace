@@ -1,0 +1,399 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(95) → 3로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(17) → 3로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(94) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/2
+  Hand (5): Magic Trick, Counterspell, Water Elemental, Cryomancer, Whirlwind Tempest
+  Field: Jar Dealer[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(94) → 1로 보정
+[Turn 2, Step 5] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 2, Step 6] Agent: 선택 - Primordial Glyph
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(27) → 1로 보정
+[Turn 2, Step 6] Agent: 공격 - Jar Dealer[1/1] -> Rexxar
+[Turn 2, Step 7] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 2, Step 7] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 7] Opponent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 2, Step 7] Opponent: 턴 종료
+[Turn 3, Step 8] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 3, Step 8] Opponent: 공격 - Murloc Tidecaller[1/2] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(28) → 2로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (6): Counterspell, Cryomancer, Whirlwind Tempest, Primordial Glyph, The Black Knight, Firetree Witchdoctor
+  Field: Jar Dealer[1/1], Water Elemental[3/6]
+Opponent: Rexxar HP: 29, Mana: 1/4
+  Hand (5)
+  Field: Murloc Tidecaller[1/2], Emperor Cobra[2/3]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 4, Step 10] Agent: 공격 - Jar Dealer[1/1] -> Murloc Tidecaller
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Faceless Shambler -> Murloc Tidecaller (코스트: 4)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 공격 - Emperor Cobra[2/3] -> Water Elemental
+[Turn 5, Step 12] Opponent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 5, Step 12] Opponent: 선택 - Emperor Cobra
+[Turn 5, Step 12] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Cryomancer (코스트: 5)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - Gravelsnout Knight (코스트: 1)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (7): Counterspell, Whirlwind Tempest, Primordial Glyph, The Black Knight, Firetree Witchdoctor, Risky Skipper, Harvest Golem
+  Field: Cryomancer[5/5], Gravelsnout Knight[2/3]
+Opponent: Rexxar HP: 29, Mana: 0/6
+  Hand (4)
+  Field: Murloc Tidecaller[2/1], Faceless Shambler[1/1], Deadscale Knight[1/1], Body Wrapper[4/4], River Crocolisk[2/3]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 공격 - Deadscale Knight[1/1] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 공격 - Body Wrapper[4/4] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 6, Step 15] Opponent: 카드 플레이 - Animal Companion (코스트: 3)
+[Turn 6, Step 15] Opponent: 공격 - Murloc Tidecaller[2/1] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 공격 - River Crocolisk[2/3] -> Cryomancer
+[Turn 6, Step 15] Opponent: 공격 - Faceless Shambler[1/1] -> Cryomancer
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Deadscale Knight
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(93) → 13로 보정
+[Turn 8, Step 18] Agent: 영웅 능력 사용 -> Body Wrapper
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 8, Step 19] Agent: 카드 플레이 - The Black Knight -> Misha (코스트: 6)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/8
+  Hand (8): Counterspell, Whirlwind Tempest, Primordial Glyph, Firetree Witchdoctor, Risky Skipper, Harvest Golem, Replicat-o-tron, Green Jelly
+  Field: Cryomancer[5/2], Gravelsnout Knight[2/3], The Black Knight[4/5]
+Opponent: Rexxar HP: 30, Mana: 8/8
+  Hand (4)
+  Field: Murloc Tidecaller[2/1], Body Wrapper[4/3], Gorillabot A-3[3/4]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 8, Step 20] Agent: 공격 - Gravelsnout Knight[2/3] -> Rexxar
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(24) → 4로 보정
+[Turn 8, Step 21] Agent: 공격 - Cryomancer[5/2] -> Gorillabot A-3
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 공격 - Body Wrapper[4/3] -> The Black Knight
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(31) → 12로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Murloc Tidecaller
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(19) → 8로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/9
+  Hand (8): Counterspell, Whirlwind Tempest, Primordial Glyph, Firetree Witchdoctor, Risky Skipper, Harvest Golem, Replicat-o-tron, Green Jelly
+  Field: Gravelsnout Knight[2/3], The Black Knight[4/1], Spiked Hogrider[5/5]
+Opponent: Rexxar HP: 28, Mana: 9/9
+  Hand (5)
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Firetree Witchdoctor (코스트: 2)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 9, Step 26] Agent: 공격 - The Black Knight[4/1] -> Rexxar
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(40) → 16로 보정
+[Turn 10, Step 28] Agent: 공격 - Gravelsnout Knight[2/3] -> Rexxar
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(59) → 15로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Captured Jormungar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (8): Counterspell, Whirlwind Tempest, Primordial Glyph, Risky Skipper, Harvest Golem, Replicat-o-tron, Green Jelly, Duskboar
+  Field: Gravelsnout Knight[2/3], The Black Knight[4/1], Spiked Hogrider[5/5], Firetree Witchdoctor[2/2]
+Opponent: Rexxar HP: 22, Mana: 3/10
+  Hand (5)
+  Field: Captured Jormungar[5/8]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Green Jelly (코스트: 5)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 10, Step 31] Agent: 공격 - Spiked Hogrider[5/5] -> Captured Jormungar
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 32] Agent: 공격 - The Black Knight[4/1] -> Rexxar
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(20) → 4로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Harvest Golem (코스트: 3)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(95) → 2로 보정
+[Turn 10, Step 34] Agent: 공격 - Firetree Witchdoctor[2/2] -> Captured Jormungar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (6): Counterspell, Whirlwind Tempest, Primordial Glyph, Risky Skipper, Replicat-o-tron, Duskboar
+  Field: Gravelsnout Knight[2/3], The Black Knight[4/1], Green Jelly[3/3], Harvest Golem[2/3]
+Opponent: Rexxar HP: 18, Mana: 3/10
+  Hand (5)
+  Field: Captured Jormungar[5/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 카드 플레이 - Injured Tol'vir (코스트: 2)
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(84) → 18로 보정
+[Turn 10, Step 36] Agent: 공격 - The Black Knight[4/1] -> Injured Tol'vir
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(88) → 19로 보정
+[Turn 10, Step 37] Agent: 공격 - Green Ooze[1/2] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Whirlwind Tempest (코스트: 8)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(68) → 14로 보정
+[Turn 10, Step 39] Agent: 공격 - Green Jelly[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (6): Counterspell, Primordial Glyph, Risky Skipper, Replicat-o-tron, Duskboar, Half-Time Scavenger
+  Field: Gravelsnout Knight[2/3], Green Jelly[3/3], Green Ooze[1/2], Harvest Golem[2/3], Whirlwind Tempest[6/6]
+Opponent: Rexxar HP: 14, Mana: 8/10
+  Hand (5)
+  Field: Captured Jormungar[5/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Risky Skipper (코스트: 1)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 41] Agent: 공격 - Gravelsnout Knight[2/3] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(88) → 18로 보정
+[Turn 10, Step 43] Agent: 공격 - Green Jelly[3/3] -> Captured Jormungar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(80) → 24로 보정
+[Turn 10, Step 44] Agent: 공격 - Whirlwind Tempest[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (6): The Boogeymonster, Counterspell, Primordial Glyph, Replicat-o-tron, Duskboar, Half-Time Scavenger
+  Field: Gravelsnout Knight[2/3], Green Ooze[1/2], Green Ooze[1/2], Harvest Golem[2/3], Whirlwind Tempest[6/6], Risky Skipper[1/3]
+Opponent: Rexxar HP: 6, Mana: 7/10
+  Hand (5)
+  Field: Injured Blademaster[4/3]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Gravelsnout Knight
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(83) → 15로 보정
+[Turn 10, Step 46] Agent: 공격 - Risky Skipper[1/3] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 10, Step 48] Agent: 공격 - Gravelsnout Knight[2/1] -> Injured Blademaster
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 49] Agent: 공격 - Harvest Golem[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/10
+  Hand (5): Counterspell, Primordial Glyph, Replicat-o-tron, Duskboar, Half-Time Scavenger
+  Field: Green Ooze[1/1], Green Ooze[1/1], Harvest Golem[2/2], Whirlwind Tempest[6/5], Risky Skipper[1/2], The Boogeymonster[6/6]
+Opponent: Rexxar HP: 3, Mana: 7/10
+  Hand (5)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 50] Agent: 공격 - Green Ooze[1/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 카드 플레이 - Voodoo Doctor -> Harvest Golem (코스트: 1)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Volcanosaur (코스트: 7)
+[Turn 10, Step 51] Opponent: 선택 - Flaming Claws
+[Turn 10, Step 51] Opponent: 선택 - Lightning Speed
+[Turn 10, Step 51] Opponent: 카드 플레이 - Ship's Cannon (코스트: 2)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Harvest Golem
+[Turn 10, Step 53] Agent: 공격 - Risky Skipper[1/2] -> Ship's Cannon
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(71) → 17로 보정
+[Turn 10, Step 54] Agent: 공격 - Harvest Golem[2/2] -> Volcanosaur
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (6): Counterspell, Primordial Glyph, Replicat-o-tron, Duskboar, Half-Time Scavenger, Mosh'Ogg Announcer
+  Field: Green Ooze[1/1], Green Ooze[1/1], Damaged Golem[2/1], Whirlwind Tempest[6/5], The Boogeymonster[6/6]
+Opponent: Rexxar HP: 2, Mana: 0/10
+  Hand (3)
+  Field: Voodoo Doctor[2/1], Volcanosaur[8/4], Ship's Cannon[2/2]
+[Turn 10, Step 55] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Emperor Cobra (코스트: 3)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Green Ooze
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(45) → 14로 보정
+[Turn 10, Step 59] Agent: 공격 - Damaged Golem[2/1] -> Ship's Cannon
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (5): Primordial Glyph, Replicat-o-tron, Half-Time Scavenger, Mosh'Ogg Announcer, Raid Leader
+  Field: Green Ooze[1/1], Whirlwind Tempest[6/5], The Boogeymonster[6/6], Duskboar[4/1]
+Opponent: Rexxar HP: 2, Mana: 7/10
+  Hand (3)
+  Field: Voodoo Doctor[2/1], Volcanosaur[8/4], Emperor Cobra[2/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(44) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 카드 플레이 - Core Rager (코스트: 4)
+[Turn 10, Step 60] Opponent: 공격 - Voodoo Doctor[2/1] -> Green Ooze
+[Turn 10, Step 60] Opponent: 공격 - Volcanosaur[8/4] -> The Boogeymonster
+[Turn 10, Step 60] Opponent: 공격 - Emperor Cobra[2/3] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 10, Step 60] Opponent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 60] Opponent: 공격 - Rexxar[1/2] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 공격 - Locust[1/1] -> Whirlwind Tempest
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 공격 - Duskboar[4/1] -> Doomsayer
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(78) → 6로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Frozen Clone (코스트: 3)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 10, Step 64] Agent: 선택 - Forgotten Torch
+[Turn 10, Step 64] Agent: 공격 - Whirlwind Tempest[6/4] -> Emperor Cobra
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 5/10
+  Hand (5): Replicat-o-tron, Half-Time Scavenger, Mosh'Ogg Announcer, Raid Leader, Forgotten Torch
+  Field: Duskboar[4/1]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (1)
+  Field: Core Rager[4/4], Doomsayer[0/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(72) → 12로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Duskboar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 영웅 능력 사용
+[Turn 10, Step 66] Opponent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 10, Step 66] Opponent: 카드 플레이 - Mechanical Whelp (코스트: 6)
+[Turn 10, Step 66] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 10, Step 66] Opponent: 공격 - Rexxar[1/2] -> Jaina Proudmoore
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Forgotten Torch -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(35) → 7로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(36) → 17로 보정
+[Turn 10, Step 69] Agent: 공격 - Springpaw[1/1] -> Lynx
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (7): Phantom Freebooter, Replicat-o-tron, Half-Time Scavenger, Mosh'Ogg Announcer, Raid Leader, Springpaw, Lynx
+Opponent: Rexxar HP: 2, Mana: 0/10
+  Hand (0)
+  Field: Springpaw[1/1], Mechanical Whelp[2/2], Locust[1/1]
+[Turn 10, Step 70] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 공격 - Mechanical Whelp[2/2] -> Jaina Proudmoore
+[Turn 10, Step 72] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 10, Step 72] Opponent: 카드 플레이 - War Golem (코스트: 7)
+[Turn 10, Step 72] Opponent: 공격 - Springpaw[1/1] -> Jaina Proudmoore
+[Turn 10, Step 72] Opponent: 공격 - Rexxar[1/1] -> Jaina Proudmoore
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(34) → 12로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Locust
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(68) → 8로 보정
+[Turn 10, Step 74] Agent: 공격 - Half-Time Scavenger[3/5] -> Springpaw
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (7): Phantom Freebooter, Replicat-o-tron, Mosh'Ogg Announcer, Raid Leader, Springpaw, Lynx, Icehowl
+  Field: Half-Time Scavenger[3/4]
+Opponent: Rexxar HP: 1, Mana: 3/10
+  Hand (0)
+  Field: Mechanical Whelp[2/2], War Golem[7/7], Locust[1/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(81) → 4로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(22) → 4로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Springpaw (코스트: 1)
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(12) → 4로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 턴 종료
+[Turn 10, Step 79] Agent: 공격 - Lynx[2/1] -> Locust
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (6): Phantom Freebooter, Replicat-o-tron, Mosh'Ogg Announcer, Lynx, Icehowl, Harbinger Celestia
+  Field: Half-Time Scavenger[4/4], Raid Leader[2/2], Springpaw[2/1]
+Opponent: Rexxar HP: 1, Mana: 10/10
+  Hand (1)
+  Field: Mechanical Whelp[2/2], War Golem[7/7]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(65) → 19로 보정
+[Turn 10, Step 80] Agent: 공격 - Raid Leader[2/2] -> War Golem
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(82) → 10로 보정
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Springpaw
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 83] Agent: 공격 - Half-Time Scavenger[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 84) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 3/10
+  Hand (5): Phantom Freebooter, Replicat-o-tron, Lynx, Icehowl, Harbinger Celestia
+  Field: Half-Time Scavenger[3/4], Mosh'Ogg Announcer[6/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (1)
+  Field: Mechanical Whelp[2/2], War Golem[7/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

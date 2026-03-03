@@ -1,0 +1,210 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Evasive Chimaera (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Humongous Razorleaf, Disguised Wanderer, Drakkari Trickster, Sunstruck Henchman, Rockpool Hunter
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Guardian Augmerchant (코스트: 1)
+[Turn 2, Step 5] Opponent: 영웅 능력 사용
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Rockpool Hunter (코스트: 2)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Guardian Augmerchant[2/1] -> Jaina Proudmoore
+[Turn 3, Step 7] Opponent: 카드 플레이 - Recombobulator -> Guardian Augmerchant (코스트: 2)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 4, Step 8] Opponent: 공격 - N'Zoth's First Mate[1/1] -> Jaina Proudmoore
+[Turn 4, Step 8] Opponent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 4, Step 8] Opponent: 공격 - Recombobulator[3/2] -> Rockpool Hunter
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Fjola Lightbane (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/5
+  Hand (6): Humongous Razorleaf, Disguised Wanderer, Drakkari Trickster, Sunstruck Henchman, Doppelgangster, Psych-o-Tron
+  Field: Fjola Lightbane[3/4]
+Opponent: Rexxar HP: 29, Mana: 1/5
+  Hand (4)
+  Field: N'Zoth's First Mate[1/1], Hench-Clan Hogsteed[2/1]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> N'Zoth's First Mate
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 공격 - Hench-Clan Hogsteed[2/1] -> Jaina Proudmoore
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Psych-o-Tron (코스트: 5)
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Walnut Sprite (코스트: 3)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Hench-Clan Sneak (코스트: 3)
+[Turn 6, Step 13] Opponent: 공격 - Hench-Clan Hogsteed[2/1] -> Psych-o-Tron
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 공격 - Fjola Lightbane[3/4] -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/7
+  Hand (7): Humongous Razorleaf, Disguised Wanderer, Drakkari Trickster, Sunstruck Henchman, Doppelgangster, Micro Machine, Grimestreet Smuggler
+  Field: Fjola Lightbane[3/4], Psych-o-Tron[3/4]
+Opponent: Rexxar HP: 26, Mana: 1/7
+  Hand (5)
+  Field: Hench-Clan Squire[1/1], Walnut Sprite[3/3], Hench-Clan Sneak[3/3]
+[Turn 7, Step 15] Agent: 영웅 능력 사용 -> Psych-o-Tron
+[Turn 7, Step 16] Agent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+[Turn 7, Step 17] Agent: 공격 - Psych-o-Tron[3/3] -> Walnut Sprite
+[Turn 7, Step 18] Agent: 카드 플레이 - Micro Machine (코스트: 2)
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 공격 - Hench-Clan Sneak[3/3] -> Fjola Lightbane
+[Turn 7, Step 19] Opponent: 공격 - Hench-Clan Squire[1/1] -> Drakkari Trickster
+[Turn 7, Step 19] Opponent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 7, Step 19] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/8
+  Hand (7): Humongous Razorleaf, Disguised Wanderer, Sunstruck Henchman, Doppelgangster, Grimestreet Smuggler, Daring Fire-Eater, Daring Fire-Eater
+  Field: Fjola Lightbane[3/1], Drakkari Trickster[3/3], Micro Machine[3/2]
+Opponent: Rexxar HP: 26, Mana: 1/8
+  Hand (5)
+  Field: Gorillabot A-3[3/4], Alarm-o-Bot[0/3]
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Fjola Lightbane
+[Turn 8, Step 21] Agent: 카드 플레이 - Sunstruck Henchman (코스트: 4)
+[Turn 8, Step 22] Agent: 공격 - Drakkari Trickster[3/3] -> Gorillabot A-3
+[Turn 8, Step 23] Agent: 카드 플레이 - Daring Fire-Eater (코스트: 1)
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Colossus of the Moon[10/10] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 9/9
+  Hand (6): Humongous Razorleaf, Disguised Wanderer, Doppelgangster, Grimestreet Smuggler, Daring Fire-Eater, Tinkmaster Overspark
+  Field: Micro Machine[5/2], Sunstruck Henchman[6/5], Daring Fire-Eater[1/1]
+Opponent: Rexxar HP: 26, Mana: 7/9
+  Hand (5)
+  Field: Gorillabot A-3[3/1], Colossus of the Moon[10/10]
+[Turn 9, Step 25] Agent: 공격 - Daring Fire-Eater[1/1] -> Gorillabot A-3
+[Turn 9, Step 26] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 9, Step 27] Agent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 9, Step 28] Agent: 공격 - Sunstruck Henchman[6/5] -> Rexxar
+[Turn 9, Step 29] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 29] Opponent: 카드 플레이 - Emeriss (코스트: 10)
+[Turn 9, Step 29] Opponent: 공격 - Colossus of the Moon[10/10] -> Jaina Proudmoore
+[Turn 9, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 10/10
+  Hand (5): Humongous Razorleaf, Doppelgangster, Daring Fire-Eater, Tinkmaster Overspark, Arcane Explosion
+  Field: Micro Machine[7/2], Sunstruck Henchman[6/5], Disguised Wanderer[3/3], Grimestreet Smuggler[2/4]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (5)
+  Field: Colossus of the Moon[10/10], Emeriss[8/8]
+[Turn 10, Step 30] Agent: 영웅 능력 사용 -> Emeriss
+[Turn 10, Step 31] Agent: 공격 - Grimestreet Smuggler[2/4] -> Rexxar
+[Turn 10, Step 32] Agent: 카드 플레이 - Arcane Explosion (코스트: 2)
+[Turn 10, Step 33] Agent: 카드 플레이 - Humongous Razorleaf (코스트: 3)
+[Turn 10, Step 34] Agent: 공격 - Sunstruck Henchman[6/5] -> Emeriss
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 3/10
+  Hand (3): Doppelgangster, Daring Fire-Eater, Tinkmaster Overspark
+  Field: Micro Machine[7/2], Disguised Wanderer[3/3], Grimestreet Smuggler[2/4], Humongous Razorleaf[4/8]
+Opponent: Rexxar HP: 18, Mana: 0/10
+  Hand (5)
+  Field: Colossus of the Moon[10/10]
+[Turn 10, Step 35] Agent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 10, Step 36] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 36] Opponent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 10, Step 36] Opponent: 공격 - Colossus of the Moon[11/11] -> Grimestreet Smuggler
+[Turn 10, Step 36] Opponent: 카드 플레이 - Alarm-o-Bot (코스트: 3)
+[Turn 10, Step 36] Opponent: 영웅 능력 사용 -> Devilsaur
+[Turn 10, Step 36] Opponent: 턴 종료
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 38] Agent: 공격 - Tinkmaster Overspark[4/4] -> Alarm-o-Bot
+[Turn 10, Step 39] Agent: 공격 - Devilsaur[7/7] -> Colossus of the Moon
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (3): Doppelgangster, Daring Fire-Eater, Disguised Wanderer
+  Field: Disguised Wanderer[3/3], Humongous Razorleaf[6/10], Tinkmaster Overspark[4/4]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (4)
+  Field: Colossus of the Moon[11/2], Mad Hatter[6/4], Alarm-o-Bot[0/2]
+[Turn 10, Step 40] Agent: 카드 플레이 - Disguised Wanderer (코스트: 4)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 공격 - Mad Hatter[6/4] -> Humongous Razorleaf
+[Turn 10, Step 41] Opponent: 공격 - Colossus of the Moon[11/2] -> Disguised Wanderer
+[Turn 10, Step 41] Opponent: 공격 - Wing Commander[2/5] -> Humongous Razorleaf
+[Turn 10, Step 41] Opponent: 카드 플레이 - To My Side! (코스트: 6)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 공격 - Rustsworn Inquisitor[9/1] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Tinkmaster Overspark[4/4] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Humongous Razorleaf
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 1, Mana: 8/10
+  Hand (3): Doppelgangster, Daring Fire-Eater, Blood Knight
+  Field: Rustsworn Inquisitor[9/1], Humongous Razorleaf[6/1], Tinkmaster Overspark[4/4], Disguised Wanderer[3/3]
+Opponent: Rexxar HP: 4, Mana: 4/10
+  Hand (4)
+  Field: Colossus of the Moon[10/1], Huffer[4/2]
+[Turn 10, Step 45] Agent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 10, Step 46] Agent: 공격 - Disguised Wanderer[3/3] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Abusive Sergeant -> Rustsworn Inquisitor (코스트: 1)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 47] Opponent: 공격 - Huffer[4/2] -> Humongous Razorleaf
+[Turn 10, Step 47] Opponent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 10, Step 47] Opponent: 공격 - Colossus of the Moon[10/1] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 48) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 3/10
+  Hand (2): Daring Fire-Eater, Blood Knight
+  Field: Rustsworn Inquisitor[11/1], Tinkmaster Overspark[4/4], Disguised Wanderer[3/3], Doppelgangster[2/2], Doppelgangster[2/2], Doppelgangster[2/2]
+Opponent: Rexxar HP: 1, Mana: 1/10
+  Hand (2)
+  Field: Colossus of the Moon[10/1], Abusive Sergeant[1/1], Dragonling Mechanic[4/8], Mechanical Dragonling[2/1], Proud Defender[4/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

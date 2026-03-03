@@ -1,0 +1,123 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Lance Carrier (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Saronite Taskmaster (코스트: 1)
+[Turn 2, Step 2] Opponent: 공격 - Lance Carrier[1/2] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Ironbeak Owl -> Lance Carrier (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Saronite Taskmaster[2/3] -> Ironbeak Owl
+[Turn 3, Step 4] Opponent: 공격 - Lance Carrier[1/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Maiden of the Lake, Reckless Rocketeer, Tortollan Primalist, Sea Giant, Archmage, Mosh'Ogg Enforcer
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (5)
+  Field: Lance Carrier[1/2], Saronite Taskmaster[2/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Maiden of the Lake (코스트: 4)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Bloodworm (코스트: 5)
+[Turn 5, Step 8] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/6
+  Hand (6): Reckless Rocketeer, Tortollan Primalist, Sea Giant, Archmage, Mosh'Ogg Enforcer, The Lich King
+  Field: Maiden of the Lake[2/6], Bloodworm[4/4]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (7)
+  Field: Lance Carrier[1/2], Saronite Taskmaster[2/1]
+[Turn 6, Step 10] Agent: 카드 플레이 - Reckless Rocketeer (코스트: 6)
+[Turn 6, Step 11] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 6, Step 12] Agent: 공격 - Bloodworm[4/4] -> Rexxar
+[Turn 6, Step 13] Agent: 공격 - Reckless Rocketeer[5/2] -> Rexxar
+[Turn 6, Step 14] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 14] Opponent: 공격 - Lance Carrier[1/2] -> Reckless Rocketeer
+[Turn 6, Step 14] Opponent: 공격 - Saronite Taskmaster[2/1] -> Jaina Proudmoore
+[Turn 6, Step 14] Opponent: 영웅 능력 사용
+[Turn 6, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 7/7
+  Hand (6): Tortollan Primalist, Sea Giant, Archmage, Mosh'Ogg Enforcer, The Lich King, Lesser Ruby Spellstone
+  Field: Maiden of the Lake[2/6], Bloodworm[4/4], Reckless Rocketeer[5/1]
+Opponent: Rexxar HP: 17, Mana: 4/6
+  Hand (8)
+  Field: Saronite Taskmaster[2/1]
+[Turn 7, Step 15] Agent: 카드 플레이 - Sea Giant (코스트: 6)
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 17] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 7, Step 18] Agent: 공격 - Bloodworm[4/4] -> Rexxar
+[Turn 7, Step 19] Agent: 공격 - Reckless Rocketeer[5/1] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/7
+  Hand (5): Tortollan Primalist, Archmage, Mosh'Ogg Enforcer, The Lich King, Lesser Ruby Spellstone
+  Field: Maiden of the Lake[2/6], Bloodworm[4/4], Reckless Rocketeer[5/1], Sea Giant[8/8]
+Opponent: Rexxar HP: 6, Mana: 4/6
+  Hand (8)
+  Field: Saronite Taskmaster[2/1]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Tortollan Primalist (코스트: 8)
+[Turn 8, Step 22] Agent: 선택 - Polymorph
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 9, Step 24] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/9
+  Hand (5): Mosh'Ogg Enforcer, The Lich King, Da Undatakah, Saboteur, Evocation
+  Field: Maiden of the Lake[2/6], Bloodworm[4/4], Reckless Rocketeer[5/1], Sea Giant[8/8], Tortollan Primalist[5/4], Archmage[4/7]
+Opponent: Rexxar HP: 6, Mana: 3/8
+  Hand (9)
+  Field: Saronite Taskmaster[2/1], Azerite Elemental[2/7]
+[Turn 9, Step 25] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 9, Step 26] Agent: 공격 - Maiden of the Lake[2/6] -> Rexxar
+[Turn 9, Step 27] Agent: 공격 - Bloodworm[4/4] -> Rexxar
+
+--- Game State (Turn 9, Step 28) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/9
+  Hand (10): Mosh'Ogg Enforcer, The Lich King, Da Undatakah, Saboteur, Flame Geyser, Flame Ward, Ancient Mysteries, Ice Lance, Luna's Pocket Galaxy, Conjurer's Calling
+  Field: Maiden of the Lake[2/6], Bloodworm[4/4], Reckless Rocketeer[5/1], Sea Giant[8/8], Tortollan Primalist[5/4], Archmage[4/7]
+Opponent: Rexxar HP: 0, Mana: 3/8
+  Hand (9)
+  Field: Saronite Taskmaster[2/1], Azerite Elemental[2/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

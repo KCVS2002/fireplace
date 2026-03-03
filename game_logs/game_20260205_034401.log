@@ -1,0 +1,201 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (6): Tomb Lurker, Corpse Raiser, Cloud Prince, Emerald Reaver, Lowly Squire, Ogre Brute
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Blackwing Technician (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 3, Step 7] Opponent: 공격 - Blackwing Technician[2/4] -> Ogre Brute
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Emerald Reaver (코스트: 1)
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Kezan Mystic
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/4
+  Hand (6): Tomb Lurker, Corpse Raiser, Cloud Prince, Lowly Squire, Tortollan Primalist, Cabalist's Tome
+  Field: Ogre Brute[4/2], Emerald Reaver[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/4
+  Hand (5)
+  Field: Kezan Mystic[4/2]
+[Turn 4, Step 10] Agent: 공격 - Ogre Brute[4/2] -> Kezan Mystic
+[Turn 4, Step 11] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Ram Wrangler (코스트: 5)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 공격 - Emerald Reaver[2/1] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/5
+  Hand (6): Tomb Lurker, Corpse Raiser, Cloud Prince, Tortollan Primalist, Cabalist's Tome, Arcane Keysmith
+  Field: Emerald Reaver[2/1], Lowly Squire[2/2]
+Opponent: Rexxar HP: 26, Mana: 0/5
+  Hand (5)
+  Field: Ram Wrangler[3/3]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 5, Step 15] Opponent: 선택 - Demonic Project
+[Turn 5, Step 15] Opponent: 공격 - Ram Wrangler[3/3] -> Lowly Squire
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Tomb Lurker (코스트: 5)
+[Turn 6, Step 17] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 6, Step 18] Agent: 공격 - Emerald Reaver[2/1] -> Ram Wrangler
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Dinomancy (코스트: 2)
+[Turn 6, Step 19] Opponent: 카드 플레이 - Demonic Project (코스트: 2)
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/7
+  Hand (6): Corpse Raiser, Cloud Prince, Lakkari Felhound, Cabalist's Tome, Arcane Keysmith, Backstreet Leper
+  Field: Tomb Lurker[5/3], Murloc Tidecaller[1/2]
+Opponent: Rexxar HP: 26, Mana: 3/7
+  Hand (5)
+  Field: Kabal Courier[2/2]
+[Turn 7, Step 20] Agent: 카드 플레이 - Corpse Raiser -> Tomb Lurker (코스트: 5)
+[Turn 7, Step 21] Agent: 공격 - Murloc Tidecaller[1/2] -> Rexxar
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 23] Agent: 공격 - Tomb Lurker[5/3] -> Kabal Courier
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/8
+  Hand (6): Cloud Prince, Lakkari Felhound, Cabalist's Tome, Arcane Keysmith, Backstreet Leper, Hemet, Jungle Hunter
+  Field: Tomb Lurker[5/1], Murloc Tidecaller[1/2], Corpse Raiser[3/3]
+Opponent: Rexxar HP: 25, Mana: 8/8
+  Hand (6)
+[Turn 8, Step 25] Agent: 카드 플레이 - Lakkari Felhound (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Tomb Lurker[5/1] -> Rexxar
+[Turn 8, Step 27] Agent: 영웅 능력 사용 -> Murloc Tidecaller
+[Turn 8, Step 28] Agent: 공격 - Murloc Tidecaller[1/1] -> Rexxar
+[Turn 8, Step 29] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 29] Opponent: 카드 플레이 - Marin the Fox (코스트: 8)
+[Turn 8, Step 29] Opponent: 카드 플레이 - Hungry Crab -> Murloc Tidecaller (코스트: 1)
+[Turn 8, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (4): Cabalist's Tome, Backstreet Leper, Hemet, Jungle Hunter, Booty Bay Bookie
+  Field: Tomb Lurker[5/1], Master Chest[0/8], Corpse Raiser[3/3], Lakkari Felhound[3/8]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (5)
+  Field: Marin the Fox[6/6], Hungry Crab[3/4]
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Master Chest
+[Turn 9, Step 31] Agent: 공격 - Corpse Raiser[3/3] -> Marin the Fox
+[Turn 9, Step 32] Agent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 9, Step 33] Agent: 공격 - Lakkari Felhound[3/8] -> Marin the Fox
+[Turn 9, Step 34] Agent: 공격 - Tomb Lurker[5/1] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/9
+  Hand (3): Cabalist's Tome, Hemet, Jungle Hunter, Booty Bay Bookie
+  Field: Tomb Lurker[5/1], Master Chest[0/7], Lakkari Felhound[3/2], Backstreet Leper[3/1]
+Opponent: Rexxar HP: 14, Mana: 0/9
+  Hand (5)
+  Field: Hungry Crab[3/4]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 카드 플레이 - Boulderfist Ogre (코스트: 6)
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Lakkari Felhound[3/2] -> Hungry Crab
+[Turn 10, Step 37] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 10, Step 38] Agent: 카드 플레이 - Nightmare Amalgam (코스트: 3)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/10
+  Hand (2): Cabalist's Tome, Hemet, Jungle Hunter
+  Field: Tomb Lurker[5/1], Master Chest[0/7], Backstreet Leper[3/1], Booty Bay Bookie[3/3], Nightmare Amalgam[3/4]
+Opponent: Rexxar HP: 13, Mana: 4/10
+  Hand (6)
+  Field: Hungry Crab[3/1], Boulderfist Ogre[6/7]
+[Turn 10, Step 40] Agent: 공격 - Backstreet Leper[3/1] -> Boulderfist Ogre
+[Turn 10, Step 41] Agent: 공격 - Tomb Lurker[5/1] -> Hungry Crab
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Boulderfist Ogre[6/4] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 영웅 능력 사용 -> Nightmare Amalgam
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 공격 - Nightmare Amalgam[5/6] -> Rexxar
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Booty Bay Bookie
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (3): Big Ol' Whelp, Cabalist's Tome, Hemet, Jungle Hunter
+  Field: Master Chest[0/7], Booty Bay Bookie[3/2], Nightmare Amalgam[5/6], Tomb Lurker[5/3]
+Opponent: Rexxar HP: 6, Mana: 8/10
+  Hand (7)
+  Field: Boulderfist Ogre[6/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 5)
+[Turn 10, Step 46] Agent: 공격 - Tomb Lurker[5/3] -> Rexxar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 47] Opponent: 공격 - Boulderfist Ogre[6/4] -> Master Chest
+[Turn 10, Step 47] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 10, Step 47] Opponent: 공격 - Skaterbot[1/1] -> Tomb Lurker
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Booty Bay Bookie
+[Turn 10, Step 49] Agent: 카드 플레이 - Cairne Bloodhoof (코스트: 6)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (3): Cabalist's Tome, Hemet, Jungle Hunter, Skeram Cultist
+  Field: Master Chest[0/1], Booty Bay Bookie[3/1], Nightmare Amalgam[5/6], Tomb Lurker[5/2], Big Ol' Whelp[5/5], Cairne Bloodhoof[4/5]
+Opponent: Rexxar HP: 1, Mana: 6/10
+  Hand (6)
+  Field: Boulderfist Ogre[6/4], SN1P-SN4P[2/3]
+[Turn 10, Step 50] Agent: 공격 - Big Ol' Whelp[5/5] -> Rexxar
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 2/10
+  Hand (3): Cabalist's Tome, Hemet, Jungle Hunter, Skeram Cultist
+  Field: Master Chest[0/1], Booty Bay Bookie[3/1], Nightmare Amalgam[5/6], Tomb Lurker[5/2], Big Ol' Whelp[5/5], Cairne Bloodhoof[4/5]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (6)
+  Field: Boulderfist Ogre[6/4], SN1P-SN4P[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

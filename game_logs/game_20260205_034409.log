@@ -1,0 +1,325 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Murloc Tidecaller
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/2
+  Hand (5): Beckoner of Evil, Felsoul Inquisitor, Mecha'thun, Spellward Jeweler, Dalaran Crusader
+  Field: Murloc Tidecaller[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Scarab Egg[0/2]
+[Turn 2, Step 5] Agent: 공격 - Murloc Tidecaller[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 2, Step 6] Opponent: 선택 - The Amazing Reno
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Beckoner of Evil (코스트: 2)
+[Turn 3, Step 8] Agent: 공격 - Murloc Tidecaller[1/1] -> Scarab Egg
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 공격 - Kabal Courier[2/2] -> Beckoner of Evil
+[Turn 3, Step 9] Opponent: 카드 플레이 - King's Elekk (코스트: 2)
+[Turn 3, Step 9] Opponent: 영웅 능력 사용
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (6): Felsoul Inquisitor, Mecha'thun, Spellward Jeweler, Dalaran Crusader, Mana Reservoir, Old Murk-Eye
+  Field: Murloc Tidecaller[1/1], Beckoner of Evil[2/1]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (6)
+  Field: Scarab Egg[0/1], King's Elekk[3/2]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 4, Step 11] Agent: 공격 - Beckoner of Evil[2/1] -> King's Elekk
+[Turn 4, Step 12] Agent: 공격 - Murloc Tidecaller[1/1] -> Scarab
+[Turn 4, Step 13] Agent: 카드 플레이 - Mana Reservoir (코스트: 2)
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (6): Felsoul Inquisitor, Mecha'thun, Spellward Jeweler, Dalaran Crusader, Old Murk-Eye, Saboteur
+  Field: Mana Reservoir[0/6]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+  Field: Scarab[1/1], Scarab[1/1]
+[Turn 5, Step 15] Agent: 카드 플레이 - Spellward Jeweler (코스트: 3)
+[Turn 5, Step 16] Agent: 영웅 능력 사용 -> Scarab
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 5, Step 17] Opponent: 공격 - Scarab[1/1] -> Mana Reservoir
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 19] Agent: 카드 플레이 - Saboteur (코스트: 3)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/6
+  Hand (5): Felsoul Inquisitor, Mecha'thun, Dalaran Crusader, Old Murk-Eye, Auctionmaster Beardo
+  Field: Mana Reservoir[0/5], Spellward Jeweler[3/4], Saboteur[4/3]
+Opponent: Rexxar HP: 29, Mana: 1/6
+  Hand (7)
+  Field: Scarab[1/1], Barnes[3/4], Finja, the Flying Star[1/1]
+[Turn 6, Step 20] Agent: 공격 - Spellward Jeweler[3/4] -> Barnes
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 공격 - Finja, the Flying Star[1/1] -> Mana Reservoir
+[Turn 6, Step 21] Opponent: 카드 플레이 - Wasteland Assassin (코스트: 5)
+[Turn 6, Step 21] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 6, Step 21] Opponent: 공격 - Barnes[3/1] -> Mana Reservoir
+[Turn 6, Step 21] Opponent: 공격 - Scarab[1/1] -> Jaina Proudmoore
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 7, Step 23] Agent: 영웅 능력 사용 -> Scarab
+[Turn 7, Step 24] Agent: 공격 - Saboteur[4/3] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/7
+  Hand (5): Felsoul Inquisitor, Mecha'thun, Dalaran Crusader, Old Murk-Eye, Lorewalker Cho
+  Field: Spellward Jeweler[3/1], Saboteur[4/3], Auctionmaster Beardo[3/4]
+Opponent: Rexxar HP: 25, Mana: 0/7
+  Hand (6)
+  Field: Barnes[3/1], Finja, the Flying Star[1/1], Wasteland Assassin[4/1], Mad Bomber[3/2]
+[Turn 7, Step 25] Agent: 공격 - Spellward Jeweler[3/1] -> Barnes
+[Turn 7, Step 26] Agent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 7, Step 27] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 27] Opponent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 7, Step 27] Opponent: 공격 - Mad Bomber[3/2] -> Lorewalker Cho
+[Turn 7, Step 27] Opponent: 턴 종료
+[Turn 8, Step 28] Agent: 카드 플레이 - Felsoul Inquisitor (코스트: 4)
+[Turn 8, Step 29] Agent: 영웅 능력 사용 -> Auctionmaster Beardo
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/8
+  Hand (4): Ice Rager, Mecha'thun, Dalaran Crusader, Old Murk-Eye
+  Field: Saboteur[4/3], Lorewalker Cho[0/1], Felsoul Inquisitor[1/6]
+Opponent: Rexxar HP: 25, Mana: 4/8
+  Hand (6)
+  Field: Finja, the Flying Star[1/1], Wasteland Assassin[4/1], Mad Bomber[3/2], Troll Batrider[3/3]
+[Turn 8, Step 30] Agent: 공격 - Saboteur[4/3] -> Mad Bomber
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 8, Step 31] Opponent: 공격 - Wasteland Assassin[4/1] -> Felsoul Inquisitor
+[Turn 8, Step 31] Opponent: 공격 - Troll Batrider[3/3] -> Felsoul Inquisitor
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Finja, the Flying Star
+[Turn 9, Step 33] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 9, Step 34] Agent: 카드 플레이 - Ice Rager (코스트: 3)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/9
+  Hand (3): Mecha'thun, Dalaran Crusader, Old Murk-Eye
+  Field: Lorewalker Cho[0/1], Mana Cyclone[2/2], Ice Rager[5/2]
+Opponent: Rexxar HP: 25, Mana: 6/9
+  Hand (6)
+  Field: Wasteland Assassin[4/1], Troll Batrider[3/2], Murloc Warleader[3/3]
+[Turn 9, Step 35] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 35] Opponent: 공격 - Troll Batrider[3/2] -> Lorewalker Cho
+[Turn 9, Step 35] Opponent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+[Turn 9, Step 35] Opponent: 공격 - Murloc Warleader[3/3] -> Ice Rager
+[Turn 9, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 37] Agent: 공격 - Mana Cyclone[2/2] -> Rexxar
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - The Boogeymonster (코스트: 8)
+[Turn 10, Step 38] Opponent: 공격 - Wasteland Assassin[4/1] -> Mana Cyclone
+[Turn 10, Step 38] Opponent: 공격 - Hoarding Dragon[5/6] -> Jaina Proudmoore
+[Turn 10, Step 38] Opponent: 공격 - Troll Batrider[3/2] -> Jaina Proudmoore
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Hoarding Dragon
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (5): Cloud Prince, Mecha'thun, Dalaran Crusader, Old Murk-Eye, Ruststeed Raider
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (6)
+  Field: Troll Batrider[3/2], Hoarding Dragon[5/5], The Boogeymonster[6/7]
+[Turn 10, Step 40] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 10, Step 41] Agent: 공격 - Ruststeed Raider[5/8] -> Hoarding Dragon
+[Turn 10, Step 42] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 43] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 10, Step 44] Agent: 공격 - Old Murk-Eye[2/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (4): Cloud Prince, Mecha'thun, Dalaran Crusader, The Coin
+  Field: Ruststeed Raider[5/3], Old Murk-Eye[2/4]
+Opponent: Rexxar HP: 20, Mana: 0/10
+  Hand (6)
+  Field: Troll Batrider[3/2], The Boogeymonster[6/7]
+[Turn 10, Step 45] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Chef Nomi (코스트: 7)
+[Turn 10, Step 46] Opponent: 공격 - Troll Batrider[3/2] -> Ruststeed Raider
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 카드 플레이 - Cloud Prince (코스트: 5)
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Troll Batrider
+[Turn 10, Step 49] Agent: 공격 - Old Murk-Eye[2/4] -> The Boogeymonster
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (3): Mecha'thun, Dalaran Crusader, Potion Vendor
+  Field: Cloud Prince[4/4]
+Opponent: Rexxar HP: 20, Mana: 3/10
+  Hand (6)
+  Field: The Boogeymonster[6/5], Chef Nomi[6/6]
+[Turn 10, Step 50] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 공격 - Chef Nomi[6/6] -> Potion Vendor
+[Turn 10, Step 51] Opponent: 카드 플레이 - The Amazing Reno (코스트: 10)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 카드 플레이 - Skeram Cultist (코스트: 6)
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 54] Opponent: 공격 - Charged Devilsaur[7/7] -> Skeram Cultist
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (3): Mecha'thun, Dalaran Crusader, Red Mana Wyrm
+Opponent: The Amazing Reno HP: 20, Mana: 2/10
+  Hand (6)
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 56] Agent: 카드 플레이 - Red Mana Wyrm (코스트: 5)
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - Mimiron's Head (코스트: 5)
+[Turn 10, Step 57] Opponent: 카드 플레이 - Doppelgangster (코스트: 5)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Doppelgangster
+[Turn 10, Step 59] Agent: 카드 플레이 - Dalaran Crusader (코스트: 5)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/10
+  Hand (3): Mecha'thun, Cursed!, Raid Leader
+  Field: Red Mana Wyrm[2/6], Dalaran Crusader[5/4]
+Opponent: The Amazing Reno HP: 20, Mana: 0/10
+  Hand (5)
+  Field: Mimiron's Head[4/5], Doppelgangster[2/1], Doppelgangster[2/2], Doppelgangster[2/2]
+[Turn 10, Step 60] Agent: 공격 - Red Mana Wyrm[2/6] -> Mimiron's Head
+[Turn 10, Step 61] Agent: 카드 플레이 - Cursed! (코스트: 2)
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 62] Opponent: 공격 - Doppelgangster[2/2] -> Dalaran Crusader
+[Turn 10, Step 62] Opponent: 공격 - Doppelgangster[2/2] -> Jaina Proudmoore
+[Turn 10, Step 62] Opponent: 공격 - Mimiron's Head[4/3] -> Red Mana Wyrm
+[Turn 10, Step 62] Opponent: 공격 - Doppelgangster[2/1] -> Dalaran Crusader
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 카드 플레이 - Mecha'thun (코스트: 10)
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 10, Step 64] Opponent: 공격 - Worgen Abomination[6/6] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 10, Step 64] Opponent: 공격 - Doppelgangster[2/2] -> Jaina Proudmoore
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (3): Raid Leader, Genzo, the Shark, Wolfrider
+  Field: Mecha'thun[10/10]
+Opponent: The Amazing Reno HP: 20, Mana: 2/10
+  Hand (7)
+  Field: Doppelgangster[2/2], Worgen Abomination[6/6], Countess Ashmore[6/6], Depth Charge[0/5]
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Countess Ashmore
+[Turn 10, Step 66] Agent: 공격 - Mecha'thun[10/10] -> Worgen Abomination
+[Turn 10, Step 67] Agent: 카드 플레이 - Raid Leader (코스트: 3)
+[Turn 10, Step 68] Agent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 10, Step 69] Agent: 공격 - Wolfrider[4/1] -> Doppelgangster
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (1): Genzo, the Shark
+  Field: Mecha'thun[11/4], Raid Leader[2/2]
+Opponent: The Amazing Reno HP: 20, Mana: 2/10
+  Hand (7)
+  Field: Countess Ashmore[6/5], Depth Charge[0/5]
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Burly Shovelfist (코스트: 9)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Dragon Egg (코스트: 1)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 10, Step 72] Agent: 영웅 능력 사용 -> Ogre Brute
+[Turn 10, Step 73] Agent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 카드 플레이 - Majordomo Executus (코스트: 9)
+[Turn 10, Step 74] Opponent: 공격 - Burly Shovelfist[9/6] -> Genzo, the Shark
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (1): Soot Spewer
+  Field: Ogre Brute[4/3]
+Opponent: The Amazing Reno HP: 20, Mana: 1/10
+  Hand (6)
+  Field: Burly Shovelfist[9/1], Dragon Egg[0/2], Majordomo Executus[9/7]
+[Turn 10, Step 75] Agent: 공격 - Ogre Brute[4/3] -> Burly Shovelfist
+[Turn 10, Step 76] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+[Turn 10, Step 77] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 78] Opponent: 공격 - Majordomo Executus[9/7] -> Ogre Brute
+[Turn 10, Step 78] Opponent: 카드 플레이 - Arcane Intellect (코스트: 3)
+[Turn 10, Step 78] Opponent: 공격 - Burly Shovelfist[3/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 79) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 5/10
+  Hand (0): 
+  Field: Soot Spewer[3/2]
+Opponent: The Amazing Reno HP: 20, Mana: 2/10
+  Hand (7)
+  Field: Burly Shovelfist[9/1], Dragon Egg[0/2], Majordomo Executus[9/3], Burly Shovelfist[3/3], Subject 9[4/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

@@ -1,0 +1,395 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (5): Snowchugger, Tauren Warrior, Ice Barrier, Scarlet Crusader, Gorillabot A-3
+  Field: Unpowered Mauler[2/4], Lost Spirit[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (6)
+  Field: Bloodmage Thalnos[1/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(83) → 5로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 4, Step 6] Agent: 선택 - Galvanizer
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 4, Step 6] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(47) → 13로 보정
+[Turn 5, Step 8] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Bloodmage Thalnos[1/1] -> Gorillabot A-3
+[Turn 5, Step 9] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 5, Step 9] Opponent: 카드 플레이 - Squirming Tentacle (코스트: 3)
+[Turn 5, Step 9] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (7): Snowchugger, Tauren Warrior, Ice Barrier, Scarlet Crusader, Galvanizer, Igneous Elemental, Kezan Mystic
+  Field: Unpowered Mauler[2/4], Lost Spirit[1/1], Gorillabot A-3[3/3]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (6)
+  Field: Squirming Tentacle[2/4]
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(49) → 9로 보정
+[Turn 6, Step 11] Agent: 공격 - Gorillabot A-3[3/3] -> Squirming Tentacle
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Squirming Tentacle
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/7
+  Hand (7): Snowchugger, Tauren Warrior, Ice Barrier, Scarlet Crusader, Galvanizer, Kezan Mystic, Big Ol' Whelp
+  Field: Unpowered Mauler[2/4], Lost Spirit[1/1], Gorillabot A-3[3/1], Igneous Elemental[2/3]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (7)
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(83) → 6로 보정
+[Turn 7, Step 15] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 7, Step 16] Agent: 공격 - Igneous Elemental[2/3] -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 7, Step 17] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/8
+  Hand (6): Tauren Warrior, Ice Barrier, Scarlet Crusader, Galvanizer, Big Ol' Whelp, Injured Kvaldir
+  Field: Unpowered Mauler[2/4], Lost Spirit[1/1], Gorillabot A-3[3/1], Igneous Elemental[2/3], Kezan Mystic[4/3], Snowchugger[2/3]
+Opponent: Rexxar HP: 24, Mana: 3/7
+  Hand (7)
+  Field: Sandbinder[2/4]
+[Turn 8, Step 20] Agent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 21] Agent: 카드 플레이 - Ice Barrier (코스트: 3)
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 8, Step 22] Agent: 공격 - Unpowered Mauler[2/4] -> Sandbinder
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(62) → 8로 보정
+[Turn 8, Step 23] Agent: 공격 - Kezan Mystic[4/3] -> Sandbinder
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 영웅 능력 사용
+[Turn 8, Step 24] Opponent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 8, Step 24] Opponent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 9/9
+  Hand (5): Tauren Warrior, Scarlet Crusader, Big Ol' Whelp, Injured Kvaldir, Wyrmrest Purifier
+  Field: Unpowered Mauler[2/2], Lost Spirit[1/1], Gorillabot A-3[3/1], Igneous Elemental[2/3], Kezan Mystic[4/1], Snowchugger[2/3], Galvanizer[1/2]
+Opponent: Rexxar HP: 24, Mana: 0/8
+  Hand (6)
+  Field: Master of Ceremonies[4/2], Thunder Lizard[3/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(71) → 11로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Thunder Lizard
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(56) → 18로 보정
+[Turn 9, Step 26] Agent: 공격 - Galvanizer[1/2] -> Thunder Lizard
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 9, Step 27] Agent: 카드 플레이 - Scarlet Crusader (코스트: 3)
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(56) → 8로 보정
+[Turn 9, Step 28] Agent: 공격 - Igneous Elemental[2/3] -> Master of Ceremonies
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(94) → 10로 보정
+[Turn 9, Step 29] Agent: 공격 - Kezan Mystic[4/1] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/9
+  Hand (6): Tauren Warrior, Big Ol' Whelp, Injured Kvaldir, Wyrmrest Purifier, Flame Elemental, Flame Elemental
+  Field: Unpowered Mauler[2/2], Lost Spirit[1/1], Gorillabot A-3[3/1], Kezan Mystic[4/1], Snowchugger[2/3], Scarlet Crusader[3/1]
+Opponent: Rexxar HP: 20, Mana: 0/8
+  Hand (6)
+  Field: Thunder Lizard[3/1]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 9, Step 30] Agent: 공격 - Gorillabot A-3[3/1] -> Thunder Lizard
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Gurubashi Berserker (코스트: 5)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(40) → 16로 보정
+[Turn 10, Step 33] Agent: 공격 - Lost Spirit[1/1] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(37) → 15로 보정
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Gurubashi Berserker
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/10
+  Hand (6): Tauren Warrior, Big Ol' Whelp, Injured Kvaldir, Wyrmrest Purifier, Flame Elemental, Flame Elemental
+  Field: Unpowered Mauler[2/2], Lost Spirit[1/1], Kezan Mystic[4/1], Snowchugger[2/3], Scarlet Crusader[3/1], Gurubashi Berserker[5/6]
+Opponent: Rexxar HP: 19, Mana: 1/9
+  Hand (5)
+  Field: Kobold Monk[3/6], Coppertail Imposter[4/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(64) → 31로 보정
+[Turn 10, Step 36] Agent: 공격 - Gurubashi Berserker[5/6] -> Kobold Monk
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(57) → 27로 보정
+[Turn 10, Step 37] Agent: 공격 - Scarlet Crusader[3/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(92) → 11로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Lost Spirit
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(32) → 4로 보정
+[Turn 10, Step 39] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/10
+  Hand (6): Tauren Warrior, Big Ol' Whelp, Injured Kvaldir, Flame Elemental, Flame Elemental, Thrallmar Farseer
+  Field: Unpowered Mauler[3/2], Kezan Mystic[5/1], Snowchugger[3/3], Scarlet Crusader[4/1], Gurubashi Berserker[9/3], Wyrmrest Purifier[3/2]
+Opponent: Rexxar HP: 16, Mana: 10/10
+  Hand (6)
+  Field: Kobold Monk[3/1], Coppertail Imposter[4/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(25) → 12로 보정
+[Turn 10, Step 40] Agent: 공격 - Snowchugger[3/3] -> Coppertail Imposter
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(16) → 6로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Thrallmar Farseer (코스트: 3)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(31) → 7로 보정
+[Turn 10, Step 42] Agent: 공격 - Kezan Mystic[5/1] -> Coppertail Imposter
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(37) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Kobold Monk[3/1] -> Unpowered Mauler
+[Turn 10, Step 44] Opponent: 카드 플레이 - Eldritch Horror (코스트: 8)
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Tauren Warrior, Big Ol' Whelp, Flame Elemental, Flame Elemental, Rolling Fireball
+  Field: Scarlet Crusader[4/1], Gurubashi Berserker[9/3], Wyrmrest Purifier[3/2], Thrallmar Farseer[2/3], Injured Kvaldir[2/1]
+Opponent: Rexxar HP: 16, Mana: 0/10
+  Hand (6)
+  Field: Eldritch Horror[6/10]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(83) → 25로 보정
+[Turn 10, Step 45] Agent: 공격 - Thrallmar Farseer[2/3] -> Rexxar
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Eldritch Horror
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(51) → 9로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Rolling Fireball -> Injured Kvaldir (코스트: 5)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 48] Agent: 공격 - Gurubashi Berserker[12/1] -> Eldritch Horror
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/10
+  Hand (3): Tauren Warrior, Big Ol' Whelp, Flame Elemental
+  Field: Scarlet Crusader[4/1], Flame Elemental[1/2]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (6)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Hyena Alpha (코스트: 4)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(60) → 4로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(35) → 7로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Flame Elemental
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Tauren Warrior (코스트: 3)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 10, Step 54] Agent: 공격 - Flame Elemental[1/1] -> Silverback Patriarch
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/10
+  Hand (2): Dragon's Fury, Big Ol' Whelp
+  Field: Scarlet Crusader[4/1], Flame Elemental[1/2], Tauren Warrior[2/3]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (5)
+  Field: Questing Explorer[2/3], Hyena Alpha[3/3], Silverback Patriarch[1/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 10, Step 55] Agent: 공격 - Scarlet Crusader[4/1] -> Silverback Patriarch
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Amani War Bear (코스트: 7)
+[Turn 10, Step 56] Opponent: 공격 - Hyena Alpha[3/3] -> Tauren Warrior
+[Turn 10, Step 56] Opponent: 공격 - Amani War Bear[7/9] -> Scarlet Crusader
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(40) → 7로 보정
+[Turn 10, Step 57] Agent: 영웅 능력 사용 -> Hyena Alpha
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Dragon's Fury (코스트: 5)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(73) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (3): Big Ol' Whelp, Frost Lich Jaina, Conjurer's Calling
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (6)
+  Field: Amani War Bear[7/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Big Ol' Whelp (코스트: 5)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 영웅 능력 사용
+[Turn 10, Step 62] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(93) → 9로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Sunborne Val'kyr
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(82) → 5로 보정
+[Turn 10, Step 64] Agent: 공격 - Big Ol' Whelp[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/10
+  Hand (4): Frost Lich Jaina, Conjurer's Calling, Flame Leviathan, Volcanic Potion
+  Field: Big Ol' Whelp[5/3]
+Opponent: Rexxar HP: 7, Mana: 3/10
+  Hand (6)
+  Field: Sunborne Val'kyr[5/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Flame Leviathan (코스트: 7)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Gilnean Royal Guard (코스트: 8)
+[Turn 10, Step 66] Opponent: 공격 - Gilnean Royal Guard[8/3] -> Flame Leviathan
+[Turn 10, Step 66] Opponent: 공격 - Sunborne Val'kyr[5/3] -> Big Ol' Whelp
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 10, Step 67] Agent: 카드 플레이 - Frost Lich Jaina (코스트: 9)
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 68] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 68] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 68] Opponent: 카드 플레이 - Blowgill Sniper -> Blackwater Pirate (코스트: 2)
+[Turn 10, Step 68] Opponent: 턴 종료
+[Turn 10, Step 69] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 69] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 69] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Frost Lich Jaina HP: 17, Mana: 10/10
+  Hand (5): Conjurer's Calling, Volcanic Potion, Research Project, Splitting Image, Wee Spellstopper
+  Field: Water Elemental[3/6]
+Opponent: Rexxar HP: 7, Mana: 6/10
+  Hand (5)
+  Field: Gilnean Royal Guard[8/3], Blackwater Pirate[2/4], Blowgill Sniper[2/1], Rustsworn Cultist[3/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(27) → 5로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Conjurer's Calling -> Rustsworn Cultist (코스트: 4)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(50) → 4로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Wee Spellstopper (코스트: 4)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(25) → 11로 보정
+[Turn 10, Step 72] Agent: 공격 - Water Elemental[3/6] -> Gilnean Royal Guard
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(86) → 5로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Blowgill Sniper
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Frost Lich Jaina HP: 20, Mana: 10/10
+  Hand (5): Volcanic Potion, Research Project, Splitting Image, Conjurer's Calling, Astral Rift
+  Field: Tanaris Hogchopper[4/4], Blood Witch[3/6], Wee Spellstopper[2/5], Water Elemental[3/6]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (6)
+  Field: Blackwater Pirate[2/4], Rusted Devil[1/1], Rusted Devil[1/1]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(65) → 32로 보정
+[Turn 10, Step 75] Agent: 공격 - Water Elemental[3/6] -> Rusted Devil
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(33) → 9로 보정
+[Turn 10, Step 76] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(63) → 9로 보정
+[Turn 10, Step 77] Agent: 공격 - Tanaris Hogchopper[4/4] -> Rexxar
+[Turn 10, Step 78] Agent: 공격 - Blood Witch[3/6] -> Rusted Devil
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Astral Rift (코스트: 2)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Frost Lich Jaina HP: 23, Mana: 6/10
+  Hand (6): Volcanic Potion, Research Project, Splitting Image, Conjurer's Calling, Air Elemental, Imprisoned Scrap Imp
+  Field: Tanaris Hogchopper[4/4], Blood Witch[3/5], Wee Spellstopper[2/5], Water Elemental[3/5]
+Opponent: Rexxar HP: 2, Mana: 10/10
+  Hand (6)
+  Field: Blackwater Pirate[2/4]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 10, Step 80] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 80] Opponent: 턴 종료
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(68) → 22로 보정
+[Turn 10, Step 81] Agent: 공격 - Water Elemental[3/5] -> Blackwater Pirate
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(91) → 7로 보정
+[Turn 10, Step 82] Agent: 카드 플레이 - Air Elemental (코스트: 1)
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 10, Step 83] Agent: 공격 - Blood Witch[3/5] -> Rexxar
+
+--- Game State (Turn 10, Step 84) ---
+Agent: Frost Lich Jaina HP: 26, Mana: 9/10
+  Hand (6): Volcanic Potion, Research Project, Splitting Image, Conjurer's Calling, Imprisoned Scrap Imp, Stargazer Luna
+  Field: Tanaris Hogchopper[4/4], Blood Witch[3/5], Wee Spellstopper[2/5], Water Elemental[3/3], Air Elemental[2/1]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+  Field: Blackwater Pirate[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

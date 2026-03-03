@@ -1,0 +1,292 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Wyrmrest Purifier
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (4): Cheaty Anklebiter, Kel'Thuzad, Dragonmaw Sky Stalker, Cursed Disciple
+  Field: Wyrmrest Purifier[3/1], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (7)
+[Turn 3, Step 5] Agent: 공격 - Wyrmrest Purifier[3/1] -> Rexxar
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Baleful Banker (코스트: 2)
+[Turn 3, Step 6] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 공격 - Wyrmrest Purifier[3/1] -> Baleful Banker
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 영웅 능력 사용 -> Mirror Image
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/5
+  Hand (6): Cheaty Anklebiter, Kel'Thuzad, Dragonmaw Sky Stalker, Cursed Disciple, Arcane Flakmage, Splitting Image
+  Field: Mirror Image[0/2], Mirror Image[0/1]
+Opponent: Rexxar HP: 27, Mana: 2/4
+  Hand (6)
+  Field: Nerubian Egg[0/2]
+[Turn 5, Step 10] Agent: 카드 플레이 - Cheaty Anklebiter -> Nerubian Egg (코스트: 2)
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 영웅 능력 사용
+[Turn 5, Step 11] Opponent: 카드 플레이 - Cat Trick (코스트: 2)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 공격 - Cheaty Anklebiter[2/1] -> Rexxar
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Gadgetzan Jouster
+[Turn 6, Step 14] Agent: 카드 플레이 - Cursed Disciple (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (5): Kel'Thuzad, Dragonmaw Sky Stalker, Arcane Flakmage, Splitting Image, Conjurer's Calling
+  Field: Mirror Image[0/2], Mirror Image[0/1], Cheaty Anklebiter[2/1], Cursed Disciple[5/1]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (5)
+  Field: Nerubian Egg[0/1], Gadgetzan Jouster[1/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 6, Step 15] Opponent: 공격 - Gadgetzan Jouster[1/1] -> Mirror Image
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 공격 - Cursed Disciple[5/1] -> Gadgetzan Jouster
+[Turn 7, Step 17] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+[Turn 7, Step 18] Agent: 카드 플레이 - Conjurer's Calling -> Celestial Emissary (코스트: 4)
+[Turn 7, Step 19] Agent: 공격 - Cheaty Anklebiter[2/1] -> Nerubian Egg
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/7
+  Hand (5): Kel'Thuzad, Dragonmaw Sky Stalker, Arcane Flakmage, Splitting Image, Conjurer's Calling
+  Field: Mirror Image[0/2], Cheaty Anklebiter[2/1], Cursed Revenant[5/1], Doomsayer[0/7], Sunreaver Spy[2/3]
+Opponent: Rexxar HP: 25, Mana: 1/6
+  Hand (5)
+  Field: Nerubian[4/4], Devilsaur Egg[0/3], Cat in a Hat[4/2]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 공격 - Cat in a Hat[4/2] -> Mirror Image
+[Turn 7, Step 20] Opponent: 카드 플레이 - Corridor Creeper (코스트: 0)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Dragonmaw Sky Stalker (코스트: 6)
+[Turn 8, Step 22] Agent: 카드 플레이 - Arcane Flakmage (코스트: 2)
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Hogger (코스트: 6)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 8, Step 23] Opponent: 공격 - Devilsaur[5/5] -> Jaina Proudmoore
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Conjurer's Calling -> Gnoll (코스트: 4)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/9
+  Hand (4): Kel'Thuzad, Splitting Image, Rhonin, Primordial Glyph
+  Field: Dragonmaw Sky Stalker[5/6], Arcane Flakmage[3/2], Redband Wasp[1/3], Novice Engineer[1/1]
+Opponent: Rexxar HP: 25, Mana: 0/8
+  Hand (4)
+  Field: Devilsaur[5/5], Hogger[4/4], Cat in a Hat[4/2]
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Hogger
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Kel'Thuzad (코스트: 8)
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Kel'Thuzad
+[Turn 10, Step 29] Agent: 공격 - Dragonmaw Sky Stalker[5/6] -> Gnoll
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (4): Splitting Image, Rhonin, Primordial Glyph, Water Elemental
+  Field: Dragonmaw Sky Stalker[5/4], Arcane Flakmage[3/2], Redband Wasp[1/3], Novice Engineer[1/1], Kel'Thuzad[6/7]
+Opponent: Rexxar HP: 25, Mana: 9/9
+  Hand (5)
+  Field: Devilsaur[5/5], Hogger[4/3], Cat in a Hat[4/2]
+[Turn 10, Step 30] Agent: 공격 - Redband Wasp[1/3] -> Hogger
+[Turn 10, Step 31] Agent: 공격 - Arcane Flakmage[3/2] -> Hogger
+[Turn 10, Step 32] Agent: 공격 - Novice Engineer[1/1] -> Devilsaur
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Cat in a Hat[4/2] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 카드 플레이 - Frozen Crusher (코스트: 6)
+[Turn 10, Step 33] Opponent: 공격 - Devilsaur[5/4] -> Jaina Proudmoore
+[Turn 10, Step 33] Opponent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Redband Wasp[1/3] -> Cat in a Hat
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (5): Splitting Image, Rhonin, Primordial Glyph, Water Elemental, Faceless Summoner
+  Field: Dragonmaw Sky Stalker[5/4], Kel'Thuzad[6/7], Novice Engineer[1/1], Arcane Flakmage[3/2]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (5)
+  Field: Devilsaur[5/4], Cat in a Hat[4/1], Frozen Crusher[8/8], Replicating Menace[3/1]
+[Turn 10, Step 35] Agent: 공격 - Novice Engineer[1/1] -> Replicating Menace
+[Turn 10, Step 36] Agent: 공격 - Arcane Flakmage[3/2] -> Devilsaur
+[Turn 10, Step 37] Agent: 영웅 능력 사용 -> Microbot
+[Turn 10, Step 38] Agent: 공격 - Dragonmaw Sky Stalker[5/4] -> Cat in a Hat
+[Turn 10, Step 39] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 5/10
+  Hand (4): Rhonin, Primordial Glyph, Water Elemental, Faceless Summoner
+  Field: Dragonrider[3/4], Kel'Thuzad[6/7]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (5)
+  Field: Devilsaur[5/1], Frozen Crusher[8/8], Microbot[1/1], Microbot[1/1], Cat in a Hat[4/2]
+[Turn 10, Step 40] Agent: 공격 - Kel'Thuzad[6/7] -> Microbot
+[Turn 10, Step 41] Agent: 카드 플레이 - Primordial Glyph (코스트: 2)
+[Turn 10, Step 42] Agent: 선택 - Astral Rift
+[Turn 10, Step 42] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 42] Opponent: 공격 - Frozen Crusher[8/8] -> Dragonmaw Sky Stalker
+[Turn 10, Step 42] Opponent: 공격 - Cat in a Hat[4/2] -> Jaina Proudmoore
+[Turn 10, Step 42] Opponent: 카드 플레이 - Sideshow Spelleater (코스트: 6)
+[Turn 10, Step 42] Opponent: 턴 종료
+[Turn 10, Step 43] Agent: 카드 플레이 - Ray of Frost -> Dragonrider (코스트: 1)
+[Turn 10, Step 44] Agent: 공격 - Kel'Thuzad[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 9/10
+  Hand (5): Rhonin, Water Elemental, Faceless Summoner, Astral Rift, Ray of Frost
+  Field: Dragonrider[3/4], Kel'Thuzad[6/6], Dragonrider[3/4], Redband Wasp[1/3], Novice Engineer[1/1], Arcane Flakmage[3/2], Dragonmaw Sky Stalker[5/6]
+Opponent: Rexxar HP: 19, Mana: 4/10
+  Hand (5)
+  Field: Devilsaur[5/1], Frozen Crusher[8/3], Microbot[1/1], Cat in a Hat[4/2], Cat in a Hat[4/2], Sideshow Spelleater[6/5], Cat in a Hat[4/2]
+[Turn 10, Step 45] Agent: 공격 - Redband Wasp[1/3] -> Sideshow Spelleater
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 47] Agent: 공격 - Dragonrider[3/4] -> Frozen Crusher
+[Turn 10, Step 48] Agent: 공격 - Arcane Flakmage[3/2] -> Cat in a Hat
+[Turn 10, Step 49] Agent: 공격 - Dragonmaw Sky Stalker[5/6] -> Devilsaur
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 7/10
+  Hand (5): Rhonin, Water Elemental, Faceless Summoner, Astral Rift, Ray of Frost
+  Field: Dragonrider[3/4], Kel'Thuzad[6/6], Novice Engineer[1/1], Dragonmaw Sky Stalker[5/1]
+Opponent: Rexxar HP: 18, Mana: 4/10
+  Hand (6)
+  Field: Microbot[1/1], Cat in a Hat[4/2], Sideshow Spelleater[6/4], Cat in a Hat[4/2]
+[Turn 10, Step 50] Agent: 카드 플레이 - Water Elemental (코스트: 4)
+[Turn 10, Step 51] Agent: 카드 플레이 - Ray of Frost -> Sideshow Spelleater (코스트: 1)
+[Turn 10, Step 52] Agent: 공격 - Novice Engineer[1/1] -> Sideshow Spelleater
+[Turn 10, Step 53] Agent: 카드 플레이 - Astral Rift (코스트: 0)
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 54] Opponent: 공격 - Cat in a Hat[4/2] -> Jaina Proudmoore
+[Turn 10, Step 54] Opponent: 공격 - Microbot[1/1] -> Water Elemental
+[Turn 10, Step 54] Opponent: 카드 플레이 - Spring Rocket -> Cat in a Hat (코스트: 3)
+[Turn 10, Step 54] Opponent: 공격 - Cat in a Hat[4/2] -> Dragonmaw Sky Stalker
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (5): Rhonin, Faceless Summoner, Inkmaster Solia, Scalerider, Meteor
+  Field: Dragonrider[3/4], Kel'Thuzad[6/6], Dragonrider[3/4], Arcane Flakmage[3/2], Novice Engineer[1/1], Dragonrider[3/4], Water Elemental[3/5]
+Opponent: Rexxar HP: 18, Mana: 5/10
+  Hand (6)
+  Field: Cat in a Hat[4/2], Sideshow Spelleater[6/3], Cat in a Hat[4/2], Spring Rocket[2/1]
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Dragonrider
+[Turn 10, Step 56] Agent: 공격 - Dragonrider[3/4] -> Sideshow Spelleater
+[Turn 10, Step 57] Agent: 공격 - Novice Engineer[1/1] -> Rexxar
+[Turn 10, Step 58] Agent: 카드 플레이 - Faceless Summoner (코스트: 6)
+[Turn 10, Step 59] Agent: 공격 - Dragonrider[3/4] -> Cat in a Hat
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (4): Rhonin, Inkmaster Solia, Scalerider, Meteor
+  Field: Kel'Thuzad[6/6], Dragonrider[3/3], Arcane Flakmage[3/2], Novice Engineer[1/1], Water Elemental[3/5], Faceless Summoner[5/5]
+Opponent: Rexxar HP: 17, Mana: 5/10
+  Hand (6)
+  Field: Cat in a Hat[4/2], Spring Rocket[2/1]
+[Turn 10, Step 60] Agent: 공격 - Dragonrider[3/3] -> Spring Rocket
+[Turn 10, Step 61] Agent: 공격 - Water Elemental[3/5] -> Rexxar
+[Turn 10, Step 62] Agent: 공격 - Arcane Flakmage[3/2] -> Rexxar
+[Turn 10, Step 63] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 63] Opponent: 공격 - Cat in a Hat[4/2] -> Faceless Summoner
+[Turn 10, Step 63] Opponent: 카드 플레이 - Dr. Boom (코스트: 7)
+[Turn 10, Step 63] Opponent: 영웅 능력 사용 -> Boom Bot
+[Turn 10, Step 63] Opponent: 턴 종료
+[Turn 10, Step 64] Agent: 공격 - Kel'Thuzad[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 10/10
+  Hand (5): Rhonin, Inkmaster Solia, Scalerider, Meteor, Flamecannon
+  Field: Kel'Thuzad[6/6], Novice Engineer[1/1], Dragonrider[3/4], Dragonrider[3/1], Arcane Flakmage[3/2], Water Elemental[3/5], Faceless Summoner[5/1]
+Opponent: Rexxar HP: 5, Mana: 1/10
+  Hand (6)
+  Field: Boom Bot[1/1], Dr. Boom[7/7]
+[Turn 10, Step 65] Agent: 카드 플레이 - Meteor -> Faceless Summoner (코스트: 6)
+[Turn 10, Step 66] Agent: 공격 - Novice Engineer[1/1] -> Boom Bot
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Arcane Flakmage
+[Turn 10, Step 68] Agent: 공격 - Arcane Flakmage[3/1] -> Dr. Boom
+[Turn 10, Step 69] Agent: 공격 - Water Elemental[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 2/10
+  Hand (4): Rhonin, Inkmaster Solia, Scalerider, Flamecannon
+  Field: Kel'Thuzad[6/6], Dragonrider[3/4], Water Elemental[3/2]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (6)
+  Field: Dr. Boom[7/4], Cat in a Hat[4/2]
+[Turn 10, Step 70] Agent: 공격 - Dragonrider[3/4] -> Dr. Boom
+[Turn 10, Step 71] Agent: 카드 플레이 - Flamecannon (코스트: 2)
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 공격 - Cat in a Hat[4/2] -> Arcane Flakmage
+[Turn 10, Step 72] Opponent: 카드 플레이 - Cheaty Anklebiter -> Faceless Summoner (코스트: 2)
+[Turn 10, Step 72] Opponent: 영웅 능력 사용 -> Novice Engineer
+[Turn 10, Step 72] Opponent: 공격 - Dr. Boom[7/1] -> Dragonrider
+[Turn 10, Step 72] Opponent: 카드 플레이 - Junkbot (코스트: 5)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 카드 플레이 - Flamestrike (코스트: 7)
+[Turn 10, Step 74] Agent: 공격 - Water Elemental[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 3/10
+  Hand (3): Rhonin, Inkmaster Solia, Scalerider
+  Field: Kel'Thuzad[6/6], Arcane Flakmage[3/2], Novice Engineer[1/1], Dragonrider[3/4], Faceless Summoner[5/4], Dragonrider[3/4], Water Elemental[3/2]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (5)
+  Field: Junkbot[1/1], Cat in a Hat[4/2]
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 3/10
+  Hand (3): Rhonin, Inkmaster Solia, Scalerider
+  Field: Kel'Thuzad[6/6], Arcane Flakmage[3/2], Novice Engineer[1/1], Dragonrider[3/4], Faceless Summoner[5/4], Dragonrider[3/4], Water Elemental[3/2]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (5)
+  Field: Junkbot[1/1], Cat in a Hat[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

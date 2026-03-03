@@ -1,0 +1,222 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Acherus Veteran (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Acherus Veteran[2/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Mo'arg Artificer (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Quicksand Elemental, Hogger, Doom of Elwynn, Ironforge Rifleman, Naga Sea Witch
+  Field: Acherus Veteran[2/1], Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (4)
+  Field: Mo'arg Artificer[2/4]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 6] Agent: 공격 - Grizzled Wizard[3/2] -> Mo'arg Artificer
+[Turn 3, Step 7] Agent: 공격 - Acherus Veteran[2/1] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Living Dragonbreath (코스트: 3)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Acherus Veteran
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/4
+  Hand (5): Quicksand Elemental, Hogger, Doom of Elwynn, Ironforge Rifleman, Naga Sea Witch, Stoneskin Gargoyle
+Opponent: Rexxar HP: 25, Mana: 0/3
+  Hand (4)
+  Field: Living Dragonbreath[3/4]
+[Turn 4, Step 10] Agent: 카드 플레이 - Quicksand Elemental (코스트: 2)
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Living Dragonbreath[3/4] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 영웅 능력 사용
+[Turn 4, Step 11] Opponent: 카드 플레이 - Spellzerker (코스트: 2)
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Ramkahen Wildtamer (코스트: 3)
+[Turn 5, Step 14] Opponent: 카드 플레이 - Toxic Arrow -> Spellzerker (코스트: 2)
+[Turn 5, Step 14] Opponent: 공격 - Living Dragonbreath[3/4] -> Stoneskin Gargoyle
+[Turn 5, Step 14] Opponent: 공격 - Spellzerker[2/1] -> Quicksand Elemental
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (5): Hogger, Doom of Elwynn, Ironforge Rifleman, Naga Sea Witch, Tar Creeper, Sludge Belcher
+  Field: Stoneskin Gargoyle[1/4]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (4)
+  Field: Living Dragonbreath[3/3], Ramkahen Wildtamer[4/3]
+[Turn 6, Step 15] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 6, Step 16] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Living Dragonbreath
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Bad Luck Albatross (코스트: 4)
+[Turn 6, Step 17] Opponent: 공격 - Living Dragonbreath[3/2] -> Sludge Belcher
+[Turn 6, Step 17] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 7, Step 19] Agent: 카드 플레이 - Ironforge Rifleman -> Tar Creeper (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/7
+  Hand (3): Hogger, Doom of Elwynn, Naga Sea Witch, Arcane Blast
+  Field: Stoneskin Gargoyle[1/4], Sludge Belcher[3/2], Tar Creeper[1/4], Ironforge Rifleman[2/2]
+Opponent: Rexxar HP: 25, Mana: 1/6
+  Hand (3)
+  Field: Ramkahen Wildtamer[4/3], Bad Luck Albatross[4/3], Cogmaster[1/2]
+[Turn 7, Step 20] Agent: 카드 플레이 - Arcane Blast -> Bad Luck Albatross (코스트: 1)
+[Turn 7, Step 21] Agent: 공격 - Sludge Belcher[3/2] -> Bad Luck Albatross
+[Turn 7, Step 22] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Mukla's Champion (코스트: 5)
+[Turn 7, Step 23] Opponent: 공격 - Cogmaster[1/2] -> Putrid Slime
+[Turn 7, Step 23] Opponent: 공격 - Ramkahen Wildtamer[4/3] -> Tar Creeper
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Putrid Slime[1/1] -> Cogmaster
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (3): Hogger, Doom of Elwynn, Naga Sea Witch, Holomancer
+  Field: Stoneskin Gargoyle[1/4], Ironforge Rifleman[2/2]
+Opponent: Rexxar HP: 24, Mana: 0/7
+  Hand (3)
+  Field: Cogmaster[2/1], Mukla's Champion[5/4]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 공격 - Cogmaster[3/2] -> Stoneskin Gargoyle
+[Turn 8, Step 25] Opponent: 공격 - Mukla's Champion[6/5] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 카드 플레이 - Oblivitron (코스트: 6)
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Oblivitron
+[Turn 9, Step 27] Agent: 공격 - Ironforge Rifleman[2/2] -> Mukla's Champion
+[Turn 9, Step 28] Agent: 카드 플레이 - Hogger, Doom of Elwynn (코스트: 7)
+[Turn 9, Step 29] Agent: 영웅 능력 사용 -> Cogmaster
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/9
+  Hand (3): Naga Sea Witch, Holomancer, Arcane Golem
+  Field: Stoneskin Gargoyle[1/1], Hogger, Doom of Elwynn[6/6]
+Opponent: Rexxar HP: 24, Mana: 0/8
+  Hand (3)
+  Field: Mukla's Champion[6/3], Oblivitron[3/3]
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 9, Step 30] Opponent: 공격 - Mukla's Champion[6/3] -> Jaina Proudmoore
+[Turn 9, Step 30] Opponent: 공격 - Oblivitron[3/3] -> Hogger, Doom of Elwynn
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Mechwarper
+[Turn 10, Step 32] Agent: 공격 - Gnoll[2/2] -> Mukla's Champion
+[Turn 10, Step 33] Agent: 카드 플레이 - Flamecannon (코스트: 2)
+[Turn 10, Step 34] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Mukla's Champion
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 6/10
+  Hand (3): Naga Sea Witch, Holomancer, Arcane Golem
+  Field: Hogger, Doom of Elwynn[6/3]
+Opponent: Rexxar HP: 24, Mana: 3/9
+  Hand (2)
+  Field: Maexxna[2/8]
+[Turn 10, Step 35] Agent: 카드 플레이 - Arcane Golem (코스트: 3)
+[Turn 10, Step 36] Agent: 공격 - Hogger, Doom of Elwynn[6/3] -> Maexxna
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 카드 플레이 - Naga Sea Witch (코스트: 8)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 0/10
+  Hand (2): Holomancer, Nesting Roc
+  Field: Gnoll[2/2], Arcane Golem[4/4], Naga Sea Witch[5/5]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (3)
+  Field: Maexxna[2/2]
+[Turn 10, Step 40] Agent: 공격 - Arcane Golem[4/4] -> Rexxar
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 카드 플레이 - Waste Warden -> Naga Sea Witch (코스트: 5)
+[Turn 10, Step 41] Opponent: 공격 - Maexxna[2/2] -> Jaina Proudmoore
+[Turn 10, Step 41] Opponent: 카드 플레이 - Bad Luck Albatross (코스트: 4)
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Naga Sea Witch
+[Turn 10, Step 43] Agent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 10, Step 44] Agent: 공격 - Naga Sea Witch[5/1] -> Maexxna
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 3/10
+  Hand (2): Nesting Roc, Arena Treasure Chest
+  Field: Arcane Golem[4/1], Holomancer[3/3]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (2)
+  Field: Bad Luck Albatross[4/3]
+[Turn 10, Step 45] Agent: 공격 - Arcane Golem[4/1] -> Rexxar
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 카드 플레이 - Charged Devilsaur (코스트: 8)
+[Turn 10, Step 46] Opponent: 공격 - Bad Luck Albatross[4/3] -> Charged Devilsaur
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 공격 - Charged Devilsaur[7/7] -> Arcane Golem
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 공격 - Holomancer[3/3] -> Charged Devilsaur
+[Turn 10, Step 48] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 10, Step 49] Agent: 카드 플레이 - Nesting Roc (코스트: 5)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 1/10
+  Hand (1): Khadgar
+  Field: Arena Treasure Chest[0/4], Nesting Roc[4/7]
+Opponent: Rexxar HP: 15, Mana: 0/10
+  Hand (2)
+  Field: Bad Luck Albatross[4/2]
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 영웅 능력 사용
+[Turn 10, Step 50] Opponent: 공격 - Bad Luck Albatross[4/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 51) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (1): Khadgar
+  Field: Arena Treasure Chest[0/4], Nesting Roc[4/7]
+Opponent: Rexxar HP: 15, Mana: 8/10
+  Hand (3)
+  Field: Bad Luck Albatross[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

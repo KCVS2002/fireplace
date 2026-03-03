@@ -1,0 +1,249 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 1, Step 0] Opponent: 선택 - Rat Trap
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Unstable Ghoul
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (7): Wasteland Scorpid, Arena Fanatic, Master Swordsmith, Mirror Entity, Nerubian Prophet, Daring Fire-Eater, Huge Toad
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (5)
+  Field: Unstable Ghoul[1/2]
+[Turn 4, Step 5] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 6] Agent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 4, Step 7] Opponent: 카드 플레이 - Dreadscale (코스트: 3)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Escaped Manasaber (코스트: 4)
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 공격 - Dreadscale[4/2] -> Huge Toad
+[Turn 5, Step 9] Opponent: 영웅 능력 사용
+[Turn 5, Step 9] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 5, Step 9] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (7): Wasteland Scorpid, Arena Fanatic, Master Swordsmith, Mirror Entity, Nerubian Prophet, Daring Fire-Eater, Gilblin Stalker
+  Field: Escaped Manasaber[3/4]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (4)
+  Field: Jar Dealer[1/1], Kobold Sandtrooper[2/1]
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Jar Dealer
+[Turn 6, Step 11] Agent: 카드 플레이 - Nerubian Prophet (코스트: 2)
+[Turn 6, Step 12] Agent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 6, Step 13] Agent: 공격 - Escaped Manasaber[3/4] -> Rexxar
+[Turn 6, Step 14] Agent: 카드 플레이 - Daring Fire-Eater (코스트: 1)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (4): Wasteland Scorpid, Arena Fanatic, Master Swordsmith, Mirror Entity
+  Field: Escaped Manasaber[3/4], Nerubian Prophet[4/4], Gilblin Stalker[2/3], Daring Fire-Eater[1/1]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (5)
+  Field: Kobold Sandtrooper[2/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 7, Step 17] Agent: 공격 - Daring Fire-Eater[1/1] -> Kobold Sandtrooper
+[Turn 7, Step 18] Agent: 공격 - Gilblin Stalker[2/3] -> Rexxar
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/7
+  Hand (4): Wasteland Scorpid, Master Swordsmith, Mirror Entity, Frostwolf Warlord
+  Field: Escaped Manasaber[3/4], Nerubian Prophet[4/4], Gilblin Stalker[2/3], Arena Fanatic[2/3]
+Opponent: Rexxar HP: 23, Mana: 6/6
+  Hand (6)
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 7, Step 20] Opponent: 카드 플레이 - Ebon Dragonsmith (코스트: 4)
+[Turn 7, Step 20] Opponent: 영웅 능력 사용
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 8, Step 22] Agent: 공격 - Nerubian Prophet[4/4] -> Tournament Attendee
+[Turn 8, Step 23] Agent: 공격 - Escaped Manasaber[3/4] -> Rexxar
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Escaped Manasaber
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/8
+  Hand (4): Twilight Flamecaller, Wasteland Scorpid, Master Swordsmith, Mirror Entity
+  Field: Escaped Manasaber[3/3], Nerubian Prophet[4/2], Gilblin Stalker[2/3], Arena Fanatic[2/3], Frostwolf Warlord[9/9]
+Opponent: Rexxar HP: 20, Mana: 0/7
+  Hand (5)
+  Field: Ebon Dragonsmith[3/4]
+[Turn 8, Step 25] Agent: 공격 - Arena Fanatic[2/3] -> Ebon Dragonsmith
+[Turn 8, Step 26] Agent: 공격 - Gilblin Stalker[2/3] -> Rexxar
+[Turn 8, Step 27] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 카드 플레이 - Fresh Scent -> Escaped Manasaber (코스트: 2)
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 공격 - Escaped Manasaber[5/5] -> Ebon Dragonsmith
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/9
+  Hand (4): Twilight Flamecaller, Wasteland Scorpid, Mirror Entity, Djinni of Zephyrs
+  Field: Escaped Manasaber[5/2], Nerubian Prophet[4/2], Gilblin Stalker[3/3], Frostwolf Warlord[9/9], Master Swordsmith[2/4]
+Opponent: Rexxar HP: 18, Mana: 6/8
+  Hand (6)
+[Turn 9, Step 30] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 31] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 31] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+[Turn 9, Step 31] Opponent: 카드 플레이 - Dancing Swords (코스트: 1)
+[Turn 9, Step 31] Opponent: 공격 - Ruststeed Raider[5/8] -> Frostwolf Warlord
+[Turn 9, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - Nerubian Prophet[5/2] -> Toothy Chest
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Gilblin Stalker
+[Turn 10, Step 34] Agent: 카드 플레이 - Twilight Flamecaller (코스트: 3)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/10
+  Hand (4): Wasteland Scorpid, Mirror Entity, Djinni of Zephyrs, Nerubian Unraveler
+  Field: Escaped Manasaber[5/2], Nerubian Prophet[5/2], Gilblin Stalker[3/2], Frostwolf Warlord[9/4], Master Swordsmith[2/4], Twilight Flamecaller[2/2]
+Opponent: Rexxar HP: 17, Mana: 0/9
+  Hand (4)
+  Field: Dancing Swords[4/3]
+[Turn 10, Step 35] Agent: 공격 - Gilblin Stalker[3/2] -> Rexxar
+[Turn 10, Step 36] Agent: 공격 - Master Swordsmith[2/4] -> Dancing Swords
+[Turn 10, Step 37] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Arena Patron (코스트: 5)
+[Turn 10, Step 38] Opponent: 공격 - Dancing Swords[4/1] -> Escaped Manasaber
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Arena Patron
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (5): Wasteland Scorpid, Djinni of Zephyrs, Nerubian Unraveler, Deadscale Knight, Babbling Book
+  Field: Nerubian Prophet[5/2], Gilblin Stalker[3/2], Frostwolf Warlord[9/4], Twilight Flamecaller[2/2], Arena Patron[3/2]
+Opponent: Rexxar HP: 14, Mana: 5/10
+  Hand (4)
+  Field: Arena Patron[3/3]
+[Turn 10, Step 40] Agent: 카드 플레이 - Djinni of Zephyrs (코스트: 5)
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 10, Step 41] Opponent: 공격 - Arena Patron[3/3] -> Nerubian Prophet
+[Turn 10, Step 41] Opponent: 카드 플레이 - Primordial Explorer (코스트: 3)
+[Turn 10, Step 41] Opponent: 선택 - Carrion Drake
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> C'Thun's Chosen
+[Turn 10, Step 43] Agent: 공격 - Twilight Flamecaller[2/2] -> Arena Patron
+[Turn 10, Step 44] Agent: 공격 - Djinni of Zephyrs[4/6] -> Arena Patron
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Wasteland Scorpid, Nerubian Unraveler, Deadscale Knight, Babbling Book, Rend Blackhand
+  Field: Gilblin Stalker[3/2], Frostwolf Warlord[9/4], Arena Patron[3/2], Djinni of Zephyrs[4/3]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (4)
+  Field: C'Thun's Chosen[4/2], Primordial Explorer[2/3]
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 공격 - Primordial Explorer[2/3] -> Arena Patron
+[Turn 10, Step 45] Opponent: 공격 - C'Thun's Chosen[4/2] -> Gilblin Stalker
+[Turn 10, Step 45] Opponent: 카드 플레이 - Carrion Drake (코스트: 5)
+[Turn 10, Step 45] Opponent: 영웅 능력 사용
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 공격 - Djinni of Zephyrs[4/3] -> Rexxar
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Djinni of Zephyrs
+[Turn 10, Step 48] Agent: 카드 플레이 - Nerubian Unraveler (코스트: 6)
+[Turn 10, Step 49] Agent: 공격 - Frostwolf Warlord[9/4] -> Carrion Drake
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (5): Wasteland Scorpid, Deadscale Knight, Babbling Book, Rend Blackhand, Crowd Favorite
+  Field: Djinni of Zephyrs[4/2], Nerubian Unraveler[5/5]
+Opponent: Rexxar HP: 10, Mana: 3/10
+  Hand (4)
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Sathrovarr (코스트: 9)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 52] Agent: 카드 플레이 - Shattered Sun Cleric -> Crowd Favorite (코스트: 3)
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Sathrovarr
+[Turn 10, Step 54] Agent: 공격 - Djinni of Zephyrs[4/2] -> Sathrovarr
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/10
+  Hand (4): Wasteland Scorpid, Deadscale Knight, Babbling Book, Rend Blackhand
+  Field: Nerubian Unraveler[5/5], Crowd Favorite[6/6], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 10, Mana: 1/10
+  Hand (4)
+[Turn 10, Step 55] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 56] Agent: 공격 - Nerubian Unraveler[5/5] -> Rexxar
+[Turn 10, Step 57] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 57] Opponent: 카드 플레이 - The Beast (코스트: 6)
+[Turn 10, Step 57] Opponent: 카드 플레이 - Fresh Scent -> The Beast (코스트: 4)
+[Turn 10, Step 57] Opponent: 턴 종료
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Shattered Sun Cleric
+[Turn 10, Step 59] Agent: 카드 플레이 - Pyros (코스트: 2)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 6/10
+  Hand (4): Wasteland Scorpid, Deadscale Knight, Rend Blackhand, Divine Spirit
+  Field: Nerubian Unraveler[5/5], Crowd Favorite[7/7], Shattered Sun Cleric[3/1], Babbling Book[1/1], Pyros[2/2]
+Opponent: Rexxar HP: 5, Mana: 0/10
+  Hand (3)
+  Field: The Beast[11/9]
+[Turn 10, Step 60] Agent: 공격 - Crowd Favorite[7/7] -> The Beast
+[Turn 10, Step 61] Agent: 카드 플레이 - Divine Spirit -> Nerubian Unraveler (코스트: 4)
+[Turn 10, Step 62] Agent: 공격 - Nerubian Unraveler[5/10] -> Rexxar
+
+--- Game State (Turn 10, Step 63) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 2/10
+  Hand (3): Wasteland Scorpid, Deadscale Knight, Rend Blackhand
+  Field: Nerubian Unraveler[5/10], Shattered Sun Cleric[3/1], Babbling Book[1/1], Pyros[2/2]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (3)
+  Field: The Beast[11/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

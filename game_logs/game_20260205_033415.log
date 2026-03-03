@@ -1,0 +1,399 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Unseal the Vault (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Dirty Rat (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Dirty Rat
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 3, Step 4] Opponent: 공격 - Dirty Rat[2/5] -> Blazing Battlemage
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (5): Arcane Giant, The Black Knight, Icehowl, Stegodon, Master Oakheart
+  Field: Flame Leviathan[7/7]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (4)
+  Field: Dirty Rat[2/3], Nat Pagle[0/4]
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Burrowing Scorpid -> Rexxar (코스트: 4)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(89) → 9로 보정
+[Turn 5, Step 6] Agent: 공격 - Flame Leviathan[7/7] -> Dirty Rat
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 영웅 능력 사용
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Tauren Warrior (코스트: 3)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/6
+  Hand (5): Arcane Giant, The Black Knight, Icehowl, Master Oakheart, Dragonmaw Scorcher
+  Field: Flame Leviathan[7/5], Stegodon[2/6], Tauren Warrior[2/3]
+Opponent: Rexxar HP: 28, Mana: 3/5
+  Hand (6)
+  Field: Nat Pagle[0/4], Burrowing Scorpid[5/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(61) → 5로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Burrowing Scorpid
+[Turn 6, Step 11] Agent: 공격 - Stegodon[2/6] -> Nat Pagle
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(39) → 3로 보정
+[Turn 6, Step 12] Agent: 공격 - Flame Leviathan[7/5] -> Burrowing Scorpid
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+[Turn 6, Step 13] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(78) → 0로 보정
+[Turn 7, Step 14] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 14] Opponent: 카드 플레이 - Defias Cleaner (코스트: 6)
+[Turn 7, Step 14] Opponent: 공격 - Mad Bomber[3/2] -> Tauren Warrior
+[Turn 7, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (7): Arcane Giant, The Black Knight, Icehowl, Master Oakheart, Dragonmaw Scorcher, Sideshow Spelleater, Nat, the Darkfisher
+  Field: Stegodon[2/6]
+Opponent: Rexxar HP: 26, Mana: 1/7
+  Hand (7)
+  Field: Nat Pagle[0/2], Annoy-o-Tron[1/2], Defias Cleaner[5/7]
+[Turn 8, Step 15] Agent: 유효하지 않은 액션 인덱스(69) → 9로 보정
+[Turn 8, Step 15] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Sideshow Spelleater (코스트: 6)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 8, Step 17] Agent: 공격 - Stegodon[2/6] -> Annoy-o-Tron
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(82) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 카드 플레이 - Gladiator's Longbow (코스트: 7)
+[Turn 8, Step 18] Opponent: 공격 - Defias Cleaner[5/7] -> Stegodon
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(98) → 10로 보정
+[Turn 9, Step 19] Agent: 공격 - Sideshow Spelleater[6/5] -> Defias Cleaner
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 9/9
+  Hand (7): Arcane Giant, The Black Knight, Icehowl, Master Oakheart, Dragonmaw Scorcher, Nat, the Darkfisher, Sewer Crawler
+Opponent: Rexxar HP: 26, Mana: 1/8
+  Hand (8)
+  Field: Nat Pagle[0/2]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 9, Step 21] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 9, Step 22] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 9, Step 22] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 22] Opponent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 9, Step 22] Opponent: 카드 플레이 - Corpse Widow (코스트: 5)
+[Turn 9, Step 22] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 9, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(88) → 13로 보정
+[Turn 10, Step 23] Agent: 공격 - Nat, the Darkfisher[2/4] -> Clockwork Gnome
+[Turn 10, Step 24] Agent: 카드 플레이 - Dragonmaw Scorcher (코스트: 5)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/10
+  Hand (5): Arcane Giant, Icehowl, Master Oakheart, Sewer Crawler, Pit Fighter
+  Field: The Black Knight[4/4], Nat, the Darkfisher[2/1], Dragonmaw Scorcher[3/6]
+Opponent: Rexxar HP: 26, Mana: 1/9
+  Hand (8)
+  Field: Nat Pagle[1/1], Corpse Widow[4/5]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(87) → 3로 보정
+[Turn 10, Step 25] Agent: 영웅 능력 사용
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 26] Agent: 공격 - The Black Knight[4/4] -> Corpse Widow
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 10, Step 28] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 28] Opponent: 공격 - Nat Pagle[1/1] -> Sewer Crawler
+[Turn 10, Step 28] Opponent: 카드 플레이 - Oasis Snapjaw (코스트: 4)
+[Turn 10, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 10, Step 29] Agent: 공격 - Nat, the Darkfisher[2/1] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (5): Frenzied Felwing, Arcane Giant, Icehowl, Master Oakheart, Pit Fighter
+  Field: Nat, the Darkfisher[2/1], Dragonmaw Scorcher[3/6], Giant Rat[2/3]
+Opponent: Rexxar HP: 22, Mana: 6/10
+  Hand (9)
+  Field: Corpse Widow[4/1], Oasis Snapjaw[2/7]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(31) → 7로 보정
+[Turn 10, Step 30] Agent: 공격 - Dragonmaw Scorcher[3/6] -> Corpse Widow
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(87) → 7로 보정
+[Turn 10, Step 31] Agent: 공격 - Giant Rat[2/3] -> Oasis Snapjaw
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Frenzied Felwing (코스트: 2)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(2) → 0로 보정
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Spellbreaker -> Nat, the Darkfisher (코스트: 4)
+[Turn 10, Step 34] Opponent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 10, Step 34] Opponent: 공격 - Oasis Snapjaw[2/5] -> Frenzied Felwing
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (4): Arcane Giant, Icehowl, Master Oakheart, Young Dragonhawk
+  Field: Nat, the Darkfisher[2/1], Dragonmaw Scorcher[3/2], Giant Rat[2/1], Pit Fighter[5/6]
+Opponent: Rexxar HP: 22, Mana: 2/10
+  Hand (8)
+  Field: Oasis Snapjaw[2/2], Spellbreaker[4/3], Tournament Medic[1/8]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(83) → 20로 보정
+[Turn 10, Step 35] Agent: 공격 - Pit Fighter[5/6] -> Tournament Medic
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(25) → 8로 보정
+[Turn 10, Step 36] Agent: 공격 - Nat, the Darkfisher[2/1] -> Tournament Medic
+[Turn 10, Step 37] Agent: 공격 - Giant Rat[2/1] -> Spellbreaker
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(67) → 4로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 39] Agent: 공격 - Dragonmaw Scorcher[3/2] -> Oasis Snapjaw
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (4): Arcane Giant, Icehowl, Master Oakheart, Young Dragonhawk
+  Field: Pit Fighter[5/5]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (8)
+  Field: Spellbreaker[4/1], Tournament Medic[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(24) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Loose Specimen (코스트: 5)
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 공격 - Rexxar[2/20] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 카드 플레이 - Armor Plating -> Loose Specimen (코스트: 1)
+[Turn 10, Step 40] Opponent: 카드 플레이 - Webspinner (코스트: 1)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(44) → 8로 보정
+[Turn 10, Step 41] Agent: 공격 - Pit Fighter[5/5] -> Webspinner
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Master Oakheart (코스트: 9)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(49) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (4): Arcane Giant, Icehowl, Tar Creeper, Missile Launcher
+  Field: Pit Fighter[5/4], Master Oakheart[5/5], Silithid Swarmer[3/5], Whirliglider[2/1], Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 20, Mana: 10/10
+  Hand (8)
+  Field: Loose Specimen[6/5]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 10, Step 45] Agent: 공격 - Pit Fighter[5/4] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(47) → 3로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Missile Launcher (코스트: 6)
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Infested Tauren (코스트: 4)
+[Turn 10, Step 47] Opponent: 공격 - Loose Specimen[6/4] -> Master Oakheart
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(39) → 4로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (3): Arcane Giant, Icehowl, Boulderfist Ogre
+  Field: Pit Fighter[5/3], Silithid Swarmer[3/4], Missile Launcher[4/4], Tar Creeper[1/5]
+Opponent: Rexxar HP: 12, Mana: 6/10
+  Hand (8)
+  Field: Infested Tauren[2/3]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(59) → 2로 보정
+[Turn 10, Step 50] Agent: 공격 - Missile Launcher[4/4] -> Infested Tauren
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(52) → 1로 보정
+[Turn 10, Step 51] Agent: 공격 - Pit Fighter[5/3] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Booty Bay Bodyguard (코스트: 5)
+[Turn 10, Step 53] Opponent: 공격 - Rexxar[2/5] -> Tar Creeper
+[Turn 10, Step 53] Opponent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(48) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Boulderfist Ogre (코스트: 6)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 4/10
+  Hand (4): Aluneth, Arcane Giant, Icehowl, Tournament Medic
+  Field: Pit Fighter[5/1], Silithid Swarmer[3/2], Missile Launcher[4/2], Tar Creeper[1/1], Boulderfist Ogre[6/7]
+Opponent: Rexxar HP: 2, Mana: 3/10
+  Hand (8)
+  Field: Booty Bay Bodyguard[5/4], Vilefiend[2/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 55] Agent: 공격 - Pit Fighter[5/1] -> Booty Bay Bodyguard
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Tournament Medic (코스트: 4)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 10, Step 57] Agent: 공격 - Tar Creeper[1/1] -> Vilefiend
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(5) → 2로 보정
+[Turn 10, Step 58] Agent: 공격 - Missile Launcher[4/2] -> Vilefiend
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(47) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Zilliax (코스트: 5)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Blistering Rot (코스트: 3)
+[Turn 10, Step 59] Opponent: 공격 - Zilliax[3/2] -> Boulderfist Ogre
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 10/10
+  Hand (4): Aluneth, Arcane Giant, Icehowl, Underbelly Ooze
+  Field: Silithid Swarmer[3/2], Boulderfist Ogre[6/4], Tournament Medic[1/8]
+Opponent: Rexxar HP: 9, Mana: 0/10
+  Hand (6)
+  Field: Lost Spirit[1/1], Zilliax[3/2], Blistering Rot[1/2], Living Rot[1/2]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Lost Spirit[1/1] -> Boulderfist Ogre
+[Turn 10, Step 60] Opponent: 공격 - Blistering Rot[2/2] -> Jaina Proudmoore
+[Turn 10, Step 60] Opponent: 카드 플레이 - Sunwalker (코스트: 6)
+[Turn 10, Step 60] Opponent: 공격 - Zilliax[4/2] -> Tournament Medic
+[Turn 10, Step 60] Opponent: 공격 - Living Rot[2/2] -> Tournament Medic
+[Turn 10, Step 60] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 10, Step 60] Opponent: 선택 - Venomstrike Trap
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 10, Step 61] Agent: 공격 - Boulderfist Ogre[6/3] -> Sunwalker
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(92) → 4로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 10, Step 63] Agent: 공격 - Tournament Medic[1/2] -> Sunwalker
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(30) → 2로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Underbelly Ooze (코스트: 7)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (3): Aluneth, Arcane Giant, Icehowl
+  Field: Silithid Swarmer[3/2], Sunfury Protector[2/3], Underbelly Ooze[3/5]
+Opponent: Rexxar HP: 13, Mana: 3/10
+  Hand (6)
+  Field: Zilliax[4/1], Blistering Rot[2/2], Living Rot[2/2], Living Rot[2/1], Sunwalker[4/4]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 공격 - Blistering Rot[2/2] -> Underbelly Ooze
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 카드 플레이 - Flame Lance -> Silithid Swarmer (코스트: 5)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 공격 - Living Rot[2/2] -> Underbelly Ooze
+[Turn 10, Step 67] Opponent: 턴 종료
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(99) → 8로 보정
+[Turn 10, Step 68] Agent: 공격 - Underbelly Ooze[3/3] -> Sunwalker
+[Turn 10, Step 69] Agent: 카드 플레이 - Aluneth (코스트: 6)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 4/10
+  Hand (3): Arcane Giant, Icehowl, Faceless Lurker
+  Field: Sunfury Protector[2/3], Underbelly Ooze[3/1], Underbelly Ooze[3/1]
+Opponent: Rexxar HP: 12, Mana: 10/10
+  Hand (7)
+  Field: Zilliax[4/1], Living Rot[2/1], Sunwalker[4/1]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 70] Agent: 공격 - Sunfury Protector[2/3] -> Sunwalker
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 71] Agent: 공격 - Underbelly Ooze[3/1] -> Zilliax
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Stormwind Knight (코스트: 4)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(85) → 8로 보정
+[Turn 10, Step 73] Agent: 공격 - Underbelly Ooze[3/1] -> Rexxar
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 공격 - Living Rot[2/1] -> Jaina Proudmoore
+[Turn 10, Step 74] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 10, Step 74] Opponent: 공격 - Stormwind Knight[2/5] -> Underbelly Ooze
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 10/10
+  Hand (7): Cauldron Elemental, Arcane Giant, Icehowl, Faceless Lurker, C'Thun's Chosen, Ogre Brute, Kirin Tor Mage
+Opponent: Rexxar HP: 8, Mana: 5/10
+  Hand (5)
+  Field: Living Rot[2/1], Stormwind Knight[2/2], Clockwork Automaton[4/4]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 10, Step 75] Agent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+--- Game State (Turn 10, Step 77) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 6/10
+  Hand (6): Cauldron Elemental, Arcane Giant, Icehowl, Faceless Lurker, Ogre Brute, Kirin Tor Mage
+  Field: C'Thun's Chosen[4/2]
+Opponent: Rexxar HP: 8, Mana: 5/10
+  Hand (5)
+  Field: Living Rot[2/1], Stormwind Knight[2/2], Clockwork Automaton[4/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

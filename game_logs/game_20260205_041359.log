@@ -1,0 +1,225 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Tournament Attendee (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (5): Worgen Abomination, Forgotten Torch, Troggzor the Earthinator, Ultrasaur, Deathlord
+  Field: Tournament Attendee[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 공격 - Tournament Attendee[2/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Nerub'ar Weblord (코스트: 2)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Nerub'ar Weblord
+[Turn 3, Step 8] Agent: 공격 - Tournament Attendee[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Golakka Crawler (코스트: 4)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (7): Worgen Abomination, Forgotten Torch, Troggzor the Earthinator, Ultrasaur, Deathlord, Arcane Watcher, Blowtorch Saboteur
+  Field: Tournament Attendee[2/1]
+Opponent: Rexxar HP: 26, Mana: 0/4
+  Hand (5)
+  Field: Nerub'ar Weblord[1/3], Golakka Crawler[2/3]
+[Turn 4, Step 10] Agent: 공격 - Tournament Attendee[2/1] -> Golakka Crawler
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Golakka Crawler
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Firetree Witchdoctor (코스트: 4)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 14] Agent: 카드 플레이 - Forgotten Torch -> Jaina Proudmoore (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (7): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Deathlord, Arcane Watcher, Blowtorch Saboteur, Astromancer Solarian
+Opponent: Rexxar HP: 25, Mana: 1/5
+  Hand (5)
+  Field: Nerub'ar Weblord[1/3], Firetree Witchdoctor[2/2]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 공격 - Firetree Witchdoctor[2/2] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 영웅 능력 사용
+[Turn 5, Step 15] Opponent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 5, Step 15] Opponent: 공격 - Nerub'ar Weblord[1/3] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Lorewalker Cho
+[Turn 6, Step 17] Agent: 카드 플레이 - Deathlord (코스트: 3)
+[Turn 6, Step 18] Agent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 공격 - Nerub'ar Weblord[1/3] -> Deathlord
+[Turn 6, Step 19] Opponent: 카드 플레이 - Necromechanic (코스트: 4)
+[Turn 6, Step 19] Opponent: 공격 - Firetree Witchdoctor[2/2] -> Deathlord
+[Turn 6, Step 19] Opponent: 카드 플레이 - Toothy Chest (코스트: 3)
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/7
+  Hand (7): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Arcane Watcher, Blowtorch Saboteur, Astromancer Solarian, Grizzled Wizard
+  Field: Deathlord[2/5], Helpless Hatchling[1/1]
+Opponent: Rexxar HP: 25, Mana: 0/7
+  Hand (4)
+  Field: Nerub'ar Weblord[1/1], Lorewalker Cho[0/3], Necromechanic[3/6], Toothy Chest[0/4]
+[Turn 7, Step 20] Agent: 공격 - Helpless Hatchling[1/1] -> Toothy Chest
+[Turn 7, Step 21] Agent: 공격 - Deathlord[2/5] -> Rexxar
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Lorewalker Cho
+[Turn 7, Step 23] Agent: 카드 플레이 - Arcane Watcher (코스트: 3)
+[Turn 7, Step 24] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 0/7
+  Hand (5): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Blowtorch Saboteur, Grizzled Wizard
+  Field: Deathlord[2/5], Helpless Hatchling[1/1], Arcane Watcher[5/6], Astromancer Solarian[3/2]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (4)
+  Field: Nerub'ar Weblord[1/1], Lorewalker Cho[0/2], Necromechanic[3/6], Toothy Chest[0/3]
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 공격 - Necromechanic[3/6] -> Deathlord
+[Turn 7, Step 25] Opponent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 7, Step 25] Opponent: 영웅 능력 사용
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 공격 - Helpless Hatchling[1/1] -> Toothy Chest
+[Turn 8, Step 27] Agent: 공격 - Arcane Watcher[5/6] -> Burly Rockjaw Trogg
+[Turn 8, Step 28] Agent: 공격 - Astromancer Solarian[3/2] -> Toothy Chest
+[Turn 8, Step 29] Agent: 공격 - Deathlord[2/2] -> Lorewalker Cho
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 8/8
+  Hand (6): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Blowtorch Saboteur, Grizzled Wizard, Sky Gen'ral Kragg
+  Field: Deathlord[2/2], Arcane Watcher[5/3]
+Opponent: Rexxar HP: 23, Mana: 2/8
+  Hand (4)
+  Field: Nerub'ar Weblord[1/1], Necromechanic[3/4]
+[Turn 8, Step 30] Agent: 영웅 능력 사용 -> Necromechanic
+[Turn 8, Step 31] Agent: 카드 플레이 - Blowtorch Saboteur (코스트: 5)
+[Turn 8, Step 32] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 32] Opponent: 카드 플레이 - Darkmire Moonkin (코스트: 7)
+[Turn 8, Step 32] Opponent: 공격 - Nerub'ar Weblord[1/1] -> Deathlord
+[Turn 8, Step 32] Opponent: 영웅 능력 사용
+[Turn 8, Step 32] Opponent: 공격 - Necromechanic[3/3] -> Deathlord
+[Turn 8, Step 32] Opponent: 턴 종료
+[Turn 9, Step 33] Agent: 공격 - Blowtorch Saboteur[3/4] -> Darkmire Moonkin
+[Turn 9, Step 34] Agent: 영웅 능력 사용 -> Necromechanic
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 7/9
+  Hand (6): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Grizzled Wizard, Sky Gen'ral Kragg, Roaring Torch
+  Field: Arcane Watcher[5/3], Blowtorch Saboteur[3/2]
+Opponent: Rexxar HP: 23, Mana: 0/9
+  Hand (4)
+  Field: Gnomish Experimenter[3/2], Darkmire Moonkin[2/5]
+[Turn 9, Step 35] Agent: 카드 플레이 - Roaring Torch -> Gnomish Experimenter (코스트: 3)
+[Turn 9, Step 36] Agent: 카드 플레이 - Grizzled Wizard (코스트: 2)
+[Turn 9, Step 37] Agent: 공격 - Arcane Watcher[5/3] -> Rexxar
+[Turn 9, Step 38] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 38] Opponent: 영웅 능력 사용 -> Blowtorch Saboteur
+[Turn 9, Step 38] Opponent: 공격 - Darkmire Moonkin[2/5] -> Blowtorch Saboteur
+[Turn 9, Step 38] Opponent: 카드 플레이 - Starving Buzzard (코스트: 5)
+[Turn 9, Step 38] Opponent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 9, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 공격 - Arcane Watcher[5/3] -> Starving Buzzard
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (5): Worgen Abomination, Troggzor the Earthinator, Ultrasaur, Sky Gen'ral Kragg, Dragon Breeder
+  Field: Grizzled Wizard[3/2]
+Opponent: Rexxar HP: 18, Mana: 1/10
+  Hand (4)
+  Field: Darkmire Moonkin[2/2], Golakka Crawler[2/3]
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Golakka Crawler
+[Turn 10, Step 41] Agent: 카드 플레이 - Worgen Abomination (코스트: 7)
+[Turn 10, Step 42] Agent: 공격 - Grizzled Wizard[3/2] -> Rexxar
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Silithid Swarmer (코스트: 3)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 공격 - Worgen Abomination[6/6] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (5): Troggzor the Earthinator, Ultrasaur, Sky Gen'ral Kragg, Dragon Breeder, Big-Time Racketeer
+  Field: Grizzled Wizard[3/2], Worgen Abomination[6/6]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (3)
+  Field: Silithid Swarmer[3/5], Twilight Drake[4/4]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Silithid Swarmer
+[Turn 10, Step 46] Agent: 카드 플레이 - Troggzor the Earthinator (코스트: 7)
+[Turn 10, Step 47] Agent: 공격 - Grizzled Wizard[3/2] -> Rexxar
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 공격 - Twilight Drake[4/4] -> Troggzor the Earthinator
+[Turn 10, Step 48] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 10, Step 48] Opponent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 10, Step 48] Opponent: 영웅 능력 사용
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Mechanical Dragonling
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 8/10
+  Hand (5): Ultrasaur, Sky Gen'ral Kragg, Dragon Breeder, Big-Time Racketeer, Reno Jackson
+  Field: Grizzled Wizard[3/2], Worgen Abomination[6/6], Troggzor the Earthinator[6/2]
+Opponent: Rexxar HP: 6, Mana: 0/10
+  Hand (2)
+  Field: Silithid Swarmer[3/2], Arcanosmith[3/2], Animated Shield[0/5], Dragonling Mechanic[2/4]
+[Turn 10, Step 50] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 51] Agent: 카드 플레이 - Dragon Breeder (코스트: 2)
+[Turn 10, Step 52] Agent: 공격 - Grizzled Wizard[3/2] -> Animated Shield
+[Turn 10, Step 53] Agent: 공격 - Worgen Abomination[6/6] -> Animated Shield
+[Turn 10, Step 54] Agent: 공격 - Troggzor the Earthinator[6/2] -> Rexxar
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (3): Ultrasaur, Big-Time Racketeer, Reno Jackson
+  Field: Grizzled Wizard[3/2], Worgen Abomination[6/6], Troggzor the Earthinator[6/2], Sky Gen'ral Kragg[2/3], Dragon Breeder[2/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (2)
+  Field: Silithid Swarmer[3/2], Arcanosmith[3/2], Dragonling Mechanic[2/4]
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 13, Mana: 2/10
+  Hand (3): Ultrasaur, Big-Time Racketeer, Reno Jackson
+  Field: Grizzled Wizard[3/2], Worgen Abomination[6/6], Troggzor the Earthinator[6/2], Sky Gen'ral Kragg[2/3], Dragon Breeder[2/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (2)
+  Field: Silithid Swarmer[3/2], Arcanosmith[3/2], Dragonling Mechanic[2/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

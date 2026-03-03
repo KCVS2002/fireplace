@@ -1,0 +1,228 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 2, Step 2] Opponent: 선택 - Mana Addict
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Pompous Thespian (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 3, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (7): Mana Cyclone, Twilight Drake, Sunreaver Warmage, Kael'thas Sunstrider, Kirin Tor Tricaster, Rhonin, Spiritsinger Umbra
+Opponent: Rexxar HP: 29, Mana: 0/3
+  Hand (5)
+  Field: Pompous Thespian[3/2], Mogu Cultist[1/1]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(84) → 3로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Kirin Tor Tricaster (코스트: 4)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(8) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 5, Step 8] Agent: 공격 - Kirin Tor Tricaster[3/3] -> Pompous Thespian
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(59) → 0로 보정
+[Turn 5, Step 9] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (7): Mana Cyclone, Twilight Drake, Sunreaver Warmage, Kael'thas Sunstrider, Rhonin, Spiritsinger Umbra, Kobold Geomancer
+  Field: Twilight Summoner[1/1]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (7)
+  Field: Mogu Cultist[1/1]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 6, Step 10] Agent: 영웅 능력 사용 -> Twilight Summoner
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(69) → 4로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Kobold Geomancer (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 6, Step 12] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 공격 - Mogu Cultist[1/1] -> Jaina Proudmoore
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(64) → 10로 보정
+[Turn 7, Step 14] Agent: 영웅 능력 사용 -> Kobold Geomancer
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (6): Twilight Drake, Sunreaver Warmage, Kael'thas Sunstrider, Rhonin, Spiritsinger Umbra, Violet Illusionist
+  Field: Faceless Destroyer[5/5], Kobold Geomancer[2/1], Mana Cyclone[2/2]
+Opponent: Rexxar HP: 29, Mana: 4/6
+  Hand (8)
+  Field: Mogu Cultist[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(86) → 9로 보정
+[Turn 7, Step 15] Agent: 공격 - Mana Cyclone[2/2] -> Rexxar
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 7, Step 16] Agent: 공격 - Faceless Destroyer[5/5] -> Mogu Cultist
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(65) → 5로 보정
+[Turn 7, Step 17] Agent: 공격 - Kobold Geomancer[2/1] -> Rexxar
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(9) → 4로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Kabal Courier (코스트: 3)
+[Turn 7, Step 19] Opponent: 선택 - Spreading Madness
+[Turn 7, Step 19] Opponent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (6): Twilight Drake, Sunreaver Warmage, Kael'thas Sunstrider, Rhonin, Spiritsinger Umbra, Snapjaw Shellfighter
+  Field: Faceless Destroyer[5/4], Squirrel[1/1], Mana Cyclone[2/2], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 25, Mana: 1/7
+  Hand (8)
+  Field: Kabal Courier[2/2], Tinkmaster Overspark[3/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(85) → 4로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Rhonin (코스트: 8)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(34) → 8로 보정
+[Turn 8, Step 21] Agent: 공격 - Mana Cyclone[2/2] -> Kabal Courier
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 8, Step 22] Agent: 공격 - Faceless Destroyer[5/4] -> Tinkmaster Overspark
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Spreading Madness (코스트: 3)
+[Turn 8, Step 23] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 공격 - Violet Illusionist[4/2] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (6): Twilight Drake, Sunreaver Warmage, Kael'thas Sunstrider, Spiritsinger Umbra, Snapjaw Shellfighter, River Crocolisk
+  Field: Faceless Destroyer[5/1], Squirrel[1/1], Violet Illusionist[4/2], Rhonin[7/1]
+Opponent: Rexxar HP: 20, Mana: 3/8
+  Hand (7)
+  Field: Questing Explorer[2/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Sunreaver Warmage (코스트: 5)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(38) → 2로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(58) → 2로 보정
+[Turn 9, Step 27] Agent: 공격 - Faceless Destroyer[5/1] -> Questing Explorer
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Scorp-o-matic -> Squirrel (코스트: 2)
+[Turn 9, Step 28] Opponent: 카드 플레이 - Helboar (코스트: 1)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(80) → 2로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Kael'thas Sunstrider (코스트: 7)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (4): Twilight Drake, Snapjaw Shellfighter, River Crocolisk, Magtheridon
+  Field: Violet Illusionist[4/2], Rhonin[7/1], Sunreaver Warmage[4/4], Spiritsinger Umbra[3/4], Kael'thas Sunstrider[4/7]
+Opponent: Rexxar HP: 20, Mana: 6/9
+  Hand (6)
+  Field: Scorp-o-matic[1/2], Helboar[2/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(38) → 7로 보정
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(82) → 16로 보정
+[Turn 10, Step 33] Agent: 공격 - Spiritsinger Umbra[3/4] -> Rexxar
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(96) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Twilight Drake (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/10
+  Hand (5): Snapjaw Shellfighter, River Crocolisk, Magtheridon, Murloc Tidecaller, Echo of Medivh
+  Field: Violet Illusionist[4/2], Rhonin[7/1], Sunreaver Warmage[4/4], Spiritsinger Umbra[3/4], Kael'thas Sunstrider[4/7], Twilight Drake[4/6]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (8)
+  Field: Scorp-o-matic[1/2], Helboar[2/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 10, Step 35] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(66) → 1로 보정
+[Turn 10, Step 36] Agent: 공격 - Violet Illusionist[4/2] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 37] Agent: 공격 - Kael'thas Sunstrider[4/7] -> Scorp-o-matic
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 38] Agent: 공격 - Rhonin[7/1] -> Helboar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 39] Agent: 공격 - Sunreaver Warmage[4/4] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/10
+  Hand (7): Snapjaw Shellfighter, River Crocolisk, Murloc Tidecaller, Echo of Medivh, Arcane Missiles, Arcane Missiles, Arcane Missiles
+  Field: Violet Illusionist[4/2], Sunreaver Warmage[4/4], Spiritsinger Umbra[3/4], Kael'thas Sunstrider[4/6], Twilight Drake[4/6], Magtheridon[12/12]
+Opponent: Rexxar HP: 9, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(35) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Ysera (코스트: 9)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Violet Illusionist[4/2] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(64) → 14로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Kael'thas Sunstrider
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(64) → 13로 보정
+[Turn 10, Step 43] Agent: 공격 - Kael'thas Sunstrider[4/5] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Spiritsinger Umbra[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (8): Snapjaw Shellfighter, River Crocolisk, Murloc Tidecaller, Echo of Medivh, Arcane Missiles, Arcane Missiles, Arcane Missiles, Bright-Eyed Scout
+  Field: Violet Illusionist[4/2], Sunreaver Warmage[4/4], Spiritsinger Umbra[3/4], Kael'thas Sunstrider[4/5], Twilight Drake[4/6], Magtheridon[12/12]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (9)
+  Field: Ysera[4/12]
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 8/10
+  Hand (8): Snapjaw Shellfighter, River Crocolisk, Murloc Tidecaller, Echo of Medivh, Arcane Missiles, Arcane Missiles, Arcane Missiles, Bright-Eyed Scout
+  Field: Violet Illusionist[4/2], Sunreaver Warmage[4/4], Spiritsinger Umbra[3/4], Kael'thas Sunstrider[4/5], Twilight Drake[4/6], Magtheridon[12/12]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (9)
+  Field: Ysera[4/12]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

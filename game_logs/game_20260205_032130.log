@@ -1,0 +1,299 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Murmy (코스트: 1)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 4, Step 4] Agent: 카드 플레이 - Ticket Scalper (코스트: 4)
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (5): Barnes, Captain Greenskin, Conjurer's Calling, Stargazer Luna, Nerubian Egg
+  Field: Murmy[1/1], Ticket Scalper[5/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 카드 플레이 - Half-Time Scavenger (코스트: 4)
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(34) → 6로 보정
+[Turn 5, Step 6] Agent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(51) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Leper Gnome (코스트: 1)
+[Turn 5, Step 8] Opponent: 카드 플레이 - Grand Lackey Erkh (코스트: 4)
+[Turn 5, Step 8] Opponent: 공격 - Half-Time Scavenger[3/5] -> Stargazer Luna
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 카드 플레이 - Barnes (코스트: 5)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/6
+  Hand (4): Captain Greenskin, Conjurer's Calling, Firetree Witchdoctor, Evasive Wyrm
+  Field: Murmy[1/1], Ticket Scalper[5/3], Nerubian Egg[0/2], Stargazer Luna[2/1], Barnes[3/4], Stampeding Kodo[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (6)
+  Field: Half-Time Scavenger[3/3], Leper Gnome[1/1], Grand Lackey Erkh[2/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(81) → 3로 보정
+[Turn 6, Step 10] Agent: 공격 - Murmy[1/1] -> Leper Gnome
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 6, Step 11] Agent: 공격 - Ticket Scalper[5/3] -> Half-Time Scavenger
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 6, Step 12] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 12] Opponent: 턴 종료
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(93) → 21로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(44) → 17로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Ironforge Rifleman -> Stampeding Kodo (코스트: 3)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/7
+  Hand (7): Imp Master, Captain Greenskin, Conjurer's Calling, Firetree Witchdoctor, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome
+  Field: Murmy[1/1], Nerubian Egg[0/2], Stargazer Luna[2/1], Barnes[3/4], Ironforge Rifleman[2/2]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Grand Lackey Erkh[2/3]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 영웅 능력 사용 -> Wailing Soul
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(68) → 14로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(89) → 17로 보정
+[Turn 8, Step 18] Agent: 공격 - Stargazer Luna[2/1] -> Wailing Soul
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(77) → 17로 보정
+[Turn 8, Step 19] Agent: 공격 - Ironforge Rifleman[2/2] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/8
+  Hand (8): Imp Master, Captain Greenskin, Conjurer's Calling, Firetree Witchdoctor, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Guild Recruiter
+  Field: Murmy[1/1], Nerubian Egg[0/2], Barnes[3/4], Ironforge Rifleman[2/2], Booty Bay Bookie[3/3]
+Opponent: Rexxar HP: 27, Mana: 3/7
+  Hand (8)
+  Field: Grand Lackey Erkh[2/3], Wailing Soul[3/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(60) → 9로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Firetree Witchdoctor (코스트: 2)
+[Turn 8, Step 21] Agent: 선택 - Dragon's Breath
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 8, Step 21] Agent: 공격 - Murmy[1/1] -> Grand Lackey Erkh
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 8, Step 22] Agent: 공격 - Barnes[3/4] -> Grand Lackey Erkh
+[Turn 8, Step 23] Agent: 카드 플레이 - Dragon's Breath -> Rexxar (코스트: 2)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(34) → 0로 보정
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 공격 - Wailing Soul[3/2] -> Booty Bay Bookie
+[Turn 8, Step 24] Opponent: 카드 플레이 - Violet Wurm (코스트: 8)
+[Turn 8, Step 24] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 9/9
+  Hand (8): Imp Master, Captain Greenskin, Conjurer's Calling, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Guild Recruiter, Ice Lance
+  Field: Nerubian Egg[0/2], Barnes[3/2], Ironforge Rifleman[2/2], Firetree Witchdoctor[2/2]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (7)
+  Field: Violet Wurm[7/7]
+[Turn 9, Step 25] Agent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(37) → 6로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Conjurer's Calling -> Violet Wurm (코스트: 4)
+[Turn 9, Step 27] Agent: 공격 - Barnes[3/2] -> Grub
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(89) → 14로 보정
+[Turn 9, Step 28] Agent: 공격 - Firetree Witchdoctor[2/2] -> Grub
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(40) → 5로 보정
+[Turn 9, Step 29] Agent: 공격 - Ironforge Rifleman[2/2] -> Grub
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/9
+  Hand (7): Imp Master, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Guild Recruiter, Ice Lance, Conjurer's Calling
+  Field: Nerubian Egg[0/2], Barnes[3/1], Ironforge Rifleman[2/1], Firetree Witchdoctor[2/1], Captain Greenskin[5/4], Tortollan Primalist[5/4], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 23, Mana: 0/8
+  Hand (7)
+  Field: Grub[1/1], Grub[1/1], Grub[1/1], Grub[1/1]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 카드 플레이 - Bestial Wrath -> Grub (코스트: 1)
+[Turn 9, Step 30] Opponent: 공격 - Grub[3/1] -> Force-Tank MAX
+[Turn 9, Step 30] Opponent: 공격 - Grub[1/1] -> Nerubian Egg
+[Turn 9, Step 30] Opponent: 카드 플레이 - Bone Wraith (코스트: 4)
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(76) → 28로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(97) → 29로 보정
+[Turn 10, Step 32] Agent: 공격 - Ironforge Rifleman[2/1] -> Bone Wraith
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(84) → 12로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Ice Lance -> Tortollan Primalist (코스트: 1)
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(36) → 14로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Conjurer's Calling -> Grub (코스트: 4)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/10
+  Hand (6): Imp Master, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Guild Recruiter, Escaped Manasaber
+  Field: Nerubian Egg[0/1], Barnes[3/1], Firetree Witchdoctor[2/1], Captain Greenskin[5/4], Tortollan Primalist[5/4], Force-Tank MAX[7/7], Southsea Deckhand[2/1]
+Opponent: Rexxar HP: 23, Mana: 4/9
+  Hand (6)
+  Field: Grub[1/1], Grub[1/1], Grub[1/1], Bone Wraith[2/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 35] Agent: 공격 - Firetree Witchdoctor[2/1] -> Bone Wraith
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(59) → 4로 보정
+[Turn 10, Step 36] Agent: 공격 - Force-Tank MAX[7/7] -> Bone Wraith
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Grub[1/1] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 공격 - Grub[1/1] -> Captain Greenskin
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(93) → 21로 보정
+[Turn 10, Step 38] Agent: 공격 - Tortollan Primalist[5/4] -> Bone Wraith
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Force-Tank MAX
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 8/10
+  Hand (7): Imp Master, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Guild Recruiter, Escaped Manasaber, Echoing Ooze
+  Field: Nerubian Egg[0/1], Barnes[3/1], Captain Greenskin[5/3], Tortollan Primalist[5/2], Force-Tank MAX[7/4], Southsea Deckhand[2/1]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (7)
+  Field: Grub[1/1], Grub[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(40) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Elise the Trailblazer (코스트: 5)
+[Turn 10, Step 40] Opponent: 공격 - Grub[1/1] -> Tortollan Primalist
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Barnes[3/1] -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(36) → 11로 보정
+[Turn 10, Step 43] Agent: 영웅 능력 사용 -> Elise the Trailblazer
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 44] Agent: 공격 - Tortollan Primalist[5/1] -> Grub
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/10
+  Hand (7): Imp Master, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Escaped Manasaber, Echoing Ooze, Soot Spewer
+  Field: Nerubian Egg[0/1], Barnes[3/1], Captain Greenskin[5/3], Force-Tank MAX[7/4], Southsea Deckhand[2/1], Guild Recruiter[2/4]
+Opponent: Rexxar HP: 20, Mana: 5/10
+  Hand (7)
+  Field: Elise the Trailblazer[5/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(45) → 3로 보정
+[Turn 10, Step 46] Agent: 공격 - Force-Tank MAX[7/4] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 10, Step 47] Agent: 공격 - Southsea Deckhand[2/1] -> Rexxar
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(17) → 2로 보정
+[Turn 10, Step 48] Agent: 공격 - Captain Greenskin[5/3] -> Elise the Trailblazer
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Parachute Brigand (코스트: 2)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Mok'Nathal Lion (코스트: 4)
+[Turn 10, Step 49] Opponent: 공격 - Mok'Nathal Lion[5/2] -> Barnes
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 10/10
+  Hand (7): Imp Master, Evasive Wyrm, Harbinger Celestia, Cabalist's Tome, Escaped Manasaber, Soot Spewer, Tomb Spider
+  Field: Nerubian Egg[0/1], Force-Tank MAX[7/4], Southsea Deckhand[2/1], Guild Recruiter[2/4], Echoing Ooze[1/2], Echoing Ooze[1/2]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (5)
+  Field: Goboglide Tech[3/3], Parachute Brigand[2/2]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(53) → 20로 보정
+[Turn 10, Step 50] Agent: 공격 - Force-Tank MAX[7/4] -> Parachute Brigand
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(92) → 17로 보정
+[Turn 10, Step 51] Agent: 공격 - Southsea Deckhand[2/1] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(33) → 10로 보정
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Nerubian Egg
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Soot Spewer (코스트: 3)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/10
+  Hand (8): Imp Master, Evasive Wyrm, Harbinger Celestia, Escaped Manasaber, Tomb Spider, Conjurer's Calling, Counterspell, Learn Draconic
+  Field: Nerubian[4/4], Force-Tank MAX[7/2], Southsea Deckhand[2/1], Guild Recruiter[2/4], Echoing Ooze[1/2], Echoing Ooze[1/2], Soot Spewer[3/3]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (5)
+  Field: Goboglide Tech[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 55] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 55] Opponent: 카드 플레이 - Trogg Beastrager (코스트: 2)
+[Turn 10, Step 55] Opponent: 턴 종료
+[Turn 10, Step 56] Agent: 공격 - Force-Tank MAX[7/2] -> Trogg Beastrager
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(85) → 11로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Conjurer's Calling -> Nerubian (코스트: 4)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(58) → 24로 보정
+[Turn 10, Step 58] Agent: 공격 - Southsea Deckhand[2/1] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(47) → 15로 보정
+[Turn 10, Step 59] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (9): Imp Master, Evasive Wyrm, Harbinger Celestia, Escaped Manasaber, Tomb Spider, Counterspell, Learn Draconic, Fossilized Devilsaur, Conjurer's Calling
+  Field: Southsea Deckhand[2/1], Guild Recruiter[2/4], Echoing Ooze[1/2], Echoing Ooze[1/2], Soot Spewer[3/3], Dragonbane[3/5]
+Opponent: Rexxar HP: 2, Mana: 8/10
+  Hand (5)
+  Field: Goboglide Tech[3/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Goboglide Tech[3/3] -> Soot Spewer
+[Turn 10, Step 60] Opponent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 10, Step 60] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 10, Step 60] Opponent: 카드 플레이 - Doomsayer (코스트: 2)
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(73) → 7로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 10, Step 62] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(46) → 16로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 64) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (8): Imp Master, Evasive Wyrm, Harbinger Celestia, Escaped Manasaber, Tomb Spider, Fossilized Devilsaur, Conjurer's Calling, Ethereal Conjurer
+  Field: Southsea Deckhand[2/1], Guild Recruiter[2/4], Echoing Ooze[1/2], Echoing Ooze[1/2], Dragonbane[3/5]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (3)
+  Field: Unpowered Steambot[0/9], SN1P-SN4P[2/3], Doomsayer[0/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

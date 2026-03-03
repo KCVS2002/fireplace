@@ -1,0 +1,339 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 2, Step 1] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 1] Opponent: 영웅 능력 사용
+[Turn 2, Step 1] Opponent: 턴 종료
+[Turn 3, Step 2] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 3, Step 2] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(92) → 0로 보정
+[Turn 3, Step 3] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 3] Opponent: 영웅 능력 사용
+[Turn 3, Step 3] Opponent: 턴 종료
+[Turn 4, Step 4] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 4, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/4
+  Hand (6): Sleepy Dragon, Furious Ettin, Jeeves, Spark Drill, Harvest Golem, Arcane Blast
+  Field: Snowchugger[2/3]
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (7)
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 4, Step 5] Agent: 카드 플레이 - Arcane Blast -> Snowchugger (코스트: 1)
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(23) → 2로 보정
+[Turn 5, Step 7] Agent: 카드 플레이 - Harvest Golem (코스트: 3)
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(76) → 6로 보정
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (6): Sleepy Dragon, Furious Ettin, Jeeves, Spark Drill, Gelbin Mekkatorque, Scorp-o-matic
+  Field: Snowchugger[2/1], Harvest Golem[2/3]
+Opponent: Rexxar HP: 28, Mana: 2/5
+  Hand (8)
+  Field: Dragonslayer[4/3]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(32) → 4로 보정
+[Turn 6, Step 10] Agent: 공격 - Snowchugger[2/1] -> Dragonslayer
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(57) → 2로 보정
+[Turn 6, Step 11] Agent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 6, Step 12] Agent: 유효하지 않은 액션 인덱스(8) → 2로 보정
+[Turn 6, Step 12] Agent: 공격 - Harvest Golem[2/3] -> Dragonslayer
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 6, Step 13] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 13] Opponent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 6, Step 13] Opponent: 영웅 능력 사용
+[Turn 6, Step 13] Opponent: 턴 종료
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Jeeves (코스트: 4)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/7
+  Hand (5): Sleepy Dragon, Furious Ettin, Spark Drill, Gelbin Mekkatorque, Desert Obelisk
+  Field: Damaged Golem[2/1], Scorp-o-matic[1/2], Jeeves[1/4]
+Opponent: Rexxar HP: 28, Mana: 0/6
+  Hand (8)
+  Field: Proud Defender[4/6]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 7, Step 15] Agent: 공격 - Scorp-o-matic[1/2] -> Proud Defender
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(9) → 2로 보정
+[Turn 7, Step 16] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 7, Step 17] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 17] Opponent: 카드 플레이 - Blackwing Corruptor -> Damaged Golem (코스트: 5)
+[Turn 7, Step 17] Opponent: 공격 - Proud Defender[2/5] -> Jaina Proudmoore
+[Turn 7, Step 17] Opponent: 영웅 능력 사용
+[Turn 7, Step 17] Opponent: 턴 종료
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 8, Step 18] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 18] Opponent: 카드 플레이 - Flesheating Ghoul (코스트: 3)
+[Turn 8, Step 18] Opponent: 공격 - Blackwing Corruptor[5/4] -> Jeeves
+[Turn 8, Step 18] Opponent: 공격 - Proud Defender[2/5] -> Jaina Proudmoore
+[Turn 8, Step 18] Opponent: 턴 종료
+[Turn 9, Step 19] Agent: 유효하지 않은 액션 인덱스(79) → 7로 보정
+[Turn 9, Step 19] Agent: 카드 플레이 - Book Wyrm -> Flesheating Ghoul (코스트: 6)
+
+--- Game State (Turn 9, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 3/9
+  Hand (6): Sleepy Dragon, Furious Ettin, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Spring Rocket
+  Field: Book Wyrm[3/6]
+Opponent: Rexxar HP: 27, Mana: 5/8
+  Hand (8)
+  Field: Proud Defender[2/5], Blackwing Corruptor[5/3]
+[Turn 9, Step 20] Agent: 유효하지 않은 액션 인덱스(67) → 1로 보정
+[Turn 9, Step 20] Agent: 카드 플레이 - Spring Rocket -> Jaina Proudmoore (코스트: 3)
+[Turn 9, Step 21] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 카드 플레이 - Arcane Dynamo (코스트: 6)
+[Turn 9, Step 21] Opponent: 선택 - Call of the Wild
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 22] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(62) → 16로 보정
+[Turn 10, Step 23] Agent: 영웅 능력 사용 -> Proud Defender
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Furious Ettin (코스트: 7)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 1/10
+  Hand (6): North Sea Kraken, Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Master Swordsmith
+  Field: Book Wyrm[3/6], Spring Rocket[2/1], Furious Ettin[5/9]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (10)
+  Field: Proud Defender[2/4], Blackwing Corruptor[5/3], Arcane Dynamo[3/4]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 25] Agent: 공격 - Book Wyrm[3/6] -> Proud Defender
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 26] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 26] Opponent: 카드 플레이 - Grand Crusader (코스트: 6)
+[Turn 10, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(37) → 9로 보정
+[Turn 10, Step 27] Agent: 카드 플레이 - North Sea Kraken -> Grand Crusader (코스트: 9)
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(7) → 3로 보정
+[Turn 10, Step 28] Agent: 공격 - Furious Ettin[5/9] -> Proud Defender
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(24) → 6로 보정
+[Turn 10, Step 29] Agent: 공격 - Spring Rocket[2/1] -> Blackwing Corruptor
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 1/10
+  Hand (6): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Master Swordsmith, Shrieking Shroom
+  Field: Book Wyrm[3/4], Furious Ettin[5/7], North Sea Kraken[9/7]
+Opponent: Rexxar HP: 27, Mana: 4/10
+  Hand (10)
+  Field: Blackwing Corruptor[5/1], Arcane Dynamo[3/4], Grand Crusader[5/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Sky Claw (코스트: 3)
+[Turn 10, Step 31] Opponent: 공격 - Arcane Dynamo[3/4] -> Furious Ettin
+[Turn 10, Step 31] Opponent: 공격 - Silver Hand Regent[3/3] -> Furious Ettin
+[Turn 10, Step 31] Opponent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 공격 - North Sea Kraken[9/7] -> Blackwing Corruptor
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(73) → 11로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Book Wyrm
+[Turn 10, Step 34] Agent: 카드 플레이 - Master Swordsmith (코스트: 2)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 6/10
+  Hand (7): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Shrieking Shroom, Dollmaster Dorian, Wyrmrest Purifier
+  Field: Book Wyrm[3/3], Furious Ettin[5/1], North Sea Kraken[9/2], Master Swordsmith[1/3]
+Opponent: Rexxar HP: 27, Mana: 4/10
+  Hand (8)
+  Field: Grand Crusader[5/1], Microcopter[2/1], Sky Claw[1/2], Microcopter[2/1], Rummaging Kobold[1/3]
+[Turn 10, Step 35] Agent: 공격 - Book Wyrm[3/3] -> Microcopter
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(28) → 4로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 10, Step 37] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 38] Agent: 공격 - Furious Ettin[5/1] -> Microcopter
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 10/10
+  Hand (6): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Dollmaster Dorian, Mana Giant
+  Field: Book Wyrm[4/1], North Sea Kraken[9/2], Master Swordsmith[1/3], Shrieking Shroom[1/2], Beaming Sidekick[1/2], Wyrmrest Purifier[3/2]
+Opponent: Rexxar HP: 27, Mana: 10/10
+  Hand (9)
+  Field: Grand Crusader[5/1], Sky Claw[1/2], Rummaging Kobold[1/3]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(67) → 25로 보정
+[Turn 10, Step 40] Agent: 공격 - North Sea Kraken[9/2] -> Rummaging Kobold
+[Turn 10, Step 41] Agent: 공격 - Book Wyrm[4/1] -> Rexxar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(94) → 7로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(80) → 8로 보정
+[Turn 10, Step 43] Agent: 공격 - Master Swordsmith[1/3] -> Sky Claw
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Grand Crusader[5/1] -> Jaina Proudmoore
+[Turn 10, Step 44] Opponent: 카드 플레이 - Grotesque Dragonhawk (코스트: 7)
+[Turn 10, Step 44] Opponent: 공격 - Sky Claw[1/1] -> Helboar
+[Turn 10, Step 44] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 10/10
+  Hand (7): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Dollmaster Dorian, Mana Giant, Frostbolt
+  Field: Book Wyrm[5/1], North Sea Kraken[9/1], Master Swordsmith[1/2], Shrieking Shroom[1/2], Beaming Sidekick[1/2], Wyrmrest Purifier[3/2]
+Opponent: Rexxar HP: 23, Mana: 0/10
+  Hand (8)
+  Field: Grand Crusader[5/1], Grotesque Dragonhawk[5/5], Brann Bronzebeard[2/4]
+[Turn 10, Step 45] Agent: 공격 - Book Wyrm[5/1] -> Brann Bronzebeard
+[Turn 10, Step 46] Agent: 카드 플레이 - Frostbolt -> Grotesque Dragonhawk (코스트: 2)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(37) → 7로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 48] Agent: 공격 - Beaming Sidekick[1/2] -> Grotesque Dragonhawk
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(50) → 16로 보정
+[Turn 10, Step 49] Agent: 공격 - Wyrmrest Purifier[3/2] -> Grotesque Dragonhawk
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 6/10
+  Hand (6): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Dollmaster Dorian, Mana Giant
+  Field: North Sea Kraken[9/1], Master Swordsmith[1/2], Shrieking Shroom[1/2]
+Opponent: Rexxar HP: 22, Mana: 0/10
+  Hand (8)
+  Field: Grand Crusader[5/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 10, Step 50] Agent: 공격 - North Sea Kraken[9/1] -> Rexxar
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(13) → 4로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(67) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Master Swordsmith[1/2] -> Grand Crusader
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Malygos (코스트: 9)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Tentacle of N'Zoth (코스트: 1)
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Tentacle of N'Zoth
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 8, Mana: 8/10
+  Hand (6): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Mana Giant, Mana Giant
+  Field: Shrieking Shroom[1/1], Battlefiend[1/1], Dollmaster Dorian[2/5]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (7)
+  Field: Malygos[4/11]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(57) → 9로 보정
+[Turn 10, Step 55] Agent: 공격 - Battlefiend[1/1] -> Malygos
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(85) → 5로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Mana Giant (코스트: 7)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(77) → 2로 보정
+[Turn 10, Step 57] Agent: 공격 - Shrieking Shroom[1/1] -> Malygos
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(4) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Dollmaster Dorian[2/5] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 영웅 능력 사용
+[Turn 10, Step 59] Opponent: 카드 플레이 - Bloodscalp Strategist (코스트: 3)
+[Turn 10, Step 59] Opponent: 공격 - Malygos[4/9] -> Mana Giant
+[Turn 10, Step 59] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (6): Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Mana Giant, Flamewaker
+  Field: Dollmaster Dorian[2/5], Mana Giant[8/4]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (6)
+  Field: Malygos[4/1], Bloodscalp Strategist[2/4], Blackwater Pirate[2/5]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(32) → 10로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Malygos
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 10, Step 61] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 61] Opponent: 공격 - Blackwater Pirate[2/5] -> Jaina Proudmoore
+[Turn 10, Step 61] Opponent: 카드 플레이 - Volcanic Drake (코스트: 6)
+[Turn 10, Step 61] Opponent: 턴 종료
+[Turn 10, Step 62] Agent: 공격 - Mana Giant[8/4] -> Volcanic Drake
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Flamewaker (코스트: 3)
+[Turn 10, Step 64] Agent: 공격 - Dollmaster Dorian[2/5] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 4, Mana: 7/10
+  Hand (6): Steam Surger, Sleepy Dragon, Spark Drill, Gelbin Mekkatorque, Desert Obelisk, Mana Giant
+  Field: Dollmaster Dorian[2/5], Flamewaker[2/4]
+Opponent: Rexxar HP: 9, Mana: 4/10
+  Hand (6)
+  Field: Bloodscalp Strategist[2/4], Blackwater Pirate[2/5]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Spark Drill (코스트: 6)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(34) → 1로 보정
+[Turn 10, Step 66] Agent: 공격 - Spark Drill[5/1] -> Bloodscalp Strategist
+[Turn 10, Step 67] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 67] Opponent: 공격 - Blackwater Pirate[2/5] -> Dollmaster Dorian
+[Turn 10, Step 67] Opponent: 카드 플레이 - Call of the Wild (코스트: 8)
+[Turn 10, Step 67] Opponent: 공격 - Huffer[5/2] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (7): Steam Surger, Sleepy Dragon, Gelbin Mekkatorque, Desert Obelisk, Mana Giant, Spark, Spark
+  Field: Dollmaster Dorian[2/3], Flamewaker[2/4]
+Opponent: Rexxar HP: 9, Mana: 2/10
+  Hand (6)
+  Field: Blackwater Pirate[3/3], Huffer[5/2], Leokk[2/4], Misha[5/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

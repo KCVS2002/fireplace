@@ -1,0 +1,196 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Recombobulator (코스트: 2)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Hunter's Mark -> Cogmaster (코스트: 2)
+[Turn 2, Step 4] Opponent: 공격 - Recombobulator[3/2] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (5): Maexxna, Hench-Clan Hogsteed, Young Dragonhawk, Griftah, Mogor the Ogre
+  Field: Cogmaster[1/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (4)
+  Field: Recombobulator[3/2]
+[Turn 3, Step 5] Agent: 공격 - Cogmaster[1/1] -> Rexxar
+[Turn 3, Step 6] Agent: 카드 플레이 - Hench-Clan Hogsteed (코스트: 2)
+[Turn 3, Step 7] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 3, Step 8] Agent: 공격 - Hench-Clan Hogsteed[2/1] -> Recombobulator
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 영웅 능력 사용
+[Turn 3, Step 9] Opponent: 카드 플레이 - Tracking (코스트: 1)
+[Turn 3, Step 9] Opponent: 선택 - Coppertail Imposter
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/4
+  Hand (4): Maexxna, Griftah, Mogor the Ogre, Silver Hand Regent
+  Field: Cogmaster[1/1], Hench-Clan Squire[1/1], Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Cogmaster
+[Turn 4, Step 11] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (5): Spellbreaker, Maexxna, Griftah, Mogor the Ogre, Silver Hand Regent
+  Field: Hench-Clan Squire[1/1], Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 24, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 카드 플레이 - Silver Hand Regent (코스트: 3)
+[Turn 5, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Coppertail Imposter (코스트: 4)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 6, Step 19] Agent: 카드 플레이 - Spellbreaker -> Silver Hand Recruit (코스트: 4)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (4): Maexxna, Griftah, Mogor the Ogre, Celestial Emissary
+  Field: Hench-Clan Squire[1/1], Young Dragonhawk[1/1], Silver Hand Regent[3/3], Silver Hand Recruit[1/1], Silver Hand Recruit[1/1], Spellbreaker[4/3]
+Opponent: Rexxar HP: 23, Mana: 1/5
+  Hand (6)
+  Field: Coppertail Imposter[4/4]
+[Turn 6, Step 20] Agent: 공격 - Silver Hand Recruit[1/1] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Silver Hand Regent[3/3] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (4): Maexxna, Griftah, Mogor the Ogre, Celestial Emissary
+  Field: Hench-Clan Squire[1/1], Young Dragonhawk[1/1], Silver Hand Regent[3/3], Silver Hand Recruit[1/1], Silver Hand Recruit[1/1], Spellbreaker[4/3]
+Opponent: Rexxar HP: 16, Mana: 1/5
+  Hand (6)
+  Field: Coppertail Imposter[4/4]
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 카드 플레이 - Toxicologist (코스트: 2)
+[Turn 6, Step 25] Opponent: 공격 - Coppertail Imposter[4/4] -> Silver Hand Regent
+[Turn 6, Step 25] Opponent: 카드 플레이 - Venomstrike Trap (코스트: 2)
+[Turn 6, Step 25] Opponent: 영웅 능력 사용
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 카드 플레이 - Mogor the Ogre (코스트: 6)
+[Turn 7, Step 27] Agent: 공격 - Silver Hand Recruit[1/1] -> Toxicologist
+[Turn 7, Step 28] Agent: 공격 - Spellbreaker[4/3] -> Toxicologist
+[Turn 7, Step 29] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 29] Opponent: 공격 - Emperor Cobra[2/3] -> Silver Hand Recruit
+[Turn 7, Step 29] Opponent: 공격 - Coppertail Imposter[4/1] -> Silver Hand Recruit
+[Turn 7, Step 29] Opponent: 카드 플레이 - Swamp King Dred (코스트: 7)
+[Turn 7, Step 29] Opponent: 공격 - Toxicologist[2/2] -> Silver Hand Recruit
+[Turn 7, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (5): Maexxna, Griftah, Celestial Emissary, Xavius, Wyrmrest Purifier
+  Field: Hench-Clan Squire[1/1], Young Dragonhawk[1/1], Spellbreaker[4/3]
+Opponent: Rexxar HP: 11, Mana: 0/7
+  Hand (5)
+  Field: Toxicologist[2/1], Swamp King Dred[9/9]
+[Turn 8, Step 30] Agent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 8, Step 31] Agent: 공격 - Hench-Clan Squire[1/1] -> Rexxar
+[Turn 8, Step 32] Agent: 영웅 능력 사용 -> Young Dragonhawk
+[Turn 8, Step 33] Agent: 공격 - Spellbreaker[4/3] -> Rexxar
+[Turn 8, Step 34] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 34] Opponent: 공격 - Toxicologist[2/1] -> Hench-Clan Squire
+[Turn 8, Step 34] Opponent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 8, Step 34] Opponent: 영웅 능력 사용
+[Turn 8, Step 34] Opponent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 8, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 9/9
+  Hand (5): Griftah, Celestial Emissary, Xavius, Wyrmrest Purifier, Captain's Parrot
+  Field: Spellbreaker[4/3]
+Opponent: Rexxar HP: 6, Mana: 0/8
+  Hand (4)
+  Field: Meat Wagon[1/4], Stonesplinter Trogg[2/3]
+[Turn 9, Step 35] Agent: 영웅 능력 사용 -> Meat Wagon
+[Turn 9, Step 36] Agent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 9, Step 37] Agent: 선택 - Inkmaster Solia
+[Turn 9, Step 37] Agent: 선택 - Babbling Book
+[Turn 9, Step 37] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 37] Opponent: 카드 플레이 - Jeeves (코스트: 4)
+[Turn 9, Step 37] Opponent: 영웅 능력 사용
+[Turn 9, Step 37] Opponent: 공격 - Stonesplinter Trogg[2/3] -> Jaina Proudmoore
+[Turn 9, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Spellbreaker
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 6/10
+  Hand (5): Xavius, Wyrmrest Purifier, Captain's Parrot, Babbling Book, Shroom Brewer
+  Field: Spellbreaker[4/2], Griftah[4/5], Celestial Emissary[2/1]
+Opponent: Rexxar HP: 6, Mana: 3/9
+  Hand (5)
+  Field: Meat Wagon[1/3], Stonesplinter Trogg[2/3], Jeeves[1/4]
+[Turn 10, Step 40] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 10, Step 41] Agent: 카드 플레이 - Shroom Brewer -> Jaina Proudmoore (코스트: 4)
+[Turn 10, Step 42] Agent: 공격 - Spellbreaker[4/2] -> Rexxar
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Stonesplinter Trogg[2/3] -> Shroom Brewer
+[Turn 10, Step 43] Opponent: 공격 - Meat Wagon[1/3] -> Babbling Book
+[Turn 10, Step 43] Opponent: 카드 플레이 - Inkmaster Solia (코스트: 7)
+[Turn 10, Step 43] Opponent: 공격 - Jeeves[1/4] -> Jaina Proudmoore
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Celestial Emissary
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (5): Xavius, Wyrmrest Purifier, Captain's Parrot, Soul of the Forest, Arcane Devourer
+  Field: Spellbreaker[4/2], Griftah[4/5], Shroom Brewer[4/2]
+Opponent: Rexxar HP: 2, Mana: 3/10
+  Hand (5)
+  Field: Meat Wagon[1/2], Jeeves[1/4], Inkmaster Solia[5/5]
+[Turn 10, Step 45] Agent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 46] Agent: 공격 - Spellbreaker[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/10
+  Hand (4): Wyrmrest Purifier, Captain's Parrot, Soul of the Forest, Arcane Devourer
+  Field: Spellbreaker[4/2], Griftah[4/5], Shroom Brewer[4/2], Xavius[7/5]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (5)
+  Field: Meat Wagon[1/2], Jeeves[1/4], Inkmaster Solia[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

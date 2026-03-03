@@ -1,0 +1,147 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 카드 플레이 - Spellzerker (코스트: 2)
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (4): Bilefin Tidehunter, Tomb Spider, Mad Scientist, Cyclopian Horror
+  Field: Murloc Raider[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Spellzerker[2/3]
+[Turn 2, Step 5] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 2, Step 6] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+[Turn 2, Step 7] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 7] Opponent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 2, Step 7] Opponent: 공격 - Spellzerker[2/3] -> Ooze
+[Turn 2, Step 7] Opponent: 턴 종료
+[Turn 3, Step 8] Agent: 카드 플레이 - Faceless Rager -> Murloc Raider (코스트: 3)
+[Turn 3, Step 9] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (3): Tomb Spider, Mad Scientist, Cyclopian Horror
+  Field: Murloc Raider[2/1], Bilefin Tidehunter[2/1], Faceless Rager[5/1]
+Opponent: Rexxar HP: 26, Mana: 0/3
+  Hand (4)
+  Field: Spellzerker[2/2], Backstreet Leper[3/1]
+[Turn 3, Step 10] Agent: 공격 - Bilefin Tidehunter[2/1] -> Rexxar
+[Turn 3, Step 11] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 11] Opponent: 공격 - Backstreet Leper[3/1] -> Faceless Rager
+[Turn 3, Step 11] Opponent: 공격 - Spellzerker[2/2] -> Jaina Proudmoore
+[Turn 3, Step 11] Opponent: 카드 플레이 - History Buff (코스트: 3)
+[Turn 3, Step 11] Opponent: 턴 종료
+[Turn 4, Step 12] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 4, Step 13] Agent: 선택 - Ironbeak Owl
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 공격 - Spellzerker[2/2] -> Bilefin Tidehunter
+[Turn 4, Step 13] Opponent: 카드 플레이 - Vulpera Scoundrel (코스트: 3)
+[Turn 4, Step 13] Opponent: 선택 - Call of the Wild
+[Turn 4, Step 13] Opponent: 공격 - History Buff[3/4] -> Tomb Spider
+[Turn 4, Step 13] Opponent: 영웅 능력 사용
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Mad Scientist (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (4): Cyclopian Horror, Scavenging Shivarra, Ironbeak Owl, Licensed Adventurer
+  Field: Murloc Raider[2/1], Mad Scientist[2/2]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (5)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/3]
+[Turn 5, Step 15] Agent: 카드 플레이 - Ironbeak Owl -> Murloc Raider (코스트: 3)
+[Turn 5, Step 16] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 6, Step 19] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (3): Cyclopian Horror, Scavenging Shivarra, Licensed Adventurer
+  Field: Murloc Raider[2/1], Mad Scientist[2/2], Ironbeak Owl[2/1], Venture Co. Mercenary[7/6]
+Opponent: Rexxar HP: 20, Mana: 6/6
+  Hand (6)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/3]
+[Turn 6, Step 20] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Ironbeak Owl[2/1] -> Rexxar
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 카드 플레이 - Cyclopian Horror (코스트: 7)
+[Turn 7, Step 24] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/7
+  Hand (3): Scavenging Shivarra, Licensed Adventurer, Barnes
+  Field: Murloc Raider[2/1], Mad Scientist[2/2], Ironbeak Owl[2/1], Venture Co. Mercenary[7/6], Cyclopian Horror[3/5]
+Opponent: Rexxar HP: 14, Mana: 7/7
+  Hand (7)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/3]
+[Turn 7, Step 25] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+[Turn 7, Step 26] Agent: 공격 - Ironbeak Owl[2/1] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Venture Co. Mercenary[7/6] -> Rexxar
+[Turn 7, Step 28] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 28] Opponent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 7, Step 28] Opponent: 턴 종료
+[Turn 8, Step 29] Agent: 공격 - Cyclopian Horror[3/5] -> Sunborne Val'kyr
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (4): Scavenging Shivarra, Licensed Adventurer, Barnes, Wobbling Runts
+  Field: Murloc Raider[2/1], Mad Scientist[2/2], Ironbeak Owl[2/1], Venture Co. Mercenary[7/6]
+Opponent: Rexxar HP: 3, Mana: 3/8
+  Hand (7)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/5], Sunborne Val'kyr[5/1]
+[Turn 8, Step 30] Agent: 카드 플레이 - Licensed Adventurer (코스트: 5)
+[Turn 8, Step 31] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 8, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 33] Agent: 공격 - Murloc Raider[2/1] -> Rexxar
+[Turn 8, Step 34] Agent: 공격 - Mad Scientist[2/2] -> Rexxar
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/8
+  Hand (3): Scavenging Shivarra, Barnes, Wobbling Runts
+  Field: Murloc Raider[2/1], Mad Scientist[2/2], Ironbeak Owl[2/1], Venture Co. Mercenary[7/6], Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 0, Mana: 3/8
+  Hand (7)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/5], Sunborne Val'kyr[5/1]
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/8
+  Hand (3): Scavenging Shivarra, Barnes, Wobbling Runts
+  Field: Murloc Raider[2/1], Mad Scientist[2/2], Ironbeak Owl[2/1], Venture Co. Mercenary[7/6], Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 0, Mana: 3/8
+  Hand (7)
+  Field: History Buff[3/1], Vulpera Scoundrel[2/5], Sunborne Val'kyr[5/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

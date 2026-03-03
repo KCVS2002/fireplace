@@ -1,0 +1,336 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - On the Hunt -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(43) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Mastiff[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Undertaker (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Nat Pagle, Ancient of Blossoms, Jade Spirit, Portal Overfiend, Murloc Tidecaller, Ruststeed Raider
+  Field: Garrison Commander[2/3]
+Opponent: Rexxar HP: 30, Mana: 2/3
+  Hand (4)
+  Field: Mastiff[1/1], Stubborn Gastropod[1/2], Undertaker[1/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 4, Step 5] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 5] Opponent: 공격 - Undertaker[1/2] -> Jaina Proudmoore
+[Turn 4, Step 5] Opponent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 4, Step 5] Opponent: 공격 - Stubborn Gastropod[1/2] -> Jaina Proudmoore
+[Turn 4, Step 5] Opponent: 카드 플레이 - Scarab Egg (코스트: 2)
+[Turn 4, Step 5] Opponent: 공격 - Mastiff[1/1] -> Garrison Commander
+[Turn 4, Step 5] Opponent: 턴 종료
+[Turn 5, Step 6] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 5, Step 6] Agent: 영웅 능력 사용 -> Stubborn Gastropod
+[Turn 5, Step 7] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 5, Step 7] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 7] Opponent: 공격 - Garrison Commander[2/3] -> Garrison Commander
+[Turn 5, Step 7] Opponent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 5, Step 7] Opponent: 공격 - Undertaker[2/2] -> Jaina Proudmoore
+[Turn 5, Step 7] Opponent: 공격 - Stubborn Gastropod[1/1] -> Jaina Proudmoore
+[Turn 5, Step 7] Opponent: 턴 종료
+[Turn 6, Step 8] Agent: 영웅 능력 사용 -> Scarab Egg
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 6, Step 9] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/6
+  Hand (7): Ancient of Blossoms, Jade Spirit, Portal Overfiend, Murloc Tidecaller, Ruststeed Raider, Azalina Soulthief, Coldlight Oracle
+  Field: Nat Pagle[0/4]
+Opponent: Rexxar HP: 30, Mana: 0/5
+  Hand (3)
+  Field: Stubborn Gastropod[1/1], Undertaker[2/2], Garrison Commander[2/1], Scarab Egg[0/1], Wargear[5/5]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(35) → 1로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Murloc Tidecaller (코스트: 1)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 7, Step 13] Agent: 공격 - Murloc Tidecaller[1/2] -> Stubborn Gastropod
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 7, Step 14] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/7
+  Hand (7): Ancient of Blossoms, Jade Spirit, Portal Overfiend, Azalina Soulthief, Coldlight Oracle, Swift Messenger, The Curator
+  Field: Nat Pagle[0/3], Ruststeed Raider[5/8]
+Opponent: Rexxar HP: 30, Mana: 6/6
+  Hand (4)
+  Field: Undertaker[2/2], Garrison Commander[2/1], Scarab Egg[0/1], Wargear[5/5]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(16) → 1로 보정
+[Turn 7, Step 15] Agent: 공격 - Ruststeed Raider[5/8] -> Undertaker
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 카드 플레이 - Houndmaster (코스트: 4)
+[Turn 7, Step 16] Opponent: 공격 - Garrison Commander[2/1] -> Ruststeed Raider
+[Turn 7, Step 16] Opponent: 영웅 능력 사용
+[Turn 7, Step 16] Opponent: 공격 - Wargear[5/5] -> Ruststeed Raider
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(25) → 9로 보정
+[Turn 8, Step 17] Agent: 카드 플레이 - Wailing Soul (코스트: 4)
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Swift Messenger (코스트: 4)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 8, Step 19] Agent: 공격 - Swift Messenger[2/6] -> Scarab Egg
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (7): Ancient of Blossoms, Jade Spirit, Portal Overfiend, Azalina Soulthief, Coldlight Oracle, The Curator, Arcane Anomaly
+  Field: Nat Pagle[0/3], Wailing Soul[3/5], Swift Messenger[2/6]
+Opponent: Rexxar HP: 30, Mana: 1/7
+  Hand (4)
+  Field: Scarab[1/1], Scarab[1/1], Scarab[1/1], Wargear[5/4], Houndmaster[4/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(41) → 0로 보정
+[Turn 8, Step 20] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 20] Opponent: 턴 종료
+[Turn 9, Step 21] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 21] Opponent: 공격 - Houndmaster[4/3] -> Swift Messenger
+[Turn 9, Step 21] Opponent: 턴 종료
+[Turn 10, Step 22] Agent: 유효하지 않은 액션 인덱스(87) → 23로 보정
+[Turn 10, Step 22] Agent: 공격 - Wailing Soul[3/5] -> Scarab
+[Turn 10, Step 23] Agent: 카드 플레이 - Ancient of Blossoms (코스트: 6)
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(41) → 3로 보정
+[Turn 10, Step 24] Agent: 카드 플레이 - Arcane Anomaly (코스트: 1)
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (7): Jade Spirit, Portal Overfiend, Azalina Soulthief, Coldlight Oracle, The Curator, Marin the Fox, Silver Vanguard
+  Field: Nat Pagle[0/3], Wailing Soul[3/4], Swift Messenger[2/2], Ancient of Blossoms[3/8], Arcane Anomaly[2/1]
+Opponent: Rexxar HP: 30, Mana: 9/9
+  Hand (6)
+  Field: Scarab[1/1], Scarab[1/1], Wargear[5/4], Houndmaster[4/1]
+[Turn 10, Step 25] Agent: 공격 - Swift Messenger[2/2] -> Wargear
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(13) → 1로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Coldlight Oracle (코스트: 3)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(71) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(75) → 34로 보정
+[Turn 10, Step 28] Agent: 공격 - Arcane Anomaly[2/1] -> Wargear
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(78) → 16로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Scarab
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (9): Blistering Rot, Jade Spirit, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Silver Vanguard, Backroom Bouncer, Proud Defender
+  Field: Nat Pagle[0/3], Wailing Soul[3/4], Ancient of Blossoms[3/8], Coldlight Oracle[2/2]
+Opponent: Rexxar HP: 30, Mana: 10/10
+  Hand (9)
+  Field: Scarab[1/1], Houndmaster[4/1]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(55) → 17로 보정
+[Turn 10, Step 30] Agent: 공격 - Coldlight Oracle[2/2] -> Scarab
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 10, Step 31] Agent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 카드 플레이 - Multi-Shot (코스트: 4)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 10, Step 32] Opponent: 카드 플레이 - Serpent Ward (코스트: 2)
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(76) → 16로 보정
+[Turn 10, Step 34] Agent: 공격 - Wailing Soul[3/4] -> Blackwater Pirate
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/10
+  Hand (9): Blistering Rot, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Silver Vanguard, Backroom Bouncer, Proud Defender, Faceless Shambler
+  Field: Nat Pagle[0/2], Wailing Soul[3/2], Ancient of Blossoms[3/5], Coldlight Oracle[2/1], Jade Spirit[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/10
+  Hand (7)
+  Field: Houndmaster[4/1], Blackwater Pirate[2/2], Serpent Ward[0/2]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(40) → 14로 보정
+[Turn 10, Step 35] Agent: 공격 - Ancient of Blossoms[3/5] -> Rexxar
+[Turn 10, Step 36] Agent: 카드 플레이 - Proud Defender (코스트: 4)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(78) → 10로 보정
+[Turn 10, Step 37] Agent: 공격 - Coldlight Oracle[2/1] -> Houndmaster
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 10, Step 38] Agent: 카드 플레이 - Faceless Shambler -> Ancient of Blossoms (코스트: 4)
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 10, Step 39] Agent: 공격 - Jade Spirit[2/3] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 0/10
+  Hand (7): Blistering Rot, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Silver Vanguard, Backroom Bouncer
+  Field: Nat Pagle[0/2], Wailing Soul[3/2], Ancient of Blossoms[3/5], Jade Spirit[2/3], Proud Defender[2/6], Faceless Shambler[3/5]
+Opponent: Rexxar HP: 25, Mana: 0/10
+  Hand (7)
+  Field: Blackwater Pirate[2/2], Serpent Ward[0/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Blackwater Pirate[2/2] -> Faceless Shambler
+[Turn 10, Step 40] Opponent: 카드 플레이 - Scaleworm (코스트: 4)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(41) → 7로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Backroom Bouncer (코스트: 4)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(84) → 3로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Nat Pagle
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(62) → 14로 보정
+[Turn 10, Step 43] Agent: 공격 - Faceless Shambler[3/3] -> Serpent Ward
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (8): Blistering Rot, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Silver Vanguard, Jeweled Scarab, Bonechewer Vanguard
+  Field: Nat Pagle[0/1], Wailing Soul[3/2], Ancient of Blossoms[3/5], Jade Spirit[2/3], Proud Defender[2/6], Faceless Shambler[3/3], Backroom Bouncer[4/4]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (8)
+  Field: Scaleworm[5/4]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jade Spirit
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(37) → 11로 보정
+[Turn 10, Step 46] Agent: 공격 - Backroom Bouncer[4/4] -> Rexxar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(79) → 2로 보정
+[Turn 10, Step 47] Agent: 공격 - Wailing Soul[3/2] -> Scaleworm
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(99) → 14로 보정
+[Turn 10, Step 48] Agent: 공격 - Proud Defender[2/6] -> Scaleworm
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(18) → 6로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (7): Blistering Rot, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Jeweled Scarab, Bonechewer Vanguard
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/5], Jade Spirit[2/2], Proud Defender[2/1], Faceless Shambler[3/3], Backroom Bouncer[5/4], Silver Vanguard[3/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (8)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Crowd Roaster -> Silver Vanguard (코스트: 7)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(88) → 19로 보정
+[Turn 10, Step 51] Agent: 공격 - Backroom Bouncer[5/4] -> Rexxar
+[Turn 10, Step 52] Agent: 공격 - Ancient of Blossoms[3/5] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(26) → 7로 보정
+[Turn 10, Step 53] Agent: 영웅 능력 사용 -> Faceless Shambler
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(40) → 4로 보정
+[Turn 10, Step 54] Agent: 공격 - Proud Defender[2/1] -> Crowd Roaster
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (8): Blistering Rot, Portal Overfiend, Azalina Soulthief, The Curator, Marin the Fox, Jeweled Scarab, Bonechewer Vanguard, Deathwing, Dragonlord
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/5], Jade Spirit[2/2], Faceless Shambler[3/2], Backroom Bouncer[6/4], Silver Vanguard[3/3]
+Opponent: Rexxar HP: 13, Mana: 3/10
+  Hand (8)
+  Field: Crowd Roaster[7/2]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(67) → 11로 보정
+[Turn 10, Step 55] Agent: 공격 - Faceless Shambler[3/2] -> Crowd Roaster
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(74) → 4로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - The Curator (코스트: 7)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(4) → 1로 보정
+[Turn 10, Step 57] Agent: 공격 - Jade Spirit[2/2] -> Rexxar
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 58] Agent: 공격 - Silver Vanguard[3/3] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 10/10
+  Hand (8): Dragonling Mechanic, Blistering Rot, Portal Overfiend, Azalina Soulthief, Marin the Fox, Jeweled Scarab, Bonechewer Vanguard, Deathwing, Dragonlord
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/5], Jade Spirit[2/2], Backroom Bouncer[7/4], Silver Vanguard[3/3], The Curator[4/6]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (9)
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Portal Overfiend (코스트: 6)
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(98) → 8로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> The Curator
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(6) → 0로 보정
+[Turn 10, Step 62] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 62] Opponent: 카드 플레이 - Sludge Belcher (코스트: 5)
+[Turn 10, Step 62] Opponent: 카드 플레이 - Call Pet (코스트: 2)
+[Turn 10, Step 62] Opponent: 카드 플레이 - Knife Juggler (코스트: 2)
+[Turn 10, Step 62] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 10, Step 62] Opponent: 턴 종료
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 10, Step 63] Agent: 공격 - Jade Spirit[2/2] -> Sludge Belcher
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(66) → 18로 보정
+[Turn 10, Step 64] Agent: 영웅 능력 사용 -> Knife Juggler
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 8/10
+  Hand (8): Dragonling Mechanic, Blistering Rot, Azalina Soulthief, Marin the Fox, Jeweled Scarab, Bonechewer Vanguard, Deathwing, Dragonlord, Sorcerer's Apprentice
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/4], Backroom Bouncer[8/4], Silver Vanguard[3/3], The Curator[4/5], Portal Overfiend[5/6]
+Opponent: Rexxar HP: 8, Mana: 0/10
+  Hand (7)
+  Field: Sludge Belcher[3/3], Knife Juggler[2/1], Worgen Infiltrator[2/1]
+[Turn 10, Step 65] Agent: 공격 - Ancient of Blossoms[3/4] -> Sludge Belcher
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 66] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(51) → 1로 보정
+[Turn 10, Step 67] Agent: 공격 - Backroom Bouncer[8/4] -> Putrid Slime
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 10, Step 68] Agent: 공격 - Portal Overfiend[5/6] -> Rexxar
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 69] Agent: 공격 - Silver Vanguard[3/2] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (7): Wrathion, To My Side!, Bestial Wrath, Raid Leader, Spiteful Summoner, Bloodfen Raptor, Gadgetzan Auctioneer
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/1], Backroom Bouncer[8/3], Silver Vanguard[3/2], The Curator[4/5], Portal Overfiend[5/6], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Knife Juggler[2/1], Worgen Infiltrator[2/1]
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 1/10
+  Hand (7): Wrathion, To My Side!, Bestial Wrath, Raid Leader, Spiteful Summoner, Bloodfen Raptor, Gadgetzan Auctioneer
+  Field: Nat Pagle[0/1], Ancient of Blossoms[3/1], Backroom Bouncer[8/3], Silver Vanguard[3/2], The Curator[4/5], Portal Overfiend[5/6], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 0, Mana: 0/10
+  Hand (7)
+  Field: Knife Juggler[2/1], Worgen Infiltrator[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

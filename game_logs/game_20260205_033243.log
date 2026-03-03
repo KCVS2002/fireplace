@@ -1,0 +1,482 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - River Crocolisk (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(27) → 2로 보정
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - River Crocolisk[2/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Twisted Worgen (코스트: 2)
+[Turn 3, Step 4] Agent: 유효하지 않은 액션 인덱스(36) → 0로 보정
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - River Crocolisk[2/3] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 영웅 능력 사용
+[Turn 3, Step 4] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/4
+  Hand (6): Meteorologist, Burgly Bully, Spark Drill, Arena Treasure Chest, Onyxia, Ogre Brute
+  Field: Twisted Worgen[3/1]
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: River Crocolisk[2/3], Cogmaster[1/2]
+[Turn 4, Step 5] Agent: 유효하지 않은 액션 인덱스(19) → 8로 보정
+[Turn 4, Step 5] Agent: 공격 - Twisted Worgen[3/1] -> Rexxar
+[Turn 4, Step 6] Agent: 유효하지 않은 액션 인덱스(68) → 4로 보정
+[Turn 4, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(48) → 0로 보정
+[Turn 5, Step 8] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 8] Opponent: 턴 종료
+[Turn 6, Step 9] Agent: 유효하지 않은 액션 인덱스(54) → 9로 보정
+[Turn 6, Step 9] Agent: 영웅 능력 사용 -> River Crocolisk
+
+--- Game State (Turn 6, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/6
+  Hand (8): Argent Commander, Meteorologist, Burgly Bully, Spark Drill, Arena Treasure Chest, Onyxia, Ogre Brute, Nozdormu
+  Field: Twisted Worgen[3/1]
+Opponent: Rexxar HP: 26, Mana: 5/5
+  Hand (7)
+  Field: River Crocolisk[2/2], Cogmaster[1/2]
+[Turn 6, Step 10] Agent: 유효하지 않은 액션 인덱스(74) → 2로 보정
+[Turn 6, Step 10] Agent: 카드 플레이 - Ogre Brute (코스트: 3)
+[Turn 6, Step 11] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 카드 플레이 - Bestial Wrath -> River Crocolisk (코스트: 1)
+[Turn 6, Step 11] Opponent: 카드 플레이 - Silverback Patriarch (코스트: 3)
+[Turn 6, Step 11] Opponent: 공격 - River Crocolisk[4/2] -> Ogre Brute
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(95) → 11로 보정
+[Turn 7, Step 12] Agent: 영웅 능력 사용 -> Cogmaster
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(88) → 3로 보정
+[Turn 7, Step 13] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(23) → 1로 보정
+[Turn 7, Step 14] Agent: 공격 - Twisted Worgen[3/1] -> Silverback Patriarch
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/7
+  Hand (7): Stampeding Kodo, Argent Commander, Meteorologist, Burgly Bully, Spark Drill, Onyxia, Nozdormu
+  Field: Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 26, Mana: 2/6
+  Hand (6)
+  Field: River Crocolisk[2/2], Cogmaster[1/1], Silverback Patriarch[1/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(77) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 공격 - Silverback Patriarch[1/1] -> Arena Treasure Chest
+[Turn 7, Step 15] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 7, Step 15] Opponent: 카드 플레이 - Time Rewinder -> Toshley (코스트: 1)
+[Turn 7, Step 15] Opponent: 공격 - River Crocolisk[2/2] -> Jaina Proudmoore
+[Turn 7, Step 15] Opponent: 공격 - Cogmaster[1/1] -> Jaina Proudmoore
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(57) → 5로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Spark Drill (코스트: 6)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(81) → 0로 보정
+[Turn 8, Step 17] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 17] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 8, Step 17] Opponent: 카드 플레이 - Finicky Cloakfield -> Silverback Patriarch (코스트: 1)
+[Turn 8, Step 17] Opponent: 공격 - Silverback Patriarch[1/1] -> Jaina Proudmoore
+[Turn 8, Step 17] Opponent: 턴 종료
+[Turn 9, Step 18] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 9, Step 18] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 18] Opponent: 턴 종료
+[Turn 10, Step 19] Agent: 유효하지 않은 액션 인덱스(94) → 18로 보정
+[Turn 10, Step 19] Agent: 공격 - Spark Drill[5/1] -> Silverback Patriarch
+
+--- Game State (Turn 10, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 10/10
+  Hand (10): Stampeding Kodo, Argent Commander, Meteorologist, Burgly Bully, Onyxia, Nozdormu, Magtheridon, Sneed's Old Shredder, Arcane Tyrant, Spark
+  Field: Arena Treasure Chest[0/3]
+Opponent: Rexxar HP: 26, Mana: 9/9
+  Hand (8)
+  Field: River Crocolisk[2/2], Cogmaster[1/1], Toshley[5/7]
+[Turn 10, Step 20] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 10, Step 20] Agent: 카드 플레이 - Stampeding Kodo (코스트: 5)
+[Turn 10, Step 21] Agent: 유효하지 않은 액션 인덱스(42) → 9로 보정
+[Turn 10, Step 21] Agent: 영웅 능력 사용 -> Toshley
+[Turn 10, Step 22] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 10, Step 22] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 22] Opponent: 카드 플레이 - Living Monument (코스트: 10)
+[Turn 10, Step 22] Opponent: 공격 - River Crocolisk[2/2] -> Jaina Proudmoore
+[Turn 10, Step 22] Opponent: 턴 종료
+[Turn 10, Step 23] Agent: 유효하지 않은 액션 인덱스(65) → 8로 보정
+[Turn 10, Step 23] Agent: 카드 플레이 - Arcane Tyrant (코스트: 5)
+[Turn 10, Step 24] Agent: 유효하지 않은 액션 인덱스(21) → 7로 보정
+[Turn 10, Step 24] Agent: 영웅 능력 사용 -> River Crocolisk
+
+--- Game State (Turn 10, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 3/10
+  Hand (9): Argent Commander, Meteorologist, Burgly Bully, Onyxia, Nozdormu, Magtheridon, Sneed's Old Shredder, Spark, Scorp-o-matic
+  Field: Arena Treasure Chest[0/3], Stampeding Kodo[3/5], Arcane Tyrant[4/4]
+Opponent: Rexxar HP: 26, Mana: 0/10
+  Hand (8)
+  Field: River Crocolisk[2/1], Toshley[5/6], Living Monument[10/10]
+[Turn 10, Step 25] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 25] Agent: 카드 플레이 - Spark (코스트: 1)
+[Turn 10, Step 26] Agent: 유효하지 않은 액션 인덱스(87) → 2로 보정
+[Turn 10, Step 26] Agent: 카드 플레이 - Scorp-o-matic -> Spark (코스트: 2)
+[Turn 10, Step 27] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Living Monument[10/10] -> Arena Treasure Chest
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(50) → 6로 보정
+[Turn 10, Step 28] Agent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 10, Step 29] Agent: 공격 - Scorp-o-matic[1/2] -> Living Monument
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (9): Clockwork Automaton, Argent Commander, Meteorologist, Burgly Bully, Onyxia, Magtheridon, Sneed's Old Shredder, Ruststeed Raider, Garrison Commander
+  Field: Stampeding Kodo[3/5], Arcane Tyrant[4/4], Nozdormu[8/8]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (9)
+  Field: River Crocolisk[2/1], Toshley[5/6], Living Monument[10/9]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 공격 - River Crocolisk[2/1] -> Arcane Tyrant
+[Turn 10, Step 30] Opponent: 카드 플레이 - Rattling Rascal (코스트: 4)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Venture Co. Mercenary (코스트: 5)
+[Turn 10, Step 30] Opponent: 공격 - Toshley[5/6] -> Stampeding Kodo
+[Turn 10, Step 30] Opponent: 공격 - Living Monument[10/9] -> Jaina Proudmoore
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(40) → 18로 보정
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Skeletal Enforcer
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Meteorologist (코스트: 6)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(4) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Toshley[5/1] -> Meteorologist
+[Turn 10, Step 33] Opponent: 카드 플레이 - Emergency Coolant -> Nozdormu (코스트: 1)
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(39) → 19로 보정
+[Turn 10, Step 34] Agent: 공격 - Arcane Tyrant[4/2] -> Living Monument
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (10): Clockwork Automaton, Argent Commander, Burgly Bully, Onyxia, Magtheridon, Sneed's Old Shredder, Ruststeed Raider, Garrison Commander, Igneous Elemental, Grimestreet Informant
+  Field: Nozdormu[8/8]
+Opponent: Rexxar HP: 26, Mana: 9/10
+  Hand (9)
+  Field: Living Monument[10/4], Rattling Rascal[2/1], Skeletal Enforcer[5/1], Venture Co. Mercenary[7/4]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(86) → 14로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Nozdormu
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Argent Commander (코스트: 6)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(79) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Argent Commander[4/2] -> Living Monument
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Faceless Shambler -> Venture Co. Mercenary (코스트: 7)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(98) → 14로 보정
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Rattling Rascal
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 8/10
+  Hand (10): Clockwork Automaton, Burgly Bully, Onyxia, Magtheridon, Sneed's Old Shredder, Ruststeed Raider, Garrison Commander, Igneous Elemental, Grimestreet Informant, Dune Sculptor
+  Field: Skeletal Enforcer[5/5], Nozdormu[8/7], Argent Commander[4/2]
+Opponent: Rexxar HP: 26, Mana: 3/10
+  Hand (9)
+  Field: Skeletal Enforcer[5/1], Venture Co. Mercenary[7/4], Faceless Shambler[7/4]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 10, Step 40] Agent: 카드 플레이 - Sneed's Old Shredder (코스트: 8)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(88) → 16로 보정
+[Turn 10, Step 42] Agent: 영웅 능력 사용 -> Argent Commander
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(89) → 5로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Garrison Commander (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(33) → 10로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 4/10
+  Hand (9): Clockwork Automaton, Burgly Bully, Onyxia, Magtheridon, Ruststeed Raider, Igneous Elemental, Grimestreet Informant, Dune Sculptor, Unstable Ghoul
+  Field: Skeletal Enforcer[5/5], Nozdormu[8/7], Argent Commander[4/1], Sneed's Old Shredder[5/7], Garrison Commander[2/3]
+Opponent: Rexxar HP: 25, Mana: 10/10
+  Hand (10)
+  Field: Skeletal Enforcer[5/1], Venture Co. Mercenary[7/4], Faceless Shambler[7/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(21) → 1로 보정
+[Turn 10, Step 45] Agent: 카드 플레이 - Magtheridon (코스트: 4)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(86) → 1로 보정
+[Turn 10, Step 46] Agent: 공격 - Skeletal Enforcer[5/5] -> Faceless Shambler
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(68) → 11로 보정
+[Turn 10, Step 47] Agent: 공격 - Argent Commander[4/1] -> Hellfire Warder
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(26) → 4로 보정
+[Turn 10, Step 48] Agent: 공격 - Nozdormu[8/7] -> Hellfire Warder
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(5) → 0로 보정
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 공격 - Venture Co. Mercenary[7/4] -> Sneed's Old Shredder
+[Turn 10, Step 49] Opponent: 공격 - Skeletal Enforcer[5/1] -> Garrison Commander
+[Turn 10, Step 49] Opponent: 카드 플레이 - Loatheb (코스트: 5)
+[Turn 10, Step 49] Opponent: 공격 - Hellfire Warder[1/3] -> Nozdormu
+[Turn 10, Step 49] Opponent: 카드 플레이 - Shieldbreaker (코스트: 2)
+[Turn 10, Step 49] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 10/10
+  Hand (9): Clockwork Automaton, Burgly Bully, Onyxia, Ruststeed Raider, Igneous Elemental, Grimestreet Informant, Dune Sculptor, Unstable Ghoul, Captured Jormungar
+  Field: Nozdormu[8/5], Bolvar, Fireblood[1/7], Magtheridon[12/12]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: Loatheb[5/5], Shieldbreaker[2/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(76) → 10로 보정
+[Turn 10, Step 50] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(56) → 11로 보정
+[Turn 10, Step 51] Agent: 공격 - Nozdormu[8/5] -> Shieldbreaker
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(15) → 4로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(58) → 4로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 10, Step 54] Agent: 선택 - Risky Skipper
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(57) → 3로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Risky Skipper (코스트: 1)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 2/10
+  Hand (7): Clockwork Automaton, Burgly Bully, Onyxia, Ruststeed Raider, Dune Sculptor, Unstable Ghoul, Captured Jormungar
+  Field: Nozdormu[8/3], Bolvar, Fireblood[1/7], Magtheridon[12/12], Igneous Elemental[2/3], Grimestreet Informant[1/1], Risky Skipper[1/3]
+Opponent: Rexxar HP: 25, Mana: 1/10
+  Hand (7)
+  Field: Loatheb[5/5]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(46) → 2로 보정
+[Turn 10, Step 55] Agent: 공격 - Bolvar, Fireblood[1/7] -> Rexxar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 카드 플레이 - Mayor Noggenfogger (코스트: 9)
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Nine Lives (코스트: 3)
+[Turn 10, Step 58] Opponent: 선택 - Toshley
+[Turn 10, Step 58] Opponent: 카드 플레이 - Dragonslayer -> Nozdormu (코스트: 3)
+[Turn 10, Step 58] Opponent: 공격 - Mayor Noggenfogger[5/3] -> Risky Skipper
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Igneous Elemental[2/2] -> Rexxar
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (8): Clockwork Automaton, Burgly Bully, Ruststeed Raider, Dune Sculptor, Unstable Ghoul, Captured Jormungar, Auctionmaster Beardo, Bonechewer Vanguard
+  Field: Bolvar, Fireblood[3/7], Magtheridon[12/12], Igneous Elemental[2/2], Risky Skipper[1/2], Onyxia[8/2]
+Opponent: Rexxar HP: 22, Mana: 4/10
+  Hand (8)
+  Field: Loatheb[5/4], Dragonslayer[4/3]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(85) → 7로 보정
+[Turn 10, Step 60] Agent: 카드 플레이 - Auctionmaster Beardo (코스트: 3)
+[Turn 10, Step 61] Agent: 공격 - Onyxia[8/1] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(87) → 18로 보정
+[Turn 10, Step 62] Agent: 공격 - Bolvar, Fireblood[3/6] -> Loatheb
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(84) → 12로 보정
+[Turn 10, Step 63] Agent: 영웅 능력 사용 -> Risky Skipper
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Ruststeed Raider (코스트: 5)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 0/10
+  Hand (6): Clockwork Automaton, Burgly Bully, Dune Sculptor, Unstable Ghoul, Captured Jormungar, Bonechewer Vanguard
+  Field: Bolvar, Fireblood[3/1], Magtheridon[12/12], Igneous Elemental[2/1], Onyxia[8/1], Auctionmaster Beardo[3/3], Ruststeed Raider[5/8]
+Opponent: Rexxar HP: 14, Mana: 4/10
+  Hand (8)
+  Field: Dragonslayer[4/2]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(87) → 1로 보정
+[Turn 10, Step 65] Agent: 공격 - Ruststeed Raider[5/8] -> Dragonslayer
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 카드 플레이 - Emergency Coolant -> Onyxia (코스트: 1)
+[Turn 10, Step 66] Opponent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(66) → 12로 보정
+[Turn 10, Step 67] Agent: 영웅 능력 사용 -> Onyxia
+[Turn 10, Step 68] Agent: 공격 - Igneous Elemental[2/1] -> Whelp
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(43) → 12로 보정
+[Turn 10, Step 69] Agent: 공격 - Bolvar, Fireblood[3/1] -> Whelp
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (9): Clockwork Automaton, Burgly Bully, Dune Sculptor, Unstable Ghoul, Captured Jormungar, Bonechewer Vanguard, Aluneth, Flame Elemental, Flame Elemental
+  Field: Magtheridon[12/12], Auctionmaster Beardo[3/3], Ruststeed Raider[1/4]
+Opponent: Rexxar HP: 14, Mana: 0/10
+  Hand (7)
+  Field: Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1], Whelp[1/1]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 70] Agent: 카드 플레이 - Bonechewer Vanguard (코스트: 7)
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(38) → 8로 보정
+[Turn 10, Step 71] Agent: 공격 - Auctionmaster Beardo[3/3] -> Whelp
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(98) → 2로 보정
+[Turn 10, Step 72] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 73] Agent: 공격 - Ruststeed Raider[1/4] -> Whelp
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(55) → 0로 보정
+[Turn 10, Step 74] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 74] Opponent: 카드 플레이 - Archivist Elysiana (코스트: 9)
+[Turn 10, Step 74] Opponent: 선택 - Arena Patron
+[Turn 10, Step 74] Opponent: 선택 - Arcanosmith
+[Turn 10, Step 74] Opponent: 선택 - Belligerent Gnome
+[Turn 10, Step 74] Opponent: 선택 - Genzo, the Shark
+[Turn 10, Step 74] Opponent: 선택 - Gnomish Experimenter
+[Turn 10, Step 74] Opponent: 공격 - Whelp[1/1] -> Ruststeed Raider
+[Turn 10, Step 74] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (8): Clockwork Automaton, Burgly Bully, Dune Sculptor, Unstable Ghoul, Captured Jormungar, Aluneth, Flame Elemental, Wax Elemental
+  Field: Magtheridon[12/12], Auctionmaster Beardo[3/2], Ruststeed Raider[1/2], Bonechewer Vanguard[4/10], Flame Elemental[1/2]
+Opponent: Rexxar HP: 14, Mana: 1/10
+  Hand (7)
+  Field: Onyxia[8/8], Whelp[1/1], Archivist Elysiana[7/7]
+[Turn 10, Step 75] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 75] Opponent: 공격 - Whelp[1/1] -> Bonechewer Vanguard
+[Turn 10, Step 75] Opponent: 카드 플레이 - Y'Shaarj, Rage Unbound (코스트: 10)
+[Turn 10, Step 75] Opponent: 공격 - Onyxia[8/8] -> Bonechewer Vanguard
+[Turn 10, Step 75] Opponent: 공격 - Archivist Elysiana[7/7] -> Bonechewer Vanguard
+[Turn 10, Step 75] Opponent: 턴 종료
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(85) → 10로 보정
+[Turn 10, Step 77] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(25) → 0로 보정
+[Turn 10, Step 78] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 78] Opponent: 카드 플레이 - Genzo, the Shark (코스트: 4)
+[Turn 10, Step 78] Opponent: 공격 - Genzo, the Shark[5/4] -> Ruststeed Raider
+[Turn 10, Step 78] Opponent: 공격 - Archivist Elysiana[7/3] -> Unpowered Mauler
+[Turn 10, Step 78] Opponent: 공격 - Y'Shaarj, Rage Unbound[10/10] -> Auctionmaster Beardo
+[Turn 10, Step 78] Opponent: 턴 종료
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(26) → 4로 보정
+[Turn 10, Step 79] Agent: 카드 플레이 - Unstable Ghoul (코스트: 2)
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 8/10
+  Hand (9): Clockwork Automaton, Burgly Bully, Dune Sculptor, Captured Jormungar, Aluneth, Flame Elemental, Wax Elemental, Mana Cyclone, Doomed Apprentice
+  Field: Magtheridon[12/12], Flame Elemental[1/2], Unstable Ghoul[1/3]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (7)
+  Field: Onyxia[8/4], Archivist Elysiana[7/1], Y'Shaarj, Rage Unbound[10/7], Belligerent Gnome[1/4], Gnomish Experimenter[3/2], Genzo, the Shark[5/3], Genzo, the Shark[5/4]
+[Turn 10, Step 80] Agent: 유효하지 않은 액션 인덱스(74) → 8로 보정
+[Turn 10, Step 80] Agent: 카드 플레이 - Mana Cyclone (코스트: 2)
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(27) → 6로 보정
+[Turn 10, Step 81] Agent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(58) → 18로 보정
+[Turn 10, Step 82] Agent: 영웅 능력 사용 -> Wax Elemental
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(56) → 1로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Dune Sculptor (코스트: 3)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(58) → 0로 보정
+[Turn 10, Step 84] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 84] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 6, Mana: 10/10
+  Hand (7): Clockwork Automaton, Burgly Bully, Captured Jormungar, Aluneth, Flame Elemental, Doomed Apprentice, Gilblin Stalker
+  Field: Magtheridon[12/12], Flame Elemental[1/2], Unstable Ghoul[1/3], Mana Cyclone[2/2], Wax Elemental[0/2], Dune Sculptor[3/3]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (8)
+  Field: Onyxia[8/4], Archivist Elysiana[7/1], Y'Shaarj, Rage Unbound[10/7], Belligerent Gnome[1/4], Gnomish Experimenter[3/2], Genzo, the Shark[5/3], Genzo, the Shark[5/4]
+[Turn 10, Step 85] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(78) → 18로 보정
+[Turn 10, Step 86] Agent: 공격 - Mana Cyclone[2/2] -> Belligerent Gnome
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(87) → 11로 보정
+[Turn 10, Step 87] Agent: 영웅 능력 사용 -> Unstable Ghoul
+[Turn 10, Step 88] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 88] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 88] Opponent: 공격 - Belligerent Gnome[1/2] -> Wax Elemental
+[Turn 10, Step 88] Opponent: 턴 종료
+[Turn 10, Step 89] Agent: 영웅 능력 사용 -> Flame Elemental
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 5, Mana: 8/10
+  Hand (6): Clockwork Automaton, Captured Jormungar, Aluneth, Flame Elemental, Doomed Apprentice, Gilblin Stalker
+  Field: Magtheridon[12/12], Flame Elemental[1/1], Unstable Ghoul[1/2], Mana Cyclone[2/1], Wax Elemental[0/1], Dune Sculptor[3/3], Burgly Bully[4/6]
+Opponent: Rexxar HP: 14, Mana: 10/10
+  Hand (9)
+  Field: Onyxia[8/4], Archivist Elysiana[7/1], Y'Shaarj, Rage Unbound[10/7], Belligerent Gnome[1/2], Gnomish Experimenter[3/2], Genzo, the Shark[5/3], Genzo, the Shark[5/4]
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(16) → 2로 보정
+[Turn 10, Step 90] Agent: 공격 - Flame Elemental[1/1] -> Belligerent Gnome
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Captured Jormungar (코스트: 7)
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 92] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 92] Opponent: 공격 - Belligerent Gnome[1/1] -> Wax Elemental
+[Turn 10, Step 92] Opponent: 공격 - Genzo, the Shark[5/3] -> Unstable Ghoul
+[Turn 10, Step 92] Opponent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 10, Step 92] Opponent: 공격 - Onyxia[8/3] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 93) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 1/10
+  Hand (5): Clockwork Automaton, Aluneth, Flame Elemental, Doomed Apprentice, Gilblin Stalker
+  Field: Magtheridon[12/12], Dune Sculptor[3/2], Burgly Bully[4/5], Captured Jormungar[5/8]
+Opponent: Rexxar HP: 14, Mana: 6/10
+  Hand (9)
+  Field: Onyxia[8/3], Y'Shaarj, Rage Unbound[10/6], Gnomish Experimenter[3/1], Genzo, the Shark[5/1], Genzo, the Shark[5/3], Grave Shambler[4/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

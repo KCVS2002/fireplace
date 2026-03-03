@@ -1,0 +1,280 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Shieldbearer (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Amani Berserker (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (4): Arcane Servant, Azalina Soulthief, Cosmic Anomaly, Sandbinder
+  Field: Shieldbearer[0/4], Amani Berserker[2/3]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 공격 - Amani Berserker[2/3] -> Rexxar
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 공격 - Amani Berserker[2/3] -> Rexxar
+[Turn 4, Step 8] Agent: 영웅 능력 사용 -> Shieldbearer
+[Turn 4, Step 9] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/4
+  Hand (4): Azalina Soulthief, Cosmic Anomaly, Sandbinder, Ethereal Augmerchant
+  Field: Shieldbearer[0/3], Amani Berserker[2/3], Arcane Servant[2/3]
+Opponent: Rexxar HP: 25, Mana: 1/3
+  Hand (7)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Dragonkin Sorcerer (코스트: 4)
+[Turn 4, Step 10] Opponent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Arcane Servant
+[Turn 5, Step 12] Agent: 공격 - Amani Berserker[2/3] -> Dragonkin Sorcerer
+[Turn 5, Step 13] Agent: 카드 플레이 - Ethereal Augmerchant -> Dragonkin Sorcerer (코스트: 1)
+[Turn 5, Step 14] Agent: 공격 - Arcane Servant[2/2] -> Dragonkin Sorcerer
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/5
+  Hand (4): Azalina Soulthief, Cosmic Anomaly, Sandbinder, Booty Bay Bodyguard
+  Field: Shieldbearer[0/3], Ethereal Augmerchant[2/1]
+Opponent: Rexxar HP: 25, Mana: 0/4
+  Hand (6)
+  Field: Murloc Tinyfin[1/1]
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Dragonbane (코스트: 4)
+[Turn 5, Step 15] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 5, Step 15] Opponent: 공격 - Murloc Tinyfin[1/1] -> Shieldbearer
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 17] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 6, Step 18] Agent: 공격 - Ethereal Augmerchant[2/1] -> Murloc Tinyfin
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 카드 플레이 - Archmage (코스트: 6)
+[Turn 6, Step 19] Opponent: 공격 - Dragonbane[3/5] -> Shieldbearer
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/7
+  Hand (6): Azalina Soulthief, Cosmic Anomaly, Booty Bay Bodyguard, Frozen Clone, Volatile Elemental, Shatter
+  Field: Sandbinder[2/4]
+Opponent: Rexxar HP: 25, Mana: 0/6
+  Hand (5)
+  Field: Dragonbane[3/5], Archmage[4/7]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Sandbinder
+[Turn 7, Step 21] Agent: 공격 - Sandbinder[2/3] -> Archmage
+[Turn 7, Step 22] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 24] Opponent: 카드 플레이 - Skeram Cultist (코스트: 6)
+[Turn 8, Step 24] Opponent: 공격 - Archmage[4/5] -> Jaina Proudmoore
+[Turn 8, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (7): Azalina Soulthief, Booty Bay Bodyguard, Frozen Clone, Volatile Elemental, Shatter, Font of Power, Shimmering Courser
+  Field: Cosmic Anomaly[4/3]
+Opponent: Rexxar HP: 25, Mana: 2/8
+  Hand (6)
+  Field: Dragonbane[3/5], Archmage[4/5], Skeram Cultist[7/6]
+[Turn 9, Step 25] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 9, Step 26] Agent: 선택 - Celestial Emissary
+[Turn 9, Step 26] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 26] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 9, Step 26] Opponent: 턴 종료
+[Turn 10, Step 27] Agent: 카드 플레이 - Frozen Clone (코스트: 3)
+[Turn 10, Step 28] Agent: 카드 플레이 - Celestial Emissary (코스트: 2)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Skeram Cultist
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (6): Azalina Soulthief, Booty Bay Bodyguard, Volatile Elemental, Shatter, Shimmering Courser, Devilsaur Egg
+  Field: Celestial Emissary[2/1]
+Opponent: Rexxar HP: 25, Mana: 6/9
+  Hand (6)
+  Field: Dragonbane[3/5], Archmage[4/5], Skeram Cultist[7/5]
+[Turn 10, Step 30] Agent: 카드 플레이 - Devilsaur Egg (코스트: 3)
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 31] Opponent: 공격 - Dragonbane[3/5] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 10, Step 31] Opponent: 공격 - Skeram Cultist[7/5] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 공격 - Archmage[4/5] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Celestial Emissary
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (9): Azalina Soulthief, Booty Bay Bodyguard, Volatile Elemental, Shatter, Shimmering Courser, Goboglide Tech, Goboglide Tech, Rummaging Kobold, Mogu'shan Warden
+  Field: Devilsaur Egg[0/3]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (6)
+  Field: Dragonbane[3/5], Archmage[4/5], Skeram Cultist[7/5], Goboglide Tech[4/4], Tainted Zealot[1/1]
+[Turn 10, Step 35] Agent: 카드 플레이 - Mogu'shan Warden (코스트: 4)
+[Turn 10, Step 36] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Tainted Zealot
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 5/10
+  Hand (7): Azalina Soulthief, Booty Bay Bodyguard, Shatter, Shimmering Courser, Goboglide Tech, Rummaging Kobold, Netherspite Historian
+  Field: Devilsaur Egg[0/3], Mogu'shan Warden[1/7], Volatile Elemental[1/1], Goboglide Tech[3/3]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (7)
+  Field: Dragonbane[3/5], Archmage[4/5], Skeram Cultist[7/5], Goboglide Tech[4/4], Tainted Zealot[1/1]
+[Turn 10, Step 40] Agent: 공격 - Volatile Elemental[1/1] -> Dragonbane
+[Turn 10, Step 41] Agent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 10, Step 42] Agent: 공격 - Mogu'shan Warden[1/7] -> Goboglide Tech
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Dragonbane
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 8/10
+  Hand (7): Azalina Soulthief, Booty Bay Bodyguard, Shatter, Shimmering Courser, Rummaging Kobold, Netherspite Historian, Stoneskin Gargoyle
+  Field: Devilsaur Egg[0/3], Mogu'shan Warden[1/3], Goboglide Tech[3/3], Goboglide Tech[3/3]
+Opponent: Rexxar HP: 24, Mana: 10/10
+  Hand (8)
+  Field: Dragonbane[3/3], Archmage[4/5], Skeram Cultist[7/5], Tainted Zealot[1/1]
+[Turn 10, Step 45] Agent: 공격 - Goboglide Tech[3/3] -> Archmage
+[Turn 10, Step 46] Agent: 공격 - Goboglide Tech[3/3] -> Rexxar
+[Turn 10, Step 47] Agent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+[Turn 10, Step 48] Agent: 공격 - Mogu'shan Warden[1/3] -> Tainted Zealot
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 10/10
+  Hand (7): Azalina Soulthief, Booty Bay Bodyguard, Shatter, Shimmering Courser, Rummaging Kobold, Netherspite Historian, Fjola Lightbane
+  Field: Devilsaur Egg[0/3], Mogu'shan Warden[1/2], Goboglide Tech[3/3], Stoneskin Gargoyle[1/4]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (8)
+  Field: Dragonbane[3/3], Archmage[4/2], Skeram Cultist[7/5], Gadgetzan Auctioneer[4/4]
+[Turn 10, Step 50] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 10, Step 51] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Gadgetzan Auctioneer
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Goboglide Tech
+[Turn 10, Step 53] Agent: 공격 - Goboglide Tech[3/2] -> Gadgetzan Auctioneer
+[Turn 10, Step 54] Agent: 공격 - Mogu'shan Warden[1/2] -> Dragonbane
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 9, Mana: 1/10
+  Hand (8): Bluegill Warrior, Argent Squire, Argent Commander, Justicar Trueheart, Razorfen Hunter, Leeroy Jenkins, Jeweled Scarab, Savannah Highmane
+  Field: Devilsaur Egg[0/3], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 21, Mana: 4/10
+  Hand (8)
+  Field: Dragonbane[3/2], Archmage[4/2], Skeram Cultist[7/5]
+[Turn 10, Step 55] Agent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 10, Step 56] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 56] Opponent: 영웅 능력 사용
+[Turn 10, Step 56] Opponent: 턴 종료
+[Turn 10, Step 57] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 10, Step 58] Agent: 영웅 능력 사용 -> Dragonbane
+[Turn 10, Step 59] Agent: 공격 - Argent Squire[1/1] -> Archmage
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 5/10
+  Hand (7): Bluegill Warrior, Argent Commander, Justicar Trueheart, Razorfen Hunter, Leeroy Jenkins, Jeweled Scarab, Savannah Highmane
+  Field: Devilsaur Egg[0/3], Azalina Soulthief[3/3], Argent Squire[1/1], Tar Creeper[1/5]
+Opponent: Rexxar HP: 21, Mana: 8/10
+  Hand (9)
+  Field: Dragonbane[3/1], Archmage[4/1], Skeram Cultist[7/5]
+[Turn 10, Step 60] Agent: 공격 - Azalina Soulthief[3/3] -> Archmage
+[Turn 10, Step 61] Agent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 10, Step 62] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+[Turn 10, Step 63] Agent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 공격 - Dragonbane[3/1] -> Tar Creeper
+[Turn 10, Step 64] Opponent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 10/10
+  Hand (6): Argent Commander, Justicar Trueheart, Leeroy Jenkins, Jeweled Scarab, Savannah Highmane, Wargear
+  Field: Devilsaur Egg[0/3], Argent Squire[1/1], Tar Creeper[1/2], Bluegill Warrior[2/1], Razorfen Hunter[2/3], Boar[1/1]
+Opponent: Rexxar HP: 19, Mana: 8/10
+  Hand (10)
+  Field: Skeram Cultist[7/5], Licensed Adventurer[3/2]
+[Turn 10, Step 65] Agent: 공격 - Bluegill Warrior[2/1] -> Licensed Adventurer
+[Turn 10, Step 66] Agent: 영웅 능력 사용 -> Argent Squire
+[Turn 10, Step 67] Agent: 공격 - Boar[1/1] -> Rexxar
+[Turn 10, Step 68] Agent: 공격 - Tar Creeper[1/2] -> Rexxar
+[Turn 10, Step 69] Agent: 카드 플레이 - Jeweled Scarab (코스트: 2)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 2, Mana: 6/10
+  Hand (5): Argent Commander, Justicar Trueheart, Leeroy Jenkins, Savannah Highmane, Wargear
+  Field: Devilsaur Egg[0/3], Tar Creeper[1/2], Razorfen Hunter[2/3], Boar[1/1], Jeweled Scarab[1/1]
+Opponent: Rexxar HP: 17, Mana: 8/10
+  Hand (10)
+  Field: Skeram Cultist[7/5]
+[Turn 10, Step 70] Agent: 선택 - Vulpera Scoundrel
+[Turn 10, Step 70] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 70] Opponent: 카드 플레이 - Argent Squire (코스트: 1)
+[Turn 10, Step 70] Opponent: 카드 플레이 - Boommaster Flark (코스트: 7)
+[Turn 10, Step 70] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 70] Opponent: 턴 종료
+[Turn 10, Step 71] Agent: 카드 플레이 - Wargear (코스트: 5)
+[Turn 10, Step 72] Agent: 공격 - Razorfen Hunter[2/3] -> Goblin Bomb
+
+--- Game State (Turn 10, Step 73) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 5/10
+  Hand (6): Argent Commander, Justicar Trueheart, Leeroy Jenkins, Savannah Highmane, Vulpera Scoundrel, Rumbletusk Shaker
+  Field: Devilsaur Egg[0/3], Tar Creeper[1/2], Razorfen Hunter[2/3], Boar[1/1], Jeweled Scarab[1/1], Wargear[5/5]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (7)
+  Field: Skeram Cultist[7/5], Argent Squire[1/1], Goblin Bomb[0/2], Boommaster Flark[5/5], Goblin Bomb[0/2], Goblin Bomb[0/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

@@ -1,0 +1,376 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(99) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Zul'Drak Ritualist, Prince Valanar, Arena Treasure Chest, Ethereal Conjurer, Millhouse Manastorm
+  Field: Unpowered Mauler[2/4]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(3) → 0로 보정
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(10) → 4로 보정
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(10) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Zul'Drak Ritualist (코스트: 4)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(45) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/5
+  Hand (7): Servant of Kalimos, Prince Valanar, Arena Treasure Chest, Ethereal Conjurer, Millhouse Manastorm, Fire Hawk, Stoneskin Gargoyle
+  Field: Zul'Drak Ritualist[3/4]
+Opponent: Rexxar HP: 29, Mana: 5/5
+  Hand (8)
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 5, Step 10] Agent: 카드 플레이 - Arena Treasure Chest (코스트: 4)
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(47) → 1로 보정
+[Turn 5, Step 11] Agent: 공격 - Zul'Drak Ritualist[3/4] -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Injured Blademaster (코스트: 3)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(82) → 7로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 6, Step 14] Agent: 공격 - Zul'Drak Ritualist[3/4] -> Injured Blademaster
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/6
+  Hand (9): Servant of Kalimos, Prince Valanar, Ethereal Conjurer, Millhouse Manastorm, Fire Hawk, Stoneskin Gargoyle, Cinderstorm, Astral Rift, Potion of Polymorph
+  Field: Arena Treasure Chest[0/4]
+Opponent: Rexxar HP: 26, Mana: 3/6
+  Hand (8)
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 6, Step 15] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 7, Step 16] Agent: 카드 플레이 - Millhouse Manastorm (코스트: 2)
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(66) → 6로 보정
+[Turn 7, Step 17] Agent: 카드 플레이 - Cinderstorm (코스트: 3)
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(28) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 카드 플레이 - Arcane Tyrant (코스트: 5)
+[Turn 7, Step 18] Opponent: 공격 - Toxic Sewer Ooze[4/2] -> Jaina Proudmoore
+[Turn 7, Step 18] Opponent: 카드 플레이 - Spark Engine (코스트: 2)
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Toxic Sewer Ooze
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/8
+  Hand (9): Servant of Kalimos, Prince Valanar, Ethereal Conjurer, Fire Hawk, Stoneskin Gargoyle, Astral Rift, Potion of Polymorph, Gorillabot A-3, Skelemancer
+  Field: Arena Treasure Chest[0/4], Millhouse Manastorm[4/4]
+Opponent: Rexxar HP: 22, Mana: 1/8
+  Hand (7)
+  Field: Toxic Sewer Ooze[4/1], Arcane Tyrant[4/4], Spark Engine[2/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(49) → 7로 보정
+[Turn 8, Step 20] Agent: 카드 플레이 - Potion of Polymorph (코스트: 3)
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(52) → 4로 보정
+[Turn 8, Step 21] Agent: 공격 - Millhouse Manastorm[4/4] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(67) → 3로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Astral Rift (코스트: 2)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(23) → 0로 보정
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 공격 - Spark Engine[2/1] -> Arena Treasure Chest
+[Turn 8, Step 23] Opponent: 카드 플레이 - Shrieking Shroom (코스트: 3)
+[Turn 8, Step 23] Opponent: 공격 - Arcane Tyrant[4/4] -> Millhouse Manastorm
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(73) → 5로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Stoneskin Gargoyle (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/9
+  Hand (9): Servant of Kalimos, Prince Valanar, Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Skeletal Dragon, Tuskarr Fisherman
+  Field: Arena Treasure Chest[0/2], Stoneskin Gargoyle[1/4]
+Opponent: Rexxar HP: 18, Mana: 6/9
+  Hand (7)
+  Field: Toxic Sewer Ooze[4/1], Spark Engine[2/1], Sheep[1/1]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(65) → 14로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Spark Engine
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(17) → 5로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Tuskarr Fisherman -> Stoneskin Gargoyle (코스트: 2)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Murloc Raider (코스트: 1)
+[Turn 9, Step 27] Opponent: 카드 플레이 - Spark (코스트: 1)
+[Turn 9, Step 27] Opponent: 카드 플레이 - Lost Tallstrider (코스트: 4)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(95) → 31로 보정
+[Turn 10, Step 28] Agent: 공격 - Tuskarr Fisherman[2/3] -> Lost Tallstrider
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(95) → 14로 보정
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Sheep
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (9): Servant of Kalimos, Prince Valanar, Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Skeletal Dragon, Twilight Summoner
+  Field: Arena Treasure Chest[0/2], Stoneskin Gargoyle[1/4]
+Opponent: Rexxar HP: 18, Mana: 4/10
+  Hand (5)
+  Field: Toxic Sewer Ooze[4/1], Murloc Raider[2/1], Spark[1/1], Lost Tallstrider[5/2], Lost Tallstrider[3/3]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 30] Agent: 카드 플레이 - Prince Valanar (코스트: 4)
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(88) → 8로 보정
+[Turn 10, Step 31] Agent: 공격 - Stoneskin Gargoyle[1/4] -> Lost Tallstrider
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(31) → 3로 보정
+[Turn 10, Step 32] Agent: 카드 플레이 - Twilight Summoner (코스트: 4)
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(52) → 0로 보정
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 공격 - Murloc Raider[2/1] -> Twilight Summoner
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Servant of Kalimos (코스트: 5)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/10
+  Hand (7): Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Skeletal Dragon, Jan'alai, the Dragonhawk
+  Field: Arena Treasure Chest[0/2], Prince Valanar[4/4], Faceless Destroyer[5/5], Servant of Kalimos[4/5]
+Opponent: Rexxar HP: 18, Mana: 10/10
+  Hand (6)
+  Field: Toxic Sewer Ooze[4/1], Spark[1/1], Lost Tallstrider[5/1], Lost Tallstrider[3/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(61) → 9로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Toxic Sewer Ooze
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 36] Agent: 공격 - Prince Valanar[4/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(21) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Faceless Destroyer[5/5] -> Spark
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 카드 플레이 - Nozdormu (코스트: 9)
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(82) → 22로 보정
+[Turn 10, Step 39] Agent: 공격 - Faceless Destroyer[5/4] -> Rexxar
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (8): Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Skeletal Dragon, Jan'alai, the Dragonhawk, Lorewalker Cho
+  Field: Arena Treasure Chest[0/2], Prince Valanar[4/4], Faceless Destroyer[5/4], Servant of Kalimos[4/5]
+Opponent: Rexxar HP: 9, Mana: 1/10
+  Hand (6)
+  Field: Lost Tallstrider[5/1], Lost Tallstrider[3/3], Nozdormu[8/8]
+[Turn 10, Step 40] Agent: 공격 - Servant of Kalimos[4/5] -> Lost Tallstrider
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(53) → 13로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Prince Valanar
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(31) → 7로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Jan'alai, the Dragonhawk (코스트: 7)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 공격 - Nozdormu[8/8] -> Faceless Destroyer
+[Turn 10, Step 43] Opponent: 공격 - Lost Tallstrider[5/1] -> Prince Valanar
+[Turn 10, Step 43] Opponent: 카드 플레이 - Dispatch Kodo -> Rexxar (코스트: 4)
+[Turn 10, Step 43] Opponent: 영웅 능력 사용
+[Turn 10, Step 43] Opponent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Duskboar (코스트: 2)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 카드 플레이 - Skeletal Dragon (코스트: 7)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/10
+  Hand (7): Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Lorewalker Cho, Dragonkin Sorcerer
+  Field: Arena Treasure Chest[0/2], Servant of Kalimos[4/2], Jan'alai, the Dragonhawk[4/4], Skeletal Dragon[4/9]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (4)
+  Field: Nozdormu[8/3], Dispatch Kodo[2/4], Lost Spirit[1/1], Duskboar[4/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(58) → 12로 보정
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Skeletal Dragon
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(65) → 10로 보정
+[Turn 10, Step 46] Agent: 공격 - Jan'alai, the Dragonhawk[4/4] -> Duskboar
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 공격 - Dispatch Kodo[2/4] -> Skeletal Dragon
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(77) → 8로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(35) → 12로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Servant of Kalimos
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 4/10
+  Hand (8): Ethereal Conjurer, Fire Hawk, Gorillabot A-3, Skelemancer, Sludge Belcher, Lorewalker Cho, Dragonkin Sorcerer, Mana Addict
+  Field: Arena Treasure Chest[0/2], Servant of Kalimos[4/1], Skeletal Dragon[4/6], Twilight Drake[4/9]
+Opponent: Rexxar HP: 7, Mana: 8/10
+  Hand (5)
+  Field: Nozdormu[8/3], Lost Spirit[1/1]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Gorillabot A-3 (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Skeletal Dragon[4/6] -> Nozdormu
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(20) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Servant of Kalimos[4/1] -> Lost Spirit
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(42) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 카드 플레이 - Frozen Shadoweaver -> Arena Treasure Chest (코스트: 3)
+[Turn 10, Step 53] Opponent: 카드 플레이 - Defender of Argus (코스트: 4)
+[Turn 10, Step 53] Opponent: 영웅 능력 사용
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(23) → 5로 보정
+[Turn 10, Step 54] Agent: 카드 플레이 - Sludge Belcher (코스트: 5)
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 5/10
+  Hand (7): Spark Drill, Ethereal Conjurer, Fire Hawk, Skelemancer, Lorewalker Cho, Dragonkin Sorcerer, Mana Addict
+  Field: Arena Treasure Chest[0/2], Twilight Drake[4/9], Gorillabot A-3[3/4], Sludge Belcher[3/5]
+Opponent: Rexxar HP: 7, Mana: 1/10
+  Hand (4)
+  Field: Frozen Shadoweaver[5/4], Defender of Argus[2/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(27) → 10로 보정
+[Turn 10, Step 55] Agent: 영웅 능력 사용 -> Twilight Drake
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(95) → 5로 보정
+[Turn 10, Step 56] Agent: 공격 - Gorillabot A-3[3/4] -> Frozen Shadoweaver
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(53) → 3로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Mana Addict (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 58] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 58] Opponent: 카드 플레이 - Disciple of C'Thun -> Rexxar (코스트: 3)
+[Turn 10, Step 58] Opponent: 영웅 능력 사용
+[Turn 10, Step 58] Opponent: 턴 종료
+[Turn 10, Step 59] Agent: 공격 - Sludge Belcher[3/5] -> Frozen Shadoweaver
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (7): Spark Drill, Ethereal Conjurer, Fire Hawk, Skelemancer, Lorewalker Cho, Dragonkin Sorcerer, Wisp
+  Field: Arena Treasure Chest[0/2], Twilight Drake[4/8], Putrid Slime[1/2], Mana Addict[1/3]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (4)
+  Field: Defender of Argus[2/3], Disciple of C'Thun[2/1]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(61) → 17로 보정
+[Turn 10, Step 60] Agent: 공격 - Twilight Drake[4/8] -> Defender of Argus
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(70) → 2로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Ethereal Conjurer (코스트: 5)
+[Turn 10, Step 62] Agent: 선택 - Cabalist's Tome
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(64) → 13로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Putrid Slime
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(92) → 2로 보정
+[Turn 10, Step 63] Agent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Wisp (코스트: 0)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/10
+  Hand (5): Spark Drill, Fire Hawk, Skelemancer, Dragonkin Sorcerer, Cabalist's Tome
+  Field: Arena Treasure Chest[0/2], Twilight Drake[4/6], Putrid Slime[1/1], Mana Addict[1/3], Ethereal Conjurer[6/3], Lorewalker Cho[0/4], Wisp[1/1]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (4)
+  Field: Disciple of C'Thun[2/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(84) → 0로 보정
+[Turn 10, Step 65] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 65] Opponent: 카드 플레이 - Medivh, the Guardian (코스트: 8)
+[Turn 10, Step 65] Opponent: 카드 플레이 - Explorer's Hat -> Medivh, the Guardian (코스트: 2)
+[Turn 10, Step 65] Opponent: 공격 - Rexxar[1/5] -> Putrid Slime
+[Turn 10, Step 65] Opponent: 공격 - Disciple of C'Thun[2/1] -> Jaina Proudmoore
+[Turn 10, Step 65] Opponent: 턴 종료
+[Turn 10, Step 66] Agent: 공격 - Twilight Drake[4/6] -> Medivh, the Guardian
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(63) → 26로 보정
+[Turn 10, Step 67] Agent: 공격 - Mana Addict[1/3] -> Disciple of C'Thun
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(34) → 5로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(55) → 5로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Explorer's Hat -> Mana Addict (코스트: 2)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/10
+  Hand (8): Spark Drill, Fire Hawk, Skelemancer, Dragonkin Sorcerer, Stalagg, Scorch, Dragon's Breath, Shooting Star
+  Field: Arena Treasure Chest[0/2], Mana Addict[6/2], Ethereal Conjurer[6/3], Lorewalker Cho[0/4], Wisp[1/1]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (5)
+  Field: Medivh, the Guardian[8/4], Auchenai Phantasm[3/2]
+[Turn 10, Step 70] Agent: 카드 플레이 - Dragon's Breath -> Lorewalker Cho (코스트: 3)
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 카드 플레이 - Dragon's Breath -> Mana Addict (코스트: 5)
+[Turn 10, Step 71] Opponent: 공격 - Medivh, the Guardian[8/4] -> Arena Treasure Chest
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(88) → 12로 보정
+[Turn 10, Step 72] Agent: 카드 플레이 - Shooting Star -> Ethereal Conjurer (코스트: 1)
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(84) → 6로 보정
+[Turn 10, Step 73] Agent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 10, Step 74] Agent: 카드 플레이 - Explorer's Hat -> Ethereal Conjurer (코스트: 2)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 2/10
+  Hand (7): Da Undatakah, Spark Drill, Fire Hawk, Skelemancer, Dragonkin Sorcerer, Scorch, Shimmering Courser
+  Field: Ethereal Conjurer[7/3], Stalagg[7/4]
+Opponent: Rexxar HP: 4, Mana: 5/10
+  Hand (6)
+  Field: Medivh, the Guardian[8/4], Auchenai Phantasm[3/2], Shadow Sculptor[3/2]
+[Turn 10, Step 75] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 10, Step 75] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 10, Step 76] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 76] Opponent: 턴 종료
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(52) → 24로 보정
+[Turn 10, Step 77] Agent: 공격 - Stalagg[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 78) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (8): Da Undatakah, Spark Drill, Fire Hawk, Skelemancer, Dragonkin Sorcerer, Scorch, Shimmering Courser, Colossus of the Moon
+  Field: Ethereal Conjurer[7/3], Stalagg[7/4]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (7)
+  Field: Medivh, the Guardian[8/4], Auchenai Phantasm[3/2], Shadow Sculptor[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

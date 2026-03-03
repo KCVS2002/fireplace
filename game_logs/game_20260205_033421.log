@@ -1,0 +1,411 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Violet Spellwing (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(27) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 카드 플레이 - Cheaty Anklebiter -> Jaina Proudmoore (코스트: 2)
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 2, Step 3] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(46) → 1로 보정
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/2
+  Hand (4): Xavius, Mad Hatter, Force-Tank MAX, Troll Batrider
+  Field: Violet Spellwing[1/1], Snowflipper Penguin[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Cheaty Anklebiter[2/1]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(89) → 1로 보정
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 2, Step 6] Agent: 공격 - Violet Spellwing[1/1] -> Cheaty Anklebiter
+[Turn 2, Step 7] Agent: 유효하지 않은 액션 인덱스(3) → 1로 보정
+[Turn 2, Step 7] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 2, Step 8] Agent: 유효하지 않은 액션 인덱스(31) → 0로 보정
+[Turn 2, Step 8] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 8] Opponent: 영웅 능력 사용
+[Turn 2, Step 8] Opponent: 턴 종료
+[Turn 3, Step 9] Agent: 유효하지 않은 액션 인덱스(49) → 4로 보정
+[Turn 3, Step 9] Agent: 공격 - Snowflipper Penguin[1/1] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (5): Mogor the Ogre, Xavius, Mad Hatter, Force-Tank MAX, Troll Batrider
+  Field: Snowflipper Penguin[1/1]
+Opponent: Rexxar HP: 26, Mana: 1/3
+  Hand (5)
+[Turn 3, Step 10] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 3, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 11] Agent: 유효하지 않은 액션 인덱스(80) → 0로 보정
+[Turn 3, Step 11] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 11] Opponent: 카드 플레이 - Acolyte of Pain (코스트: 3)
+[Turn 3, Step 11] Opponent: 턴 종료
+[Turn 4, Step 12] Agent: 유효하지 않은 액션 인덱스(67) → 7로 보정
+[Turn 4, Step 12] Agent: 영웅 능력 사용 -> Acolyte of Pain
+[Turn 4, Step 13] Agent: 유효하지 않은 액션 인덱스(86) → 2로 보정
+[Turn 4, Step 13] Agent: 공격 - Snowflipper Penguin[1/1] -> Acolyte of Pain
+[Turn 4, Step 14] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 카드 플레이 - Corrosive Breath -> Acolyte of Pain (코스트: 2)
+[Turn 4, Step 14] Opponent: 카드 플레이 - Infest (코스트: 3)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (7): Mogor the Ogre, Xavius, Mad Hatter, Force-Tank MAX, Troll Batrider, Faceless Shambler, Gurubashi Chicken
+Opponent: Rexxar HP: 26, Mana: 0/5
+  Hand (7)
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+[Turn 5, Step 15] Opponent: 영웅 능력 사용
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Snapjaw Shellfighter (코스트: 5)
+[Turn 6, Step 16] Opponent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(48) → 9로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(8) → 1로 보정
+[Turn 7, Step 18] Agent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 7, Step 19] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 19] Opponent: 카드 플레이 - Shu'ma (코스트: 7)
+[Turn 7, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/8
+  Hand (9): Mogor the Ogre, Xavius, Force-Tank MAX, Troll Batrider, Faceless Shambler, Gurubashi Chicken, Deathlord, Coldlight Seer, Snowchugger
+  Field: Mad Hatter[3/2]
+Opponent: Rexxar HP: 26, Mana: 1/8
+  Hand (6)
+  Field: Shade of Naxxramas[4/4], Snapjaw Shellfighter[3/8], Wyrmrest Purifier[6/5], Tentacle[1/1], Shu'ma[1/7], Tentacle[1/1], Tentacle[1/1]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(50) → 24로 보정
+[Turn 8, Step 20] Agent: 공격 - Mad Hatter[3/2] -> Tentacle
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(89) → 17로 보정
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Tentacle
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(34) → 7로 보정
+[Turn 8, Step 22] Agent: 카드 플레이 - Coldlight Seer (코스트: 3)
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Snowchugger (코스트: 2)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/8
+  Hand (6): Mogor the Ogre, Xavius, Force-Tank MAX, Troll Batrider, Faceless Shambler, Deathlord
+  Field: Mad Hatter[3/1], Coldlight Seer[2/3], Gurubashi Chicken[1/1], Snowchugger[2/3]
+Opponent: Rexxar HP: 26, Mana: 1/8
+  Hand (6)
+  Field: Shade of Naxxramas[4/4], Snapjaw Shellfighter[3/8], Wyrmrest Purifier[6/5], Shu'ma[1/7], Tentacle[1/1]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(74) → 23로 보정
+[Turn 9, Step 26] Agent: 공격 - Mad Hatter[3/1] -> Rexxar
+[Turn 9, Step 27] Agent: 공격 - Snowchugger[2/3] -> Tentacle
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(60) → 26로 보정
+[Turn 9, Step 28] Agent: 공격 - Coldlight Seer[2/3] -> Shu'ma
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(83) → 27로 보정
+[Turn 9, Step 29] Agent: 공격 - Gurubashi Chicken[1/1] -> Tentacle
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 9/9
+  Hand (7): Mogor the Ogre, Xavius, Force-Tank MAX, Troll Batrider, Faceless Shambler, Deathlord, Zul'Drak Ritualist
+  Field: Mad Hatter[3/1], Coldlight Seer[2/2], Snowchugger[2/2]
+Opponent: Rexxar HP: 23, Mana: 9/9
+  Hand (7)
+  Field: Shade of Naxxramas[5/5], Snapjaw Shellfighter[3/8], Wyrmrest Purifier[6/5], Tentacle[1/1], Shu'ma[1/5]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(84) → 8로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - Deathlord (코스트: 3)
+[Turn 9, Step 31] Agent: 카드 플레이 - Faceless Shambler -> Snowchugger (코스트: 4)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(46) → 10로 보정
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Deathlord
+[Turn 9, Step 33] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 9, Step 33] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 공격 - Faceless Shambler[2/2] -> Wyrmrest Purifier
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (6): Mogor the Ogre, Xavius, Force-Tank MAX, Troll Batrider, Zul'Drak Ritualist, Animated Armor
+  Field: Mad Hatter[3/1], Coldlight Seer[2/2], Snowchugger[2/2], Deathlord[2/7]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (8)
+  Field: Shade of Naxxramas[6/6], Snapjaw Shellfighter[3/6], Wyrmrest Purifier[6/5], Tentacle[1/1], Tentacle[1/1], Shu'ma[1/5], Tentacle[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(57) → 10로 보정
+[Turn 10, Step 35] Agent: 영웅 능력 사용 -> Wyrmrest Purifier
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(73) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Force-Tank MAX (코스트: 8)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(81) → 23로 보정
+[Turn 10, Step 37] Agent: 공격 - Deathlord[2/7] -> Snapjaw Shellfighter
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(70) → 4로 보정
+[Turn 10, Step 38] Agent: 공격 - Mad Hatter[3/1] -> Tentacle
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(41) → 2로 보정
+[Turn 10, Step 39] Agent: 공격 - Coldlight Seer[2/2] -> Snapjaw Shellfighter
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (5): Mogor the Ogre, Xavius, Troll Batrider, Zul'Drak Ritualist, Animated Armor
+  Field: Snowchugger[2/2], Deathlord[2/4], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 23, Mana: 10/10
+  Hand (8)
+  Field: Shade of Naxxramas[6/6], Snapjaw Shellfighter[3/1], Wyrmrest Purifier[6/5], Tentacle[1/1], Shu'ma[1/5], Tentacle[1/1]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(41) → 6로 보정
+[Turn 10, Step 40] Agent: 공격 - Snowchugger[2/2] -> Tentacle
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 턴 종료
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(97) → 19로 보정
+[Turn 10, Step 42] Agent: 공격 - Snowchugger[2/1] -> Snapjaw Shellfighter
+[Turn 10, Step 43] Agent: 공격 - Deathlord[2/4] -> Rexxar
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(81) → 15로 보정
+[Turn 10, Step 44] Agent: 영웅 능력 사용 -> Tentacle
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 8/10
+  Hand (6): Mogor the Ogre, Xavius, Troll Batrider, Zul'Drak Ritualist, Animated Armor, Khartut Defender
+  Field: Deathlord[2/4], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (9)
+  Field: Shade of Naxxramas[7/7], Wyrmrest Purifier[6/5], Tentacle[1/1], Shu'ma[1/5], Tentacle[1/1]
+[Turn 10, Step 45] Agent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 46] Agent: 공격 - Force-Tank MAX[7/7] -> Tentacle
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 10, Step 47] Opponent: 카드 플레이 - Ogre Magi (코스트: 4)
+[Turn 10, Step 47] Opponent: 영웅 능력 사용
+[Turn 10, Step 47] Opponent: 공격 - Shu'ma[1/5] -> Deathlord
+[Turn 10, Step 47] Opponent: 공격 - Tentacle[1/1] -> Deathlord
+[Turn 10, Step 47] Opponent: 공격 - Shade of Naxxramas[8/8] -> Deathlord
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(43) → 9로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Shade of Naxxramas
+[Turn 10, Step 49] Agent: 카드 플레이 - Light's Champion -> Xavius (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (5): Mogor the Ogre, Troll Batrider, Zul'Drak Ritualist, Animated Armor, Khartut Defender
+  Field: Force-Tank MAX[7/7], Xavius[7/5], Xavian Satyr[2/1], Light's Champion[4/3]
+Opponent: Rexxar HP: 21, Mana: 0/10
+  Hand (8)
+  Field: Metaltooth Leaper[3/3], Shade of Naxxramas[8/5], Wyrmrest Purifier[6/5], Shu'ma[1/3], Tentacle[1/1], Arcane Fletcher[3/3], Ogre Magi[4/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(99) → 19로 보정
+[Turn 10, Step 50] Agent: 공격 - Xavius[7/5] -> Ogre Magi
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(25) → 3로 보정
+[Turn 10, Step 51] Agent: 카드 플레이 - Animated Armor (코스트: 4)
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(11) → 3로 보정
+[Turn 10, Step 52] Agent: 공격 - Force-Tank MAX[7/7] -> Shade of Naxxramas
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 10, Step 53] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 53] Opponent: 턴 종료
+[Turn 10, Step 54] Agent: 공격 - Animated Armor[4/4] -> Shu'ma
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (5): Shimmering Courser, Mogor the Ogre, Troll Batrider, Zul'Drak Ritualist, Khartut Defender
+  Field: Xavius[7/1], Xavian Satyr[2/1], Light's Champion[4/3], Animated Armor[4/3]
+Opponent: Rexxar HP: 21, Mana: 10/10
+  Hand (9)
+  Field: Metaltooth Leaper[3/3], Wyrmrest Purifier[6/5], Tentacle[1/1], Tentacle[1/1], Tentacle[1/1], Arcane Fletcher[3/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(44) → 5로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Khartut Defender (코스트: 6)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(50) → 12로 보정
+[Turn 10, Step 56] Agent: 영웅 능력 사용 -> Xavian Satyr
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(51) → 6로 보정
+[Turn 10, Step 57] Agent: 공격 - Xavius[7/1] -> Tentacle
+[Turn 10, Step 58] Agent: 공격 - Light's Champion[4/3] -> Tentacle
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(88) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Wyrmrest Purifier[6/5] -> Khartut Defender
+[Turn 10, Step 59] Opponent: 카드 플레이 - On the Hunt -> Jaina Proudmoore (코스트: 1)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Crowd Favorite (코스트: 4)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (5): Shimmering Courser, Mogor the Ogre, Troll Batrider, Zul'Drak Ritualist, Subject 9
+  Field: Light's Champion[4/2], Animated Armor[4/3], Khartut Defender[3/1]
+Opponent: Rexxar HP: 21, Mana: 5/10
+  Hand (8)
+  Field: Metaltooth Leaper[3/3], Wyrmrest Purifier[6/2], Tentacle[1/1], Arcane Fletcher[3/3], Mastiff[1/1], Crowd Favorite[4/4]
+[Turn 10, Step 60] Agent: 공격 - Light's Champion[4/2] -> Tentacle
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(29) → 1로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(37) → 9로 보정
+[Turn 10, Step 62] Agent: 영웅 능력 사용 -> Metaltooth Leaper
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(25) → 10로 보정
+[Turn 10, Step 63] Agent: 공격 - Khartut Defender[3/1] -> Metaltooth Leaper
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(55) → 7로 보정
+[Turn 10, Step 64] Agent: 공격 - Animated Armor[4/3] -> Crowd Favorite
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (4): Mogor the Ogre, Troll Batrider, Zul'Drak Ritualist, Subject 9
+  Field: Light's Champion[4/1], Shimmering Courser[3/3]
+Opponent: Rexxar HP: 21, Mana: 5/10
+  Hand (8)
+  Field: Wyrmrest Purifier[6/2], Arcane Fletcher[3/3], Mastiff[1/1]
+[Turn 10, Step 65] Agent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(11) → 0로 보정
+[Turn 10, Step 66] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 66] Opponent: 턴 종료
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(97) → 22로 보정
+[Turn 10, Step 67] Agent: 공격 - Troll Batrider[3/3] -> Wyrmrest Purifier
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(37) → 3로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Zul'Drak Ritualist (코스트: 4)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(94) → 19로 보정
+[Turn 10, Step 69] Agent: 공격 - Shimmering Courser[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 6/10
+  Hand (3): Gentle Megasaur, Mogor the Ogre, Subject 9
+  Field: Light's Champion[4/1], Shimmering Courser[3/3], Zul'Drak Ritualist[3/9]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Arcane Fletcher[3/3], Mastiff[1/1], Beaming Sidekick[1/2], Air Elemental[2/1], Surging Tempest[1/3]
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(93) → 17로 보정
+[Turn 10, Step 70] Agent: 공격 - Light's Champion[4/1] -> Air Elemental
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 71] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(83) → 0로 보정
+[Turn 10, Step 72] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 72] Opponent: 카드 플레이 - Spirit of the Lynx (코스트: 3)
+[Turn 10, Step 72] Opponent: 카드 플레이 - Forlorn Stalker (코스트: 3)
+[Turn 10, Step 72] Opponent: 턴 종료
+[Turn 10, Step 73] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Mastiff
+[Turn 10, Step 74] Agent: 공격 - Zul'Drak Ritualist[3/9] -> Beaming Sidekick
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (3): Gentle Megasaur, Mogor the Ogre, Breath of Sindragosa
+  Field: Shimmering Courser[3/3], Zul'Drak Ritualist[3/8], Subject 9[4/4]
+Opponent: Rexxar HP: 15, Mana: 4/10
+  Hand (8)
+  Field: Arcane Fletcher[3/3], Surging Tempest[1/3], Spirit of the Lynx[0/3], Forlorn Stalker[4/2]
+[Turn 10, Step 75] Agent: 공격 - Shimmering Courser[3/3] -> Forlorn Stalker
+[Turn 10, Step 76] Agent: 유효하지 않은 액션 인덱스(44) → 2로 보정
+[Turn 10, Step 76] Agent: 카드 플레이 - Mogor the Ogre (코스트: 6)
+[Turn 10, Step 77] Agent: 유효하지 않은 액션 인덱스(97) → 2로 보정
+[Turn 10, Step 77] Agent: 공격 - Subject 9[4/4] -> Rexxar
+[Turn 10, Step 78] Agent: 유효하지 않은 액션 인덱스(77) → 1로 보정
+[Turn 10, Step 78] Agent: 카드 플레이 - Breath of Sindragosa (코스트: 1)
+[Turn 10, Step 79] Agent: 유효하지 않은 액션 인덱스(33) → 0로 보정
+[Turn 10, Step 79] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 79] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 80) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (2): Gentle Megasaur, Big Bad Archmage
+  Field: Zul'Drak Ritualist[3/8], Subject 9[4/1], Mogor the Ogre[7/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (9)
+  Field: Surging Tempest[1/1], Spirit of the Lynx[0/3]
+[Turn 10, Step 80] Agent: 영웅 능력 사용 -> Mogor the Ogre
+[Turn 10, Step 81] Agent: 유효하지 않은 액션 인덱스(61) → 6로 보정
+[Turn 10, Step 81] Agent: 공격 - Subject 9[4/1] -> Surging Tempest
+[Turn 10, Step 82] Agent: 유효하지 않은 액션 인덱스(54) → 0로 보정
+[Turn 10, Step 82] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 82] Opponent: 턴 종료
+[Turn 10, Step 83] Agent: 유효하지 않은 액션 인덱스(66) → 2로 보정
+[Turn 10, Step 83] Agent: 카드 플레이 - Big Bad Archmage (코스트: 10)
+[Turn 10, Step 84] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 84] Agent: 공격 - Subject 9[4/1] -> Surging Tempest
+
+--- Game State (Turn 10, Step 85) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (2): Gentle Megasaur, Mekgineer Thermaplugg
+  Field: Zul'Drak Ritualist[3/8], Mogor the Ogre[7/5], Big Bad Archmage[6/6]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 85] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 85] Agent: 공격 - Zul'Drak Ritualist[3/8] -> Rexxar
+[Turn 10, Step 86] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 86] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 86] Opponent: 턴 종료
+[Turn 10, Step 87] Agent: 유효하지 않은 액션 인덱스(88) → 4로 보정
+[Turn 10, Step 87] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 88] Agent: 카드 플레이 - Luna's Pocket Galaxy (코스트: 7)
+[Turn 10, Step 89] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 10, Step 89] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 89] Opponent: 영웅 능력 사용
+[Turn 10, Step 89] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 90) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (3): Gentle Megasaur, Mekgineer Thermaplugg, Ancient Brewmaster
+  Field: Zul'Drak Ritualist[3/8], Mogor the Ogre[7/5], Big Bad Archmage[6/6], Blatant Decoy[5/5], Mogor's Champion[8/5]
+Opponent: Rexxar HP: 12, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 90] Agent: 유효하지 않은 액션 인덱스(28) → 8로 보정
+[Turn 10, Step 90] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 91] Agent: 유효하지 않은 액션 인덱스(15) → 3로 보정
+[Turn 10, Step 91] Agent: 카드 플레이 - Ancient Brewmaster -> Mogor the Ogre (코스트: 1)
+[Turn 10, Step 92] Agent: 유효하지 않은 액션 인덱스(96) → 5로 보정
+[Turn 10, Step 92] Agent: 공격 - Blatant Decoy[5/5] -> Rexxar
+[Turn 10, Step 93] Agent: 유효하지 않은 액션 인덱스(11) → 5로 보정
+[Turn 10, Step 93] Agent: 공격 - Mogor's Champion[8/5] -> Rexxar
+
+--- Game State (Turn 10, Step 94) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/10
+  Hand (3): Gentle Megasaur, Mekgineer Thermaplugg, Mogor the Ogre
+  Field: Zul'Drak Ritualist[3/8], Big Bad Archmage[6/6], Blatant Decoy[5/5], Mogor's Champion[8/5], Ancient Brewmaster[5/4]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

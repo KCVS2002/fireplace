@@ -1,0 +1,316 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(27) → 3로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(52) → 3로 보정
+[Turn 1, Step 2] Agent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 1, Step 3] Agent: 영웅 능력 사용 -> Murloc Tinyfin
+[Turn 1, Step 4] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 카드 플레이 - Mana Reservoir (코스트: 2)
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (5): Lowly Squire, Pyros, Cloakscale Chemist, Dollmaster Dorian, Zilliax
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Mana Reservoir[0/6]
+[Turn 2, Step 5] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 2, Step 5] Agent: 영웅 능력 사용 -> Mana Reservoir
+[Turn 2, Step 6] Agent: 유효하지 않은 액션 인덱스(75) → 0로 보정
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 유효하지 않은 액션 인덱스(63) → 0로 보정
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Pyros (코스트: 2)
+[Turn 4, Step 9] Agent: 영웅 능력 사용 -> Mana Reservoir
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (6): Lowly Squire, Cloakscale Chemist, Dollmaster Dorian, Zilliax, Burgly Bully, Abusive Sergeant
+  Field: Pyros[2/2]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (6)
+  Field: Mana Reservoir[0/4]
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 카드 플레이 - Green Jelly (코스트: 5)
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(66) → 12로 보정
+[Turn 5, Step 11] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(76) → 4로 보정
+[Turn 5, Step 12] Agent: 카드 플레이 - Abusive Sergeant -> Pyros (코스트: 1)
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(17) → 1로 보정
+[Turn 5, Step 13] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(38) → 0로 보정
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 6/6
+  Hand (6): Cloakscale Chemist, Dollmaster Dorian, Zilliax, Burgly Bully, Mechanical Yeti, Acidic Swamp Ooze
+  Field: Pyros[2/2], Abusive Sergeant[1/1], Lowly Squire[1/2]
+Opponent: Rexxar HP: 29, Mana: 6/6
+  Hand (7)
+  Field: Mana Reservoir[0/4], Green Jelly[3/3], Green Ooze[1/2], Green Ooze[1/2]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(57) → 13로 보정
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Abusive Sergeant
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(63) → 7로 보정
+[Turn 6, Step 16] Agent: 공격 - Lowly Squire[2/2] -> Green Ooze
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(15) → 0로 보정
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 공격 - Green Ooze[1/2] -> Lowly Squire
+[Turn 6, Step 17] Opponent: 카드 플레이 - Ornery Tortoise (코스트: 3)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Jar Dealer (코스트: 1)
+[Turn 6, Step 17] Opponent: 카드 플레이 - Questing Explorer (코스트: 2)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Green Jelly
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(47) → 7로 보정
+[Turn 7, Step 19] Agent: 공격 - Pyros[2/2] -> Green Ooze
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/7
+  Hand (7): Cloakscale Chemist, Dollmaster Dorian, Zilliax, Burgly Bully, Mechanical Yeti, Acidic Swamp Ooze, Hex Lord Malacrass
+  Field: Pyros[2/1]
+Opponent: Rexxar HP: 24, Mana: 1/7
+  Hand (5)
+  Field: Mana Reservoir[0/4], Green Jelly[3/2], Ornery Tortoise[3/5], Jar Dealer[1/1], Questing Explorer[2/3]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(75) → 5로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+[Turn 7, Step 21] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 공격 - Ornery Tortoise[3/5] -> Pyros
+[Turn 7, Step 21] Opponent: 공격 - Questing Explorer[2/3] -> Mechanical Yeti
+[Turn 7, Step 21] Opponent: 공격 - Green Jelly[3/2] -> Mechanical Yeti
+[Turn 7, Step 21] Opponent: 카드 플레이 - Armor Plating -> Mana Reservoir (코스트: 1)
+[Turn 7, Step 21] Opponent: 공격 - Jar Dealer[1/1] -> Jaina Proudmoore
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(30) → 13로 보정
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 23] Agent: 유효하지 않은 액션 인덱스(24) → 2로 보정
+[Turn 8, Step 23] Agent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 8, Step 24] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 8, Step 24] Agent: 카드 플레이 - Rusty Horn -> Jar Dealer (코스트: 1)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/8
+  Hand (7): Cloakscale Chemist, Zilliax, Burgly Bully, Acidic Swamp Ooze, Hex Lord Malacrass, Pyros, Golakka Crawler
+  Field: Dollmaster Dorian[2/6]
+Opponent: Rexxar HP: 23, Mana: 7/8
+  Hand (6)
+  Field: Mana Reservoir[0/5], Ornery Tortoise[3/3], Jar Dealer[1/1]
+[Turn 8, Step 25] Agent: 유효하지 않은 액션 인덱스(94) → 0로 보정
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 9, Step 26] Agent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(71) → 5로 보정
+[Turn 9, Step 28] Agent: 공격 - Dollmaster Dorian[2/6] -> Jar Dealer
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 9, Step 29] Agent: 카드 플레이 - Zilliax (코스트: 5)
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/9
+  Hand (6): Burgly Bully, Acidic Swamp Ooze, Hex Lord Malacrass, Pyros, Golakka Crawler, Maexxna
+  Field: Dollmaster Dorian[2/5], Cloakscale Chemist[1/2], Zilliax[3/2]
+Opponent: Rexxar HP: 22, Mana: 7/9
+  Hand (8)
+  Field: Mana Reservoir[0/5], Ornery Tortoise[3/3]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(30) → 0로 보정
+[Turn 9, Step 30] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 영웅 능력 사용 -> Dollmaster Dorian
+[Turn 10, Step 32] Agent: 공격 - Cloakscale Chemist[1/2] -> Ornery Tortoise
+[Turn 10, Step 33] Agent: 공격 - Zilliax[3/2] -> Mana Reservoir
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(51) → 7로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Font of Power (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 7/10
+  Hand (6): Burgly Bully, Acidic Swamp Ooze, Hex Lord Malacrass, Pyros, Golakka Crawler, Maexxna
+  Field: Dollmaster Dorian[2/4], Cloakscale Chemist[1/2], Zilliax[3/2]
+Opponent: Rexxar HP: 22, Mana: 10/10
+  Hand (9)
+  Field: Mana Reservoir[0/2], Ornery Tortoise[3/2]
+[Turn 10, Step 35] Agent: 선택 - Inkmaster Solia
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(27) → 7로 보정
+[Turn 10, Step 35] Agent: 공격 - Dollmaster Dorian[2/4] -> Rexxar
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(24) → 3로 보정
+[Turn 10, Step 36] Agent: 카드 플레이 - Pyros (코스트: 6)
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(70) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 카드 플레이 - Arena Fanatic (코스트: 4)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Raptor Hatchling (코스트: 1)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Augmented Porcupine (코스트: 3)
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(97) → 11로 보정
+[Turn 10, Step 38] Agent: 영웅 능력 사용 -> Ornery Tortoise
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(62) → 30로 보정
+[Turn 10, Step 39] Agent: 공격 - Pyros[6/6] -> Raptor Hatchling
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 8/10
+  Hand (7): Burgly Bully, Acidic Swamp Ooze, Hex Lord Malacrass, Golakka Crawler, Maexxna, Inkmaster Solia, Ticket Scalper
+  Field: Dollmaster Dorian[2/4], Cloakscale Chemist[1/2], Zilliax[3/2], Pyros[6/3]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (7)
+  Field: Mana Reservoir[0/2], Ornery Tortoise[3/1], Arena Fanatic[2/3], Augmented Porcupine[3/5]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(61) → 15로 보정
+[Turn 10, Step 40] Agent: 공격 - Cloakscale Chemist[1/2] -> Ornery Tortoise
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(47) → 15로 보정
+[Turn 10, Step 41] Agent: 공격 - Zilliax[3/2] -> Augmented Porcupine
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(49) → 1로 보정
+[Turn 10, Step 42] Agent: 카드 플레이 - Burgly Bully (코스트: 5)
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(34) → 4로 보정
+[Turn 10, Step 44] Agent: 공격 - Dollmaster Dorian[2/4] -> Augmented Porcupine
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/10
+  Hand (5): Acidic Swamp Ooze, Hex Lord Malacrass, Maexxna, Inkmaster Solia, Ticket Scalper
+  Field: Dollmaster Dorian[2/1], Zilliax[3/1], Pyros[6/3], Burgly Bully[4/5], Golakka Crawler[2/2]
+Opponent: Rexxar HP: 20, Mana: 2/10
+  Hand (7)
+  Field: Mana Reservoir[0/2], Arena Fanatic[2/3]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 45] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 45] Opponent: 카드 플레이 - Tunnel Trogg (코스트: 1)
+[Turn 10, Step 45] Opponent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 10, Step 45] Opponent: 공격 - Arena Fanatic[2/3] -> Zilliax
+[Turn 10, Step 45] Opponent: 카드 플레이 - Flame Juggler (코스트: 2)
+[Turn 10, Step 45] Opponent: 턴 종료
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(68) → 22로 보정
+[Turn 10, Step 46] Agent: 공격 - Golakka Crawler[2/2] -> Hecklebot
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(24) → 3로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Hex Lord Malacrass (코스트: 8)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(69) → 6로 보정
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(53) → 5로 보정
+[Turn 10, Step 49] Agent: 공격 - Chenvaala[2/4] -> Hecklebot
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/10
+  Hand (9): Bomb Lobber, Acidic Swamp Ooze, Maexxna, Inkmaster Solia, Ticket Scalper, Murloc Tinyfin, Lowly Squire, Cloakscale Chemist, Pyros
+  Field: Dollmaster Dorian[2/1], Pyros[6/3], Burgly Bully[4/5], Hex Lord Malacrass[5/5]
+Opponent: Rexxar HP: 20, Mana: 3/10
+  Hand (5)
+  Field: Mana Reservoir[0/2], Tunnel Trogg[2/4], Hecklebot[4/5], Flame Juggler[3/4]
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 50] Agent: 공격 - Pyros[6/3] -> Hecklebot
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(63) → 3로 보정
+[Turn 10, Step 51] Agent: 공격 - Dollmaster Dorian[2/1] -> Mana Reservoir
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(20) → 0로 보정
+[Turn 10, Step 52] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 52] Opponent: 공격 - Flame Juggler[3/4] -> Hex Lord Malacrass
+[Turn 10, Step 52] Opponent: 턴 종료
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(90) → 21로 보정
+[Turn 10, Step 53] Agent: 공격 - Hex Lord Malacrass[5/2] -> Rexxar
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(34) → 13로 보정
+[Turn 10, Step 54] Agent: 영웅 능력 사용 -> Dollmaster Dorian
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 8/10
+  Hand (10): Bomb Lobber, Acidic Swamp Ooze, Maexxna, Inkmaster Solia, Ticket Scalper, Murloc Tinyfin, Lowly Squire, Cloakscale Chemist, Pyros, Pyros
+  Field: Burgly Bully[4/5], Hex Lord Malacrass[5/2]
+Opponent: Rexxar HP: 15, Mana: 10/10
+  Hand (6)
+  Field: Tunnel Trogg[2/4]
+[Turn 10, Step 55] Agent: 카드 플레이 - Acidic Swamp Ooze (코스트: 2)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(13) → 3로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Ticket Scalper (코스트: 4)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(59) → 3로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(54) → 2로 보정
+[Turn 10, Step 58] Agent: 공격 - Burgly Bully[4/5] -> Rexxar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(37) → 1로 보정
+[Turn 10, Step 59] Agent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/10
+  Hand (6): Bomb Lobber, Maexxna, Inkmaster Solia, Lowly Squire, Pyros, Pyros
+  Field: Burgly Bully[4/5], Hex Lord Malacrass[5/2], Acidic Swamp Ooze[3/2], Ticket Scalper[5/3], Cloakscale Chemist[1/2], Murloc Tinyfin[1/1]
+Opponent: Rexxar HP: 11, Mana: 10/10
+  Hand (6)
+  Field: Tunnel Trogg[2/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 10, Step 60] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 60] Opponent: 공격 - Tunnel Trogg[2/4] -> Murloc Tinyfin
+[Turn 10, Step 60] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 60] Opponent: 영웅 능력 사용
+[Turn 10, Step 60] Opponent: 턴 종료
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(42) → 10로 보정
+[Turn 10, Step 61] Agent: 영웅 능력 사용 -> Burgly Bully
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 10, Step 62] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(79) → 19로 보정
+[Turn 10, Step 63] Agent: 공격 - Cloakscale Chemist[1/2] -> Hunting Mastiff
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(89) → 11로 보정
+[Turn 10, Step 64] Agent: 공격 - Ticket Scalper[5/3] -> Rexxar
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/10
+  Hand (6): Bomb Lobber, Maexxna, Inkmaster Solia, Lowly Squire, Pyros, Pyros
+  Field: Burgly Bully[4/4], Hex Lord Malacrass[5/2], Acidic Swamp Ooze[3/2], Ticket Scalper[5/3], Cloakscale Chemist[1/2], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 6, Mana: 6/10
+  Hand (6)
+  Field: Tunnel Trogg[2/3]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(90) → 2로 보정
+[Turn 10, Step 65] Agent: 카드 플레이 - Maexxna (코스트: 6)
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(54) → 5로 보정
+[Turn 10, Step 66] Agent: 공격 - Acidic Swamp Ooze[3/2] -> Rexxar
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(58) → 3로 보정
+[Turn 10, Step 67] Agent: 공격 - Hex Lord Malacrass[5/2] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/10
+  Hand (5): Bomb Lobber, Inkmaster Solia, Lowly Squire, Pyros, Pyros
+  Field: Burgly Bully[4/4], Hex Lord Malacrass[5/2], Acidic Swamp Ooze[3/2], Ticket Scalper[5/3], Cloakscale Chemist[1/2], Stubborn Gastropod[1/2], Maexxna[2/8]
+Opponent: Rexxar HP: 0, Mana: 6/10
+  Hand (6)
+  Field: Tunnel Trogg[2/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

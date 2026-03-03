@@ -1,0 +1,254 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(11) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(44) → 4로 보정
+[Turn 1, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 1, Step 3] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(90) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (7): Arcane Servant, Scorp-o-matic, Inkmaster Solia, Frenzied Felwing, Blackwald Pixie, Grave Shambler, Gelbin Mekkatorque
+Opponent: Rexxar HP: 29, Mana: 3/3
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Scorp-o-matic (코스트: 2)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(91) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 카드 플레이 - Crackling Razormaw (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(72) → 0로 보정
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 공격 - Crackling Razormaw[3/1] -> Scorp-o-matic
+[Turn 4, Step 7] Opponent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 유효하지 않은 액션 인덱스(17) → 7로 보정
+[Turn 5, Step 8] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 9] Agent: 유효하지 않은 액션 인덱스(98) → 3로 보정
+[Turn 5, Step 9] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/5
+  Hand (7): Arcane Servant, Inkmaster Solia, Frenzied Felwing, Grave Shambler, Gelbin Mekkatorque, Shimmering Tempest, Octosari
+  Field: Blackwald Pixie[3/4]
+Opponent: Rexxar HP: 28, Mana: 0/5
+  Hand (5)
+  Field: Mad Bomber[3/2], Swamp Leech[2/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(65) → 0로 보정
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 영웅 능력 사용
+[Turn 5, Step 10] Opponent: 공격 - Mad Bomber[3/2] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 공격 - Swamp Leech[2/1] -> Jaina Proudmoore
+[Turn 5, Step 10] Opponent: 카드 플레이 - Steamwheedle Sniper (코스트: 2)
+[Turn 5, Step 10] Opponent: 카드 플레이 - Corrosive Breath -> Steamwheedle Sniper (코스트: 2)
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 11] Opponent: 공격 - Swamp Leech[2/1] -> Jaina Proudmoore
+[Turn 6, Step 11] Opponent: 턴 종료
+[Turn 7, Step 12] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 7, Step 12] Agent: 카드 플레이 - Guild Recruiter (코스트: 5)
+[Turn 7, Step 13] Agent: 유효하지 않은 액션 인덱스(60) → 8로 보정
+[Turn 7, Step 13] Agent: 영웅 능력 사용 -> Guild Recruiter
+[Turn 7, Step 14] Agent: 유효하지 않은 액션 인덱스(69) → 1로 보정
+[Turn 7, Step 14] Agent: 공격 - Blackwald Pixie[3/4] -> Rexxar
+
+--- Game State (Turn 7, Step 15) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/7
+  Hand (8): Arcane Servant, Inkmaster Solia, Frenzied Felwing, Grave Shambler, Gelbin Mekkatorque, Shimmering Tempest, Octosari, Gentle Megasaur
+  Field: Blackwald Pixie[3/4], Guild Recruiter[2/3], Half-Time Scavenger[3/5]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (5)
+  Field: Mad Bomber[3/2], Swamp Leech[2/1]
+[Turn 7, Step 15] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 7, Step 15] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 15] Opponent: 턴 종료
+[Turn 8, Step 16] Agent: 유효하지 않은 액션 인덱스(30) → 4로 보정
+[Turn 8, Step 16] Agent: 카드 플레이 - Grave Shambler (코스트: 4)
+[Turn 8, Step 17] Agent: 유효하지 않은 액션 인덱스(65) → 19로 보정
+[Turn 8, Step 17] Agent: 공격 - Guild Recruiter[2/3] -> Swamp Leech
+[Turn 8, Step 18] Agent: 유효하지 않은 액션 인덱스(20) → 3로 보정
+[Turn 8, Step 18] Agent: 카드 플레이 - Shimmering Tempest (코스트: 2)
+[Turn 8, Step 19] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 8, Step 19] Agent: 영웅 능력 사용 -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/8
+  Hand (7): Arcane Servant, Inkmaster Solia, Frenzied Felwing, Gelbin Mekkatorque, Octosari, Gentle Megasaur, Nat, the Darkfisher
+  Field: Blackwald Pixie[3/4], Guild Recruiter[2/1], Half-Time Scavenger[3/5], Grave Shambler[4/4], Shimmering Tempest[2/1]
+Opponent: Rexxar HP: 28, Mana: 8/8
+  Hand (6)
+  Field: Mad Bomber[3/2]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 8, Step 20] Agent: 공격 - Half-Time Scavenger[3/5] -> Mad Bomber
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 8, Step 21] Agent: 공격 - Blackwald Pixie[3/4] -> Rexxar
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(18) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 카드 플레이 - Grook Fu Master (코스트: 5)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Injured Tol'vir (코스트: 2)
+[Turn 8, Step 22] Opponent: 카드 플레이 - Kindly Grandmother (코스트: 2)
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(90) → 18로 보정
+[Turn 9, Step 23] Agent: 영웅 능력 사용 -> Kindly Grandmother
+[Turn 9, Step 24] Agent: 공격 - Blackwald Pixie[3/4] -> Injured Tol'vir
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 7/9
+  Hand (8): Arcane Servant, Inkmaster Solia, Frenzied Felwing, Gelbin Mekkatorque, Octosari, Gentle Megasaur, Nat, the Darkfisher, Stargazer Luna
+  Field: Blackwald Pixie[3/2], Guild Recruiter[2/1], Half-Time Scavenger[3/2], Grave Shambler[4/4], Shimmering Tempest[2/1]
+Opponent: Rexxar HP: 25, Mana: 0/9
+  Hand (4)
+  Field: Grook Fu Master[3/5], Big Bad Wolf[3/2]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(45) → 5로 보정
+[Turn 9, Step 25] Agent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(54) → 6로 보정
+[Turn 9, Step 26] Agent: 공격 - Guild Recruiter[2/1] -> Big Bad Wolf
+[Turn 9, Step 27] Agent: 공격 - Half-Time Scavenger[3/2] -> Grook Fu Master
+[Turn 9, Step 28] Agent: 유효하지 않은 액션 인덱스(94) → 6로 보정
+[Turn 9, Step 28] Agent: 공격 - Shimmering Tempest[2/1] -> Rexxar
+[Turn 9, Step 29] Agent: 유효하지 않은 액션 인덱스(68) → 5로 보정
+[Turn 9, Step 29] Agent: 공격 - Grave Shambler[4/4] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 3/9
+  Hand (7): Arcane Servant, Inkmaster Solia, Frenzied Felwing, Gelbin Mekkatorque, Octosari, Nat, the Darkfisher, Stargazer Luna
+  Field: Blackwald Pixie[3/2], Grave Shambler[4/4], Shimmering Tempest[2/1], Gentle Megasaur[5/4]
+Opponent: Rexxar HP: 19, Mana: 0/9
+  Hand (4)
+  Field: Grook Fu Master[3/2]
+[Turn 9, Step 30] Agent: 유효하지 않은 액션 인덱스(14) → 4로 보정
+[Turn 9, Step 30] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 9, Step 31] Agent: 유효하지 않은 액션 인덱스(93) → 1로 보정
+[Turn 9, Step 31] Agent: 카드 플레이 - Frenzied Felwing (코스트: 0)
+[Turn 9, Step 32] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 9, Step 32] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 32] Opponent: 공격 - Grook Fu Master[3/2] -> Shimmering Tempest
+[Turn 9, Step 32] Opponent: 카드 플레이 - Shimmering Courser (코스트: 4)
+[Turn 9, Step 32] Opponent: 카드 플레이 - Hunter's Mark -> Frenzied Felwing (코스트: 2)
+[Turn 9, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(43) → 14로 보정
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Blackwald Pixie
+[Turn 10, Step 34] Agent: 유효하지 않은 액션 인덱스(26) → 4로 보정
+[Turn 10, Step 34] Agent: 카드 플레이 - Octosari (코스트: 8)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/10
+  Hand (6): Arcane Servant, Inkmaster Solia, Gelbin Mekkatorque, Nat, the Darkfisher, Scorch, Chromaggus
+  Field: Blackwald Pixie[3/1], Grave Shambler[4/4], Gentle Megasaur[5/4], Stargazer Luna[2/4], Frenzied Felwing[3/1], Octosari[8/8]
+Opponent: Rexxar HP: 19, Mana: 4/10
+  Hand (3)
+  Field: Shimmering Courser[3/3]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(15) → 4로 보정
+[Turn 10, Step 35] Agent: 공격 - Grave Shambler[4/4] -> Shimmering Courser
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(33) → 3로 보정
+[Turn 10, Step 36] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(99) → 3로 보정
+[Turn 10, Step 37] Agent: 공격 - Frenzied Felwing[3/1] -> Rexxar
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(88) → 1로 보정
+[Turn 10, Step 38] Agent: 공격 - Blackwald Pixie[3/1] -> Rexxar
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(22) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 영웅 능력 사용
+[Turn 10, Step 39] Opponent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 10, Step 39] Opponent: 카드 플레이 - Vilefiend (코스트: 2)
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 10/10
+  Hand (7): Arcane Servant, Inkmaster Solia, Gelbin Mekkatorque, Nat, the Darkfisher, Scorch, Chromaggus, Exotic Mountseller
+  Field: Blackwald Pixie[3/1], Grave Shambler[4/1], Gentle Megasaur[5/4], Stargazer Luna[2/4], Frenzied Felwing[3/1], Octosari[8/8]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (2)
+  Field: Salty Dog[7/4], Vilefiend[2/2]
+[Turn 10, Step 40] Agent: 카드 플레이 - Scorch -> Stargazer Luna (코스트: 4)
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(35) → 7로 보정
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Grave Shambler
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(40) → 10로 보정
+[Turn 10, Step 42] Agent: 공격 - Frenzied Felwing[3/1] -> Salty Dog
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 43] Agent: 공격 - Blackwald Pixie[3/1] -> Vilefiend
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 10, Step 44] Agent: 카드 플레이 - Arcane Servant (코스트: 2)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 2/10
+  Hand (5): Inkmaster Solia, Gelbin Mekkatorque, Nat, the Darkfisher, Chromaggus, Exotic Mountseller
+  Field: Gentle Megasaur[5/4], Octosari[8/8], Arcane Servant[2/3]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (2)
+  Field: Salty Dog[7/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(8) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Gentle Megasaur[5/4] -> Rexxar
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(91) → 3로 보정
+[Turn 10, Step 46] Agent: 공격 - Octosari[8/8] -> Salty Dog
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 10, Step 48] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 48] Opponent: 턴 종료
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(24) → 8로 보정
+[Turn 10, Step 49] Agent: 영웅 능력 사용 -> Gentle Megasaur
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 8/10
+  Hand (5): Inkmaster Solia, Gelbin Mekkatorque, Chromaggus, Exotic Mountseller, Font of Power
+  Field: Gentle Megasaur[5/3], Octosari[8/1], Arcane Servant[2/3], Nat, the Darkfisher[2/4]
+Opponent: Rexxar HP: 8, Mana: 10/10
+  Hand (3)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(31) → 1로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Inkmaster Solia (코스트: 7)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(41) → 5로 보정
+[Turn 10, Step 51] Agent: 공격 - Nat, the Darkfisher[2/4] -> Rexxar
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(72) → 2로 보정
+[Turn 10, Step 52] Agent: 공격 - Gentle Megasaur[5/3] -> Rexxar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(18) → 2로 보정
+[Turn 10, Step 53] Agent: 공격 - Octosari[8/1] -> Rexxar
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 1/10
+  Hand (4): Gelbin Mekkatorque, Chromaggus, Exotic Mountseller, Font of Power
+  Field: Gentle Megasaur[5/3], Octosari[8/1], Arcane Servant[2/3], Nat, the Darkfisher[2/4], Inkmaster Solia[5/5]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (3)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

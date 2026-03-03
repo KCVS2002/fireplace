@@ -1,0 +1,339 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 유효하지 않은 액션 인덱스(97) → 1로 보정
+[Turn 1, Step 1] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 1, Step 2] Agent: 유효하지 않은 액션 인덱스(76) → 0로 보정
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 유효하지 않은 액션 인덱스(39) → 7로 보정
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 4] Agent: 유효하지 않은 액션 인덱스(60) → 0로 보정
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/3
+  Hand (7): Medivh's Valet, Mad Bomber, Lord of the Arena, The Coin, Dire Mole, Arcane Giant, Vaporize
+Opponent: Rexxar HP: 29, Mana: 1/3
+  Hand (4)
+  Field: Sunfury Protector[2/3]
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(73) → 7로 보정
+[Turn 3, Step 5] Agent: 카드 플레이 - Vaporize (코스트: 3)
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(26) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 공격 - Sunfury Protector[2/3] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(87) → 6로 보정
+[Turn 4, Step 7] Agent: 카드 플레이 - Lorewalker Cho (코스트: 2)
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(41) → 1로 보정
+[Turn 4, Step 9] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/4
+  Hand (4): Medivh's Valet, Mad Bomber, Lord of the Arena, Arcane Giant
+  Field: Lorewalker Cho[0/4], Dire Mole[1/3]
+Opponent: Rexxar HP: 29, Mana: 2/4
+  Hand (6)
+[Turn 4, Step 10] Agent: 유효하지 않은 액션 인덱스(46) → 6로 보정
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 11] Agent: 유효하지 않은 액션 인덱스(98) → 0로 보정
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 13] Agent: 유효하지 않은 액션 인덱스(82) → 2로 보정
+[Turn 5, Step 13] Agent: 카드 플레이 - Medivh's Valet -> Rexxar (코스트: 2)
+[Turn 5, Step 14] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 5, Step 14] Agent: 공격 - Dire Mole[1/3] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/5
+  Hand (4): Mad Bomber, Lord of the Arena, Arcane Giant, Helpless Hatchling
+  Field: Lorewalker Cho[0/4], Dire Mole[1/3], Medivh's Valet[2/3]
+Opponent: Rexxar HP: 27, Mana: 5/5
+  Hand (7)
+[Turn 5, Step 15] Agent: 유효하지 않은 액션 인덱스(74) → 0로 보정
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 카드 플레이 - Platebreaker (코스트: 5)
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 유효하지 않은 액션 인덱스(74) → 14로 보정
+[Turn 6, Step 16] Agent: 공격 - Medivh's Valet[2/3] -> Platebreaker
+[Turn 6, Step 17] Agent: 유효하지 않은 액션 인덱스(50) → 2로 보정
+[Turn 6, Step 17] Agent: 카드 플레이 - Lord of the Arena (코스트: 6)
+[Turn 6, Step 18] Agent: 유효하지 않은 액션 인덱스(66) → 0로 보정
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Ancient Brewmaster -> Platebreaker (코스트: 4)
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 유효하지 않은 액션 인덱스(83) → 8로 보정
+[Turn 7, Step 19] Agent: 영웅 능력 사용 -> Dire Mole
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/7
+  Hand (5): Mad Bomber, Arcane Giant, Helpless Hatchling, Raven Familiar, Arcane Explosion
+  Field: Lorewalker Cho[0/4], Dire Mole[1/2], Lord of the Arena[6/5]
+Opponent: Rexxar HP: 27, Mana: 3/7
+  Hand (8)
+  Field: Ancient Brewmaster[5/4]
+[Turn 7, Step 20] Agent: 유효하지 않은 액션 인덱스(75) → 3로 보정
+[Turn 7, Step 20] Agent: 카드 플레이 - Raven Familiar (코스트: 2)
+[Turn 7, Step 21] Agent: 공격 - Lord of the Arena[6/5] -> Rexxar
+[Turn 7, Step 22] Agent: 유효하지 않은 액션 인덱스(19) → 1로 보정
+[Turn 7, Step 22] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 7, Step 23] Agent: 유효하지 않은 액션 인덱스(10) → 2로 보정
+[Turn 7, Step 23] Agent: 공격 - Dire Mole[1/2] -> Rexxar
+[Turn 7, Step 24] Agent: 유효하지 않은 액션 인덱스(75) → 1로 보정
+[Turn 7, Step 24] Agent: 카드 플레이 - Helpless Hatchling (코스트: 1)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/7
+  Hand (3): Arcane Giant, Arcane Explosion, Cabalist's Tome
+  Field: Lorewalker Cho[0/3], Dire Mole[1/2], Lord of the Arena[6/4], Raven Familiar[2/1], Mad Bomber[3/2], Helpless Hatchling[1/1]
+Opponent: Rexxar HP: 20, Mana: 3/7
+  Hand (8)
+  Field: Ancient Brewmaster[5/4]
+[Turn 7, Step 25] Agent: 유효하지 않은 액션 인덱스(64) → 0로 보정
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 카드 플레이 - Desert Obelisk (코스트: 5)
+[Turn 7, Step 25] Opponent: 카드 플레이 - Echoing Ooze (코스트: 2)
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 유효하지 않은 액션 인덱스(94) → 12로 보정
+[Turn 8, Step 26] Agent: 영웅 능력 사용 -> Helpless Hatchling
+[Turn 8, Step 27] Agent: 유효하지 않은 액션 인덱스(94) → 2로 보정
+[Turn 8, Step 27] Agent: 카드 플레이 - Cabalist's Tome (코스트: 5)
+[Turn 8, Step 28] Agent: 유효하지 않은 액션 인덱스(49) → 5로 보정
+[Turn 8, Step 28] Agent: 공격 - Dire Mole[1/2] -> Echoing Ooze
+[Turn 8, Step 29] Agent: 유효하지 않은 액션 인덱스(31) → 14로 보정
+[Turn 8, Step 29] Agent: 공격 - Mad Bomber[3/2] -> Desert Obelisk
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/8
+  Hand (6): Arcane Giant, Arcane Explosion, Linecracker, Ancient Mysteries, Lesser Ruby Spellstone, Mirror Image
+  Field: Lorewalker Cho[0/3], Dire Mole[1/1], Lord of the Arena[6/4], Raven Familiar[2/1], Mad Bomber[3/2]
+Opponent: Rexxar HP: 20, Mana: 1/8
+  Hand (8)
+  Field: Ancient Brewmaster[5/4], Desert Obelisk[0/2], Echoing Ooze[1/1], Echoing Ooze[1/2]
+[Turn 8, Step 30] Agent: 유효하지 않은 액션 인덱스(26) → 2로 보정
+[Turn 8, Step 30] Agent: 공격 - Lord of the Arena[6/4] -> Rexxar
+[Turn 8, Step 31] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 8, Step 31] Agent: 공격 - Raven Familiar[2/1] -> Rexxar
+[Turn 8, Step 32] Agent: 유효하지 않은 액션 인덱스(33) → 1로 보정
+[Turn 8, Step 32] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 8, Step 33] Agent: 유효하지 않은 액션 인덱스(1) → 0로 보정
+[Turn 8, Step 33] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 33] Opponent: 공격 - Echoing Ooze[1/2] -> Lord of the Arena
+[Turn 8, Step 33] Opponent: 턴 종료
+[Turn 9, Step 34] Agent: 유효하지 않은 액션 인덱스(52) → 20로 보정
+[Turn 9, Step 34] Agent: 공격 - Lord of the Arena[6/3] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 9/9
+  Hand (6): Arcane Giant, Arcane Explosion, Linecracker, Ancient Mysteries, Lesser Ruby Spellstone, Gnomeregan Infantry
+  Field: Lorewalker Cho[0/3], Dire Mole[1/1], Lord of the Arena[6/3], Raven Familiar[2/1], Mad Bomber[3/2], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 6, Mana: 9/9
+  Hand (10)
+  Field: Ancient Brewmaster[5/4], Desert Obelisk[0/2], Echoing Ooze[1/1]
+[Turn 9, Step 35] Agent: 유효하지 않은 액션 인덱스(76) → 20로 보정
+[Turn 9, Step 35] Agent: 공격 - Raven Familiar[2/1] -> Rexxar
+[Turn 9, Step 36] Agent: 유효하지 않은 액션 인덱스(66) → 18로 보정
+[Turn 9, Step 36] Agent: 공격 - Dire Mole[1/1] -> Desert Obelisk
+[Turn 9, Step 37] Agent: 유효하지 않은 액션 인덱스(93) → 13로 보정
+[Turn 9, Step 37] Agent: 영웅 능력 사용 -> Echoing Ooze
+[Turn 9, Step 38] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 9, Step 38] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 38] Opponent: 카드 플레이 - Devoted Maniac (코스트: 4)
+[Turn 9, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 유효하지 않은 액션 인덱스(96) → 0로 보정
+[Turn 10, Step 39] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 39] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 10/10
+  Hand (8): Arcane Giant, Arcane Explosion, Linecracker, Ancient Mysteries, Lesser Ruby Spellstone, Gnomeregan Infantry, Spiteful Summoner, Golakka Crawler
+  Field: Lorewalker Cho[0/3], Dire Mole[1/1], Lord of the Arena[6/3], Raven Familiar[2/1], Mad Bomber[3/2], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Ancient Brewmaster[5/4], Desert Obelisk[0/1], Devoted Maniac[2/2]
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(44) → 12로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Desert Obelisk
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(79) → 15로 보정
+[Turn 10, Step 41] Agent: 공격 - Mad Bomber[3/2] -> Devoted Maniac
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(59) → 14로 보정
+[Turn 10, Step 42] Agent: 공격 - Raven Familiar[2/1] -> Ancient Brewmaster
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(53) → 1로 보정
+[Turn 10, Step 43] Agent: 카드 플레이 - Arcane Giant (코스트: 7)
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 44] Agent: 공격 - Dire Mole[1/1] -> Ancient Brewmaster
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/10
+  Hand (7): Arcane Explosion, Linecracker, Ancient Mysteries, Lesser Ruby Spellstone, Gnomeregan Infantry, Spiteful Summoner, Golakka Crawler
+  Field: Lorewalker Cho[0/3], Lord of the Arena[6/3], Mirror Image[0/2], Mirror Image[0/2], Arcane Giant[8/8]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Ancient Brewmaster[5/1]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 45] Agent: 공격 - Lord of the Arena[6/3] -> Ancient Brewmaster
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(29) → 0로 보정
+[Turn 10, Step 46] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 46] Opponent: 영웅 능력 사용
+[Turn 10, Step 46] Opponent: 턴 종료
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(69) → 5로 보정
+[Turn 10, Step 47] Agent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 10, Step 48] Agent: 영웅 능력 사용 -> Lorewalker Cho
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(83) → 3로 보정
+[Turn 10, Step 49] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (7): Arcane Explosion, Linecracker, Ancient Mysteries, Spiteful Summoner, Golakka Crawler, Golden Scarab, Fireball
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Arcane Giant[8/8], Gnomeregan Infantry[1/4]
+Opponent: Rexxar HP: 4, Mana: 8/10
+  Hand (10)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(7) → 0로 보정
+[Turn 10, Step 50] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 50] Opponent: 카드 플레이 - Dragonhatcher (코스트: 9)
+[Turn 10, Step 50] Opponent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 10, Step 50] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 50] Opponent: 턴 종료
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(65) → 29로 보정
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 10, Step 52] Agent: 유효하지 않은 액션 인덱스(79) → 4로 보정
+[Turn 10, Step 52] Agent: 카드 플레이 - Ancient Mysteries (코스트: 2)
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(41) → 18로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 54] Agent: 유효하지 않은 액션 인덱스(66) → 20로 보정
+[Turn 10, Step 54] Agent: 공격 - Arcane Giant[8/8] -> Mirror Image
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/10
+  Hand (8): Jeeves, Arcane Explosion, Linecracker, Spiteful Summoner, Golakka Crawler, Golden Scarab, Fireball, Mirror Image
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Arcane Giant[8/8], Gnomeregan Infantry[1/4]
+Opponent: Rexxar HP: 4, Mana: 0/10
+  Hand (9)
+  Field: Dragonhatcher[2/4], Chromaggus[6/8], Mirror Image[0/1]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(54) → 16로 보정
+[Turn 10, Step 55] Agent: 카드 플레이 - Fireball -> Chromaggus (코스트: 4)
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(59) → 5로 보정
+[Turn 10, Step 56] Agent: 공격 - Gnomeregan Infantry[1/4] -> Mirror Image
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(89) → 4로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 58] Agent: 카드 플레이 - Arcane Explosion (코스트: 2)
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(59) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Dragonhatcher[2/3] -> Mirror Image
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (6): Jeeves, Linecracker, Spiteful Summoner, Golakka Crawler, Golden Scarab, Clockwork Knight
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Arcane Giant[8/8], Gnomeregan Infantry[1/4], Mirror Image[0/2]
+Opponent: Rexxar HP: 4, Mana: 10/10
+  Hand (10)
+  Field: Dragonhatcher[2/3], Hungry Dragon[5/6], Chromaggus[6/1]
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Dragonhatcher
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(36) → 6로 보정
+[Turn 10, Step 61] Agent: 카드 플레이 - Clockwork Knight (코스트: 5)
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(47) → 2로 보정
+[Turn 10, Step 62] Agent: 공격 - Arcane Giant[8/8] -> Dragonhatcher
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(65) → 1로 보정
+[Turn 10, Step 63] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(95) → 0로 보정
+[Turn 10, Step 64] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 64] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 10/10
+  Hand (6): Twilight Elder, Jeeves, Linecracker, Spiteful Summoner, Golakka Crawler, Golden Scarab
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Arcane Giant[8/6], Gnomeregan Infantry[1/4], Mirror Image[0/2], Clockwork Knight[5/5]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+  Field: Hungry Dragon[5/6], Chromaggus[6/1]
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(73) → 10로 보정
+[Turn 10, Step 65] Agent: 영웅 능력 사용 -> Hungry Dragon
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(48) → 8로 보정
+[Turn 10, Step 66] Agent: 공격 - Clockwork Knight[5/5] -> Hungry Dragon
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(41) → 8로 보정
+[Turn 10, Step 67] Agent: 공격 - Arcane Giant[8/6] -> Chromaggus
+[Turn 10, Step 68] Agent: 유효하지 않은 액션 인덱스(25) → 1로 보정
+[Turn 10, Step 68] Agent: 카드 플레이 - Twilight Elder (코스트: 3)
+[Turn 10, Step 69] Agent: 유효하지 않은 액션 인덱스(7) → 2로 보정
+[Turn 10, Step 69] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+
+--- Game State (Turn 10, Step 70) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 3/10
+  Hand (4): Jeeves, Linecracker, Spiteful Summoner, Golden Scarab
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Gnomeregan Infantry[1/4], Mirror Image[0/2], Twilight Elder[3/4], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 3, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 70] Agent: 유효하지 않은 액션 인덱스(81) → 1로 보정
+[Turn 10, Step 70] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 10, Step 71] Agent: 유효하지 않은 액션 인덱스(87) → 0로 보정
+[Turn 10, Step 71] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 71] Opponent: 턴 종료
+[Turn 10, Step 72] Agent: 유효하지 않은 액션 인덱스(75) → 10로 보정
+[Turn 10, Step 72] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 10, Step 73] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 74] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 10, Step 74] Agent: 공격 - Twilight Elder[3/4] -> Rexxar
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Jeeves, Linecracker, Spiteful Summoner, Golden Scarab, Aberrant Berserker
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Gnomeregan Infantry[1/4], Mirror Image[0/2], Twilight Elder[3/4], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+--- Game State (Turn 10, Step 75) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/10
+  Hand (5): Jeeves, Linecracker, Spiteful Summoner, Golden Scarab, Aberrant Berserker
+  Field: Lorewalker Cho[0/2], Mirror Image[0/2], Mirror Image[0/2], Gnomeregan Infantry[1/4], Mirror Image[0/2], Twilight Elder[3/4], Golakka Crawler[2/3]
+Opponent: Rexxar HP: 0, Mana: 10/10
+  Hand (10)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

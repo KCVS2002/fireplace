@@ -1,0 +1,311 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+============================================================
+[Turn 1, Step 0] Agent: 유효하지 않은 액션 인덱스(39) → 0로 보정
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 유효하지 않은 액션 인덱스(61) → 1로 보정
+[Turn 2, Step 1] Agent: 카드 플레이 - Volatile Elemental (코스트: 2)
+[Turn 2, Step 2] Agent: 유효하지 않은 액션 인덱스(10) → 0로 보정
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 유효하지 않은 액션 인덱스(35) → 3로 보정
+[Turn 3, Step 3] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/3
+  Hand (4): Subject 9, Arcane Breath, Vaporize, SI:7 Infiltrator
+  Field: Volatile Elemental[1/1], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 유효하지 않은 액션 인덱스(83) → 1로 보정
+[Turn 3, Step 5] Agent: 공격 - Volatile Elemental[1/1] -> Rexxar
+[Turn 3, Step 6] Agent: 유효하지 않은 액션 인덱스(86) → 0로 보정
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 유효하지 않은 액션 인덱스(21) → 9로 보정
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 4, Step 8] Agent: 유효하지 않은 액션 인덱스(36) → 1로 보정
+[Turn 4, Step 8] Agent: 카드 플레이 - Arcane Breath -> Volatile Elemental (코스트: 1)
+[Turn 4, Step 9] Agent: 유효하지 않은 액션 인덱스(12) → 0로 보정
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 4, Step 9] Opponent: 카드 플레이 - Jeweled Macaw (코스트: 1)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (5): Subject 9, Vaporize, SI:7 Infiltrator, Soggoth the Slitherer, Sky Gen'ral Kragg
+  Field: Mirror Image[0/1], Mirror Image[0/2]
+Opponent: Rexxar HP: 29, Mana: 0/4
+  Hand (7)
+  Field: Ice Rager[5/2], Jeweled Macaw[1/1]
+[Turn 5, Step 10] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 5, Step 11] Agent: 유효하지 않은 액션 인덱스(9) → 1로 보정
+[Turn 5, Step 11] Agent: 카드 플레이 - Vaporize (코스트: 3)
+[Turn 5, Step 12] Agent: 유효하지 않은 액션 인덱스(46) → 0로 보정
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Knuckles (코스트: 5)
+[Turn 5, Step 12] Opponent: 공격 - Ice Rager[5/2] -> Mirror Image
+[Turn 5, Step 12] Opponent: 공격 - Jeweled Macaw[1/1] -> Jaina Proudmoore
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 유효하지 않은 액션 인덱스(94) → 4로 보정
+[Turn 6, Step 13] Agent: 카드 플레이 - Zombie Chow (코스트: 1)
+[Turn 6, Step 14] Agent: 유효하지 않은 액션 인덱스(29) → 2로 보정
+[Turn 6, Step 14] Agent: 카드 플레이 - SI:7 Infiltrator (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/6
+  Hand (3): Subject 9, Soggoth the Slitherer, Sky Gen'ral Kragg
+  Field: Zombie Chow[2/3], SI:7 Infiltrator[5/4]
+Opponent: Rexxar HP: 29, Mana: 0/5
+  Hand (7)
+  Field: Ice Rager[5/2], Knuckles[3/7]
+[Turn 6, Step 15] Agent: 유효하지 않은 액션 인덱스(62) → 0로 보정
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Xavius (코스트: 6)
+[Turn 6, Step 15] Opponent: 공격 - Knuckles[3/7] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 유효하지 않은 액션 인덱스(90) → 14로 보정
+[Turn 7, Step 16] Agent: 공격 - Zombie Chow[2/3] -> Xavius
+[Turn 7, Step 17] Agent: 유효하지 않은 액션 인덱스(62) → 6로 보정
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Ice Rager
+[Turn 7, Step 18] Agent: 유효하지 않은 액션 인덱스(56) → 0로 보정
+[Turn 7, Step 18] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 18] Opponent: 턴 종료
+[Turn 8, Step 19] Agent: 카드 플레이 - Subject 9 (코스트: 5)
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/8
+  Hand (5): Soggoth the Slitherer, Sky Gen'ral Kragg, Void Ripper, Enhance-o Mechano, Splitting Image
+  Field: SI:7 Infiltrator[5/4], Subject 9[4/4]
+Opponent: Rexxar HP: 30, Mana: 7/7
+  Hand (8)
+  Field: Ice Rager[5/1], Knuckles[3/7], Xavius[7/3]
+[Turn 8, Step 20] Agent: 유효하지 않은 액션 인덱스(90) → 6로 보정
+[Turn 8, Step 20] Agent: 영웅 능력 사용 -> Knuckles
+[Turn 8, Step 21] Agent: 유효하지 않은 액션 인덱스(19) → 4로 보정
+[Turn 8, Step 21] Agent: 공격 - SI:7 Infiltrator[5/4] -> Xavius
+[Turn 8, Step 22] Agent: 유효하지 않은 액션 인덱스(93) → 0로 보정
+[Turn 8, Step 22] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 22] Opponent: 턴 종료
+[Turn 9, Step 23] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 9, Step 23] Agent: 카드 플레이 - Void Ripper (코스트: 3)
+[Turn 9, Step 24] Agent: 유효하지 않은 액션 인덱스(16) → 3로 보정
+[Turn 9, Step 24] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/9
+  Hand (4): Soggoth the Slitherer, Sky Gen'ral Kragg, Enhance-o Mechano, Rhonin
+  Field: Subject 9[4/4], Void Ripper[3/3]
+Opponent: Rexxar HP: 30, Mana: 8/8
+  Hand (9)
+  Field: Ice Rager[1/5], Knuckles[6/3]
+[Turn 9, Step 25] Agent: 유효하지 않은 액션 인덱스(93) → 3로 보정
+[Turn 9, Step 25] Agent: 영웅 능력 사용 -> Ice Rager
+[Turn 9, Step 26] Agent: 유효하지 않은 액션 인덱스(73) → 1로 보정
+[Turn 9, Step 26] Agent: 공격 - Subject 9[4/4] -> Rexxar
+[Turn 9, Step 27] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Rustsworn Cultist (코스트: 4)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 유효하지 않은 액션 인덱스(54) → 12로 보정
+[Turn 10, Step 28] Agent: 영웅 능력 사용 -> Rustsworn Cultist
+[Turn 10, Step 29] Agent: 유효하지 않은 액션 인덱스(43) → 4로 보정
+[Turn 10, Step 29] Agent: 카드 플레이 - Rhonin (코스트: 8)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/10
+  Hand (4): Mukla, Tyrant of the Vale, Soggoth the Slitherer, Sky Gen'ral Kragg, Enhance-o Mechano
+  Field: Subject 9[4/4], Void Ripper[3/3], Rhonin[7/7]
+Opponent: Rexxar HP: 26, Mana: 5/9
+  Hand (9)
+  Field: Ice Rager[1/4], Knuckles[6/3], Rustsworn Cultist[3/2]
+[Turn 10, Step 30] Agent: 유효하지 않은 액션 인덱스(56) → 2로 보정
+[Turn 10, Step 30] Agent: 공격 - Subject 9[4/4] -> Ice Rager
+[Turn 10, Step 31] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 31] Agent: 공격 - Void Ripper[3/3] -> Knuckles
+[Turn 10, Step 32] Agent: 유효하지 않은 액션 인덱스(32) → 0로 보정
+[Turn 10, Step 32] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 32] Opponent: 턴 종료
+[Turn 10, Step 33] Agent: 유효하지 않은 액션 인덱스(22) → 1로 보정
+[Turn 10, Step 33] Agent: 카드 플레이 - Mukla, Tyrant of the Vale (코스트: 6)
+[Turn 10, Step 34] Agent: 카드 플레이 - Bananas -> Subject 9 (코스트: 1)
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 3/10
+  Hand (5): Soggoth the Slitherer, Sky Gen'ral Kragg, Enhance-o Mechano, Arena Patron, Bananas
+  Field: Subject 9[5/4], Rhonin[7/7], Mukla, Tyrant of the Vale[5/5]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (10)
+  Field: Rustsworn Cultist[3/2], Rusted Devil[1/1], Rusted Devil[1/1]
+[Turn 10, Step 35] Agent: 유효하지 않은 액션 인덱스(89) → 20로 보정
+[Turn 10, Step 35] Agent: 공격 - Rhonin[7/7] -> Rustsworn Cultist
+[Turn 10, Step 36] Agent: 유효하지 않은 액션 인덱스(59) → 11로 보정
+[Turn 10, Step 36] Agent: 영웅 능력 사용 -> Rusted Devil
+[Turn 10, Step 37] Agent: 유효하지 않은 액션 인덱스(14) → 0로 보정
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 턴 종료
+[Turn 10, Step 38] Agent: 유효하지 않은 액션 인덱스(43) → 21로 보정
+[Turn 10, Step 38] Agent: 공격 - Mukla, Tyrant of the Vale[5/5] -> Rusted Devil
+[Turn 10, Step 39] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (5): Soggoth the Slitherer, Enhance-o Mechano, Arena Patron, Bananas, Faceless Lurker
+  Field: Subject 9[5/4], Rhonin[7/4], Mukla, Tyrant of the Vale[5/4], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 26, Mana: 10/10
+  Hand (10)
+[Turn 10, Step 40] Agent: 유효하지 않은 액션 인덱스(61) → 13로 보정
+[Turn 10, Step 40] Agent: 영웅 능력 사용 -> Sky Gen'ral Kragg
+[Turn 10, Step 41] Agent: 유효하지 않은 액션 인덱스(77) → 5로 보정
+[Turn 10, Step 41] Agent: 카드 플레이 - Bananas -> Sky Gen'ral Kragg (코스트: 1)
+[Turn 10, Step 42] Agent: 유효하지 않은 액션 인덱스(35) → 2로 보정
+[Turn 10, Step 42] Agent: 공격 - Rhonin[7/4] -> Rexxar
+[Turn 10, Step 43] Agent: 유효하지 않은 액션 인덱스(50) → 0로 보정
+[Turn 10, Step 43] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 43] Opponent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Hunting Mastiff (코스트: 2)
+[Turn 10, Step 43] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 43] Opponent: 턴 종료
+[Turn 10, Step 44] Agent: 유효하지 않은 액션 인덱스(48) → 17로 보정
+[Turn 10, Step 44] Agent: 공격 - Subject 9[5/4] -> Hunting Mastiff
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 10/10
+  Hand (5): Tar Creeper, Soggoth the Slitherer, Enhance-o Mechano, Arena Patron, Faceless Lurker
+  Field: Subject 9[5/2], Rhonin[7/4], Mukla, Tyrant of the Vale[5/4], Sky Gen'ral Kragg[3/3]
+Opponent: Rexxar HP: 19, Mana: 1/10
+  Hand (7)
+  Field: Spiritsinger Umbra[3/4], Hyldnir Frostrider[4/4]
+[Turn 10, Step 45] Agent: 유효하지 않은 액션 인덱스(62) → 16로 보정
+[Turn 10, Step 45] Agent: 공격 - Rhonin[7/4] -> Hyldnir Frostrider
+[Turn 10, Step 46] Agent: 유효하지 않은 액션 인덱스(65) → 8로 보정
+[Turn 10, Step 46] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 47] Agent: 유효하지 않은 액션 인덱스(31) → 13로 보정
+[Turn 10, Step 47] Agent: 영웅 능력 사용 -> Spiritsinger Umbra
+[Turn 10, Step 48] Agent: 유효하지 않은 액션 인덱스(27) → 5로 보정
+[Turn 10, Step 48] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 49] Agent: 유효하지 않은 액션 인덱스(95) → 7로 보정
+[Turn 10, Step 49] Agent: 공격 - Sky Gen'ral Kragg[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 6/10
+  Hand (6): Tar Creeper, Soggoth the Slitherer, Enhance-o Mechano, Arena Patron, Faceless Lurker, Arcane Missiles
+  Field: Subject 9[5/2], Mukla, Tyrant of the Vale[5/4], Sky Gen'ral Kragg[3/3]
+Opponent: Rexxar HP: 13, Mana: 1/10
+  Hand (7)
+[Turn 10, Step 50] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 50] Agent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 10, Step 51] Agent: 유효하지 않은 액션 인덱스(16) → 0로 보정
+[Turn 10, Step 51] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 51] Opponent: 영웅 능력 사용
+[Turn 10, Step 51] Opponent: 카드 플레이 - Prince Malchezaar (코스트: 5)
+[Turn 10, Step 51] Opponent: 카드 플레이 - Sewer Crawler (코스트: 3)
+[Turn 10, Step 51] Opponent: 턴 종료
+[Turn 10, Step 52] Agent: 영웅 능력 사용 -> Prince Malchezaar
+[Turn 10, Step 53] Agent: 유효하지 않은 액션 인덱스(69) → 3로 보정
+[Turn 10, Step 53] Agent: 카드 플레이 - Faceless Lurker (코스트: 5)
+[Turn 10, Step 54] Agent: 공격 - Enhance-o Mechano[3/2] -> Sewer Crawler
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/10
+  Hand (5): Tar Creeper, Soggoth the Slitherer, Arena Patron, Arcane Missiles, Argent Watchman
+  Field: Subject 9[5/2], Mukla, Tyrant of the Vale[5/4], Sky Gen'ral Kragg[3/3], Enhance-o Mechano[3/1], Faceless Lurker[3/6]
+Opponent: Rexxar HP: 13, Mana: 0/10
+  Hand (6)
+  Field: Prince Malchezaar[5/5], Giant Rat[2/3]
+[Turn 10, Step 55] Agent: 유효하지 않은 액션 인덱스(63) → 11로 보정
+[Turn 10, Step 55] Agent: 공격 - Sky Gen'ral Kragg[3/3] -> Prince Malchezaar
+[Turn 10, Step 56] Agent: 유효하지 않은 액션 인덱스(42) → 2로 보정
+[Turn 10, Step 56] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+[Turn 10, Step 57] Agent: 유효하지 않은 액션 인덱스(57) → 1로 보정
+[Turn 10, Step 57] Agent: 카드 플레이 - Argent Watchman (코스트: 2)
+[Turn 10, Step 58] Agent: 유효하지 않은 액션 인덱스(65) → 2로 보정
+[Turn 10, Step 58] Agent: 공격 - Subject 9[5/2] -> Prince Malchezaar
+[Turn 10, Step 59] Agent: 유효하지 않은 액션 인덱스(57) → 0로 보정
+[Turn 10, Step 59] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 59] Opponent: 공격 - Giant Rat[2/1] -> Faceless Lurker
+[Turn 10, Step 59] Opponent: 카드 플레이 - Fireworks Tech (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Toxic Arrow -> Sky Gen'ral Kragg (코스트: 2)
+[Turn 10, Step 59] Opponent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 10, Step 59] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 60) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 10/10
+  Hand (4): Tar Creeper, Soggoth the Slitherer, Arena Patron, Arch-Thief Rafaam
+  Field: Mukla, Tyrant of the Vale[5/4], Sky Gen'ral Kragg[3/1], Enhance-o Mechano[3/1], Faceless Lurker[3/4], Argent Watchman[2/4], Faceless Lurker[3/6]
+Opponent: Rexxar HP: 12, Mana: 3/10
+  Hand (4)
+  Field: Fireworks Tech[2/1], Stargazer Luna[2/4]
+[Turn 10, Step 60] Agent: 유효하지 않은 액션 인덱스(44) → 14로 보정
+[Turn 10, Step 60] Agent: 영웅 능력 사용 -> Stargazer Luna
+[Turn 10, Step 61] Agent: 유효하지 않은 액션 인덱스(84) → 12로 보정
+[Turn 10, Step 61] Agent: 공격 - Faceless Lurker[3/4] -> Rexxar
+[Turn 10, Step 62] Agent: 유효하지 않은 액션 인덱스(20) → 5로 보정
+[Turn 10, Step 62] Agent: 공격 - Mukla, Tyrant of the Vale[5/4] -> Stargazer Luna
+[Turn 10, Step 63] Agent: 유효하지 않은 액션 인덱스(15) → 4로 보정
+[Turn 10, Step 63] Agent: 공격 - Mukla, Tyrant of the Vale[5/2] -> Fireworks Tech
+[Turn 10, Step 64] Agent: 유효하지 않은 액션 인덱스(43) → 1로 보정
+[Turn 10, Step 64] Agent: 카드 플레이 - Tar Creeper (코스트: 3)
+
+--- Game State (Turn 10, Step 65) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (3): Soggoth the Slitherer, Arena Patron, Arch-Thief Rafaam
+  Field: Sky Gen'ral Kragg[3/1], Enhance-o Mechano[3/1], Faceless Lurker[3/4], Argent Watchman[2/4], Faceless Lurker[3/6], Tar Creeper[1/5]
+Opponent: Rexxar HP: 9, Mana: 3/10
+  Hand (4)
+[Turn 10, Step 65] Agent: 유효하지 않은 액션 인덱스(62) → 2로 보정
+[Turn 10, Step 65] Agent: 공격 - Sky Gen'ral Kragg[3/1] -> Rexxar
+[Turn 10, Step 66] Agent: 유효하지 않은 액션 인덱스(14) → 2로 보정
+[Turn 10, Step 66] Agent: 공격 - Enhance-o Mechano[3/1] -> Rexxar
+[Turn 10, Step 67] Agent: 유효하지 않은 액션 인덱스(53) → 2로 보정
+[Turn 10, Step 67] Agent: 공격 - Faceless Lurker[3/6] -> Rexxar
+
+--- Game State (Turn 10, Step 68) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 5/10
+  Hand (3): Soggoth the Slitherer, Arena Patron, Arch-Thief Rafaam
+  Field: Sky Gen'ral Kragg[3/1], Enhance-o Mechano[3/1], Faceless Lurker[3/4], Argent Watchman[2/4], Faceless Lurker[3/6], Tar Creeper[1/5]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (4)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

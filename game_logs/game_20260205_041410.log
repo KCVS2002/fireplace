@@ -1,0 +1,143 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Mecharoo (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (5): Hoarding Dragon, Fire Hawk, Hakkar, the Soulflayer, Twin Emperor Vek'lor, Simulacrum
+  Field: Mecharoo[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Sunfury Protector[2/3]
+[Turn 2, Step 5] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 공격 - Sunfury Protector[2/3] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 영웅 능력 사용
+[Turn 3, Step 9] Opponent: 공격 - Sunfury Protector[2/3] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/4
+  Hand (6): Hoarding Dragon, Hakkar, the Soulflayer, Twin Emperor Vek'lor, Simulacrum, Corpsetaker, Spellbreaker
+  Field: Mecharoo[1/1], Fire Hawk[6/3]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (6)
+  Field: Sunfury Protector[2/3]
+[Turn 4, Step 10] Agent: 카드 플레이 - Hoarding Dragon (코스트: 4)
+[Turn 4, Step 11] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Fire Hawk[6/3] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Replicating Menace (코스트: 4)
+[Turn 4, Step 13] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 4, Step 13] Opponent: 공격 - Sunfury Protector[2/3] -> Hoarding Dragon
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Simulacrum (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/5
+  Hand (6): Hakkar, the Soulflayer, Twin Emperor Vek'lor, Corpsetaker, Spellbreaker, Stormwatcher, Spellbreaker
+  Field: Mecharoo[1/1], Fire Hawk[6/3], Hoarding Dragon[5/4]
+Opponent: Rexxar HP: 21, Mana: 0/5
+  Hand (5)
+  Field: Replicating Menace[3/1], Cogmaster[3/2]
+[Turn 5, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 16] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Fire Hawk[6/3] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Hoarding Dragon[5/4] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 공격 - Cogmaster[3/2] -> Hoarding Dragon
+[Turn 5, Step 19] Opponent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 5, Step 19] Opponent: 공격 - Replicating Menace[3/1] -> Hoarding Dragon
+[Turn 5, Step 19] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 19] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 5, Step 19] Opponent: 영웅 능력 사용
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 6/6
+  Hand (7): Hakkar, the Soulflayer, Twin Emperor Vek'lor, Corpsetaker, Spellbreaker, Stormwatcher, Spellbreaker, Pit Crocolisk
+  Field: Mecharoo[1/1], Fire Hawk[6/3]
+Opponent: Rexxar HP: 9, Mana: 2/6
+  Hand (5)
+  Field: Microbot[1/1], Microbot[1/1], Microbot[1/1], Jade Spirit[2/3], Jade Golem[1/1]
+[Turn 6, Step 20] Agent: 영웅 능력 사용 -> Jade Golem
+[Turn 6, Step 21] Agent: 공격 - Fire Hawk[6/3] -> Microbot
+[Turn 6, Step 22] Agent: 카드 플레이 - Corpsetaker (코스트: 4)
+[Turn 6, Step 23] Agent: 공격 - Mecharoo[1/1] -> Rexxar
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 6, Step 24] Opponent: 영웅 능력 사용
+[Turn 6, Step 24] Opponent: 공격 - Microbot[1/1] -> Corpsetaker
+[Turn 6, Step 24] Opponent: 공격 - Jade Spirit[2/3] -> Corpsetaker
+[Turn 6, Step 24] Opponent: 공격 - Microbot[1/1] -> Mecharoo
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 7/7
+  Hand (7): Hakkar, the Soulflayer, Twin Emperor Vek'lor, Spellbreaker, Stormwatcher, Spellbreaker, Pit Crocolisk, Faithful Lumi
+  Field: Jo-E Bot[1/1], Fire Hawk[6/2]
+Opponent: Rexxar HP: 8, Mana: 1/7
+  Hand (8)
+  Field: Cult Master[4/2]
+[Turn 7, Step 25] Agent: 카드 플레이 - Twin Emperor Vek'lor (코스트: 7)
+[Turn 7, Step 26] Agent: 공격 - Jo-E Bot[1/1] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Fire Hawk[6/2] -> Rexxar
+[Turn 7, Step 28] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 28] Opponent: 카드 플레이 - Dollmaster Dorian (코스트: 5)
+[Turn 7, Step 28] Opponent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 7, Step 28] Opponent: 턴 종료
+[Turn 8, Step 29] Agent: 카드 플레이 - Pit Crocolisk -> Hyldnir Frostrider (코스트: 8)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/8
+  Hand (6): Hakkar, the Soulflayer, Spellbreaker, Stormwatcher, Spellbreaker, Faithful Lumi, Polymorph: Boar
+  Field: Jo-E Bot[1/1], Fire Hawk[6/2], Twin Emperor Vek'lor[4/6], Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 1, Mana: 0/8
+  Hand (8)
+  Field: Cult Master[4/2], Dollmaster Dorian[2/6]
+[Turn 8, Step 30] Agent: 공격 - Jo-E Bot[1/1] -> Rexxar
+
+--- Game State (Turn 8, Step 31) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/8
+  Hand (6): Hakkar, the Soulflayer, Spellbreaker, Stormwatcher, Spellbreaker, Faithful Lumi, Polymorph: Boar
+  Field: Jo-E Bot[1/1], Fire Hawk[6/2], Twin Emperor Vek'lor[4/6], Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 0, Mana: 0/8
+  Hand (8)
+  Field: Cult Master[4/2], Dollmaster Dorian[2/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

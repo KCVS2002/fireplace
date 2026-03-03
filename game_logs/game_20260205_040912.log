@@ -1,0 +1,195 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/2
+  Hand (4): Holomancer, Swift Messenger, Glacial Mysteries, Potion Vendor
+  Field: Wild Pyromancer[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 8] Agent: 공격 - Wild Pyromancer[3/2] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Tanglefur Mystic (코스트: 3)
+[Turn 3, Step 9] Opponent: 공격 - Spider Tank[3/4] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Holomancer, Swift Messenger, Glacial Mysteries, Questing Adventurer, Drywhisker Armorer, Star Aligner
+  Field: Wild Pyromancer[3/2], Potion Vendor[1/1]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+  Field: Spider Tank[3/4], Tanglefur Mystic[3/4]
+[Turn 4, Step 10] Agent: 카드 플레이 - Swift Messenger (코스트: 4)
+[Turn 4, Step 11] Agent: 공격 - Wild Pyromancer[3/2] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Potion Vendor[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Swift Messenger[2/6] -> Spider Tank
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Tanglefur Mystic[3/4] -> Swift Messenger
+[Turn 4, Step 14] Opponent: 공격 - Spider Tank[3/2] -> Potion Vendor
+[Turn 4, Step 14] Opponent: 카드 플레이 - Lost Spirit (코스트: 2)
+[Turn 4, Step 14] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (6): Holomancer, Glacial Mysteries, Questing Adventurer, Drywhisker Armorer, Star Aligner, Violet Illusionist
+  Field: Wild Pyromancer[3/2], Drakeslayer[2/1]
+Opponent: Rexxar HP: 23, Mana: 0/5
+  Hand (5)
+  Field: Spider Tank[3/1], Tanglefur Mystic[3/2], Lost Spirit[1/1], Marsh Drake[5/4]
+[Turn 5, Step 15] Agent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Wild Pyromancer[3/2] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Drakeslayer[2/1] -> Rexxar
+[Turn 5, Step 18] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 18] Opponent: 공격 - Spider Tank[3/1] -> Drakeslayer
+[Turn 5, Step 18] Opponent: 공격 - Lost Spirit[1/1] -> Jaina Proudmoore
+[Turn 5, Step 18] Opponent: 턴 종료
+[Turn 6, Step 19] Agent: 카드 플레이 - Questing Adventurer (코스트: 3)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/6
+  Hand (5): Glacial Mysteries, Drywhisker Armorer, Star Aligner, Violet Illusionist, Shield of Galakrond
+  Field: Wild Pyromancer[3/2], Holomancer[3/3], Questing Adventurer[2/2]
+Opponent: Rexxar HP: 18, Mana: 6/6
+  Hand (6)
+  Field: Tanglefur Mystic[3/2], Lost Spirit[1/1], Marsh Drake[5/4]
+[Turn 6, Step 20] Agent: 카드 플레이 - Drywhisker Armorer (코스트: 2)
+[Turn 6, Step 21] Agent: 공격 - Wild Pyromancer[3/2] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Holomancer[3/3] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 공격 - Tanglefur Mystic[3/2] -> Questing Adventurer
+[Turn 6, Step 23] Opponent: 카드 플레이 - Baited Arrow -> Wild Pyromancer (코스트: 5)
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/7
+  Hand (4): Glacial Mysteries, Star Aligner, Violet Illusionist, Shield of Galakrond
+  Field: Holomancer[3/3], Drywhisker Armorer[2/2], Golden Scarab[2/2]
+Opponent: Rexxar HP: 12, Mana: 2/7
+  Hand (6)
+  Field: Lost Spirit[1/1], Marsh Drake[5/4], Devilsaur[5/5]
+[Turn 7, Step 25] Agent: 선택 - Elise Starseeker
+[Turn 7, Step 25] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 25] Opponent: 턴 종료
+[Turn 8, Step 26] Agent: 카드 플레이 - Glacial Mysteries (코스트: 8)
+[Turn 8, Step 27] Agent: 공격 - Holomancer[3/3] -> Rexxar
+[Turn 8, Step 28] Agent: 공격 - Drywhisker Armorer[2/2] -> Rexxar
+[Turn 8, Step 29] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (5): Star Aligner, Violet Illusionist, Shield of Galakrond, Elise Starseeker, Evocation
+  Field: Holomancer[3/3], Drywhisker Armorer[2/2], Golden Scarab[2/2]
+Opponent: Rexxar HP: 5, Mana: 8/8
+  Hand (7)
+  Field: Lost Spirit[1/1], Marsh Drake[5/4], Devilsaur[5/5]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 공격 - Devilsaur[5/5] -> Golden Scarab
+[Turn 8, Step 30] Opponent: 카드 플레이 - Defias Cleaner -> Lost Spirit (코스트: 6)
+[Turn 8, Step 30] Opponent: 공격 - Marsh Drake[5/4] -> Holomancer
+[Turn 8, Step 30] Opponent: 카드 플레이 - Augmented Porcupine (코스트: 3)
+[Turn 8, Step 30] Opponent: 공격 - Lost Spirit[1/1] -> Defias Cleaner
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 카드 플레이 - Star Aligner (코스트: 7)
+[Turn 9, Step 32] Agent: 카드 플레이 - Evocation (코스트: 1)
+[Turn 9, Step 33] Agent: 카드 플레이 - Font of Power (코스트: 1)
+[Turn 9, Step 34] Agent: 선택 - Faceless Summoner
+[Turn 9, Step 34] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 34] Opponent: 카드 플레이 - Pint-Sized Summoner (코스트: 2)
+[Turn 9, Step 34] Opponent: 카드 플레이 - Dragonhawk Rider (코스트: 3)
+[Turn 9, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (6): Violet Illusionist, Shield of Galakrond, Elise Starseeker, Ironbeak Owl, Faceless Summoner, Dark Iron Dwarf
+  Field: Drywhisker Armorer[2/2], Star Aligner[7/7]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (5)
+  Field: Marsh Drake[5/1], Devilsaur[5/3], Defias Cleaner[5/7], Augmented Porcupine[2/4], Pint-Sized Summoner[2/2], Dragonhawk Rider[3/3]
+[Turn 10, Step 35] Agent: 공격 - Drywhisker Armorer[2/2] -> Marsh Drake
+[Turn 10, Step 36] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 10, Step 37] Agent: 공격 - Star Aligner[7/7] -> Dragonhawk Rider
+[Turn 10, Step 38] Agent: 카드 플레이 - Shield of Galakrond (코스트: 5)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/10
+  Hand (4): Elise Starseeker, Ironbeak Owl, Faceless Summoner, Dark Iron Dwarf
+  Field: Star Aligner[7/4], Violet Illusionist[4/3], Shield of Galakrond[4/5]
+Opponent: Rexxar HP: 5, Mana: 5/10
+  Hand (5)
+  Field: Devilsaur[5/3], Defias Cleaner[5/7], Augmented Porcupine[2/4], Pint-Sized Summoner[2/2]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Augmented Porcupine[2/4] -> Shield of Galakrond
+[Turn 10, Step 40] Opponent: 카드 플레이 - Furnacefire Colossus (코스트: 5)
+[Turn 10, Step 40] Opponent: 공격 - Pint-Sized Summoner[2/2] -> Shield of Galakrond
+[Turn 10, Step 40] Opponent: 카드 플레이 - Cloakscale Chemist (코스트: 2)
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 공격 - Shield of Galakrond[4/1] -> Rexxar
+[Turn 10, Step 42] Agent: 카드 플레이 - Elise Starseeker (코스트: 4)
+[Turn 10, Step 43] Agent: 공격 - Violet Illusionist[4/2] -> Defias Cleaner
+[Turn 10, Step 44] Agent: 카드 플레이 - Ironbeak Owl -> Devilsaur (코스트: 3)
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 3/10
+  Hand (3): Faceless Summoner, Dark Iron Dwarf, Missile Launcher
+  Field: Star Aligner[7/4], Shield of Galakrond[4/1], Elise Starseeker[3/5], Ironbeak Owl[2/1]
+Opponent: Rexxar HP: 1, Mana: 3/10
+  Hand (4)
+  Field: Devilsaur[5/3], Defias Cleaner[5/3], Furnacefire Colossus[6/6], Cloakscale Chemist[1/2]
+[Turn 10, Step 45] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 46] Agent: 공격 - Star Aligner[7/4] -> Rexxar
+
+--- Game State (Turn 10, Step 47) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/10
+  Hand (3): Faceless Summoner, Dark Iron Dwarf, Missile Launcher
+  Field: Star Aligner[7/4], Shield of Galakrond[4/1], Elise Starseeker[3/5], Ironbeak Owl[2/1]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (4)
+  Field: Devilsaur[5/3], Defias Cleaner[5/3], Furnacefire Colossus[6/6], Cloakscale Chemist[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

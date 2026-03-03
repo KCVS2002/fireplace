@@ -1,0 +1,137 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 2, Step 3] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 공격 - Young Dragonhawk[1/1] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Nat, the Darkfisher, Gormok the Impaler, Mukla's Champion, Corrupted Seer
+  Field: Young Dragonhawk[1/1]
+Opponent: Rexxar HP: 27, Mana: 1/1
+  Hand (6)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 7] Agent: 공격 - Young Dragonhawk[1/1] -> Stonetusk Boar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Teron Gorefiend (코스트: 3)
+[Turn 3, Step 8] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/4
+  Hand (5): Gormok the Impaler, Mukla's Champion, Corrupted Seer, Furnacefire Colossus, Pterrordax Hatchling
+  Field: Nat, the Darkfisher[2/4]
+Opponent: Rexxar HP: 27, Mana: 0/3
+  Hand (5)
+  Field: Teron Gorefiend[3/4]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Nat, the Darkfisher
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 4, Step 11] Opponent: 공격 - Teron Gorefiend[3/4] -> Huntress
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 공격 - Nat, the Darkfisher[2/3] -> Teron Gorefiend
+[Turn 5, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 14] Agent: 카드 플레이 - Pterrordax Hatchling (코스트: 3)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (5): Gormok the Impaler, Mukla's Champion, Corrupted Seer, Furnacefire Colossus, Stormwatcher
+  Field: Pterrordax Hatchling[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+  Field: Teron Gorefiend[3/1], Terrorguard Escapee[3/7]
+[Turn 5, Step 15] Agent: 선택 - Lightning Speed
+[Turn 5, Step 15] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 15] Opponent: 공격 - Terrorguard Escapee[3/7] -> Jaina Proudmoore
+[Turn 5, Step 15] Opponent: 카드 플레이 - Faceless Corruptor -> Teron Gorefiend (코스트: 5)
+[Turn 5, Step 15] Opponent: 공격 - Faceless Corruptor[4/4] -> Pterrordax Hatchling
+[Turn 5, Step 15] Opponent: 턴 종료
+[Turn 6, Step 16] Agent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 6, Step 17] Agent: 영웅 능력 사용 -> Faceless Corruptor
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 6, Step 18] Opponent: 공격 - Faceless Corruptor[4/1] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 카드 플레이 - SN1P-SN4P (코스트: 3)
+[Turn 6, Step 18] Opponent: 공격 - Faceless Corruptor[4/4] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Mukla's Champion (코스트: 5)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 2/7
+  Hand (5): Corrupted Seer, Furnacefire Colossus, Stormwatcher, Faceless Shambler, Vex Crow
+  Field: Mukla's Champion[4/3]
+Opponent: Rexxar HP: 27, Mana: 0/6
+  Hand (5)
+  Field: Faceless Corruptor[4/4], Terrorguard Escapee[3/7], Faceless Corruptor[4/1], SN1P-SN4P[2/3]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 21] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 21] Opponent: 턴 종료
+[Turn 8, Step 22] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 23] Agent: 공격 - Mukla's Champion[6/5] -> SN1P-SN4P
+[Turn 8, Step 24] Agent: 카드 플레이 - Faceless Shambler -> Mukla's Champion (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 2/8
+  Hand (5): Corrupted Seer, Furnacefire Colossus, Stormwatcher, Vex Crow, Firelands Portal
+  Field: Mukla's Champion[6/3], Faceless Shambler[6/3]
+Opponent: Rexxar HP: 26, Mana: 7/7
+  Hand (6)
+  Field: Faceless Corruptor[4/4], Terrorguard Escapee[3/7], Faceless Corruptor[4/1], Microbot[1/1], Microbot[1/1]
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 8, Step 25] Opponent: 공격 - Microbot[1/1] -> Faceless Shambler
+[Turn 8, Step 25] Opponent: 공격 - Microbot[1/1] -> Faceless Shambler
+[Turn 8, Step 25] Opponent: 공격 - Terrorguard Escapee[3/7] -> Faceless Shambler
+[Turn 8, Step 25] Opponent: 영웅 능력 사용
+[Turn 8, Step 25] Opponent: 공격 - Faceless Corruptor[4/1] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 공격 - Faceless Corruptor[4/4] -> Mukla's Champion
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Firelands Portal -> Jaina Proudmoore (코스트: 7)
+[Turn 9, Step 27] Agent: 영웅 능력 사용 -> Terrorguard Escapee
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Ancient Mage (코스트: 4)
+[Turn 9, Step 28] Opponent: 카드 플레이 - Harrison Jones (코스트: 5)
+[Turn 9, Step 28] Opponent: 공격 - Blatant Decoy[5/5] -> Jaina Proudmoore
+
+--- Game State (Turn 9, Step 29) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/9
+  Hand (5): Corrupted Seer, Furnacefire Colossus, Stormwatcher, Vex Crow, Heroic Innkeeper
+  Field: Phalanx Commander[4/5]
+Opponent: Rexxar HP: 26, Mana: 0/9
+  Hand (5)
+  Field: Faceless Corruptor[4/1], Blatant Decoy[5/5], Ancient Mage[2/5], Harrison Jones[5/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

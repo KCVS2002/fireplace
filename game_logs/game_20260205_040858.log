@@ -1,0 +1,204 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 공격 - Stonetusk Boar[1/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (5): Coldarra Drake, Flame Lance, Azerite Elemental, Desert Hare, Junkbot
+  Field: Transfer Student[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Stonetusk Boar[1/1]
+[Turn 2, Step 5] Agent: 공격 - Transfer Student[2/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 공격 - Stonetusk Boar[1/1] -> Transfer Student
+[Turn 2, Step 6] Opponent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Desert Hare (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Transfer Student[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 공격 - Transfer Student[2/2] -> Desert Hare
+[Turn 3, Step 9] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (6): Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Novice Engineer, Annoy-o-Tron
+  Field: Transfer Student[2/1], Desert Hare[1/1], Drakeslayer[2/1], Desert Hare[1/1]
+Opponent: Rexxar HP: 26, Mana: 1/4
+  Hand (4)
+  Field: Transfer Student[2/1], Marsh Drake[5/4]
+[Turn 4, Step 10] Agent: 공격 - Desert Hare[1/1] -> Transfer Student
+[Turn 4, Step 11] Agent: 공격 - Transfer Student[2/1] -> Marsh Drake
+[Turn 4, Step 12] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 4, Step 13] Agent: 카드 플레이 - Novice Engineer (코스트: 2)
+[Turn 4, Step 14] Agent: 카드 플레이 - Annoy-o-Tron (코스트: 2)
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/4
+  Hand (5): Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Coldwraith
+  Field: Drakeslayer[2/1], Desert Hare[1/1], Novice Engineer[1/1], Annoy-o-Tron[1/2]
+Opponent: Rexxar HP: 25, Mana: 1/4
+  Hand (4)
+  Field: Marsh Drake[5/2]
+[Turn 4, Step 15] Agent: 공격 - Drakeslayer[2/1] -> Rexxar
+[Turn 4, Step 16] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 16] Opponent: 공격 - Marsh Drake[5/2] -> Annoy-o-Tron
+[Turn 4, Step 16] Opponent: 턴 종료
+[Turn 5, Step 17] Agent: 영웅 능력 사용 -> Annoy-o-Tron
+[Turn 5, Step 18] Agent: 카드 플레이 - Coldwraith (코스트: 3)
+[Turn 5, Step 19] Agent: 공격 - Drakeslayer[2/1] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (5): Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Corridor Creeper
+  Field: Drakeslayer[2/1], Desert Hare[1/1], Novice Engineer[1/1], Annoy-o-Tron[1/1], Coldwraith[3/4]
+Opponent: Rexxar HP: 21, Mana: 5/5
+  Hand (5)
+  Field: Marsh Drake[5/1]
+[Turn 5, Step 20] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 5, Step 21] Agent: 공격 - Novice Engineer[1/1] -> Rexxar
+[Turn 5, Step 22] Agent: 공격 - Annoy-o-Tron[1/1] -> Rexxar
+[Turn 5, Step 23] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 23] Opponent: 영웅 능력 사용
+[Turn 5, Step 23] Opponent: 턴 종료
+[Turn 6, Step 24] Agent: 공격 - Coldwraith[3/4] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (6): Master Jouster, Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Corridor Creeper
+  Field: Drakeslayer[2/1], Desert Hare[1/1], Novice Engineer[1/1], Annoy-o-Tron[1/1], Coldwraith[3/4]
+Opponent: Rexxar HP: 15, Mana: 4/6
+  Hand (6)
+  Field: Marsh Drake[5/1]
+[Turn 6, Step 25] Agent: 공격 - Novice Engineer[1/1] -> Marsh Drake
+[Turn 6, Step 26] Agent: 영웅 능력 사용 -> Coldwraith
+[Turn 6, Step 27] Agent: 공격 - Drakeslayer[2/1] -> Rexxar
+[Turn 6, Step 28] Agent: 공격 - Desert Hare[1/1] -> Rexxar
+[Turn 6, Step 29] Agent: 공격 - Annoy-o-Tron[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (6): Master Jouster, Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Corridor Creeper
+  Field: Drakeslayer[2/1], Desert Hare[1/1], Annoy-o-Tron[1/1], Coldwraith[3/3]
+Opponent: Rexxar HP: 11, Mana: 4/6
+  Hand (6)
+[Turn 6, Step 30] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 30] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 6, Step 30] Opponent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 6, Step 30] Opponent: 선택 - Totemic Call
+[Turn 6, Step 30] Opponent: 영웅 능력 사용
+[Turn 6, Step 30] Opponent: 턴 종료
+[Turn 7, Step 31] Agent: 공격 - Desert Hare[1/1] -> Drakkari Enchanter
+[Turn 7, Step 32] Agent: 공격 - Annoy-o-Tron[1/1] -> Searing Totem
+[Turn 7, Step 33] Agent: 영웅 능력 사용 -> Sir Finley Mrrgglton
+[Turn 7, Step 34] Agent: 공격 - Drakeslayer[2/1] -> Sir Finley Mrrgglton
+
+--- Game State (Turn 7, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/7
+  Hand (7): Master Jouster, Coldarra Drake, Flame Lance, Azerite Elemental, Junkbot, Corridor Creeper, Cauldron Elemental
+  Field: Coldwraith[3/3]
+Opponent: Rexxar HP: 11, Mana: 1/7
+  Hand (5)
+  Field: Drakkari Enchanter[1/4]
+[Turn 7, Step 35] Agent: 카드 플레이 - Flame Lance -> Coldwraith (코스트: 5)
+[Turn 7, Step 36] Agent: 카드 플레이 - Corridor Creeper (코스트: 0)
+[Turn 7, Step 37] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 37] Opponent: 카드 플레이 - Twin Tyrant (코스트: 8)
+[Turn 7, Step 37] Opponent: 공격 - Drakkari Enchanter[1/4] -> Corridor Creeper
+[Turn 7, Step 37] Opponent: 턴 종료
+[Turn 8, Step 38] Agent: 영웅 능력 사용 -> Twin Tyrant
+[Turn 8, Step 39] Agent: 카드 플레이 - Master Jouster (코스트: 6)
+
+--- Game State (Turn 8, Step 40) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (5): Coldarra Drake, Azerite Elemental, Junkbot, Cauldron Elemental, Jan'alai, the Dragonhawk
+  Field: Master Jouster[5/6]
+Opponent: Rexxar HP: 11, Mana: 0/8
+  Hand (5)
+  Field: Drakkari Enchanter[1/2], Twin Tyrant[4/9]
+[Turn 8, Step 40] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 40] Opponent: 카드 플레이 - Justicar Trueheart (코스트: 6)
+[Turn 8, Step 40] Opponent: 공격 - Drakkari Enchanter[1/2] -> Master Jouster
+[Turn 8, Step 40] Opponent: 공격 - Twin Tyrant[4/9] -> Master Jouster
+[Turn 8, Step 40] Opponent: 턴 종료
+[Turn 9, Step 41] Agent: 영웅 능력 사용 -> Master Jouster
+[Turn 9, Step 42] Agent: 카드 플레이 - Coldarra Drake (코스트: 6)
+[Turn 9, Step 43] Agent: 공격 - Master Jouster[5/1] -> Rexxar
+[Turn 9, Step 44] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (6): Spiteful Smith, Azerite Elemental, Junkbot, Cauldron Elemental, Jan'alai, the Dragonhawk, Dragonslayer
+  Field: Master Jouster[5/1], Coldarra Drake[6/6]
+Opponent: Rexxar HP: 6, Mana: 10/10
+  Hand (6)
+  Field: Twin Tyrant[4/4], Justicar Trueheart[6/3]
+[Turn 10, Step 45] Agent: 공격 - Master Jouster[5/1] -> Twin Tyrant
+[Turn 10, Step 46] Agent: 영웅 능력 사용 -> Coldarra Drake
+[Turn 10, Step 47] Agent: 카드 플레이 - Spiteful Smith (코스트: 5)
+[Turn 10, Step 48] Agent: 카드 플레이 - Dragonslayer -> Coldarra Drake (코스트: 3)
+[Turn 10, Step 49] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 49] Opponent: 카드 플레이 - Validated Doomsayer (코스트: 5)
+[Turn 10, Step 49] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 10/10
+  Hand (5): Azerite Elemental, Junkbot, Cauldron Elemental, Jan'alai, the Dragonhawk, Leyline Manipulator
+  Field: Spiteful Smith[4/6], Dragonslayer[4/3]
+Opponent: Rexxar HP: 6, Mana: 5/10
+  Hand (6)
+  Field: Justicar Trueheart[6/3], Validated Doomsayer[0/7]
+[Turn 10, Step 50] Agent: 공격 - Dragonslayer[4/3] -> Rexxar
+[Turn 10, Step 51] Agent: 영웅 능력 사용 -> Dragonslayer
+[Turn 10, Step 52] Agent: 카드 플레이 - Azerite Elemental (코스트: 5)
+[Turn 10, Step 53] Agent: 공격 - Spiteful Smith[4/6] -> Rexxar
+
+--- Game State (Turn 10, Step 54) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/10
+  Hand (4): Junkbot, Cauldron Elemental, Jan'alai, the Dragonhawk, Leyline Manipulator
+  Field: Spiteful Smith[4/6], Dragonslayer[4/2], Azerite Elemental[2/7]
+Opponent: Rexxar HP: 0, Mana: 5/10
+  Hand (6)
+  Field: Justicar Trueheart[6/3], Validated Doomsayer[0/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

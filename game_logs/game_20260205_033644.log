@@ -1,0 +1,210 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Stonetusk Boar (코스트: 1)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/3
+  Hand (7): Murloc Warleader, Bilefin Tidehunter, Tinkmaster Overspark, Infested Goblin, The Coin, Volcanic Drake, Stranglethorn Tiger
+Opponent: Rexxar HP: 30, Mana: 2/3
+  Hand (5)
+  Field: Stonetusk Boar[1/1]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Stonetusk Boar
+[Turn 3, Step 6] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Netherspite Historian (코스트: 2)
+[Turn 3, Step 7] Opponent: 카드 플레이 - Gadgetzan Jouster (코스트: 1)
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Infested Goblin (코스트: 3)
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 5/5
+  Hand (7): Stonehill Defender, Murloc Warleader, Bilefin Tidehunter, Tinkmaster Overspark, Volcanic Drake, Stranglethorn Tiger, Dire Mole
+  Field: Infested Goblin[2/3]
+Opponent: Rexxar HP: 30, Mana: 5/5
+  Hand (5)
+  Field: Netherspite Historian[1/3], Gadgetzan Jouster[2/3]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 5, Step 11] Agent: 카드 플레이 - Bilefin Tidehunter (코스트: 2)
+[Turn 5, Step 12] Agent: 공격 - Infested Goblin[2/3] -> Rexxar
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 공격 - Infested Goblin[2/3] -> Gadgetzan Jouster
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (7): Stonehill Defender, Murloc Warleader, Tinkmaster Overspark, Volcanic Drake, Stranglethorn Tiger, Dire Mole, Acherus Veteran
+  Field: Infested Goblin[2/1], Bilefin Tidehunter[2/1], Ooze[1/1]
+Opponent: Rexxar HP: 27, Mana: 6/6
+  Hand (6)
+  Field: Netherspite Historian[1/3], Gadgetzan Jouster[2/1]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Ooze
+[Turn 6, Step 16] Agent: 카드 플레이 - Stonehill Defender (코스트: 3)
+[Turn 6, Step 17] Agent: 선택 - Hippogryph
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Dire Mole (코스트: 1)
+[Turn 7, Step 19] Agent: 카드 플레이 - Tinkmaster Overspark (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 3/7
+  Hand (6): Murloc Warleader, Volcanic Drake, Stranglethorn Tiger, Acherus Veteran, Hippogryph, Magic Trick
+  Field: Squirrel[1/1], Bilefin Tidehunter[2/1], Stonehill Defender[1/4], Dire Mole[1/3], Tinkmaster Overspark[3/3]
+Opponent: Rexxar HP: 27, Mana: 7/7
+  Hand (7)
+  Field: Netherspite Historian[1/3], Gadgetzan Jouster[2/1]
+[Turn 7, Step 20] Agent: 카드 플레이 - Acherus Veteran -> Squirrel (코스트: 1)
+[Turn 7, Step 21] Agent: 영웅 능력 사용 -> Acherus Veteran
+[Turn 7, Step 22] Agent: 공격 - Bilefin Tidehunter[2/1] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Volcanic Drake (코스트: 6)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/8
+  Hand (5): Murloc Warleader, Stranglethorn Tiger, Hippogryph, Magic Trick, Primalfin Lookout
+  Field: Squirrel[2/1], Bilefin Tidehunter[2/1], Stonehill Defender[1/4], Dire Mole[1/3], Tinkmaster Overspark[3/3], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 25, Mana: 8/8
+  Hand (8)
+  Field: Netherspite Historian[1/3], Gadgetzan Jouster[2/1]
+[Turn 8, Step 25] Agent: 공격 - Dire Mole[1/3] -> Rexxar
+[Turn 8, Step 26] Agent: 공격 - Squirrel[2/1] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Bilefin Tidehunter[2/1] -> Netherspite Historian
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 8, Step 29] Agent: 공격 - Tinkmaster Overspark[3/3] -> Netherspite Historian
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/8
+  Hand (5): Murloc Warleader, Stranglethorn Tiger, Hippogryph, Magic Trick, Primalfin Lookout
+  Field: Squirrel[2/1], Stonehill Defender[1/4], Dire Mole[1/3], Tinkmaster Overspark[3/2], Volcanic Drake[6/4]
+Opponent: Rexxar HP: 21, Mana: 8/8
+  Hand (8)
+  Field: Gadgetzan Jouster[2/1]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 카드 플레이 - Untamed Beastmaster (코스트: 3)
+[Turn 8, Step 30] Opponent: 영웅 능력 사용
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 공격 - Squirrel[2/1] -> Untamed Beastmaster
+[Turn 9, Step 32] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 9, Step 33] Agent: 공격 - Stonehill Defender[1/4] -> Rexxar
+[Turn 9, Step 34] Agent: 카드 플레이 - Primalfin Lookout (코스트: 3)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/9
+  Hand (4): Murloc Warleader, Stranglethorn Tiger, Magic Trick, Kael'thas Sunstrider
+  Field: Stonehill Defender[1/4], Dire Mole[1/3], Tinkmaster Overspark[3/2], Volcanic Drake[6/4], Hippogryph[2/6], Primalfin Lookout[3/2]
+Opponent: Rexxar HP: 20, Mana: 4/9
+  Hand (8)
+  Field: Gadgetzan Jouster[2/1], Untamed Beastmaster[3/2]
+[Turn 9, Step 35] Agent: 영웅 능력 사용 -> Volcanic Drake
+[Turn 9, Step 36] Agent: 공격 - Tinkmaster Overspark[3/2] -> Untamed Beastmaster
+[Turn 9, Step 37] Agent: 공격 - Dire Mole[1/3] -> Rexxar
+[Turn 9, Step 38] Agent: 공격 - Hippogryph[2/6] -> Gadgetzan Jouster
+[Turn 9, Step 39] Agent: 공격 - Volcanic Drake[6/3] -> Rexxar
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/9
+  Hand (4): Murloc Warleader, Stranglethorn Tiger, Magic Trick, Kael'thas Sunstrider
+  Field: Stonehill Defender[1/4], Dire Mole[1/3], Volcanic Drake[6/3], Hippogryph[2/4], Primalfin Lookout[3/2]
+Opponent: Rexxar HP: 13, Mana: 4/9
+  Hand (8)
+[Turn 9, Step 40] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 40] Opponent: 카드 플레이 - Arcane Fletcher (코스트: 4)
+[Turn 9, Step 40] Opponent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 9, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Hippogryph
+[Turn 10, Step 42] Agent: 공격 - Stonehill Defender[1/4] -> Arcane Fletcher
+[Turn 10, Step 43] Agent: 공격 - Primalfin Lookout[3/2] -> Arcane Fletcher
+[Turn 10, Step 44] Agent: 공격 - Volcanic Drake[6/3] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/10
+  Hand (5): Murloc Warleader, Stranglethorn Tiger, Magic Trick, Kael'thas Sunstrider, Daring Reporter
+  Field: Stonehill Defender[1/1], Dire Mole[1/3], Volcanic Drake[6/3], Hippogryph[2/3]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (7)
+  Field: Piloted Sky Golem[6/4]
+[Turn 10, Step 45] Agent: 공격 - Hippogryph[2/3] -> Piloted Sky Golem
+[Turn 10, Step 46] Agent: 카드 플레이 - Magic Trick (코스트: 1)
+[Turn 10, Step 47] Agent: 선택 - Polymorph: Boar
+[Turn 10, Step 47] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 47] Opponent: 턴 종료
+[Turn 10, Step 48] Agent: 카드 플레이 - Polymorph: Boar -> Volcanic Drake (코스트: 3)
+[Turn 10, Step 49] Agent: 카드 플레이 - Earthen Ring Farseer -> Piloted Sky Golem (코스트: 3)
+
+--- Game State (Turn 10, Step 50) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 4/10
+  Hand (4): Murloc Warleader, Stranglethorn Tiger, Kael'thas Sunstrider, Daring Reporter
+  Field: Stonehill Defender[1/1], Dire Mole[1/3], Boar[4/2], Earthen Ring Farseer[3/3]
+Opponent: Rexxar HP: 7, Mana: 10/10
+  Hand (8)
+  Field: Piloted Sky Golem[6/4]
+[Turn 10, Step 50] Agent: 공격 - Stonehill Defender[1/1] -> Piloted Sky Golem
+[Turn 10, Step 51] Agent: 카드 플레이 - Murloc Warleader (코스트: 3)
+[Turn 10, Step 52] Agent: 공격 - Boar[4/2] -> Rexxar
+[Turn 10, Step 53] Agent: 공격 - Dire Mole[1/3] -> Rexxar
+[Turn 10, Step 54] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 54] Opponent: 카드 플레이 - Kodorider (코스트: 6)
+[Turn 10, Step 54] Opponent: 공격 - Piloted Sky Golem[6/3] -> Dire Mole
+[Turn 10, Step 54] Opponent: 카드 플레이 - Deadly Shot (코스트: 3)
+[Turn 10, Step 54] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 55) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (4): Stranglethorn Tiger, Kael'thas Sunstrider, Daring Reporter, Azure Drake
+  Field: Earthen Ring Farseer[3/3], Murloc Warleader[3/3]
+Opponent: Rexxar HP: 2, Mana: 1/10
+  Hand (7)
+  Field: Piloted Sky Golem[6/2], Kodorider[3/5]
+[Turn 10, Step 55] Agent: 공격 - Earthen Ring Farseer[3/3] -> Rexxar
+
+--- Game State (Turn 10, Step 56) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 10/10
+  Hand (4): Stranglethorn Tiger, Kael'thas Sunstrider, Daring Reporter, Azure Drake
+  Field: Earthen Ring Farseer[3/3], Murloc Warleader[3/3]
+Opponent: Rexxar HP: 0, Mana: 1/10
+  Hand (7)
+  Field: Piloted Sky Golem[6/2], Kodorider[3/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

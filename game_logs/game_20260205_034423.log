@@ -1,0 +1,229 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Medivh's Valet (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Huge Toad (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 공격 - Medivh's Valet[2/3] -> Huge Toad
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 3, Step 4] Opponent: 카드 플레이 - Shimmerfly (코스트: 1)
+[Turn 3, Step 4] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Vicious Fledgling, King Mukla, Mad Hatter, Rotface, Worgen Greaser, Archmage Arugal
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (3)
+  Field: Worgen Infiltrator[2/1], Nerubian Egg[0/2], Shimmerfly[1/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - King Mukla (코스트: 3)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Bananas -> Worgen Infiltrator (코스트: 1)
+[Turn 4, Step 6] Opponent: 공격 - Worgen Infiltrator[3/2] -> King Mukla
+[Turn 4, Step 6] Opponent: 공격 - Shimmerfly[1/1] -> Jaina Proudmoore
+[Turn 4, Step 6] Opponent: 영웅 능력 사용
+[Turn 4, Step 6] Opponent: 카드 플레이 - Bananas -> King Mukla (코스트: 1)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Worgen Greaser (코스트: 4)
+[Turn 5, Step 8] Agent: 공격 - King Mukla[6/3] -> Nerubian Egg
+[Turn 5, Step 9] Agent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/5
+  Hand (4): Vicious Fledgling, Mad Hatter, Rotface, Archmage Arugal
+  Field: King Mukla[6/3], Worgen Greaser[6/3], Murloc Tinyfin[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/4
+  Hand (4)
+  Field: Nerubian[4/4], Shimmerfly[1/1]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 공격 - Nerubian[4/4] -> Worgen Greaser
+[Turn 5, Step 10] Opponent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 5, Step 10] Opponent: 공격 - Shimmerfly[1/1] -> King Mukla
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 공격 - King Mukla[6/2] -> Bloodsail Corsair
+[Turn 6, Step 12] Agent: 카드 플레이 - Vicious Fledgling (코스트: 3)
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Vicious Fledgling
+[Turn 6, Step 14] Agent: 공격 - Murloc Tinyfin[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/6
+  Hand (4): Mad Hatter, Rotface, Archmage Arugal, Mekgineer Thermaplugg
+  Field: King Mukla[6/1], Murloc Tinyfin[1/1], Vicious Fledgling[3/2]
+Opponent: Rexxar HP: 29, Mana: 4/5
+  Hand (5)
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Toxic Sewer Ooze (코스트: 3)
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 16] Opponent: 공격 - Toxic Sewer Ooze[4/3] -> Murloc Tinyfin
+[Turn 7, Step 16] Opponent: 영웅 능력 사용
+[Turn 7, Step 16] Opponent: 카드 플레이 - Captain Greenskin (코스트: 5)
+[Turn 7, Step 16] Opponent: 턴 종료
+[Turn 8, Step 17] Agent: 영웅 능력 사용 -> Toxic Sewer Ooze
+[Turn 8, Step 18] Agent: 카드 플레이 - Ghastly Conjurer (코스트: 4)
+[Turn 8, Step 19] Agent: 공격 - King Mukla[6/1] -> Rexxar
+
+--- Game State (Turn 8, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/8
+  Hand (6): Mad Hatter, Rotface, Archmage Arugal, Mekgineer Thermaplugg, Hyldnir Frostrider, Mirror Image
+  Field: King Mukla[6/1], Vicious Fledgling[3/2], Ghastly Conjurer[2/6]
+Opponent: Rexxar HP: 23, Mana: 0/7
+  Hand (5)
+  Field: Toxic Sewer Ooze[4/1], Captain Greenskin[5/4]
+[Turn 8, Step 20] Agent: 공격 - Vicious Fledgling[3/2] -> Rexxar
+[Turn 8, Step 21] Agent: 선택 - Living Spores
+[Turn 8, Step 21] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 21] Opponent: 영웅 능력 사용
+[Turn 8, Step 21] Opponent: 카드 플레이 - Hunting Party (코스트: 5)
+[Turn 8, Step 21] Opponent: 공격 - Toxic Sewer Ooze[4/1] -> Ghastly Conjurer
+[Turn 8, Step 21] Opponent: 공격 - Captain Greenskin[5/4] -> King Mukla
+[Turn 8, Step 21] Opponent: 턴 종료
+[Turn 9, Step 22] Agent: 영웅 능력 사용 -> Ghastly Conjurer
+[Turn 9, Step 23] Agent: 카드 플레이 - Mad Hatter (코스트: 4)
+[Turn 9, Step 24] Agent: 공격 - Vicious Fledgling[6/5] -> Rexxar
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 3/9
+  Hand (6): Rotface, Archmage Arugal, Mekgineer Thermaplugg, Hyldnir Frostrider, Mirror Image, SI:7 Infiltrator
+  Field: Vicious Fledgling[6/5], Ghastly Conjurer[2/1], Mad Hatter[3/2]
+Opponent: Rexxar HP: 14, Mana: 1/8
+  Hand (6)
+[Turn 9, Step 25] Agent: 선택 - Liquid Membrane
+[Turn 9, Step 25] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 25] Opponent: 카드 플레이 - Bonemare (코스트: 8)
+[Turn 9, Step 25] Opponent: 턴 종료
+[Turn 10, Step 26] Agent: 카드 플레이 - Rotface (코스트: 8)
+[Turn 10, Step 27] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 27] Opponent: 공격 - Bonemare[5/5] -> Vicious Fledgling
+[Turn 10, Step 27] Opponent: 카드 플레이 - Medivh, the Guardian (코스트: 8)
+[Turn 10, Step 27] Opponent: 카드 플레이 - Zealous Initiate (코스트: 1)
+[Turn 10, Step 27] Opponent: 공격 - Rexxar[1/14] -> Mad Hatter
+[Turn 10, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Mirror Image (코스트: 1)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 7/10
+  Hand (6): Archmage Arugal, Mekgineer Thermaplugg, Hyldnir Frostrider, SI:7 Infiltrator, Wobbling Runts, Portal Keeper
+  Field: Ghastly Conjurer[2/1], Mad Hatter[3/1], Rotface[4/6], Mirror Image[0/2], Mirror Image[0/2]
+Opponent: Rexxar HP: 11, Mana: 1/10
+  Hand (5)
+  Field: Medivh, the Guardian[7/7], Zealous Initiate[1/1]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 10, Step 30] Opponent: 공격 - Rexxar[1/11] -> Mirror Image
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 공격 - Mad Hatter[3/1] -> Zealous Initiate
+[Turn 10, Step 32] Agent: 영웅 능력 사용 -> Mirror Image
+[Turn 10, Step 33] Agent: 공격 - Rotface[4/6] -> Rexxar
+[Turn 10, Step 34] Agent: 공격 - Ghastly Conjurer[2/1] -> Medivh, the Guardian
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 8/10
+  Hand (7): Archmage Arugal, Mekgineer Thermaplugg, Hyldnir Frostrider, SI:7 Infiltrator, Wobbling Runts, Portal Keeper, Foe Reaper 4000
+  Field: Rotface[4/6], Mirror Image[0/2]
+Opponent: Rexxar HP: 7, Mana: 3/10
+  Hand (4)
+  Field: Medivh, the Guardian[7/5], Gentle Megasaur[5/4], Razorfen Hunter[2/3], Boar[2/2]
+[Turn 10, Step 35] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 35] Opponent: 공격 - Rexxar[1/7] -> Mirror Image
+[Turn 10, Step 35] Opponent: 카드 플레이 - Gentle Megasaur (코스트: 4)
+[Turn 10, Step 35] Opponent: 카드 플레이 - Blatant Decoy (코스트: 6)
+[Turn 10, Step 35] Opponent: 공격 - Medivh, the Guardian[7/5] -> Mirror Image
+[Turn 10, Step 35] Opponent: 공격 - Razorfen Hunter[2/3] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 공격 - Gentle Megasaur[5/4] -> Jaina Proudmoore
+[Turn 10, Step 35] Opponent: 공격 - Boar[2/2] -> Rotface
+[Turn 10, Step 35] Opponent: 턴 종료
+[Turn 10, Step 36] Agent: 공격 - Rotface[4/4] -> Gentle Megasaur
+[Turn 10, Step 37] Agent: 공격 - Majordomo Executus[9/7] -> Gentle Megasaur
+[Turn 10, Step 38] Agent: 카드 플레이 - Force-Tank MAX (코스트: 8)
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Blatant Decoy
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 12, Mana: 0/10
+  Hand (7): Archmage Arugal, Mekgineer Thermaplugg, Hyldnir Frostrider, SI:7 Infiltrator, Wobbling Runts, Portal Keeper, Foe Reaper 4000
+  Field: Harbinger Celestia[5/6], Majordomo Executus[9/2], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 7, Mana: 0/10
+  Hand (3)
+  Field: Medivh, the Guardian[7/5], Razorfen Hunter[2/3], Blatant Decoy[5/4]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 10, Step 40] Opponent: 공격 - Blatant Decoy[5/4] -> Sky Gen'ral Kragg
+[Turn 10, Step 40] Opponent: 공격 - Medivh, the Guardian[7/5] -> Force-Tank MAX
+[Turn 10, Step 40] Opponent: 공격 - Razorfen Hunter[2/3] -> Majordomo Executus
+[Turn 10, Step 40] Opponent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 카드 플레이 - Hyldnir Frostrider (코스트: 3)
+[Turn 10, Step 42] Agent: 카드 플레이 - Portal Keeper (코스트: 4)
+[Turn 10, Step 43] Agent: 영웅 능력 사용
+[Turn 10, Step 44] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 44] Opponent: 공격 - Soldier of Fortune[5/6] -> Portal Keeper
+[Turn 10, Step 44] Opponent: 공격 - Blatant Decoy[5/2] -> Force-Tank MAX
+[Turn 10, Step 44] Opponent: 카드 플레이 - Clockwork Automaton (코스트: 5)
+[Turn 10, Step 44] Opponent: 영웅 능력 사용
+[Turn 10, Step 44] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Ragnaros the Firelord HP: 2, Mana: 10/10
+  Hand (7): Mekgineer Thermaplugg, SI:7 Infiltrator, Wobbling Runts, Foe Reaper 4000, Ethereal Conjurer, The Coin, Frozen Crusher
+  Field: Archmage Arugal[2/2], Force-Tank MAX[7/2], Hyldnir Frostrider[4/4]
+Opponent: Rexxar HP: 7, Mana: 3/10
+  Hand (1)
+  Field: Silent Knight[2/2], Soldier of Fortune[5/1], Clockwork Automaton[4/4]
+[Turn 10, Step 45] Agent: 카드 플레이 - Mekgineer Thermaplugg (코스트: 9)
+[Turn 10, Step 46] Agent: 공격 - Archmage Arugal[2/2] -> Clockwork Automaton
+[Turn 10, Step 47] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 10, Step 48] Agent: 공격 - Force-Tank MAX[7/2] -> Rexxar
+
+--- Game State (Turn 10, Step 49) ---
+Agent: Ragnaros the Firelord HP: 2, Mana: 2/10
+  Hand (5): SI:7 Infiltrator, Wobbling Runts, Foe Reaper 4000, Ethereal Conjurer, Frozen Crusher
+  Field: Force-Tank MAX[7/2], Hyldnir Frostrider[4/4], Mekgineer Thermaplugg[9/7]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (1)
+  Field: Silent Knight[2/2], Soldier of Fortune[5/1], Clockwork Automaton[4/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

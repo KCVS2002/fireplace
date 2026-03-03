@@ -1,0 +1,214 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: ON
+Masking Expected: ON
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Marsh Queen (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Raid the Sky Temple (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Mana Wraith (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Voodoo Doctor -> Jaina Proudmoore (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Spiked Hogrider, Wild Pyromancer, Pint-Sized Summoner, Chromatic Egg
+  Field: Voodoo Doctor[2/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (3)
+  Field: Mana Wraith[2/2]
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 공격 - Mana Wraith[2/2] -> Voodoo Doctor
+[Turn 2, Step 5] Opponent: 카드 플레이 - Animal Companion (코스트: 3)
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Wild Pyromancer (코스트: 2)
+[Turn 3, Step 7] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Firetree Witchdoctor (코스트: 2)
+[Turn 3, Step 8] Opponent: 카드 플레이 - Elven Archer -> Leokk (코스트: 1)
+[Turn 3, Step 8] Opponent: 공격 - Leokk[2/2] -> Jaina Proudmoore
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Abusive Sergeant -> Wild Pyromancer (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/4
+  Hand (3): Spiked Hogrider, Pint-Sized Summoner, Chromatic Egg
+  Field: Wild Pyromancer[5/1], Abusive Sergeant[1/1]
+Opponent: Rexxar HP: 30, Mana: 1/4
+  Hand (2)
+  Field: Leokk[2/2], Firetree Witchdoctor[3/2], Elven Archer[2/1]
+[Turn 4, Step 10] Agent: 영웅 능력 사용 -> Abusive Sergeant
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 공격 - Elven Archer[2/1] -> Wild Pyromancer
+[Turn 4, Step 11] Opponent: 카드 플레이 - Gormok the Impaler (코스트: 4)
+[Turn 4, Step 11] Opponent: 공격 - Firetree Witchdoctor[3/2] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 공격 - Leokk[2/2] -> Jaina Proudmoore
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Loose Specimen (코스트: 5)
+[Turn 5, Step 13] Opponent: 공격 - Gormok the Impaler[4/3] -> Sen'jin Shieldmasta
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Spiked Hogrider (코스트: 5)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/6
+  Hand (3): Malygos, Pint-Sized Summoner, Chromatic Egg
+  Field: Sen'jin Shieldmasta[3/1], Spiked Hogrider[5/5]
+Opponent: Rexxar HP: 30, Mana: 1/6
+  Hand (2)
+  Field: Loose Specimen[6/5]
+[Turn 6, Step 15] Agent: 공격 - Sen'jin Shieldmasta[3/1] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 영웅 능력 사용 -> Rexxar
+[Turn 7, Step 18] Agent: 공격 - Sen'jin Shieldmasta[3/1] -> Rexxar
+[Turn 7, Step 19] Agent: 카드 플레이 - Pint-Sized Summoner (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 3/7
+  Hand (3): Malygos, Chromatic Egg, Young Dragonhawk
+  Field: Sen'jin Shieldmasta[3/1], Spiked Hogrider[5/5], Pint-Sized Summoner[2/2]
+Opponent: Rexxar HP: 23, Mana: 7/7
+  Hand (3)
+  Field: Loose Specimen[6/5]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Dalaran Mage (코스트: 3)
+[Turn 7, Step 20] Opponent: 카드 플레이 - Rotnest Drake (코스트: 5)
+[Turn 7, Step 20] Opponent: 공격 - Loose Specimen[6/5] -> Sen'jin Shieldmasta
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 영웅 능력 사용 -> Loose Specimen
+[Turn 8, Step 22] Agent: 공격 - Pint-Sized Summoner[2/2] -> Loose Specimen
+[Turn 8, Step 23] Agent: 공격 - Spiked Hogrider[5/5] -> Rexxar
+[Turn 8, Step 24] Agent: 카드 플레이 - Arcane Missiles (코스트: 1)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 5/8
+  Hand (3): Malygos, Chromatic Egg, Young Dragonhawk
+  Field: Spiked Hogrider[5/5]
+Opponent: Rexxar HP: 17, Mana: 0/8
+  Hand (2)
+  Field: Dalaran Mage[1/3], Rotnest Drake[6/4]
+[Turn 8, Step 25] Agent: 카드 플레이 - Young Dragonhawk (코스트: 1)
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 공격 - Dalaran Mage[1/3] -> Young Dragonhawk
+[Turn 8, Step 26] Opponent: 카드 플레이 - Kel'Thuzad (코스트: 8)
+[Turn 8, Step 26] Opponent: 공격 - Rotnest Drake[6/4] -> Jaina Proudmoore
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Phase Stalker (코스트: 2)
+[Turn 9, Step 27] Opponent: 카드 플레이 - Houndmaster Shaw (코스트: 4)
+[Turn 9, Step 27] Opponent: 공격 - Dalaran Mage[1/2] -> Jaina Proudmoore
+[Turn 9, Step 27] Opponent: 공격 - Rotnest Drake[6/4] -> Spiked Hogrider
+[Turn 9, Step 27] Opponent: 영웅 능력 사용
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Feral Gibberer (코스트: 1)
+[Turn 10, Step 29] Agent: 영웅 능력 사용 -> Phase Stalker
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 7/10
+  Hand (3): Malygos, Chromatic Egg, Beckoner of Evil
+  Field: Feral Gibberer[1/1]
+Opponent: Rexxar HP: 17, Mana: 2/10
+  Hand (1)
+  Field: Dalaran Mage[1/2], Kel'Thuzad[6/8], Rotnest Drake[6/5], Phase Stalker[2/2], Houndmaster Shaw[3/6]
+[Turn 10, Step 30] Agent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 10, Step 31] Agent: 선택 - Ebon Dragonsmith
+[Turn 10, Step 31] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 31] Opponent: 카드 플레이 - Transmogrifier (코스트: 2)
+[Turn 10, Step 31] Opponent: 공격 - Houndmaster Shaw[3/6] -> Chromatic Egg
+[Turn 10, Step 31] Opponent: 공격 - Kel'Thuzad[6/8] -> Ebon Dragonsmith
+[Turn 10, Step 31] Opponent: 공격 - Rotnest Drake[6/5] -> Feral Gibberer
+[Turn 10, Step 31] Opponent: 영웅 능력 사용
+[Turn 10, Step 31] Opponent: 공격 - Dalaran Mage[1/2] -> Jaina Proudmoore
+[Turn 10, Step 31] Opponent: 턴 종료
+[Turn 10, Step 32] Agent: 카드 플레이 - Glacial Mysteries (코스트: 8)
+[Turn 10, Step 33] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 33] Opponent: 턴 종료
+[Turn 10, Step 34] Agent: 영웅 능력 사용 -> Dalaran Mage
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 11, Mana: 8/10
+  Hand (3): Malygos, Beckoner of Evil, Deadscale Knight
+  Field: Draconic Emissary[6/6]
+Opponent: Rexxar HP: 17, Mana: 10/10
+  Hand (2)
+  Field: Dalaran Mage[1/1], Kel'Thuzad[6/5], Rotnest Drake[6/4], Phase Stalker[2/2], Houndmaster Shaw[3/6], Transmogrifier[2/3]
+[Turn 10, Step 35] Agent: 공격 - Draconic Emissary[6/6] -> Transmogrifier
+[Turn 10, Step 36] Agent: 카드 플레이 - Deadscale Knight (코스트: 1)
+[Turn 10, Step 37] Agent: 카드 플레이 - Beckoner of Evil (코스트: 2)
+[Turn 10, Step 38] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 38] Opponent: 공격 - Houndmaster Shaw[3/6] -> Deadscale Knight
+[Turn 10, Step 38] Opponent: 카드 플레이 - Twin Emperor Vek'lor (코스트: 7)
+[Turn 10, Step 38] Opponent: 영웅 능력 사용
+[Turn 10, Step 38] Opponent: 턴 종료
+[Turn 10, Step 39] Agent: 영웅 능력 사용 -> Houndmaster Shaw
+
+--- Game State (Turn 10, Step 40) ---
+Agent: Jaina Proudmoore HP: 10, Mana: 8/10
+  Hand (2): Malygos, Gormok the Impaler
+  Field: Draconic Emissary[6/4], Beckoner of Evil[2/3]
+Opponent: Rexxar HP: 17, Mana: 1/10
+  Hand (2)
+  Field: Dalaran Mage[1/1], Kel'Thuzad[6/5], Transmogrifier[2/3], Rotnest Drake[6/4], Phase Stalker[2/2], Houndmaster Shaw[3/4], Twin Emperor Vek'lor[4/6]
+[Turn 10, Step 40] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 40] Opponent: 공격 - Phase Stalker[2/2] -> Beckoner of Evil
+[Turn 10, Step 40] Opponent: 공격 - Rotnest Drake[6/4] -> Draconic Emissary
+[Turn 10, Step 40] Opponent: 카드 플레이 - Nat, the Darkfisher (코스트: 2)
+[Turn 10, Step 40] Opponent: 공격 - Twin Emperor Vek'lor[4/6] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 공격 - Houndmaster Shaw[3/4] -> Beckoner of Evil
+[Turn 10, Step 40] Opponent: 카드 플레이 - Blood-Queen Lana'thel (코스트: 5)
+[Turn 10, Step 40] Opponent: 공격 - Transmogrifier[2/3] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 공격 - Dalaran Mage[1/1] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 영웅 능력 사용
+[Turn 10, Step 40] Opponent: 공격 - Kel'Thuzad[6/5] -> Jaina Proudmoore
+[Turn 10, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 41] Opponent: 영웅 능력 사용
+[Turn 10, Step 41] Opponent: 공격 - Dalaran Mage[1/1] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 42) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 10/10
+  Hand (3): Malygos, Gormok the Impaler, Mechwarper
+Opponent: Rexxar HP: 17, Mana: 8/10
+  Hand (2)
+  Field: Dalaran Mage[1/1], Kel'Thuzad[6/5], Transmogrifier[2/3], Houndmaster Shaw[3/2], Twin Emperor Vek'lor[4/6], Nat, the Darkfisher[2/4], Blood-Queen Lana'thel[1/6]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+
