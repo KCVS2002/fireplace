@@ -1,0 +1,120 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (3): Azalina Soulthief, Splitting Image, Arcane Keysmith
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1]
+Opponent: Rexxar HP: 27, Mana: 1/1
+  Hand (5)
+[Turn 2, Step 5] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 5] Opponent: 턴 종료
+[Turn 3, Step 6] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+[Turn 3, Step 7] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 3, Step 8] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Galvanizer (코스트: 2)
+[Turn 3, Step 9] Opponent: 카드 플레이 - Lightwarden (코스트: 1)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (4): Azalina Soulthief, Arcane Keysmith, Lotus Agents, Griftah
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1]
+Opponent: Rexxar HP: 24, Mana: 0/3
+  Hand (5)
+  Field: Galvanizer[1/2], Lightwarden[1/2]
+[Turn 4, Step 10] Agent: 카드 플레이 - Arcane Keysmith (코스트: 4)
+[Turn 4, Step 11] Agent: 선택 - Ice Barrier
+[Turn 4, Step 11] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 11] Opponent: 영웅 능력 사용
+[Turn 4, Step 11] Opponent: 턴 종료
+[Turn 5, Step 12] Agent: 카드 플레이 - Lotus Agents (코스트: 5)
+[Turn 5, Step 13] Agent: 선택 - Haunting Visions
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Griftah (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 2/6
+  Hand (4): Azalina Soulthief, Sunstruck Henchman, Haunting Visions, Hungry Crab
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1], Arcane Keysmith[2/2], Lotus Agents[5/3], Griftah[4/5]
+Opponent: Rexxar HP: 24, Mana: 5/5
+  Hand (7)
+  Field: Galvanizer[1/2], Lightwarden[1/2]
+[Turn 6, Step 15] Agent: 선택 - Ethereal Arcanist
+[Turn 6, Step 15] Agent: 선택 - Troll Batrider
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 공격 - Galvanizer[1/2] -> Jaina Proudmoore
+[Turn 6, Step 15] Opponent: 공격 - Lightwarden[1/2] -> Griftah
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Azalina Soulthief (코스트: 7)
+[Turn 7, Step 17] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 7, Step 18] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+[Turn 7, Step 19] Agent: 공격 - Arcane Keysmith[2/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/7
+  Hand (9): Living Monument, Zombie Chow, Dalaran Mage, Emerald Reaver, Master Oakheart, Rockpool Hunter, Mo'arg Artificer, Ethereal Arcanist, Sludge Belcher
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1], Arcane Keysmith[2/2], Lotus Agents[5/3], Griftah[4/4], Griftah[4/5], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 19, Mana: 4/6
+  Hand (9)
+  Field: Galvanizer[1/2]
+[Turn 7, Step 20] Agent: 공격 - Lotus Agents[5/3] -> Rexxar
+[Turn 7, Step 21] Agent: 공격 - Griftah[4/4] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Griftah[4/5] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/8
+  Hand (10): Living Monument, Zombie Chow, Dalaran Mage, Emerald Reaver, Master Oakheart, Rockpool Hunter, Mo'arg Artificer, Ethereal Arcanist, Sludge Belcher, Thunder Lizard
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1], Arcane Keysmith[2/2], Lotus Agents[5/3], Griftah[4/4], Griftah[4/5], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 6, Mana: 7/7
+  Hand (10)
+  Field: Galvanizer[1/2]
+[Turn 8, Step 25] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 8, Step 26] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Arcane Keysmith[2/2] -> Rexxar
+[Turn 8, Step 28] Agent: 공격 - Lotus Agents[5/3] -> Rexxar
+
+--- Game State (Turn 8, Step 29) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 6/8
+  Hand (10): Living Monument, Zombie Chow, Dalaran Mage, Emerald Reaver, Master Oakheart, Rockpool Hunter, Mo'arg Artificer, Ethereal Arcanist, Sludge Belcher, Thunder Lizard
+  Field: Mogu Cultist[1/1], Bluegill Warrior[2/1], Arcane Keysmith[2/2], Lotus Agents[5/3], Griftah[4/4], Griftah[4/5], Azalina Soulthief[3/3]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (10)
+  Field: Galvanizer[1/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

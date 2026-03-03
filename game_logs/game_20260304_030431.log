@@ -1,0 +1,94 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Arcanologist (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Beaming Sidekick (코스트: 1)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 3, Step 4] Agent: 공격 - Arcanologist[2/3] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (5): Chillmaw, Enhance-o Mechano, Reno the Relicologist, Mirror Entity, Spiked Hogrider
+  Field: Arcanologist[2/3], Mischief Maker[3/3]
+Opponent: Rexxar HP: 28, Mana: 1/2
+  Hand (4)
+  Field: Beaming Sidekick[1/2], Hungry Crab[1/2]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 공격 - Hungry Crab[1/2] -> Mischief Maker
+[Turn 3, Step 5] Opponent: 공격 - Beaming Sidekick[1/2] -> Arcanologist
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 4, Step 7] Agent: 공격 - Arcanologist[2/2] -> Rexxar
+[Turn 4, Step 8] Agent: 공격 - Mischief Maker[3/2] -> Rexxar
+[Turn 4, Step 9] Agent: 공격 - Mischief Maker[3/2] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (5): Chillmaw, Reno the Relicologist, Mirror Entity, Spiked Hogrider, Electrowright
+  Field: Arcanologist[2/2], Mischief Maker[3/2], Enhance-o Mechano[3/2]
+Opponent: Rexxar HP: 20, Mana: 3/3
+  Hand (5)
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 영웅 능력 사용
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Mirror Entity (코스트: 3)
+[Turn 5, Step 12] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 13] Agent: 공격 - Arcanologist[2/2] -> Rexxar
+[Turn 5, Step 14] Agent: 공격 - Mischief Maker[3/2] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/5
+  Hand (5): Chillmaw, Reno the Relicologist, Spiked Hogrider, Electrowright, Eydis Darkbane
+  Field: Arcanologist[2/2], Mischief Maker[3/2], Enhance-o Mechano[3/2]
+Opponent: Rexxar HP: 15, Mana: 2/4
+  Hand (6)
+[Turn 5, Step 15] Agent: 공격 - Mischief Maker[3/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Enhance-o Mechano[3/2] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 5, Step 17] Opponent: 카드 플레이 - Unpowered Steambot (코스트: 4)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Reno the Relicologist (코스트: 6)
+[Turn 6, Step 19] Agent: 공격 - Arcanologist[2/2] -> Unpowered Steambot
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (5): Chillmaw, Spiked Hogrider, Electrowright, Eydis Darkbane, Kronx Dragonhoof
+  Field: Arcanologist[2/2], Mischief Maker[3/2], Enhance-o Mechano[3/2], Unpowered Steambot[0/9], Reno the Relicologist[4/6]
+Opponent: Rexxar HP: 3, Mana: 0/5
+  Hand (5)
+  Field: Unpowered Steambot[0/3]
+[Turn 6, Step 20] Agent: 공격 - Mischief Maker[3/2] -> Unpowered Steambot
+[Turn 6, Step 21] Agent: 공격 - Mischief Maker[3/2] -> Rexxar
+
+--- Game State (Turn 6, Step 22) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (5): Chillmaw, Spiked Hogrider, Electrowright, Eydis Darkbane, Kronx Dragonhoof
+  Field: Arcanologist[2/2], Mischief Maker[3/2], Enhance-o Mechano[3/2], Unpowered Steambot[0/9], Reno the Relicologist[4/6]
+Opponent: Rexxar HP: 0, Mana: 0/5
+  Hand (5)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

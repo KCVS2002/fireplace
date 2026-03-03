@@ -1,0 +1,129 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Astral Rift (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Young Priestess (코스트: 1)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Majordomo Executus, Stegodon, Sunborne Val'kyr, Spiritsinger Umbra, Silver Vanguard, Bug Collector, Cairne Bloodhoof
+  Field: Blubber Baron[1/1]
+Opponent: Rexxar HP: 30, Mana: 2/3
+  Hand (5)
+  Field: Young Priestess[2/1], Mistress of Mixtures[2/3]
+[Turn 4, Step 5] Agent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 4, Step 6] Agent: 공격 - Blubber Baron[1/1] -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Sunborne Val'kyr (코스트: 5)
+[Turn 5, Step 9] Agent: 공격 - Blubber Baron[1/1] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (6): Majordomo Executus, Spiritsinger Umbra, Silver Vanguard, Bug Collector, Cairne Bloodhoof, Stormpike Commando
+  Field: Blubber Baron[1/1], Stegodon[2/8], Sunborne Val'kyr[5/4]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (6)
+  Field: Young Priestess[2/1], Mistress of Mixtures[2/4]
+[Turn 5, Step 10] Agent: 공격 - Stegodon[2/8] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Gurubashi Chicken (코스트: 1)
+[Turn 5, Step 11] Opponent: 공격 - Mistress of Mixtures[2/4] -> Stegodon
+[Turn 5, Step 11] Opponent: 공격 - Young Priestess[2/1] -> Stegodon
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Spiritsinger Umbra (코스트: 4)
+[Turn 6, Step 13] Agent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 6, Step 14] Agent: 공격 - Blubber Baron[1/1] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (5): Jepetto Joybuzz, Majordomo Executus, Silver Vanguard, Cairne Bloodhoof, Stormpike Commando
+  Field: Blubber Baron[1/1], Stegodon[2/4], Sunborne Val'kyr[5/4], Spiritsinger Umbra[3/4], Bug Collector[2/1], Locust[1/1]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (5)
+  Field: Young Priestess[2/1], Mistress of Mixtures[2/4], Enhance-o Mechano[3/3], Gurubashi Chicken[1/1]
+[Turn 6, Step 15] Agent: 공격 - Stegodon[2/4] -> Rexxar
+[Turn 6, Step 16] Agent: 공격 - Sunborne Val'kyr[5/4] -> Rexxar
+[Turn 6, Step 17] Agent: 공격 - Locust[1/1] -> Young Priestess
+[Turn 6, Step 18] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 18] Opponent: 카드 플레이 - Neferset Ritualist (코스트: 2)
+[Turn 6, Step 18] Opponent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 6, Step 18] Opponent: 공격 - Enhance-o Mechano[3/3] -> Stegodon
+[Turn 6, Step 18] Opponent: 공격 - Mistress of Mixtures[2/4] -> Stegodon
+[Turn 6, Step 18] Opponent: 공격 - Gurubashi Chicken[1/1] -> Jaina Proudmoore
+[Turn 6, Step 18] Opponent: 턴 종료
+[Turn 7, Step 19] Agent: 카드 플레이 - Silver Vanguard (코스트: 7)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/7
+  Hand (5): Jepetto Joybuzz, Majordomo Executus, Cairne Bloodhoof, Stormpike Commando, Madder Bomber
+  Field: Blubber Baron[1/1], Sunborne Val'kyr[5/4], Spiritsinger Umbra[3/4], Bug Collector[2/1], Silver Vanguard[3/3], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 18, Mana: 0/6
+  Hand (4)
+  Field: Mistress of Mixtures[2/2], Enhance-o Mechano[3/1], Gurubashi Chicken[1/1], Neferset Ritualist[2/3], Violet Spellsword[1/6]
+[Turn 7, Step 20] Agent: 공격 - Blubber Baron[1/1] -> Rexxar
+[Turn 7, Step 21] Agent: 공격 - Sunborne Val'kyr[5/4] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Spiritsinger Umbra[3/4] -> Rexxar
+[Turn 7, Step 23] Agent: 공격 - Bug Collector[2/1] -> Rexxar
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 공격 - Neferset Ritualist[2/3] -> Blubber Baron
+[Turn 7, Step 24] Opponent: 공격 - Enhance-o Mechano[3/1] -> Jaina Proudmoore
+[Turn 7, Step 24] Opponent: 공격 - Gurubashi Chicken[1/1] -> Force-Tank MAX
+[Turn 7, Step 24] Opponent: 카드 플레이 - Wind-up Burglebot (코스트: 6)
+[Turn 7, Step 24] Opponent: 공격 - Mistress of Mixtures[2/2] -> Jaina Proudmoore
+[Turn 7, Step 24] Opponent: 공격 - Violet Spellsword[1/6] -> Sunborne Val'kyr
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/8
+  Hand (6): Jepetto Joybuzz, Majordomo Executus, Cairne Bloodhoof, Stormpike Commando, Madder Bomber, Dragonmaw Poacher
+  Field: Sunborne Val'kyr[5/3], Spiritsinger Umbra[3/4], Bug Collector[2/1], Silver Vanguard[3/3], Force-Tank MAX[7/7]
+Opponent: Rexxar HP: 7, Mana: 1/7
+  Hand (4)
+  Field: Mistress of Mixtures[2/2], Enhance-o Mechano[3/1], Neferset Ritualist[2/2], Violet Spellsword[1/1], Wind-up Burglebot[5/5]
+[Turn 8, Step 25] Agent: 카드 플레이 - Jepetto Joybuzz (코스트: 8)
+[Turn 8, Step 26] Agent: 공격 - Sunborne Val'kyr[5/3] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Spiritsinger Umbra[3/4] -> Rexxar
+
+--- Game State (Turn 8, Step 28) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (7): Majordomo Executus, Cairne Bloodhoof, Stormpike Commando, Madder Bomber, Dragonmaw Poacher, Gurubashi Chicken, Malygos
+  Field: Sunborne Val'kyr[5/3], Spiritsinger Umbra[3/4], Bug Collector[2/1], Silver Vanguard[3/3], Force-Tank MAX[7/7], Jepetto Joybuzz[6/6]
+Opponent: Rexxar HP: 0, Mana: 1/7
+  Hand (4)
+  Field: Mistress of Mixtures[2/2], Enhance-o Mechano[3/1], Neferset Ritualist[2/2], Violet Spellsword[1/1], Wind-up Burglebot[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

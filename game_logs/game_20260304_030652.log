@@ -1,0 +1,181 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Runic Egg (코스트: 1)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 영웅 능력 사용
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Nat Pagle (코스트: 2)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (7): Scalerider, Flight Master, Violet Illusionist, Netherwind Portal, Sen'jin Shieldmasta, Griftah, Imprisoned Observer
+  Field: Nat Pagle[0/4]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Runic Egg[0/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Scalerider (코스트: 3)
+[Turn 4, Step 6] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 6] Opponent: 카드 플레이 - Frozen Shadoweaver -> Jaina Proudmoore (코스트: 3)
+[Turn 4, Step 6] Opponent: 턴 종료
+[Turn 5, Step 7] Agent: 카드 플레이 - Flight Master (코스트: 3)
+[Turn 5, Step 8] Agent: 카드 플레이 - Flame Geyser -> Jaina Proudmoore (코스트: 2)
+[Turn 5, Step 9] Agent: 공격 - Scalerider[3/3] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/5
+  Hand (7): Violet Illusionist, Netherwind Portal, Sen'jin Shieldmasta, Griftah, Imprisoned Observer, Hippogryph, Flame Elemental
+  Field: Nat Pagle[0/4], Scalerider[3/3], Flight Master[3/4], Gryphon[2/2]
+Opponent: Rexxar HP: 27, Mana: 1/4
+  Hand (6)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/3], Gryphon[2/2]
+[Turn 5, Step 10] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 10] Opponent: 카드 플레이 - Halazzi, the Lynx (코스트: 5)
+[Turn 5, Step 10] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Nat Pagle
+[Turn 5, Step 10] Opponent: 공격 - Gryphon[2/2] -> Scalerider
+[Turn 5, Step 10] Opponent: 턴 종료
+[Turn 6, Step 11] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 6, Step 12] Agent: 카드 플레이 - Netherwind Portal (코스트: 3)
+[Turn 6, Step 13] Agent: 공격 - Scalerider[3/1] -> Rexxar
+[Turn 6, Step 14] Agent: 공격 - Flight Master[3/4] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (6): Sen'jin Shieldmasta, Griftah, Imprisoned Observer, Hippogryph, Flame Elemental, Hot Air Balloon
+  Field: Scalerider[3/1], Flight Master[3/4], Gryphon[2/2], Violet Illusionist[4/3]
+Opponent: Rexxar HP: 21, Mana: 0/5
+  Hand (10)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/3], Halazzi, the Lynx[3/2]
+[Turn 6, Step 15] Agent: 공격 - Gryphon[2/2] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Halazzi, the Lynx[3/2] -> Flight Master
+[Turn 6, Step 16] Opponent: 카드 플레이 - Hungry Dragon (코스트: 4)
+[Turn 6, Step 16] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - Sen'jin Shieldmasta (코스트: 4)
+[Turn 7, Step 18] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 19] Agent: 공격 - Scalerider[3/1] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/7
+  Hand (6): Griftah, Imprisoned Observer, Hippogryph, Flame Elemental, Hot Air Balloon, Worgen Infiltrator
+  Field: Violet Illusionist[4/1], Mechanical Yeti[4/3], Sen'jin Shieldmasta[3/3]
+Opponent: Rexxar HP: 19, Mana: 0/6
+  Hand (8)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/3], Hungry Dragon[5/6]
+[Turn 7, Step 20] Agent: 카드 플레이 - Flame Elemental (코스트: 1)
+[Turn 7, Step 21] Agent: 공격 - Violet Illusionist[4/1] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Mechanical Yeti[4/3] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 7, Step 23] Opponent: 공격 - Hungry Dragon[5/6] -> Sen'jin Shieldmasta
+[Turn 7, Step 23] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 7, Step 23] Opponent: 카드 플레이 - Captain's Parrot (코스트: 2)
+[Turn 7, Step 23] Opponent: 영웅 능력 사용
+[Turn 7, Step 23] Opponent: 공격 - Frozen Shadoweaver[4/3] -> Flame Elemental
+[Turn 7, Step 23] Opponent: 공격 - Lynx[1/1] -> Mechanical Yeti
+[Turn 7, Step 23] Opponent: 공격 - Lynx[1/1] -> Violet Illusionist
+[Turn 7, Step 23] Opponent: 공격 - Lynx[1/1] -> Mechanical Yeti
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Griftah (코스트: 4)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 4/8
+  Hand (5): Imprisoned Observer, Hippogryph, Hot Air Balloon, Worgen Infiltrator, E.M.P. Operative
+  Field: Mechanical Yeti[4/1], Griftah[4/5]
+Opponent: Rexxar HP: 11, Mana: 0/7
+  Hand (6)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/2], Hungry Dragon[5/3], Captain's Parrot[1/1]
+[Turn 8, Step 25] Agent: 선택 - Blackwater Pirate
+[Turn 8, Step 25] Agent: 선택 - Dragon's Fury
+[Turn 8, Step 25] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 25] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 8, Step 25] Opponent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 8, Step 25] Opponent: 공격 - Captain's Parrot[1/1] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 카드 플레이 - Lynx (코스트: 1)
+[Turn 8, Step 25] Opponent: 공격 - Hungry Dragon[5/3] -> Mechanical Yeti
+[Turn 8, Step 25] Opponent: 공격 - Gnomeregan Infantry[1/4] -> Griftah
+[Turn 8, Step 25] Opponent: 카드 플레이 - Finicky Cloakfield -> Runic Egg (코스트: 1)
+[Turn 8, Step 25] Opponent: 공격 - Frozen Shadoweaver[4/2] -> Jaina Proudmoore
+[Turn 8, Step 25] Opponent: 공격 - Lynx[1/1] -> Griftah
+[Turn 8, Step 25] Opponent: 턴 종료
+[Turn 9, Step 26] Agent: 카드 플레이 - Mayor Noggenfogger (코스트: 9)
+[Turn 9, Step 27] Agent: 공격 - Griftah[4/3] -> Rexxar
+[Turn 9, Step 28] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 28] Opponent: 카드 플레이 - Giant Mastodon (코스트: 9)
+[Turn 9, Step 28] Opponent: 턴 종료
+[Turn 10, Step 29] Agent: 카드 플레이 - Imprisoned Observer (코스트: 3)
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 7/10
+  Hand (7): Hippogryph, Hot Air Balloon, Worgen Infiltrator, E.M.P. Operative, Blackwater Pirate, Emergency Coolant, Fel Reaver
+  Field: Griftah[4/2], Mayor Noggenfogger[5/4], Imprisoned Observer[4/5]
+Opponent: Rexxar HP: 11, Mana: 0/9
+  Hand (5)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/2], Giant Mastodon[6/10]
+[Turn 10, Step 30] Agent: 카드 플레이 - Hippogryph (코스트: 4)
+[Turn 10, Step 31] Agent: 카드 플레이 - Hot Air Balloon (코스트: 1)
+[Turn 10, Step 32] Agent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 10, Step 33] Agent: 카드 플레이 - Emergency Coolant -> Runic Egg (코스트: 1)
+[Turn 10, Step 34] Agent: 공격 - Griftah[4/2] -> Giant Mastodon
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/10
+  Hand (3): E.M.P. Operative, Blackwater Pirate, Fel Reaver
+  Field: Mayor Noggenfogger[5/4], Imprisoned Observer[4/5], Hippogryph[2/6], Hot Air Balloon[1/2], Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 11, Mana: 0/9
+  Hand (5)
+  Field: Runic Egg[0/2], Frozen Shadoweaver[4/2], Giant Mastodon[6/6], Doom Rat[6/6]
+[Turn 10, Step 35] Agent: 공격 - Mayor Noggenfogger[5/4] -> Giant Mastodon
+[Turn 10, Step 36] Agent: 공격 - Hippogryph[2/6] -> Giant Mastodon
+[Turn 10, Step 37] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 37] Opponent: 공격 - Giant Mastodon[6/4] -> Jaina Proudmoore
+[Turn 10, Step 37] Opponent: 카드 플레이 - Phantom Freebooter (코스트: 4)
+[Turn 10, Step 37] Opponent: 카드 플레이 - Troll Batrider (코스트: 4)
+[Turn 10, Step 37] Opponent: 영웅 능력 사용
+[Turn 10, Step 37] Opponent: 공격 - Doom Rat[6/6] -> Jaina Proudmoore
+
+--- Game State (Turn 10, Step 38) ---
+Agent: Jaina Proudmoore HP: 0, Mana: 0/10
+  Hand (3): E.M.P. Operative, Blackwater Pirate, Fel Reaver
+  Field: Imprisoned Observer[4/5], Hot Air Balloon[1/2], Worgen Infiltrator[2/1]
+Opponent: Rexxar HP: 11, Mana: 0/10
+  Hand (4)
+  Field: Runic Egg[0/2], Giant Mastodon[6/4], Doom Rat[6/6], Phantom Freebooter[3/3], Troll Batrider[3/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Opponent
+============================================================
+

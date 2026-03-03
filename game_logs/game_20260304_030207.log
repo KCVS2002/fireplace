@@ -1,0 +1,140 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Dire Wolf Alpha (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Counterspell (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 공격 - Dire Wolf Alpha[2/2] -> Jaina Proudmoore
+[Turn 3, Step 4] Opponent: 카드 플레이 - Faceless Rager -> Dire Wolf Alpha (코스트: 3)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/4
+  Hand (6): Rabble Bouncer, Kel'Thuzad, Spider Tank, Doomed Apprentice, Grimestreet Smuggler, Mistress of Mixtures
+Opponent: Rexxar HP: 30, Mana: 0/3
+  Hand (5)
+  Field: Dire Wolf Alpha[2/2], Faceless Rager[6/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Spider Tank (코스트: 3)
+[Turn 4, Step 6] Agent: 카드 플레이 - Mistress of Mixtures (코스트: 1)
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Rabble Bouncer (코스트: 5)
+[Turn 5, Step 9] Agent: 공격 - Spider Tank[3/4] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/5
+  Hand (4): Kel'Thuzad, Doomed Apprentice, Grimestreet Smuggler, Kezan Mystic
+  Field: Spider Tank[3/4], Mistress of Mixtures[2/2], Rabble Bouncer[2/7]
+Opponent: Rexxar HP: 27, Mana: 4/4
+  Hand (6)
+  Field: Dire Wolf Alpha[2/2], Faceless Rager[6/2]
+[Turn 5, Step 10] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Baleful Banker -> Dire Wolf Alpha (코스트: 2)
+[Turn 5, Step 11] Opponent: 카드 플레이 - Cheaty Anklebiter -> Baleful Banker (코스트: 2)
+[Turn 5, Step 11] Opponent: 공격 - Faceless Rager[6/2] -> Rabble Bouncer
+[Turn 5, Step 11] Opponent: 공격 - Dire Wolf Alpha[2/2] -> Rabble Bouncer
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Doomed Apprentice (코스트: 3)
+[Turn 6, Step 13] Agent: 카드 플레이 - Grimestreet Smuggler (코스트: 3)
+[Turn 6, Step 14] Agent: 공격 - Spider Tank[3/4] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/6
+  Hand (3): Kel'Thuzad, Kezan Mystic, Unpowered Mauler
+  Field: Spider Tank[3/4], Mistress of Mixtures[2/2], Doomed Apprentice[3/2], Grimestreet Smuggler[2/4]
+Opponent: Rexxar HP: 23, Mana: 1/5
+  Hand (5)
+  Field: Baleful Banker[2/1], Cheaty Anklebiter[2/1]
+[Turn 6, Step 15] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 공격 - Baleful Banker[2/1] -> Spider Tank
+[Turn 6, Step 16] Opponent: 공격 - Cheaty Anklebiter[2/1] -> Jaina Proudmoore
+[Turn 6, Step 16] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 6, Step 16] Opponent: 영웅 능력 사용
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 카드 플레이 - Kezan Mystic (코스트: 4)
+[Turn 7, Step 18] Agent: 카드 플레이 - Unpowered Mauler (코스트: 2)
+[Turn 7, Step 19] Agent: 공격 - Spider Tank[3/2] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 1/7
+  Hand (2): Kel'Thuzad, Leeroy Jenkins
+  Field: Spider Tank[3/2], Mistress of Mixtures[2/2], Huntress[1/1], Doomed Apprentice[3/2], Grimestreet Smuggler[2/4], Kezan Mystic[4/3], Unpowered Mauler[3/5]
+Opponent: Rexxar HP: 20, Mana: 1/6
+  Hand (5)
+  Field: Cheaty Anklebiter[2/1], Terrorguard Escapee[3/7]
+[Turn 7, Step 20] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 7, Step 21] Agent: 공격 - Huntress[1/1] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Doomed Apprentice[3/2] -> Rexxar
+[Turn 7, Step 23] Agent: 공격 - Grimestreet Smuggler[2/4] -> Rexxar
+[Turn 7, Step 24] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 24] Opponent: 공격 - Cheaty Anklebiter[2/1] -> Doomed Apprentice
+[Turn 7, Step 24] Opponent: 공격 - Terrorguard Escapee[3/7] -> Kezan Mystic
+[Turn 7, Step 24] Opponent: 영웅 능력 사용
+[Turn 7, Step 24] Opponent: 카드 플레이 - Elite Tauren Chieftain (코스트: 5)
+[Turn 7, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 8/8
+  Hand (4): Kel'Thuzad, Leeroy Jenkins, I Am Murloc, Corpse Raiser
+  Field: Spider Tank[3/2], Mistress of Mixtures[2/2], Huntress[1/1], Grimestreet Smuggler[2/4], Unpowered Mauler[3/5]
+Opponent: Rexxar HP: 14, Mana: 0/7
+  Hand (6)
+  Field: Terrorguard Escapee[3/3], Elite Tauren Chieftain[5/5]
+[Turn 8, Step 25] Agent: 공격 - Grimestreet Smuggler[2/4] -> Elite Tauren Chieftain
+[Turn 8, Step 26] Agent: 카드 플레이 - Kel'Thuzad (코스트: 8)
+[Turn 8, Step 27] Agent: 공격 - Spider Tank[3/2] -> Rexxar
+[Turn 8, Step 28] Agent: 공격 - Mistress of Mixtures[2/2] -> Rexxar
+[Turn 8, Step 29] Agent: 공격 - Huntress[1/1] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/8
+  Hand (3): Leeroy Jenkins, I Am Murloc, Corpse Raiser
+  Field: Spider Tank[3/2], Mistress of Mixtures[2/2], Huntress[1/1], Unpowered Mauler[3/5], Kel'Thuzad[6/8]
+Opponent: Rexxar HP: 8, Mana: 0/7
+  Hand (6)
+  Field: Terrorguard Escapee[3/3], Elite Tauren Chieftain[5/3]
+[Turn 8, Step 30] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 30] Opponent: 턴 종료
+[Turn 9, Step 31] Agent: 공격 - Kel'Thuzad[6/8] -> Rexxar
+[Turn 9, Step 32] Agent: 공격 - Grimestreet Smuggler[2/4] -> Rexxar
+
+--- Game State (Turn 9, Step 33) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/9
+  Hand (4): Leeroy Jenkins, I Am Murloc, Corpse Raiser, Spellward Jeweler
+  Field: Spider Tank[3/2], Mistress of Mixtures[2/2], Huntress[1/1], Unpowered Mauler[3/5], Kel'Thuzad[6/8], Grimestreet Smuggler[2/4]
+Opponent: Rexxar HP: 0, Mana: 8/8
+  Hand (7)
+  Field: Terrorguard Escapee[3/3], Elite Tauren Chieftain[5/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

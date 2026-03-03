@@ -1,0 +1,98 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 영웅 능력 사용
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Pressure Plate (코스트: 2)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Thunder Lizard (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (5): Steam Surger, Countess Ashmore, Tortollan Pilgrim, Arcane Giant, Eater of Secrets
+  Field: Imprisoned Vilefiend[3/5], Thunder Lizard[3/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+[Turn 4, Step 5] Agent: 카드 플레이 - Steam Surger (코스트: 4)
+[Turn 4, Step 6] Agent: 공격 - Thunder Lizard[3/3] -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 영웅 능력 사용
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Eater of Secrets (코스트: 4)
+[Turn 5, Step 9] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/5
+  Hand (4): Countess Ashmore, Tortollan Pilgrim, Arcane Giant, Murloc Tidehunter
+  Field: Imprisoned Vilefiend[3/5], Thunder Lizard[3/3], Steam Surger[5/4], Eater of Secrets[3/5]
+Opponent: Rexxar HP: 24, Mana: 2/4
+  Hand (7)
+[Turn 5, Step 10] Agent: 공격 - Thunder Lizard[3/3] -> Rexxar
+[Turn 5, Step 11] Agent: 공격 - Steam Surger[5/4] -> Rexxar
+[Turn 5, Step 12] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 12] Opponent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 5, Step 12] Opponent: 턴 종료
+[Turn 6, Step 13] Agent: 카드 플레이 - Murloc Tidehunter (코스트: 2)
+[Turn 6, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 2/6
+  Hand (4): Countess Ashmore, Tortollan Pilgrim, Arcane Giant, Fel Reaver
+  Field: Imprisoned Vilefiend[3/5], Thunder Lizard[3/3], Steam Surger[5/4], Eater of Secrets[3/5], Murloc Tidehunter[2/1], Murloc Scout[1/1]
+Opponent: Rexxar HP: 16, Mana: 1/5
+  Hand (7)
+  Field: Burrowing Scorpid[5/2]
+[Turn 6, Step 15] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Rexxar
+[Turn 6, Step 16] Agent: 공격 - Thunder Lizard[3/3] -> Rexxar
+[Turn 6, Step 17] Agent: 공격 - Steam Surger[5/4] -> Rexxar
+[Turn 6, Step 18] Agent: 공격 - Eater of Secrets[3/5] -> Rexxar
+[Turn 6, Step 19] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 19] Opponent: 공격 - Burrowing Scorpid[5/2] -> Murloc Scout
+[Turn 6, Step 19] Opponent: 영웅 능력 사용
+[Turn 6, Step 19] Opponent: 카드 플레이 - Fire Hawk (코스트: 3)
+[Turn 6, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 7/7
+  Hand (5): Countess Ashmore, Tortollan Pilgrim, Arcane Giant, Fel Reaver, Soup Vendor
+  Field: Imprisoned Vilefiend[3/5], Thunder Lizard[3/3], Steam Surger[5/4], Eater of Secrets[3/5], Murloc Tidehunter[2/1]
+Opponent: Rexxar HP: 2, Mana: 1/6
+  Hand (7)
+  Field: Burrowing Scorpid[5/1], Fire Hawk[5/3]
+[Turn 7, Step 20] Agent: 카드 플레이 - Countess Ashmore (코스트: 7)
+[Turn 7, Step 21] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Rexxar
+
+--- Game State (Turn 7, Step 22) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/7
+  Hand (5): Tortollan Pilgrim, Arcane Giant, Fel Reaver, Soup Vendor, Vryghoul
+  Field: Imprisoned Vilefiend[3/5], Thunder Lizard[3/3], Steam Surger[5/4], Eater of Secrets[3/5], Murloc Tidehunter[2/1], Countess Ashmore[6/6]
+Opponent: Rexxar HP: 0, Mana: 1/6
+  Hand (7)
+  Field: Burrowing Scorpid[5/1], Fire Hawk[5/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

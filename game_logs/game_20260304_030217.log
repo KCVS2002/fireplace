@@ -1,0 +1,143 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Faithful Lumi (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Open the Waygate (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 공격 - Faithful Lumi[1/1] -> Small-Time Buccaneer
+[Turn 1, Step 4] Opponent: 카드 플레이 - Scavenging Hyena (코스트: 2)
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (4): Baku the Mooneater, Maexxna, Bug Collector, Tuskarr Fisherman
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (3)
+  Field: Scavenging Hyena[2/2]
+[Turn 2, Step 5] Agent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 2, Step 6] Agent: 공격 - Locust[1/1] -> Scavenging Hyena
+[Turn 2, Step 7] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 7] Opponent: 영웅 능력 사용
+[Turn 2, Step 7] Opponent: 턴 종료
+[Turn 3, Step 8] Agent: 카드 플레이 - Tuskarr Fisherman -> Bug Collector (코스트: 2)
+[Turn 3, Step 9] Agent: 공격 - Bug Collector[2/1] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (3): Baku the Mooneater, Maexxna, Grand Lackey Erkh
+  Field: Bug Collector[2/1], Tuskarr Fisherman[2/3]
+Opponent: Rexxar HP: 28, Mana: 1/3
+  Hand (4)
+  Field: Scavenging Hyena[2/1]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Drakkari Enchanter (코스트: 3)
+[Turn 3, Step 10] Opponent: 공격 - Scavenging Hyena[2/1] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Grand Lackey Erkh (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Bug Collector[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Tuskarr Fisherman[2/3] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Scavenging Hyena[2/1] -> Bug Collector
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (4): Baku the Mooneater, Maexxna, Toki, Time-Tinker, Pit Fighter
+  Field: Tuskarr Fisherman[2/3], Grand Lackey Erkh[2/3]
+Opponent: Rexxar HP: 24, Mana: 5/5
+  Hand (5)
+  Field: Drakkari Enchanter[1/5]
+[Turn 5, Step 15] Agent: 카드 플레이 - Pit Fighter (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Tuskarr Fisherman[2/3] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Grand Lackey Erkh[2/3] -> Rexxar
+[Turn 5, Step 18] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 18] Opponent: 공격 - Drakkari Enchanter[1/5] -> Pit Fighter
+[Turn 5, Step 18] Opponent: 턴 종료
+[Turn 6, Step 19] Agent: 카드 플레이 - Maexxna (코스트: 6)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/6
+  Hand (3): Baku the Mooneater, Toki, Time-Tinker, Replicating Menace
+  Field: Tuskarr Fisherman[2/3], Grand Lackey Erkh[2/3], Pit Fighter[5/5], Maexxna[2/8]
+Opponent: Rexxar HP: 20, Mana: 6/6
+  Hand (6)
+[Turn 6, Step 20] Agent: 공격 - Tuskarr Fisherman[2/3] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Grand Lackey Erkh[2/3] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Pit Fighter[5/5] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 카드 플레이 - Maiev Shadowsong -> Grand Lackey Erkh (코스트: 4)
+[Turn 6, Step 23] Opponent: 카드 플레이 - Tar Creeper (코스트: 3)
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Arcanosmith (코스트: 4)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 3/7
+  Hand (3): Baku the Mooneater, Toki, Time-Tinker, Replicating Menace
+  Field: Tuskarr Fisherman[2/3], Grand Lackey Erkh[2/3], Pit Fighter[5/5], Maexxna[2/8], Arcanosmith[3/2], Animated Shield[0/5]
+Opponent: Rexxar HP: 11, Mana: 0/7
+  Hand (5)
+  Field: Maiev Shadowsong[4/3], Tar Creeper[3/5]
+[Turn 7, Step 25] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 26] Agent: 공격 - Tuskarr Fisherman[2/3] -> Tar Creeper
+[Turn 7, Step 27] Agent: 공격 - Pit Fighter[5/5] -> Tar Creeper
+[Turn 7, Step 28] Agent: 공격 - Maexxna[2/8] -> Rexxar
+[Turn 7, Step 29] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 29] Opponent: 카드 플레이 - Shroom Brewer -> Pit Fighter (코스트: 4)
+[Turn 7, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 8/8
+  Hand (4): Baku the Mooneater, Toki, Time-Tinker, Replicating Menace, Gorillabot A-3
+  Field: Grand Lackey Erkh[2/3], Pit Fighter[5/6], Maexxna[2/8], Arcanosmith[3/2], Animated Shield[0/5]
+Opponent: Rexxar HP: 9, Mana: 4/8
+  Hand (5)
+  Field: Maiev Shadowsong[4/3], Shroom Brewer[4/4]
+[Turn 8, Step 30] Agent: 카드 플레이 - Toki, Time-Tinker (코스트: 6)
+[Turn 8, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 32] Agent: 공격 - Pit Fighter[5/6] -> Rexxar
+[Turn 8, Step 33] Agent: 공격 - Maexxna[2/8] -> Rexxar
+[Turn 8, Step 34] Agent: 공격 - Arcanosmith[3/2] -> Rexxar
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (4): Baku the Mooneater, Replicating Menace, Gorillabot A-3, SN1P-SN4P
+  Field: Grand Lackey Erkh[2/3], Pit Fighter[5/6], Maexxna[2/8], Arcanosmith[3/2], Animated Shield[0/5], Toki, Time-Tinker[5/5]
+Opponent: Rexxar HP: 0, Mana: 4/8
+  Hand (5)
+  Field: Maiev Shadowsong[4/3], Shroom Brewer[4/4]
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/8
+  Hand (4): Baku the Mooneater, Replicating Menace, Gorillabot A-3, SN1P-SN4P
+  Field: Grand Lackey Erkh[2/3], Pit Fighter[5/6], Maexxna[2/8], Arcanosmith[3/2], Animated Shield[0/5], Toki, Time-Tinker[5/5]
+Opponent: Rexxar HP: 0, Mana: 4/8
+  Hand (5)
+  Field: Maiev Shadowsong[4/3], Shroom Brewer[4/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

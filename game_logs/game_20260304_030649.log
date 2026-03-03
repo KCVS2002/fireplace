@@ -1,0 +1,113 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Acherus Veteran (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Zephrys the Great (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Arcane Shot -> Jaina Proudmoore (코스트: 1)
+[Turn 1, Step 3] Opponent: 공격 - Acherus Veteran[2/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Ancient Watcher (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/2
+  Hand (4): Toki, Time-Tinker, Stargazer Luna, Mogor the Ogre, Sunfury Protector
+  Field: Zephrys the Great[3/2], Ancient Watcher[4/5]
+Opponent: Rexxar HP: 30, Mana: 1/2
+  Hand (3)
+  Field: Acherus Veteran[2/1]
+[Turn 2, Step 5] Agent: 공격 - Zephrys the Great[3/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Flying Machine (코스트: 3)
+[Turn 2, Step 6] Opponent: 공격 - Acherus Veteran[2/1] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Stargazer Luna (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Zephrys the Great[3/2] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 공격 - Flying Machine[1/4] -> Zephrys the Great
+[Turn 3, Step 9] Opponent: 공격 - Flying Machine[1/1] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 4/4
+  Hand (5): Toki, Time-Tinker, Mogor the Ogre, Sunfury Protector, Silver Hand Knight, Explodinator
+  Field: Zephrys the Great[3/1], Ancient Watcher[4/5], Stargazer Luna[2/4]
+Opponent: Rexxar HP: 24, Mana: 4/4
+  Hand (4)
+  Field: Acherus Veteran[2/1], Flying Machine[1/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Sunfury Protector (코스트: 2)
+[Turn 4, Step 11] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 12] Agent: 공격 - Zephrys the Great[3/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/5
+  Hand (5): Toki, Time-Tinker, Mogor the Ogre, Silver Hand Knight, Explodinator, The Beast
+  Field: Zephrys the Great[3/1], Ancient Watcher[4/5], Stargazer Luna[2/4], Sunfury Protector[2/3]
+Opponent: Rexxar HP: 19, Mana: 5/5
+  Hand (5)
+  Field: Acherus Veteran[2/1], Flying Machine[1/1]
+[Turn 5, Step 15] Agent: 카드 플레이 - Silver Hand Knight (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Zephrys the Great[3/1] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Stargazer Luna[2/4] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Sunfury Protector[2/3] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 영웅 능력 사용
+[Turn 5, Step 19] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 5, Step 19] Opponent: 공격 - Acherus Veteran[2/1] -> Stargazer Luna
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 6/6
+  Hand (5): Toki, Time-Tinker, Mogor the Ogre, Explodinator, The Beast, Eydis Darkbane
+  Field: Zephrys the Great[3/1], Ancient Watcher[4/5], Stargazer Luna[2/2], Sunfury Protector[2/3], Silver Hand Knight[4/4], Squire[2/2]
+Opponent: Rexxar HP: 12, Mana: 3/6
+  Hand (5)
+  Field: Flying Machine[1/1], Skaterbot[1/1]
+[Turn 6, Step 20] Agent: 카드 플레이 - Toki, Time-Tinker (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Zephrys the Great[3/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Stargazer Luna[2/2] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Sunfury Protector[2/3] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Silver Hand Knight[4/4] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (5): Mogor the Ogre, Explodinator, The Beast, Eydis Darkbane, Princess Talanji
+  Field: Zephrys the Great[3/1], Ancient Watcher[4/5], Stargazer Luna[2/2], Sunfury Protector[2/3], Silver Hand Knight[4/4], Squire[2/2], Toki, Time-Tinker[5/5]
+Opponent: Rexxar HP: 1, Mana: 3/6
+  Hand (5)
+  Field: Flying Machine[1/1], Skaterbot[1/1]
+[Turn 6, Step 25] Agent: 공격 - Squire[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 26) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/6
+  Hand (5): Mogor the Ogre, Explodinator, The Beast, Eydis Darkbane, Princess Talanji
+  Field: Zephrys the Great[3/1], Ancient Watcher[4/5], Stargazer Luna[2/2], Sunfury Protector[2/3], Silver Hand Knight[4/4], Squire[2/2], Toki, Time-Tinker[5/5]
+Opponent: Rexxar HP: 0, Mana: 3/6
+  Hand (5)
+  Field: Flying Machine[1/1], Skaterbot[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

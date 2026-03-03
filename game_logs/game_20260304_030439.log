@@ -1,0 +1,137 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Ethereal Augmerchant -> Cogmaster (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Cult Apothecary, Mischief Maker, Gadgetzan Auctioneer, Gnomeregan Infantry
+  Field: Ethereal Augmerchant[2/1], Twilight Geomancer[1/4]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (4)
+  Field: Cogmaster[1/1]
+[Turn 2, Step 5] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Knife Juggler (코스트: 2)
+[Turn 2, Step 6] Opponent: 공격 - Cogmaster[1/1] -> Twilight Geomancer
+[Turn 2, Step 6] Opponent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Twilight Geomancer[1/3] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (4): Cult Apothecary, Gadgetzan Auctioneer, Gnomeregan Infantry, Sergeant Sally
+  Field: Ethereal Augmerchant[2/1], Twilight Geomancer[1/3], Mischief Maker[3/3]
+Opponent: Rexxar HP: 25, Mana: 0/3
+  Hand (3)
+  Field: Knife Juggler[2/2]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 영웅 능력 사용
+[Turn 3, Step 10] Opponent: 공격 - Knife Juggler[2/2] -> Twilight Geomancer
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 4, Step 12] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Twilight Geomancer[1/1] -> Rexxar
+[Turn 4, Step 14] Agent: 공격 - Mischief Maker[3/3] -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/4
+  Hand (4): Cult Apothecary, Gadgetzan Auctioneer, Sergeant Sally, Stegodon
+  Field: Ethereal Augmerchant[2/1], Twilight Geomancer[1/1], Mischief Maker[3/3], Gnomeregan Infantry[1/4]
+Opponent: Rexxar HP: 19, Mana: 2/4
+  Hand (4)
+  Field: Knife Juggler[2/1]
+[Turn 4, Step 15] Agent: 공격 - Gnomeregan Infantry[1/4] -> Rexxar
+[Turn 4, Step 16] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 16] Opponent: 공격 - Knife Juggler[2/1] -> Gnomeregan Infantry
+[Turn 4, Step 16] Opponent: 카드 플레이 - Arcanosmith (코스트: 4)
+[Turn 4, Step 16] Opponent: 턴 종료
+[Turn 5, Step 17] Agent: 카드 플레이 - Cult Apothecary (코스트: 5)
+[Turn 5, Step 18] Agent: 공격 - Ethereal Augmerchant[2/1] -> Animated Shield
+[Turn 5, Step 19] Agent: 공격 - Twilight Geomancer[1/1] -> Animated Shield
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/5
+  Hand (4): Gadgetzan Auctioneer, Sergeant Sally, Stegodon, Sunstruck Henchman
+  Field: Ethereal Augmerchant[2/1], Twilight Geomancer[1/1], Mischief Maker[3/3], Gnomeregan Infantry[1/2], Cult Apothecary[4/4]
+Opponent: Rexxar HP: 18, Mana: 1/5
+  Hand (4)
+  Field: Arcanosmith[3/2], Animated Shield[0/2]
+[Turn 5, Step 20] Agent: 공격 - Mischief Maker[3/3] -> Animated Shield
+[Turn 5, Step 21] Agent: 공격 - Gnomeregan Infantry[1/2] -> Rexxar
+[Turn 5, Step 22] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 22] Opponent: 카드 플레이 - Corpse Raiser -> Arcanosmith (코스트: 5)
+[Turn 5, Step 22] Opponent: 공격 - Arcanosmith[3/2] -> Gnomeregan Infantry
+[Turn 5, Step 22] Opponent: 턴 종료
+[Turn 6, Step 23] Agent: 카드 플레이 - Gadgetzan Auctioneer (코스트: 6)
+[Turn 6, Step 24] Agent: 공격 - Ethereal Augmerchant[2/1] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (4): Sergeant Sally, Stegodon, Sunstruck Henchman, Dr. Boom
+  Field: Ethereal Augmerchant[2/1], Twilight Geomancer[1/1], Mischief Maker[3/3], Cult Apothecary[4/4], Gadgetzan Auctioneer[4/4]
+Opponent: Rexxar HP: 15, Mana: 1/6
+  Hand (4)
+  Field: Arcanosmith[3/1], Corpse Raiser[3/3]
+[Turn 6, Step 25] Agent: 공격 - Twilight Geomancer[1/1] -> Rexxar
+[Turn 6, Step 26] Agent: 공격 - Mischief Maker[3/3] -> Rexxar
+[Turn 6, Step 27] Agent: 공격 - Cult Apothecary[4/4] -> Rexxar
+[Turn 6, Step 28] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 28] Opponent: 카드 플레이 - Griftah (코스트: 4)
+[Turn 6, Step 28] Opponent: 선택 - Magtheridon
+[Turn 6, Step 28] Opponent: 선택 - Sathrovarr
+[Turn 6, Step 28] Opponent: 카드 플레이 - Ice Rager (코스트: 3)
+[Turn 6, Step 28] Opponent: 공격 - Arcanosmith[3/1] -> Twilight Geomancer
+[Turn 6, Step 28] Opponent: 공격 - Corpse Raiser[3/3] -> Ethereal Augmerchant
+[Turn 6, Step 28] Opponent: 턴 종료
+[Turn 7, Step 29] Agent: 카드 플레이 - Sergeant Sally (코스트: 3)
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/7
+  Hand (5): Stegodon, Sunstruck Henchman, Dr. Boom, Sathrovarr, Prince Valanar
+  Field: Mischief Maker[3/3], Cult Apothecary[4/4], Gadgetzan Auctioneer[4/4], Sergeant Sally[1/1]
+Opponent: Rexxar HP: 7, Mana: 0/7
+  Hand (4)
+  Field: Corpse Raiser[3/1], Griftah[4/5], Ice Rager[5/2], Arcanosmith[3/2]
+[Turn 7, Step 30] Agent: 카드 플레이 - Stegodon (코스트: 4)
+[Turn 7, Step 31] Agent: 공격 - Mischief Maker[3/3] -> Rexxar
+[Turn 7, Step 32] Agent: 공격 - Cult Apothecary[4/4] -> Rexxar
+
+--- Game State (Turn 7, Step 33) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (4): Sunstruck Henchman, Dr. Boom, Sathrovarr, Prince Valanar
+  Field: Mischief Maker[3/3], Cult Apothecary[4/4], Gadgetzan Auctioneer[4/4], Sergeant Sally[1/1], Stegodon[2/6]
+Opponent: Rexxar HP: 0, Mana: 0/7
+  Hand (4)
+  Field: Corpse Raiser[3/1], Griftah[4/5], Ice Rager[5/2], Arcanosmith[3/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

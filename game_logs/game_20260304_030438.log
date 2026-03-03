@@ -1,0 +1,139 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Sir Finley Mrrgglton (코스트: 1)
+[Turn 1, Step 2] Agent: 선택 - Dagger Mastery
+[Turn 1, Step 2] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 2] Opponent: 영웅 능력 사용
+[Turn 1, Step 2] Opponent: 턴 종료
+[Turn 2, Step 3] Agent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 2, Step 4] Agent: 카드 플레이 - The Coin (코스트: 0)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/2
+  Hand (4): Dragonslayer, Cult Sorcerer, Dragon Breeder, Swamp Leech
+  Field: Sir Finley Mrrgglton[1/3], Friendly Bartender[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 카드 플레이 - Swamp Leech (코스트: 1)
+[Turn 2, Step 6] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Rexxar
+[Turn 2, Step 7] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 7] Opponent: 카드 플레이 - Bloodmage Thalnos (코스트: 2)
+[Turn 2, Step 7] Opponent: 턴 종료
+[Turn 3, Step 8] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 3, Step 9] Agent: 공격 - Sir Finley Mrrgglton[1/3] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (3): Cult Sorcerer, Dragon Breeder, Spectral Knight
+  Field: Sir Finley Mrrgglton[1/3], Friendly Bartender[2/3], Swamp Leech[2/1], Dragonslayer[4/3]
+Opponent: Rexxar HP: 28, Mana: 1/3
+  Hand (5)
+  Field: Bloodmage Thalnos[1/1]
+[Turn 3, Step 10] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 3, Step 11] Agent: 공격 - Swamp Leech[2/1] -> Rexxar
+[Turn 3, Step 12] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 12] Opponent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 3, Step 12] Opponent: 선택 - The Voraxx
+[Turn 3, Step 12] Opponent: 공격 - Bloodmage Thalnos[1/1] -> Sir Finley Mrrgglton
+[Turn 3, Step 12] Opponent: 턴 종료
+[Turn 4, Step 13] Agent: 카드 플레이 - Cult Sorcerer (코스트: 2)
+[Turn 4, Step 14] Agent: 카드 플레이 - Dragon Breeder (코스트: 2)
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/4
+  Hand (2): Skyfin, Spectral Knight
+  Field: Sir Finley Mrrgglton[1/2], Friendly Bartender[2/3], Swamp Leech[2/1], Dragonslayer[4/3], Cult Sorcerer[3/2], Dragon Breeder[2/3]
+Opponent: Rexxar HP: 24, Mana: 1/4
+  Hand (7)
+  Field: Golden Scarab[2/2]
+[Turn 4, Step 15] Agent: 공격 - Sir Finley Mrrgglton[1/2] -> Rexxar
+[Turn 4, Step 16] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 4, Step 17] Agent: 공격 - Swamp Leech[2/1] -> Rexxar
+[Turn 4, Step 18] Agent: 공격 - Dragonslayer[4/3] -> Rexxar
+[Turn 4, Step 19] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 19] Opponent: 공격 - Golden Scarab[2/2] -> Swamp Leech
+[Turn 4, Step 19] Opponent: 영웅 능력 사용
+[Turn 4, Step 19] Opponent: 카드 플레이 - Terrorguard Escapee (코스트: 3)
+[Turn 4, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/5
+  Hand (3): Skyfin, Spectral Knight, Sludge Belcher
+  Field: Sir Finley Mrrgglton[1/2], Huntress[1/1], Friendly Bartender[2/3], Dragonslayer[4/3], Cult Sorcerer[3/2], Dragon Breeder[2/3]
+Opponent: Rexxar HP: 15, Mana: 0/5
+  Hand (7)
+  Field: Terrorguard Escapee[3/7]
+[Turn 5, Step 20] Agent: 카드 플레이 - Skyfin (코스트: 5)
+[Turn 5, Step 21] Agent: 공격 - Sir Finley Mrrgglton[1/2] -> Rexxar
+[Turn 5, Step 22] Agent: 공격 - Huntress[1/1] -> Rexxar
+[Turn 5, Step 23] Agent: 공격 - Friendly Bartender[2/3] -> Rexxar
+[Turn 5, Step 24] Agent: 공격 - Dragonslayer[4/3] -> Rexxar
+
+--- Game State (Turn 5, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (2): Spectral Knight, Sludge Belcher
+  Field: Sir Finley Mrrgglton[1/2], Huntress[1/1], Friendly Bartender[2/3], Dragonslayer[4/3], Cult Sorcerer[3/2], Dragon Breeder[2/3], Skyfin[3/3]
+Opponent: Rexxar HP: 7, Mana: 0/5
+  Hand (7)
+  Field: Terrorguard Escapee[3/7]
+[Turn 5, Step 25] Agent: 공격 - Cult Sorcerer[3/2] -> Rexxar
+[Turn 5, Step 26] Agent: 공격 - Dragon Breeder[2/3] -> Rexxar
+[Turn 5, Step 27] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 27] Opponent: 공격 - Terrorguard Escapee[3/7] -> Cult Sorcerer
+[Turn 5, Step 27] Opponent: 카드 플레이 - Hecklebot (코스트: 4)
+[Turn 5, Step 27] Opponent: 영웅 능력 사용
+[Turn 5, Step 27] Opponent: 턴 종료
+[Turn 6, Step 28] Agent: 영웅 능력 사용
+[Turn 6, Step 29] Agent: 공격 - Sir Finley Mrrgglton[1/2] -> Hecklebot
+
+--- Game State (Turn 6, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 4/6
+  Hand (3): Spectral Knight, Sludge Belcher, Fire Plume Phoenix
+  Field: Huntress[1/1], Shield of Galakrond[4/5], Friendly Bartender[2/3], Dragonslayer[4/3], Dragon Breeder[2/3], Skyfin[3/3]
+Opponent: Rexxar HP: 2, Mana: 0/6
+  Hand (7)
+  Field: Terrorguard Escapee[3/4], Hecklebot[3/7]
+[Turn 6, Step 30] Agent: 카드 플레이 - Fire Plume Phoenix -> Jaina Proudmoore (코스트: 4)
+[Turn 6, Step 31] Agent: 공격 - Huntress[1/1] -> Hecklebot
+[Turn 6, Step 32] Agent: 공격 - Shield of Galakrond[4/5] -> Hecklebot
+[Turn 6, Step 33] Agent: 공격 - Friendly Bartender[2/3] -> Hecklebot
+[Turn 6, Step 34] Agent: 공격 - Dragonslayer[4/3] -> Rexxar
+
+--- Game State (Turn 6, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (2): Spectral Knight, Sludge Belcher
+  Field: Shield of Galakrond[4/2], Dragonslayer[4/3], Dragon Breeder[2/3], Skyfin[3/3], Fire Plume Phoenix[3/3]
+Opponent: Rexxar HP: 0, Mana: 0/6
+  Hand (7)
+  Field: Terrorguard Escapee[3/4]
+
+--- Game State (Turn 6, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/6
+  Hand (2): Spectral Knight, Sludge Belcher
+  Field: Shield of Galakrond[4/2], Dragonslayer[4/3], Dragon Breeder[2/3], Skyfin[3/3], Fire Plume Phoenix[3/3]
+Opponent: Rexxar HP: 0, Mana: 0/6
+  Hand (7)
+  Field: Terrorguard Escapee[3/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

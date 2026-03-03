@@ -1,0 +1,163 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 영웅 능력 사용
+[Turn 1, Step 3] Opponent: 공격 - Potion Vendor[1/1] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/2
+  Hand (4): Kalecgos, Giant Wasp, Magic Carpet, Power of Creation
+  Field: Mogu Cultist[1/1]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Potion Vendor[1/1]
+[Turn 2, Step 5] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Giant Wasp (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Toxic Reinforcements (코스트: 1)
+[Turn 3, Step 9] Opponent: 공격 - Potion Vendor[1/1] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 4/4
+  Hand (5): Kalecgos, Magic Carpet, Power of Creation, Furnacefire Colossus, Prince Keleseth
+  Field: Mogu Cultist[1/1], Giant Wasp[2/2]
+Opponent: Rexxar HP: 28, Mana: 3/4
+  Hand (5)
+  Field: Potion Vendor[1/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Magic Carpet (코스트: 3)
+[Turn 4, Step 11] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Giant Wasp[2/2] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 공격 - Potion Vendor[1/1] -> Giant Wasp
+[Turn 4, Step 13] Opponent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 4, Step 13] Opponent: 영웅 능력 사용
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Prince Keleseth (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/5
+  Hand (4): Kalecgos, Power of Creation, Furnacefire Colossus, Old Murk-Eye
+  Field: Mogu Cultist[1/1], Giant Wasp[2/1], Magic Carpet[1/6], Prince Keleseth[2/2]
+Opponent: Rexxar HP: 25, Mana: 0/5
+  Hand (5)
+  Field: Master of Ceremonies[4/2]
+[Turn 5, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 16] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Giant Wasp[2/1] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Magic Carpet[1/6] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 카드 플레이 - Salty Dog (코스트: 5)
+[Turn 5, Step 19] Opponent: 공격 - Master of Ceremonies[4/2] -> Magic Carpet
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (5): Kalecgos, Power of Creation, Furnacefire Colossus, Old Murk-Eye, Enhance-o Mechano
+  Field: Mogu Cultist[1/1], Giant Wasp[2/1], Magic Carpet[1/2], Prince Keleseth[2/2]
+Opponent: Rexxar HP: 21, Mana: 1/6
+  Hand (5)
+  Field: Master of Ceremonies[4/1], Salty Dog[7/4]
+[Turn 6, Step 20] Agent: 카드 플레이 - Furnacefire Colossus (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Mogu Cultist[1/1] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Giant Wasp[2/1] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Magic Carpet[1/2] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Prince Keleseth[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (4): Kalecgos, Power of Creation, Old Murk-Eye, Enhance-o Mechano
+  Field: Mogu Cultist[1/1], Giant Wasp[2/1], Magic Carpet[1/2], Prince Keleseth[2/2], Furnacefire Colossus[6/6]
+Opponent: Rexxar HP: 15, Mana: 1/6
+  Hand (5)
+  Field: Master of Ceremonies[4/1], Salty Dog[7/4]
+[Turn 6, Step 25] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 25] Opponent: 공격 - Master of Ceremonies[4/1] -> Mogu Cultist
+[Turn 6, Step 25] Opponent: 카드 플레이 - Spring Rocket -> Prince Keleseth (코스트: 3)
+[Turn 6, Step 25] Opponent: 카드 플레이 - Coliseum Manager (코스트: 3)
+[Turn 6, Step 25] Opponent: 공격 - Salty Dog[7/4] -> Giant Wasp
+[Turn 6, Step 25] Opponent: 턴 종료
+[Turn 7, Step 26] Agent: 카드 플레이 - Old Murk-Eye (코스트: 4)
+[Turn 7, Step 27] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 28] Agent: 공격 - Magic Carpet[1/2] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Furnacefire Colossus[6/6] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 1/7
+  Hand (4): Kalecgos, Power of Creation, Enhance-o Mechano, Hakkar, the Soulflayer
+  Field: Magic Carpet[1/2], Furnacefire Colossus[6/6], Old Murk-Eye[2/4]
+Opponent: Rexxar HP: 8, Mana: 1/7
+  Hand (4)
+  Field: Spring Rocket[2/1], Coliseum Manager[2/5]
+[Turn 7, Step 30] Agent: 공격 - Old Murk-Eye[2/4] -> Rexxar
+[Turn 7, Step 31] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 31] Opponent: 공격 - Coliseum Manager[2/5] -> Furnacefire Colossus
+[Turn 7, Step 31] Opponent: 카드 플레이 - Acherus Veteran -> Spring Rocket (코스트: 1)
+[Turn 7, Step 31] Opponent: 카드 플레이 - Mukla, Tyrant of the Vale (코스트: 6)
+[Turn 7, Step 31] Opponent: 공격 - Spring Rocket[3/1] -> Magic Carpet
+[Turn 7, Step 31] Opponent: 카드 플레이 - Bananas -> Furnacefire Colossus (코스트: 1)
+[Turn 7, Step 31] Opponent: 턴 종료
+[Turn 8, Step 32] Agent: 카드 플레이 - Power of Creation (코스트: 8)
+[Turn 8, Step 33] Agent: 선택 - Damaged Stegotron
+[Turn 8, Step 33] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 33] Opponent: 공격 - Mukla, Tyrant of the Vale[5/5] -> Damaged Stegotron
+[Turn 8, Step 33] Opponent: 카드 플레이 - Bananas -> Damaged Stegotron (코스트: 1)
+[Turn 8, Step 33] Opponent: 공격 - Acherus Veteran[2/1] -> Damaged Stegotron
+[Turn 8, Step 33] Opponent: 카드 플레이 - Tentacled Menace (코스트: 5)
+[Turn 8, Step 33] Opponent: 턴 종료
+[Turn 9, Step 34] Agent: 카드 플레이 - Troggzor the Earthinator (코스트: 5)
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 4/9
+  Hand (5): Kalecgos, Enhance-o Mechano, Hakkar, the Soulflayer, Shieldbreaker, Tomb Lurker
+  Field: Furnacefire Colossus[7/5], Old Murk-Eye[2/4], Damaged Stegotron[5/12], Damaged Stegotron[6/6], Troggzor the Earthinator[6/6]
+Opponent: Rexxar HP: 6, Mana: 3/9
+  Hand (4)
+  Field: Tentacled Menace[6/5]
+[Turn 9, Step 35] Agent: 카드 플레이 - Enhance-o Mechano (코스트: 4)
+[Turn 9, Step 36] Agent: 공격 - Furnacefire Colossus[7/5] -> Rexxar
+
+--- Game State (Turn 9, Step 37) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/9
+  Hand (4): Kalecgos, Hakkar, the Soulflayer, Shieldbreaker, Tomb Lurker
+  Field: Furnacefire Colossus[7/5], Old Murk-Eye[2/4], Damaged Stegotron[5/12], Damaged Stegotron[6/6], Troggzor the Earthinator[6/6], Enhance-o Mechano[3/2]
+Opponent: Rexxar HP: 0, Mana: 3/9
+  Hand (4)
+  Field: Tentacled Menace[6/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

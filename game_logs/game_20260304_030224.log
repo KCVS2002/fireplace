@@ -1,0 +1,164 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Grimscale Oracle (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Mana Wraith (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Ice Walker, Injured Tol'vir, Ironforge Rifleman, Ragnaros the Firelord
+  Field: Goldshire Footman[1/2], Mana Wraith[2/2]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (4)
+  Field: Grimscale Oracle[1/1]
+[Turn 2, Step 5] Agent: 공격 - Goldshire Footman[1/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Neferset Ritualist (코스트: 3)
+[Turn 2, Step 6] Opponent: 공격 - Grimscale Oracle[1/1] -> Goldshire Footman
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Ice Walker (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Goldshire Footman[1/1] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Mana Wraith[2/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (4): Injured Tol'vir, Ironforge Rifleman, Ragnaros the Firelord, Khadgar
+  Field: Goldshire Footman[1/1], Mana Wraith[2/2], Ice Walker[1/3]
+Opponent: Rexxar HP: 26, Mana: 0/3
+  Hand (4)
+  Field: Neferset Ritualist[2/3]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 카드 플레이 - Hired Gun (코스트: 4)
+[Turn 3, Step 10] Opponent: 공격 - Neferset Ritualist[2/3] -> Goldshire Footman
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Injured Tol'vir (코스트: 3)
+[Turn 4, Step 12] Agent: 공격 - Mana Wraith[2/2] -> Hired Gun
+[Turn 4, Step 13] Agent: 공격 - Ice Walker[1/3] -> Hired Gun
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 카드 플레이 - Hench-Clan Hag (코스트: 4)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 5/5
+  Hand (5): Ironforge Rifleman, Ragnaros the Firelord, Khadgar, Hecklebot, Arcane Amplifier
+  Field: Injured Tol'vir[2/3]
+Opponent: Rexxar HP: 26, Mana: 1/5
+  Hand (4)
+  Field: Neferset Ritualist[2/2], Amalgam[1/1], Hench-Clan Hag[3/3], Amalgam[1/1]
+[Turn 5, Step 15] Agent: 카드 플레이 - Ironforge Rifleman -> Jaina Proudmoore (코스트: 3)
+[Turn 5, Step 16] Agent: 카드 플레이 - Khadgar (코스트: 2)
+[Turn 5, Step 17] Agent: 공격 - Injured Tol'vir[2/3] -> Rexxar
+[Turn 5, Step 18] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 18] Opponent: 턴 종료
+[Turn 6, Step 19] Agent: 카드 플레이 - Hecklebot (코스트: 4)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/6
+  Hand (3): Ragnaros the Firelord, Arcane Amplifier, Stonesplinter Trogg
+  Field: Injured Tol'vir[2/3], Ironforge Rifleman[2/2], Khadgar[2/2], Hecklebot[3/8]
+Opponent: Rexxar HP: 24, Mana: 6/6
+  Hand (5)
+  Field: Neferset Ritualist[2/2], Amalgam[1/1], Hench-Clan Hag[3/3], Amalgam[1/1], Acidmaw[4/2]
+[Turn 6, Step 20] Agent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 6, Step 21] Agent: 공격 - Injured Tol'vir[2/3] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Ironforge Rifleman[2/2] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 공격 - Neferset Ritualist[2/2] -> Hecklebot
+[Turn 6, Step 24] Opponent: 공격 - Hench-Clan Hag[3/3] -> Injured Tol'vir
+[Turn 6, Step 24] Opponent: 공격 - Amalgam[1/1] -> Jaina Proudmoore
+[Turn 6, Step 24] Opponent: 카드 플레이 - Ethereal Augmerchant -> Amalgam (코스트: 1)
+[Turn 6, Step 24] Opponent: 영웅 능력 사용
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 7/7
+  Hand (3): Ragnaros the Firelord, Arcane Amplifier, Oondasta
+  Field: Ironforge Rifleman[2/2], Khadgar[2/2], Stonesplinter Trogg[2/3]
+Opponent: Rexxar HP: 18, Mana: 4/7
+  Hand (5)
+  Field: Amalgam[1/1], Acidmaw[4/2], Ethereal Augmerchant[2/1]
+[Turn 7, Step 25] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 7, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 27] Agent: 공격 - Ironforge Rifleman[2/2] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Stonesplinter Trogg[2/3] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 2/7
+  Hand (2): Ragnaros the Firelord, Oondasta
+  Field: Ironforge Rifleman[2/2], Khadgar[2/2], Stonesplinter Trogg[2/3], Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 12, Mana: 4/7
+  Hand (5)
+  Field: Amalgam[1/1], Acidmaw[4/2], Ethereal Augmerchant[2/1]
+[Turn 7, Step 30] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 30] Opponent: 공격 - Amalgam[1/1] -> Ironforge Rifleman
+[Turn 7, Step 30] Opponent: 공격 - Acidmaw[4/2] -> Jaina Proudmoore
+[Turn 7, Step 30] Opponent: 턴 종료
+[Turn 8, Step 31] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 8, Step 32] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 8, Step 33] Agent: 공격 - Stonesplinter Trogg[2/3] -> Rexxar
+[Turn 8, Step 34] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (2): Oondasta, Hench-Clan Thug
+  Field: Khadgar[2/2], Stonesplinter Trogg[2/3], Arcane Amplifier[2/5], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 6, Mana: 8/8
+  Hand (6)
+  Field: Acidmaw[4/2], Ethereal Augmerchant[2/1]
+[Turn 8, Step 35] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 35] Opponent: 카드 플레이 - North Sea Kraken -> Ethereal Augmerchant (코스트: 9)
+[Turn 8, Step 35] Opponent: 턴 종료
+[Turn 9, Step 36] Agent: 카드 플레이 - Oondasta (코스트: 9)
+[Turn 9, Step 37] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 9, Step 38] Agent: 공격 - Stonesplinter Trogg[2/3] -> Rexxar
+[Turn 9, Step 39] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/9
+  Hand (2): Hench-Clan Thug, Firetree Witchdoctor
+  Field: Khadgar[2/2], Stonesplinter Trogg[2/3], Arcane Amplifier[2/5], Ragnaros the Firelord[8/8], Oondasta[7/7]
+Opponent: Rexxar HP: 0, Mana: 0/9
+  Hand (6)
+  Field: North Sea Kraken[9/7]
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/9
+  Hand (2): Hench-Clan Thug, Firetree Witchdoctor
+  Field: Khadgar[2/2], Stonesplinter Trogg[2/3], Arcane Amplifier[2/5], Ragnaros the Firelord[8/8], Oondasta[7/7]
+Opponent: Rexxar HP: 0, Mana: 0/9
+  Hand (6)
+  Field: North Sea Kraken[9/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

@@ -1,0 +1,130 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Research Project (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Dozing Marksman (코스트: 2)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/3
+  Hand (5): The Lich King, Book of Specters, Arcane Amplifier, Daring Reporter, Cryomancer
+  Field: Dozing Marksman[0/4]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (7)
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 카드 플레이 - Potion Vendor (코스트: 1)
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Book of Specters (코스트: 2)
+[Turn 4, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/5
+  Hand (7): The Lich King, Daring Reporter, Cryomancer, Burrowing Scorpid, Mosh'Ogg Enforcer, Grave Shambler, Malygos
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5]
+Opponent: Rexxar HP: 30, Mana: 4/4
+  Hand (8)
+  Field: Potion Vendor[1/1]
+[Turn 5, Step 10] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Daring Reporter (코스트: 4)
+[Turn 6, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 14] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (7): The Lich King, Cryomancer, Burrowing Scorpid, Mosh'Ogg Enforcer, Grave Shambler, Malygos, Molten Reflection
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5], Daring Reporter[3/3]
+Opponent: Rexxar HP: 28, Mana: 5/5
+  Hand (9)
+  Field: Potion Vendor[1/1]
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Violet Illusionist (코스트: 3)
+[Turn 7, Step 17] Agent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 7, Step 18] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+[Turn 7, Step 19] Agent: 공격 - Daring Reporter[4/4] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/7
+  Hand (6): The Lich King, Cryomancer, Mosh'Ogg Enforcer, Grave Shambler, Malygos, Molten Reflection
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5], Daring Reporter[4/4], Violet Illusionist[4/3], Burrowing Scorpid[5/2]
+Opponent: Rexxar HP: 22, Mana: 6/6
+  Hand (10)
+  Field: Potion Vendor[1/1]
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Faceless Rager -> Potion Vendor (코스트: 3)
+[Turn 7, Step 20] Opponent: 공격 - Potion Vendor[1/1] -> Violet Illusionist
+[Turn 7, Step 20] Opponent: 카드 플레이 - Saboteur (코스트: 3)
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - The Lich King (코스트: 8)
+[Turn 8, Step 22] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+[Turn 8, Step 23] Agent: 공격 - Daring Reporter[4/4] -> Rexxar
+[Turn 8, Step 24] Agent: 공격 - Violet Illusionist[4/2] -> Rexxar
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/8
+  Hand (6): Cryomancer, Mosh'Ogg Enforcer, Grave Shambler, Malygos, Molten Reflection, Cogmaster
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5], Daring Reporter[4/4], Violet Illusionist[4/2], Burrowing Scorpid[5/2], The Lich King[8/8]
+Opponent: Rexxar HP: 12, Mana: 1/7
+  Hand (8)
+  Field: Faceless Rager[5/1], Saboteur[4/3]
+[Turn 8, Step 25] Agent: 공격 - Burrowing Scorpid[5/2] -> Rexxar
+[Turn 8, Step 26] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 26] Opponent: 카드 플레이 - Toshley (코스트: 6)
+[Turn 8, Step 26] Opponent: 턴 종료
+[Turn 9, Step 27] Agent: 카드 플레이 - Cryomancer (코스트: 5)
+[Turn 9, Step 28] Agent: 카드 플레이 - Molten Reflection -> Dozing Marksman (코스트: 4)
+[Turn 9, Step 29] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/9
+  Hand (6): Mosh'Ogg Enforcer, Grave Shambler, Malygos, Cogmaster, Army of the Dead, Zayle, Shadow Cloak
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5], Daring Reporter[5/5], Violet Illusionist[4/2], Burrowing Scorpid[5/2], The Lich King[8/8], Cryomancer[5/5]
+Opponent: Rexxar HP: 5, Mana: 2/8
+  Hand (9)
+  Field: Faceless Rager[5/1], Saboteur[4/3], Toshley[5/7]
+[Turn 9, Step 30] Agent: 공격 - Daring Reporter[5/5] -> Rexxar
+
+--- Game State (Turn 9, Step 31) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/9
+  Hand (6): Mosh'Ogg Enforcer, Grave Shambler, Malygos, Cogmaster, Army of the Dead, Zayle, Shadow Cloak
+  Field: Dozing Marksman[0/4], Arcane Amplifier[2/5], Daring Reporter[5/5], Violet Illusionist[4/2], Burrowing Scorpid[5/2], The Lich King[8/8], Cryomancer[5/5]
+Opponent: Rexxar HP: 0, Mana: 2/8
+  Hand (9)
+  Field: Faceless Rager[5/1], Saboteur[4/3], Toshley[5/7]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

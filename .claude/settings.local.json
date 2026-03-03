@@ -2,7 +2,10 @@
   "permissions": {
     "allow": [
       "Bash(python -c \"from rl_env import HearthstoneEnv, load_model, predict_with_mask; print\\(''rl_env imports OK''\\)\")",
-      "Bash(python -c \":*)"
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import multiprocessing; print\\(f''CPU cores: {multiprocessing.cpu_count\\(\\)}''\\)\")",
+      "Bash(timeout 60 python -c \":*)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c \":*)"
     ]
   }
 }

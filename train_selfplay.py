@@ -42,60 +42,69 @@ class SelfPlayCallback(BaseCallback):
         self.n_envs = n_envs  # 병렬 환경 개수
         self.episode_rewards = deque(maxlen=1000)
         self.episode_lengths = deque(maxlen=1000)
-        self.current_episode_reward = 0
-        self.current_episode_length = 0
+        # 환경별 에피소드 추적
+        self._env_rewards = None
+        self._env_lengths = None
         self.wins = 0
         self.losses = 0
         self.draws = 0
         self.total_episodes = 0
+        self._last_print_episodes = 0
+
+    def _on_training_start(self):
+        n = self.training_env.num_envs
+        self._env_rewards = np.zeros(n)
+        self._env_lengths = np.zeros(n, dtype=int)
 
     def _load_policy(self, path: str):
         if MaskablePPO is not None:
             return MaskablePPO.load(path)
         return PPO.load(path)
-        
+
     def _on_step(self) -> bool:
-        # 에피소드 진행 추적
-        self.current_episode_reward += self.locals['rewards'][0]
-        self.current_episode_length += 1
-        
-        # 에피소드 종료 확인
-        if self.locals['dones'][0]:
-            self.episode_rewards.append(self.current_episode_reward)
-            self.episode_lengths.append(self.current_episode_length)
-            
-            # 승패 기록
-            info = self.locals.get('infos', [{}])[0]
-            if 'winner' in info:
-                if info['winner'] == 'agent':
-                    self.wins += 1
-                elif info['winner'] == 'opponent':
-                    self.losses += 1
-                else:
-                    self.draws += 1
-            
-            self.total_episodes += 1
-            
-            # 100 에피소드마다 통계 출력
-            if self.total_episodes % 100 == 0:
-                recent_rewards = self.episode_rewards[-100:]
-                avg_reward = np.mean(recent_rewards) if recent_rewards else 0
-                recent_lengths = self.episode_lengths[-100:]
-                avg_length = np.mean(recent_lengths) if recent_lengths else 0
-                
-                win_rate = self.wins / self.total_episodes * 100 if self.total_episodes > 0 else 0
-                
-                print(f"\n{'='*60}")
-                print(f"Episodes: {self.total_episodes}")
-                print(f"Recent 100 episodes:")
-                print(f"  Avg Reward: {avg_reward:.2f}")
-                print(f"  Avg Length: {avg_length:.1f} steps")
-                print(f"  Win Rate: {win_rate:.1f}% ({self.wins}W/{self.losses}L/{self.draws}D)")
-                print(f"{'='*60}\n")
-            
-            # 리셋
-            self.current_episode_reward = 0
-            self.current_episode_length = 0
+        rewards = self.locals['rewards']
+        dones = self.locals['dones']
+        infos = self.locals.get('infos', [{}] * len(rewards))
+
+        # 모든 환경의 진행 추적
+        self._env_rewards += rewards
+        self._env_lengths += 1
+
+        for i in range(len(dones)):
+            if dones[i]:
+                self.episode_rewards.append(self._env_rewards[i])
+                self.episode_lengths.append(self._env_lengths[i])
+
+                info = infos[i]
+                if 'winner' in info:
+                    if info['winner'] == 'agent':
+                        self.wins += 1
+                    elif info['winner'] == 'opponent':
+                        self.losses += 1
+                    else:
+                        self.draws += 1
+
+                self.total_episodes += 1
+                self._env_rewards[i] = 0
+                self._env_lengths[i] = 0
+
+        # 100 에피소드마다 통계 출력
+        if self.total_episodes >= self._last_print_episodes + 100:
+            self._last_print_episodes = self.total_episodes
+            recent_rewards = list(self.episode_rewards)[-100:]
+            avg_reward = np.mean(recent_rewards) if recent_rewards else 0
+            recent_lengths = list(self.episode_lengths)[-100:]
+            avg_length = np.mean(recent_lengths) if recent_lengths else 0
+
+            win_rate = self.wins / self.total_episodes * 100 if self.total_episodes > 0 else 0
+
+            print(f"\n{'='*60}")
+            print(f"Episodes: {self.total_episodes}")
+            print(f"Recent 100 episodes:")
+            print(f"  Avg Reward: {avg_reward:.2f}")
+            print(f"  Avg Length: {avg_length:.1f} steps")
+            print(f"  Win Rate: {win_rate:.1f}% ({self.wins}W/{self.losses}L/{self.draws}D)")
+            print(f"{'='*60}\n")
         
         # Opponent 모델 업데이트
         if self.num_timesteps % self.update_interval == 0 and self.num_timesteps > 0:
@@ -164,6 +173,8 @@ class SelfPlayCallback(BaseCallback):
 def make_env(opponent_policy=None):
     """환경 생성 함수"""
     def _init():
+        # 자식 프로세스에서도 fireplace 로그 비활성화
+        logging.getLogger('fireplace').setLevel(logging.CRITICAL)
         env = HearthstoneEnv(
             player_class=CardClass.MAGE,
             opponent_class=CardClass.HUNTER,
@@ -216,8 +227,8 @@ def train_selfplay(
     os.makedirs(model_dir, exist_ok=True)
     os.makedirs(log_dir, exist_ok=True)
     
-    # fireplace 로그 레벨 설정 (경고만 표시)
-    logging.getLogger('fireplace').setLevel(logging.WARNING)
+    # fireplace 로그 완전 비활성화 (학습 속도 향상)
+    logging.getLogger('fireplace').setLevel(logging.CRITICAL)
     
     # 장치 선택
     if use_gpu and torch.cuda.is_available():
@@ -351,10 +362,10 @@ def train_selfplay(
 if __name__ == "__main__":
     # 기본 설정으로 학습 시작
     train_selfplay(
-        total_timesteps=200000,    # 10만 → 20만 (더 긴 학습)
-        update_interval=10000,     # 5천 → 1만 (더 안정적인 Self-Play)
+        total_timesteps=200000,    # 20만 스텝
+        update_interval=10000,     # 1만 스텝마다 상대 업데이트
         save_interval=20000,       # 2만 스텝마다 모델 저장
         model_dir="models",
         log_dir="logs",
-        n_envs=1                   # 단일 환경이 더 빠름
+        n_envs=4                   # 4개 병렬 환경 (CPU 코어 활용)
     )

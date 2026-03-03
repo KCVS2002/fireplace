@@ -1,0 +1,140 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Abusive Sergeant (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 카드 플레이 - Secret Plan (코스트: 1)
+[Turn 1, Step 1] Opponent: 선택 - Rat Trap
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 2, Step 3] Agent: 공격 - Abusive Sergeant[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/3
+  Hand (5): Muck Hunter, Tomb Spider, Blubber Baron, Lifedrinker, Stalagg
+  Field: Abusive Sergeant[1/1]
+Opponent: Rexxar HP: 29, Mana: 2/2
+  Hand (5)
+  Field: Southsea Deckhand[2/1]
+[Turn 3, Step 5] Agent: 카드 플레이 - Blubber Baron (코스트: 3)
+[Turn 3, Step 6] Agent: 공격 - Abusive Sergeant[1/1] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 3, Step 7] Opponent: 공격 - Southsea Deckhand[2/1] -> Abusive Sergeant
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Tomb Spider (코스트: 4)
+[Turn 4, Step 9] Agent: 선택 - Hungry Crab
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 5/5
+  Hand (6): Muck Hunter, Lifedrinker, Stalagg, Drakonid Crusher, Hungry Crab, Sindragosa
+  Field: Blubber Baron[2/2], Tomb Spider[3/3]
+Opponent: Rexxar HP: 28, Mana: 4/4
+  Hand (6)
+  Field: Tainted Zealot[1/1]
+[Turn 5, Step 10] Agent: 카드 플레이 - Muck Hunter (코스트: 5)
+[Turn 5, Step 11] Agent: 공격 - Blubber Baron[2/2] -> Rexxar
+[Turn 5, Step 12] Agent: 공격 - Tomb Spider[3/3] -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Muck Hunter[5/8] -> Tainted Zealot
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 공격 - Muckling[2/1] -> Jaina Proudmoore
+[Turn 5, Step 14] Opponent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 5, Step 14] Opponent: 공격 - Muckling[2/1] -> Tomb Spider
+[Turn 5, Step 14] Opponent: 카드 플레이 - Shallow Gravedigger (코스트: 3)
+[Turn 5, Step 14] Opponent: 공격 - Tainted Zealot[1/1] -> Blubber Baron
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 6/6
+  Hand (6): Lifedrinker, Stalagg, Drakonid Crusher, Hungry Crab, Sindragosa, Azalina Soulthief
+  Field: Blubber Baron[2/1], Tomb Spider[3/1], Muck Hunter[5/7]
+Opponent: Rexxar HP: 23, Mana: 0/5
+  Hand (6)
+  Field: Muckling[2/1], Spellbook Binder[3/2], Shallow Gravedigger[3/1]
+[Turn 6, Step 15] Agent: 카드 플레이 - Lifedrinker (코스트: 4)
+[Turn 6, Step 16] Agent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 6, Step 17] Agent: 공격 - Blubber Baron[2/1] -> Rexxar
+[Turn 6, Step 18] Agent: 공격 - Tomb Spider[3/1] -> Rexxar
+[Turn 6, Step 19] Agent: 공격 - Muck Hunter[5/7] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/6
+  Hand (4): Stalagg, Drakonid Crusher, Sindragosa, Azalina Soulthief
+  Field: Blubber Baron[2/1], Tomb Spider[3/1], Muck Hunter[5/7], Lifedrinker[3/3], Hungry Crab[1/2]
+Opponent: Rexxar HP: 10, Mana: 0/5
+  Hand (6)
+  Field: Muckling[2/1], Spellbook Binder[3/2], Shallow Gravedigger[3/1]
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 공격 - Spellbook Binder[3/2] -> Lifedrinker
+[Turn 6, Step 20] Opponent: 카드 플레이 - Rabble Bouncer (코스트: 3)
+[Turn 6, Step 20] Opponent: 카드 플레이 - Rat Trap (코스트: 2)
+[Turn 6, Step 20] Opponent: 공격 - Shallow Gravedigger[3/1] -> Jaina Proudmoore
+[Turn 6, Step 20] Opponent: 공격 - Muckling[2/1] -> Blubber Baron
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 카드 플레이 - Stalagg (코스트: 5)
+[Turn 7, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 23] Agent: 공격 - Tomb Spider[3/1] -> Rabble Bouncer
+[Turn 7, Step 24] Agent: 공격 - Muck Hunter[5/7] -> Rabble Bouncer
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 0/7
+  Hand (4): Drakonid Crusher, Sindragosa, Azalina Soulthief, Night Prowler
+  Field: Muck Hunter[5/5], Hungry Crab[1/2], Stalagg[7/4]
+Opponent: Rexxar HP: 10, Mana: 1/6
+  Hand (5)
+  Field: Shallow Gravedigger[3/1]
+[Turn 7, Step 25] Agent: 공격 - Hungry Crab[1/2] -> Rexxar
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 공격 - Shallow Gravedigger[3/1] -> Muck Hunter
+[Turn 7, Step 26] Opponent: 카드 플레이 - Spirit of the Lynx (코스트: 3)
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 카드 플레이 - Drakonid Crusher (코스트: 6)
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 29] Agent: 공격 - Muck Hunter[5/2] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (4): Sindragosa, Azalina Soulthief, Night Prowler, Pyromaniac
+  Field: Muck Hunter[5/2], Hungry Crab[1/2], Stalagg[7/4], Drakonid Crusher[9/9]
+Opponent: Rexxar HP: 4, Mana: 4/7
+  Hand (6)
+  Field: Spirit of the Lynx[0/3]
+[Turn 8, Step 30] Agent: 공격 - Hungry Crab[1/2] -> Rexxar
+[Turn 8, Step 31] Agent: 공격 - Stalagg[7/4] -> Rexxar
+
+--- Game State (Turn 8, Step 32) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 0/8
+  Hand (4): Sindragosa, Azalina Soulthief, Night Prowler, Pyromaniac
+  Field: Muck Hunter[5/2], Hungry Crab[1/2], Stalagg[7/4], Drakonid Crusher[9/9]
+Opponent: Rexxar HP: 0, Mana: 4/7
+  Hand (6)
+  Field: Spirit of the Lynx[0/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

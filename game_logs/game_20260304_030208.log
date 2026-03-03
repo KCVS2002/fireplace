@@ -1,0 +1,156 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Elemental Evocation (코스트: 0)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 영웅 능력 사용
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Gadgetzan Socialite -> Jaina Proudmoore (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 영웅 능력 사용
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/3
+  Hand (4): Bonemare, Blackwater Pirate, Hoard Pillager, Blizzard
+  Field: Gadgetzan Socialite[2/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 공격 - Gadgetzan Socialite[2/2] -> Rexxar
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Blackwater Pirate (코스트: 4)
+[Turn 4, Step 8] Agent: 공격 - Gadgetzan Socialite[2/2] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Wyrmrest Purifier[3/2] -> Jaina Proudmoore
+[Turn 4, Step 9] Opponent: 카드 플레이 - Snipe (코스트: 2)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 5/5
+  Hand (5): Bonemare, Hoard Pillager, Blizzard, Deathlord, Manic Soulcaster
+  Field: Gadgetzan Socialite[2/2], Blackwater Pirate[2/5]
+Opponent: Rexxar HP: 26, Mana: 2/4
+  Hand (6)
+  Field: Wyrmrest Purifier[3/2]
+[Turn 5, Step 10] Agent: 카드 플레이 - Hoard Pillager (코스트: 4)
+[Turn 5, Step 11] Agent: 공격 - Gadgetzan Socialite[2/2] -> Rexxar
+[Turn 5, Step 12] Agent: 공격 - Blackwater Pirate[2/5] -> Rexxar
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Blizzard (코스트: 6)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (4): Bonemare, Deathlord, Manic Soulcaster, Clockwork Gnome
+  Field: Gadgetzan Socialite[2/2], Blackwater Pirate[2/5]
+Opponent: Rexxar HP: 22, Mana: 5/5
+  Hand (7)
+[Turn 6, Step 15] Agent: 공격 - Gadgetzan Socialite[2/2] -> Rexxar
+[Turn 6, Step 16] Agent: 공격 - Blackwater Pirate[2/5] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Holomancer (코스트: 5)
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Deathlord (코스트: 3)
+[Turn 7, Step 19] Agent: 카드 플레이 - Manic Soulcaster -> Gadgetzan Socialite (코스트: 3)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/7
+  Hand (3): Bonemare, Clockwork Gnome, Frostbolt
+  Field: Gadgetzan Socialite[2/2], Blackwater Pirate[2/5], Deathlord[2/8], Manic Soulcaster[3/4]
+Opponent: Rexxar HP: 18, Mana: 1/6
+  Hand (7)
+  Field: Holomancer[3/3], Manic Soulcaster[1/1], Deathlord[1/1]
+[Turn 7, Step 20] Agent: 카드 플레이 - Clockwork Gnome (코스트: 1)
+[Turn 7, Step 21] Agent: 공격 - Gadgetzan Socialite[2/2] -> Deathlord
+[Turn 7, Step 22] Agent: 공격 - Blackwater Pirate[2/5] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 카드 플레이 - Furbolg Mossbinder -> Clockwork Gnome (코스트: 5)
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 공격 - Blackwater Pirate[2/5] -> Holomancer
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 8/8
+  Hand (3): Pyromaniac, Bonemare, Frostbolt
+  Field: Gadgetzan Socialite[2/1], Blackwater Pirate[2/2], Deathlord[2/8], Weasel Tunneler[1/1], Manic Soulcaster[3/4], Clockwork Gnome[2/1]
+Opponent: Rexxar HP: 16, Mana: 2/7
+  Hand (7)
+  Field: Holomancer[3/1], Moss Elemental[6/6], Manic Soulcaster[1/1], Furbolg Mossbinder[1/1]
+[Turn 8, Step 25] Agent: 공격 - Deathlord[2/8] -> Holomancer
+[Turn 8, Step 26] Agent: 공격 - Manic Soulcaster[3/4] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Clockwork Gnome[2/1] -> Rexxar
+[Turn 8, Step 28] Agent: 영웅 능력 사용 -> Moss Elemental
+[Turn 8, Step 29] Agent: 카드 플레이 - Pyromaniac (코스트: 3)
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 3/8
+  Hand (2): Bonemare, Frostbolt
+  Field: Gadgetzan Socialite[2/1], Blackwater Pirate[2/2], Deathlord[2/5], Weasel Tunneler[1/1], Manic Soulcaster[3/4], Clockwork Gnome[2/1], Pyromaniac[3/4]
+Opponent: Rexxar HP: 11, Mana: 2/7
+  Hand (7)
+  Field: Moss Elemental[6/5], Manic Soulcaster[1/1], Furbolg Mossbinder[1/1]
+[Turn 8, Step 30] Agent: 카드 플레이 - Frostbolt -> Jaina Proudmoore (코스트: 2)
+[Turn 8, Step 31] Agent: 공격 - Gadgetzan Socialite[2/1] -> Rexxar
+[Turn 8, Step 32] Agent: 공격 - Weasel Tunneler[1/1] -> Rexxar
+[Turn 8, Step 33] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 33] Opponent: 공격 - Moss Elemental[6/5] -> Deathlord
+[Turn 8, Step 33] Opponent: 턴 종료
+[Turn 9, Step 34] Agent: 공격 - Manic Soulcaster[3/4] -> Kindly Grandmother
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 9/9
+  Hand (2): Bonemare, Kezan Mystic
+  Field: Gadgetzan Socialite[2/1], Blackwater Pirate[2/2], Weasel Tunneler[1/1], Manic Soulcaster[3/3], Clockwork Gnome[2/1], Pyromaniac[3/4]
+Opponent: Rexxar HP: 8, Mana: 8/8
+  Hand (8)
+  Field: Moss Elemental[6/3], Manic Soulcaster[1/1], Big Bad Wolf[3/2], Furbolg Mossbinder[1/1]
+[Turn 9, Step 35] Agent: 공격 - Clockwork Gnome[2/1] -> Big Bad Wolf
+[Turn 9, Step 36] Agent: 공격 - Pyromaniac[3/4] -> Moss Elemental
+[Turn 9, Step 37] Agent: 카드 플레이 - Bonemare -> Gadgetzan Socialite (코스트: 8)
+[Turn 9, Step 38] Agent: 카드 플레이 - Whirling Blades -> Gadgetzan Socialite (코스트: 1)
+[Turn 9, Step 39] Agent: 공격 - Gadgetzan Socialite[7/5] -> Rexxar
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/9
+  Hand (1): Kezan Mystic
+  Field: Gadgetzan Socialite[7/5], Blackwater Pirate[2/2], Weasel Tunneler[1/1], Manic Soulcaster[3/3], Bonemare[5/5]
+Opponent: Rexxar HP: 1, Mana: 8/8
+  Hand (8)
+  Field: Manic Soulcaster[1/1], Furbolg Mossbinder[1/1]
+[Turn 9, Step 40] Agent: 공격 - Blackwater Pirate[2/2] -> Rexxar
+
+--- Game State (Turn 9, Step 41) ---
+Agent: Jaina Proudmoore HP: 21, Mana: 0/9
+  Hand (1): Kezan Mystic
+  Field: Gadgetzan Socialite[7/5], Blackwater Pirate[2/2], Weasel Tunneler[1/1], Manic Soulcaster[3/3], Bonemare[5/5]
+Opponent: Rexxar HP: 0, Mana: 8/8
+  Hand (8)
+  Field: Manic Soulcaster[1/1], Furbolg Mossbinder[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

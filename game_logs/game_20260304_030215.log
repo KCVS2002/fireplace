@@ -1,0 +1,132 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Southsea Deckhand (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Stubborn Gastropod (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Southsea Deckhand[2/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Grook Fu Master, Crazed Alchemist, Hobgoblin, Frigid Snobold
+  Field: Southsea Deckhand[2/1], Stubborn Gastropod[1/2]
+Opponent: Rexxar HP: 28, Mana: 2/2
+  Hand (6)
+[Turn 3, Step 5] Agent: 카드 플레이 - Crazed Alchemist -> Southsea Deckhand (코스트: 2)
+[Turn 3, Step 6] Agent: 공격 - Southsea Deckhand[1/2] -> Rexxar
+[Turn 3, Step 7] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Hobgoblin (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/4
+  Hand (3): Grook Fu Master, Frigid Snobold, Electrowright
+  Field: Southsea Deckhand[1/2], Stubborn Gastropod[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3]
+Opponent: Rexxar HP: 26, Mana: 3/3
+  Hand (7)
+[Turn 4, Step 10] Agent: 공격 - Southsea Deckhand[1/2] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Crazed Alchemist[2/2] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Mechwarper (코스트: 2)
+[Turn 4, Step 13] Opponent: 영웅 능력 사용
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Grook Fu Master (코스트: 5)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (3): Frigid Snobold, Electrowright, Majordomo Executus
+  Field: Southsea Deckhand[1/2], Stubborn Gastropod[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5]
+Opponent: Rexxar HP: 22, Mana: 0/4
+  Hand (7)
+  Field: Mechwarper[2/3]
+[Turn 5, Step 15] Agent: 공격 - Southsea Deckhand[1/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Crazed Alchemist[2/2] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Hobgoblin[2/3] -> Rexxar
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 6/6
+  Hand (4): Frigid Snobold, Electrowright, Majordomo Executus, Messenger Raven
+  Field: Southsea Deckhand[1/2], Stubborn Gastropod[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5]
+Opponent: Rexxar HP: 16, Mana: 5/5
+  Hand (8)
+  Field: Mechwarper[2/3]
+[Turn 6, Step 20] Agent: 카드 플레이 - Frigid Snobold (코스트: 4)
+[Turn 6, Step 21] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 22] Agent: 공격 - Southsea Deckhand[1/2] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Stubborn Gastropod[1/2] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Crazed Alchemist[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/6
+  Hand (3): Electrowright, Majordomo Executus, Messenger Raven
+  Field: Southsea Deckhand[1/2], Stubborn Gastropod[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5], Frigid Snobold[2/6]
+Opponent: Rexxar HP: 12, Mana: 5/5
+  Hand (8)
+  Field: Mechwarper[2/3]
+[Turn 6, Step 25] Agent: 공격 - Hobgoblin[2/3] -> Rexxar
+[Turn 6, Step 26] Agent: 공격 - Grook Fu Master[3/5] -> Rexxar
+[Turn 6, Step 27] Agent: 공격 - Grook Fu Master[3/5] -> Rexxar
+[Turn 6, Step 28] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 28] Opponent: 카드 플레이 - Utgarde Grapplesniper (코스트: 6)
+[Turn 6, Step 28] Opponent: 공격 - Mechwarper[2/3] -> Stubborn Gastropod
+[Turn 6, Step 28] Opponent: 턴 종료
+[Turn 7, Step 29] Agent: 카드 플레이 - Tomb Lurker (코스트: 5)
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 2/7
+  Hand (4): Electrowright, Majordomo Executus, Messenger Raven, Lesser Ruby Spellstone
+  Field: Southsea Deckhand[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5], Frigid Snobold[2/6], Tomb Lurker[5/3]
+Opponent: Rexxar HP: 4, Mana: 0/6
+  Hand (9)
+  Field: Utgarde Grapplesniper[5/5]
+[Turn 7, Step 30] Agent: 카드 플레이 - Lesser Ruby Spellstone (코스트: 2)
+[Turn 7, Step 31] Agent: 카드 플레이 - Freezing Potion -> Rexxar (코스트: 0)
+[Turn 7, Step 32] Agent: 공격 - Southsea Deckhand[1/2] -> Rexxar
+[Turn 7, Step 33] Agent: 공격 - Crazed Alchemist[2/2] -> Rexxar
+[Turn 7, Step 34] Agent: 공격 - Hobgoblin[2/3] -> Rexxar
+
+--- Game State (Turn 7, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/7
+  Hand (3): Electrowright, Majordomo Executus, Messenger Raven
+  Field: Southsea Deckhand[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5], Frigid Snobold[2/6], Tomb Lurker[5/3]
+Opponent: Rexxar HP: 0, Mana: 0/6
+  Hand (9)
+  Field: Utgarde Grapplesniper[5/5]
+
+--- Game State (Turn 7, Step 35) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/7
+  Hand (3): Electrowright, Majordomo Executus, Messenger Raven
+  Field: Southsea Deckhand[1/2], Crazed Alchemist[2/2], Hobgoblin[2/3], Grook Fu Master[3/5], Frigid Snobold[2/6], Tomb Lurker[5/3]
+Opponent: Rexxar HP: 0, Mana: 0/6
+  Hand (9)
+  Field: Utgarde Grapplesniper[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

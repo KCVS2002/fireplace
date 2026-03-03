@@ -1,0 +1,102 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Murloc Tinyfin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Worgen Infiltrator (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Knife Juggler (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Desert Camel (코스트: 3)
+[Turn 2, Step 2] Opponent: 공격 - Murloc Tinyfin[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 공격 - Worgen Infiltrator[2/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 3, Step 4] Agent: 공격 - Knife Juggler[2/2] -> Rexxar
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 0/3
+  Hand (4): Bonechewer Vanguard, Astromancer Solarian, Shooting Star, Soldier of Fortune
+  Field: Knife Juggler[2/2], Arcane Anomaly[2/1], Wolfrider[3/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (3)
+  Field: Murloc Tinyfin[1/1], Desert Camel[2/3]
+[Turn 3, Step 5] Agent: 공격 - Arcane Anomaly[2/1] -> Rexxar
+[Turn 3, Step 6] Agent: 공격 - Wolfrider[3/1] -> Rexxar
+[Turn 3, Step 7] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 7] Opponent: 공격 - Murloc Tinyfin[1/1] -> Knife Juggler
+[Turn 3, Step 7] Opponent: 공격 - Desert Camel[2/3] -> Knife Juggler
+[Turn 3, Step 7] Opponent: 턴 종료
+[Turn 4, Step 8] Agent: 카드 플레이 - Astromancer Solarian (코스트: 2)
+[Turn 4, Step 9] Agent: 카드 플레이 - Shooting Star -> Desert Camel (코스트: 1)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/4
+  Hand (3): Bonechewer Vanguard, Soldier of Fortune, Sabretooth Stalker
+  Field: Arcane Anomaly[2/2], Wolfrider[3/1], Astromancer Solarian[3/2]
+Opponent: Rexxar HP: 23, Mana: 3/3
+  Hand (4)
+[Turn 4, Step 10] Agent: 공격 - Arcane Anomaly[2/2] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Wolfrider[3/1] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 카드 플레이 - Earthen Ring Farseer -> Astromancer Solarian (코스트: 3)
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Soldier of Fortune (코스트: 4)
+[Turn 5, Step 14] Agent: 공격 - Arcane Anomaly[2/2] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/5
+  Hand (3): Bonechewer Vanguard, Sabretooth Stalker, Second-Rate Bruiser
+  Field: Arcane Anomaly[2/2], Wolfrider[3/1], Astromancer Solarian[3/2], Soldier of Fortune[5/6]
+Opponent: Rexxar HP: 16, Mana: 1/4
+  Hand (4)
+  Field: Earthen Ring Farseer[3/3]
+[Turn 5, Step 15] Agent: 공격 - Wolfrider[3/1] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Astromancer Solarian[3/2] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 카드 플레이 - Grimestreet Informant (코스트: 2)
+[Turn 5, Step 17] Opponent: 선택 - Wing Blast
+[Turn 5, Step 17] Opponent: 카드 플레이 - Augmented Elekk (코스트: 3)
+[Turn 5, Step 17] Opponent: 공격 - Earthen Ring Farseer[3/3] -> Jaina Proudmoore
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Sabretooth Stalker (코스트: 6)
+[Turn 6, Step 19] Agent: 공격 - Arcane Anomaly[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (3): Bonechewer Vanguard, Second-Rate Bruiser, Fire Fly
+  Field: Arcane Anomaly[2/2], Wolfrider[3/1], Astromancer Solarian[3/2], Soldier of Fortune[5/6], Sabretooth Stalker[8/2]
+Opponent: Rexxar HP: 8, Mana: 0/5
+  Hand (4)
+  Field: Earthen Ring Farseer[3/3], Grimestreet Informant[1/1], Augmented Elekk[3/4]
+[Turn 6, Step 20] Agent: 공격 - Wolfrider[3/1] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Astromancer Solarian[3/2] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Soldier of Fortune[5/6] -> Rexxar
+
+--- Game State (Turn 6, Step 23) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (3): Bonechewer Vanguard, Second-Rate Bruiser, Fire Fly
+  Field: Arcane Anomaly[2/2], Wolfrider[3/1], Astromancer Solarian[3/2], Soldier of Fortune[5/6], Sabretooth Stalker[8/2]
+Opponent: Rexxar HP: 0, Mana: 0/5
+  Hand (5)
+  Field: Earthen Ring Farseer[3/3], Grimestreet Informant[1/1], Augmented Elekk[3/4]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

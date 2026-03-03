@@ -1,0 +1,124 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Bonechewer Brawler (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Glaivezooka (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Kel'Thuzad, Piloted Sky Golem, Kirin Tor Tricaster, Barrens Stablehand, Kobold Monk
+  Field: Bonechewer Brawler[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 공격 - Bonechewer Brawler[2/3] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Bug Collector (코스트: 2)
+[Turn 2, Step 6] Opponent: 공격 - Rexxar[2/28] -> Bonechewer Brawler
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Ravasaur Runt (코스트: 2)
+[Turn 3, Step 8] Agent: 공격 - Bonechewer Brawler[4/1] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 영웅 능력 사용
+[Turn 3, Step 9] Opponent: 공격 - Bug Collector[2/1] -> Bonechewer Brawler
+[Turn 3, Step 9] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 공격 - Rexxar[2/22] -> Jaina Proudmoore
+[Turn 3, Step 9] Opponent: 카드 플레이 - Kobold Sandtrooper (코스트: 2)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/4
+  Hand (6): Kel'Thuzad, Piloted Sky Golem, Barrens Stablehand, Kobold Monk, Jungle Panther, Felfin Navigator
+  Field: Ravasaur Runt[2/2]
+Opponent: Rexxar HP: 22, Mana: 0/4
+  Hand (4)
+  Field: Locust[1/1], Kobold Sandtrooper[2/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Kobold Monk (코스트: 4)
+[Turn 4, Step 11] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+[Turn 4, Step 12] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 12] Opponent: 영웅 능력 사용
+[Turn 4, Step 12] Opponent: 카드 플레이 - Mad Scientist (코스트: 2)
+[Turn 4, Step 12] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 4, Step 12] Opponent: 공격 - Kobold Sandtrooper[2/1] -> Kobold Monk
+[Turn 4, Step 12] Opponent: 턴 종료
+[Turn 5, Step 13] Agent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 5, Step 14] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/5
+  Hand (5): Kel'Thuzad, Piloted Sky Golem, Barrens Stablehand, Felfin Navigator, Soot Spewer
+  Field: Ravasaur Runt[2/2], Kobold Monk[3/4], Jungle Panther[4/2]
+Opponent: Rexxar HP: 20, Mana: 1/5
+  Hand (4)
+  Field: Locust[1/1], Mad Scientist[2/2]
+[Turn 5, Step 15] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Kobold Monk[3/4] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 5, Step 17] Opponent: 카드 플레이 - Blowtorch Saboteur (코스트: 3)
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Piloted Sky Golem (코스트: 6)
+[Turn 6, Step 19] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 0/6
+  Hand (5): Kel'Thuzad, Barrens Stablehand, Felfin Navigator, Soot Spewer, Grand Archivist
+  Field: Ravasaur Runt[2/2], Kobold Monk[3/4], Jungle Panther[4/2], Piloted Sky Golem[6/4]
+Opponent: Rexxar HP: 13, Mana: 3/6
+  Hand (4)
+  Field: Locust[1/1], Mad Scientist[2/2], Blowtorch Saboteur[3/4]
+[Turn 6, Step 20] Agent: 공격 - Kobold Monk[3/4] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Jungle Panther[4/2] -> Rexxar
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 공격 - Mad Scientist[2/2] -> Piloted Sky Golem
+[Turn 6, Step 22] Opponent: 공격 - Locust[1/1] -> Kobold Monk
+[Turn 6, Step 22] Opponent: 영웅 능력 사용
+[Turn 6, Step 22] Opponent: 공격 - Blowtorch Saboteur[3/4] -> Kobold Monk
+[Turn 6, Step 22] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 카드 플레이 - Barrens Stablehand (코스트: 7)
+[Turn 7, Step 24] Agent: 공격 - Ravasaur Runt[2/2] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/7
+  Hand (5): Kel'Thuzad, Felfin Navigator, Soot Spewer, Grand Archivist, Ancient Shade
+  Field: Ravasaur Runt[2/2], Jungle Panther[4/2], Piloted Sky Golem[6/2], Barrens Stablehand[4/4], Savage Combatant[5/4]
+Opponent: Rexxar HP: 4, Mana: 1/7
+  Hand (4)
+  Field: Blowtorch Saboteur[3/1], Piloted Shredder[4/3]
+[Turn 7, Step 25] Agent: 공격 - Jungle Panther[4/2] -> Rexxar
+
+--- Game State (Turn 7, Step 26) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 0/7
+  Hand (5): Kel'Thuzad, Felfin Navigator, Soot Spewer, Grand Archivist, Ancient Shade
+  Field: Ravasaur Runt[2/2], Jungle Panther[4/2], Piloted Sky Golem[6/2], Barrens Stablehand[4/4], Savage Combatant[5/4]
+Opponent: Rexxar HP: 0, Mana: 1/7
+  Hand (4)
+  Field: Blowtorch Saboteur[3/1], Piloted Shredder[4/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

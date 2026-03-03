@@ -1,0 +1,180 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Lowly Squire (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 공격 - Bloodsail Corsair[1/2] -> Jaina Proudmoore
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Captain's Parrot (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/2
+  Hand (5): Imprisoned Vilefiend, Barnes, Spellbender, Meat Wagon, Bloodsail Corsair
+  Field: Lowly Squire[1/2], Captain's Parrot[1/1]
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (4)
+  Field: Bloodsail Corsair[1/2]
+[Turn 2, Step 5] Agent: 공격 - Lowly Squire[1/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 카드 플레이 - Shattered Sun Cleric -> Bloodsail Corsair (코스트: 3)
+[Turn 2, Step 6] Opponent: 공격 - Bloodsail Corsair[2/3] -> Captain's Parrot
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 3, Step 8] Agent: 카드 플레이 - Bloodsail Corsair (코스트: 1)
+[Turn 3, Step 9] Agent: 공격 - Lowly Squire[1/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/3
+  Hand (4): Barnes, Spellbender, Meat Wagon, Onyxia
+  Field: Lowly Squire[1/2], Imprisoned Vilefiend[3/5], Bloodsail Corsair[1/2]
+Opponent: Rexxar HP: 28, Mana: 0/3
+  Hand (4)
+  Field: Bloodsail Corsair[2/2], Shattered Sun Cleric[3/2]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 공격 - Shattered Sun Cleric[3/2] -> Jaina Proudmoore
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Spellbender (코스트: 3)
+[Turn 4, Step 12] Agent: 카드 플레이 - Target Dummy (코스트: 0)
+[Turn 4, Step 13] Agent: 공격 - Lowly Squire[1/2] -> Rexxar
+[Turn 4, Step 14] Agent: 공격 - Bloodsail Corsair[1/2] -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/4
+  Hand (3): Barnes, Meat Wagon, Onyxia
+  Field: Lowly Squire[1/2], Imprisoned Vilefiend[3/5], Bloodsail Corsair[1/2], Target Dummy[0/2]
+Opponent: Rexxar HP: 26, Mana: 4/4
+  Hand (5)
+  Field: Bloodsail Corsair[2/2], Shattered Sun Cleric[3/2]
+[Turn 4, Step 15] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 15] Opponent: 공격 - Bloodsail Corsair[2/2] -> Target Dummy
+[Turn 4, Step 15] Opponent: 공격 - Shattered Sun Cleric[3/2] -> Jaina Proudmoore
+[Turn 4, Step 15] Opponent: 카드 플레이 - Twilight Drake (코스트: 4)
+[Turn 4, Step 15] Opponent: 턴 종료
+[Turn 5, Step 16] Agent: 카드 플레이 - Barnes (코스트: 5)
+[Turn 5, Step 17] Agent: 공격 - Lowly Squire[1/2] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Bloodsail Corsair
+[Turn 5, Step 19] Agent: 공격 - Bloodsail Corsair[1/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/5
+  Hand (3): Meat Wagon, Onyxia, Depth Charge
+  Field: Lowly Squire[1/2], Imprisoned Vilefiend[3/3], Bloodsail Corsair[1/2], Barnes[3/4], Imprisoned Vilefiend[1/1]
+Opponent: Rexxar HP: 24, Mana: 1/5
+  Hand (5)
+  Field: Shattered Sun Cleric[3/2], Twilight Drake[4/6]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 카드 플레이 - Recruiter (코스트: 5)
+[Turn 5, Step 20] Opponent: 공격 - Twilight Drake[4/6] -> Bloodsail Corsair
+[Turn 5, Step 20] Opponent: 공격 - Shattered Sun Cleric[3/2] -> Jaina Proudmoore
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Meat Wagon (코스트: 4)
+[Turn 6, Step 22] Agent: 카드 플레이 - Depth Charge (코스트: 1)
+[Turn 6, Step 23] Agent: 공격 - Lowly Squire[1/2] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Imprisoned Vilefiend[3/3] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/6
+  Hand (2): Onyxia, Imprisoned Vilefiend
+  Field: Lowly Squire[1/2], Imprisoned Vilefiend[3/3], Barnes[3/4], Imprisoned Vilefiend[1/1], Meat Wagon[1/4], Depth Charge[0/5]
+Opponent: Rexxar HP: 20, Mana: 1/6
+  Hand (5)
+  Field: Shattered Sun Cleric[3/2], Twilight Drake[4/5], Recruiter[5/4]
+[Turn 6, Step 25] Agent: 공격 - Barnes[3/4] -> Rexxar
+[Turn 6, Step 26] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 26] Opponent: 공격 - Twilight Drake[4/5] -> Depth Charge
+[Turn 6, Step 26] Opponent: 턴 종료
+[Turn 7, Step 27] Agent: 카드 플레이 - Imprisoned Vilefiend (코스트: 2)
+[Turn 7, Step 28] Agent: 카드 플레이 - Burrowing Scorpid -> Jaina Proudmoore (코스트: 4)
+[Turn 7, Step 29] Agent: 공격 - Violet Spellsword[1/6] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 1/7
+  Hand (1): Onyxia
+  Field: Imprisoned Vilefiend[1/1], Violet Spellsword[1/6], Imprisoned Vilefiend[3/5], Burrowing Scorpid[5/2]
+Opponent: Rexxar HP: 16, Mana: 7/7
+  Hand (6)
+[Turn 7, Step 30] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 30] Opponent: 카드 플레이 - Cyclopian Horror (코스트: 4)
+[Turn 7, Step 30] Opponent: 카드 플레이 - Jade Spirit (코스트: 4)
+[Turn 7, Step 30] Opponent: 턴 종료
+[Turn 8, Step 31] Agent: 카드 플레이 - Serpent Ward (코스트: 2)
+[Turn 8, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 8, Step 33] Agent: 공격 - Imprisoned Vilefiend[1/1] -> Cyclopian Horror
+[Turn 8, Step 34] Agent: 공격 - Violet Spellsword[1/6] -> Cyclopian Horror
+
+--- Game State (Turn 8, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 4/8
+  Hand (1): Onyxia
+  Field: Violet Spellsword[1/3], Imprisoned Vilefiend[3/5], Burrowing Scorpid[5/2], Serpent Ward[0/2]
+Opponent: Rexxar HP: 16, Mana: 0/8
+  Hand (5)
+  Field: Cyclopian Horror[3/4], Jade Spirit[2/3], Jade Golem[1/1]
+[Turn 8, Step 35] Agent: 공격 - Burrowing Scorpid[5/2] -> Cyclopian Horror
+[Turn 8, Step 36] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 36] Opponent: 턴 종료
+[Turn 9, Step 37] Agent: 카드 플레이 - Onyxia (코스트: 9)
+[Turn 9, Step 38] Agent: 공격 - Violet Spellsword[1/3] -> Rexxar
+[Turn 9, Step 39] Agent: 공격 - Imprisoned Vilefiend[3/5] -> Jade Spirit
+
+--- Game State (Turn 9, Step 40) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/9
+  Hand (1): Night Prowler
+  Field: Violet Spellsword[1/3], Imprisoned Vilefiend[3/3], Serpent Ward[0/2], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1]
+Opponent: Rexxar HP: 13, Mana: 9/9
+  Hand (6)
+  Field: Jade Golem[1/1]
+[Turn 9, Step 40] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 40] Opponent: 공격 - Jade Golem[1/1] -> Imprisoned Vilefiend
+[Turn 9, Step 40] Opponent: 영웅 능력 사용
+[Turn 9, Step 40] Opponent: 턴 종료
+[Turn 10, Step 41] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 42] Agent: 공격 - Violet Spellsword[1/3] -> Rexxar
+[Turn 10, Step 43] Agent: 공격 - Imprisoned Vilefiend[3/2] -> Rexxar
+[Turn 10, Step 44] Agent: 공격 - Whelp[1/1] -> Rexxar
+
+--- Game State (Turn 10, Step 45) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (2): Night Prowler, Oondasta
+  Field: Violet Spellsword[1/3], Imprisoned Vilefiend[3/2], Serpent Ward[0/2], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1]
+Opponent: Rexxar HP: 6, Mana: 8/10
+  Hand (7)
+[Turn 10, Step 45] Agent: 공격 - Onyxia[8/8] -> Rexxar
+
+--- Game State (Turn 10, Step 46) ---
+Agent: Jaina Proudmoore HP: 14, Mana: 8/10
+  Hand (2): Night Prowler, Oondasta
+  Field: Violet Spellsword[1/3], Imprisoned Vilefiend[3/2], Serpent Ward[0/2], Whelp[1/1], Onyxia[8/8], Whelp[1/1], Whelp[1/1]
+Opponent: Rexxar HP: 0, Mana: 8/10
+  Hand (7)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

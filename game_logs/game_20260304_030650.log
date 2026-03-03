@@ -1,0 +1,121 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Cogmaster (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Hidden Cache (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Ship's Cannon (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Evasive Wyrm, Manic Soulcaster, Transfer Student, Drakkari Trickster
+  Field: Cogmaster[1/2], Ship's Cannon[2/3]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+[Turn 2, Step 5] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Manic Soulcaster -> Cogmaster (코스트: 3)
+[Turn 3, Step 8] Agent: 카드 플레이 - Snowflipper Penguin (코스트: 0)
+[Turn 3, Step 9] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (3): Evasive Wyrm, Transfer Student, Drakkari Trickster
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1]
+Opponent: Rexxar HP: 28, Mana: 3/3
+  Hand (5)
+[Turn 3, Step 10] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 3, Step 11] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 11] Opponent: 카드 플레이 - C'Thun's Chosen (코스트: 4)
+[Turn 3, Step 11] Opponent: 턴 종료
+[Turn 4, Step 12] Agent: 카드 플레이 - Transfer Student (코스트: 2)
+[Turn 4, Step 13] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 4, Step 14] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+
+--- Game State (Turn 4, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/4
+  Hand (3): Evasive Wyrm, Drakkari Trickster, Toothy Chest
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1], Transfer Student[2/2]
+Opponent: Rexxar HP: 25, Mana: 0/4
+  Hand (5)
+  Field: C'Thun's Chosen[4/2]
+[Turn 4, Step 15] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 4, Step 16] Agent: 공격 - Manic Soulcaster[3/4] -> Rexxar
+[Turn 4, Step 17] Agent: 공격 - Snowflipper Penguin[1/1] -> Rexxar
+[Turn 4, Step 18] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 18] Opponent: 카드 플레이 - Carnivorous Cube -> C'Thun's Chosen (코스트: 5)
+[Turn 4, Step 18] Opponent: 턴 종료
+[Turn 5, Step 19] Agent: 카드 플레이 - Drakkari Trickster (코스트: 3)
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 2/5
+  Hand (4): Evasive Wyrm, Toothy Chest, Octosari, Rolling Fireball
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1], Transfer Student[2/2], Drakkari Trickster[3/4]
+Opponent: Rexxar HP: 19, Mana: 0/5
+  Hand (6)
+  Field: Carnivorous Cube[6/8]
+[Turn 5, Step 20] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 5, Step 21] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+[Turn 5, Step 22] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+[Turn 5, Step 23] Agent: 공격 - Manic Soulcaster[3/4] -> Rexxar
+[Turn 5, Step 24] Agent: 공격 - Snowflipper Penguin[1/1] -> Rexxar
+
+--- Game State (Turn 5, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/5
+  Hand (4): Evasive Wyrm, Toothy Chest, Octosari, Rolling Fireball
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1], Transfer Student[2/2], Drakkari Trickster[3/4]
+Opponent: Rexxar HP: 12, Mana: 0/5
+  Hand (6)
+  Field: Carnivorous Cube[6/8]
+[Turn 5, Step 25] Agent: 공격 - Transfer Student[2/2] -> Rexxar
+[Turn 5, Step 26] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 26] Opponent: 카드 플레이 - Spawn of N'Zoth (코스트: 3)
+[Turn 5, Step 26] Opponent: 턴 종료
+[Turn 6, Step 27] Agent: 카드 플레이 - Evasive Wyrm (코스트: 6)
+[Turn 6, Step 28] Agent: 공격 - Cogmaster[1/2] -> Rexxar
+[Turn 6, Step 29] Agent: 공격 - Ship's Cannon[2/3] -> Rexxar
+
+--- Game State (Turn 6, Step 30) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (4): Toothy Chest, Octosari, Rolling Fireball, Pyros
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1], Transfer Student[2/2], Drakkari Trickster[3/4], Evasive Wyrm[5/3]
+Opponent: Rexxar HP: 7, Mana: 3/6
+  Hand (6)
+  Field: Carnivorous Cube[6/8], Spawn of N'Zoth[2/2]
+[Turn 6, Step 30] Agent: 공격 - Manic Soulcaster[3/4] -> Rexxar
+[Turn 6, Step 31] Agent: 공격 - Snowflipper Penguin[1/1] -> Rexxar
+[Turn 6, Step 32] Agent: 공격 - Transfer Student[2/2] -> Rexxar
+[Turn 6, Step 33] Agent: 공격 - Drakkari Trickster[3/4] -> Rexxar
+
+--- Game State (Turn 6, Step 34) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 0/6
+  Hand (4): Toothy Chest, Octosari, Rolling Fireball, Pyros
+  Field: Cogmaster[1/2], Ship's Cannon[2/3], Manic Soulcaster[3/4], Snowflipper Penguin[1/1], Transfer Student[2/2], Drakkari Trickster[3/4], Evasive Wyrm[5/3]
+Opponent: Rexxar HP: 0, Mana: 3/6
+  Hand (6)
+  Field: Carnivorous Cube[6/8], Spawn of N'Zoth[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

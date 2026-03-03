@@ -1,0 +1,154 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Infectious Sporeling (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Shooting Star -> Infectious Sporeling (코스트: 1)
+[Turn 2, Step 3] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Small-Time Buccaneer (코스트: 1)
+[Turn 2, Step 4] Opponent: 공격 - Infectious Sporeling[1/2] -> Jaina Proudmoore
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/3
+  Hand (4): Arcane Amplifier, Dwarven Archaeologist, Khadgar, North Sea Kraken
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1]
+Opponent: Rexxar HP: 29, Mana: 1/2
+  Hand (5)
+  Field: Infectious Sporeling[1/2], Small-Time Buccaneer[1/1]
+[Turn 3, Step 5] Agent: 카드 플레이 - Arcane Amplifier (코스트: 3)
+[Turn 3, Step 6] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 3, Step 7] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/4
+  Hand (3): Dwarven Archaeologist, Khadgar, North Sea Kraken
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Arcane Amplifier[2/5], Blackwald Pixie[3/4]
+Opponent: Rexxar HP: 27, Mana: 3/3
+  Hand (6)
+  Field: Infectious Sporeling[1/2], Small-Time Buccaneer[1/1]
+[Turn 4, Step 10] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 4, Step 11] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Scorp-o-matic -> Small-Time Buccaneer (코스트: 2)
+[Turn 4, Step 13] Opponent: 공격 - Infectious Sporeling[1/2] -> Blackwald Pixie
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Dwarven Archaeologist (코스트: 2)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 3/5
+  Hand (3): Khadgar, North Sea Kraken, Pit Crocolisk
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3]
+Opponent: Rexxar HP: 23, Mana: 2/4
+  Hand (6)
+  Field: Scorp-o-matic[1/2]
+[Turn 5, Step 15] Agent: 카드 플레이 - Khadgar (코스트: 2)
+[Turn 5, Step 16] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Infectious Sporeling[1/1] -> Rexxar
+[Turn 5, Step 18] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+[Turn 5, Step 19] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+
+--- Game State (Turn 5, Step 20) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/5
+  Hand (2): North Sea Kraken, Pit Crocolisk
+  Field: Infectious Sporeling[1/2], Infectious Sporeling[1/1], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2]
+Opponent: Rexxar HP: 18, Mana: 2/4
+  Hand (6)
+  Field: Scorp-o-matic[1/2]
+[Turn 5, Step 20] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 20] Opponent: 공격 - Scorp-o-matic[1/2] -> Infectious Sporeling
+[Turn 5, Step 20] Opponent: 턴 종료
+[Turn 6, Step 21] Agent: 카드 플레이 - Backstreet Leper (코스트: 3)
+[Turn 6, Step 22] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 23] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 6, Step 24] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 6, Step 25) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 1/6
+  Hand (2): North Sea Kraken, Pit Crocolisk
+  Field: Infectious Sporeling[1/2], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2], Backstreet Leper[3/1]
+Opponent: Rexxar HP: 15, Mana: 5/5
+  Hand (7)
+  Field: Infectious Sporeling[1/2]
+[Turn 6, Step 25] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 6, Step 26] Agent: 공격 - Dwarven Archaeologist[2/3] -> Rexxar
+[Turn 6, Step 27] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 6, Step 28] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 28] Opponent: 공격 - Infectious Sporeling[1/2] -> Infectious Sporeling
+[Turn 6, Step 28] Opponent: 카드 플레이 - Goboglide Tech (코스트: 3)
+[Turn 6, Step 28] Opponent: 영웅 능력 사용
+[Turn 6, Step 28] Opponent: 턴 종료
+[Turn 7, Step 29] Agent: 공격 - Backstreet Leper[3/1] -> Goboglide Tech
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 27, Mana: 7/7
+  Hand (3): North Sea Kraken, Pit Crocolisk, Mischief Maker
+  Field: Infectious Sporeling[1/2], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2]
+Opponent: Rexxar HP: 10, Mana: 1/6
+  Hand (7)
+  Field: Infectious Sporeling[1/1]
+[Turn 7, Step 30] Agent: 카드 플레이 - Mischief Maker (코스트: 3)
+[Turn 7, Step 31] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 32] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+[Turn 7, Step 33] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+[Turn 7, Step 34] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+
+--- Game State (Turn 7, Step 35) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 2/7
+  Hand (2): North Sea Kraken, Pit Crocolisk
+  Field: Infectious Sporeling[1/2], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2], Mischief Maker[3/3]
+Opponent: Rexxar HP: 6, Mana: 1/6
+  Hand (7)
+  Field: Infectious Sporeling[1/1]
+[Turn 7, Step 35] Agent: 공격 - Dwarven Archaeologist[2/3] -> Rexxar
+[Turn 7, Step 36] Agent: 공격 - Khadgar[2/2] -> Rexxar
+[Turn 7, Step 37] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 37] Opponent: 공격 - Infectious Sporeling[1/1] -> Infectious Sporeling
+[Turn 7, Step 37] Opponent: 턴 종료
+[Turn 8, Step 38] Agent: 카드 플레이 - Pit Crocolisk -> Jaina Proudmoore (코스트: 8)
+[Turn 8, Step 39] Agent: 공격 - Infectious Sporeling[1/2] -> Rexxar
+
+--- Game State (Turn 8, Step 40) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (2): North Sea Kraken, Salty Dog
+  Field: Infectious Sporeling[1/2], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2], Mischief Maker[3/3], Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 1, Mana: 7/7
+  Hand (8)
+[Turn 8, Step 40] Agent: 공격 - Arcane Amplifier[2/5] -> Rexxar
+
+--- Game State (Turn 8, Step 41) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (2): North Sea Kraken, Salty Dog
+  Field: Infectious Sporeling[1/2], Arcane Amplifier[2/5], Infectious Sporeling[1/2], Dwarven Archaeologist[2/3], Khadgar[2/2], Mischief Maker[3/3], Pit Crocolisk[5/6]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (8)
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

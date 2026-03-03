@@ -1,0 +1,163 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - Skaterbot (코스트: 1)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Spellshifter (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 공격 - Skaterbot[1/1] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 카드 플레이 - Goldshire Footman (코스트: 1)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 3, Step 4] Agent: 공격 - Spellshifter[1/4] -> Goldshire Footman
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/3
+  Hand (4): Explodinator, Cone of Cold, Infested Tauren, Blackwald Pixie
+  Field: Spellshifter[1/3], Mad Bomber[3/2]
+Opponent: Rexxar HP: 29, Mana: 0/2
+  Hand (3)
+  Field: Skaterbot[1/1], Bloodsail Raider[2/3]
+[Turn 3, Step 5] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 5] Opponent: 영웅 능력 사용
+[Turn 3, Step 5] Opponent: 공격 - Skaterbot[1/1] -> Spellshifter
+[Turn 3, Step 5] Opponent: 공격 - Bloodsail Raider[2/3] -> Jaina Proudmoore
+[Turn 3, Step 5] Opponent: 턴 종료
+[Turn 4, Step 6] Agent: 카드 플레이 - Explodinator (코스트: 4)
+[Turn 4, Step 7] Agent: 공격 - Spellshifter[1/2] -> Rexxar
+[Turn 4, Step 8] Agent: 공격 - Mad Bomber[3/2] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 공격 - Bloodsail Raider[2/3] -> Goblin Bomb
+[Turn 4, Step 9] Opponent: 영웅 능력 사용
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 5/5
+  Hand (5): Cone of Cold, Infested Tauren, Blackwald Pixie, Learn Draconic, Ragnaros the Firelord
+  Field: Spellshifter[1/2], Mad Bomber[3/2], Goblin Bomb[0/2], Explodinator[3/2]
+Opponent: Rexxar HP: 23, Mana: 2/4
+  Hand (5)
+  Field: Bloodsail Raider[2/3]
+[Turn 5, Step 10] Agent: 카드 플레이 - Cone of Cold -> Spellshifter (코스트: 4)
+[Turn 5, Step 11] Agent: 카드 플레이 - Learn Draconic (코스트: 1)
+[Turn 5, Step 12] Agent: 공격 - Explodinator[3/2] -> Rexxar
+[Turn 5, Step 13] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 13] Opponent: 카드 플레이 - Razorfen Hunter (코스트: 3)
+[Turn 5, Step 13] Opponent: 공격 - Bloodsail Raider[2/3] -> Goblin Bomb
+[Turn 5, Step 13] Opponent: 턴 종료
+[Turn 6, Step 14] Agent: 카드 플레이 - Infested Tauren (코스트: 4)
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/6
+  Hand (3): Blackwald Pixie, Ragnaros the Firelord, Platebreaker
+  Field: Explodinator[3/2], Infested Tauren[2/3]
+Opponent: Rexxar HP: 18, Mana: 2/5
+  Hand (5)
+  Field: Bloodsail Raider[2/3], Razorfen Hunter[2/3], Boar[1/1]
+[Turn 6, Step 15] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 16] Agent: 공격 - Explodinator[3/2] -> Rexxar
+[Turn 6, Step 17] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 17] Opponent: 카드 플레이 - Burly Rockjaw Trogg (코스트: 4)
+[Turn 6, Step 17] Opponent: 공격 - Razorfen Hunter[2/3] -> Infested Tauren
+[Turn 6, Step 17] Opponent: 공격 - Bloodsail Raider[2/3] -> Infested Tauren
+[Turn 6, Step 17] Opponent: 영웅 능력 사용
+[Turn 6, Step 17] Opponent: 공격 - Boar[1/1] -> Explodinator
+[Turn 6, Step 17] Opponent: 턴 종료
+[Turn 7, Step 18] Agent: 카드 플레이 - Blackwald Pixie (코스트: 3)
+[Turn 7, Step 19] Agent: 카드 플레이 - Licensed Adventurer (코스트: 2)
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 19, Mana: 2/7
+  Hand (2): Ragnaros the Firelord, Platebreaker
+  Field: Explodinator[3/1], Slime[2/2], Blackwald Pixie[3/4], Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 15, Mana: 0/6
+  Hand (5)
+  Field: Bloodsail Raider[2/1], Razorfen Hunter[2/1], Burly Rockjaw Trogg[3/5]
+[Turn 7, Step 20] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 21] Agent: 공격 - Explodinator[3/1] -> Rexxar
+[Turn 7, Step 22] Agent: 공격 - Slime[2/2] -> Rexxar
+[Turn 7, Step 23] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 23] Opponent: 공격 - Razorfen Hunter[2/1] -> Slime
+[Turn 7, Step 23] Opponent: 카드 플레이 - Ancient Shade (코스트: 4)
+[Turn 7, Step 23] Opponent: 공격 - Bloodsail Raider[2/1] -> Explodinator
+[Turn 7, Step 23] Opponent: 카드 플레이 - Plated Beetle (코스트: 2)
+[Turn 7, Step 23] Opponent: 공격 - Burly Rockjaw Trogg[3/5] -> Blackwald Pixie
+[Turn 7, Step 23] Opponent: 턴 종료
+[Turn 8, Step 24] Agent: 카드 플레이 - Splitting Image (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 5/8
+  Hand (2): Ragnaros the Firelord, Platebreaker
+  Field: Blackwald Pixie[3/1], Licensed Adventurer[3/2]
+Opponent: Rexxar HP: 10, Mana: 1/7
+  Hand (4)
+  Field: Burly Rockjaw Trogg[5/2], Ancient Shade[7/4], Plated Beetle[2/3]
+[Turn 8, Step 25] Agent: 카드 플레이 - Platebreaker (코스트: 5)
+[Turn 8, Step 26] Agent: 공격 - Blackwald Pixie[3/1] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Licensed Adventurer[3/2] -> Rexxar
+[Turn 8, Step 28] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 28] Opponent: 공격 - Plated Beetle[2/3] -> Jaina Proudmoore
+[Turn 8, Step 28] Opponent: 카드 플레이 - Marsh Drake (코스트: 3)
+[Turn 8, Step 28] Opponent: 카드 플레이 - Booty Bay Bookie (코스트: 2)
+[Turn 8, Step 28] Opponent: 공격 - Ancient Shade[7/4] -> Drakeslayer
+[Turn 8, Step 28] Opponent: 카드 플레이 - Whirliglider (코스트: 2)
+[Turn 8, Step 28] Opponent: 공격 - Burly Rockjaw Trogg[5/2] -> Licensed Adventurer
+[Turn 8, Step 28] Opponent: 턴 종료
+[Turn 9, Step 29] Agent: 공격 - Drakeslayer[2/1] -> Booty Bay Bookie
+
+--- Game State (Turn 9, Step 30) ---
+Agent: Jaina Proudmoore HP: 16, Mana: 9/9
+  Hand (3): Ragnaros the Firelord, The Coin, Hobgoblin
+  Field: Blackwald Pixie[3/1], Platebreaker[5/5]
+Opponent: Rexxar HP: 4, Mana: 1/8
+  Hand (2)
+  Field: Plated Beetle[2/3], Marsh Drake[5/4], Whirliglider[2/1], Goblin Bomb[0/2]
+[Turn 9, Step 30] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 9, Step 31] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 9, Step 32] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 9, Step 33] Agent: 공격 - Blackwald Pixie[3/1] -> Rexxar
+[Turn 9, Step 34] Agent: 공격 - Platebreaker[5/5] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/9
+  Hand (1): Hobgoblin
+  Field: Blackwald Pixie[3/1], Platebreaker[5/5], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (2)
+  Field: Plated Beetle[2/3], Marsh Drake[5/4], Whirliglider[2/1], Goblin Bomb[0/2]
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 15, Mana: 0/9
+  Hand (1): Hobgoblin
+  Field: Blackwald Pixie[3/1], Platebreaker[5/5], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (2)
+  Field: Plated Beetle[2/3], Marsh Drake[5/4], Whirliglider[2/1], Goblin Bomb[0/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

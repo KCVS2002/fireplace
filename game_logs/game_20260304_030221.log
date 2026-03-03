@@ -1,0 +1,121 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Tainted Zealot (코스트: 2)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - Crazed Alchemist -> Tainted Zealot (코스트: 2)
+[Turn 2, Step 2] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Golden Scarab (코스트: 3)
+[Turn 3, Step 4] Agent: 선택 - Mechanical Yeti
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 카드 플레이 - Rustsworn Initiate (코스트: 2)
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 4/4
+  Hand (6): Bluegill Warrior, Felfin Navigator, Windfury Harpy, Pit Crocolisk, Mechanical Yeti, Arcane Artificer
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2]
+Opponent: Rexxar HP: 30, Mana: 1/3
+  Hand (5)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/2]
+[Turn 4, Step 5] Agent: 카드 플레이 - Bluegill Warrior (코스트: 2)
+[Turn 4, Step 6] Agent: 카드 플레이 - Arcane Artificer (코스트: 1)
+[Turn 4, Step 7] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 4, Step 8] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+[Turn 4, Step 9] Agent: 공격 - Bluegill Warrior[2/1] -> Rexxar
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/4
+  Hand (4): Felfin Navigator, Windfury Harpy, Pit Crocolisk, Mechanical Yeti
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[2/1], Arcane Artificer[1/2]
+Opponent: Rexxar HP: 25, Mana: 1/3
+  Hand (5)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/2]
+[Turn 4, Step 10] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 10] Opponent: 턴 종료
+[Turn 5, Step 11] Agent: 카드 플레이 - Felfin Navigator (코스트: 4)
+[Turn 5, Step 12] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+[Turn 5, Step 14] Agent: 공격 - Bluegill Warrior[3/2] -> Rexxar
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 1/5
+  Hand (4): Windfury Harpy, Pit Crocolisk, Mechanical Yeti, Igneous Elemental
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[3/2], Arcane Artificer[1/2], Felfin Navigator[4/4]
+Opponent: Rexxar HP: 19, Mana: 4/4
+  Hand (6)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/2]
+[Turn 5, Step 15] Agent: 공격 - Arcane Artificer[1/2] -> Rexxar
+[Turn 5, Step 16] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 16] Opponent: 턴 종료
+[Turn 6, Step 17] Agent: 카드 플레이 - Windfury Harpy (코스트: 6)
+[Turn 6, Step 18] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 6, Step 19] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/6
+  Hand (4): Pit Crocolisk, Mechanical Yeti, Igneous Elemental, Small-Time Buccaneer
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[3/2], Arcane Artificer[1/2], Felfin Navigator[4/4], Windfury Harpy[4/5]
+Opponent: Rexxar HP: 15, Mana: 5/5
+  Hand (7)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/2]
+[Turn 6, Step 20] Agent: 공격 - Bluegill Warrior[3/2] -> Rexxar
+[Turn 6, Step 21] Agent: 공격 - Arcane Artificer[1/2] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Felfin Navigator[4/4] -> Rexxar
+[Turn 6, Step 23] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 23] Opponent: 공격 - Rustsworn Initiate[2/2] -> Arcane Artificer
+[Turn 6, Step 23] Opponent: 턴 종료
+[Turn 7, Step 24] Agent: 카드 플레이 - Mechanical Yeti (코스트: 4)
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/7
+  Hand (4): Pit Crocolisk, Igneous Elemental, Small-Time Buccaneer, Infested Goblin
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[3/2], Felfin Navigator[4/4], Windfury Harpy[4/5], Mechanical Yeti[4/5]
+Opponent: Rexxar HP: 7, Mana: 6/6
+  Hand (8)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/1]
+[Turn 7, Step 25] Agent: 카드 플레이 - Igneous Elemental (코스트: 3)
+[Turn 7, Step 26] Agent: 공격 - Tainted Zealot[1/1] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Golden Scarab[2/2] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Bluegill Warrior[3/2] -> Rexxar
+[Turn 7, Step 29] Agent: 공격 - Felfin Navigator[4/4] -> Rexxar
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (3): Pit Crocolisk, Small-Time Buccaneer, Infested Goblin
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[3/2], Felfin Navigator[4/4], Windfury Harpy[4/5], Mechanical Yeti[4/5], Igneous Elemental[2/3]
+Opponent: Rexxar HP: 0, Mana: 6/6
+  Hand (8)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/1]
+
+--- Game State (Turn 7, Step 30) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (3): Pit Crocolisk, Small-Time Buccaneer, Infested Goblin
+  Field: Tainted Zealot[1/1], Golden Scarab[2/2], Bluegill Warrior[3/2], Felfin Navigator[4/4], Windfury Harpy[4/5], Mechanical Yeti[4/5], Igneous Elemental[2/3]
+Opponent: Rexxar HP: 0, Mana: 6/6
+  Hand (8)
+  Field: Crazed Alchemist[2/2], Rustsworn Initiate[2/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

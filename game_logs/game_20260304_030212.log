@@ -1,0 +1,133 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Wax Elemental (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Incanter's Flow (코스트: 2)
+[Turn 2, Step 3] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 3] Opponent: 카드 플레이 - Freezing Trap (코스트: 2)
+[Turn 2, Step 3] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 2, Step 3] Opponent: 턴 종료
+[Turn 3, Step 4] Agent: 카드 플레이 - Shattered Sun Cleric -> Wax Elemental (코스트: 3)
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/3
+  Hand (3): Ragnaros the Firelord, Kooky Chemist, The Lich King
+  Field: Wax Elemental[1/3], Shattered Sun Cleric[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (5)
+[Turn 3, Step 5] Agent: 공격 - Wax Elemental[1/3] -> Rexxar
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 영웅 능력 사용
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Kooky Chemist -> Shattered Sun Cleric (코스트: 4)
+[Turn 4, Step 8] Agent: 공격 - Shattered Sun Cleric[2/3] -> Rexxar
+[Turn 4, Step 9] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 9] Opponent: 영웅 능력 사용
+[Turn 4, Step 9] Opponent: 카드 플레이 - Wretched Tiller (코스트: 1)
+[Turn 4, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 5/5
+  Hand (5): Ragnaros the Firelord, The Lich King, Wax Elemental, Wyrmrest Purifier, Dragonling Mechanic
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4]
+Opponent: Rexxar HP: 28, Mana: 1/4
+  Hand (6)
+  Field: Wretched Tiller[1/1]
+[Turn 5, Step 10] Agent: 카드 플레이 - Wax Elemental (코스트: 3)
+[Turn 5, Step 11] Agent: 카드 플레이 - Wyrmrest Purifier (코스트: 2)
+[Turn 5, Step 12] Agent: 공격 - Shattered Sun Cleric[2/3] -> Rexxar
+[Turn 5, Step 13] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+[Turn 5, Step 14] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 14] Opponent: 카드 플레이 - Friendly Bartender (코스트: 2)
+[Turn 5, Step 14] Opponent: 공격 - Wretched Tiller[1/1] -> Wax Elemental
+[Turn 5, Step 14] Opponent: 카드 플레이 - Blazing Battlemage (코스트: 1)
+[Turn 5, Step 14] Opponent: 카드 플레이 - Elven Archer -> Friendly Bartender (코스트: 1)
+[Turn 5, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 6/6
+  Hand (4): Ragnaros the Firelord, The Lich King, Dragonling Mechanic, Duplicate
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4], Wax Elemental[0/2], Wyrmrest Purifier[3/2]
+Opponent: Rexxar HP: 23, Mana: 1/5
+  Hand (4)
+  Field: Wretched Tiller[1/1], Friendly Bartender[2/2], Blazing Battlemage[2/2], Elven Archer[1/1]
+[Turn 6, Step 15] Agent: 카드 플레이 - Dragonling Mechanic (코스트: 4)
+[Turn 6, Step 16] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 17] Agent: 공격 - Shattered Sun Cleric[2/3] -> Rexxar
+[Turn 6, Step 18] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+[Turn 6, Step 19] Agent: 공격 - Wyrmrest Purifier[3/2] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 0/6
+  Hand (3): Ragnaros the Firelord, The Lich King, Duplicate
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4], Wax Elemental[0/2], Wyrmrest Purifier[3/2], Dragonling Mechanic[2/4], Mechanical Dragonling[2/1]
+Opponent: Rexxar HP: 14, Mana: 1/5
+  Hand (4)
+  Field: Wretched Tiller[1/1], Friendly Bartender[2/2], Blazing Battlemage[2/2], Elven Archer[1/1]
+[Turn 6, Step 20] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 20] Opponent: 공격 - Blazing Battlemage[2/2] -> Wax Elemental
+[Turn 6, Step 20] Opponent: 턴 종료
+[Turn 7, Step 21] Agent: 공격 - Mechanical Dragonling[2/1] -> Elven Archer
+[Turn 7, Step 22] Agent: 카드 플레이 - Duplicate (코스트: 3)
+[Turn 7, Step 23] Agent: 카드 플레이 - Ancient Mysteries (코스트: 2)
+[Turn 7, Step 24] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/7
+  Hand (2): Ragnaros the Firelord, The Lich King
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4], Wyrmrest Purifier[3/2], Dragonling Mechanic[2/4]
+Opponent: Rexxar HP: 15, Mana: 6/6
+  Hand (5)
+  Field: Wretched Tiller[1/1], Friendly Bartender[2/2], Blazing Battlemage[2/2]
+[Turn 7, Step 25] Agent: 공격 - Shattered Sun Cleric[2/3] -> Rexxar
+[Turn 7, Step 26] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+[Turn 7, Step 27] Agent: 공격 - Wyrmrest Purifier[3/2] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Dragonling Mechanic[2/4] -> Rexxar
+[Turn 7, Step 29] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 29] Opponent: 공격 - Blazing Battlemage[2/2] -> Jaina Proudmoore
+[Turn 7, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 8/8
+  Hand (3): Ragnaros the Firelord, The Lich King, Deep Freeze
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4], Wyrmrest Purifier[3/2], Dragonling Mechanic[2/4]
+Opponent: Rexxar HP: 5, Mana: 7/7
+  Hand (6)
+  Field: Wretched Tiller[1/1], Friendly Bartender[2/2], Blazing Battlemage[2/2]
+[Turn 8, Step 30] Agent: 공격 - Dragonling Mechanic[2/4] -> Wretched Tiller
+[Turn 8, Step 31] Agent: 카드 플레이 - Ragnaros the Firelord (코스트: 8)
+[Turn 8, Step 32] Agent: 공격 - Shattered Sun Cleric[2/3] -> Rexxar
+[Turn 8, Step 33] Agent: 공격 - Kooky Chemist[4/4] -> Rexxar
+
+--- Game State (Turn 8, Step 34) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 0/8
+  Hand (2): The Lich King, Deep Freeze
+  Field: Shattered Sun Cleric[2/3], Kooky Chemist[4/4], Wyrmrest Purifier[3/2], Dragonling Mechanic[2/3], Ragnaros the Firelord[8/8]
+Opponent: Rexxar HP: 0, Mana: 7/7
+  Hand (6)
+  Field: Friendly Bartender[2/2], Blazing Battlemage[2/2]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

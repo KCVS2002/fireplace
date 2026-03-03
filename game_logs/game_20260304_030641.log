@@ -1,0 +1,173 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Injured Kvaldir (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Mogu Cultist (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Ancient Watcher (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Injured Kvaldir[2/1] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 공격 - Mogu Cultist[1/1] -> Injured Kvaldir
+[Turn 2, Step 4] Opponent: 카드 플레이 - Mad Bomber (코스트: 2)
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 3/3
+  Hand (4): Body Wrapper, Flame Leviathan, Ticking Abomination, The Black Knight
+  Field: Ancient Watcher[4/3]
+Opponent: Rexxar HP: 25, Mana: 0/2
+  Hand (4)
+  Field: Mad Bomber[3/2]
+[Turn 3, Step 5] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 6] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 6] Opponent: 공격 - Mad Bomber[3/2] -> Jaina Proudmoore
+[Turn 3, Step 6] Opponent: 턴 종료
+[Turn 4, Step 7] Agent: 카드 플레이 - Body Wrapper (코스트: 4)
+[Turn 4, Step 8] Agent: 선택 - Injured Kvaldir
+[Turn 4, Step 8] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 8] Opponent: 공격 - Mad Bomber[3/2] -> Body Wrapper
+[Turn 4, Step 8] Opponent: 턴 종료
+[Turn 5, Step 9] Agent: 카드 플레이 - Ticking Abomination (코스트: 4)
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 1/5
+  Hand (4): Flame Leviathan, The Black Knight, Linecracker, Arcane Keysmith
+  Field: Ancient Watcher[4/3], Body Wrapper[4/1], Ticking Abomination[5/6]
+Opponent: Rexxar HP: 25, Mana: 4/4
+  Hand (6)
+[Turn 5, Step 10] Agent: 공격 - Body Wrapper[4/1] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 카드 플레이 - Hunting Party (코스트: 5)
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - The Black Knight (코스트: 6)
+[Turn 6, Step 13] Agent: 공격 - Body Wrapper[4/1] -> Rexxar
+[Turn 6, Step 14] Agent: 공격 - Ticking Abomination[5/6] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 0/6
+  Hand (4): Flame Leviathan, Linecracker, Arcane Keysmith, Unstable Portal
+  Field: Ancient Watcher[4/3], Body Wrapper[4/1], Ticking Abomination[5/6], The Black Knight[4/5]
+Opponent: Rexxar HP: 12, Mana: 0/5
+  Hand (6)
+[Turn 6, Step 15] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 15] Opponent: 카드 플레이 - Second-Rate Bruiser (코스트: 3)
+[Turn 6, Step 15] Opponent: 영웅 능력 사용
+[Turn 6, Step 15] Opponent: 턴 종료
+[Turn 7, Step 16] Agent: 카드 플레이 - Flame Leviathan (코스트: 7)
+[Turn 7, Step 17] Agent: 공격 - Body Wrapper[4/1] -> Second-Rate Bruiser
+[Turn 7, Step 18] Agent: 공격 - Ticking Abomination[5/6] -> Second-Rate Bruiser
+[Turn 7, Step 19] Agent: 공격 - The Black Knight[4/5] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 0/7
+  Hand (4): Linecracker, Arcane Keysmith, Unstable Portal, Bull Dozer
+  Field: Ancient Watcher[4/3], Ticking Abomination[5/2], The Black Knight[4/5], Flame Leviathan[7/7]
+Opponent: Rexxar HP: 8, Mana: 1/6
+  Hand (6)
+[Turn 7, Step 20] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 20] Opponent: 카드 플레이 - Siamat (코스트: 7)
+[Turn 7, Step 20] Opponent: 선택 - Siamat's Heart
+[Turn 7, Step 20] Opponent: 선택 - Siamat's Speed
+[Turn 7, Step 20] Opponent: 턴 종료
+[Turn 8, Step 21] Agent: 카드 플레이 - Sandbinder (코스트: 4)
+[Turn 8, Step 22] Agent: 카드 플레이 - Arcane Keysmith (코스트: 4)
+[Turn 8, Step 23] Agent: 선택 - Effigy
+[Turn 8, Step 23] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 23] Opponent: 카드 플레이 - Piloted Shredder (코스트: 4)
+[Turn 8, Step 23] Opponent: 공격 - Siamat[6/6] -> Ticking Abomination
+[Turn 8, Step 23] Opponent: 카드 플레이 - Marked Shot -> Flame Leviathan (코스트: 4)
+[Turn 8, Step 23] Opponent: 선택 - Pack Tactics
+[Turn 8, Step 23] Opponent: 턴 종료
+[Turn 9, Step 24] Agent: 카드 플레이 - Linecracker (코스트: 7)
+
+--- Game State (Turn 9, Step 25) ---
+Agent: Jaina Proudmoore HP: 22, Mana: 2/9
+  Hand (4): Unstable Portal, Bull Dozer, Scrapyard Colossus, Dragonslayer
+  Field: Eager Underling[2/2], Linecracker[5/10]
+Opponent: Rexxar HP: 8, Mana: 0/8
+  Hand (6)
+  Field: Siamat[6/1], Piloted Shredder[4/3]
+[Turn 9, Step 25] Agent: 카드 플레이 - Unstable Portal (코스트: 2)
+[Turn 9, Step 26] Agent: 카드 플레이 - Envoy of Lazul (코스트: 0)
+[Turn 9, Step 27] Agent: 선택 - Scaleworm
+[Turn 9, Step 27] Agent: 턴 종료
+
+[Turn 9] === Opponent's Turn ===
+[Turn 9, Step 27] Opponent: 카드 플레이 - Genn Greymane (코스트: 6)
+[Turn 9, Step 27] Opponent: 영웅 능력 사용
+[Turn 9, Step 27] Opponent: 공격 - Piloted Shredder[4/3] -> Eager Underling
+[Turn 9, Step 27] Opponent: 공격 - Siamat[6/1] -> Envoy of Lazul
+[Turn 9, Step 27] Opponent: 카드 플레이 - Smuggler's Crate (코스트: 1)
+[Turn 9, Step 27] Opponent: 턴 종료
+[Turn 10, Step 28] Agent: 카드 플레이 - Bull Dozer (코스트: 9)
+[Turn 10, Step 29] Agent: 공격 - Linecracker[7/12] -> Rexxar
+
+--- Game State (Turn 10, Step 30) ---
+Agent: Jaina Proudmoore HP: 20, Mana: 1/10
+  Hand (3): Scrapyard Colossus, Dragonslayer, Big-Time Racketeer
+  Field: Linecracker[7/12], Bull Dozer[9/7]
+Opponent: Rexxar HP: 1, Mana: 0/9
+  Hand (5)
+  Field: Piloted Shredder[4/1], Genn Greymane[6/5]
+[Turn 10, Step 30] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 30] Opponent: 공격 - Piloted Shredder[4/1] -> Linecracker
+[Turn 10, Step 30] Opponent: 공격 - Genn Greymane[6/5] -> Bull Dozer
+[Turn 10, Step 30] Opponent: 카드 플레이 - Crushing Walls (코스트: 7)
+[Turn 10, Step 30] Opponent: 카드 플레이 - Pack Tactics (코스트: 2)
+[Turn 10, Step 30] Opponent: 턴 종료
+[Turn 10, Step 31] Agent: 카드 플레이 - Master of Ceremonies (코스트: 3)
+[Turn 10, Step 32] Agent: 카드 플레이 - Dragonslayer (코스트: 3)
+[Turn 10, Step 33] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 10, Step 34] Agent: 턴 종료
+
+[Turn 10] === Opponent's Turn ===
+[Turn 10, Step 34] Opponent: 카드 플레이 - Darkscale Healer (코스트: 5)
+[Turn 10, Step 34] Opponent: 영웅 능력 사용
+[Turn 10, Step 34] Opponent: 턴 종료
+
+--- Game State (Turn 10, Step 35) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 10/10
+  Hand (3): Scrapyard Colossus, Big-Time Racketeer, Dragon Breeder
+  Field: Master of Ceremonies[4/2], Dragonslayer[4/3]
+Opponent: Rexxar HP: 3, Mana: 3/10
+  Hand (5)
+  Field: Nat Pagle[0/4], Darkscale Healer[4/5]
+[Turn 10, Step 35] Agent: 카드 플레이 - Scrapyard Colossus (코스트: 10)
+[Turn 10, Step 36] Agent: 공격 - Master of Ceremonies[4/2] -> Rexxar
+
+--- Game State (Turn 10, Step 37) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 0/10
+  Hand (2): Big-Time Racketeer, Dragon Breeder
+  Field: Master of Ceremonies[4/2], Dragonslayer[4/3], Scrapyard Colossus[7/7]
+Opponent: Rexxar HP: 0, Mana: 3/10
+  Hand (5)
+  Field: Nat Pagle[0/4], Darkscale Healer[4/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

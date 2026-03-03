@@ -1,0 +1,124 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 0] Opponent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 2, Step 1] Agent: 카드 플레이 - Shooting Star -> Soup Vendor (코스트: 1)
+[Turn 2, Step 2] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 2] Opponent: 카드 플레이 - EVIL Cable Rat (코스트: 2)
+[Turn 2, Step 2] Opponent: 공격 - Soup Vendor[1/3] -> Jaina Proudmoore
+[Turn 2, Step 2] Opponent: 턴 종료
+[Turn 3, Step 3] Agent: 카드 플레이 - Rummaging Kobold (코스트: 3)
+[Turn 3, Step 4] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 5) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 4/4
+  Hand (5): Cosmic Anomaly, Sky Gen'ral Kragg, Stormwind Champion, Rusty Recycler, Scrapyard Colossus
+  Field: Rummaging Kobold[1/3]
+Opponent: Rexxar HP: 30, Mana: 3/3
+  Hand (6)
+  Field: Soup Vendor[1/3], EVIL Cable Rat[1/1]
+[Turn 4, Step 5] Agent: 카드 플레이 - Cosmic Anomaly (코스트: 4)
+[Turn 4, Step 6] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+[Turn 4, Step 7] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 7] Opponent: 카드 플레이 - Gilblin Stalker (코스트: 2)
+[Turn 4, Step 7] Opponent: 턴 종료
+[Turn 5, Step 8] Agent: 카드 플레이 - Sky Gen'ral Kragg (코스트: 4)
+[Turn 5, Step 9] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+
+--- Game State (Turn 5, Step 10) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/5
+  Hand (4): Stormwind Champion, Rusty Recycler, Scrapyard Colossus, Shade of Naxxramas
+  Field: Rummaging Kobold[1/3], Cosmic Anomaly[4/3], Sky Gen'ral Kragg[2/3]
+Opponent: Rexxar HP: 28, Mana: 2/4
+  Hand (6)
+  Field: Soup Vendor[1/3], EVIL Cable Rat[1/1], Gilblin Stalker[2/3]
+[Turn 5, Step 10] Agent: 공격 - Cosmic Anomaly[4/3] -> Rexxar
+[Turn 5, Step 11] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 11] Opponent: 턴 종료
+[Turn 6, Step 12] Agent: 카드 플레이 - Rusty Recycler (코스트: 5)
+[Turn 6, Step 13] Agent: 공격 - Rummaging Kobold[1/3] -> Rexxar
+[Turn 6, Step 14] Agent: 공격 - Cosmic Anomaly[4/3] -> Rexxar
+
+--- Game State (Turn 6, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 1/6
+  Hand (4): Stormwind Champion, Scrapyard Colossus, Shade of Naxxramas, Hungry Dragon
+  Field: Rummaging Kobold[1/3], Cosmic Anomaly[4/3], Sky Gen'ral Kragg[2/3], Rusty Recycler[2/6]
+Opponent: Rexxar HP: 19, Mana: 5/5
+  Hand (7)
+  Field: Soup Vendor[1/3], EVIL Cable Rat[1/1], Gilblin Stalker[2/3]
+[Turn 6, Step 15] Agent: 공격 - Sky Gen'ral Kragg[2/3] -> Rexxar
+[Turn 6, Step 16] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 16] Opponent: 카드 플레이 - Gelbin Mekkatorque (코스트: 6)
+[Turn 6, Step 16] Opponent: 턴 종료
+[Turn 7, Step 17] Agent: 공격 - Rusty Recycler[2/6] -> EVIL Cable Rat
+[Turn 7, Step 18] Agent: 카드 플레이 - Stormwind Champion (코스트: 7)
+[Turn 7, Step 19] Agent: 공격 - Rummaging Kobold[2/4] -> Rexxar
+
+--- Game State (Turn 7, Step 20) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/7
+  Hand (4): Scrapyard Colossus, Shade of Naxxramas, Hungry Dragon, Skydiving Instructor
+  Field: Rummaging Kobold[2/4], Cosmic Anomaly[5/4], Sky Gen'ral Kragg[3/4], Rusty Recycler[3/6], Stormwind Champion[6/6]
+Opponent: Rexxar HP: 15, Mana: 0/6
+  Hand (7)
+  Field: Soup Vendor[1/3], Gilblin Stalker[2/3], Gelbin Mekkatorque[6/6], Poultryizer[0/3]
+[Turn 7, Step 20] Agent: 공격 - Cosmic Anomaly[5/4] -> Rexxar
+[Turn 7, Step 21] Agent: 공격 - Sky Gen'ral Kragg[3/4] -> Rexxar
+[Turn 7, Step 22] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 22] Opponent: 공격 - Soup Vendor[1/3] -> Sky Gen'ral Kragg
+[Turn 7, Step 22] Opponent: 공격 - Gelbin Mekkatorque[6/6] -> Rusty Recycler
+[Turn 7, Step 22] Opponent: 카드 플레이 - Blowgill Sniper -> Stormwind Champion (코스트: 2)
+[Turn 7, Step 22] Opponent: 카드 플레이 - Draconic Lackey (코스트: 1)
+[Turn 7, Step 22] Opponent: 선택 - Evasive Wyrm
+[Turn 7, Step 22] Opponent: 영웅 능력 사용
+[Turn 7, Step 22] Opponent: 카드 플레이 - Jeweled Scarab (코스트: 2)
+[Turn 7, Step 22] Opponent: 선택 - Brainstormer
+[Turn 7, Step 22] Opponent: 공격 - Gilblin Stalker[2/3] -> Sky Gen'ral Kragg
+[Turn 7, Step 22] Opponent: 턴 종료
+[Turn 8, Step 23] Agent: 공격 - Sky Gen'ral Kragg[3/1] -> Draconic Lackey
+[Turn 8, Step 24] Agent: 카드 플레이 - Shade of Naxxramas (코스트: 3)
+
+--- Game State (Turn 8, Step 25) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 5/8
+  Hand (4): Scrapyard Colossus, Hungry Dragon, Skydiving Instructor, Hungry Ettin
+  Field: Chicken[2/2], Cosmic Anomaly[5/4], Stormwind Champion[6/5], Shade of Naxxramas[3/3]
+Opponent: Rexxar HP: 7, Mana: 0/7
+  Hand (7)
+  Field: Gelbin Mekkatorque[6/3], Poultryizer[0/3], Blowgill Sniper[2/1], Jeweled Scarab[1/1]
+[Turn 8, Step 25] Agent: 카드 플레이 - Hungry Dragon (코스트: 4)
+[Turn 8, Step 26] Agent: 공격 - Chicken[2/2] -> Rexxar
+[Turn 8, Step 27] Agent: 공격 - Cosmic Anomaly[5/4] -> Rexxar
+
+--- Game State (Turn 8, Step 28) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/8
+  Hand (3): Scrapyard Colossus, Skydiving Instructor, Hungry Ettin
+  Field: Chicken[2/2], Cosmic Anomaly[5/4], Stormwind Champion[6/5], Shade of Naxxramas[3/3], Hungry Dragon[6/7]
+Opponent: Rexxar HP: 0, Mana: 0/7
+  Hand (7)
+  Field: Gelbin Mekkatorque[6/3], Poultryizer[0/3], Blowgill Sniper[2/1], Jeweled Scarab[1/1], Bloodsail Flybooter[1/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

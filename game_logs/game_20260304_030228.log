@@ -1,0 +1,117 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 2] Agent: 카드 플레이 - Shieldbreaker (코스트: 2)
+[Turn 1, Step 3] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 3] Opponent: 카드 플레이 - Bloodsail Raider (코스트: 2)
+[Turn 1, Step 3] Opponent: 턴 종료
+[Turn 2, Step 4] Agent: 카드 플레이 - Puddlestomper (코스트: 2)
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 0/2
+  Hand (4): Mosh'Ogg Announcer, Greater Arcane Missiles, Violet Spellsword, Disguised Wanderer
+  Field: Shieldbreaker[2/1], Puddlestomper[3/2]
+Opponent: Rexxar HP: 30, Mana: 0/2
+  Hand (4)
+  Field: Bloodsail Raider[2/3]
+[Turn 2, Step 5] Agent: 공격 - Shieldbreaker[2/1] -> Rexxar
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 공격 - Bloodsail Raider[2/3] -> Jaina Proudmoore
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 3, Step 8] Agent: 공격 - Shieldbreaker[2/1] -> Rexxar
+[Turn 3, Step 9] Agent: 공격 - Puddlestomper[3/2] -> Rexxar
+
+--- Game State (Turn 3, Step 10) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 1/3
+  Hand (5): Mosh'Ogg Announcer, Greater Arcane Missiles, Violet Spellsword, Disguised Wanderer, Whizbang the Wonderful
+  Field: Shieldbreaker[2/1], Puddlestomper[3/2]
+Opponent: Rexxar HP: 23, Mana: 1/3
+  Hand (5)
+  Field: Bloodsail Raider[2/3]
+[Turn 3, Step 10] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 10] Opponent: 턴 종료
+[Turn 4, Step 11] Agent: 카드 플레이 - Violet Spellsword (코스트: 4)
+[Turn 4, Step 12] Agent: 공격 - Shieldbreaker[2/1] -> Rexxar
+[Turn 4, Step 13] Agent: 공격 - Puddlestomper[3/2] -> Rexxar
+[Turn 4, Step 14] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 14] Opponent: 공격 - Bloodsail Raider[2/3] -> Violet Spellsword
+[Turn 4, Step 14] Opponent: 카드 플레이 - Rabble Bouncer (코스트: 4)
+[Turn 4, Step 14] Opponent: 턴 종료
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 25, Mana: 5/5
+  Hand (6): The Skeleton Knight, Mosh'Ogg Announcer, Greater Arcane Missiles, Disguised Wanderer, Whizbang the Wonderful, Goblin Blastmage
+  Field: Shieldbreaker[2/1], Puddlestomper[3/2], Violet Spellsword[2/4]
+Opponent: Rexxar HP: 18, Mana: 1/5
+  Hand (6)
+  Field: Bloodsail Raider[2/1], Rabble Bouncer[2/7]
+[Turn 5, Step 15] Agent: 카드 플레이 - Mosh'Ogg Announcer (코스트: 5)
+[Turn 5, Step 16] Agent: 공격 - Shieldbreaker[2/1] -> Rabble Bouncer
+[Turn 5, Step 17] Agent: 공격 - Puddlestomper[3/2] -> Rabble Bouncer
+[Turn 5, Step 18] Agent: 공격 - Violet Spellsword[2/4] -> Rabble Bouncer
+[Turn 5, Step 19] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 19] Opponent: 카드 플레이 - Jungle Panther (코스트: 3)
+[Turn 5, Step 19] Opponent: 공격 - Bloodsail Raider[2/1] -> Violet Spellsword
+[Turn 5, Step 19] Opponent: 영웅 능력 사용
+[Turn 5, Step 19] Opponent: 턴 종료
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 6/6
+  Hand (6): The Skeleton Knight, Greater Arcane Missiles, Disguised Wanderer, Whizbang the Wonderful, Goblin Blastmage, Hench-Clan Sneak
+  Field: Mosh'Ogg Announcer[6/5]
+Opponent: Rexxar HP: 18, Mana: 1/6
+  Hand (6)
+  Field: Jungle Panther[4/2]
+[Turn 6, Step 20] Agent: 카드 플레이 - The Skeleton Knight (코스트: 6)
+[Turn 6, Step 21] Agent: 공격 - Mosh'Ogg Announcer[6/5] -> Rexxar
+[Turn 6, Step 22] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 22] Opponent: 공격 - Jungle Panther[4/2] -> Jaina Proudmoore
+[Turn 6, Step 22] Opponent: 영웅 능력 사용
+[Turn 6, Step 22] Opponent: 카드 플레이 - Frostwolf Warlord (코스트: 5)
+[Turn 6, Step 22] Opponent: 턴 종료
+[Turn 7, Step 23] Agent: 카드 플레이 - Eccentric Scribe (코스트: 6)
+[Turn 7, Step 24] Agent: 공격 - Mosh'Ogg Announcer[6/5] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/7
+  Hand (5): Greater Arcane Missiles, Disguised Wanderer, Whizbang the Wonderful, Goblin Blastmage, Hench-Clan Sneak
+  Field: Mosh'Ogg Announcer[6/5], The Skeleton Knight[7/4], Eccentric Scribe[6/4]
+Opponent: Rexxar HP: 6, Mana: 0/7
+  Hand (6)
+  Field: Jungle Panther[4/2], Frostwolf Warlord[5/5]
+[Turn 7, Step 25] Agent: 공격 - The Skeleton Knight[7/4] -> Rexxar
+
+--- Game State (Turn 7, Step 26) ---
+Agent: Jaina Proudmoore HP: 17, Mana: 1/7
+  Hand (5): Greater Arcane Missiles, Disguised Wanderer, Whizbang the Wonderful, Goblin Blastmage, Hench-Clan Sneak
+  Field: Mosh'Ogg Announcer[6/5], The Skeleton Knight[7/4], Eccentric Scribe[6/4]
+Opponent: Rexxar HP: 0, Mana: 0/7
+  Hand (6)
+  Field: Jungle Panther[4/2], Frostwolf Warlord[5/5]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

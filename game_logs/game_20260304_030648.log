@@ -1,0 +1,172 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+[Turn 1, Step 0] Agent: 카드 플레이 - Hungry Crab (코스트: 1)
+[Turn 1, Step 1] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 1] Opponent: 카드 플레이 - Dwarven Sharpshooter (코스트: 1)
+[Turn 1, Step 1] Opponent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 1] Opponent: 턴 종료
+[Turn 2, Step 2] Agent: 카드 플레이 - Fallen Sun Cleric -> Hungry Crab (코스트: 2)
+[Turn 2, Step 3] Agent: 공격 - Hungry Crab[2/3] -> Rexxar
+[Turn 2, Step 4] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 4] Opponent: 카드 플레이 - Amani Berserker (코스트: 2)
+[Turn 2, Step 4] Opponent: 공격 - Dwarven Sharpshooter[1/3] -> Hungry Crab
+[Turn 2, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 3, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 3/3
+  Hand (4): Power of Creation, Golakka Crawler, Mana Reservoir, Fungalmancer
+  Field: Hungry Crab[2/2], Fallen Sun Cleric[2/1]
+Opponent: Rexxar HP: 28, Mana: 0/2
+  Hand (4)
+  Field: Dwarven Sharpshooter[1/1], Amani Berserker[2/3]
+[Turn 3, Step 5] Agent: 카드 플레이 - Golakka Crawler (코스트: 2)
+[Turn 3, Step 6] Agent: 공격 - Hungry Crab[2/2] -> Rexxar
+[Turn 3, Step 7] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rexxar
+[Turn 3, Step 8] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 8] Opponent: 카드 플레이 - Kindly Grandmother (코스트: 2)
+[Turn 3, Step 8] Opponent: 턴 종료
+[Turn 4, Step 9] Agent: 카드 플레이 - Mana Reservoir (코스트: 2)
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/4
+  Hand (3): Power of Creation, Fungalmancer, Snap Freeze
+  Field: Hungry Crab[2/2], Fallen Sun Cleric[2/1], Golakka Crawler[2/3], Mana Reservoir[0/6]
+Opponent: Rexxar HP: 24, Mana: 1/3
+  Hand (4)
+  Field: Dwarven Sharpshooter[1/1], Amani Berserker[2/3], Kindly Grandmother[1/1]
+[Turn 4, Step 10] Agent: 카드 플레이 - Snap Freeze -> Hungry Crab (코스트: 2)
+[Turn 4, Step 11] Agent: 공격 - Fallen Sun Cleric[2/1] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Golakka Crawler[2/3] -> Rexxar
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 공격 - Dwarven Sharpshooter[1/1] -> Fallen Sun Cleric
+[Turn 4, Step 13] Opponent: 공격 - Kindly Grandmother[1/1] -> Jaina Proudmoore
+[Turn 4, Step 13] Opponent: 카드 플레이 - Stitched Tracker (코스트: 3)
+[Turn 4, Step 13] Opponent: 선택 - Stonesplinter Trogg
+[Turn 4, Step 13] Opponent: 공격 - Amani Berserker[2/3] -> Mana Reservoir
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Fungalmancer (코스트: 5)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 29, Mana: 0/5
+  Hand (2): Power of Creation, Arcane Giant
+  Field: Hungry Crab[2/2], Golakka Crawler[2/3], Mana Reservoir[2/6], Fungalmancer[2/2]
+Opponent: Rexxar HP: 20, Mana: 1/4
+  Hand (5)
+  Field: Amani Berserker[2/3], Kindly Grandmother[1/1], Stitched Tracker[2/2]
+[Turn 5, Step 15] Agent: 공격 - Hungry Crab[2/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Golakka Crawler[2/3] -> Rexxar
+[Turn 5, Step 17] Agent: 공격 - Mana Reservoir[2/6] -> Rexxar
+[Turn 5, Step 18] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 18] Opponent: 카드 플레이 - Desert Spear (코스트: 3)
+[Turn 5, Step 18] Opponent: 공격 - Kindly Grandmother[1/1] -> Hungry Crab
+[Turn 5, Step 18] Opponent: 영웅 능력 사용
+[Turn 5, Step 18] Opponent: 공격 - Amani Berserker[2/3] -> Jaina Proudmoore
+[Turn 5, Step 18] Opponent: 공격 - Stitched Tracker[2/2] -> Hungry Crab
+[Turn 5, Step 18] Opponent: 공격 - Rexxar[1/14] -> Jaina Proudmoore
+[Turn 5, Step 18] Opponent: 공격 - Locust[1/1] -> Fungalmancer
+[Turn 5, Step 18] Opponent: 턴 종료
+[Turn 6, Step 19] Agent: 카드 플레이 - Frostwolf Grunt (코스트: 2)
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 24, Mana: 4/6
+  Hand (2): Power of Creation, Arcane Giant
+  Field: Golakka Crawler[2/3], Mana Reservoir[2/6], Fungalmancer[2/1], Frostwolf Grunt[2/2]
+Opponent: Rexxar HP: 14, Mana: 0/5
+  Hand (5)
+  Field: Amani Berserker[2/3], Big Bad Wolf[3/2]
+[Turn 6, Step 20] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 6, Step 21] Agent: 공격 - Golakka Crawler[2/3] -> Rexxar
+[Turn 6, Step 22] Agent: 공격 - Mana Reservoir[2/6] -> Rexxar
+[Turn 6, Step 23] Agent: 공격 - Fungalmancer[2/1] -> Rexxar
+[Turn 6, Step 24] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 24] Opponent: 공격 - Big Bad Wolf[3/2] -> Frostwolf Grunt
+[Turn 6, Step 24] Opponent: 공격 - Amani Berserker[2/3] -> Mana Reservoir
+[Turn 6, Step 24] Opponent: 공격 - Rexxar[1/8] -> Mana Reservoir
+[Turn 6, Step 24] Opponent: 카드 플레이 - Hemet Nesingwary -> Golakka Crawler (코스트: 5)
+[Turn 6, Step 24] Opponent: 턴 종료
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 23, Mana: 7/7
+  Hand (3): Power of Creation, Arcane Giant, Twilight Geomancer
+  Field: Mana Reservoir[2/3], Fungalmancer[2/1]
+Opponent: Rexxar HP: 6, Mana: 1/6
+  Hand (5)
+  Field: Amani Berserker[5/1], Locust[1/1], Hemet Nesingwary[6/3]
+[Turn 7, Step 25] Agent: 카드 플레이 - Twilight Geomancer (코스트: 2)
+[Turn 7, Step 26] Agent: 영웅 능력 사용 -> Jaina Proudmoore
+[Turn 7, Step 27] Agent: 공격 - Mana Reservoir[2/3] -> Rexxar
+[Turn 7, Step 28] Agent: 공격 - Fungalmancer[2/1] -> Rexxar
+[Turn 7, Step 29] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 29] Opponent: 카드 플레이 - Gnomeregan Infantry (코스트: 3)
+[Turn 7, Step 29] Opponent: 카드 플레이 - Stonesplinter Trogg (코스트: 2)
+[Turn 7, Step 29] Opponent: 영웅 능력 사용
+[Turn 7, Step 29] Opponent: 공격 - Amani Berserker[5/1] -> Twilight Geomancer
+[Turn 7, Step 29] Opponent: 공격 - Locust[1/1] -> Jaina Proudmoore
+[Turn 7, Step 29] Opponent: 공격 - Hemet Nesingwary[6/3] -> Mana Reservoir
+[Turn 7, Step 29] Opponent: 공격 - Gnomeregan Infantry[1/4] -> Fungalmancer
+[Turn 7, Step 29] Opponent: 공격 - Rexxar[1/2] -> Jaina Proudmoore
+[Turn 7, Step 29] Opponent: 턴 종료
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 18, Mana: 8/8
+  Hand (3): Power of Creation, Arcane Giant, Spellweaver
+Opponent: Rexxar HP: 2, Mana: 0/7
+  Hand (4)
+  Field: Locust[1/1], Hemet Nesingwary[6/1], Gnomeregan Infantry[1/2], Stonesplinter Trogg[2/3], Locust[1/1]
+[Turn 8, Step 30] Agent: 카드 플레이 - Power of Creation (코스트: 8)
+[Turn 8, Step 31] Agent: 선택 - Mad Summoner
+[Turn 8, Step 31] Agent: 턴 종료
+
+[Turn 8] === Opponent's Turn ===
+[Turn 8, Step 31] Opponent: 공격 - Gnomeregan Infantry[1/2] -> Mad Summoner
+[Turn 8, Step 31] Opponent: 공격 - Hemet Nesingwary[6/1] -> Jaina Proudmoore
+[Turn 8, Step 31] Opponent: 공격 - Stonesplinter Trogg[3/3] -> Jaina Proudmoore
+[Turn 8, Step 31] Opponent: 공격 - Locust[1/1] -> Mad Summoner
+[Turn 8, Step 31] Opponent: 카드 플레이 - Chromatic Egg (코스트: 5)
+[Turn 8, Step 31] Opponent: 선택 - Book Wyrm
+[Turn 8, Step 31] Opponent: 공격 - Locust[1/1] -> Mad Summoner
+[Turn 8, Step 31] Opponent: 영웅 능력 사용
+[Turn 8, Step 31] Opponent: 턴 종료
+[Turn 9, Step 32] Agent: 카드 플레이 - Spellweaver (코스트: 6)
+[Turn 9, Step 33] Agent: 카드 플레이 - Soup Vendor (코스트: 2)
+[Turn 9, Step 34] Agent: 공격 - Mad Summoner[4/1] -> Rexxar
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 1/9
+  Hand (1): Arcane Giant
+  Field: Mad Summoner[4/1], Mad Summoner[4/4], Spellweaver[4/4], Soup Vendor[1/4]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (4)
+  Field: Hemet Nesingwary[6/1], Stonesplinter Trogg[3/3], Chromatic Egg[0/3]
+
+--- Game State (Turn 9, Step 35) ---
+Agent: Jaina Proudmoore HP: 7, Mana: 1/9
+  Hand (1): Arcane Giant
+  Field: Mad Summoner[4/1], Mad Summoner[4/4], Spellweaver[4/4], Soup Vendor[1/4]
+Opponent: Rexxar HP: 0, Mana: 1/8
+  Hand (4)
+  Field: Hemet Nesingwary[6/1], Stonesplinter Trogg[3/3], Chromatic Egg[0/3]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+

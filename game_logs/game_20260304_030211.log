@@ -1,0 +1,127 @@
+============================================================
+NEW GAME STARTED
+Agent: HERO_08 vs Opponent: HERO_05
+Action Masking: OFF
+Masking Expected: OFF
+============================================================
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 0] Opponent: 턴 종료
+[Turn 1, Step 1] Agent: 카드 플레이 - Babbling Book (코스트: 1)
+[Turn 1, Step 2] Agent: 카드 플레이 - The Coin (코스트: 0)
+[Turn 1, Step 3] Agent: 카드 플레이 - Dark Pact -> Babbling Book (코스트: 1)
+[Turn 1, Step 4] Agent: 턴 종료
+
+[Turn 1] === Opponent's Turn ===
+[Turn 1, Step 4] Opponent: 턴 종료
+
+--- Game State (Turn 2, Step 5) ---
+Agent: Jaina Proudmoore HP: 30, Mana: 2/2
+  Hand (5): Toki, Time-Tinker, Happy Ghoul, Spellbook Binder, Twilight Guardian, Cult Master
+Opponent: Rexxar HP: 30, Mana: 2/2
+  Hand (5)
+[Turn 2, Step 5] Agent: 카드 플레이 - Spellbook Binder (코스트: 2)
+[Turn 2, Step 6] Agent: 턴 종료
+
+[Turn 2] === Opponent's Turn ===
+[Turn 2, Step 6] Opponent: 영웅 능력 사용
+[Turn 2, Step 6] Opponent: 턴 종료
+[Turn 3, Step 7] Agent: 카드 플레이 - Happy Ghoul (코스트: 3)
+[Turn 3, Step 8] Agent: 공격 - Spellbook Binder[3/2] -> Rexxar
+[Turn 3, Step 9] Agent: 턴 종료
+
+[Turn 3] === Opponent's Turn ===
+[Turn 3, Step 9] Opponent: 카드 플레이 - Bear Trap (코스트: 2)
+[Turn 3, Step 9] Opponent: 카드 플레이 - Cybertech Chip (코스트: 2)
+[Turn 3, Step 9] Opponent: 턴 종료
+
+--- Game State (Turn 4, Step 10) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 4/4
+  Hand (5): Mindbreaker, Toki, Time-Tinker, Twilight Guardian, Cult Master, Nerubian Egg
+  Field: Spellbook Binder[3/2], Happy Ghoul[3/3]
+Opponent: Rexxar HP: 27, Mana: 0/4
+  Hand (5)
+[Turn 4, Step 10] Agent: 카드 플레이 - Mindbreaker (코스트: 3)
+[Turn 4, Step 11] Agent: 공격 - Spellbook Binder[3/2] -> Rexxar
+[Turn 4, Step 12] Agent: 공격 - Happy Ghoul[3/3] -> Ironfur Grizzly
+[Turn 4, Step 13] Agent: 턴 종료
+
+[Turn 4] === Opponent's Turn ===
+[Turn 4, Step 13] Opponent: 카드 플레이 - Brann Bronzebeard (코스트: 3)
+[Turn 4, Step 13] Opponent: 카드 플레이 - Explosive Trap (코스트: 2)
+[Turn 4, Step 13] Opponent: 턴 종료
+[Turn 5, Step 14] Agent: 카드 플레이 - Twilight Guardian (코스트: 4)
+
+--- Game State (Turn 5, Step 15) ---
+Agent: Jaina Proudmoore HP: 28, Mana: 1/5
+  Hand (4): Toki, Time-Tinker, Cult Master, Nerubian Egg, Ice Barrier
+  Field: Spellbook Binder[3/2], Mindbreaker[2/5], Twilight Guardian[2/6]
+Opponent: Rexxar HP: 24, Mana: 0/5
+  Hand (4)
+  Field: Brann Bronzebeard[2/4]
+[Turn 5, Step 15] Agent: 공격 - Spellbook Binder[3/2] -> Rexxar
+[Turn 5, Step 16] Agent: 공격 - Mindbreaker[2/3] -> Rexxar
+[Turn 5, Step 17] Agent: 턴 종료
+
+[Turn 5] === Opponent's Turn ===
+[Turn 5, Step 17] Opponent: 턴 종료
+[Turn 6, Step 18] Agent: 카드 플레이 - Darkspeaker -> Mindbreaker (코스트: 5)
+[Turn 6, Step 19] Agent: 공격 - Mindbreaker[3/6] -> Rexxar
+
+--- Game State (Turn 6, Step 20) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/6
+  Hand (4): Toki, Time-Tinker, Cult Master, Nerubian Egg, Ice Barrier
+  Field: Mindbreaker[3/6], Twilight Guardian[2/4], Darkspeaker[2/3]
+Opponent: Rexxar HP: 19, Mana: 6/6
+  Hand (5)
+  Field: Brann Bronzebeard[2/4]
+[Turn 6, Step 20] Agent: 공격 - Twilight Guardian[2/4] -> Rexxar
+[Turn 6, Step 21] Agent: 턴 종료
+
+[Turn 6] === Opponent's Turn ===
+[Turn 6, Step 21] Opponent: 카드 플레이 - Wolfrider (코스트: 3)
+[Turn 6, Step 21] Opponent: 턴 종료
+[Turn 7, Step 22] Agent: 카드 플레이 - Toki, Time-Tinker (코스트: 6)
+[Turn 7, Step 23] Agent: 공격 - Mindbreaker[3/6] -> Rexxar
+[Turn 7, Step 24] Agent: 공격 - Twilight Guardian[2/4] -> Rexxar
+
+--- Game State (Turn 7, Step 25) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 1/7
+  Hand (5): Cult Master, Nerubian Egg, Ice Barrier, Wrapped Golem, Malkorok
+  Field: Mindbreaker[3/6], Twilight Guardian[2/4], Darkspeaker[2/3], Toki, Time-Tinker[5/5]
+Opponent: Rexxar HP: 12, Mana: 4/7
+  Hand (5)
+  Field: Brann Bronzebeard[2/4], Wolfrider[3/1]
+[Turn 7, Step 25] Agent: 공격 - Darkspeaker[2/3] -> Rexxar
+[Turn 7, Step 26] Agent: 턴 종료
+
+[Turn 7] === Opponent's Turn ===
+[Turn 7, Step 26] Opponent: 턴 종료
+[Turn 8, Step 27] Agent: 카드 플레이 - Cult Master (코스트: 4)
+[Turn 8, Step 28] Agent: 카드 플레이 - Nerubian Egg (코스트: 2)
+[Turn 8, Step 29] Agent: 공격 - Mindbreaker[3/6] -> Rexxar
+
+--- Game State (Turn 8, Step 30) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/8
+  Hand (4): Ice Barrier, Wrapped Golem, Malkorok, Fjola Lightbane
+  Field: Mindbreaker[3/6], Twilight Guardian[2/4], Darkspeaker[2/3], Toki, Time-Tinker[5/5], Cult Master[4/2], Nerubian Egg[0/2]
+Opponent: Rexxar HP: 7, Mana: 8/8
+  Hand (6)
+  Field: Brann Bronzebeard[2/4], Wolfrider[3/1]
+[Turn 8, Step 30] Agent: 공격 - Twilight Guardian[2/4] -> Rexxar
+[Turn 8, Step 31] Agent: 공격 - Darkspeaker[2/3] -> Rexxar
+[Turn 8, Step 32] Agent: 공격 - Toki, Time-Tinker[5/5] -> Rexxar
+
+--- Game State (Turn 8, Step 33) ---
+Agent: Jaina Proudmoore HP: 26, Mana: 2/8
+  Hand (4): Ice Barrier, Wrapped Golem, Malkorok, Fjola Lightbane
+  Field: Mindbreaker[3/6], Twilight Guardian[2/4], Darkspeaker[2/3], Toki, Time-Tinker[5/5], Cult Master[4/2], Nerubian Egg[0/2]
+Opponent: Rexxar HP: 0, Mana: 8/8
+  Hand (6)
+  Field: Brann Bronzebeard[2/4], Wolfrider[3/1]
+
+============================================================
+게임 종료 - Terminated: True, Truncated: False
+승자: Agent
+============================================================
+
